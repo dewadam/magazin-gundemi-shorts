@@ -50,6 +50,7 @@ jobs:
         run: python src/news_verifier.py
 
       - name: Commit collected news
+        if: github.event_name != 'push'
         run: |
           if [ -f data/news_latest.json ]; then
             git config user.name "github-actions[bot]"
