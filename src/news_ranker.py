@@ -63,6 +63,36 @@ def compare(a,b):
  matched=score>=0.72 or (score>=0.58 and context>=0.35)
  return matched,round(score,3),'strong_match' if matched else 'ambiguous'
 
+def source_articles(item: dict) -> list[dict]:
+    """Return unique direct-publisher references; discovery feeds never count as votes."""
+    articles = []
+    if role(item) != "discovery_only":
+        articles.append({
+            "source": item.get("source", "Bilinmeyen kaynak"),
+            "source_domain": publisher(item),
+            "title": item.get("title", ""),
+            "url": item.get("url", ""),
+            "published_at": item.get("published_at"),
+        })
+    for other in item.get("also_reported_by", []) or []:
+        if (other.get("source_role") or "publisher") == "discovery_only":
+            continue
+        domain = str(other.get("source_domain") or publisher(other)).lower().removeprefix("www.")
+        articles.append({
+            "source": other.get("source", "Bilinmeyen kaynak"),
+            "source_domain": domain,
+            "title": other.get("title", item.get("title", "")),
+            "url": other.get("url", ""),
+            "published_at": other.get("published_at"),
+        })
+    unique = {}
+    for article in articles:
+        key = article["source_domain"] or article["source"]
+        if key and key not in unique:
+            unique[key] = article
+    return list(unique.values())
+
+
 def observations(items):
  result=[]
  for item in items:
