@@ -143,6 +143,37 @@ def score(item: dict) -> tuple[float, list[str]]:
     return points, reasons
 
 
+def publisher_domain(item: dict) -> str:
+    from urllib.parse import urlparse
+    domain = str(item.get("source_domain") or urlparse(str(item.get("url", ""))).netloc).lower()
+    return domain.removeprefix("www.").strip()
+
+
+def source_articles(item: dict) -> list[dict]:
+    articles = [{
+        "source": item.get("source", "Bilinmeyen kaynak"),
+        "source_domain": publisher_domain(item),
+        "title": item.get("title", ""),
+        "url": item.get("url", ""),
+        "published_at": item.get("published_at"),
+    }]
+    for other in item.get("also_reported_by", []) or []:
+        domain = str(other.get("source_domain") or publisher_domain(other))
+        articles.append({
+            "source": other.get("source", "Bilinmeyen kaynak"),
+            "source_domain": domain,
+            "title": other.get("title") or item.get("title", ""),
+            "url": other.get("url", ""),
+            "published_at": other.get("published_at"),
+        })
+    unique = {}
+    for article in articles:
+        key = article["source_domain"] or article["source"]
+        if key not in unique:
+            unique[key] = article
+    return list(unique.values())
+
+
 def main() -> int:
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
     if not INPUT_PATH.exists():
@@ -155,50 +186,105 @@ def main() -> int:
         LOG.error("news_latest.json içindeki items alanı liste değil.")
         return 2
 
+    # Group observations by event before selecting stories. Publisher coverage is
+    # the primary ranking signal; editorial score breaks ties.
     ranked = []
     for item in items:
         points, reasons = score(item)
         candidate = dict(item)
-        candidate["ranking_score"] = round(points, 2)
+        candidate["editorial_score"] = round(points, 2)
         candidate["ranking_reasons"] = reasons
-        candidate["status"] = "selected_not_verified"
+        candidate["source_articles"] = source_articles(item)
+        candidate["publisher_count"] = len({
+            article["source_domain"] or article["source"]
+            for article in candidate["source_articles"]
+        })
         ranked.append(candidate)
-    ranked.sort(key=lambda x: x["ranking_score"], reverse=True)
 
-    selected = []
-    rejected_duplicates = []
-    for candidate in ranked:
-        if candidate["ranking_score"] < 1:
-            continue
-        duplicate_of = next((chosen for chosen in selected if duplicate_event(candidate, chosen)), None)
-        if duplicate_of:
-            rejected_duplicates.append({
-                "title": candidate.get("title"),
-                "url": candidate.get("url"),
-                "duplicate_of": duplicate_of.get("title"),
-                "reason": "Başlık ve özet bağlamı benzer; otomatik olay eşleştirmesi, manuel kontrol gerekebilir"
-            })
-            continue
-        selected.append(candidate)
-        if len(selected) >= 3:
-            break
+    clusters: list[dict] = []
+    for candidate in sorted(ranked, key=lambda x: (x["publisher_count"], x["editorial_score"]), reverse=True):
+        match = next((cluster for cluster in clusters
+                      if any(duplicate_event(candidate, member) for member in cluster["members"])), None)
+        if match is None:
+            clusters.append({"members": [candidate]})
+        else:
+            match["members"].append(candidate)
+
+    event_groups = []
+    for cluster in clusters:
+        members = cluster["members"]
+        representative = max(members, key=lambda x: (
+            x["publisher_count"], x["editorial_score"], bool(x.get("image_url"))
+        ))
+        all_articles = []
+        seen_domains, seen_urls = set(), set()
+        for member in members:
+            for article in member["source_articles"]:
+                domain, url = article.get("source_domain") or article.get("source"), article.get("url")
+                if domain in seen_domains or (url and url in seen_urls):
+                    continue
+                seen_domains.add(domain)
+                if url:
+                    seen_urls.add(url)
+                all_articles.append(article)
+        publisher_domains = sorted({
+            article.get("source_domain") or article.get("source") for article in all_articles
+        })
+        count = len(publisher_domains)
+        event_groups.append({
+            **representative,
+            "source_articles": all_articles,
+            "publisher_domains": publisher_domains,
+            "publisher_count": count,
+            "coverage_label": ("çok kaynaklı ortak gündem" if count >= 3
+                               else "iki yayın kuruluşunda yer alıyor" if count == 2
+                               else "tek kaynaklı; ortak gündem olarak teyit edilmedi"),
+            "event_member_count": len(members),
+            "event_rank_score": round(count * 5 + representative["editorial_score"], 2),
+            "status": "selected_not_verified",
+        })
+
+    event_groups.sort(key=lambda x: (
+        x["publisher_count"], x["event_rank_score"], x["editorial_score"]
+    ), reverse=True)
+    multi_source = [g for g in event_groups if g["publisher_count"] >= 2]
+    single_source = [g for g in event_groups if g["publisher_count"] == 1]
+    selected = (multi_source + single_source)[:3]
+    for item in selected:
+        item["selection_basis"] = (
+            "independent_publisher_coverage_then_editorial_score"
+            if item["publisher_count"] >= 2 else "single_source_fallback_needs_manual_review"
+        )
 
     output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "selection_count": len(selected),
         "target_count": 3,
-        "note": "Sıralama başlık ve özet bağlamını kullanır; benzerlik kontrolü aynı olayın farklı başlıklarla tekrar seçilmesini azaltmayı amaçlar. Bu puanlama haber doğruluğu veya yayın onayı değildir; kişi/olay bağlamı ve görsel hakları ayrıca kontrol edilmelidir.",
+        "candidate_count": len(items),
+        "event_group_count": len(event_groups),
+        "multi_publisher_event_count": len(multi_source),
+        "note": (
+            "Haberler olay düzeyinde gruplanır ve öncelikle farklı yayın kuruluşu alan adlarının "
+            "sayısına göre sıralanır. Aynı yayın kuruluşunun birden fazla URL'si tek kaynak sayılır. "
+            "Kaynak sayısı ortak gündem göstergesidir, doğruluk kanıtı değildir; içerik, bağlam ve "
+            "görsel hakları ayrıca kontrol edilmelidir. Tek kaynaklı haberler yalnızca yeterli "
+            "çok kaynaklı olay yoksa yedek olarak seçilir."
+        ),
         "items": selected,
-        "possible_duplicates_skipped": rejected_duplicates,
+        "event_groups_preview": event_groups[:20],
     }
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"Ham tekil aday: {len(items)} | Olay grubu: {len(event_groups)} | Çok kaynaklı olay: {len(multi_source)}")
     print(f"Seçilen haber: {len(selected)}/3")
     for i, item in enumerate(selected, 1):
-        print(f"{i}. [{item['ranking_score']}] {item.get('title', '(başlıksız)')}")
+        sources = ", ".join(a.get("source", "?") for a in item["source_articles"])
+        print(f"{i}. [{item['publisher_count']} yayın kuruluşu | puan {item['event_rank_score']}] {item.get('title', '(başlıksız)')}")
+        print(f"   Kaynaklar: {sources}")
+        print(f"   Kapsama: {item['coverage_label']}")
     print(f"Çıktı: {OUTPUT_PATH.relative_to(ROOT)}")
-    if len(selected) < 3:
-        print("UYARI: Yeterli puan alan 3 farklı haber bulunamadı; zayıf haberlerle sayı tamamlanmadı.")
+    if len(multi_source) < 3:
+        print("UYARI: Üç çok kaynaklı olay bulunamadı; seçilen tek kaynaklı haberler manuel inceleme gerektirir.")
     return 0
 
 
