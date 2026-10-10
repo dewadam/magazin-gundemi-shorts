@@ -28,7 +28,7 @@ class MetadataParser(HTMLParser):
         if tag.lower() == "title":
             self.in_title = True
         if tag.lower() == "meta":
-            key = (attrs_dict.get("property") or attrs_dict.get("name")).lower()
+            key = (attrs_dict.get("property") or attrs_dict.get("name") or "").lower()
             value = attrs_dict.get("content", "")
             if key and value:
                 self.meta[key] = value
