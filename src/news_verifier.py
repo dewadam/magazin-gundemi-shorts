@@ -48,13 +48,13 @@ def collect_other_source_headlines(selected_items: list[dict]) -> dict[str, list
         try:
             feed = feedparser.parse(source["url"], request_headers={"User-Agent": "MagazinGundemiShorts/0.1"})
             for entry in getattr(feed, "entries", [])[:80]:
-                other_title = re.sub(r"\\s+", " ", re.sub(r"<[^>]+>", " ", str(getattr(entry, "title", "")))).strip()
+                other_title = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", str(getattr(entry, "title", "")))).strip()
                 other_url = str(getattr(entry, "link", ""))
-                domain = re.sub(r"^www\\.", "", __import__("urllib.parse", fromlist=["urlparse"]).urlparse(other_url).netloc.lower())
+                domain = re.sub(r"^www\.", "", __import__("urllib.parse", fromlist=["urlparse"]).urlparse(other_url).netloc.lower())
                 if not other_title or not other_url:
                     continue
                 for item in selected_items:
-                    original_domain = re.sub(r"^www\\.", "", str(item.get("source_domain", "")).lower())
+                    original_domain = re.sub(r"^www\.", "", str(item.get("source_domain", "")).lower())
                     if domain == original_domain:
                         continue
                     sim = title_similarity(str(item.get("title", "")), other_title)
