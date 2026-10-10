@@ -87,6 +87,10 @@ def collect_other_source_headlines(selected_items: list[dict]) -> dict[str, list
     for source in config.get("sources", []):
         if not source.get("enabled"):
             continue
+        # Aggregator/search feeds are useful for discovery, but not independent corroboration.
+        if source.get("role") == "discovery_only":
+            LOG.info("Doğrulama eşleştirmesinde atlandı (keşif kaynağı): %s", source.get("name", source.get("url", "")))
+            continue
         try:
             feed = feedparser.parse(source["url"], request_headers={"User-Agent": "MagazinGundemiShorts/0.1"})
             entries = getattr(feed, "entries", [])
