@@ -1,308 +1,138 @@
 from __future__ import annotations
-
-import json
-import logging
-import re
-import sys
-import unicodedata
+import json, re, sys, unicodedata
 from datetime import datetime, timezone
 from difflib import SequenceMatcher
 from pathlib import Path
-
-from event_matcher import group_events
+from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
-INPUT_PATH = ROOT / "data" / "news_latest.json"
-OUTPUT_PATH = ROOT / "data" / "selected_news.json"
-LOG = logging.getLogger("news_ranker")
-
-STOPWORDS = {
-    "ve", "ile", "icin", "için", "bir", "bu", "su", "şu", "o", "da", "de",
-    "mi", "mu", "mı", "mü", "son", "sonra", "aciklama", "açıklama", "resmen",
-    "iste", "işte", "yeni", "gundem", "gündem", "magazin", "oldu", "etti",
-    "ediyor", "konustu", "konuştu", "paylasti", "paylaştı", "geldi", "yapti",
-    "yaptı", "kim", "ne", "var", "yok", "ilk", "kez", "iddia", "iddiasi",
-}
-VAGUE_HEADLINES = {
-    "askini paylasti", "aşkını paylaştı", "ve resmen bitti", "sessizligini bozdu",
-    "sessizliğini bozdu", "sular durulmuyor", "gundem oldu", "gündem oldu",
-    "olay oldu", "sok sozler", "şok sözler", "iste o anlar", "işte o anlar",
-}
-IMPORTANT_TERMS = {
-    "vefat", "oldu", "hayatını kaybetti", "hayatini kaybetti", "evlendi",
-    "bosandi", "boşandı", "ayrildi", "ayrıldı", "elendi", "final", "itiraf",
-    "mahkeme", "gozaltina", "gözaltına", "duyurdu", "acikladi", "açıkladı",
-    "survivor", "masterchef", "kizilcik serbeti", "kızılcık şerbeti",
+STOP = set('ve veya ile icin bir bu su da de mi ne kim nasil iste son sonra once yeni ilk kez magazin gundem oldu olan etti dedi haber haberi izle full hd ekrani linki video foto fotograf resmen sok dizi oyuncu unlu'.split())
+PROGRAMS = {'masterchef', 'survivor'}
+ACTION_GROUPS = {
+ 'wedding': {'evlendi','nikah','dugun'}, 'divorce': {'bosandi','ayrildi'},
+ 'death': {'vefat','olum','hayatini','kaybetti'},
+ 'arrest': {'gozaltina','tutuklandi'},
+ 'elimination': {'elendi','eleme','adayi','potaya'},
+ 'immunity': {'dokunulmazlik'}, 'winner': {'kazandi','sampiyon'},
+ 'trailer': {'fragman','fragmani'}, 'birth': {'dogum','bebek','hamile'},
 }
 
+def norm(s):
+ s = str(s or '').replace('ı','i').replace('İ','i')
+ s = unicodedata.normalize('NFKD',s.casefold())
+ return re.sub(r'\s+',' ',re.sub('[^a-z0-9]+',' ',''.join(x for x in s if not unicodedata.combining(x)))).strip()
 
-def plain(text: str) -> str:
-    text = unicodedata.normalize("NFKD", (text or "").casefold())
-    text = "".join(ch for ch in text if not unicodedata.combining(ch))
-    text = re.sub(r"[^a-z0-9]+", " ", text)
-    return re.sub(r"\s+", " ", text).strip()
+def tok(s): return {x for x in norm(s).split() if len(x)>2 and x not in STOP}
+def title_tokens(i): return tok(i.get('title',''))
+def action(i):
+ w=set(norm(i.get('title','')).split())
+ return {k for k,v in ACTION_GROUPS.items() if w & v}
+def episode(i): return set(re.findall(r'\b(\d{1,4})\s+bolum\b',norm(i.get('title',''))))
+def publisher(i):
+ return str(i.get('source_domain') or urlparse(str(i.get('url',''))).netloc).lower().removeprefix('www.')
+def role(i):
+ s=str(i.get('source','')).lower()
+ return i.get('source_role') or ('discovery_only' if 'google news' in s or 'keşif' in s or 'kesif' in s else 'publisher')
+def date(i):
+ try: return datetime.fromisoformat(str(i.get('published_at')).replace('Z','+00:00'))
+ except (TypeError,ValueError): return None
 
+def compare(a,b):
+ if a.get('url') and a.get('url')==b.get('url'): return (True,1.0,'same_url')
+ ea,eb=episode(a),episode(b)
+ if ea and eb and ea.isdisjoint(eb): return (False,0.0,'different_episode')
+ da,db=date(a),date(b)
+ if da and db:
+  try:
+   if abs((da-db).total_seconds())>72*3600: return (False,0.0,'different_date')
+  except TypeError: pass
+ aa,ab=action(a),action(b)
+ if aa and ab and aa.isdisjoint(ab): return (False,0.0,'different_action')
+ ta,tb=title_tokens(a),title_tokens(b)
+ common=ta & tb
+ if len(common)<2: return (False,0.0,'too_few_shared_title_terms')
+ # A shared show name alone must never establish an event.
+ distinctive=common-PROGRAMS
+ if len(distinctive)<2: return (False,0.0,'shared_topic_only')
+ j=len(common)/len(ta|tb)
+ containment=len(common)/min(len(ta),len(tb))
+ sequence=SequenceMatcher(None,norm(a.get('title')),norm(b.get('title'))).ratio()
+ sa,sb=tok(a.get('summary','')),tok(b.get('summary',''))
+ context=len(sa & sb)/max(1,min(len(sa),len(sb)))
+ score=max(j,0.8*containment,0.9*sequence)
+ matched=score>=0.72 or (score>=0.58 and context>=0.35)
+ return matched,round(score,3),'strong_match' if matched else 'ambiguous'
 
-def tokens(item: dict) -> set[str]:
-    # Başlıkların farklı olması aynı olayı iki ayrı Shorts olarak seçmemize yol açmasın.
-    text = plain(str(item.get("title", "")) + " " + str(item.get("summary", "")))
-    return {t for t in text.split() if len(t) > 2 and t not in STOPWORDS}
+def observations(items):
+ result=[]
+ for item in items:
+  result.append(item)
+  for other in item.get('also_reported_by',[]) or []:
+   result.append({**item,**other,'summary':other.get('summary',item.get('summary','')),'source_role':other.get('source_role','publisher')})
+ return result
 
+def group_events(items):
+ candidates=observations(items)
+ # Prefer direct publishers; keep discovery feeds available only for event discovery.
+ candidates.sort(key=lambda i:(role(i)!='discovery_only',len(tok(i.get('title',''))),len(tok(i.get('summary','')))),reverse=True)
+ groups=[]
+ for item in candidates:
+  match=None
+  for group in groups:
+   # Match to representative only to prevent chain-merging different events.
+   ok,_,_=compare(item,group[0])
+   if ok:
+    match=group;break
+  if match is None: groups.append([item])
+  else: match.append(item)
+ return groups
 
-def vague_title(title: str) -> bool:
-    normalized = plain(title)
-    return any(plain(vague) == normalized for vague in VAGUE_HEADLINES) or len(normalized.split()) < 3
+def rank(items):
+ groups=group_events(items)
+ output=[]
+ for members in groups:
+  publisher_items=[i for i in members if role(i)!='discovery_only' and publisher(i)]
+  domains=sorted({publisher(i) for i in publisher_items})
+  if not domains: continue
+  representative=max(publisher_items,key=lambda i:(len(tok(i.get('title',''))),len(tok(i.get('summary','')))))
+  sources=[]; seen=set()
+  for item in publisher_items:
+   domain=publisher(item)
+   if domain in seen: continue
+   seen.add(domain)
+   sources.append({'source':item.get('source'), 'source_domain':domain,'url':item.get('url'),'title':item.get('title')})
+  # Exact same titles across publishers can be syndicated wire copy, not independent confirmation.
+  title_norms=[norm(i.get('title')) for i in publisher_items]
+  possible_syndication=len(domains)>=2 and len(set(title_norms))==1
+  output.append({**representative,'source_articles':sources,'publisher_domains':domains,
+   'publisher_count':len(domains),'event_member_count':len(members),
+   'discovery_item_count':sum(role(i)=='discovery_only' for i in members),
+   'possible_syndication':possible_syndication,
+   'verification_status':'manual_review_required', 'publication_approved':False,
+   'coverage_label': 'multi_publisher' if len(domains)>1 else 'single_publisher'})
+ output.sort(key=lambda x:(x['publisher_count'],not x['possible_syndication'],len(tok(x.get('title','')))),reverse=True)
+ return output
 
+def main():
+ path=ROOT/'data/news_latest.json'
+ if not path.exists(): print(f'Girdi bulunamadı: {path}',file=sys.stderr);return 2
+ payload=json.loads(path.read_text(encoding='utf-8'))
+ ranked=rank(payload.get('items',[]))
+ multi=[x for x in ranked if x['publisher_count']>=2 and not x['possible_syndication']]
+ selected=multi[:3]
+ output={'generated_at':datetime.now(timezone.utc).isoformat(),
+  'candidate_count':len(payload.get('items',[])), 'event_group_count':len(ranked),
+  'multi_publisher_event_count':len(multi),'selection_count':len(selected),
+  'target_count':3,'note':'Publisher coverage is a popularity signal, not factual verification. Exact headline matches across outlets are flagged as possible syndication and excluded from automatic top-three selection pending review.',
+  'items':selected,'event_groups_preview':ranked[:30]}
+ target=ROOT/'data/selected_news.json';target.parent.mkdir(parents=True,exist_ok=True)
+ target.write_text(json.dumps(output,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+ print(f'Ham aday: {output["candidate_count"]} | Olay grubu: {len(ranked)} | Çok yayın kuruluşlu olay (sendikasyon hariç): {len(multi)}')
+ for idx,item in enumerate(selected,1):
+  print(f'{idx}. [{item["publisher_count"]} yayın kuruluşu] {item["title"]}')
+  print('   Kaynaklar: '+', '.join(s['source'] or s['source_domain'] for s in item['source_articles']))
+  print('   Manuel kontrol: içerik ve kaynak bağımsızlığı henüz doğrulanmadı.')
+ if len(selected)<3: print('UYARI: Üç çok kaynaklı ve olası sendikasyon dışı olay bulunamadı; kota zorlanmadı.')
+ return 0
 
-def similarity(a: dict, b: dict) -> float:
-    ta, tb = tokens(a), tokens(b)
-    if not ta or not tb:
-        return 0.0
-    shared = ta & tb
-    jaccard = len(shared) / len(ta | tb)
-    containment = len(shared) / min(len(ta), len(tb))
-    title_seq = SequenceMatcher(
-        None, plain(a.get("title", "")), plain(b.get("title", ""))
-    ).ratio()
-    # A high shared-context score can reveal one event reported with different headlines.
-    return max(jaccard, containment * 0.65, title_seq * 0.85)
-
-
-def duplicate_event(a: dict, b: dict) -> bool:
-    """Conservative event-level dedupe for differently worded headlines."""
-    if similarity(a, b) >= 0.50:
-        return True
-
-    ta, tb = tokens(a), tokens(b)
-    shared = ta & tb
-    # Same show/franchise, same calendar day, and overlapping event vocabulary.
-    franchise_terms = {"masterchef", "survivor", "kizilcik", "serbeti"}
-    event_terms = {"eleme", "adayi", "potaya", "dokunulmazligi", "kazandi"}
-    title_a = plain(a.get("title", ""))
-    title_b = plain(b.get("title", ""))
-    same_franchise = bool((ta & tb) & franchise_terms)
-    same_event_vocabulary = len(shared & event_terms) >= 2 or (
-        "masterchef" in shared and len(shared & {"eleme", "adayi", "potaya", "dokunulmazligi"}) >= 1
-    )
-    date_a = parse_date(a.get("published_at"))
-    date_b = parse_date(b.get("published_at"))
-    same_day = bool(date_a and date_b and date_a.date() == date_b.date())
-    return same_franchise and same_event_vocabulary and same_day
-
-
-def parse_date(value: str | None) -> datetime | None:
-    if not value:
-        return None
-    try:
-        dt = datetime.fromisoformat(value.replace("Z", "+00:00"))
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
-        return dt.astimezone(timezone.utc)
-    except (ValueError, TypeError):
-        return None
-
-
-def score(item: dict) -> tuple[float, list[str]]:
-    title = item.get("title", "")
-    body = item.get("summary", "")
-    haystack = plain(title + " " + body)
-    points = 0.0
-    reasons = []
-
-    if not vague_title(title):
-        points += 3
-        reasons.append("anlaşılır başlık")
-    else:
-        points -= 5
-        reasons.append("belirsiz başlık")
-
-    if len(plain(body).split()) >= 18:
-        points += 2
-        reasons.append("yeterli özet")
-    elif len(plain(body).split()) < 6:
-        points -= 2
-        reasons.append("zayıf özet")
-
-    matched = [term for term in IMPORTANT_TERMS if plain(term) in haystack]
-    if matched:
-        points += min(3, 1 + 0.5 * len(matched))
-        reasons.append("haber değeri taşıyan konu")
-
-    published = parse_date(item.get("published_at"))
-    if published:
-        age_hours = max(0.0, (datetime.now(timezone.utc) - published).total_seconds() / 3600)
-        points += max(0.0, 4.0 * (1 - age_hours / 48))
-        reasons.append("güncellik")
-    else:
-        points -= 1
-        reasons.append("yayın tarihi yok")
-
-    if item.get("image_url"):
-        points += 0.5
-        reasons.append("görsel adayı mevcut")
-
-    # This is a heuristic ranking, not verification of the story.
-    return points, reasons
-
-
-def publisher_domain(item: dict) -> str:
-    from urllib.parse import urlparse
-    domain = str(item.get("source_domain") or urlparse(str(item.get("url", ""))).netloc).lower()
-    return domain.removeprefix("www.").strip()
-
-
-def source_articles(item: dict) -> list[dict]:
-    # Google News/search feeds discover stories but are not publisher votes.
-    if item.get("source_role") == "discovery_only":
-        articles = []
-    else:
-        articles = [{
-            "source": item.get("source", "Bilinmeyen kaynak"),
-            "source_domain": publisher_domain(item),
-            "title": item.get("title", ""),
-            "url": item.get("url", ""),
-            "published_at": item.get("published_at"),
-        }]
-    for other in item.get("also_reported_by", []) or []:
-        if other.get("source_role") == "discovery_only":
-            continue
-        domain = str(other.get("source_domain") or publisher_domain(other))
-        articles.append({
-            "source": other.get("source", "Bilinmeyen kaynak"),
-            "source_domain": domain,
-            "title": other.get("title") or item.get("title", ""),
-            "url": other.get("url", ""),
-            "published_at": other.get("published_at"),
-        })
-    unique = {}
-    for article in articles:
-        key = article["source_domain"] or article["source"]
-        if key not in unique:
-            unique[key] = article
-    return list(unique.values())
-
-
-def main() -> int:
-    logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
-    if not INPUT_PATH.exists():
-        LOG.error("Girdi bulunamadı: %s", INPUT_PATH)
-        return 2
-
-    payload = json.loads(INPUT_PATH.read_text(encoding="utf-8"))
-    items = payload.get("items", [])
-    if not isinstance(items, list):
-        LOG.error("news_latest.json içindeki items alanı liste değil.")
-        return 2
-
-    # Group observations by event before selecting stories. Publisher coverage is
-    # the primary ranking signal; editorial score breaks ties.
-    ranked = []
-    for item in items:
-        points, reasons = score(item)
-        candidate = dict(item)
-        candidate["editorial_score"] = round(points, 2)
-        candidate["ranking_reasons"] = reasons
-        candidate["source_articles"] = source_articles(item)
-        candidate["publisher_count"] = len({
-            article["source_domain"] or article["source"]
-            for article in candidate["source_articles"]
-        })
-        ranked.append(candidate)
-
-    clusters_raw, ambiguous_pairs = group_events(
-        sorted(ranked, key=lambda x: (x["publisher_count"], x["editorial_score"]), reverse=True)
-    )
-    clusters = [{"members": members} for members in clusters_raw]
-
-    event_groups = []
-    for cluster in clusters:
-        members = cluster["members"]
-        representative = max(members, key=lambda x: (
-            x.get("source_role") != "discovery_only",
-            x["publisher_count"], x["editorial_score"], bool(x.get("image_url"))
-        ))
-        all_articles = []
-        seen_domains, seen_urls = set(), set()
-        for member in members:
-            for article in member["source_articles"]:
-                domain, url = article.get("source_domain") or article.get("source"), article.get("url")
-                if domain in seen_domains or (url and url in seen_urls):
-                    continue
-                seen_domains.add(domain)
-                if url:
-                    seen_urls.add(url)
-                all_articles.append(article)
-        publisher_domains = sorted({
-            article.get("source_domain") or article.get("source") for article in all_articles
-        })
-        count = len(publisher_domains)
-        event_groups.append({
-            **representative,
-            "source_articles": all_articles,
-            "publisher_domains": publisher_domains,
-            "publisher_count": count,
-            "coverage_label": ("çok kaynaklı ortak gündem" if count >= 3
-                               else "iki yayın kuruluşunda yer alıyor" if count == 2
-                               else "tek kaynaklı; ortak gündem olarak teyit edilmedi"),
-            "event_member_count": len(members),
-            "event_rank_score": round(count * 5 + representative["editorial_score"], 2),
-            "status": "selected_not_verified",
-        })
-
-    event_groups.sort(key=lambda x: (
-        x["publisher_count"], x["event_rank_score"], x["editorial_score"]
-    ), reverse=True)
-    multi_source = [g for g in event_groups if g["publisher_count"] >= 2]
-    single_source = [g for g in event_groups if g["publisher_count"] == 1]
-    selected = multi_source[:3]
-    for item in selected:
-        # A discovery-only representative can occur after exact-title RSS dedupe.
-        # Prefer a direct publisher article as the verification target.
-        if item.get("source_role") == "discovery_only" and item["source_articles"]:
-            first = item["source_articles"][0]
-            item["url"] = first["url"]
-            item["source"] = first["source"]
-            item["source_domain"] = first["source_domain"]
-            item["source_role"] = "publisher"
-        item["selection_basis"] = (
-            "independent_publisher_coverage_then_editorial_score"
-            if item["publisher_count"] >= 2 else "single_source_fallback_needs_manual_review"
-        )
-
-    output = {
-        "generated_at": datetime.now(timezone.utc).isoformat(),
-        "selection_count": len(selected),
-        "target_count": 3,
-        "candidate_count": len(items),
-        "event_group_count": len(event_groups),
-        "multi_publisher_event_count": len(multi_source),
-        "ambiguous_pair_count": len(ambiguous_pairs),
-        "ambiguous_pairs_preview": ambiguous_pairs[:40],
-        "note": (
-            "Haberler olay düzeyinde gruplanır ve öncelikle farklı yayın kuruluşu alan adlarının "
-            "sayısına göre sıralanır. Aynı yayın kuruluşunun birden fazla URL'si tek kaynak sayılır. "
-            "Kaynak sayısı ortak gündem göstergesidir, doğruluk kanıtı değildir; içerik, bağlam ve "
-            "görsel hakları ayrıca kontrol edilmelidir. Tek kaynaklı haberler yalnızca yeterli "
-            "çok kaynaklı olay yoksa otomatik seçime tek kaynaklı haber alınmaz."
-        ),
-        "items": selected,
-        "event_groups_preview": event_groups[:20],
-    }
-    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    OUTPUT_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Ham tekil aday: {len(items)} | Olay grubu: {len(event_groups)} | Çok kaynaklı olay: {len(multi_source)}")
-    print(f"Sınırda eşleşme (kaynak sayılmadı): {len(ambiguous_pairs)}")
-    print(f"Seçilen haber: {len(selected)}/3")
-    for i, item in enumerate(selected, 1):
-        sources = ", ".join(a.get("source", "?") for a in item["source_articles"])
-        print(f"{i}. [{item['publisher_count']} yayın kuruluşu | puan {item['event_rank_score']}] {item.get('title', '(başlıksız)')}")
-        print(f"   Kaynaklar: {sources}")
-        print(f"   Kapsama: {item['coverage_label']}")
-    print(f"Çıktı: {OUTPUT_PATH.relative_to(ROOT)}")
-    if len(multi_source) < 3:
-        print("UYARI: Üç çok kaynaklı olay bulunamadı; tek kaynaklı haberlerle kota doldurulmadı.")
-    return 0
-
-
-if __name__ == "__main__":
-    sys.exit(main())
+if __name__=='__main__': sys.exit(main())
