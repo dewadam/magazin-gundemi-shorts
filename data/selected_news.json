@@ -1,122 +1,118 @@
 {
-  "generated_at": "2026-10-10T21:14:20.771360+00:00",
-  "candidate_count": 117,
-  "event_group_count": 90,
-  "multi_publisher_event_count": 1,
+  "generated_at": "2026-10-10T21:22:27.852510+00:00",
+  "candidate_count": 100,
+  "event_group_count": 87,
+  "multi_publisher_event_count": 0,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "SON DAKİKA | Nejat Uygur’un eşi Necla Uygur hayatını kaybetti! Cenaze bilgileri belli oldu",
-      "normalized_title": "son dakika nejat uygur un esi necla uygur hayatını kaybetti cenaze bilgileri belli oldu",
-      "url": "https://www.cnnturk.com/magazin/son-dakika-nejat-uygurun-esi-necla-uygur-hayatini-kaybetti-cenaze-bilgileri-belli-oldu-3476878",
-      "source": "CNN Türk Magazin",
+      "title": "Melike Şahin anne oldu: İlk bebeğini kucağına aldı",
+      "normalized_title": "melike sahin anne oldu ilk bebegini kucagina aldi",
+      "url": "https://news.google.com/read/CBMimwFBVV95cUxQUGMxLWNTV0szcl9xdG0xTlN2SDBGcDNMUUR2dl9mZU91aVhwUHhFc05GZkROaTdaT1E3OUJXTTdHcHZfQmFyTUtSWjhQQUZkc0QyX2RGa0NLcnRaX2NrNGZvTXM5VWZzS01zaUxrWVNfVFZLT0ZEVlpIeDVOZ3F6M2s2VExRSEZ6QVo0S0Y3VXBfeDl1YnN1cmFjYw?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
       "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-09T09:26:52+00:00",
-      "summary": "Son dakika haberi... Merhum tiyatro sanatçısı Nejat Uygur’un eşi Necla Uygur, tedavi gördüğü hastanede hayatını kaybetti. Necla Uygur için düzenlenecek cenaze törenine ilişkin bilgiler oldu. Sanatçının naaşı, Teşvikiye Camii'nde ikindi namazını müteakip kılınacak cenaze namazı sonrası Feriköy Mezarlığı'na defnedilecek.",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
       "image_url": null,
-      "collected_at": "2026-10-10T21:14:18.109261+00:00",
-      "status": "collected_not_verified",
+      "collected_at": "2026-10-10T21:22:13.047688+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/son-dakika-nejat-uygurun-esi-necla-uygur-hayatini-kaybetti-cenaze-bilgileri-belli-oldu-3476878",
-          "title": "SON DAKİKA | Nejat Uygur’un eşi Necla Uygur hayatını kaybetti! Cenaze bilgileri belli oldu"
-        },
-        {
-          "source": "Habertürk Magazin",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/necla-uygur-vefat-etti-3918298",
-          "title": "Necla Uygur vefat etti"
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMif0FVX3lxTE45TzJVcnZCY2lHZU91Tml6b1lHcVhwU2lLM2JwN1hMZDRCaklxZk44UUVhemttSG4tcktMUmNWRnZXQ1BOUm9TM0Q3al9Qd1dFQ0RNakVoU2Q5YUh3eE9jMkhCWUFoa08tc2NoczZNMXlBb2d3MFhuZzZlMzV3ZWM?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Şarkıcı Melike Şahin anne oldu"
         }
       ],
       "publisher_domains": [
-        "cnnturk.com",
-        "haberturk.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-09T09:26:52+00:00",
-      "age_hours": 35.79,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "MASTERCHEF'TE ELEME ADAYI KİM OLDU? 9 Ekim MasterChef'te 5. eleme adayı kim seçildi?",
-      "normalized_title": "masterchef te eleme adayi kim oldu 9 ekim masterchef te 5 eleme adayı kim secildi",
-      "url": "https://www.cnnturk.com/magazin/masterchefte-eleme-adayi-kim-oldu-9-ekim-masterchefte-5-eleme-adayi-kim-secildi-3477268",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-10T07:40:00+00:00",
-      "summary": "MasterChef Türkiye'de 5. eleme adayı kim oldu merak ediliyor. Yarışmanın 9 Ekim akşamında yayınlanan yeni bölümünde hamsili pilav yapıldı. Mavi ve Kırmızı takım yarışmacıları birbirleriyle eşleşerek en iyi hamsili pilavı yapmaya çalıştı. Dokunulmazlığı kaybeden takım yarışmacıları bireysel dokunulmazlık oyununda karşı karşıya geldi. Peki MasterChef'te eleme adayı kim oldu? 9 Ekim MasterChef'te 5. eleme adayı kim seçildi? Detaylar haberimizde...",
-      "image_url": null,
-      "collected_at": "2026-10-10T21:14:18.108402+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/masterchefte-eleme-adayi-kim-oldu-9-ekim-masterchefte-5-eleme-adayi-kim-secildi-3477268",
-          "title": "MASTERCHEF'TE ELEME ADAYI KİM OLDU? 9 Ekim MasterChef'te 5. eleme adayı kim seçildi?"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
+        "publisher-label:google-news-sonucu"
       ],
       "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 5,
-      "discovery_item_count": 4,
-      "latest_published_at": "2026-10-10T09:00:29+00:00",
-      "age_hours": 12.23,
-      "popularity_score": 12.49,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 11.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Survivor Serhan Onat evlendi! Merve Küsmenoğlu sade gelinliği ve duru güzelliğiyle göz kamaştırdı",
-      "normalized_title": "survivor serhan onat evlendi merve kusmenoglu sade gelinligi ve duru guzelligiyle goz kamastırdı",
-      "url": "https://www.cnnturk.com/magazin/survivor-serhan-onat-evlendi-merve-kusmenoglu-sade-gelinligi-ve-duru-guzelligiyle-goz-kamastirdi-3477481",
-      "source": "CNN Türk Magazin",
+      "title": "'Taburculuk hayal gibi' demişti! Danla Bilic karantinaya alındı",
+      "normalized_title": "taburculuk hayal gibi demisti danla bilic karantinaya alindi",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxQMVZXaVdaRXViLTFkUzhEQk5BQUlfajhuRGd1YjJVVGljTDVIQ2p0M19qUll5YnJyYm92SkhySXY4MHJwRXdCMVFvNGNtWXR3eFA2MDI0Y1hZU0JVWHdSVXpWT1YzeEdwaWVZXy1fNC16dmtjZjRpTDBHQ08zbjYxdmVDZVFkWC03YnU0dlRhUVBUNnYxVThuNHBDNGc0SjJGN0ZMcVhuOA?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
       "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-10T20:43:06+00:00",
-      "summary": "Survivor'ın son sezonunda yarışan ünlü oyuncu Serhan Onat, nişanlısı Merve Küsmenoğlu ile evlendi. İşte ünlü çiftin nikahından ilk kareler...",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
       "image_url": null,
-      "collected_at": "2026-10-10T21:14:18.107905+00:00",
-      "status": "collected_not_verified",
+      "collected_at": "2026-10-10T21:22:13.048959+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/survivor-serhan-onat-evlendi-merve-kusmenoglu-sade-gelinligi-ve-duru-guzelligiyle-goz-kamastirdi-3477481",
-          "title": "Survivor Serhan Onat evlendi! Merve Küsmenoğlu sade gelinliği ve duru güzelliğiyle göz kamaştırdı"
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMimwFBVV95cUxPWFFGRXNLWkw5TmJLQUY1ZTUzSTdnaTgydXRITlVfMkExNjdPd2NtR1ZVa29FWUpNbzdxendFdl9Pb1BJeHY4TmttZklDQzdWRi1pM1pXTGpsRG1RY2hGMWhhbTV5SWJnSWVEQ0lZZlllbGtuZVhzTERueEdNSTcyZjNBbHpqWlVXZE9rNEVBQ2c0M3ZfRV95WmUzdw?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Dokuzuncu Ameliyatının Ardından Danla Bilic Karantinaya Alındı!"
         }
       ],
       "publisher_domains": [
-        "cnnturk.com"
+        "publisher-label:google-news-sonucu"
       ],
       "publisher_count": 1,
-      "direct_article_count": 1,
+      "direct_article_count": 3,
       "event_member_count": 3,
-      "discovery_item_count": 2,
-      "latest_published_at": "2026-10-10T20:43:06+00:00",
-      "age_hours": 0.52,
-      "popularity_score": 11.978,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 11.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ceylan Ertem köpeklerine ev aldı! İçini tek tek kendi hazırladı...",
+      "normalized_title": "ceylan ertem kopeklerine ev aldi icini tek tek kendi hazirladi",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxQMW0xSVlKdnpDRkJfVksxZVAwb2g0TV96T2g1QkphajRYeEs3a2xZR2dsZ1BJOTZyZkNLcExqVGMxd1ptUGNuY2RGSlBsTC1TSmk5bVlwZDZmTVBhTTd2eEktd0pmc2hMSkV2VVFIMjdqQlY5NFcyazk3bDhTWDE0d0JwQXU4N1JjSmRCWjRMNGwyUlZOZ2VTZHVjWk16ZUhGUWpLQlppdHNJNnJUVGF2ZXBSNDlNaUFkYTFKMHZXRU4?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.050327+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMiowFBVV95cUxNcFVRYmNNSHY5LUtmU3hRT24xODBzT0x2S2l5VW12RV9FSjhQM1BzVTI2dHpYODJHck91WFoxd19IVE5uQWhOMmlvWTNQdWJIbUpUTWpWQXFBemE0N1V6U1Z6S3BiclRYemI5alVDa1p5V0ltVUNEYTA2dW96UlFJV0JzY2Rza0dhWGd6WXdKVWZCbjlXaVBOXzFvWmhSaFp1MV9V?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Ceylan Ertem'in telifleri köpeklerine ev oldu"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 11.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -125,1087 +121,1110 @@
   ],
   "event_groups_preview": [
     {
-      "title": "SON DAKİKA | Nejat Uygur’un eşi Necla Uygur hayatını kaybetti! Cenaze bilgileri belli oldu",
-      "normalized_title": "son dakika nejat uygur un esi necla uygur hayatını kaybetti cenaze bilgileri belli oldu",
-      "url": "https://www.cnnturk.com/magazin/son-dakika-nejat-uygurun-esi-necla-uygur-hayatini-kaybetti-cenaze-bilgileri-belli-oldu-3476878",
-      "source": "CNN Türk Magazin",
+      "title": "Melike Şahin anne oldu: İlk bebeğini kucağına aldı",
+      "normalized_title": "melike sahin anne oldu ilk bebegini kucagina aldi",
+      "url": "https://news.google.com/read/CBMimwFBVV95cUxQUGMxLWNTV0szcl9xdG0xTlN2SDBGcDNMUUR2dl9mZU91aVhwUHhFc05GZkROaTdaT1E3OUJXTTdHcHZfQmFyTUtSWjhQQUZkc0QyX2RGa0NLcnRaX2NrNGZvTXM5VWZzS01zaUxrWVNfVFZLT0ZEVlpIeDVOZ3F6M2s2VExRSEZ6QVo0S0Y3VXBfeDl1YnN1cmFjYw?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
       "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-09T09:26:52+00:00",
-      "summary": "Son dakika haberi... Merhum tiyatro sanatçısı Nejat Uygur’un eşi Necla Uygur, tedavi gördüğü hastanede hayatını kaybetti. Necla Uygur için düzenlenecek cenaze törenine ilişkin bilgiler oldu. Sanatçının naaşı, Teşvikiye Camii'nde ikindi namazını müteakip kılınacak cenaze namazı sonrası Feriköy Mezarlığı'na defnedilecek.",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
       "image_url": null,
-      "collected_at": "2026-10-10T21:14:18.109261+00:00",
-      "status": "collected_not_verified",
+      "collected_at": "2026-10-10T21:22:13.047688+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/son-dakika-nejat-uygurun-esi-necla-uygur-hayatini-kaybetti-cenaze-bilgileri-belli-oldu-3476878",
-          "title": "SON DAKİKA | Nejat Uygur’un eşi Necla Uygur hayatını kaybetti! Cenaze bilgileri belli oldu"
-        },
-        {
-          "source": "Habertürk Magazin",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/necla-uygur-vefat-etti-3918298",
-          "title": "Necla Uygur vefat etti"
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMif0FVX3lxTE45TzJVcnZCY2lHZU91Tml6b1lHcVhwU2lLM2JwN1hMZDRCaklxZk44UUVhemttSG4tcktMUmNWRnZXQ1BOUm9TM0Q3al9Qd1dFQ0RNakVoU2Q5YUh3eE9jMkhCWUFoa08tc2NoczZNMXlBb2d3MFhuZzZlMzV3ZWM?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Şarkıcı Melike Şahin anne oldu"
         }
       ],
       "publisher_domains": [
-        "cnnturk.com",
-        "haberturk.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-09T09:26:52+00:00",
-      "age_hours": 35.79,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "MASTERCHEF'TE ELEME ADAYI KİM OLDU? 9 Ekim MasterChef'te 5. eleme adayı kim seçildi?",
-      "normalized_title": "masterchef te eleme adayi kim oldu 9 ekim masterchef te 5 eleme adayı kim secildi",
-      "url": "https://www.cnnturk.com/magazin/masterchefte-eleme-adayi-kim-oldu-9-ekim-masterchefte-5-eleme-adayi-kim-secildi-3477268",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-10T07:40:00+00:00",
-      "summary": "MasterChef Türkiye'de 5. eleme adayı kim oldu merak ediliyor. Yarışmanın 9 Ekim akşamında yayınlanan yeni bölümünde hamsili pilav yapıldı. Mavi ve Kırmızı takım yarışmacıları birbirleriyle eşleşerek en iyi hamsili pilavı yapmaya çalıştı. Dokunulmazlığı kaybeden takım yarışmacıları bireysel dokunulmazlık oyununda karşı karşıya geldi. Peki MasterChef'te eleme adayı kim oldu? 9 Ekim MasterChef'te 5. eleme adayı kim seçildi? Detaylar haberimizde...",
-      "image_url": null,
-      "collected_at": "2026-10-10T21:14:18.108402+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/masterchefte-eleme-adayi-kim-oldu-9-ekim-masterchefte-5-eleme-adayi-kim-secildi-3477268",
-          "title": "MASTERCHEF'TE ELEME ADAYI KİM OLDU? 9 Ekim MasterChef'te 5. eleme adayı kim seçildi?"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
+        "publisher-label:google-news-sonucu"
       ],
       "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 5,
-      "discovery_item_count": 4,
-      "latest_published_at": "2026-10-10T09:00:29+00:00",
-      "age_hours": 12.23,
-      "popularity_score": 12.49,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Survivor Serhan Onat evlendi! Merve Küsmenoğlu sade gelinliği ve duru güzelliğiyle göz kamaştırdı",
-      "normalized_title": "survivor serhan onat evlendi merve kusmenoglu sade gelinligi ve duru guzelligiyle goz kamastırdı",
-      "url": "https://www.cnnturk.com/magazin/survivor-serhan-onat-evlendi-merve-kusmenoglu-sade-gelinligi-ve-duru-guzelligiyle-goz-kamastirdi-3477481",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-10T20:43:06+00:00",
-      "summary": "Survivor'ın son sezonunda yarışan ünlü oyuncu Serhan Onat, nişanlısı Merve Küsmenoğlu ile evlendi. İşte ünlü çiftin nikahından ilk kareler...",
-      "image_url": null,
-      "collected_at": "2026-10-10T21:14:18.107905+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/survivor-serhan-onat-evlendi-merve-kusmenoglu-sade-gelinligi-ve-duru-guzelligiyle-goz-kamastirdi-3477481",
-          "title": "Survivor Serhan Onat evlendi! Merve Küsmenoğlu sade gelinliği ve duru güzelliğiyle göz kamaştırdı"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
+      "direct_article_count": 3,
       "event_member_count": 3,
-      "discovery_item_count": 2,
-      "latest_published_at": "2026-10-10T20:43:06+00:00",
-      "age_hours": 0.52,
-      "popularity_score": 11.978,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 11.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "single_publisher"
     },
     {
-      "title": "MASTERCHEF ELEME ADAYI 10 EKİM 2026 | MasterChef'te eleme adayı kim oldu, dokunulmazlık oyununu hangi takım kazandı?",
-      "normalized_title": "masterchef eleme adayi 10 ekim 2026 masterchef te eleme adayı kim oldu dokunulmazlık oyununu hangi takım kazandı",
-      "url": "https://www.cnnturk.com/magazin/masterchef-eleme-adayi-10-ekim-2026-masterchefte-eleme-adayi-kim-oldu-dokunulmazlik-oyununu-hangi-takim-kazandi-3477477",
-      "source": "CNN Türk Magazin",
+      "title": "'Taburculuk hayal gibi' demişti! Danla Bilic karantinaya alındı",
+      "normalized_title": "taburculuk hayal gibi demisti danla bilic karantinaya alindi",
+      "url": "https://news.google.com/read/CBMipwFBVV95cUxQMVZXaVdaRXViLTFkUzhEQk5BQUlfajhuRGd1YjJVVGljTDVIQ2p0M19qUll5YnJyYm92SkhySXY4MHJwRXdCMVFvNGNtWXR3eFA2MDI0Y1hZU0JVWHdSVXpWT1YzeEdwaWVZXy1fNC16dmtjZjRpTDBHQ08zbjYxdmVDZVFkWC03YnU0dlRhUVBUNnYxVThuNHBDNGc0SjJGN0ZMcVhuOA?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
       "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-10T23:51:29+00:00",
-      "summary": "MasterChef'te eleme adayı olan isim, yarışmanın bugün (10 Ekim 2026 Cumartesi) yayınlanan bölümünü kaçıran vatandaşlar tarafından merak konusu oldu. Mehmet Yalçınkaya, Danilo Zanna ve Somer Sivrioğlu’nun jüri üyeliğini yaptığı yarışmada heyecan had safhadaydı. MasterChef'te eleme potasına Nurten Ayşe, Nilay, Buse, Hasan Alp ve Şadi girmişti. Peki, 10 Ekim 2026 MasterChef'te eleme adayı kim oldu?",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
       "image_url": null,
-      "collected_at": "2026-10-10T21:14:18.107519+00:00",
-      "status": "collected_not_verified",
+      "collected_at": "2026-10-10T21:22:13.048959+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/masterchef-eleme-adayi-10-ekim-2026-masterchefte-eleme-adayi-kim-oldu-dokunulmazlik-oyununu-hangi-takim-kazandi-3477477",
-          "title": "MASTERCHEF ELEME ADAYI 10 EKİM 2026 | MasterChef'te eleme adayı kim oldu, dokunulmazlık oyununu hangi takım kazandı?"
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMimwFBVV95cUxPWFFGRXNLWkw5TmJLQUY1ZTUzSTdnaTgydXRITlVfMkExNjdPd2NtR1ZVa29FWUpNbzdxendFdl9Pb1BJeHY4TmttZklDQzdWRi1pM1pXTGpsRG1RY2hGMWhhbTV5SWJnSWVEQ0lZZlllbGtuZVhzTERueEdNSTcyZjNBbHpqWlVXZE9rNEVBQ2c0M3ZfRV95WmUzdw?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Dokuzuncu Ameliyatının Ardından Danla Bilic Karantinaya Alındı!"
         }
       ],
       "publisher_domains": [
-        "cnnturk.com"
+        "publisher-label:google-news-sonucu"
       ],
       "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 2,
-      "discovery_item_count": 1,
-      "latest_published_at": "2026-10-10T23:51:29+00:00",
-      "age_hours": 0.0,
-      "popularity_score": 11.5,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 11.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Dilber Ay'ın kızının 'Yağlı kapı buldu' sözlerine İbrahim Karakaş'tan sert yanıt: \"Hepsine zehir zıkkım olsun\"",
-      "normalized_title": "dilber ay ın kızının yaglı kapı buldu sozlerine ibrahim karakas tan sert yanıt hepsine zehir zıkkım olsun",
-      "url": "https://www.sabah.com.tr/magazin/dilber-ayin-kizinin-yagli-kapi-buldu-sozlerine-ibrahim-karakastan-sert-yanit-hepsine-zehir-zikkim-olsun-7677780",
-      "source": "Sabah Magazin",
+      "title": "Ceylan Ertem köpeklerine ev aldı! İçini tek tek kendi hazırladı...",
+      "normalized_title": "ceylan ertem kopeklerine ev aldi icini tek tek kendi hazirladi",
+      "url": "https://news.google.com/read/CBMiwAFBVV95cUxQMW0xSVlKdnpDRkJfVksxZVAwb2g0TV96T2g1QkphajRYeEs3a2xZR2dsZ1BJOTZyZkNLcExqVGMxd1ptUGNuY2RGSlBsTC1TSmk5bVlwZDZmTVBhTTd2eEktd0pmc2hMSkV2VVFIMjdqQlY5NFcyazk3bDhTWDE0d0JwQXU4N1JjSmRCWjRMNGwyUlZOZ2VTZHVjWk16ZUhGUWpLQlppdHNJNnJUVGF2ZXBSNDlNaUFkYTFKMHZXRU4?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
       "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": "2026-10-10T12:44:46+00:00",
-      "summary": "Usta sanatçı Dilber Ay'ın vefatının ardından eşi İbrahim Karakaş'ın İzmirli estetisyen Müge Zopun ile evlenmesi magazin dünyasında geniş yankı buldu. Dilber Ay'ın kızının yönelttiği ağır iddialar ve \"yağlı... Devamı için tıklayınız",
-      "image_url": "https://iasbh.tmgrup.com.tr/64a775/1200/675/34/0/736/395?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/1791635867540.jpeg",
-      "collected_at": "2026-10-10T21:14:18.424927+00:00",
-      "status": "collected_not_verified",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.050327+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "Sabah Magazin",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/dilber-ayin-kizinin-yagli-kapi-buldu-sozlerine-ibrahim-karakastan-sert-yanit-hepsine-zehir-zikkim-olsun-7677780",
-          "title": "Dilber Ay'ın kızının 'Yağlı kapı buldu' sözlerine İbrahim Karakaş'tan sert yanıt: \"Hepsine zehir zıkkım olsun\""
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMiowFBVV95cUxNcFVRYmNNSHY5LUtmU3hRT24xODBzT0x2S2l5VW12RV9FSjhQM1BzVTI2dHpYODJHck91WFoxd19IVE5uQWhOMmlvWTNQdWJIbUpUTWpWQXFBemE0N1V6U1Z6S3BiclRYemI5alVDa1p5V0ltVUNEYTA2dW96UlFJV0JzY2Rza0dhWGd6WXdKVWZCbjlXaVBOXzFvWmhSaFp1MV9V?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Ceylan Ertem'in telifleri köpeklerine ev oldu"
         }
       ],
       "publisher_domains": [
-        "sabah.com.tr"
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 11.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Anneye veda... Necla Uygur son yolculuğuna uğurlandı",
+      "normalized_title": "anneye veda necla uygur son yolculuguna ugurlandi",
+      "url": "https://news.google.com/read/CBMiogFBVV95cUxObkVhc0pLZmZ6eW1DMmZ6MmROb3MtRm96UXREQVE4YzMtNnhCM0QxTUpIVEs2R05leFhPejZsQndlOERLNFRKeEh3UEY5RjBFMWpvemtaanFPaUdlTFYyT0ZTMjZua09vOHZOSnVuWmpwWUhDNHRQUGE5WGotdENSQjVJV1pUanhPU3g3UVVxd2JVRWE4UGVTdGpjVElObmZOT0E?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.047234+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMilAFBVV95cUxNNmU3a19LWllldDdVMHFwNDR2MFJlMUtEdXhhOFRhc3hiaEhDMll2dlRsWVRnMFhwUW5lV0ZxNkdsX1pCY2IxdGNwMXVQajlTdU9uMjJBNHlQWGpsaC1GWF94QW1LVUk4cy1QLTZGMmw3LWZTc2pSRDZObzRkWlBacDZKdFY5ejFSM3NMdUJiM2FLVWh5?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Oyuncu Necla Uygur son yolculuğuna uğurlandı"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
       ],
       "publisher_count": 1,
       "direct_article_count": 2,
       "event_member_count": 2,
       "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T12:44:46+00:00",
-      "age_hours": 8.49,
-      "popularity_score": 11.146,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "GÜLLER VE GÜNAHLAR 38. BÖLÜM FRAGMANI İZLE KANAL D | Murat Yıldırım ve Cemre Baysel'li Güller ve Günahlar 38. bölüm fragmanı yayınlandı mı?",
-      "normalized_title": "guller ve gunahlar 38 bolum fragmani izle kanal d murat yıldırım ve cemre baysel li guller ve gunahlar 38 bolum fragmanı yayınlandı mı",
-      "url": "https://www.cnnturk.com/magazin/guller-ve-gunahlar-38-bolum-fragmani-izle-kanal-d-murat-yildirim-ve-cemre-bayselli-guller-ve-gunahlar-38-bolum-fragmani-yayinlandi-mi-3477487",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-10T22:47:14+00:00",
-      "summary": "Güller ve Günahlar 38. bölüm fragmanı merak edildi. Murat Yıldırım ve Cemre Baysel'in başrollerini paylaştığı Güller ve Günahlar'ın 38. bölüm fragmanı izleme linki internette araştırılıyor. Dizide Serhat ve Zeynep tekrar Berrak tehdidi ile karşı karşıya kalmışlardı. Öte yandan Mustafa’nın Azra için yaptığı fedakarlık, Candan Ailesi’ni üzmüştü. Peki, Güller ve Günahlar 38. bölüm fragmanı yayınlandı mı? İşte ayrıntılar…",
-      "image_url": null,
-      "collected_at": "2026-10-10T21:14:18.107686+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/guller-ve-gunahlar-38-bolum-fragmani-izle-kanal-d-murat-yildirim-ve-cemre-bayselli-guller-ve-gunahlar-38-bolum-fragmani-yayinlandi-mi-3477487",
-          "title": "GÜLLER VE GÜNAHLAR 38. BÖLÜM FRAGMANI İZLE KANAL D | Murat Yıldırım ve Cemre Baysel'li Güller ve Günahlar 38. bölüm fragmanı yayınlandı mı?"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T22:47:14+00:00",
-      "age_hours": 0.0,
-      "popularity_score": 11.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "GÜLLER VE GÜNAHLAR 37. BÖLÜM İZLE FULL HD KANAL D | Murat Yıldırım ve Cemre Baysel'li Güller ve Günahlar 37. bölüm izleme ekranı",
-      "normalized_title": "guller ve gunahlar 37 bolum izle full hd kanal d murat yıldırım ve cemre baysel li guller ve gunahlar 37 bolum izleme ekranı",
-      "url": "https://www.cnnturk.com/magazin/guller-ve-gunahlar-37-bolum-izle-full-hd-kanal-d-murat-yildirim-ve-cemre-bayselli-guller-ve-gunahlar-37-bolum-izleme-ekrani-3477484",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-10T22:47:10+00:00",
-      "summary": "Güller ve Günahlar'ın 37. bölümünde yaşananlar merak ediliyor. Murat Yıldırım ve Cemre Baysel'in başrollerini paylaştığı Güller ve Günahlar'ın 37. bölümünde Serhat ve Zeynep tekrar Berrak tehdidi ile karşı karşıya kaldılar. İşte Güller ve Günahlar 37. bölüm izleme ekranına dair ayrıntılar…",
-      "image_url": null,
-      "collected_at": "2026-10-10T21:14:18.107826+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/guller-ve-gunahlar-37-bolum-izle-full-hd-kanal-d-murat-yildirim-ve-cemre-bayselli-guller-ve-gunahlar-37-bolum-izleme-ekrani-3477484",
-          "title": "GÜLLER VE GÜNAHLAR 37. BÖLÜM İZLE FULL HD KANAL D | Murat Yıldırım ve Cemre Baysel'li Güller ve Günahlar 37. bölüm izleme ekranı"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T22:47:10+00:00",
-      "age_hours": 0.0,
-      "popularity_score": 11.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "MASTERCHEF ELEME ADAYLARI 8 EKİM: MasterChef dokunulmazlık oyununu kim kazandı? Eleme adayları kimler oldu?",
-      "normalized_title": "masterchef eleme adaylari 8 ekim masterchef dokunulmazlık oyununu kim kazandı eleme adayları kimler oldu",
-      "url": "https://www.cnnturk.com/magazin/masterchef-eleme-adaylari-8-ekim-masterchef-dokunulmazlik-oyununu-kim-kazandi-eleme-adaylari-kimler-oldu-3476875",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-09T00:50:44+00:00",
-      "summary": "TV8 ekranlarının popüler yarışma programı MasterChef dokunulmazlık oyunları ile devam ediyor. Danilo Zanna, Somer Sivrioğlu ve Mehmet Yalçınkaya'nın jüri üyeliği yaptığı yarışmada 8 Ekim akşamında dokunulmazlık oyununu hangi takımın kazandığı ve eleme adaylarının kimler olduğu merak ediliyor. Peki MasterChef dokunulmazlık oyununu kim kazandı? Eleme adayları kimler oldu? Detaylar haberimizde...",
-      "image_url": null,
-      "collected_at": "2026-10-10T21:14:18.109337+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/masterchef-eleme-adaylari-8-ekim-masterchef-dokunulmazlik-oyununu-kim-kazandi-eleme-adaylari-kimler-oldu-3476875",
-          "title": "MASTERCHEF ELEME ADAYLARI 8 EKİM: MasterChef dokunulmazlık oyununu kim kazandı? Eleme adayları kimler oldu?"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 3,
-      "discovery_item_count": 2,
-      "latest_published_at": "2026-10-09T07:34:30+00:00",
-      "age_hours": 37.66,
-      "popularity_score": 11.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "'Güldür Güldür Show'un 14'üncü sezonu başlıyor",
-      "normalized_title": "guldur guldur show un 14 uncu sezonu baslıyor",
-      "url": "https://www.haberturk.com/magazin/guldur-guldur-show-un-14-uncu-sezonu-basliyor-3918822",
-      "source": "Habertürk Magazin",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": "2026-10-10T20:20:31+00:00",
-      "summary": "Kendisine özgü mizah anlayışı ile seyircilerine kahkaha tufanı yaşatan 'Güldür Güldür Show'un 14'üncü sezon tanıtımı yayınlandı",
-      "image_url": "https://im.haberturk.com/l/2026/10/10/ver1791663634/3918822/jpg/1920x1080",
-      "collected_at": "2026-10-10T21:14:14.537266+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Habertürk Magazin",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/guldur-guldur-show-un-14-uncu-sezonu-basliyor-3918822",
-          "title": "'Güldür Güldür Show'un 14'üncü sezonu başlıyor"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T20:20:31+00:00",
-      "age_hours": 0.9,
-      "popularity_score": 10.963,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "'Sevdan Bir Ateş'in yeni tanıtımı yayınlandı",
-      "normalized_title": "sevdan bir ates in yeni tanıtımı yayınlandı",
-      "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-in-yeni-tanitimi-yayinlandi-3918821",
-      "source": "Habertürk Magazin",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": "2026-10-10T20:02:35+00:00",
-      "summary": "SHOW TV'nin reytinglere damgasını vuran dizisi 'Sevdan Bir Ateş'in 6'ıncı bölümünden yeni fragman paylaşıldı",
-      "image_url": "https://im.haberturk.com/l/2026/10/10/ver1791662522/3918821/jpg/1920x1080",
-      "collected_at": "2026-10-10T21:14:14.537337+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Habertürk Magazin",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-in-yeni-tanitimi-yayinlandi-3918821",
-          "title": "'Sevdan Bir Ateş'in yeni tanıtımı yayınlandı"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T20:02:35+00:00",
-      "age_hours": 1.2,
-      "popularity_score": 10.95,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Eski eşinden açıklama",
-      "normalized_title": "eski esinden acıklama",
-      "url": "https://www.haberturk.com/magazin/foto/atilla-tas-in-kizi-sezen-tas-in-eski-esinden-aciklama-3918817",
-      "source": "Habertürk Magazin",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": "2026-10-10T19:57:42+00:00",
-      "summary": "Şarkıcı Atilla Taş'ın kızı Sezen Taş, Mersin'deki bir sitedeki apartmanın 14'üncü katından düşerek hayatını kaybetmişti. Sezen Taş'ın eski eşi Uğur Haliloğlu, kendisi hakkında çıkan iddialarla ilgili konuştu",
-      "image_url": "https://im.haberturk.com/l/2026/10/10/ver1791661507/3918817/jpg/1920x1080",
-      "collected_at": "2026-10-10T21:14:14.537402+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Habertürk Magazin",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/atilla-tas-in-kizi-sezen-tas-in-eski-esinden-aciklama-3918817",
-          "title": "Eski eşinden açıklama"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T19:57:42+00:00",
-      "age_hours": 1.28,
-      "popularity_score": 10.947,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Survivor Sude Burcu'dan takipçisine ifşa şoku: 'Çok üzgünüm senin için!'",
-      "normalized_title": "survivor sude burcu dan takipcisine ifsa soku cok uzgunum senin icin",
-      "url": "https://www.cnnturk.com/magazin/survivor-sude-burcudan-takipcisine-ifsa-soku-cok-uzgunum-senin-icin-3477266",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-10T17:34:18+00:00",
-      "summary": "Survivor All Star 2022'de yaşadıkları aşk ile gündem olan Mert Öcal ve Sude Burcu, 2024 yılında evlenmişti. Geçtiğimiz nisan ayında 'bebek' müjdesi veren ünlü çift, eylülde anne - baba olmuştu. Sude Burcu, sosyal medyadan kendisine gelen mesajı görünce şaştı kaldı. Ünlü isim ekran görüntüsü alıp mesajı ifşa etti ve takipçisine sert sözlerle tepki gösterdi.",
-      "image_url": null,
-      "collected_at": "2026-10-10T21:14:18.108617+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/survivor-sude-burcudan-takipcisine-ifsa-soku-cok-uzgunum-senin-icin-3477266",
-          "title": "Survivor Sude Burcu'dan takipçisine ifşa şoku: 'Çok üzgünüm senin için!'"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T17:34:18+00:00",
-      "age_hours": 3.67,
-      "popularity_score": 10.847,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Necla Uygur'a veda",
-      "normalized_title": "necla uygur a veda",
-      "url": "https://www.haberturk.com/magazin/unlu-oyuncu-necla-uygur-a-veda-sira-bende-demisti-3918497",
-      "source": "Habertürk Magazin",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": "2026-10-10T04:46:28+00:00",
-      "summary": "Türk tiyatrosunun duayen ismi Nejat Uygur'un oyuncu eşi Necla Uygur, 89 yaşında hayatını kaybetti. Usta sanatçı, dün gözyaşlarıyla son yolculuğuna uğurlandı",
-      "image_url": "https://im.haberturk.com/l/2026/10/09/ver1791551603/3918497/jpg/1920x1080",
-      "collected_at": "2026-10-10T21:14:14.538043+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Habertürk Magazin",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/unlu-oyuncu-necla-uygur-a-veda-sira-bende-demisti-3918497",
-          "title": "Necla Uygur'a veda"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 2,
-      "discovery_item_count": 1,
-      "latest_published_at": "2026-10-10T04:46:28+00:00",
-      "age_hours": 16.46,
-      "popularity_score": 10.814,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Şef Mehmet Yalçınkaya: Gaziantep, baklava ve katmerin dışına çıktı",
-      "normalized_title": "sef mehmet yalcınkaya gaziantep baklava ve katmerin dısına cıktı",
-      "url": "https://www.cnnturk.com/magazin/galeri/sef-mehmet-yalcinkaya-gaziantep-baklava-ve-katmerin-disina-cikti-3477451",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-10T16:16:25+00:00",
-      "summary": "GastroAntep Gastronomi Festivali’ne katılan Şef Mehmet Yalçınkaya, Gaziantep mutfağının artık yalnızca baklava ve katmerle anılmaması gerektiğini söyledi. Yalçınkaya, kentin zengin ürün çeşitliliğine dikkat çekerek yöresel ürünlerin yurt dışına taşınması gerektiğini vurguladı.",
-      "image_url": null,
-      "collected_at": "2026-10-10T21:14:18.107995+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/sef-mehmet-yalcinkaya-gaziantep-baklava-ve-katmerin-disina-cikti-3477451",
-          "title": "Şef Mehmet Yalçınkaya: Gaziantep, baklava ve katmerin dışına çıktı"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T16:16:25+00:00",
-      "age_hours": 4.97,
-      "popularity_score": 10.793,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "CUMARTESİ GÜNÜ HANGİ DİZİLER VAR? 10 Ekim TV Yayın Akışı 2026 | Kanal D, Show TV, TRT 1, ATV, Star TV, NOW TV, TV8",
-      "normalized_title": "cumartesi gunu hangi diziler var 10 ekim tv yayın akısı 2026 kanal d show tv trt 1 atv star tv now tv tv8",
-      "url": "https://www.cnnturk.com/magazin/dizi/cumartesi-gunu-hangi-diziler-var-10-ekim-tv-yayin-akisi-2026-kanal-d-show-tv-trt-1-atv-star-tv-now-tv-tv8-3477200",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-10T15:55:25+00:00",
-      "summary": "10 Ekim 2026 Cumartesi TV yayın akışı, hafta sonunu televizyon karşısında değerlendirmek isteyen izleyicilerin en çok araştırdığı konular arasında yer alıyor. Cumartesi günü ulusal kanallarda yayınlanacak diziler, sinema filmleri, yarışmalar, eğlence programları ve ana haber bültenlerinin saatleri merak ediliyor. Özellikle hafta sonu akşamını evde geçirmeyi planlayan vatandaşlar, “Bugün televizyonda ne var?”, “10 Ekim Cumartesi hangi diziler var?” ve “Bu akşam TV'de hangi filmler yayınlanacak?” sorularına yanıt arıyor. Peki, 10 Ekim 2026 Cumartesi bugün TV'de ne var? Bu akşam hangi diziler ve filmler yayınlanacak? Kanal D, Show TV, TRT 1, ATV, Star TV, TV8 ve NOW TV yayın akışında hangi programlar yer alıyor? İşte 10 Ekim Cumartesi TV yayın akışı, kanalların güncel program listeleri ve yayın saatlerine ilişkin merak edilen ayrıntılar...",
-      "image_url": null,
-      "collected_at": "2026-10-10T21:14:18.108106+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/dizi/cumartesi-gunu-hangi-diziler-var-10-ekim-tv-yayin-akisi-2026-kanal-d-show-tv-trt-1-atv-star-tv-now-tv-tv8-3477200",
-          "title": "CUMARTESİ GÜNÜ HANGİ DİZİLER VAR? 10 Ekim TV Yayın Akışı 2026 | Kanal D, Show TV, TRT 1, ATV, Star TV, NOW TV, TV8"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T15:55:25+00:00",
-      "age_hours": 5.32,
-      "popularity_score": 10.779,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Projeyi aniden bırakmışlardı! Kızılcık Şerbeti’nin yeni senaristleri belli oldu",
-      "normalized_title": "projeyi aniden bırakmıslardı kızılcık serbeti nin yeni senaristleri belli oldu",
-      "url": "https://www.mynet.com/magazin/projeyi-aniden-birakmislardi-kizilcik-serbeti-nin-yeni-senaristleri-belli-oldu-130100603575",
-      "source": "Mynet Magazin",
-      "source_role": "publisher",
-      "source_domain": "mynet.com",
-      "published_at": "2026-10-10T12:48:03+00:00",
-      "summary": "“Kızılcık Şerbeti” beşinci sezonunda da seyirciyi ekran başına toplamaya devam ediyor. Son dönemde oyuncu değişiklikleriyle gündeme gelen fenomen dizi şimdi de senarist değişikliğiyle dikkat çekti. Kızılcık Şerbeti’nin yeni senaristleri belli oldu.",
-      "image_url": "https://imgrosetta.mynet.com.tr/file/26601299/26601299-1200xauto.jpg",
-      "collected_at": "2026-10-10T21:14:18.809712+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Mynet Magazin",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/projeyi-aniden-birakmislardi-kizilcik-serbeti-nin-yeni-senaristleri-belli-oldu-130100603575",
-          "title": "Projeyi aniden bırakmışlardı! Kızılcık Şerbeti’nin yeni senaristleri belli oldu"
-        }
-      ],
-      "publisher_domains": [
-        "mynet.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T12:48:03+00:00",
-      "age_hours": 8.44,
-      "popularity_score": 10.648,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Kızılcık Şerbeti'nde Elif ve Buğra'nın ilk gecesi gündem oldu! ''Renk kattılar''",
-      "normalized_title": "kızılcık serbeti nde elif ve bugra nın ilk gecesi gundem oldu renk kattılar",
-      "url": "https://www.mynet.com/magazin/kizilcik-serbeti-nde-elif-ve-bugra-nin-ilk-gecesi-gundem-oldu-renk-kattilar-130100603572",
-      "source": "Mynet Magazin",
-      "source_role": "publisher",
-      "source_domain": "mynet.com",
-      "published_at": "2026-10-10T12:40:49+00:00",
-      "summary": "Show Tv'nin reyting rekortmeni dizisi Kızılcık Şerbeti'nde Elif ve Buğra'nın ilk gecesi sosyal medyada gündem oldu. Peş peşe ayrılıkların yaşandığı diziye adeta yorum yağdı.",
-      "image_url": "https://imgrosetta.mynet.com.tr/file/26601212/26601212-1200xauto.jpg",
-      "collected_at": "2026-10-10T21:14:18.809784+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Mynet Magazin",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/kizilcik-serbeti-nde-elif-ve-bugra-nin-ilk-gecesi-gundem-oldu-renk-kattilar-130100603572",
-          "title": "Kızılcık Şerbeti'nde Elif ve Buğra'nın ilk gecesi gündem oldu! ''Renk kattılar''"
-        }
-      ],
-      "publisher_domains": [
-        "mynet.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T12:40:49+00:00",
-      "age_hours": 8.56,
-      "popularity_score": 10.643,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Özel'den Atilla Taş’a taziye ziyareti",
-      "normalized_title": "ozel den atilla tas a taziye ziyareti",
-      "url": "https://www.haberturk.com/magazin/ozgur-ozel-den-atilla-tasa-taziye-ziyareti-3918718",
-      "source": "Habertürk Magazin",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": "2026-10-10T12:22:59+00:00",
-      "summary": "Yeni Parti Genel Başkanı Özgür Özel, kızını kaybeden şarkıcı Atilla Taş'ı ziyaret ederek, başsağlığı dileklerini iletti",
-      "image_url": "https://im.haberturk.com/l/2026/10/10/ver1791634863/3918718/jpg/1920x1080",
-      "collected_at": "2026-10-10T21:14:14.537458+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Habertürk Magazin",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/ozgur-ozel-den-atilla-tasa-taziye-ziyareti-3918718",
-          "title": "Özel'den Atilla Taş’a taziye ziyareti"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T12:22:59+00:00",
-      "age_hours": 8.86,
-      "popularity_score": 10.631,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Selin Türkmen yeni rolüyle şaşırttı! Direk dansı sahnesi gündem oldu",
-      "normalized_title": "selin turkmen yeni roluyle sasırttı direk dansı sahnesi gundem oldu",
-      "url": "https://www.mynet.com/magazin/selin-turkmen-yeni-roluyle-sasirtti-direk-dansi-sahnesi-gundem-oldu-130100603569",
-      "source": "Mynet Magazin",
-      "source_role": "publisher",
-      "source_domain": "mynet.com",
-      "published_at": "2026-10-10T11:48:40+00:00",
-      "summary": "Kızılcık Şerbeti dizisinde hayat verdiği Çimen karakteriyle tanınan Selin Türkmen dizi sezon finalindeyken projeden apar topar ayrıldı. Şimdilerde Exxen dizisi Karma'daki sahneleriyle konuşulan Türkmen, direk dansı sahnesiyle dikkatleri üzerine çekti.",
-      "image_url": "https://imgrosetta.mynet.com.tr/file/26600177/26600177-1200xauto.jpg",
-      "collected_at": "2026-10-10T21:14:18.809851+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Mynet Magazin",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/selin-turkmen-yeni-roluyle-sasirtti-direk-dansi-sahnesi-gundem-oldu-130100603569",
-          "title": "Selin Türkmen yeni rolüyle şaşırttı! Direk dansı sahnesi gündem oldu"
-        }
-      ],
-      "publisher_domains": [
-        "mynet.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T11:48:40+00:00",
-      "age_hours": 9.43,
-      "popularity_score": 10.607,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "SUSUZ YAZ SETE ÇIKTI",
-      "normalized_title": "susuz yaz sete cikti",
-      "url": "https://www.cnnturk.com/magazin/susuz-yaz-sete-cikti-3477380",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-10T11:24:32+00:00",
-      "summary": "Kanal D’nin, Necati Cumalı’nın aynı adlı eserinden uyarlanan yeni dizisi Susuz Yaz sete çıktı. Adana’da başlayan çekimlerde güçlü oyuncu kadrosunun enerjisi ve uyumu dikkat çekti.",
-      "image_url": null,
-      "collected_at": "2026-10-10T21:14:18.108161+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/susuz-yaz-sete-cikti-3477380",
-          "title": "SUSUZ YAZ SETE ÇIKTI"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T11:24:32+00:00",
-      "age_hours": 9.83,
-      "popularity_score": 10.59,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Çirkin'in yıldızı Derya Pınar Ak aşka geldi! Sevgilisini öpücüklere boğdu",
-      "normalized_title": "cirkin in yıldızı derya pınar ak aska geldi sevgilisini opucuklere bogdu",
-      "url": "https://www.mynet.com/magazin/cirkin-in-yildizi-derya-pinar-ak-aska-geldi-sevgilisini-opucuklere-bogdu-130100603566",
-      "source": "Mynet Magazin",
-      "source_role": "publisher",
-      "source_domain": "mynet.com",
-      "published_at": "2026-10-10T11:21:15+00:00",
-      "summary": "Ünlü oyuncu Derya Pınar Ak, temmuz ayında aşk yaşamaya başladığı Muammer Akmeşe ile romantik anlarını sosyal medya hesabından yayımladı. Derya Pınar Ak'ın sevgilisiyle romantik karesi kısa sürede gündem oldu.",
-      "image_url": "https://imgrosetta.mynet.com.tr/file/26599826/26599826-1200xauto.png",
-      "collected_at": "2026-10-10T21:14:18.809915+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Mynet Magazin",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/cirkin-in-yildizi-derya-pinar-ak-aska-geldi-sevgilisini-opucuklere-bogdu-130100603566",
-          "title": "Çirkin'in yıldızı Derya Pınar Ak aşka geldi! Sevgilisini öpücüklere boğdu"
-        }
-      ],
-      "publisher_domains": [
-        "mynet.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T11:21:15+00:00",
-      "age_hours": 9.88,
-      "popularity_score": 10.588,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "9 Ekim reyting sonuçları belli oldu! Kızılcık Şerbeti, Taşacak Bu Deniz... Zirvenin sahibi kim?",
-      "normalized_title": "9 ekim reyting sonucları belli oldu kızılcık serbeti tasacak bu deniz zirvenin sahibi kim",
-      "url": "https://www.mynet.com/magazin/9-ekim-reyting-sonuclari-belli-oldu-kizilcik-serbeti-tasacak-bu-deniz-zirvenin-sahibi-kim-130100603557",
-      "source": "Mynet Magazin",
-      "source_role": "publisher",
-      "source_domain": "mynet.com",
-      "published_at": "2026-10-10T11:09:38+00:00",
-      "summary": "9 Ekim 2026 Cuma gününün reyting sonuçları açıklandı. TRT 1 ekranlarında yayınlanan Taşacak Bu Deniz, Total, AB ve ABC1 kategorilerinin tamamında zirveye yerleşti. Taşacak Bu Deniz yeni sezonuyla artık zirvedeki yerini korumaya başladı.",
-      "image_url": "https://imgrosetta.mynet.com.tr/file/18727762/18727762-1200xauto.png",
-      "collected_at": "2026-10-10T21:14:18.810005+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Mynet Magazin",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/9-ekim-reyting-sonuclari-belli-oldu-kizilcik-serbeti-tasacak-bu-deniz-zirvenin-sahibi-kim-130100603557",
-          "title": "9 Ekim reyting sonuçları belli oldu! Kızılcık Şerbeti, Taşacak Bu Deniz... Zirvenin sahibi kim?"
-        }
-      ],
-      "publisher_domains": [
-        "mynet.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T11:09:38+00:00",
-      "age_hours": 10.08,
-      "popularity_score": 10.58,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "9 EKİM CUMA REYTİNG SONUÇLARI: Taşacak Bu Deniz, Kızılcık Şerbeti Reyting Sonucu: Dün En Çok Ne İzlendi?",
-      "normalized_title": "9 ekim cuma reyting sonuclari tasacak bu deniz kızılcık serbeti reyting sonucu dun en cok ne izlendi",
-      "url": "https://www.cnnturk.com/magazin/dizi/9-ekim-cuma-reyting-sonuclari-tasacak-bu-deniz-kizilcik-serbeti-reyting-sonucu-dun-en-cok-ne-izlendi-3477350",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-10T11:05:49+00:00",
-      "summary": "9 Ekim 2026 Cuma reyting sonuçları, televizyon ekranlarında yaşanan izlenme rekabetinin ardından izleyicilerin gündemine yerleşti. Haftanın son iş gününde farklı kanallarda yayınlanan diziler, yarışmalar, eğlence programları ve ana haber bültenlerinin reyting performansları merakla araştırılıyor. Özellikle Total, AB ve ABC1 reyting kategorilerinde hangi yapımların zirveye çıktığı, televizyon tutkunlarının en çok yanıt aradığı sorular arasında bulunuyor. Cuma akşamı izleyiciyle buluşan dizilerin yeni bölümleri ile sevilen televizyon programlarının sıralamadaki yerleri yakından takip ediliyor. Peki, 9 Ekim Cuma reyting sonuçlarında kim birinci oldu? Dün akşam en çok izlenen dizi hangisi? Total, AB ve ABC1 kategorilerinde hangi programlar ilk sırada yer aldı? İşte 9 Ekim 2026 Cuma gününün reyting sıralamasına ilişkin merak edilen ayrıntılar...",
-      "image_url": null,
-      "collected_at": "2026-10-10T21:14:18.108260+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/dizi/9-ekim-cuma-reyting-sonuclari-tasacak-bu-deniz-kizilcik-serbeti-reyting-sonucu-dun-en-cok-ne-izlendi-3477350",
-          "title": "9 EKİM CUMA REYTİNG SONUÇLARI: Taşacak Bu Deniz, Kızılcık Şerbeti Reyting Sonucu: Dün En Çok Ne İzlendi?"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T11:05:49+00:00",
-      "age_hours": 10.14,
-      "popularity_score": 10.577,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Okan Bayülgen’in kızı İstanbul’a uluslararası sanat ödülü! 'Hem güzel, hem başarılı'",
-      "normalized_title": "okan bayulgen in kızı istanbul a uluslararası sanat odulu hem guzel hem basarılı",
-      "url": "https://www.mynet.com/magazin/okan-bayulgen-in-kizi-istanbul-a-uluslararasi-sanat-odulu-hem-guzel-hem-basarili-130100603563",
-      "source": "Mynet Magazin",
-      "source_role": "publisher",
-      "source_domain": "mynet.com",
-      "published_at": "2026-10-10T10:49:50+00:00",
-      "summary": "Okan Bayülgen ile Şirin Ediger’in 17 yaşındaki kızları İstanbul Bayülgen, 2026 International Student Artist Awards kapsamında Özel Takdir Ödülü'ne layık görüldü. Okan Bayülgen’in kızı İstanbul kısa sürede sosyal medyanın gündemine oturdu.",
-      "image_url": "https://imgrosetta.mynet.com.tr/file/26599601/26599601-1200xauto.png",
-      "collected_at": "2026-10-10T21:14:18.810078+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Mynet Magazin",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/okan-bayulgen-in-kizi-istanbul-a-uluslararasi-sanat-odulu-hem-guzel-hem-basarili-130100603563",
-          "title": "Okan Bayülgen’in kızı İstanbul’a uluslararası sanat ödülü! 'Hem güzel, hem başarılı'"
-        }
-      ],
-      "publisher_domains": [
-        "mynet.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T10:49:50+00:00",
-      "age_hours": 10.41,
-      "popularity_score": 10.566,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "'Kızılcık Şerbeti'nde sular durulmuyor",
-      "normalized_title": "kızılcık serbeti nde sular durulmuyor",
-      "url": "https://www.haberturk.com/magazin/kizilcik-serbeti-nde-sular-durulmuyor-3918687",
-      "source": "Habertürk Magazin",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": "2026-10-10T10:15:58+00:00",
-      "summary": "SHOW TV’nin fenomen dizisi 'Kızılcık Şerbeti' yeni bölümüyle yine ekranlara damgasını vurdu",
-      "image_url": "https://im.haberturk.com/l/2026/10/10/ver1791627280/3918687/jpg/1920x1080",
-      "collected_at": "2026-10-10T21:14:14.537508+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Habertürk Magazin",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/kizilcik-serbeti-nde-sular-durulmuyor-3918687",
-          "title": "'Kızılcık Şerbeti'nde sular durulmuyor"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T10:15:58+00:00",
-      "age_hours": 10.97,
-      "popularity_score": 10.543,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Esra Erol’da genç çifte mutlu yuva: Midyat Belediye Başkanı’ndan Cumhurbaşkanı Erdoğan’a teşekkür",
-      "normalized_title": "esra erol da genc cifte mutlu yuva midyat belediye baskanı ndan cumhurbaskanı erdogan a tesekkur",
-      "url": "https://www.sabah.com.tr/magazin/esra-erolda-genc-cifte-mutlu-yuva-midyat-belediye-baskanindan-cumhurbaskani-erdogana-tesekkur-7677717",
-      "source": "Sabah Magazin",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": "2026-10-10T10:02:35+00:00",
-      "summary": "Şanlıurfa’da yaşayan Halil ve Saadet Çavlan çifti, 16 Haziran’da evden ayrılan kızları Asiye’yi bulabilmek için Esra Erol’a başvurdu. 84 gündür kayıp olan Asiye, Esra Erol’un çabalarıyla bir günde bulundu.... Devamı için tıklayınız",
-      "image_url": "https://iasbh.tmgrup.com.tr/6107ff/1200/675/0/16/1600/915?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/esra-erolda-genc-cifte-mutlu-yuva-midyat-belediye-baskanindan-cumhurbaskani-erdogana-tesekkur-1791626527933.jpeg",
-      "collected_at": "2026-10-10T21:14:18.425027+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Sabah Magazin",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/esra-erolda-genc-cifte-mutlu-yuva-midyat-belediye-baskanindan-cumhurbaskani-erdogana-tesekkur-7677717",
-          "title": "Esra Erol’da genç çifte mutlu yuva: Midyat Belediye Başkanı’ndan Cumhurbaşkanı Erdoğan’a teşekkür"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T10:02:35+00:00",
-      "age_hours": 11.2,
-      "popularity_score": 10.533,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Güller ve Günahlar'ın Zeynep'i Cemre Baysel'in Dans Sahnesi Sanal Medyayı Salladı",
-      "normalized_title": "guller ve gunahlar ın zeynep i cemre baysel in dans sahnesi sanal medyayı salladı",
-      "url": "https://www.cnnturk.com/magazin/guller-ve-gunahlarin-zeynepi-cemre-bayselin-dans-sahnesi-sanal-medyayi-salladi-3477325",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-10T09:51:44+00:00",
-      "summary": "Kanal D’nin sevilen dizisi “Güller ve Günahlar”ın Zeynep’i Cemre Baysel, son bölümdeki dans sahnesinde giydiği kıyafetle yaptığı paylaşımla sosyal medyayı hareketlendirdi.",
-      "image_url": null,
-      "collected_at": "2026-10-10T21:14:18.108325+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/guller-ve-gunahlarin-zeynepi-cemre-bayselin-dans-sahnesi-sanal-medyayi-salladi-3477325",
-          "title": "Güller ve Günahlar'ın Zeynep'i Cemre Baysel'in Dans Sahnesi Sanal Medyayı Salladı"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T09:51:44+00:00",
-      "age_hours": 11.38,
-      "popularity_score": 10.526,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Cem Yılmaz sessizliği",
-      "normalized_title": "cem yılmaz sessizligi",
-      "url": "https://www.haberturk.com/magazin/ahu-yagtu-cem-yilmaz-sorularini-yanitsiz-birakti-3918558",
-      "source": "Habertürk Magazin",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": "2026-10-10T09:27:24+00:00",
-      "summary": "Ahu Yağtu, Nişantaşı'nda objektiflere yansıdı. Oyuncu, geçtiğimiz aylarda kalp krizi geçiren eski eşi Cem Yılmaz'la ilgili sorular karşısında sessiz kaldı",
-      "image_url": "https://im.haberturk.com/l/2026/10/09/ver1791567090/3918558/jpg/1920x1080",
-      "collected_at": "2026-10-10T21:14:14.537558+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Habertürk Magazin",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/ahu-yagtu-cem-yilmaz-sorularini-yanitsiz-birakti-3918558",
-          "title": "Cem Yılmaz sessizliği"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T09:27:24+00:00",
-      "age_hours": 11.78,
-      "popularity_score": 10.509,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "\"Bunlar yüzünden eşim terk etti\"",
-      "normalized_title": "bunlar yuzunden esim terk etti",
-      "url": "https://www.haberturk.com/magazin/foto/ibrahim-karakas-tan-dilber-ay-in-kizina-yanit-3918666",
-      "source": "Habertürk Magazin",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": "2026-10-10T09:16:04+00:00",
-      "summary": "2019'da vefat eden Dilber Ay'ın eşi İbrahim Karakaş'ın, İzmirli estetisyen Müge Zopun ile evlendiği ortaya çıktı. Dilber Ay'ın kızı Filiz Çelik, Karakaş'ın \"Ben Dilber'in acısını Müge ile yendim\" sözlerine tepki gösterdi. Karakaş'tan yanıt gecikmedi",
-      "image_url": "https://im.haberturk.com/l/2026/10/10/ver1791623764/3918666/jpg/1920x1080",
-      "collected_at": "2026-10-10T21:14:14.537613+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Habertürk Magazin",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/ibrahim-karakas-tan-dilber-ay-in-kizina-yanit-3918666",
-          "title": "\"Bunlar yüzünden eşim terk etti\""
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T09:16:04+00:00",
-      "age_hours": 11.97,
-      "popularity_score": 10.501,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Taşacak Bu Deniz 34. bölüm fragmanı izle! 'Zirvenin sahibi geri geldi'",
-      "normalized_title": "tasacak bu deniz 34 bolum fragmanı izle zirvenin sahibi geri geldi",
-      "url": "https://www.mynet.com/magazin/tas-acak-bu-deniz-34-bolum-fragmani-izle-zirvenin-sahibi-geri-geldi-130100603551",
-      "source": "Mynet Magazin",
-      "source_role": "publisher",
-      "source_domain": "mynet.com",
-      "published_at": "2026-10-10T09:14:01+00:00",
-      "summary": "Cuma akşamlarının sevilen ve ilgiyle takip edilen dizisi Taşacak Bu Deniz dün akşam 33. bölümüyle ekrana geldi. Dizinin yeni bölümü izleyicisinden tam not alırken dizinin yeni bölüm fragmanı da herkesi heyecanlandırdı.",
-      "image_url": "https://imgrosetta.mynet.com.tr/file/24813847/24813847-1200xauto.jpg",
-      "collected_at": "2026-10-10T21:14:18.810141+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Mynet Magazin",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/tas-acak-bu-deniz-34-bolum-fragmani-izle-zirvenin-sahibi-geri-geldi-130100603551",
-          "title": "Taşacak Bu Deniz 34. bölüm fragmanı izle! 'Zirvenin sahibi geri geldi'"
-        }
-      ],
-      "publisher_domains": [
-        "mynet.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": "2026-10-10T09:14:01+00:00",
-      "age_hours": 12.01,
+      "latest_published_at": null,
+      "age_hours": 48.0,
       "popularity_score": 10.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Sürpriz nikah fotoğraflarla ortaya çıkmıştı... Dilber Ay'ın kızından evliliğe tepki",
+      "normalized_title": "surpriz nikah fotograflarla ortaya cikmisti dilber ay in kizindan evlilige tepki",
+      "url": "https://news.google.com/read/CBMiygFBVV95cUxPZ3A5bU1GZFZKZ2hmSUFrNFJtNHNmb2JyUGFtdXV2eEk2SVVySlVVc2s5LXNwX1hKLVUySXNWRTh2alUzM0VkeU5GdXJxUXkzUGxGR0N6OFZ2bVpaNVczY2lQbjlmZ081OGd6WkVvTnQ1dGd2cUd1VjhqR2J4cWtjR29GdmZmTzlnWENzWFNPTDNBSm95UVU0SGx5RllYTHdXaTlQZW5DdDFmQVlxNDItT0hSd0wyZ09TYzB1QWYwSjJfMDYzMEJRUDFn?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.048271+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMilwFBVV95cUxPTXFJWV9hZHVUS2Ezbm1GYjQ3cjR3aW4tb2JOb0VPZ2NZM1MtQTE0UUVJQ2hqeVFqRGpTSkR0XzE5RDNhNXloN25rWkkxb2pSN3BJNkEwRXcyU1ZoRm9DWlpQcXpFV2NFYnI3c05PTHhabUgyaGFzRjhJOVh0OE02MDB2X29wN1BLbjcyM05kdGdaM3U2UTVJ?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Dilber Ay'ın kızından İbrahim Karakaş'a tepki"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Dünyaca ünlü Türk tenor Murat Karahan, Acun Ilıcalı’nın takımı Hull City taraftarlarına Elvis Presley’nin unutulmaz şarkısını seslendirecek",
+      "normalized_title": "dunyaca unlu turk tenor murat karahan acun ilicali nin takimi hull city taraftarlarina elvis presley nin unutulmaz sarkisini seslendirecek",
+      "url": "https://news.google.com/read/CBMi_gFBVV95cUxOS0w4M016QVAtYmJ5RnZ4Z2o0aXFxYV9IcjdkMnlGalVNR3RNRDZtS01oWW5zczV6cFBSOURiLXk2WWpncmtfSG9pZUc3elhNTjFCYUVfdzJpOFpPeHBHT2hMWm0wS0hROG1WejR0WUNEY2NQUFBGenpzeFNjZW1ock5Fd21YRE1YYWRwNEFualAzZUJQOHFoWGJDNk1Oamw3eFRTVXpNaENEV1ZTaVZDNEJGeEZyYmNJV1dwSUpMZm5YLWg4andybVJHM2JrN2lHRURMN0Q2NlBmMk9mSDZCUnpIRG1pZTVGc2F0a2ZRTWlSck1UZ1FPel9ONnRzZw?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.050489+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMi_gFBVV95cUxOS0w4M016QVAtYmJ5RnZ4Z2o0aXFxYV9IcjdkMnlGalVNR3RNRDZtS01oWW5zczV6cFBSOURiLXk2WWpncmtfSG9pZUc3elhNTjFCYUVfdzJpOFpPeHBHT2hMWm0wS0hROG1WejR0WUNEY2NQUFBGenpzeFNjZW1ock5Fd21YRE1YYWRwNEFualAzZUJQOHFoWGJDNk1Oamw3eFRTVXpNaENEV1ZTaVZDNEJGeEZyYmNJV1dwSUpMZm5YLWg4andybVJHM2JrN2lHRURMN0Q2NlBmMk9mSDZCUnpIRG1pZTVGc2F0a2ZRTWlSck1UZ1FPel9ONnRzZw?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Dünyaca ünlü Türk tenor Murat Karahan, Acun Ilıcalı’nın takımı Hull City taraftarlarına Elvis Presley’nin unutulmaz şarkısını seslendirecek"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Semiramis Pekkan'ın Oğlu Zoran Lalvani Evlendi: Lalvani Ailesinin Serveti Gündeme Geldi!",
+      "normalized_title": "semiramis pekkan in oglu zoran lalvani evlendi lalvani ailesinin serveti gundeme geldi",
+      "url": "https://news.google.com/read/CBMiygFBVV95cUxOOFlZSzdlRUZWQkdGa0lOT1NtQk1mOFc3d0dkMzJ5d3gyT1dFSDQtdW1TbURwUVBOYUotM0lzZG1jYXhRR0lieFpiYVFqNFBhWnJsbHF3azM1dzh2RzdvbTNuTHc1Q3ZPX0tOY3pTYXYyYnJSTS1DSGNNNUNmUGk4cXFsY0dMb1V1M2JybzdaNmYxTEFrNWtsRUlGbkZOSG9iUm5LXzJPaDdmWXcxV2Z4b2xmTTF0bFNQN0FybFlLaTJINEZWWGRScUFB?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.050758+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMiygFBVV95cUxOOFlZSzdlRUZWQkdGa0lOT1NtQk1mOFc3d0dkMzJ5d3gyT1dFSDQtdW1TbURwUVBOYUotM0lzZG1jYXhRR0lieFpiYVFqNFBhWnJsbHF3azM1dzh2RzdvbTNuTHc1Q3ZPX0tOY3pTYXYyYnJSTS1DSGNNNUNmUGk4cXFsY0dMb1V1M2JybzdaNmYxTEFrNWtsRUlGbkZOSG9iUm5LXzJPaDdmWXcxV2Z4b2xmTTF0bFNQN0FybFlLaTJINEZWWGRScUFB?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Semiramis Pekkan'ın Oğlu Zoran Lalvani Evlendi: Lalvani Ailesinin Serveti Gündeme Geldi!"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ahmet Kural ve Çağla Gizem Kural çiftinden mutlu aile tablosu! İşte oğulları Kemal ve Demir'in son hali",
+      "normalized_title": "ahmet kural ve cagla gizem kural ciftinden mutlu aile tablosu iste ogullari kemal ve demir in son hali",
+      "url": "https://news.google.com/read/CBMi5wFBVV95cUxQc0YyVmtkT01UMy1VZFFxVHR4WHJ6ZkEtWGRGMW04Mjl6X0JBQW51MWh0eFNlbzhqaUpxN2VOZU0tWmdGak5lcm1meWxfWVUzR2ZKNlNnMlRGaUxhREpRbS10X09DNm5sOElXci1IbF9Zc3RoTXlvUTBqWFVRWnhpdkNhb01Uc1hSNEsyOWpZQW5VR3hMNVpSX1FIejNRc1RWbDVwQ1FIM1RlcENKUm9EVFhpUmQ2U183dEdkWHB2cmxlNDJwNzhGV1dDN04xWlNiMTMtYi13OHhrZG1FMHdnTlF1YU1sQ1E?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.051386+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMiuwFBVV95cUxOOEZVa0FaNURyZXBoRjRHaEtNWUdTcnRLUmRxb0RqNGMzLXYxZEtHSjYwV2NlRFJlaVJxTERpRTJNUklFRUUyVS1TTkNzaDJJY0pDNGpzY1ZnZWU2ejlJT2FBVVF1VXlrblFCQWJpS05RLUxNOVZzWWhrRjFUejI5OXJCTEhxRTdoQTNucHdWNndFUzdrOUJNMzJFbjNNblJPUnhYV1Z3M2Zpd0NYYk9scjhDVk1JOFI2eDFz?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Ahmet Kural ve Çağla Gizem Kural'ın Oğulları Kemal ve Demir Kocaman Oldu!"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Rahimcan Kapkap ve Elçin Zehra İrem’in Cannes heyecanı! Altı Üstü İstanbul dünyaya açılıyor",
+      "normalized_title": "rahimcan kapkap ve elcin zehra irem in cannes heyecani alti ustu istanbul dunyaya aciliyor",
+      "url": "https://news.google.com/read/CBMijgFBVV95cUxOanN1U1pwWXhrODhHVWlSQnhoNXN4cmNKYV8wWHhVcFhQRWhXQ1plTTNoeHUtQ2pDVmVIY1ZiWi1SVnZ6bl9fZWV6cFgyWW1oU3JrNFltTlRIaXhBZUZDZTJURjlTa1lrX3RhOC1zckhvUkNSeWRuYUNucVJFdGt0Wlk0UXRONDAxejVVNUlR?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.051662+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMimAFBVV95cUxNbVdQcWM0RzA5dUxzZkwwdVhEZkNBZVd3T1dnSVdObnlzbzFJWVdQMy1Da29Uc19xM0Y4RUxCU3pIdzlScG0xcTh4dEg1UVlKeS1BUlZ3RkVOaU9CaEt5aU03TFlydHdxMmNObno4MlFQdnlaMWplSDlfemY2elBld0dIemJFS3VzR2JEcXViYWItVmdfU3JyWg?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Rahimcan Kapkap ve Elçin Zehra İrem Cannes Yolcusu"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Siyah Tişört Tutkusu Hayrete Düşürdü: Acun Ilıcalı’nın Siyah Tişörtlerinin Sayısı Duyanları Şaşırttı!",
+      "normalized_title": "siyah tisort tutkusu hayrete dusurdu acun ilicali nin siyah tisortlerinin sayisi duyanlari sasirtti",
+      "url": "https://news.google.com/read/CBMizAFBVV95cUxNQWlxWXVsNWJvS0ZkbHhpMGd4RXR3S2ZYNUtkdm9tZ05mVjdMTWFXdUNOSmNrZHQ0YU0xRVNzaEtTaktIQnZFTENDZnhrOG15TWhTRzdVb20wV1lEaE9TdzVZWktkcVVxSm1TQldSRGpfbWdtd3Iya3lEOUsxeUtxM3ViSVV6cko5aVd0MWtETjVVeWNHcW50U2dKZGN0WEZpRERKNzhIRnBPT0xHZk9xU1pCZ2lkTWc1cEhmSms4QWU1ek5PWGpCczhNbWU?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.052270+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMinAFBVV95cUxNZUFHYWh3UzFjS2dsUXRfN0xUMTZCTkhWdDNaRzA4ck1DRC1DRDZwb1VKT3lVUHhTZWZyT2NLZTBHM1ZLYW5kZXVhMWV1VWNic0JmMUFlWGpyOXMwWTE1UllXOXNuNmRsZ0ttcG5Fa29DM3ltaUxuNUlBd2VPY09vMzU1eGdRd2V0aXRhZkljYkxkZEJfb1dZZ1FYVzHSAZoBQVVfeXFMTTdxbWNTMUFEMHROT0VPOG9iQ29rbjBpVnh5NFdNSTFlNGJtWklTV2E3TVIxdkNnSElCREdQbnFGN0RESS0yTlhjbllxa0dpMHdDanNyM19GTkxUakdhSGJzVENLSGFUSm04bjlRczN6aGhyMTNrT2dYaE5ubE13Y2FSdW42cFRXRUJOckQzYjU4UHdlUTc4YUFpZw?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Acun Ilıcalı'nın siyah tişört sayısı 1200'e ulaştı, eşi isyan etti"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Atilla Taş'ın Taziye Evine Ziyaret: Özgür Özel Mersin'de Acılı Aileyle Bir Araya Geldi",
+      "normalized_title": "atilla tas in taziye evine ziyaret ozgur ozel mersin de acili aileyle bir araya geldi",
+      "url": "https://news.google.com/read/CBMiugFBVV95cUxPVU50b3V5cHBhbzBGR0tFWTRTU0pLYXpfRWVEN2h1TmdGdzBlRVd2SmxxeDFFZWFFOWE5RW1QNXB1LWROLVA1Wm5URzhVMzhITkxJdVpzcng3N2dOdDR2eFFRYkZkb1FzRG9MVDJBVm1Ob0FXVE1NaXY3aXZYVi1IS2phODhPcW1iczk0dEJLZ3NSNWt5YUJpczNQNVVwM2YzdlpIdUw5eENheG9RUDlhcE5uYmtydFdBVlE?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.046896+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMiugFBVV95cUxPVU50b3V5cHBhbzBGR0tFWTRTU0pLYXpfRWVEN2h1TmdGdzBlRVd2SmxxeDFFZWFFOWE5RW1QNXB1LWROLVA1Wm5URzhVMzhITkxJdVpzcng3N2dOdDR2eFFRYkZkb1FzRG9MVDJBVm1Ob0FXVE1NaXY3aXZYVi1IS2phODhPcW1iczk0dEJLZ3NSNWt5YUJpczNQNVVwM2YzdlpIdUw5eENheG9RUDlhcE5uYmtydFdBVlE?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Atilla Taş'ın Taziye Evine Ziyaret: Özgür Özel Mersin'de Acılı Aileyle Bir Araya Geldi"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Seray Sever, Kızını Kaybeden Atilla Taş’ın Erol Köse Hakkındaki Sözlerini Hatırlattı: \"Ne Kadar Acı Bir Şey!",
+      "normalized_title": "seray sever kizini kaybeden atilla tas in erol kose hakkindaki sozlerini hatirlatti ne kadar aci bir sey",
+      "url": "https://news.google.com/read/CBMi1AFBVV95cUxONGdsWUxqamExeGcwT0U2dHB0dWN0QVptcTZIdnJGTzNlOXJJNHlDa0lOalFuZmJsNDBnRUp3YldINkd5bGJ5V2YtU0xPMmxLbHk2X041R1pKLXdMYWw2YzJWTVhZQ3p3eE5GYmx2eXFCSVBhdk1pcFhsOWs2Nlc1aUNTekpsZVZRT0xQWUx0cjJyR3ZrYmM4NXljb1NoXzk2M1R6U2FUb0tZc0Zvd1dBQkZiOE9SOEFaYWVmMVVURlRtSDRxMWdRRS1kRm0zWGlEVTVoMw?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.047000+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMi1AFBVV95cUxONGdsWUxqamExeGcwT0U2dHB0dWN0QVptcTZIdnJGTzNlOXJJNHlDa0lOalFuZmJsNDBnRUp3YldINkd5bGJ5V2YtU0xPMmxLbHk2X041R1pKLXdMYWw2YzJWTVhZQ3p3eE5GYmx2eXFCSVBhdk1pcFhsOWs2Nlc1aUNTekpsZVZRT0xQWUx0cjJyR3ZrYmM4NXljb1NoXzk2M1R6U2FUb0tZc0Zvd1dBQkZiOE9SOEFaYWVmMVVURlRtSDRxMWdRRS1kRm0zWGlEVTVoMw?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Seray Sever, Kızını Kaybeden Atilla Taş’ın Erol Köse Hakkındaki Sözlerini Hatırlattı: \"Ne Kadar Acı Bir Şey!"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Atilla Taş kızını toprağa verdi! Sezen Taş'ın eski eşi Uğur Haliloğlu ilk kez konuştu",
+      "normalized_title": "atilla tas kizini topraga verdi sezen tas in eski esi ugur haliloglu ilk kez konustu",
+      "url": "https://news.google.com/read/CBMixgFBVV95cUxOMkl0UndzVm43dkdNbVMweU0yVlhmelU3Z2ZFbFRURk1mS3lxRFlpSEhfdV9JcTJDSm9oWDYwZVVlOG82SDM5X2JwWFlUNWdhWnBuM0lQSGJRUDQ1NTNkbmFTSVFVVzgxWDQ3LVBLV2drclhyakV5bVE4aWlGbFAyMFNXTE0tTVc2SGhubDVpMm1KaHVkVER1b0d6bDNFLVYxOW53cnpWakpaU09QQXdIdG9ub0Jmbm83WFVIQUJkTXBWWEgyU2c?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.047070+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMixgFBVV95cUxOMkl0UndzVm43dkdNbVMweU0yVlhmelU3Z2ZFbFRURk1mS3lxRFlpSEhfdV9JcTJDSm9oWDYwZVVlOG82SDM5X2JwWFlUNWdhWnBuM0lQSGJRUDQ1NTNkbmFTSVFVVzgxWDQ3LVBLV2drclhyakV5bVE4aWlGbFAyMFNXTE0tTVc2SGhubDVpMm1KaHVkVER1b0d6bDNFLVYxOW53cnpWakpaU09QQXdIdG9ub0Jmbm83WFVIQUJkTXBWWEgyU2c?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Atilla Taş kızını toprağa verdi! Sezen Taş'ın eski eşi Uğur Haliloğlu ilk kez konuştu"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Şarkıcı Lara'dan Atilla Taş'ın acısına sessiz kalan ünlülere tepki",
+      "normalized_title": "sarkici lara dan atilla tas in acisina sessiz kalan unlulere tepki",
+      "url": "https://news.google.com/read/CBMiZ0FVX3lxTE9HNjVVTU9kZFRGZGx6NGNndnROQXQ0MkNkblRXUFdVNWROa2lXX29zSzBMcGJVV3czdlBWb3lSYXVzdjRpbGprNUJRTEoyUkgtR1FKWHhKY3M0UFpjeklNSjdCaWFRWjg?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.047127+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMiZ0FVX3lxTE9HNjVVTU9kZFRGZGx6NGNndnROQXQ0MkNkblRXUFdVNWROa2lXX29zSzBMcGJVV3czdlBWb3lSYXVzdjRpbGprNUJRTEoyUkgtR1FKWHhKY3M0UFpjeklNSjdCaWFRWjg?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Şarkıcı Lara'dan Atilla Taş'ın acısına sessiz kalan ünlülere tepki"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "İpek Tanrıyar'dan cenazedeki kıyafetiyle ilgili açıklama. \"Keşke biri beni uyarsaydı\"",
+      "normalized_title": "ipek tanriyar dan cenazedeki kiyafetiyle ilgili aciklama keske biri beni uyarsaydi",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxNSjRqWE95SmRpNjU5R0p1ZGpkV3pITmZNM0xBN3NKaWRITjFlS0U5OTMzajJHeGF3ZTlMaHZsWVFrcGpzdjVTTUE2WWhNWUxBTl9EcFN5N0dXeGVPUWdWNUpGWGh3UWNmZE11cXF3dXN6RlhGbk50VklQdlhRb2JMaVczRDQ2dThiWkNqdU8xNU50UTl6Zno4QnZmQ2RlREl6c3Z5eFYybEdyaFQyUklzX1M5UEdVVjA1Q1l2ck15NXBaa2c?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.047296+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMiwwFBVV95cUxNSjRqWE95SmRpNjU5R0p1ZGpkV3pITmZNM0xBN3NKaWRITjFlS0U5OTMzajJHeGF3ZTlMaHZsWVFrcGpzdjVTTUE2WWhNWUxBTl9EcFN5N0dXeGVPUWdWNUpGWGh3UWNmZE11cXF3dXN6RlhGbk50VklQdlhRb2JMaVczRDQ2dThiWkNqdU8xNU50UTl6Zno4QnZmQ2RlREl6c3Z5eFYybEdyaFQyUklzX1M5UEdVVjA1Q1l2ck15NXBaa2c?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "İpek Tanrıyar'dan cenazedeki kıyafetiyle ilgili açıklama. \"Keşke biri beni uyarsaydı\""
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Necla Uygur’a torunu Desen Uygur'dan duygusal mektup: Baba bir anneyi kaybettim",
+      "normalized_title": "necla uygur a torunu desen uygur dan duygusal mektup baba bir anneyi kaybettim",
+      "url": "https://news.google.com/read/CBMivAFBVV95cUxPRHg4MGVhMEJTQ2R5UUwzMzhTU0VWeWdKRm9Ec2FKM3psbDlHQnRmZmFmbTRxZG9ubVdNRFNlQVhpQVJQbm5zSmxvb3pVSDRocnRMXzczYUdyVEltYllKeGJ4V0dYbjB0M0pHdUYxZ2NRT0VkdThxYXRlNUlmaUtfelNGZU5WLTcxN3NzZGVVZ3BURDEtcDJ4MlctMVJXUXppZ05OTVc2eTJMRzFaeS0zaWpzeGVvdkZmMlA2Qg?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.047360+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMivAFBVV95cUxPRHg4MGVhMEJTQ2R5UUwzMzhTU0VWeWdKRm9Ec2FKM3psbDlHQnRmZmFmbTRxZG9ubVdNRFNlQVhpQVJQbm5zSmxvb3pVSDRocnRMXzczYUdyVEltYllKeGJ4V0dYbjB0M0pHdUYxZ2NRT0VkdThxYXRlNUlmaUtfelNGZU5WLTcxN3NzZGVVZ3BURDEtcDJ4MlctMVJXUXppZ05OTVc2eTJMRzFaeS0zaWpzeGVvdkZmMlA2Qg?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Necla Uygur’a torunu Desen Uygur'dan duygusal mektup: Baba bir anneyi kaybettim"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Hande Erçel dünyaya açılıyor",
+      "normalized_title": "hande ercel dunyaya aciliyor",
+      "url": "https://news.google.com/read/CBMijAFBVV95cUxQSEgyT2pPZk1sQWNycmJRR2JTcjd2WEFJZlBrREJmNWMzU1lmQWtaRC1nQXFkeVhBS2JFMVlEa1V0NnlqYXNZZ0p0WGZCTkxvUGtvUEZEbWx1Q1FYTVBLVWJ6X3Z6R1RXQS1GaEhZMHBwY08wS1FuSVVEQW14YkZwWTNfeHpManlBWjhsSg?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.047410+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMijAFBVV95cUxQSEgyT2pPZk1sQWNycmJRR2JTcjd2WEFJZlBrREJmNWMzU1lmQWtaRC1nQXFkeVhBS2JFMVlEa1V0NnlqYXNZZ0p0WGZCTkxvUGtvUEZEbWx1Q1FYTVBLVWJ6X3Z6R1RXQS1GaEhZMHBwY08wS1FuSVVEQW14YkZwWTNfeHpManlBWjhsSg?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Hande Erçel dünyaya açılıyor"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ödüllü yönetmenin başrolü oldu",
+      "normalized_title": "odullu yonetmenin basrolu oldu",
+      "url": "https://news.google.com/read/CBMif0FVX3lxTE1qMGZMWE44Y3NOeTlhUFhhazNkWTNpbU16YS1HUlZRRE15OGVHMVBTa05FWG1QYVFaUHFFLWNydFdPNTBwOTEtUXBWeUVlcFdlemhzX0kyUDh4ZmhjVzFiSjQ2ZjlHNFAxYUFZZ0ZBbU9HR2c4LWMtcGlfNlZGZEk?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.047456+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMif0FVX3lxTE1qMGZMWE44Y3NOeTlhUFhhazNkWTNpbU16YS1HUlZRRE15OGVHMVBTa05FWG1QYVFaUHFFLWNydFdPNTBwOTEtUXBWeUVlcFdlemhzX0kyUDh4ZmhjVzFiSjQ2ZjlHNFAxYUFZZ0ZBbU9HR2c4LWMtcGlfNlZGZEk?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Ödüllü yönetmenin başrolü oldu"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Hande Erçel'e Oscar adaylı yönetmenden başrol",
+      "normalized_title": "hande ercel e oscar adayli yonetmenden basrol",
+      "url": "https://news.google.com/read/CBMiqwFBVV95cUxNNlUyRFZKWk5kcUJ6a3ByRUhqblJFZWE1NF9sdXpRRTlGRFAtZ19LbFoxN0RMN05VREl1TlE3ZFlVQmFGN3NKR1JDblpkZUpMa1RPSjhqZk1uNmE4ckxNVnh4cGtTeWJJV2pINHZWSF9jaEtvWG1ycHpIM2dvN2ttMGdvbUM5aDdlbC01b3J3em9sUUNCWldhOVpMZldORXpzdWY5aFZVOVE3NXM?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.047505+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMiqwFBVV95cUxNNlUyRFZKWk5kcUJ6a3ByRUhqblJFZWE1NF9sdXpRRTlGRFAtZ19LbFoxN0RMN05VREl1TlE3ZFlVQmFGN3NKR1JDblpkZUpMa1RPSjhqZk1uNmE4ckxNVnh4cGtTeWJJV2pINHZWSF9jaEtvWG1ycHpIM2dvN2ttMGdvbUM5aDdlbC01b3J3em9sUUNCWldhOVpMZldORXpzdWY5aFZVOVE3NXM?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Hande Erçel'e Oscar adaylı yönetmenden başrol"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Nader Saeivar kimdir? Yönetmen Nader Saeivar filmleri, ödülleri ve yeni projesi \"Diaspora\"nın konusu nedir?",
+      "normalized_title": "nader saeivar kimdir yonetmen nader saeivar filmleri odulleri ve yeni projesi diaspora nin konusu nedir",
+      "url": "https://news.google.com/read/CBMi0AFBVV95cUxPR1hnNUpMRHpabGpkUklpRUl2UmxDYlZzcUJzMGNoa1VLbENmVEpOdFc5SE5Xc0NpTzA2MHB2MmdZSVd1b2g0YWZaUFhUMFRFUEtuZ0NSUUd0NkdSVng2eE00ejQ1d09DY3N1bHFGeXk0YjlMUDFKemM2SE1DUGMxdEdRR3VINTBaWTVSMzN1UnAtZG1TakJIVkhQS1R3YXNxZ3pXRUNMcjU3c1ZNRHFuV0NiVWVMUk9kdmRwOTVIdkN0NWtHdDhYWFBrdmoxWGxi?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.047561+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMi0AFBVV95cUxPR1hnNUpMRHpabGpkUklpRUl2UmxDYlZzcUJzMGNoa1VLbENmVEpOdFc5SE5Xc0NpTzA2MHB2MmdZSVd1b2g0YWZaUFhUMFRFUEtuZ0NSUUd0NkdSVng2eE00ejQ1d09DY3N1bHFGeXk0YjlMUDFKemM2SE1DUGMxdEdRR3VINTBaWTVSMzN1UnAtZG1TakJIVkhQS1R3YXNxZ3pXRUNMcjU3c1ZNRHFuV0NiVWVMUk9kdmRwOTVIdkN0NWtHdDhYWFBrdmoxWGxi?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Nader Saeivar kimdir? Yönetmen Nader Saeivar filmleri, ödülleri ve yeni projesi \"Diaspora\"nın konusu nedir?"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Melike Şahin'in eşi kaç yaşında? Melike Şahin'in eşi kimdir?",
+      "normalized_title": "melike sahin in esi kac yasinda melike sahin in esi kimdir",
+      "url": "https://news.google.com/read/CBMiqgFBVV95cUxOcmp0SzRPZkIyUkJHOFR4VzBtUjNPVDNYR0R2S0t5Zlg0Tkxlei1aUlRrdnZ5RzBTTFNoZzhlYkRxZE9LZFoxOUFBRjV0dU1ibm0xMVNwQ0NGTTFiTm9STnBUYXVZWU8yenl2S1VFamlFM2J5ek12UVJfM1h6U21GQXZadzNlclgtN25qWGxFV01UR2FEcE1SQzl6NzY5WTZZbWU0VTl1WDlEUdIBrAFBVV95cUxNMWU0WFJGOXpLNXpKMDZmdU1jdXZZOXo1bXBuSDlIcUowX09HOVVOZHBxTm1UTVZHbG90QXprTUx6ZEptWmNqbmZQNDVnRXhaYTNHV2NualdseGhsYTZ6dC1MMWJDZ2czQjRCcmF0ZWhKelJ5QnhsUFltMHhpR21kaHY5bWNndTZJVVVjck41ZmtGUTgtNVZ0YWZKd21tOURzT3ZNLVlfbmwxUU1U?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.047742+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMiqgFBVV95cUxOcmp0SzRPZkIyUkJHOFR4VzBtUjNPVDNYR0R2S0t5Zlg0Tkxlei1aUlRrdnZ5RzBTTFNoZzhlYkRxZE9LZFoxOUFBRjV0dU1ibm0xMVNwQ0NGTTFiTm9STnBUYXVZWU8yenl2S1VFamlFM2J5ek12UVJfM1h6U21GQXZadzNlclgtN25qWGxFV01UR2FEcE1SQzl6NzY5WTZZbWU0VTl1WDlEUdIBrAFBVV95cUxNMWU0WFJGOXpLNXpKMDZmdU1jdXZZOXo1bXBuSDlIcUowX09HOVVOZHBxTm1UTVZHbG90QXprTUx6ZEptWmNqbmZQNDVnRXhaYTNHV2NualdseGhsYTZ6dC1MMWJDZ2czQjRCcmF0ZWhKelJ5QnhsUFltMHhpR21kaHY5bWNndTZJVVVjck41ZmtGUTgtNVZ0YWZKd21tOURzT3ZNLVlfbmwxUU1U?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Melike Şahin'in eşi kaç yaşında? Melike Şahin'in eşi kimdir?"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Okan Bayülgen’in kızı İstanbul’a uluslararası sanat ödülü",
+      "normalized_title": "okan bayulgen in kizi istanbul a uluslararasi sanat odulu",
+      "url": "https://news.google.com/read/CBMijwFBVV95cUxPd0RMTDFTem9QdWZmX1Z1VkktaW4yTGZOQW1LYVF2RHEwQWJkWFp5VmZtTjJ3dWx3aU52SzlxY3l2blIweWs3NHRpdmZZZUxqNlVHV2J4RWI0RjBYM2lHSEU3M2daZlpoS19UakdJY3pVRlhwTUhlRXRYaHdVaWhrcmZaTllTT2hsV2x1RUIxZw?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.047844+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMijwFBVV95cUxPd0RMTDFTem9QdWZmX1Z1VkktaW4yTGZOQW1LYVF2RHEwQWJkWFp5VmZtTjJ3dWx3aU52SzlxY3l2blIweWs3NHRpdmZZZUxqNlVHV2J4RWI0RjBYM2lHSEU3M2daZlpoS19UakdJY3pVRlhwTUhlRXRYaHdVaWhrcmZaTllTT2hsV2x1RUIxZw?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Okan Bayülgen’in kızı İstanbul’a uluslararası sanat ödülü"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Silinmeden Yetişin: 3-10 Ekim'de Ünlülerin Paylaştığı \"Kaçarsa Yazık Olur\" Temalı Instagram Hikayeleri",
+      "normalized_title": "silinmeden yetisin 3 10 ekim de unlulerin paylastigi kacarsa yazik olur temali instagram hikayeleri",
+      "url": "https://news.google.com/read/CBMizAFBVV95cUxPZzk3a0NkX3FCU2J1bEhVTy1pa183Q3hTQTNaN3JKMjZEWl9jc3BUUEV6cDVQWnZQa2t6bUF0WmRmbWZ3elVwbUExVVBYU1RQeU1zQW5lMjNDT2hIUU1SM2U0a0RRal9JNnBlMGEzMjhDak50cVI0dHNTV2lLZG50NG92LU91UEFzYjljNnlQVmhkV1J2QTY0a2tPWDNFeEFnUTdvQXNWUjNnYU5yWldMbXlLdzdqWnVJVXJadnl4ZTI0TTFwMTJqUXU2cGc?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.047899+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMizAFBVV95cUxPZzk3a0NkX3FCU2J1bEhVTy1pa183Q3hTQTNaN3JKMjZEWl9jc3BUUEV6cDVQWnZQa2t6bUF0WmRmbWZ3elVwbUExVVBYU1RQeU1zQW5lMjNDT2hIUU1SM2U0a0RRal9JNnBlMGEzMjhDak50cVI0dHNTV2lLZG50NG92LU91UEFzYjljNnlQVmhkV1J2QTY0a2tPWDNFeEFnUTdvQXNWUjNnYU5yWldMbXlLdzdqWnVJVXJadnl4ZTI0TTFwMTJqUXU2cGc?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Silinmeden Yetişin: 3-10 Ekim'de Ünlülerin Paylaştığı \"Kaçarsa Yazık Olur\" Temalı Instagram Hikayeleri"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Demet Sağıroğlu: \"Kınalı Bebek 24 saatte 72 kez yayınlandı\"",
+      "normalized_title": "demet sagiroglu kinali bebek 24 saatte 72 kez yayinlandi",
+      "url": "https://news.google.com/read/CBMimAFBVV95cUxOTVZoWE8zT3ZpOU5zV3g1N2t5M3l5enNZX2pudHB0RGIyeVFWNjdUakpJUUhfZi0wUF9PX0NkSGtrTkhpS2tPMW1aTS1jUnBsQ0xPQ0k4OGpyX3V2WF9UTEN4TmJBREJLZ2NBWDRIaTFzUGlNUUYyZUpYODhxM0ZBSTVDc0t4cnlYUVhVVFdocUVkc3BYMUd5UA?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.047946+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMimAFBVV95cUxOTVZoWE8zT3ZpOU5zV3g1N2t5M3l5enNZX2pudHB0RGIyeVFWNjdUakpJUUhfZi0wUF9PX0NkSGtrTkhpS2tPMW1aTS1jUnBsQ0xPQ0k4OGpyX3V2WF9UTEN4TmJBREJLZ2NBWDRIaTFzUGlNUUYyZUpYODhxM0ZBSTVDc0t4cnlYUVhVVFdocUVkc3BYMUd5UA?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Demet Sağıroğlu: \"Kınalı Bebek 24 saatte 72 kez yayınlandı\""
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Direk Dansıyla Gündem Olan Selin Türkmen, Karma'da O Sahnenin Bir Kez Daha Geleceğini Söyledi",
+      "normalized_title": "direk dansiyla gundem olan selin turkmen karma da o sahnenin bir kez daha gelecegini soyledi",
+      "url": "https://news.google.com/read/CBMiwwFBVV95cUxPXzdFWmtuSTE5cUg1a1lPRkFqUWQ4emtDUUdkVE9obXNxMUg1TVZfN2dLUld1bkxXQkJ5SGZBQUwyRW5QQ1IzZzhSemppSy1LMDVaRGhiRWpnQmgtcWI0dFg5WUpzVWRCUHh4c1IzUGU0RlhaUzNHaG5yclBDREdmd3VyU3Bia1pSVmp2R0dySWpRcFFPZlM3SmFzNlFtY3YtUWRWM1hSZ01JY3d5eGdGZ0VHSWNkMlNKWTlpSGRGVDZXTkk?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.047998+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMiwwFBVV95cUxPXzdFWmtuSTE5cUg1a1lPRkFqUWQ4emtDUUdkVE9obXNxMUg1TVZfN2dLUld1bkxXQkJ5SGZBQUwyRW5QQ1IzZzhSemppSy1LMDVaRGhiRWpnQmgtcWI0dFg5WUpzVWRCUHh4c1IzUGU0RlhaUzNHaG5yclBDREdmd3VyU3Bia1pSVmp2R0dySWpRcFFPZlM3SmFzNlFtY3YtUWRWM1hSZ01JY3d5eGdGZ0VHSWNkMlNKWTlpSGRGVDZXTkk?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Direk Dansıyla Gündem Olan Selin Türkmen, Karma'da O Sahnenin Bir Kez Daha Geleceğini Söyledi"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Kızılcık Şerbeti'nin Çimen'i de Kadroda: Exxen'in Sevilen Dizisi Karma Yıldızlarla Dolu 2. Sezonuyla Döndü!",
+      "normalized_title": "kizilcik serbeti nin cimen i de kadroda exxen in sevilen dizisi karma yildizlarla dolu 2 sezonuyla dondu",
+      "url": "https://news.google.com/read/CBMi0wFBVV95cUxNeFRaZlhtYk5HSmZpSGp1UEVzTVRjYmI3UEJ1Q1ZpOWQ5VG5GM1A2RDEyaTQtQnMwMTJMSm9uT0d0YVpFZjdrZ2pCVDJOSlVjTDFXOHFqRW5wZmlPNFhnS0JWbU5MYlZaX0Nhb1U1M3JoVHFrZTdCWm9oRlRIM2wwSlFnNV8xWVBzelhSSEZpbkk4ZlkxdnFZOGxxR2xmM283TVQxSG9rdFBvREJTdTE2eUh6YW9GRkUxSHJwbG9Ra2hUc2MxSFotRlpuQ0t2Yy1aTjhj?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.048060+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMi0wFBVV95cUxNeFRaZlhtYk5HSmZpSGp1UEVzTVRjYmI3UEJ1Q1ZpOWQ5VG5GM1A2RDEyaTQtQnMwMTJMSm9uT0d0YVpFZjdrZ2pCVDJOSlVjTDFXOHFqRW5wZmlPNFhnS0JWbU5MYlZaX0Nhb1U1M3JoVHFrZTdCWm9oRlRIM2wwSlFnNV8xWVBzelhSSEZpbkk4ZlkxdnFZOGxxR2xmM283TVQxSG9rdFBvREJTdTE2eUh6YW9GRkUxSHJwbG9Ra2hUc2MxSFotRlpuQ0t2Yy1aTjhj?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Kızılcık Şerbeti'nin Çimen'i de Kadroda: Exxen'in Sevilen Dizisi Karma Yıldızlarla Dolu 2. Sezonuyla Döndü!"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "SELİN TÜRKMEN KİMDİR, KAÇ YAŞINDA? SELİN TÜRKMEN OLAYI NE, SELİN TÜRKMEN HANGİ DİZİLERDE OYNADI?",
+      "normalized_title": "selin turkmen kimdir kac yasinda selin turkmen olayi ne selin turkmen hangi dizilerde oynadi",
+      "url": "https://news.google.com/read/CBMizAFBVV95cUxNNWlkS05VdGdaQ05VOE9CaExHbzAyQnVRMWtPNWxxbUJLUVg4NU1vQTJhQTRSczdxakhoMGtjdnBpOUIzOE5lTGlkWGhpbFJPYm9qOXRJQ25EeWtkZ2htSEQ1VTNuOGdYZS1MU1lWSVpiRWZuaWpzNHdObHlXNEdYT09HUDhXRXh0Z3FjRG45TFVqZ0JKRmdOcnY5T2Q4ZFhhR0JYSDY5Skk5VHFUS2hOVWpRSV9TZTJSM1ZDTkJLRlV4M2kzN1drMTZHaEM?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.048118+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMizAFBVV95cUxNNWlkS05VdGdaQ05VOE9CaExHbzAyQnVRMWtPNWxxbUJLUVg4NU1vQTJhQTRSczdxakhoMGtjdnBpOUIzOE5lTGlkWGhpbFJPYm9qOXRJQ25EeWtkZ2htSEQ1VTNuOGdYZS1MU1lWSVpiRWZuaWpzNHdObHlXNEdYT09HUDhXRXh0Z3FjRG45TFVqZ0JKRmdOcnY5T2Q4ZFhhR0JYSDY5Skk5VHFUS2hOVWpRSV9TZTJSM1ZDTkJLRlV4M2kzN1drMTZHaEM?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "SELİN TÜRKMEN KİMDİR, KAÇ YAŞINDA? SELİN TÜRKMEN OLAYI NE, SELİN TÜRKMEN HANGİ DİZİLERDE OYNADI?"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Karma’nın ikinci sezonu Exxen'de yayında",
+      "normalized_title": "karma nin ikinci sezonu exxen de yayinda",
+      "url": "https://news.google.com/read/CBMidEFVX3lxTE5sbXZBVzdGY3MyRnM0YkN5RVFDSUVaV3E3TDVCQnRYZUd1VV9qMmx3cDkzZzhkTlRYTXdMVUpRdjRjVmpFUkRBdUNaamllZjYzQlN1SGZYVHI1bWp1U3JxeDVsU2ExbHdMY2RzcjVscHh5YWsx?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.048166+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMidEFVX3lxTE5sbXZBVzdGY3MyRnM0YkN5RVFDSUVaV3E3TDVCQnRYZUd1VV9qMmx3cDkzZzhkTlRYTXdMVUpRdjRjVmpFUkRBdUNaamllZjYzQlN1SGZYVHI1bWp1U3JxeDVsU2ExbHdMY2RzcjVscHh5YWsx?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Karma’nın ikinci sezonu Exxen'de yayında"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "İbrahim Karakaş'tan Dilber Ay'ın kızına yanıt: Bunlar yüzünden eşim terk etti",
+      "normalized_title": "ibrahim karakas tan dilber ay in kizina yanit bunlar yuzunden esim terk etti",
+      "url": "https://news.google.com/read/CBMilwFBVV95cUxNaDMxVm5FS1o3aHctOEJBZlVWVXZENEJ3UmpQVWxudENvWDUxQUI5SHR4S3lOcVBFeW5hR1p6MjM4ZFdCVDl6MUNBT3AwUU4xblBGMTk1M0g5bXdpWmRPRmd5YW9Bb2h2SzNnV0pMVmNVQmdkMHA5VFdfbW5NMGdkNTVvTzMyM3FycDNrODF5emRvMkRiTGpj?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.048323+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMilwFBVV95cUxNaDMxVm5FS1o3aHctOEJBZlVWVXZENEJ3UmpQVWxudENvWDUxQUI5SHR4S3lOcVBFeW5hR1p6MjM4ZFdCVDl6MUNBT3AwUU4xblBGMTk1M0g5bXdpWmRPRmd5YW9Bb2h2SzNnV0pMVmNVQmdkMHA5VFdfbW5NMGdkNTVvTzMyM3FycDNrODF5emRvMkRiTGpj?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "İbrahim Karakaş'tan Dilber Ay'ın kızına yanıt: Bunlar yüzünden eşim terk etti"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Kendine yine yağlı kapı buldu",
+      "normalized_title": "kendine yine yagli kapi buldu",
+      "url": "https://news.google.com/read/CBMiekFVX3lxTFAwZ3loQXdDZFZXc0ZjQXFSbXdubVZJemY4ZF9meXRSR3BCeW1qRFhISG5TTXFvZ2p0dmZsRC1vbi1XQkFFSG53RURGLUpjVmgzRFc2WlBidlRxS1ZCbHR4STJhTVc4ejBsZ2VIcEtfd3JPMTZsUmpnWnVn0gF8QVVfeXFMTk5oZkY3XzZaWHdQUzd6bW9WLU1JaENQWFQyaFFrTFh6ZzlpLXl3Sjc1LWFrT3hSdXo2c05ZUjVRdFZ2UWYwSks4NXhaN1RlaUs2NmtpVUZKbjJ5S203bERhT1EwYTd3WWYtN2tpSzFVLTVOSTVCcTBaR25JWg?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "publisher-label:google-news-sonucu",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:22:13.048367+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "publisher-label:google-news-sonucu",
+          "url": "https://news.google.com/read/CBMiekFVX3lxTFAwZ3loQXdDZFZXc0ZjQXFSbXdubVZJemY4ZF9meXRSR3BCeW1qRFhISG5TTXFvZ2p0dmZsRC1vbi1XQkFFSG53RURGLUpjVmgzRFc2WlBidlRxS1ZCbHR4STJhTVc4ejBsZ2VIcEtfd3JPMTZsUmpnWnVn0gF8QVVfeXFMTk5oZkY3XzZaWHdQUzd6bW9WLU1JaENQWFQyaFFrTFh6ZzlpLXl3Sjc1LWFrT3hSdXo2c05ZUjVRdFZ2UWYwSks4NXhaN1RlaUs2NmtpVUZKbjJ5S203bERhT1EwYTd3WWYtN2tpSzFVLTVOSTVCcTBaR25JWg?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Kendine yine yağlı kapı buldu"
+        }
+      ],
+      "publisher_domains": [
+        "publisher-label:google-news-sonucu"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
