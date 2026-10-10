@@ -54,6 +54,30 @@ class MatchingTests(unittest.TestCase):
         spread = rank([direct, discovery1, discovery2])[0]["popularity_score"]
         self.assertGreater(spread, baseline)
 
+    def test_independent_publishers_beat_discovery_repetition(self):
+        broad1 = article("Hadise Kerem Bürsin Milano davetinde görüntülendi", "CNN", "cnnturk.com")
+        broad2 = article("Hadise ve Kerem Bürsin Milano Moda Haftası'nda aynı davette", "Mynet", "mynet.com")
+        discovery = [
+            article("Hadise Kerem Bürsin Milano moda haftası - Haberler", "Google News keşif 1", "news.google.com", role="discovery_only"),
+            article("Hadise Kerem Bürsin Milano moda haftası - Milliyet", "Google News keşif 2", "news.google.com", role="discovery_only"),
+            article("Hadise Kerem Bürsin Milano moda haftası - Sabah", "Google News keşif 3", "news.google.com", role="discovery_only"),
+        ]
+        broad = rank([broad1, broad2])[0]
+        narrow = rank([broad1, *discovery])[0]
+        self.assertGreater(broad["popularity_score"], narrow["popularity_score"])
+        self.assertEqual(broad["publisher_count"], 2)
+
+    def test_daily_shortlist_limits_same_reality_show(self):
+        items = [
+            article("MasterChef eleme adayı 10 Ekim 2026", "CNN", "cnnturk.com"),
+            article("MasterChef dokunulmazlık oyunu 9 Ekim 2026", "Mynet", "mynet.com"),
+            article("Survivor Serhan Onat Merve Küsmenoğlu evlendi", "Habertürk", "haberturk.com"),
+            article("Hadise yeni açıklama yaptı", "Sabah", "sabah.com.tr"),
+        ]
+        selected = select_top_stories(rank(items), 3)
+        self.assertEqual(len(selected), 3)
+        self.assertEqual(sum("masterchef" in x["title"].lower() for x in selected), 1)
+
     def test_discovery_only_items_are_not_selected(self):
         item = article("Ünlü isimden açıklama", "Google News - keşif", "news.google.com", role="discovery_only")
         self.assertEqual(select_top_stories(rank([item]), 3), [])
