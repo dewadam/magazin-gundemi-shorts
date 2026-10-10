@@ -50,22 +50,36 @@ def collect_other_source_headlines(selected_items: list[dict]) -> dict[str, list
             LOG.info("İkinci kaynak RSS: %s | aday başlık: %d | biçim uyarısı: %s", source.get("name", source["url"]), len(entries), getattr(feed, "bozo", False))
             if not entries:
                 LOG.warning("İkinci kaynak RSS içinde haber bulunamadı; URL doğrudan RSS olmayabilir: %s", source["url"])
-            for entry in entries[:80]:
-                other_title = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", str(getattr(entry, "title", "")))).strip()
+            for entry in entries[:100]:
+                def clean(value: object) -> str:
+                    return re.sub(r"\\s+", " ", re.sub(r"<[^>]+>", " ", str(value or ""))).strip()
+
+                other_title = clean(getattr(entry, "title", ""))
+                other_summary = clean(getattr(entry, "summary", "") or getattr(entry, "description", ""))
                 other_url = str(getattr(entry, "link", ""))
-                domain = re.sub(r"^www\.", "", __import__("urllib.parse", fromlist=["urlparse"]).urlparse(other_url).netloc.lower())
+                domain = re.sub(r"^www\\.", "", __import__("urllib.parse", fromlist=["urlparse"]).urlparse(other_url).netloc.lower())
                 if not other_title or not other_url:
                     continue
                 for item in selected_items:
-                    original_domain = re.sub(r"^www\.", "", str(item.get("source_domain", "")).lower())
+                    original_domain = re.sub(r"^www\\.", "", str(item.get("source_domain", "")).lower())
                     if domain == original_domain:
                         continue
-                    sim = title_similarity(str(item.get("title", "")), other_title)
+                    # Başlıklar farklı yazılmış olabileceği için haber özetiyle de karşılaştır.
+                    item_title = str(item.get("title", ""))
+                    item_summary = str(item.get("summary", ""))
+                    title_sim = title_similarity(item_title, other_title)
+                    summary_sim = title_similarity(item_summary, other_title + " " + other_summary) if item_summary else 0.0
+                    sim = max(title_sim, summary_sim)
                     if sim >= 0.45:
-                        matches[str(item.get("url", ""))].append({
+                        target = matches[str(item.get("url", ""))]
+                        candidate = {
                             "source": source.get("name", domain), "title": other_title,
-                            "url": other_url, "title_similarity": round(sim, 2)
-                        })
+                            "url": other_url, "title_similarity": round(sim, 2),
+                            "match_basis": "title" if title_sim >= summary_sim else "summary_and_title"
+                        }
+                        # Aynı RSS kaydını tekrar ekleme.
+                        if not any(existing.get("url") == other_url for existing in target):
+                            target.append(candidate)
         except Exception as exc:
             LOG.warning("İkinci kaynak akışı okunamadı (%s): %s", source.get("name", "bilinmiyor"), str(exc)[:200])
     return matches
