@@ -50,7 +50,7 @@ def collect_other_source_headlines(selected_items: list[dict]) -> dict[str, list
             LOG.info("İkinci kaynak RSS: %s | aday başlık: %d | biçim uyarısı: %s", source.get("name", source["url"]), len(entries), getattr(feed, "bozo", False))
             if not entries:
                 LOG.warning("İkinci kaynak RSS içinde haber bulunamadı; URL doğrudan RSS olmayabilir: %s", source["url"])
-            for entry in entries[:100]:
+            for entry in entries[:400]:
                 def clean(value: object) -> str:
                     return re.sub(r"\\s+", " ", re.sub(r"<[^>]+>", " ", str(value or ""))).strip()
 
@@ -159,7 +159,8 @@ def main() -> int:
             "Bu kontrol yalnızca bağlantının erişilebilirliğini ve sayfa üst verilerini denetler. Haberin doğruluğunu veya görsel kullanım iznini kanıtlamaz; yayın öncesi bağımsız kaynak doğrulaması gerekir."
         )
         results.append(record)
-        print(f"- {'ERİŞİLEBİLİR' if page['reachable'] else 'KONTROL GEREKİYOR'}: {item.get('title', '(başlıksız)')}")
+        match_count = len(record["independent_source_matches"])
+        print(f"- {'ERİŞİLEBİLİR' if page['reachable'] else 'KONTROL GEREKİYOR'}: {item.get('title', '(başlıksız)')} | olası bağımsız kaynak eşleşmesi: {match_count}")
 
     output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
