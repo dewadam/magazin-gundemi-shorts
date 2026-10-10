@@ -183,11 +183,45 @@ def select_top_stories(ranked, limit=3):
   if len(selected) >= limit: break
  return selected
 
+def expand_with_google_search(items, max_queries=25, results_per_query=25):
+ # Start from Google News topic-page candidates, then search each promising event
+ # directly in Google News to discover coverage that is not visible in the topic feed.
+ try:
+  from news_collector import search_google_news
+ except ImportError:
+  from src.news_collector import search_google_news
+ initial_ranked=rank(items)
+ queries=[]
+ seen_titles=set()
+ for item in initial_ranked:
+  title=str(item.get('title','')).strip()
+  key=norm(title)
+  if title and key not in seen_titles:
+   seen_titles.add(key)
+   queries.append(title)
+  if len(queries)>=max_queries: break
+ expanded=list(items)
+ seen_urls={str(x.get('url','')) for x in expanded if x.get('url')}
+ for title in queries:
+  try:
+   found=search_google_news(title, max_items=results_per_query)
+   for item in found:
+    url=str(item.get('url',''))
+    if url and url not in seen_urls:
+     seen_urls.add(url)
+     expanded.append(item)
+  except Exception as exc:
+   print(f'Google News olay araması atlandı: {title[:90]} | {str(exc)[:160]}')
+ print(f'Google News ek olay araması: {len(queries)} sorgu | toplam aday: {len(expanded)}')
+ return expanded
+
 def main():
  path=ROOT/'data/news_latest.json'
  if not path.exists(): print(f'Girdi bulunamadı: {path}',file=sys.stderr);return 2
  payload=json.loads(path.read_text(encoding='utf-8'))
- ranked=rank(payload.get('items',[]))
+ discovered=payload.get('items',[])
+ expanded=expand_with_google_search(discovered)
+ ranked=rank(expanded)
  multi=[x for x in ranked if x['publisher_count']>=2 and not x['possible_syndication']]
  selected=select_top_stories(ranked, 3)
  output={'generated_at':datetime.now(timezone.utc).isoformat(),
