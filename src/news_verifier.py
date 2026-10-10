@@ -80,36 +80,44 @@ def event_similarity(item: dict, other_title: str, other_summary: str) -> tuple[
 
 
 def collect_other_source_headlines(selected_items: list[dict]) -> dict[str, list[dict]]:
-    """Search each selected event on Google News; do not compare publisher RSS feeds."""
+    """Read the Google News story cluster already associated with each selected event."""
     try:
-        from news_collector import search_google_news
+        from news_collector import fetch_google_news_source
     except ImportError:
-        from src.news_collector import search_google_news
+        from src.news_collector import fetch_google_news_source
     matches: dict[str, list[dict]] = {str(item.get("url", "")): [] for item in selected_items}
     for item in selected_items:
-        title = str(item.get("title", "")).strip()
-        if not title:
+        cluster_url = str(item.get("cluster_url", "") or "")
+        if not cluster_url:
+            # If a cluster URL was not carried into the selected representative, look
+            # for the Google News cluster among the event's grouped source references.
+            for other in item.get("source_articles", []) or []:
+                candidate_url = str(other.get("url", ""))
+                if "/read/" in candidate_url or "/stories/" in candidate_url:
+                    cluster_url = candidate_url
+                    break
+        if not cluster_url:
+            LOG.info("Google News küme URL'si yok; ek kaynak sayımı atlandı: %s", item.get("title", ""))
             continue
         try:
-            candidates = search_google_news(title, max_items=40)
+            candidates = fetch_google_news_source(
+                {"name": "Google News doğrulama kümesi", "url": cluster_url}, 100, 72
+            )
         except Exception as exc:
-            LOG.warning("Google News olay araması başarısız: %s | %s", title[:100], str(exc)[:180])
+            LOG.warning("Google News kümesi açılamadı: %s | %s", item.get("title", "")[:100], str(exc)[:180])
             continue
         target = matches[str(item.get("url", ""))]
-        original_domain = re.sub(r"^www\\.", "", str(item.get("source_domain", "")).lower())
-        seen_urls = set()
+        seen = set()
         for candidate in candidates:
             url = str(candidate.get("url", ""))
-            domain = re.sub(r"^www\\.", "", str(candidate.get("source_domain", "")).lower())
-            if not url or url == item.get("url") or url in seen_urls:
-                continue
-            if domain and original_domain and domain == original_domain:
+            domain = str(candidate.get("source_domain", "")).lower().removeprefix("www.")
+            if not url or url == item.get("url") or url in seen:
                 continue
             sim, shared, basis = event_similarity(item, candidate.get("title", ""), candidate.get("summary", ""))
             if sim >= 0.25 and len(shared) >= 2:
-                seen_urls.add(url)
+                seen.add(url)
                 target.append({
-                    "source": candidate.get("source", "Google News sonucu"),
+                    "source": candidate.get("source", domain),
                     "source_domain": domain,
                     "title": candidate.get("title", ""),
                     "summary": str(candidate.get("summary", ""))[:500],
@@ -117,7 +125,7 @@ def collect_other_source_headlines(selected_items: list[dict]) -> dict[str, list
                     "match_score": round(sim, 2),
                     "shared_keywords": shared[:12],
                     "match_basis": basis,
-                    "discovery_method": "Google News arama sonucu",
+                    "discovery_method": "Google News hikâye kümesi",
                 })
     return matches
 
