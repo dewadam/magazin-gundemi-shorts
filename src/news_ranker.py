@@ -102,19 +102,13 @@ def observations(items):
  return result
 
 def group_events(items):
+ # Use the dedicated conservative matcher shared with regression tests.
+ try:
+  from event_matcher import group_events as match_groups
+ except ImportError:
+  from src.event_matcher import group_events as match_groups
  candidates=observations(items)
- # Prefer direct publishers; keep discovery feeds available only for event discovery.
- candidates.sort(key=lambda i:(role(i)!='discovery_only',len(tok(i.get('title',''))),len(tok(i.get('summary','')))),reverse=True)
- groups=[]
- for item in candidates:
-  match=None
-  for group in groups:
-   # Match to representative only to prevent chain-merging different events.
-   ok,_,_=compare(item,group[0])
-   if ok:
-    match=group;break
-  if match is None: groups.append([item])
-  else: match.append(item)
+ groups, review=match_groups(candidates)
  return groups
 
 def rank(items):
