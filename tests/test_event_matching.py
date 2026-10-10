@@ -55,6 +55,20 @@ class EventMatcherTests(unittest.TestCase):
         ]
         self.assertEqual(len(source_articles(a)), 1)
 
+    def test_dilber_ay_story_reworded_across_publishers(self):
+        a = story("Dilber Ay'ın kızından tepki İbrahim Karakaş'a yanıt",
+                  source="Habertürk", role="publisher")
+        a["source_domain"] = "haberturk.com"
+        b = story("Dilber Ay'ın kızı tepki göstermişti İbrahim Karakaş'tan imam nikahı çıkışı",
+                  source="Mynet", role="publisher")
+        b["source_domain"] = "mynet.com"
+        self.assertTrue(same_event(a, b)[0])
+
+    def test_same_celebrity_different_developments_stay_separate(self):
+        a = story("Selin Türkmen yeni rolüyle şaşırttı direk dansı sahnesi gündem oldu")
+        b = story("Selin Türkmen yeni evini paylaştı")
+        self.assertFalse(same_event(a, b)[0])
+
     def test_complete_link_no_transitive_merging(self):
         items = [story("Serhan Onat Merve Küsmenoğlu evlendi"),
                  story("Serhan Onat Merve Küsmenoğlu düğün evlendi"),
