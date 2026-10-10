@@ -128,16 +128,19 @@ def rank(items):
   # Exact same titles across publishers can be syndicated wire copy, not independent confirmation.
   title_norms=[norm(i.get('title')) for i in publisher_items]
   possible_syndication=len(domains)>=2 and len(set(title_norms))==1
-  discovery_count=sum(role(i)=='discovery_only' for i in members)
+  # Count distinct article URLs as mentions; keep publisher reach separate so one outlet
+  # publishing several updates cannot masquerade as broad independent coverage.
+  direct_urls={str(i.get('url') or '') for i in publisher_items if i.get('url')}
+  direct_article_count=len(direct_urls)
+  discovery_count=sum(1 for i in members if role(i)=='discovery_only')
   latest=max((date(i) for i in members if date(i) is not None), default=None)
   age_hours=max(0.0,(datetime.now(timezone.utc)-latest.astimezone(timezone.utc)).total_seconds()/3600) if latest else 48.0
-  # Heuristic trend score: independent publisher coverage matters most; repeated discovery-feed
-  # appearances add evidence of spread; recency boosts fast-moving stories. This is a proxy,
-  # not a real view/share count.
+  # Trend proxy: distinct publisher reach is strongest, extra article mentions and
+  # discovery-feed appearances add evidence, freshness breaks ties. Not view/share analytics.
   recency_score=max(0.0, 24.0-age_hours)/24.0
-  popularity_score=round(3.0*len(domains)+1.5*discovery_count+2.0*recency_score,3)
+  popularity_score=round(3.0*len(domains)+0.5*max(0,direct_article_count-len(domains))+1.5*discovery_count+2.0*recency_score,3)
   output.append({**representative,'source_articles':sources,'publisher_domains':domains,
-   'publisher_count':len(domains),'event_member_count':len(members),
+   'publisher_count':len(domains),'direct_article_count':direct_article_count,'event_member_count':len(members),
    'discovery_item_count':discovery_count,'latest_published_at':latest.isoformat() if latest else None,
    'age_hours':round(age_hours,2),'popularity_score':popularity_score,
    'possible_syndication':possible_syndication,
@@ -180,7 +183,8 @@ def main():
  target.write_text(json.dumps(output,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
  print(f'Ham aday: {output["candidate_count"]} | Olay grubu: {len(ranked)} | Çok yayın kuruluşlu olay (sendikasyon hariç): {len(multi)}')
  for idx,item in enumerate(selected,1):
-  print(f'{idx}. [{item["publisher_count"]} yayın kuruluşu] {item["title"]}')
+  print(f'{idx}. Trend puanı {item["popularity_score"]} | {item["publisher_count"]} farklı yayın | {item.get("direct_article_count", 0)} doğrudan haber | {item["discovery_item_count"]} keşif görünümü')
+  print('   '+item['title'])
   print('   Kaynaklar: '+', '.join(s['source'] or s['source_domain'] for s in item['source_articles']))
   print('   Manuel kontrol: içerik ve kaynak bağımsızlığı henüz doğrulanmadı.')
  if len(selected)<3: print('UYARI: Üç ayrı doğrudan yayıncı haberi bulunamadı; mevcut sayı seçildi.')
