@@ -54,7 +54,10 @@
       "name": "Milliyet Magazin",
       "url": "https://www.milliyet.com.tr/rss/rssNew/magazinRss.xml",
       "enabled": true,
-      "note": "Magazin kategorisi RSS; bağımsız kaynak adayı, Actions loglarında akışın geçerliliği kontrol edilecek."
+      "note": "RSS akışı magazin dışı kategorileri de döndürebildiği için yalnızca /magazin/ yolundaki haberler alınır.",
+      "allowed_url_path_prefixes": [
+        "/magazin/"
+      ]
     },
     {
       "name": "Sabah Magazin",
