@@ -133,13 +133,51 @@ def fetch_google_news_source(source: dict, max_items: int, lookback_hours: int) 
     html = fetch_html(url)
     parser = GoogleNewsHTMLParser()
     parser.feed(html)
-    cards = parser.cards
-    # Some Google News page layouts do not expose <article> wrappers. Fall back to
-    # anchors carrying article URLs and keep only likely headline-length text.
-    if not cards:
-        cards = [{"text": [x.get("text", "")], "links": [x]} for x in parser.links if len(clean_text(x.get("text", ""))) > 18]
     results = []
     seen = set()
+
+    # Google News /read and /stories pages are story clusters. Their useful signal
+    # is the list of distinct publisher articles inside the cluster, not the Google URL.
+    path = urlparse(url).path
+    if "/read/" in path or "/stories/" in path:
+        for link in parser.links:
+            href = str(link.get("direct_url") or link.get("href") or "")
+            title = clean_text(link.get("text", ""))
+            if not href or not title or len(title) < 12:
+                continue
+            full_url = urljoin(url, href)
+            domain = urlparse(full_url).netloc.lower().removeprefix("www.")
+            if not domain or domain.endswith("google.com") or domain.endswith("googleusercontent.com"):
+                continue
+            key = (domain, normalize_title(title))
+            if key in seen:
+                continue
+            seen.add(key)
+            results.append({
+                "title": title,
+                "normalized_title": normalize_title(title),
+                "url": full_url,
+                "source": domain,
+                "source_role": "publisher",
+                "source_domain": domain,
+                "published_at": None,
+                "summary": "Google News haber kümesindeki yayıncı bağlantısından bulundu.",
+                "image_url": None,
+                "collected_at": datetime.now(timezone.utc).isoformat(),
+                "status": "google_news_cluster_article",
+                "discovery_source": name,
+            })
+            if len(results) >= max_items:
+                break
+        LOG.info("Google News haber kümesinden çıkarılan yayıncı haberi: %d", len(results))
+        return results
+
+    cards = parser.cards
+    # Google News topic layout sometimes has no <article> wrappers. In that case
+    # retain the /read/ or /stories/ cluster URL and do not invent a publisher name.
+    if not cards:
+        cards = [{"text": [x.get("text", "")], "links": [x]} for x in parser.links
+                 if len(clean_text(x.get("text", ""))) > 18]
     for card in cards:
         title, publisher_name, link, domain = source_from_card(card)
         if not title or not link or title.lower() in seen:
@@ -152,10 +190,10 @@ def fetch_google_news_source(source: dict, max_items: int, lookback_hours: int) 
             "normalized_title": normalize_title(title),
             "url": link,
             "source": publisher_name,
-            "source_role": "publisher",
-            "source_domain": domain,
+            "source_role": "google_news_cluster",
+            "source_domain": "google-news-cluster:" + normalize_title(title)[:70].replace(" ", "-"),
             "published_at": None,
-            "summary": "Google News konu akışından bulunan haber adayı. Yayın zamanı ve kaynak sayfası ayrıca incelenmelidir.",
+            "summary": "Google News konu akışından bulunan haber kümesi. Kaynak sayısı ilgili /read/ veya /stories/ sayfasından çıkarılmalıdır.",
             "image_url": None,
             "collected_at": datetime.now(timezone.utc).isoformat(),
             "status": "google_news_discovered_not_verified",
