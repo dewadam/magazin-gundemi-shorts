@@ -73,6 +73,11 @@ class EventMatcherTests(unittest.TestCase):
         b["source_domain"] = "mynet.com"
         self.assertTrue(same_event(a, b)[0])
 
+    def test_different_masterchef_dates_do_not_merge(self):
+        a = story("MasterChef eleme adayları 8 Ekim dokunulmazlık oyunu")
+        b = story("MasterChef eleme adayı 10 Ekim dokunulmazlık oyunu")
+        self.assertFalse(same_event(a, b)[0])
+
     def test_same_celebrity_different_developments_stay_separate(self):
         a = story("Selin Türkmen yeni rolüyle şaşırttı direk dansı sahnesi gündem oldu")
         b = story("Selin Türkmen yeni evini paylaştı")
