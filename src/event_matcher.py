@@ -88,7 +88,8 @@ def same_event(a: dict, b: dict) -> tuple[bool, float, str]:
             return False, score, "publication_dates_far_apart"
     except (ValueError, TypeError):
         pass
-    return (score >= 0.59), score, ("headline_event_match" if score >= 0.59 else "weak_match")
+    matched = score >= 0.59 or (action_agrees and len(shared) >= 2 and score >= 0.50)
+    return matched, score, ("headline_event_match" if matched else "weak_match")
 
 
 def group_events(items: list[dict]) -> tuple[list[list[dict]], list[dict]]:
