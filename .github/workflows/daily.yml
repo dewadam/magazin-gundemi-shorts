@@ -36,12 +36,15 @@ jobs:
       - name: Rank and select three distinct stories
         run: python src/news_ranker.py
 
+      - name: Check source pages and create verification queue
+        run: python src/news_verifier.py
+
       - name: Commit collected news
         run: |
           if [ -f data/news_latest.json ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add data/news_latest.json data/selected_news.json
+            git add data/news_latest.json data/selected_news.json data/verification_queue.json
             if ! git diff --cached --quiet; then
               git commit -m "Update collected magazine news"
               git push
