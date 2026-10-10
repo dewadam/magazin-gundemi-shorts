@@ -36,6 +36,9 @@ jobs:
       - name: Collect RSS news
         run: python src/news_collector.py
 
+      - name: Test event matching rules
+        run: python -m unittest discover -s tests -v
+
       - name: Group same events and rank by publisher coverage
         run: python src/news_ranker.py
 
