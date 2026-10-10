@@ -8,6 +8,7 @@ from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parents[1]
 STOP = set('ve veya ile icin bir bu su da de mi ne kim nasil iste son sonra once yeni ilk kez magazin gundem oldu olan etti dedi haber haberi izle full hd ekrani linki video foto fotograf resmen sok dizi oyuncu unlu'.split())
 PROGRAMS = {'masterchef', 'survivor'}
+MAX_PER_PROGRAM = 1
 ACTION_GROUPS = {
  'wedding': {'evlendi','nikah','dugun'}, 'divorce': {'bosandi','ayrildi'},
  'death': {'vefat','olum','hayatini','kaybetti'},
@@ -138,7 +139,9 @@ def rank(items):
   # Trend proxy: distinct publisher reach is strongest, extra article mentions and
   # discovery-feed appearances add evidence, freshness breaks ties. Not view/share analytics.
   recency_score=max(0.0, 24.0-age_hours)/24.0
-  popularity_score=round(3.0*len(domains)+0.5*max(0,direct_article_count-len(domains))+1.5*discovery_count+2.0*recency_score,3)
+  # Independent publisher reach must dominate discovery-feed repetition.
+  # Three Google News query feeds are discovery hints, not three independent publishers.
+  popularity_score=round(10.0*len(domains)+0.5*max(0,direct_article_count-len(domains))+0.5*min(discovery_count,6)+1.0*recency_score,3)
   output.append({**representative,'source_articles':sources,'publisher_domains':domains,
    'publisher_count':len(domains),'direct_article_count':direct_article_count,'event_member_count':len(members),
    'discovery_item_count':discovery_count,'latest_published_at':latest.isoformat() if latest else None,
@@ -152,18 +155,31 @@ def rank(items):
  return output
 
 
+def topic_key(item):
+ """Avoid filling the daily shortlist with several stories from one reality show."""
+ title=norm(item.get('title',''))
+ for program in PROGRAMS:
+  if re.search(r'\\b'+re.escape(program)+r'\\b', title):
+   return 'program:'+program
+ return ''
+
 def select_top_stories(ranked, limit=3):
- """Select distinct direct-publisher events; do not require two publishers per story."""
+ """Select distinct events; cap any named reality show at one story per daily shortlist."""
  selected=[]
  seen_urls=set()
+ seen_topics=set()
  for item in ranked:
   if role(item) == 'discovery_only' or not publisher(item):
    continue
   url=str(item.get('url') or '')
   if url and url in seen_urls:
    continue
+  topic=topic_key(item)
+  if topic and topic in seen_topics:
+   continue
   selected.append(item)
   if url: seen_urls.add(url)
+  if topic: seen_topics.add(topic)
   if len(selected) >= limit: break
  return selected
 
