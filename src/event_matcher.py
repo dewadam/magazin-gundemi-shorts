@@ -27,9 +27,10 @@ EVENT_WORDS = {
 }
 EVENT_ALIASES = {
     "dugun": "evlilik", "nikah": "evlilik", "evlendi": "evlilik",
-    "bosandi": "bosanma", "bosaniyor": "bosanma",
+    "bosandi": "bosanma", "bosaniyor": "bosanma", "bosanma": "bosanma",
     "ayrildi": "ayrilik", "ayriliyor": "ayrilik",
     "vefat": "olum", "oldu": "olum", "kaybetti": "olum",
+    "hayatini": "olum", "hayatini_kaybetti": "olum",
     "dokunulmazligi": "dokunulmazlik",
     "elendi": "eleme", "elenen": "eleme",
     "nisanlandi": "nisan",
@@ -48,7 +49,13 @@ def words(value: str) -> set[str]:
 
 
 def event_terms(title: str) -> set[str]:
-    return {EVENT_ALIASES.get(w, w) for w in words(title) if w in EVENT_WORDS}
+    # Event verbs must be read before generic stopword removal (e.g. "oldu").
+    raw = set(normalize(title).split())
+    result = {EVENT_ALIASES.get(w, w) for w in raw if w in EVENT_WORDS or w in EVENT_ALIASES}
+    # Turkish death headlines often express the event as a phrase.
+    if {"hayatini", "kaybetti"} <= raw:
+        result.add("olum")
+    return result
 
 
 def same_event(a: dict, b: dict) -> tuple[bool, float, str]:
