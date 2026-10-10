@@ -33,7 +33,10 @@ def publisher(i):
  return str(i.get('source_domain') or urlparse(str(i.get('url',''))).netloc).lower().removeprefix('www.')
 def role(i):
  s=str(i.get('source','')).lower()
- return i.get('source_role') or ('discovery_only' if 'google news' in s or 'keşif' in s or 'kesif' in s else 'publisher')
+ configured=i.get('source_role')
+ if configured == 'google_news_cluster':
+  return 'discovery_only'
+ return configured or ('discovery_only' if 'google news' in s or 'keşif' in s or 'kesif' in s else 'publisher')
 def date(i):
  try: return datetime.fromisoformat(str(i.get('published_at')).replace('Z','+00:00'))
  except (TypeError,ValueError): return None
