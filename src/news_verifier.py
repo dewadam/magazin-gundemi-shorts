@@ -28,6 +28,10 @@ MATCH_STOPWORDS = {
     "etti", "oldu", "oluyor", "olacak", "paylaştı", "paylasti", "konuştu",
     "konustu", "iddia", "iddiası", "iddiasi", "sonra", "önce", "once",
     "bugün", "bugun", "dün", "dun", "resmen", "işte", "iste", "şok", "sok",
+    # Magazin başlıklarında sık görülen, olayı ayırt etmeyen kelimeler ve ek parçaları
+    "esi", "es", "tan", "ten", "dan", "den", "yla", "yle", "oyuncu",
+    "sanatci", "usta", "yildiz", "tepki", "veda", "yas", "yasam",
+    "hayat", "durumu", "nasil", "nice", "gorusmek", "uzere", "yalniz",
 }
 
 
@@ -106,7 +110,9 @@ def collect_other_source_headlines(selected_items: list[dict]) -> dict[str, list
                         continue
                     sim, shared_keywords, basis = event_similarity(item, other_title, other_summary)
                     # A match means "review this possible same story", never "verified".
-                    if sim >= 0.32 and len(shared_keywords) >= 2:
+                    # Zayıf/genel ortak kelimelerle eşleşme üretme.
+                    # En az iki ayırt edici ortak terim ve daha güçlü bağlam benzerliği gerekir.
+                    if sim >= 0.42 and len(shared_keywords) >= 2:
                         target = matches[str(item.get("url", ""))]
                         candidate = {
                             "source": source.get("name", domain),
@@ -206,7 +212,7 @@ def main() -> int:
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "checked_count": len(results),
         "publication_approved_count": 0,
-        "note": "Olası aynı olaylar başlık + özet ortak anahtar kelimeleriyle bulunur. Eşleşmeler inceleme adayıdır, doğrulama veya yayın onayı değildir.",
+        "note": "Başlık ve özet benzerliği yalnızca olası eşleşme adayı üretir. Genel kelimeler filtrelenir; eşleşmeler haber doğrulaması veya yayın onayı değildir.",
         "items": results,
     }
     OUTPUT_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
