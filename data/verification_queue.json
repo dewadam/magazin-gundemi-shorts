@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T20:25:22.477897+00:00",
+  "generated_at": "2026-10-10T20:31:23.353990+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
-  "note": "Başlık ve özet benzerliği yalnızca olası eşleşme adayı üretir. Genel kelimeler filtrelenir; eşleşmeler haber doğrulaması veya yayın onayı değildir.",
+  "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
       "title": "Selin Türkmen yeni rolüyle şaşırttı! Direk dansı sahnesi gündem oldu",
@@ -13,10 +13,10 @@
       "published_at": "2026-10-10T11:48:40+00:00",
       "summary": "Kızılcık Şerbeti dizisinde hayat verdiği Çimen karakteriyle tanınan Selin Türkmen dizi sezon finalindeyken projeden apar topar ayrıldı. Şimdilerde Exxen dizisi Karma'daki sahneleriyle konuşulan Türkmen, direk dansı sahnesiyle dikkatleri üzerine çekti.",
       "image_url": "https://imgrosetta.mynet.com.tr/file/26600177/26600177-1200xauto.jpg",
-      "collected_at": "2026-10-10T20:25:17.017419+00:00",
+      "collected_at": "2026-10-10T20:31:20.207828+00:00",
       "status": "selected_not_verified",
       "also_reported_by": [],
-      "ranking_score": 11.78,
+      "ranking_score": 11.77,
       "ranking_reasons": [
         "anlaşılır başlık",
         "yeterli özet",
@@ -32,10 +32,146 @@
         "description": "Kızılcık Şerbeti dizisinde hayat verdiği Çimen karakteriyle tanınan Selin Türkmen dizi sezon finalindeyken projeden apar topar ayrıldı. Şimdilerde Exxen dizisi Karma'daki sahneleriyle konuşulan Türkmen, direk dansı sahnesiyle dikkatleri üzerine çekti.",
         "error": null
       },
-      "independent_source_matches": [],
-      "verification_status": "source_page_reachable_no_second_source_match",
+      "independent_source_matches": [
+        {
+          "source": "Habertürk Magazin",
+          "title": "'Kızılcık Şerbeti'nde sular durulmuyor",
+          "summary": "SHOW TV’nin fenomen dizisi 'Kızılcık Şerbeti' yeni bölümüyle yine ekranlara damgasını vurdu",
+          "url": "https://www.haberturk.com/magazin/kizilcik-serbeti-nde-sular-durulmuyor-3918687",
+          "match_score": 0.27,
+          "shared_keywords": [
+            "dizisi",
+            "serbeti"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Magazin D RSS",
+          "title": "Hadise'nin 'O Ses Türkiye Rap' imajı olay oldu!",
+          "summary": "Exxen'de yayınlanacak olan 'O Ses Türkiye Rap'in jürilerinden olan Hadise, paylaşımıyla dikkat çekti. Yeni yarışma programı için imajında yenilik yapan Hadise sosyal medyada gündem oldu.",
+          "url": "http://www.magazind.net/Hadisenin-O-Ses-Turkiye-Rap-imaji-olay-oldu-18006",
+          "match_score": 0.33,
+          "shared_keywords": [
+            "cekti",
+            "exxen"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Magazin D RSS",
+          "title": "Hayal Köseoğlu'ndan direk dansı",
+          "summary": "Hayal Köseoğlu, yaptığı direk dansının videosunu kendisine ait sosyal medya hesabından paylaştı.",
+          "url": "http://www.magazind.net/Hayal-Koseoglundan-direk-dansi-17935",
+          "match_score": 0.32,
+          "shared_keywords": [
+            "dans",
+            "direk"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Magazin D RSS",
+          "title": "Alemin Kralı Oben, iç çamaşırıyla dışarı çıkıp poz verdi",
+          "summary": "Alemin Kıralı dizisinde Oben karakteri ile tanınan Birsu Demir, soğuk havada iç çamaşırıyla poz verdi. Genç oyuncu, paylaşımına bu günün tarihini de not düştü.",
+          "url": "http://www.magazind.net/Alemin-Krali-Oben-ic-camasiriyla-disari-cikip-poz-verdi-17897",
+          "match_score": 0.3,
+          "shared_keywords": [
+            "dizisinde",
+            "nan"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Magazin D RSS",
+          "title": "Cem Yılmaz ile Serenay Sarıkaya ayrıldı!",
+          "summary": "Magazin gündeminin en çok konuşulan ilişkisi bitti. ünlü komedyen cem yılmaz, geçen yıl sonundan beri birlikte olduğu oyuncu serenay sarıkaya ile ayrıldığını.",
+          "url": "http://www.magazind.net/Cem-Yilmaz-ile-Serenay-Sarikaya-ayrildi-17864",
+          "match_score": 0.31,
+          "shared_keywords": [
+            "ayr",
+            "konusulan"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Magazin D RSS",
+          "title": "Çağla Şıkel tatile devam ediyor... Yeni rota Çeşme!",
+          "summary": "Normalleşmenin ardından tatil sezonunu açan Çağla Şıkel, Bodrum'un ardından Çeşme'ye gitti. Denizin keyfini çıkaran Çağla, düzgün fiziği ve pembe mayosuyla dikkatleri üzerine çekti.",
+          "url": "http://www.magazind.net/Cagla-Sikel-tatile-devam-ediyor-Yeni-rota-Cesme-17785",
+          "match_score": 0.27,
+          "shared_keywords": [
+            "cekti",
+            "dikkatleri",
+            "uzerine"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Magazin D RSS",
+          "title": "Öğretmen dizisinin final tarihi belli oldu!",
+          "summary": "Öğretmen dizisi 4 bölüm seyirciyle buluştuktan sonra koronavirüs salgını nedeniyle sete ara vermişti. Hayranlarının merakla beklediği yeni bölüm tarihi sonunda belli oldu. Ayrıca dizinin final tarihi de açıklandı...",
+          "url": "http://www.magazind.net/Ogretmen-dizisinin-final-tarihi-belli-oldu-17779",
+          "match_score": 0.32,
+          "shared_keywords": [
+            "ayr",
+            "dizisi"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Magazin D RSS",
+          "title": "'Yasak Elma'nın yeni sezonu ne zaman?",
+          "summary": "Yasak Elma dizisi için bekleyiş sürüyor. Çekimlerine ara verilen dizinin yeni sezonunun ne zaman başlayacağı merak ediliyordu. Yasak Elma'da sezon finali kararı sevenlerini şaşırtırken yeni bölüm müjdesi ise Şevval Sam ve Eda Ece'den geldi. dizisinin yeni sezonunun ne zaman başlayacağı merak ediliyor? Her pazartesi günü Fox'ta yayınlanan Yasak Elma Dizisi'ne korona virüs nedeniyle ara verilmişti. Bu arada diziye katılan yeni oyuncular da belli oldu.",
+          "url": "http://www.magazind.net/Yasak-Elmanin-yeni-sezonu-ne-zaman-17771",
+          "match_score": 0.32,
+          "shared_keywords": [
+            "dizisi",
+            "sas",
+            "sezon"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Magazin D RSS",
+          "title": "Engin Altan Düzyatan panikledi: \"Bizi çekiyorlar!\"n dans etti.",
+          "summary": "Normalleşme süreciyle birlikte sezonu açan Engin Altan Düzyatan ve eşi Neslişah Alkoçlar Düzyatan, yakın arkadaşları Ralf Tezman, Sanem Tezman, Abdullah Burnaz ve Selin Burnaz ile tekne tatili yaparken görüntülendi. Ekip, görüntülendiğini fark edince kısa süreli bir panik yaşad",
+          "url": "http://www.magazind.net/Engin-Altan-Duzyatan-panikledi-Bizi-cekiyorlarn-dans-etti-17749",
+          "match_score": 0.33,
+          "shared_keywords": [
+            "dans",
+            "selin"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "CNN Türk Magazin",
+          "title": "Güller ve Günahlar'ın Zeynep'i Cemre Baysel'in Dans Sahnesi Sanal Medyayı Salladı",
+          "summary": "Kanal D’nin sevilen dizisi “Güller ve Günahlar”ın Zeynep’i Cemre Baysel, son bölümdeki dans sahnesinde giydiği kıyafetle yaptığı paylaşımla sosyal medyayı hareketlendirdi.",
+          "url": "https://www.cnnturk.com/magazin/guller-ve-gunahlarin-zeynepi-cemre-bayselin-dans-sahnesi-sanal-medyayi-salladi-3477325",
+          "match_score": 0.29,
+          "shared_keywords": [
+            "dans",
+            "dizisi",
+            "sahnesi"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Milliyet Magazin",
+          "title": "Trump Zelenskiy'i hedef aldı: Bence Ukrayna'nın yeni bir başkan edinme vakti geldi",
+          "summary": "Trump, Beyaz Saray'dan ayrılmadan önce gazetecilere yaptığı basın açıklamasında, Ukrayna Devlet Başkanı Zelenskiy hakkında değerlendirmelerde bulundu. Zelenskiy'nin, ABD ile Rusya'nın dizel yakıt konusunda anlaşmasıyla ilgili eleştirileri hatırlatılan Trump, \"Ona (Zelenskiy'ye) 'Rusya'ya karşı istediğini yapabilirsin ancak rafinerileri vurma çünkü bu küresel çapta sorunlara yol açan bir mesele.' dedik. O ise dünyaya sorun çıkarmak istiyor. Gidip dizel yakıtı vuruyor. Kesinlikle durmalı.\" ifadele",
+          "url": "https://www.milliyet.com.tr/dunya/trump-zelenskiyi-hedef-aldi-bence-ukraynanin-yeni-bir-baskan-edinme-vakti-geldi-7676988",
+          "match_score": 0.27,
+          "shared_keywords": [
+            "ayr",
+            "daki"
+          ],
+          "match_basis": "title_and_context"
+        }
+      ],
+      "verification_status": "second_source_match_needs_manual_confirmation",
       "publication_approved": false,
-      "verification_note": "Olası ikinci kaynak eşleşmeleri başlık, özet ve ortak anahtar kelimelerle bulunur; bu bir doğruluk puanı değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+      "verification_note": "Manuel inceleme adayları başlık, özet ve ortak anahtar kelimelerle bulunur; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
       "title": "MASTERCHEF ELEME ADAYI 10 EKİM 2026 | MasterChef'te eleme adayı kim oldu, dokunulmazlık oyununu hangi takım kazandı?",
@@ -46,7 +182,7 @@
       "published_at": "2026-10-10T22:46:55+00:00",
       "summary": "MasterChef'te eleme adayı olan isim, yarışmanın bugün (10 Ekim 2026 Cumartesi) yayınlanan bölümünü kaçıran vatandaşlar tarafından merak konusu oldu. Mehmet Yalçınkaya, Danilo Zanna ve Somer Sivrioğlu’nun jüri üyeliğini yaptığı yarışmada heyecan had safhadaydı. MasterChef'te eleme potasına Nurten Ayşe, Nilay, Buse, Hasan Alp ve Şadi girmişti. Peki, 10 Ekim 2026 MasterChef'te eleme adayı kim oldu?",
       "image_url": null,
-      "collected_at": "2026-10-10T20:25:14.883221+00:00",
+      "collected_at": "2026-10-10T20:31:18.027242+00:00",
       "status": "selected_not_verified",
       "also_reported_by": [],
       "ranking_score": 11.0,
@@ -64,10 +200,67 @@
         "description": "Magazin Haberleri - MasterChef'te eleme adayı olan isim, yarışmanın bugün  (10 Ekim 2026 Cumartesi) yayınlanan bölümünü kaçıran vatandaşlar tarafından merak...",
         "error": null
       },
-      "independent_source_matches": [],
-      "verification_status": "source_page_reachable_no_second_source_match",
+      "independent_source_matches": [
+        {
+          "source": "Milliyet Magazin",
+          "title": "Bakan Kacır: IAC 2026 en büyük ve en görkemli uluslararası uzay kongresi oldu",
+          "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, NSosyal hesabından yaptığı paylaşımda, IAC 2026'ya ilişkin değerlendirmelerde bulundu. IAC 2026'nın kapanış etkinliğini Aspendos Antik Tiyatrosu'nda gerçekleştirdiklerini belirten Kacır, \"Geride bıraktığımız hafta boyunca, küresel uzay ekosisteminin önemli paydaşlarını Antalya'da bir araya getiren son derece kapsamlı ve başarılı bir organizasyona ev sahipliği yaptık. Uzay ajansları, bilim insanları, mühendisler, astronotlar, önde gelen teknoloji şir",
+          "url": "https://www.milliyet.com.tr/ekonomi/bakan-kacir-iac-2026-en-buyuk-ve-en-gorkemli-uluslararasi-uzay-kongresi-oldu-7676945",
+          "match_score": 0.26,
+          "shared_keywords": [
+            "2026",
+            "kac",
+            "kazand",
+            "mehmet",
+            "ndan",
+            "yapt"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Mynet Magazin",
+          "title": "9 Ekim reyting sonuçları belli oldu! Kızılcık Şerbeti, Taşacak Bu Deniz... Zirvenin sahibi kim?",
+          "summary": "9 Ekim 2026 Cuma gününün reyting sonuçları açıklandı. TRT 1 ekranlarında yayınlanan Taşacak Bu Deniz, Total, AB ve ABC1 kategorilerinin tamamında zirveye yerleşti. Taşacak Bu Deniz yeni sezonuyla artık zirvedeki yerini korumaya başladı.",
+          "url": "https://www.mynet.com/magazin/9-ekim-reyting-sonuclari-belli-oldu-kizilcik-serbeti-tasacak-bu-deniz-zirvenin-sahibi-kim-130100603557",
+          "match_score": 0.27,
+          "shared_keywords": [
+            "2026",
+            "ekim",
+            "kim",
+            "nlanan",
+            "yay"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Mynet Magazin",
+          "title": "Melike Şahin anne oldu! Oğluna verdiği isim merak ediliyor",
+          "summary": "Ünlü şarkıcı Melike Şahin, 2023 yılında uzun süre aşk yaşadığı sevgilisi Sedat Arpalık ile nikah masasına oturmuştu. Son dönemde verdiği hamilelik pozlarıyla adından söz ettiren ünlü şarkıcıdan müjdeli haber geldi. Melike Şahin'in bebeğini kucağına aldığı öğrenildi.",
+          "url": "https://www.mynet.com/magazin/melike-sahin-anne-oldu-ogluna-verdigi-isim-merak-ediliyor-130100603368",
+          "match_score": 0.27,
+          "shared_keywords": [
+            "isim",
+            "merak",
+            "ndan"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Mynet Magazin",
+          "title": "İsmail Ege Şaşmaz'ın yeni adresi belli oldu! İddialı diziye girdi",
+          "summary": "Tod’un ARC Film imzalı dizisi Ölüm Bizi Ayırana Dek'in kadrosuna İsmail Ege Şaşmaz katıldı. Cumartesi günü okuma provası yapılacak dizi 15 Ekim’de sete çıkacak.",
+          "url": "https://www.mynet.com/magazin/ismail-ege-sasmaz-in-yeni-adresi-belli-oldu-iddiali-diziye-girdi-130100603176",
+          "match_score": 0.29,
+          "shared_keywords": [
+            "cumartesi",
+            "ekim"
+          ],
+          "match_basis": "title_and_context"
+        }
+      ],
+      "verification_status": "second_source_match_needs_manual_confirmation",
       "publication_approved": false,
-      "verification_note": "Olası ikinci kaynak eşleşmeleri başlık, özet ve ortak anahtar kelimelerle bulunur; bu bir doğruluk puanı değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+      "verification_note": "Manuel inceleme adayları başlık, özet ve ortak anahtar kelimelerle bulunur; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
       "title": "Survivor Serhan Onat evlendi! Merve Küsmenoğlu sade gelinliği ve duru güzelliğiyle göz kamaştırdı",
@@ -78,7 +271,7 @@
       "published_at": "2026-10-10T20:43:06+00:00",
       "summary": "Survivor'ın son sezonunda yarışan ünlü oyuncu Serhan Onat, nişanlısı Merve Küsmenoğlu ile evlendi. İşte ünlü çiftin nikahından ilk kareler...",
       "image_url": null,
-      "collected_at": "2026-10-10T20:25:14.883343+00:00",
+      "collected_at": "2026-10-10T20:31:18.027322+00:00",
       "status": "selected_not_verified",
       "also_reported_by": [],
       "ranking_score": 11.0,
@@ -92,14 +285,63 @@
         "reachable": true,
         "http_status": 200,
         "page_title": "Survivor Serhan Onat evlendi! Merve Küsmenoğlu sade gelinliği ve duru güzelliğiyle göz kamaştırdı - Son Dakika Magazin Haberleri",
-        "og_title": "Survivor Serhan Onat evlendi! Merve Küsmenoğlu sade gelinliği ve duru güzelliğiyle göz kamaştırdı - Son Dakika Magazin Haberleri",
+        "og_title": "Survivor Serhan Onat evlendi! Merve Küsmenoğlu sade gelinliği ve duru güzelliğiyle göz kamaştırdı - Magazin Haberleri",
         "description": "Son Dakika Magazin Haberleri - Survivor'ın son sezonunda yarışan ünlü oyuncu Serhan Onat, nişanlısı Merve Küsmenoğlu ile evlendi. İşte ünlü çiftin...",
         "error": null
       },
-      "independent_source_matches": [],
-      "verification_status": "source_page_reachable_no_second_source_match",
+      "independent_source_matches": [
+        {
+          "source": "Milliyet Magazin",
+          "title": "Hayvanat bahçesinde kan donduran olay! Bengal kaplanının yanına girdi: Ziyaretçiler dehşet anlarını böyle kaydı aldı",
+          "summary": "Batı Yorkshire Polisi’nden yapılan açıklamaya göre Yorkshire Wildlife Park adlı hayvanat bahçesinde bir şahıs yerel saatle 13.35’te (TSİ 15.35) Bengal kaplanının tutulduğu etrafı yüksek tellerle çevrili bölüme girdi. KORKUNÇ ANLAR KAMERADA Kaplanın saldırdığı şahıs ağır yaralanırken saldırı anı ziyaretçilerin kameralarına yansıdı. Açıklamada olay nedeniyle hayvanat bahçesinin tahliye edildiği ve kaplanın vatandaşlar için risk taşımadığı belirtildi. YAŞAMINI YİTİRDİ Polis yerel saatle 18.10'da (T",
+          "url": "https://www.milliyet.com.tr/dunya/hayvanat-bahcesinde-kan-donduran-olay-bengal-kaplaninin-yanina-girdi-ziyaretciler-dehset-anlarini-boyle-kaydi-aldi-7676957",
+          "match_score": 0.26,
+          "shared_keywords": [
+            "ndan",
+            "yar"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Mynet Magazin",
+          "title": "Annesi Rus, babası Yozgatlı! Voleybolcu Meryem Cabbaroğlu güzelliğiyle viral oldu",
+          "summary": "Bodrum Belediyesi Bodrumspor'da forma giyen Meryem Cabbaroğlu, 3 Ekim'de oynanan Karşıyaka karşılaşması öncesinde takım formasıyla çekilen fotoğrafını sosyal medya hesabından paylaştı. Cabbaroğlu'na Türkiye'de başlayan ilgi kısa sürede dünya geneline yayıldı.",
+          "url": "https://www.mynet.com/magazin/annesi-rus-babasi-yozgatli-voleybolcu-meryem-cabbaroglu-guzelligiyle-viral-oldu-130100603536",
+          "match_score": 0.32,
+          "shared_keywords": [
+            "guzelligiyle",
+            "ndan"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Mynet Magazin",
+          "title": "Pelin Akil’in gece yarısı çektiği video gündem oldu! Görenler şaştı kaldı",
+          "summary": "İzmir'de sahne aldığı oyunun ardından yoğun bir gece geçiren Pelin Akil, uykusuzluğunu ve yaşadığı telaşı sosyal medya hesabından paylaştı. Akil'in makyajını bile silemeden yatağa uzanıp çektiği video kısa sürede TT oldu.",
+          "url": "https://www.mynet.com/magazin/pelin-akil-in-gece-yarisi-cektigi-video-gundem-oldu-gorenler-sasti-kaldi-130100603509",
+          "match_score": 0.26,
+          "shared_keywords": [
+            "ndan",
+            "yar"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Mynet Magazin",
+          "title": "Necla Uygur'un cenazesinde göğüs dekoltesi krizi! İpek Tanrıyar'ın kıyafeti tepki çekti! 'Başını kapatmış ama...'",
+          "summary": "Nejat Uygur'un eşi Necla Uygur, 89 yaşında hayatını kaybettikten sonra İstanbul'da son yolculuğuna uğurlandı. Teşvikiye Camisi'ndeki cenaze töreninin ardından Feriköy'deki aile kabristanında toprağa verildi. Ünlü isimlerin akın ettiği cenazede İpek Tanrıyar'ın kıyafeti dikkat çekti.",
+          "url": "https://www.mynet.com/magazin/necla-uygur-un-cenazesinde-gogus-dekoltesi-krizi-ipek-tanriyar-in-kiyafeti-tepki-cekti-basini-kapatmis-ama-130100603494",
+          "match_score": 0.26,
+          "shared_keywords": [
+            "ndan",
+            "yar"
+          ],
+          "match_basis": "title_and_context"
+        }
+      ],
+      "verification_status": "second_source_match_needs_manual_confirmation",
       "publication_approved": false,
-      "verification_note": "Olası ikinci kaynak eşleşmeleri başlık, özet ve ortak anahtar kelimelerle bulunur; bu bir doğruluk puanı değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+      "verification_note": "Manuel inceleme adayları başlık, özet ve ortak anahtar kelimelerle bulunur; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     }
   ]
 }
