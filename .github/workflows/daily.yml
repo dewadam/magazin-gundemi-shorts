@@ -33,7 +33,7 @@ jobs:
       - name: Collect RSS news
         run: python src/news_collector.py
 
-      - name: Rank and select three distinct stories
+      - name: Group same events and rank by publisher coverage
         run: python src/news_ranker.py
 
       - name: Check source pages and create verification queue
