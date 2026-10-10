@@ -21,19 +21,58 @@ SOURCES_PATH = ROOT / "src" / "sources.json"
 LOG = logging.getLogger("news_verifier")
 
 
+MATCH_STOPWORDS = {
+    "bir", "bu", "su", "şu", "ve", "veya", "ile", "icin", "için", "ama",
+    "daha", "çok", "gibi", "olan", "olarak", "son", "yeni", "ünlü", "unlu",
+    "magazin", "gündem", "gundem", "açıklama", "aciklama", "dedi", "diye",
+    "etti", "oldu", "oluyor", "olacak", "paylaştı", "paylasti", "konuştu",
+    "konustu", "iddia", "iddiası", "iddiasi", "sonra", "önce", "once",
+    "bugün", "bugun", "dün", "dun", "resmen", "işte", "iste", "şok", "sok",
+}
+
+
 def normalize(text: str) -> str:
     text = unicodedata.normalize("NFKD", (text or "").casefold())
     text = "".join(ch for ch in text if not unicodedata.combining(ch))
     return re.sub(r"[^a-z0-9]+", " ", text).strip()
 
 
+def content_tokens(text: str) -> set[str]:
+    return {
+        token for token in normalize(text).split()
+        if len(token) >= 3 and token not in MATCH_STOPWORDS
+    }
+
+
 def title_similarity(a: str, b: str) -> float:
     na, nb = normalize(a), normalize(b)
     if not na or not nb:
         return 0.0
-    ta, tb = set(na.split()), set(nb.split())
-    jaccard = len(ta & tb) / len(ta | tb) if ta and tb else 0.0
-    return max(jaccard, SequenceMatcher(None, na, nb).ratio() * 0.85)
+    ta, tb = content_tokens(a), content_tokens(b)
+    overlap = len(ta & tb)
+    jaccard = overlap / len(ta | tb) if ta and tb else 0.0
+    containment = overlap / min(len(ta), len(tb)) if ta and tb else 0.0
+    sequence = SequenceMatcher(None, na, nb).ratio()
+    # This is a candidate-match score, not a truth score.
+    return max(sequence * 0.85, jaccard, containment * 0.65)
+
+
+def event_similarity(item: dict, other_title: str, other_summary: str) -> tuple[float, list[str], str]:
+    original_title = str(item.get("title", ""))
+    original_summary = str(item.get("summary", ""))
+    left = content_tokens(original_title + " " + original_summary)
+    right = content_tokens(other_title + " " + other_summary)
+    shared = sorted(left & right)
+    if not left or not right or not shared:
+        return title_similarity(original_title, other_title), shared, "title_only"
+
+    jaccard = len(shared) / len(left | right)
+    containment = len(shared) / min(len(left), len(right))
+    title_score = title_similarity(original_title, other_title)
+    # Short RSS summaries can still match through shared people, programme names,
+    # or distinctive event words even if publishers phrase headlines differently.
+    context_score = 0.65 * containment + 0.35 * jaccard
+    return max(title_score, context_score), shared, "title_and_context"
 
 
 def collect_other_source_headlines(selected_items: list[dict]) -> dict[str, list[dict]]:
@@ -57,27 +96,27 @@ def collect_other_source_headlines(selected_items: list[dict]) -> dict[str, list
                 other_title = clean(getattr(entry, "title", ""))
                 other_summary = clean(getattr(entry, "summary", "") or getattr(entry, "description", ""))
                 other_url = str(getattr(entry, "link", ""))
-                domain = re.sub(r"^www\\.", "", __import__("urllib.parse", fromlist=["urlparse"]).urlparse(other_url).netloc.lower())
+                from urllib.parse import urlparse
+                domain = re.sub(r"^www\\.", "", urlparse(other_url).netloc.lower())
                 if not other_title or not other_url:
                     continue
                 for item in selected_items:
                     original_domain = re.sub(r"^www\\.", "", str(item.get("source_domain", "")).lower())
                     if domain == original_domain:
                         continue
-                    # Başlıklar farklı yazılmış olabileceği için haber özetiyle de karşılaştır.
-                    item_title = str(item.get("title", ""))
-                    item_summary = str(item.get("summary", ""))
-                    title_sim = title_similarity(item_title, other_title)
-                    summary_sim = title_similarity(item_summary, other_title + " " + other_summary) if item_summary else 0.0
-                    sim = max(title_sim, summary_sim)
-                    if sim >= 0.45:
+                    sim, shared_keywords, basis = event_similarity(item, other_title, other_summary)
+                    # A match means "review this possible same story", never "verified".
+                    if sim >= 0.32 and len(shared_keywords) >= 2:
                         target = matches[str(item.get("url", ""))]
                         candidate = {
-                            "source": source.get("name", domain), "title": other_title,
-                            "url": other_url, "title_similarity": round(sim, 2),
-                            "match_basis": "title" if title_sim >= summary_sim else "summary_and_title"
+                            "source": source.get("name", domain),
+                            "title": other_title,
+                            "summary": other_summary[:500],
+                            "url": other_url,
+                            "match_score": round(sim, 2),
+                            "shared_keywords": shared_keywords[:12],
+                            "match_basis": basis,
                         }
-                        # Aynı RSS kaydını tekrar ekleme.
                         if not any(existing.get("url") == other_url for existing in target):
                             target.append(candidate)
         except Exception as exc:
@@ -156,7 +195,8 @@ def main() -> int:
         record["verification_status"] = ("second_source_match_needs_manual_confirmation" if has_match else ("source_page_reachable_no_second_source_match" if page["reachable"] else "source_page_unavailable_needs_review"))
         record["publication_approved"] = False
         record["verification_note"] = (
-            "Bu kontrol yalnızca bağlantının erişilebilirliğini ve sayfa üst verilerini denetler. Haberin doğruluğunu veya görsel kullanım iznini kanıtlamaz; yayın öncesi bağımsız kaynak doğrulaması gerekir."
+            "Olası ikinci kaynak eşleşmeleri başlık, özet ve ortak anahtar kelimelerle bulunur; bu bir doğruluk puanı değildir. "
+            "Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
         )
         results.append(record)
         match_count = len(record["independent_source_matches"])
@@ -166,7 +206,7 @@ def main() -> int:
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "checked_count": len(results),
         "publication_approved_count": 0,
-        "note": "Başlık benzerliği yalnızca olası ikinci kaynak eşleşmesi bulur; haberin doğruluğunu kanıtlamaz. Manuel kontrol ve görsel hakları incelemesi gerekir.",
+        "note": "Olası aynı olaylar başlık + özet ortak anahtar kelimeleriyle bulunur. Eşleşmeler inceleme adayıdır, doğrulama veya yayın onayı değildir.",
         "items": results,
     }
     OUTPUT_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
