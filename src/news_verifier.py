@@ -91,17 +91,17 @@ def collect_other_source_headlines(selected_items: list[dict]) -> dict[str, list
                 LOG.warning("İkinci kaynak RSS içinde haber bulunamadı; URL doğrudan RSS olmayabilir: %s", source["url"])
             for entry in entries[:400]:
                 def clean(value: object) -> str:
-                    return re.sub(r"\\s+", " ", re.sub(r"<[^>]+>", " ", str(value or ""))).strip()
+                    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", str(value or ""))).strip()
 
                 other_title = clean(getattr(entry, "title", ""))
                 other_summary = clean(getattr(entry, "summary", "") or getattr(entry, "description", ""))
                 other_url = str(getattr(entry, "link", ""))
                 from urllib.parse import urlparse
-                domain = re.sub(r"^www\\.", "", urlparse(other_url).netloc.lower())
+                domain = re.sub(r"^www\.", "", urlparse(other_url).netloc.lower())
                 if not other_title or not other_url:
                     continue
                 for item in selected_items:
-                    original_domain = re.sub(r"^www\\.", "", str(item.get("source_domain", "")).lower())
+                    original_domain = re.sub(r"^www\.", "", str(item.get("source_domain", "")).lower())
                     if domain == original_domain:
                         continue
                     sim, shared_keywords, basis = event_similarity(item, other_title, other_summary)
