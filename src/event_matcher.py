@@ -65,9 +65,9 @@ def explicit_date_marker(title: str) -> tuple[str, ...]:
     """Capture explicit calendar dates and episode numbers from headlines."""
     raw = normalize(title)
     markers = []
-    for match in re.finditer(r"\\b(\\d{1,2})\\s+(ocak|subat|mart|nisan|mayis|haziran|temmuz|agustos|eylul|ekim|kasim|aralik)\\b", raw):
+    for match in re.finditer(r"\b(\d{1,2})\s+(ocak|subat|mart|nisan|mayis|haziran|temmuz|agustos|eylul|ekim|kasim|aralik)\b", raw):
         markers.append(match.group(1) + "-" + match.group(2))
-    for match in re.finditer(r"\\b(\\d{1,3})\\s+bolum\\b", raw):
+    for match in re.finditer(r"\b(\d{1,3})\s+bolum\b", raw):
         markers.append("episode-" + match.group(1))
     return tuple(sorted(set(markers)))
 
