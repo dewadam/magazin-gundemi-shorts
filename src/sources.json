@@ -1,80 +1,16 @@
 {
   "sources": [
     {
-      "name": "Habertürk Magazin",
-      "url": "https://www.haberturk.com/rss/magazin.xml",
-      "enabled": true
-    },
-    {
-      "name": "MagazinHaber.com.tr RSS directory",
-      "url": "https://www.magazinhaber.com.tr/rss",
-      "enabled": false,
-      "note": "This is an RSS directory page, not a verified direct feed URL. Keep disabled until the direct XML URL is confirmed."
-    },
-    {
-      "name": "Haber Hürriyeti Magazin",
-      "url": "https://www.haberhurriyeti.com/rss.xml",
-      "enabled": false,
-      "note": "Geçici olarak devre dışı: denenen RSS adresleri feedparser tarafından geçerli akış olarak okunamadı."
-    },
-    {
-      "name": "Magazin D RSS",
-      "url": "http://www.magazind.net/rss.xml?cat=3",
+      "name": "Google News Türkiye — Magazin gündemi",
+      "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FuUnlHZ0pVVWlnQVAB/sections/CAQiRkNCQVNMZ29JTDIwdk1ESnFhblFTQW5SeUdnSlVVaUlPQ0FRYUNnb0lMMjB2TURGeVpub3FDaElJTDIwdk1ERnlabm9vQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURKcWFuUVNBblJ5R2dKVVVpZ0FQAVAB?hl=tr&gl=TR&ceid=TR%3Atr",
       "enabled": true,
-      "note": "Magazin kategorisi RSS adresi; GitHub Actions çalıştırmasında akışın geçerliliği kontrol edilecek."
-    },
-    {
-      "name": "Google News - Magazin ve ünlüler (keşif)",
-      "url": "https://news.google.com/rss/search?q=magazin%20%C3%BCnl%C3%BCler&hl=tr&gl=TR&ceid=TR:tr",
-      "enabled": true,
-      "role": "discovery_only",
-      "note": "Haber keşfi için kullanılır; bağımsız doğrulama kaynağı sayılmaz."
-    },
-    {
-      "name": "Google News - Dizi ve oyuncular (keşif)",
-      "url": "https://news.google.com/rss/search?q=dizi%20oyuncu%20magazin&hl=tr&gl=TR&ceid=TR:tr",
-      "enabled": true,
-      "role": "discovery_only",
-      "note": "Haber keşfi için kullanılır; bağımsız doğrulama kaynağı sayılmaz."
-    },
-    {
-      "name": "Google News - Survivor ve MasterChef (keşif)",
-      "url": "https://news.google.com/rss/search?q=Survivor%20OR%20MasterChef&hl=tr&gl=TR&ceid=TR:tr",
-      "enabled": true,
-      "role": "discovery_only",
-      "note": "Haber keşfi için kullanılır; bağımsız doğrulama kaynağı sayılmaz."
-    },
-    {
-      "name": "CNN Türk Magazin",
-      "url": "https://www.cnnturk.com/feed/rss/magazin/news",
-      "enabled": true,
-      "note": "Magazin kategorisi RSS; bağımsız kaynak adayı, Actions loglarında akışın geçerliliği kontrol edilecek."
-    },
-    {
-      "name": "Milliyet Magazin",
-      "url": "https://www.milliyet.com.tr/rss/rssNew/magazinRss.xml",
-      "enabled": false,
-      "note": "Geçici olarak devre dışı: RSS adresi magazin dışı URL'ler döndürüyor ve /magazin/ filtresinden sonra uygun haber kalmıyor. Doğrudan doğru kategori akışı doğrulanınca yeniden etkinleştirilecek.",
-      "allowed_url_path_prefixes": [
-        "/magazin/"
-      ]
-    },
-    {
-      "name": "Sabah Magazin",
-      "url": "https://www.sabah.com.tr/rss/magazin.xml",
-      "enabled": true,
-      "note": "Magazin kategorisi RSS; bağımsız kaynak adayı, Actions loglarında akışın geçerliliği kontrol edilecek."
-    },
-    {
-      "name": "Mynet Magazin",
-      "url": "https://www.mynet.com/magazin/rss",
-      "enabled": true,
-      "note": "Magazin kategorisi RSS; bağımsız kaynak adayı, Actions loglarında akışın geçerliliği kontrol edilecek."
+      "role": "google_news_topic",
+      "note": "Tek keşif kaynağı. Yayıncı RSS akışları kullanılmaz; bulunan her aday için Google News aramasıyla haber kapsamı genişletilir."
     }
   ],
   "settings": {
-    "lookback_hours": 48,
-    "max_items_per_source": 40,
+    "lookback_hours": 72,
+    "max_items_per_source": 100,
     "output_path": "data/news_latest.json"
   }
 }
