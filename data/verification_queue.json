@@ -1,202 +1,58 @@
 {
-  "generated_at": "2026-10-10T20:31:23.353990+00:00",
+  "generated_at": "2026-10-10T20:35:37.128700+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
-      "title": "Selin Türkmen yeni rolüyle şaşırttı! Direk dansı sahnesi gündem oldu",
-      "normalized_title": "selin turkmen yeni roluyle sasırttı direk dansı sahnesi gundem oldu",
-      "url": "https://www.mynet.com/magazin/selin-turkmen-yeni-roluyle-sasirtti-direk-dansi-sahnesi-gundem-oldu-130100603569",
-      "source": "Mynet Magazin",
-      "source_domain": "www.mynet.com",
-      "published_at": "2026-10-10T11:48:40+00:00",
-      "summary": "Kızılcık Şerbeti dizisinde hayat verdiği Çimen karakteriyle tanınan Selin Türkmen dizi sezon finalindeyken projeden apar topar ayrıldı. Şimdilerde Exxen dizisi Karma'daki sahneleriyle konuşulan Türkmen, direk dansı sahnesiyle dikkatleri üzerine çekti.",
-      "image_url": "https://imgrosetta.mynet.com.tr/file/26600177/26600177-1200xauto.jpg",
-      "collected_at": "2026-10-10T20:31:20.207828+00:00",
-      "status": "selected_not_verified",
-      "also_reported_by": [],
-      "ranking_score": 11.77,
-      "ranking_reasons": [
-        "anlaşılır başlık",
-        "yeterli özet",
-        "haber değeri taşıyan konu",
-        "güncellik",
-        "görsel adayı mevcut"
-      ],
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Selin Türkmen yeni rolüyle şaşırttı! Direk dansı sahnesi gündem oldu - Magazin Haberleri",
-        "og_title": "Selin Türkmen yeni rolüyle şaşırttı! Direk dansı sahnesi gündem oldu",
-        "description": "Kızılcık Şerbeti dizisinde hayat verdiği Çimen karakteriyle tanınan Selin Türkmen dizi sezon finalindeyken projeden apar topar ayrıldı. Şimdilerde Exxen dizisi Karma'daki sahneleriyle konuşulan Türkmen, direk dansı sahnesiyle dikkatleri üzerine çekti.",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "Habertürk Magazin",
-          "title": "'Kızılcık Şerbeti'nde sular durulmuyor",
-          "summary": "SHOW TV’nin fenomen dizisi 'Kızılcık Şerbeti' yeni bölümüyle yine ekranlara damgasını vurdu",
-          "url": "https://www.haberturk.com/magazin/kizilcik-serbeti-nde-sular-durulmuyor-3918687",
-          "match_score": 0.27,
-          "shared_keywords": [
-            "dizisi",
-            "serbeti"
-          ],
-          "match_basis": "title_and_context"
-        },
-        {
-          "source": "Magazin D RSS",
-          "title": "Hadise'nin 'O Ses Türkiye Rap' imajı olay oldu!",
-          "summary": "Exxen'de yayınlanacak olan 'O Ses Türkiye Rap'in jürilerinden olan Hadise, paylaşımıyla dikkat çekti. Yeni yarışma programı için imajında yenilik yapan Hadise sosyal medyada gündem oldu.",
-          "url": "http://www.magazind.net/Hadisenin-O-Ses-Turkiye-Rap-imaji-olay-oldu-18006",
-          "match_score": 0.33,
-          "shared_keywords": [
-            "cekti",
-            "exxen"
-          ],
-          "match_basis": "title_and_context"
-        },
-        {
-          "source": "Magazin D RSS",
-          "title": "Hayal Köseoğlu'ndan direk dansı",
-          "summary": "Hayal Köseoğlu, yaptığı direk dansının videosunu kendisine ait sosyal medya hesabından paylaştı.",
-          "url": "http://www.magazind.net/Hayal-Koseoglundan-direk-dansi-17935",
-          "match_score": 0.32,
-          "shared_keywords": [
-            "dans",
-            "direk"
-          ],
-          "match_basis": "title_and_context"
-        },
-        {
-          "source": "Magazin D RSS",
-          "title": "Alemin Kralı Oben, iç çamaşırıyla dışarı çıkıp poz verdi",
-          "summary": "Alemin Kıralı dizisinde Oben karakteri ile tanınan Birsu Demir, soğuk havada iç çamaşırıyla poz verdi. Genç oyuncu, paylaşımına bu günün tarihini de not düştü.",
-          "url": "http://www.magazind.net/Alemin-Krali-Oben-ic-camasiriyla-disari-cikip-poz-verdi-17897",
-          "match_score": 0.3,
-          "shared_keywords": [
-            "dizisinde",
-            "nan"
-          ],
-          "match_basis": "title_and_context"
-        },
-        {
-          "source": "Magazin D RSS",
-          "title": "Cem Yılmaz ile Serenay Sarıkaya ayrıldı!",
-          "summary": "Magazin gündeminin en çok konuşulan ilişkisi bitti. ünlü komedyen cem yılmaz, geçen yıl sonundan beri birlikte olduğu oyuncu serenay sarıkaya ile ayrıldığını.",
-          "url": "http://www.magazind.net/Cem-Yilmaz-ile-Serenay-Sarikaya-ayrildi-17864",
-          "match_score": 0.31,
-          "shared_keywords": [
-            "ayr",
-            "konusulan"
-          ],
-          "match_basis": "title_and_context"
-        },
-        {
-          "source": "Magazin D RSS",
-          "title": "Çağla Şıkel tatile devam ediyor... Yeni rota Çeşme!",
-          "summary": "Normalleşmenin ardından tatil sezonunu açan Çağla Şıkel, Bodrum'un ardından Çeşme'ye gitti. Denizin keyfini çıkaran Çağla, düzgün fiziği ve pembe mayosuyla dikkatleri üzerine çekti.",
-          "url": "http://www.magazind.net/Cagla-Sikel-tatile-devam-ediyor-Yeni-rota-Cesme-17785",
-          "match_score": 0.27,
-          "shared_keywords": [
-            "cekti",
-            "dikkatleri",
-            "uzerine"
-          ],
-          "match_basis": "title_and_context"
-        },
-        {
-          "source": "Magazin D RSS",
-          "title": "Öğretmen dizisinin final tarihi belli oldu!",
-          "summary": "Öğretmen dizisi 4 bölüm seyirciyle buluştuktan sonra koronavirüs salgını nedeniyle sete ara vermişti. Hayranlarının merakla beklediği yeni bölüm tarihi sonunda belli oldu. Ayrıca dizinin final tarihi de açıklandı...",
-          "url": "http://www.magazind.net/Ogretmen-dizisinin-final-tarihi-belli-oldu-17779",
-          "match_score": 0.32,
-          "shared_keywords": [
-            "ayr",
-            "dizisi"
-          ],
-          "match_basis": "title_and_context"
-        },
-        {
-          "source": "Magazin D RSS",
-          "title": "'Yasak Elma'nın yeni sezonu ne zaman?",
-          "summary": "Yasak Elma dizisi için bekleyiş sürüyor. Çekimlerine ara verilen dizinin yeni sezonunun ne zaman başlayacağı merak ediliyordu. Yasak Elma'da sezon finali kararı sevenlerini şaşırtırken yeni bölüm müjdesi ise Şevval Sam ve Eda Ece'den geldi. dizisinin yeni sezonunun ne zaman başlayacağı merak ediliyor? Her pazartesi günü Fox'ta yayınlanan Yasak Elma Dizisi'ne korona virüs nedeniyle ara verilmişti. Bu arada diziye katılan yeni oyuncular da belli oldu.",
-          "url": "http://www.magazind.net/Yasak-Elmanin-yeni-sezonu-ne-zaman-17771",
-          "match_score": 0.32,
-          "shared_keywords": [
-            "dizisi",
-            "sas",
-            "sezon"
-          ],
-          "match_basis": "title_and_context"
-        },
-        {
-          "source": "Magazin D RSS",
-          "title": "Engin Altan Düzyatan panikledi: \"Bizi çekiyorlar!\"n dans etti.",
-          "summary": "Normalleşme süreciyle birlikte sezonu açan Engin Altan Düzyatan ve eşi Neslişah Alkoçlar Düzyatan, yakın arkadaşları Ralf Tezman, Sanem Tezman, Abdullah Burnaz ve Selin Burnaz ile tekne tatili yaparken görüntülendi. Ekip, görüntülendiğini fark edince kısa süreli bir panik yaşad",
-          "url": "http://www.magazind.net/Engin-Altan-Duzyatan-panikledi-Bizi-cekiyorlarn-dans-etti-17749",
-          "match_score": 0.33,
-          "shared_keywords": [
-            "dans",
-            "selin"
-          ],
-          "match_basis": "title_and_context"
-        },
-        {
-          "source": "CNN Türk Magazin",
-          "title": "Güller ve Günahlar'ın Zeynep'i Cemre Baysel'in Dans Sahnesi Sanal Medyayı Salladı",
-          "summary": "Kanal D’nin sevilen dizisi “Güller ve Günahlar”ın Zeynep’i Cemre Baysel, son bölümdeki dans sahnesinde giydiği kıyafetle yaptığı paylaşımla sosyal medyayı hareketlendirdi.",
-          "url": "https://www.cnnturk.com/magazin/guller-ve-gunahlarin-zeynepi-cemre-bayselin-dans-sahnesi-sanal-medyayi-salladi-3477325",
-          "match_score": 0.29,
-          "shared_keywords": [
-            "dans",
-            "dizisi",
-            "sahnesi"
-          ],
-          "match_basis": "title_and_context"
-        },
-        {
-          "source": "Milliyet Magazin",
-          "title": "Trump Zelenskiy'i hedef aldı: Bence Ukrayna'nın yeni bir başkan edinme vakti geldi",
-          "summary": "Trump, Beyaz Saray'dan ayrılmadan önce gazetecilere yaptığı basın açıklamasında, Ukrayna Devlet Başkanı Zelenskiy hakkında değerlendirmelerde bulundu. Zelenskiy'nin, ABD ile Rusya'nın dizel yakıt konusunda anlaşmasıyla ilgili eleştirileri hatırlatılan Trump, \"Ona (Zelenskiy'ye) 'Rusya'ya karşı istediğini yapabilirsin ancak rafinerileri vurma çünkü bu küresel çapta sorunlara yol açan bir mesele.' dedik. O ise dünyaya sorun çıkarmak istiyor. Gidip dizel yakıtı vuruyor. Kesinlikle durmalı.\" ifadele",
-          "url": "https://www.milliyet.com.tr/dunya/trump-zelenskiyi-hedef-aldi-bence-ukraynanin-yeni-bir-baskan-edinme-vakti-geldi-7676988",
-          "match_score": 0.27,
-          "shared_keywords": [
-            "ayr",
-            "daki"
-          ],
-          "match_basis": "title_and_context"
-        }
-      ],
-      "verification_status": "second_source_match_needs_manual_confirmation",
-      "publication_approved": false,
-      "verification_note": "Manuel inceleme adayları başlık, özet ve ortak anahtar kelimelerle bulunur; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
       "title": "MASTERCHEF ELEME ADAYI 10 EKİM 2026 | MasterChef'te eleme adayı kim oldu, dokunulmazlık oyununu hangi takım kazandı?",
       "normalized_title": "masterchef eleme adayi 10 ekim 2026 masterchef te eleme adayı kim oldu dokunulmazlık oyununu hangi takım kazandı",
       "url": "https://www.cnnturk.com/magazin/masterchef-eleme-adayi-10-ekim-2026-masterchefte-eleme-adayi-kim-oldu-dokunulmazlik-oyununu-hangi-takim-kazandi-3477477",
       "source": "CNN Türk Magazin",
-      "source_domain": "www.cnnturk.com",
+      "source_domain": "cnnturk.com",
       "published_at": "2026-10-10T22:46:55+00:00",
       "summary": "MasterChef'te eleme adayı olan isim, yarışmanın bugün (10 Ekim 2026 Cumartesi) yayınlanan bölümünü kaçıran vatandaşlar tarafından merak konusu oldu. Mehmet Yalçınkaya, Danilo Zanna ve Somer Sivrioğlu’nun jüri üyeliğini yaptığı yarışmada heyecan had safhadaydı. MasterChef'te eleme potasına Nurten Ayşe, Nilay, Buse, Hasan Alp ve Şadi girmişti. Peki, 10 Ekim 2026 MasterChef'te eleme adayı kim oldu?",
       "image_url": null,
-      "collected_at": "2026-10-10T20:31:18.027242+00:00",
+      "collected_at": "2026-10-10T20:35:24.280116+00:00",
       "status": "selected_not_verified",
       "also_reported_by": [],
-      "ranking_score": 11.0,
+      "editorial_score": 11.0,
       "ranking_reasons": [
         "anlaşılır başlık",
         "yeterli özet",
         "haber değeri taşıyan konu",
         "güncellik"
       ],
+      "source_articles": [
+        {
+          "source": "CNN Türk Magazin",
+          "source_domain": "cnnturk.com",
+          "title": "MASTERCHEF ELEME ADAYI 10 EKİM 2026 | MasterChef'te eleme adayı kim oldu, dokunulmazlık oyununu hangi takım kazandı?",
+          "url": "https://www.cnnturk.com/magazin/masterchef-eleme-adayi-10-ekim-2026-masterchefte-eleme-adayi-kim-oldu-dokunulmazlik-oyununu-hangi-takim-kazandi-3477477",
+          "published_at": "2026-10-10T22:46:55+00:00"
+        },
+        {
+          "source": "Google News - Survivor ve MasterChef (keşif)",
+          "source_domain": "news.google.com",
+          "title": "MASTERCHEF ELEME ADAYI 10 EKİM 2026 | MasterChef'te eleme adayı kim oldu, dokunulmazlık oyununu hangi takım kazandı? - CNN Türk",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQk5COGI4UGV1WmV5bTZsUVFQa1lrRTlDLXBFRUhFeW5QYlhoQ0JFbmtKa0I1cG5vc1EwcWNKQ001amN5SnZwb1lGc0xfYk5UQjZvVWo5WTdTRVl1RXFvUEVwMG1Fb2hJV3p2a1NidmprcjhvMFhPc29JMjRnT2RITmRocG5fb3MtdC10MzNVbHl1cnVXNF9iSkc2RUE3dlRKNVpmemJSV1VQV3llSXkwNFA3anF0YVF2RnFjSzNyNTU3bHhQczgtRnNJcXdscTRJSWJ3NUxHZmJYT1dNYThjOVFlYlh3QQ?oc=5",
+          "published_at": "2026-10-10T19:46:00+00:00"
+        }
+      ],
+      "publisher_count": 2,
+      "publisher_domains": [
+        "cnnturk.com",
+        "news.google.com"
+      ],
+      "coverage_label": "iki yayın kuruluşunda yer alıyor",
+      "event_member_count": 20,
+      "event_rank_score": 21.0,
+      "selection_basis": "independent_publisher_coverage_then_editorial_score",
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
         "page_title": "MASTERCHEF ELEME ADAYI 10 EKİM 2026 | MasterChef'te eleme adayı kim oldu, dokunulmazlık oyununu hangi takım kazandı? - Magazin Haberleri",
-        "og_title": "MASTERCHEF ELEME ADAYI 10 EKİM 2026 | MasterChef'te eleme adayı kim oldu, dokunulmazlık oyununu hangi takım kazandı? - Magazin Haberleri",
+        "og_title": "MASTERCHEF ELEME ADAYI 10 EKİM 2026 | MasterChef'te eleme adayı kim oldu, dokunulmazlık oyununu hangi takım kazandı? - Son Dakika Magazin Haberleri",
         "description": "Magazin Haberleri - MasterChef'te eleme adayı olan isim, yarışmanın bugün  (10 Ekim 2026 Cumartesi) yayınlanan bölümünü kaçıran vatandaşlar tarafından merak...",
         "error": null
       },
@@ -267,20 +123,45 @@
       "normalized_title": "survivor serhan onat evlendi merve kusmenoglu sade gelinligi ve duru guzelligiyle goz kamastırdı",
       "url": "https://www.cnnturk.com/magazin/survivor-serhan-onat-evlendi-merve-kusmenoglu-sade-gelinligi-ve-duru-guzelligiyle-goz-kamastirdi-3477481",
       "source": "CNN Türk Magazin",
-      "source_domain": "www.cnnturk.com",
+      "source_domain": "cnnturk.com",
       "published_at": "2026-10-10T20:43:06+00:00",
       "summary": "Survivor'ın son sezonunda yarışan ünlü oyuncu Serhan Onat, nişanlısı Merve Küsmenoğlu ile evlendi. İşte ünlü çiftin nikahından ilk kareler...",
       "image_url": null,
-      "collected_at": "2026-10-10T20:31:18.027322+00:00",
+      "collected_at": "2026-10-10T20:35:24.280213+00:00",
       "status": "selected_not_verified",
       "also_reported_by": [],
-      "ranking_score": 11.0,
+      "editorial_score": 11.0,
       "ranking_reasons": [
         "anlaşılır başlık",
         "yeterli özet",
         "haber değeri taşıyan konu",
         "güncellik"
       ],
+      "source_articles": [
+        {
+          "source": "CNN Türk Magazin",
+          "source_domain": "cnnturk.com",
+          "title": "Survivor Serhan Onat evlendi! Merve Küsmenoğlu sade gelinliği ve duru güzelliğiyle göz kamaştırdı",
+          "url": "https://www.cnnturk.com/magazin/survivor-serhan-onat-evlendi-merve-kusmenoglu-sade-gelinligi-ve-duru-guzelligiyle-goz-kamastirdi-3477481",
+          "published_at": "2026-10-10T20:43:06+00:00"
+        },
+        {
+          "source": "Google News - Survivor ve MasterChef (keşif)",
+          "source_domain": "news.google.com",
+          "title": "Survivor Serhan Onat evlendi! Merve Küsmenoğlu sade gelinliği ve duru güzelliğiyle göz kamaştırdı - CNN Türk",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUnNTRFZ3eXFNeWNTSE9mR3pBc3JrQU5sNmpzUDY5c3hIUFdpWktLTDF5NmVBc2FIUEtVd2hIRlVRSWZrWVBXczNjWkJHUXNjY3RTX0dxeG95YjhrUlYyMHlfdjNRNkhMUjlTY0tNeUxjelpfa1lxV1hSWG5mSVJTcE10U293UTV0UW5oeGN6ZWpSTlgxdGZCY3YzYkEwTHZPdnluTWtRVE4tTmVnZVUtb1dkM01ubmduQndXNWFPVmFHNWlTeVVkbmpNdGNEU1RWa1E?oc=5",
+          "published_at": "2026-10-10T17:43:00+00:00"
+        }
+      ],
+      "publisher_count": 2,
+      "publisher_domains": [
+        "cnnturk.com",
+        "news.google.com"
+      ],
+      "coverage_label": "iki yayın kuruluşunda yer alıyor",
+      "event_member_count": 2,
+      "event_rank_score": 21.0,
+      "selection_basis": "independent_publisher_coverage_then_editorial_score",
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
@@ -335,6 +216,165 @@
           "shared_keywords": [
             "ndan",
             "yar"
+          ],
+          "match_basis": "title_and_context"
+        }
+      ],
+      "verification_status": "second_source_match_needs_manual_confirmation",
+      "publication_approved": false,
+      "verification_note": "Manuel inceleme adayları başlık, özet ve ortak anahtar kelimelerle bulunur; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "\"Bunlar yüzünden eşim terk etti\"",
+      "normalized_title": "bunlar yuzunden esim terk etti",
+      "url": "https://www.haberturk.com/magazin/foto/ibrahim-karakas-tan-dilber-ay-in-kizina-yanit-3918666",
+      "source": "Habertürk Magazin",
+      "source_domain": "haberturk.com",
+      "published_at": "2026-10-10T09:16:04+00:00",
+      "summary": "2019'da vefat eden Dilber Ay'ın eşi İbrahim Karakaş'ın, İzmirli estetisyen Müge Zopun ile evlendiği ortaya çıktı. Dilber Ay'ın kızı Filiz Çelik, Karakaş'ın \"Ben Dilber'in acısını Müge ile yendim\" sözlerine tepki gösterdi. Karakaş'tan yanıt gecikmedi",
+      "image_url": "https://im.haberturk.com/l/2026/10/10/ver1791623764/3918666/jpg/1920x1080",
+      "collected_at": "2026-10-10T20:35:20.373512+00:00",
+      "status": "selected_not_verified",
+      "also_reported_by": [],
+      "editorial_score": 10.56,
+      "ranking_reasons": [
+        "anlaşılır başlık",
+        "yeterli özet",
+        "haber değeri taşıyan konu",
+        "güncellik",
+        "görsel adayı mevcut"
+      ],
+      "source_articles": [
+        {
+          "source": "Habertürk Magazin",
+          "source_domain": "haberturk.com",
+          "title": "\"Bunlar yüzünden eşim terk etti\"",
+          "url": "https://www.haberturk.com/magazin/foto/ibrahim-karakas-tan-dilber-ay-in-kizina-yanit-3918666",
+          "published_at": "2026-10-10T09:16:04+00:00"
+        },
+        {
+          "source": "Mynet Magazin",
+          "source_domain": "mynet.com",
+          "title": "Dilber Ay'ın kızından İbrahim Karakaş'a ağır suçlamalar! 'Yağlı kapıyı buldun...",
+          "url": "https://www.mynet.com/magazin/dilber-ay-in-kizindan-ibrahim-karakas-a-agir-suclamalar-yagli-kapiyi-buldun-130100603386",
+          "published_at": "2026-10-09T08:53:09+00:00"
+        }
+      ],
+      "publisher_count": 2,
+      "publisher_domains": [
+        "haberturk.com",
+        "mynet.com"
+      ],
+      "coverage_label": "iki yayın kuruluşunda yer alıyor",
+      "event_member_count": 3,
+      "event_rank_score": 20.56,
+      "selection_basis": "independent_publisher_coverage_then_editorial_score",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "İbrahim Karakaş'tan Dilber Ay'ın kızına yanıt: Bunlar yüzünden eşim terk etti - En Son Magazin Haberleri - Habertürk",
+        "og_title": "İbrahim Karakaş'tan Dilber Ay'ın kızına yanıt: Bunlar yüzünden eşim terk etti",
+        "description": "2019'da vefat eden Dilber Ay'ın eşi İbrahim Karakaş'ın, İzmirli estetisyen Müge Zopun ile evlendiği ortaya çıktı. Dilber Ay'ın kızı Filiz Çelik, Karakaş'ın \"Ben Dilber'in acısını Müge ile yendim\" sözlerine tepki gösterdi. Karakaş'tan yanıt gecikmedi",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "Magazin D RSS",
+          "title": "Seda Bakan: Burnumu yaptırırsam eşim beni boşar",
+          "summary": "İbrahim Selim'in Youtube programına konuk olan Seda Bakan'dan şaşırtan itiraf..",
+          "url": "http://www.magazind.net/Seda-Bakan-Burnumu-yaptirirsam-esim-beni-bosar-17870",
+          "match_score": 0.31,
+          "shared_keywords": [
+            "esim",
+            "ibrahim"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "CNN Türk Magazin",
+          "title": "TAŞACAK BU DENİZ GEZEP NEDEN YOK, NEDEN AYRILDI? Taşacak Bu Deniz Gezep diziye geri dönecek mi?",
+          "summary": "Taşacak Bu Deniz dizisinin yeni sezonunda Gezep karakteri yer almadı. Ekranlarda Onur Dilber'i göremeyen seyirciler konuya dair araştırmalarını hızlandırdı. \"Taşacak Bu Deniz Gezep neden yok, ayrıldı mı?\" sorularının yanıtı merak konusu oldu. Peki Taşacak Bu Deniz Gezep neden yok, neden ayrıldı? Taşacak Bu Deniz Gezep diziye geri dönecek mi? Detaylar haberimizde...",
+          "url": "https://www.cnnturk.com/magazin/dizi/tasacak-bu-deniz-gezep-neden-yok-neden-ayrildi-tasacak-bu-deniz-gezep-diziye-geri-donecek-mi-3477223",
+          "match_score": 0.26,
+          "shared_keywords": [
+            "dilber",
+            "yan"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Sabah Magazin",
+          "title": "Dilber Ay'ın kızının 'Yağlı kapı buldu' sözlerine İbrahim Karakaş'tan sert yanıt: \"Hepsine zehir zıkkım olsun\"",
+          "summary": "Usta sanatçı Dilber Ay'ın vefatının ardından eşi İbrahim Karakaş'ın İzmirli estetisyen Müge Zopun ile evlenmesi magazin dünyasında geniş yankı buldu. Dilber Ay'ın kızının yönelttiği ağır iddialar ve \"yağlı... Devamı için tıklayınız",
+          "url": "https://www.sabah.com.tr/magazin/dilber-ayin-kizinin-yagli-kapi-buldu-sozlerine-ibrahim-karakastan-sert-yanit-hepsine-zehir-zikkim-olsun-7677780",
+          "match_score": 0.35,
+          "shared_keywords": [
+            "dilber",
+            "estetisyen",
+            "ibrahim",
+            "izmirli",
+            "karakas",
+            "muge",
+            "sozlerine",
+            "vefat",
+            "yan",
+            "zopun"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Sabah Magazin",
+          "title": "Kendine yine yağlı kapı buldu",
+          "summary": "Ankara'daki evinde kalp krizi geçirerek 2019 yılında hayatını kaybeden Dilber Ay'ın eşi İbrahim Karakaş, \"Bir daha evlenmem\" diyerek gözyaşı dökmüştü. Ancak Karakaş'ın Müge Zopun ile evlendiği ortaya çıktı.... Devamı için tıklayınız",
+          "url": "https://www.sabah.com.tr/magazin/kendine-yine-yagli-kapi-buldu-7677191",
+          "match_score": 0.28,
+          "shared_keywords": [
+            "2019",
+            "dilber",
+            "evlendigi",
+            "ibrahim",
+            "karakas",
+            "muge",
+            "ortaya",
+            "zopun"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Mynet Magazin",
+          "title": "Dilber Ay'ın kızı tepki göstermişti! İbrahim Karakaş'tan imam nikahı çıkışı! 'Eşim beni terk etti'",
+          "summary": "2019 yılında hayatını kaybeden Dilber Ay'ın eşi İbrahim Karakaş'ın evlendiğine dair iddiaların gündeme gelmesiyle birlikte usta sanatçının kızından suçlamalar peş peşe gelmişti. İbrahim Karakaş hakkındaki iddialara açıklık getirdi.",
+          "url": "https://www.mynet.com/magazin/dilber-ay-in-kizi-tepki-gostermisti-ibrahim-karakas-tan-imam-nikahi-cikisi-esim-beni-terk-etti-130100603533",
+          "match_score": 0.33,
+          "shared_keywords": [
+            "2019",
+            "dilber",
+            "esim",
+            "ibrahim",
+            "karakas",
+            "terk"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Mynet Magazin",
+          "title": "Dilber Ay'ın kızından İbrahim Karakaş'a ağır suçlamalar! 'Yağlı kapıyı buldun...",
+          "summary": "2019'da vefat eden Dilber Ay'ın eşi İbrahim Karakaş'ın, İzmirli estetisyen Müge Zopun ile evlendiği ortaya çıkmıştı. Dilber Ay'ın kızı, Karakaş'ın \"Ben Dilber'in acısını Müge ile yendim\" sözlerine tepki gösterdi.",
+          "url": "https://www.mynet.com/magazin/dilber-ay-in-kizindan-ibrahim-karakas-a-agir-suclamalar-yagli-kapiyi-buldun-130100603386",
+          "match_score": 0.69,
+          "shared_keywords": [
+            "2019",
+            "ben",
+            "dilber",
+            "eden",
+            "estetisyen",
+            "evlendigi",
+            "gosterdi",
+            "ibrahim",
+            "izmirli",
+            "karakas",
+            "muge",
+            "ortaya"
           ],
           "match_basis": "title_and_context"
         }
