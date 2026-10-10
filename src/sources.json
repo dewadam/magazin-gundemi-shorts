@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "name": "Habertürk Magazin",
+      "url": "https://www.haberturk.com/rss/magazin.xml",
+      "enabled": true
+    },
+    {
+      "name": "MagazinHaber.com.tr RSS directory",
+      "url": "https://www.magazinhaber.com.tr/rss",
+      "enabled": false,
+      "note": "This is an RSS directory page, not a verified direct feed URL. Keep disabled until the direct XML URL is confirmed."
+    }
+  ],
+  "settings": {
+    "lookback_hours": 48,
+    "max_items_per_source": 40,
+    "output_path": "data/news_latest.json"
+  }
+}
