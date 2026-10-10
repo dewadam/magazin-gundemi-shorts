@@ -191,30 +191,51 @@ def expand_with_google_search(items, max_queries=15, results_per_query=40):
  # clusters and collect their publisher articles; do not hammer the search endpoint
  # with dozens of separate queries (which triggers HTTP 429).
  try:
-  from news_collector import fetch_google_news_source
+  from news_collector import fetch_google_news_source, search_gdelt_news
  except ImportError:
-  from src.news_collector import fetch_google_news_source
+  from src.news_collector import fetch_google_news_source, search_gdelt_news
  expanded=list(items)
  seen_urls={str(x.get('url','')) for x in expanded if x.get('url')}
  queries=[]
+ seen_query_titles=set()
  for item in items:
-  url=str(item.get('url',''))
-  if ('/read/' in url or '/stories/' in url) and url not in {x.get('cluster_url') for x in queries}:
-   queries.append({'title':str(item.get('title','')), 'url':url})
+  title=str(item.get('title','')).strip()
+  key=norm(title)
+  if title and key not in seen_query_titles:
+   seen_query_titles.add(key)
+   queries.append({'title':title,'url':str(item.get('url',''))})
   if len(queries)>=max_queries: break
- for index, query in enumerate(queries):
+ cluster_count=0
+ publisher_count=0
+ for query in queries:
+  url=query['url']
+  if '/read/' in url or '/stories/' in url:
+   try:
+    found=fetch_google_news_source({'name':'Google News hikâye kümesi: '+query['title'][:80], 'url':url}, results_per_query, 72)
+    for item in found:
+     link=str(item.get('url',''))
+     if link and link not in seen_urls:
+      seen_urls.add(link)
+      item['cluster_title']=query['title']
+      item['cluster_url']=url
+      expanded.append(item)
+      cluster_count+=1
+   except Exception as exc:
+    print(f'Google News hikâye kümesi okunamadı: {query["title"][:90]} | {str(exc)[:160]}')
+  # Google cluster pages do not always expose their complete publisher list in
+  # server-rendered HTML. Search a separate indexed-news database as a fallback.
   try:
-   found=fetch_google_news_source({'name':'Google News haber kümesi: '+query['title'][:80], 'url':query['url']}, results_per_query, 72)
+   found=search_gdelt_news(query['title'], max_items=results_per_query)
    for item in found:
-    url=str(item.get('url',''))
-    if url and url not in seen_urls:
-     seen_urls.add(url)
-     item['cluster_title']=query['title']
-     item['cluster_url']=query['url']
+    link=str(item.get('url',''))
+    if link and link not in seen_urls:
+     seen_urls.add(link)
+     item['query_title']=query['title']
      expanded.append(item)
+     publisher_count+=1
   except Exception as exc:
-   print(f'Google News haber kümesi okunamadı: {query["title"][:90]} | {str(exc)[:160]}')
- print(f'Google News haber kümesi incelemesi: {len(queries)} küme | toplam aday: {len(expanded)}')
+   print(f'Web haber indeksi araması atlandı: {query["title"][:90]} | {str(exc)[:160]}')
+ print(f'Google News küme makalesi: {cluster_count} | web haber indeksi makalesi: {publisher_count} | toplam aday: {len(expanded)}')
  return expanded
 
 def main():
