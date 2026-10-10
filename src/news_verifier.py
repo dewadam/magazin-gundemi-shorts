@@ -113,10 +113,10 @@ def collect_other_source_headlines(selected_items: list[dict]) -> dict[str, list
                     if domain == original_domain:
                         continue
                     sim, shared_keywords, basis = event_similarity(item, other_title, other_summary)
-                    # A match means "review this possible same story", never "verified".
-                    # Zayıf/genel ortak kelimelerle eşleşme üretme.
-                    # En az iki ayırt edici ortak terim ve daha güçlü bağlam benzerliği gerekir.
-                    if sim >= 0.42 and len(shared_keywords) >= 2:
+                    # Bu liste doğrulama değil, manuel inceleme için geniş tutulmuş aday listesidir.
+                    # İki ayırt edici ortak terim varsa düşük benzerlikteki başlık farklılıklarını da yakala.
+                    # Sonraki adımda kişi/olay bağlamı insan tarafından kontrol edilir.
+                    if sim >= 0.25 and len(shared_keywords) >= 2:
                         target = matches[str(item.get("url", ""))]
                         candidate = {
                             "source": source.get("name", domain),
@@ -205,18 +205,18 @@ def main() -> int:
         record["verification_status"] = ("second_source_match_needs_manual_confirmation" if has_match else ("source_page_reachable_no_second_source_match" if page["reachable"] else "source_page_unavailable_needs_review"))
         record["publication_approved"] = False
         record["verification_note"] = (
-            "Olası ikinci kaynak eşleşmeleri başlık, özet ve ortak anahtar kelimelerle bulunur; bu bir doğruluk puanı değildir. "
+            "Manuel inceleme adayları başlık, özet ve ortak anahtar kelimelerle bulunur; bunlar doğrulanmış haber veya bağımsız teyit değildir. "
             "Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
         )
         results.append(record)
         match_count = len(record["independent_source_matches"])
-        print(f"- {'ERİŞİLEBİLİR' if page['reachable'] else 'KONTROL GEREKİYOR'}: {item.get('title', '(başlıksız)')} | olası bağımsız kaynak eşleşmesi: {match_count}")
+        print(f"- {'ERİŞİLEBİLİR' if page['reachable'] else 'KONTROL GEREKİYOR'}: {item.get('title', '(başlıksız)')} | manuel inceleme adayı: {match_count}")
 
     output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "checked_count": len(results),
         "publication_approved_count": 0,
-        "note": "Başlık ve özet benzerliği yalnızca olası eşleşme adayı üretir. Genel kelimeler filtrelenir; eşleşmeler haber doğrulaması veya yayın onayı değildir.",
+        "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
         "items": results,
     }
     OUTPUT_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
