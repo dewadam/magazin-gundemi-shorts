@@ -80,57 +80,45 @@ def event_similarity(item: dict, other_title: str, other_summary: str) -> tuple[
 
 
 def collect_other_source_headlines(selected_items: list[dict]) -> dict[str, list[dict]]:
-    if not SOURCES_PATH.exists():
-        return {}
-    config = json.loads(SOURCES_PATH.read_text(encoding="utf-8"))
+    """Search each selected event on Google News; do not compare publisher RSS feeds."""
+    try:
+        from news_collector import search_google_news
+    except ImportError:
+        from src.news_collector import search_google_news
     matches: dict[str, list[dict]] = {str(item.get("url", "")): [] for item in selected_items}
-    for source in config.get("sources", []):
-        if not source.get("enabled"):
-            continue
-        # Aggregator/search feeds are useful for discovery, but not independent corroboration.
-        if source.get("role") == "discovery_only":
-            LOG.info("Doğrulama eşleştirmesinde atlandı (keşif kaynağı): %s", source.get("name", source.get("url", "")))
+    for item in selected_items:
+        title = str(item.get("title", "")).strip()
+        if not title:
             continue
         try:
-            feed = feedparser.parse(source["url"], request_headers={"User-Agent": "MagazinGundemiShorts/0.1"})
-            entries = getattr(feed, "entries", [])
-            LOG.info("İkinci kaynak RSS: %s | aday başlık: %d | biçim uyarısı: %s", source.get("name", source["url"]), len(entries), getattr(feed, "bozo", False))
-            if not entries:
-                LOG.warning("İkinci kaynak RSS içinde haber bulunamadı; URL doğrudan RSS olmayabilir: %s", source["url"])
-            for entry in entries[:400]:
-                def clean(value: object) -> str:
-                    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", str(value or ""))).strip()
-
-                other_title = clean(getattr(entry, "title", ""))
-                other_summary = clean(getattr(entry, "summary", "") or getattr(entry, "description", ""))
-                other_url = str(getattr(entry, "link", ""))
-                from urllib.parse import urlparse
-                domain = re.sub(r"^www\.", "", urlparse(other_url).netloc.lower())
-                if not other_title or not other_url:
-                    continue
-                for item in selected_items:
-                    original_domain = re.sub(r"^www\.", "", str(item.get("source_domain", "")).lower())
-                    if domain == original_domain:
-                        continue
-                    sim, shared_keywords, basis = event_similarity(item, other_title, other_summary)
-                    # Bu liste doğrulama değil, manuel inceleme için geniş tutulmuş aday listesidir.
-                    # İki ayırt edici ortak terim varsa düşük benzerlikteki başlık farklılıklarını da yakala.
-                    # Sonraki adımda kişi/olay bağlamı insan tarafından kontrol edilir.
-                    if sim >= 0.25 and len(shared_keywords) >= 2:
-                        target = matches[str(item.get("url", ""))]
-                        candidate = {
-                            "source": source.get("name", domain),
-                            "title": other_title,
-                            "summary": other_summary[:500],
-                            "url": other_url,
-                            "match_score": round(sim, 2),
-                            "shared_keywords": shared_keywords[:12],
-                            "match_basis": basis,
-                        }
-                        if not any(existing.get("url") == other_url for existing in target):
-                            target.append(candidate)
+            candidates = search_google_news(title, max_items=40)
         except Exception as exc:
-            LOG.warning("İkinci kaynak akışı okunamadı (%s): %s", source.get("name", "bilinmiyor"), str(exc)[:200])
+            LOG.warning("Google News olay araması başarısız: %s | %s", title[:100], str(exc)[:180])
+            continue
+        target = matches[str(item.get("url", ""))]
+        original_domain = re.sub(r"^www\\.", "", str(item.get("source_domain", "")).lower())
+        seen_urls = set()
+        for candidate in candidates:
+            url = str(candidate.get("url", ""))
+            domain = re.sub(r"^www\\.", "", str(candidate.get("source_domain", "")).lower())
+            if not url or url == item.get("url") or url in seen_urls:
+                continue
+            if domain and original_domain and domain == original_domain:
+                continue
+            sim, shared, basis = event_similarity(item, candidate.get("title", ""), candidate.get("summary", ""))
+            if sim >= 0.25 and len(shared) >= 2:
+                seen_urls.add(url)
+                target.append({
+                    "source": candidate.get("source", "Google News sonucu"),
+                    "source_domain": domain,
+                    "title": candidate.get("title", ""),
+                    "summary": str(candidate.get("summary", ""))[:500],
+                    "url": url,
+                    "match_score": round(sim, 2),
+                    "shared_keywords": shared[:12],
+                    "match_basis": basis,
+                    "discovery_method": "Google News arama sonucu",
+                })
     return matches
 
 
