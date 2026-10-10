@@ -128,18 +128,24 @@ def rank(items):
   # Exact same titles across publishers can be syndicated wire copy, not independent confirmation.
   title_norms=[norm(i.get('title')) for i in publisher_items]
   possible_syndication=len(domains)>=2 and len(set(title_norms))==1
+  discovery_count=sum(role(i)=='discovery_only' for i in members)
+  latest=max((date(i) for i in members if date(i) is not None), default=None)
+  age_hours=max(0.0,(datetime.now(timezone.utc)-latest.astimezone(timezone.utc)).total_seconds()/3600) if latest else 48.0
+  # Heuristic trend score: independent publisher coverage matters most; repeated discovery-feed
+  # appearances add evidence of spread; recency boosts fast-moving stories. This is a proxy,
+  # not a real view/share count.
+  recency_score=max(0.0, 24.0-age_hours)/24.0
+  popularity_score=round(3.0*len(domains)+1.5*discovery_count+2.0*recency_score,3)
   output.append({**representative,'source_articles':sources,'publisher_domains':domains,
    'publisher_count':len(domains),'event_member_count':len(members),
-   'discovery_item_count':sum(role(i)=='discovery_only' for i in members),
+   'discovery_item_count':discovery_count,'latest_published_at':latest.isoformat() if latest else None,
+   'age_hours':round(age_hours,2),'popularity_score':popularity_score,
    'possible_syndication':possible_syndication,
    'verification_status':'manual_review_required', 'publication_approved':False,
    'coverage_label': 'multi_publisher' if len(domains)>1 else 'single_publisher'})
- # Rank for a daily Shorts queue: multi-publisher coverage is a signal, but not a gate.
- # Within the same coverage tier, newer items should come before older items.
- def freshness(item):
-  published = date(item)
-  return published.timestamp() if published else 0
- output.sort(key=lambda x:(x['publisher_count'], freshness(x), len(tok(x.get('title','')))),reverse=True)
+ # Trend-first ordering: spread across publishers/discovery feeds plus freshness, not a hard
+ # requirement that every selected story appear in two publisher RSS feeds.
+ output.sort(key=lambda x:(x['popularity_score'], x['publisher_count'], -x['age_hours']),reverse=True)
  return output
 
 
@@ -168,7 +174,7 @@ def main():
  output={'generated_at':datetime.now(timezone.utc).isoformat(),
   'candidate_count':len(payload.get('items',[])), 'event_group_count':len(ranked),
   'multi_publisher_event_count':len(multi),'selection_count':len(selected),
-  'target_count':3,'note':'Daily selection chooses up to three distinct events from direct publishers. Multi-publisher coverage is a ranking signal, not a requirement or factual verification; selected items still require verification and visual-rights review.',
+  'target_count':3,'note':'Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.',
   'items':selected,'event_groups_preview':ranked[:30]}
  target=ROOT/'data/selected_news.json';target.parent.mkdir(parents=True,exist_ok=True)
  target.write_text(json.dumps(output,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
