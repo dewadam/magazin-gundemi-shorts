@@ -41,13 +41,16 @@ def collect_other_source_headlines(selected_items: list[dict]) -> dict[str, list
         return {}
     config = json.loads(SOURCES_PATH.read_text(encoding="utf-8"))
     matches: dict[str, list[dict]] = {str(item.get("url", "")): [] for item in selected_items}
-    selected_domains = {str(item.get("source_domain", "")).lower() for item in selected_items}
     for source in config.get("sources", []):
         if not source.get("enabled"):
             continue
         try:
             feed = feedparser.parse(source["url"], request_headers={"User-Agent": "MagazinGundemiShorts/0.1"})
-            for entry in getattr(feed, "entries", [])[:80]:
+            entries = getattr(feed, "entries", [])
+            LOG.info("İkinci kaynak RSS: %s | aday başlık: %d | biçim uyarısı: %s", source.get("name", source["url"]), len(entries), getattr(feed, "bozo", False))
+            if not entries:
+                LOG.warning("İkinci kaynak RSS içinde haber bulunamadı; URL doğrudan RSS olmayabilir: %s", source["url"])
+            for entry in entries[:80]:
                 other_title = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", str(getattr(entry, "title", "")))).strip()
                 other_url = str(getattr(entry, "link", ""))
                 domain = re.sub(r"^www\.", "", __import__("urllib.parse", fromlist=["urlparse"]).urlparse(other_url).netloc.lower())
