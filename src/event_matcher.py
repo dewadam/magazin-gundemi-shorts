@@ -71,7 +71,8 @@ def same_event(a: dict, b: dict) -> tuple[bool, float, str]:
     seq = SequenceMatcher(None, normalize(a.get("title", "")), normalize(b.get("title", ""))).ratio()
     score = max(jaccard, overlap * 0.85, seq * 0.80)
     ea, eb = event_terms(a.get("title", "")), event_terms(b.get("title", ""))
-    if ea and eb and not (ea & eb):
+    action_agrees = bool(ea & eb)
+    if ea and eb and not action_agrees:
         return False, score, "different_event_actions"
     if not distinct_shared:
         return False, score, "only_show_or_generic_terms"
