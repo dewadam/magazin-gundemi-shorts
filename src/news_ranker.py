@@ -148,7 +148,7 @@ def main() -> int:
     for candidate in ranked:
         if candidate["ranking_score"] < 1:
             continue
-        duplicate_of = next((chosen for chosen in selected if similarity(candidate, chosen) >= 0.62), None)
+        duplicate_of = next((chosen for chosen in selected if similarity(candidate, chosen) >= 0.50), None)
         if duplicate_of:
             rejected_duplicates.append({
                 "title": candidate.get("title"),
