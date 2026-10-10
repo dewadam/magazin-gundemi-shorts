@@ -159,7 +159,7 @@ def topic_key(item):
  """Avoid filling the daily shortlist with several stories from one reality show."""
  title=norm(item.get('title',''))
  for program in PROGRAMS:
-  if re.search(r'\\b'+re.escape(program)+r'\\b', title):
+  if re.search(r'\b'+re.escape(program)+r'\b', title):
    return 'program:'+program
  return ''
 
