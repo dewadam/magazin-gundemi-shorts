@@ -46,6 +46,14 @@ class MatchingTests(unittest.TestCase):
         self.assertEqual(len(selected), 3)
         self.assertEqual(len({x["url"] for x in selected}), 3)
 
+    def test_discovery_repetition_increases_trend_score(self):
+        direct = article("Hadise Kerem Bürsin Milano Moda Haftası birlikte görüntülendi", "CNN", "cnnturk.com")
+        discovery1 = article("Hadise Kerem Bürsin Milano Moda Haftası birlikte görüntülendi - Haberler", "Google News - Magazin (keşif)", "news.google.com", role="discovery_only")
+        discovery2 = article("Hadise ve Kerem Bürsin Milano Moda Haftası - Mynet", "Google News - Ünlüler (keşif)", "news.google.com", role="discovery_only")
+        baseline = rank([direct])[0]["popularity_score"]
+        spread = rank([direct, discovery1, discovery2])[0]["popularity_score"]
+        self.assertGreater(spread, baseline)
+
     def test_discovery_only_items_are_not_selected(self):
         item = article("Ünlü isimden açıklama", "Google News - keşif", "news.google.com", role="discovery_only")
         self.assertEqual(select_top_stories(rank([item]), 3), [])
