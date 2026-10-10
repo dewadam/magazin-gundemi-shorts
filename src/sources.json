@@ -53,8 +53,8 @@
     {
       "name": "Milliyet Magazin",
       "url": "https://www.milliyet.com.tr/rss/rssNew/magazinRss.xml",
-      "enabled": true,
-      "note": "RSS akışı magazin dışı kategorileri de döndürebildiği için yalnızca /magazin/ yolundaki haberler alınır.",
+      "enabled": false,
+      "note": "Geçici olarak devre dışı: RSS adresi magazin dışı URL'ler döndürüyor ve /magazin/ filtresinden sonra uygun haber kalmıyor. Doğrudan doğru kategori akışı doğrulanınca yeniden etkinleştirilecek.",
       "allowed_url_path_prefixes": [
         "/magazin/"
       ]
