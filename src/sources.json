@@ -43,6 +43,30 @@
       "enabled": true,
       "role": "discovery_only",
       "note": "Haber keşfi için kullanılır; bağımsız doğrulama kaynağı sayılmaz."
+    },
+    {
+      "name": "CNN Türk Magazin",
+      "url": "https://www.cnnturk.com/feed/rss/magazin/news",
+      "enabled": true,
+      "note": "Magazin kategorisi RSS; bağımsız kaynak adayı, Actions loglarında akışın geçerliliği kontrol edilecek."
+    },
+    {
+      "name": "Milliyet Magazin",
+      "url": "https://www.milliyet.com.tr/rss/rssNew/magazinRss.xml",
+      "enabled": true,
+      "note": "Magazin kategorisi RSS; bağımsız kaynak adayı, Actions loglarında akışın geçerliliği kontrol edilecek."
+    },
+    {
+      "name": "Sabah Magazin",
+      "url": "https://www.sabah.com.tr/rss/magazin.xml",
+      "enabled": true,
+      "note": "Magazin kategorisi RSS; bağımsız kaynak adayı, Actions loglarında akışın geçerliliği kontrol edilecek."
+    },
+    {
+      "name": "Mynet Magazin",
+      "url": "https://www.mynet.com/magazin/rss",
+      "enabled": true,
+      "note": "Magazin kategorisi RSS; bağımsız kaynak adayı, Actions loglarında akışın geçerliliği kontrol edilecek."
     }
   ],
   "settings": {
