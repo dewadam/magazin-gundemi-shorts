@@ -22,6 +22,27 @@
       "url": "http://www.magazind.net/rss.xml?cat=3",
       "enabled": true,
       "note": "Magazin kategorisi RSS adresi; GitHub Actions çalıştırmasında akışın geçerliliği kontrol edilecek."
+    },
+    {
+      "name": "Google News - Magazin ve ünlüler (keşif)",
+      "url": "https://news.google.com/rss/search?q=magazin%20%C3%BCnl%C3%BCler&hl=tr&gl=TR&ceid=TR:tr",
+      "enabled": true,
+      "role": "discovery_only",
+      "note": "Haber keşfi için kullanılır; bağımsız doğrulama kaynağı sayılmaz."
+    },
+    {
+      "name": "Google News - Dizi ve oyuncular (keşif)",
+      "url": "https://news.google.com/rss/search?q=dizi%20oyuncu%20magazin&hl=tr&gl=TR&ceid=TR:tr",
+      "enabled": true,
+      "role": "discovery_only",
+      "note": "Haber keşfi için kullanılır; bağımsız doğrulama kaynağı sayılmaz."
+    },
+    {
+      "name": "Google News - Survivor ve MasterChef (keşif)",
+      "url": "https://news.google.com/rss/search?q=Survivor%20OR%20MasterChef&hl=tr&gl=TR&ceid=TR:tr",
+      "enabled": true,
+      "role": "discovery_only",
+      "note": "Haber keşfi için kullanılır; bağımsız doğrulama kaynağı sayılmaz."
     }
   ],
   "settings": {
