@@ -40,10 +40,10 @@ jobs:
       - name: Run event-matching regression tests
         run: python -m unittest discover -s tests -v
 
-      - name: Collect RSS news
+      - name: Collect Google News and web-index candidates
         run: python src/news_collector.py
 
-      - name: Group same events and rank by publisher coverage
+      - name: Search publisher coverage and rank distinct events
         run: python src/news_ranker.py
 
       - name: Check source pages and create verification queue
