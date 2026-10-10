@@ -53,6 +53,15 @@ def within_lookback(published_at: str | None, hours: int) -> bool:
         return False
 
 
+def path_is_allowed(link: str, source: dict) -> bool:
+    """Apply optional category-path guards to RSS feeds known to mix categories."""
+    prefixes = source.get("allowed_url_path_prefixes", [])
+    if not prefixes:
+        return True
+    path = urlparse(link).path.lower()
+    return any(path.startswith(str(prefix).lower()) for prefix in prefixes)
+
+
 def fetch_source(source: dict, max_items: int, lookback_hours: int) -> list[dict]:
     name = source.get("name", urlparse(source["url"]).netloc)
     LOG.info("RSS okunuyor: %s", name)
@@ -68,6 +77,9 @@ def fetch_source(source: dict, max_items: int, lookback_hours: int) -> list[dict
         title = clean_text(getattr(entry, "title", ""))
         link = clean_text(getattr(entry, "link", ""))
         if not title or not link or not link.startswith(("https://", "http://")):
+            continue
+        if not path_is_allowed(link, source):
+            LOG.info("Kategori filtresi nedeniyle atlandı: %s | %s", name, link)
             continue
         published_at = parse_published(entry)
         if not within_lookback(published_at, lookback_hours):
