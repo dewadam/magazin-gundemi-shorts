@@ -134,8 +134,29 @@ def rank(items):
    'possible_syndication':possible_syndication,
    'verification_status':'manual_review_required', 'publication_approved':False,
    'coverage_label': 'multi_publisher' if len(domains)>1 else 'single_publisher'})
- output.sort(key=lambda x:(x['publisher_count'],not x['possible_syndication'],len(tok(x.get('title','')))),reverse=True)
+ # Rank for a daily Shorts queue: multi-publisher coverage is a signal, but not a gate.
+ # Within the same coverage tier, newer items should come before older items.
+ def freshness(item):
+  published = date(item)
+  return published.timestamp() if published else 0
+ output.sort(key=lambda x:(x['publisher_count'], freshness(x), len(tok(x.get('title','')))),reverse=True)
  return output
+
+
+def select_top_stories(ranked, limit=3):
+ """Select distinct direct-publisher events; do not require two publishers per story."""
+ selected=[]
+ seen_urls=set()
+ for item in ranked:
+  if role(item) == 'discovery_only' or not publisher(item):
+   continue
+  url=str(item.get('url') or '')
+  if url and url in seen_urls:
+   continue
+  selected.append(item)
+  if url: seen_urls.add(url)
+  if len(selected) >= limit: break
+ return selected
 
 def main():
  path=ROOT/'data/news_latest.json'
@@ -143,11 +164,11 @@ def main():
  payload=json.loads(path.read_text(encoding='utf-8'))
  ranked=rank(payload.get('items',[]))
  multi=[x for x in ranked if x['publisher_count']>=2 and not x['possible_syndication']]
- selected=multi[:3]
+ selected=select_top_stories(ranked, 3)
  output={'generated_at':datetime.now(timezone.utc).isoformat(),
   'candidate_count':len(payload.get('items',[])), 'event_group_count':len(ranked),
   'multi_publisher_event_count':len(multi),'selection_count':len(selected),
-  'target_count':3,'note':'Publisher coverage is a popularity signal, not factual verification. Exact headline matches across outlets are flagged as possible syndication and excluded from automatic top-three selection pending review.',
+  'target_count':3,'note':'Daily selection chooses up to three distinct events from direct publishers. Multi-publisher coverage is a ranking signal, not a requirement or factual verification; selected items still require verification and visual-rights review.',
   'items':selected,'event_groups_preview':ranked[:30]}
  target=ROOT/'data/selected_news.json';target.parent.mkdir(parents=True,exist_ok=True)
  target.write_text(json.dumps(output,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
@@ -156,7 +177,7 @@ def main():
   print(f'{idx}. [{item["publisher_count"]} yayın kuruluşu] {item["title"]}')
   print('   Kaynaklar: '+', '.join(s['source'] or s['source_domain'] for s in item['source_articles']))
   print('   Manuel kontrol: içerik ve kaynak bağımsızlığı henüz doğrulanmadı.')
- if len(selected)<3: print('UYARI: Üç çok kaynaklı ve olası sendikasyon dışı olay bulunamadı; kota zorlanmadı.')
+ if len(selected)<3: print('UYARI: Üç ayrı doğrudan yayıncı haberi bulunamadı; mevcut sayı seçildi.')
  return 0
 
 if __name__=='__main__': sys.exit(main())
