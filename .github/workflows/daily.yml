@@ -2,6 +2,13 @@ name: Daily Magazin News Collection
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "src/**"
+      - "tests/**"
+      - "requirements.txt"
+      - ".github/workflows/daily.yml"
   schedule:
     # 06:15 UTC = 09:15 Türkiye saati (UTC+3)
     - cron: "15 6 * * *"
