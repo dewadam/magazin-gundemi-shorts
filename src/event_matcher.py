@@ -89,7 +89,16 @@ def same_event(a: dict, b: dict) -> tuple[bool, float, str]:
             return False, score, "publication_dates_far_apart"
     except (ValueError, TypeError):
         pass
-    matched = score >= 0.59 or (action_agrees and len(shared) >= 2 and score >= 0.50)
+    # Cross-publisher headlines about the same named people often use different
+    # verbs (e.g. "tepki gösterdi" vs "sert yanıt"). Permit a lower threshold
+    # only when at least three distinctive title terms overlap; this avoids
+    # merging stories based only on a celebrity or programme name.
+    named_event_overlap = len(distinct_shared) >= 3 and overlap >= 0.50
+    matched = (
+        score >= 0.59
+        or (action_agrees and len(shared) >= 2 and score >= 0.50)
+        or (named_event_overlap and score >= 0.48)
+    )
     return matched, score, ("headline_event_match" if matched else "weak_match")
 
 
