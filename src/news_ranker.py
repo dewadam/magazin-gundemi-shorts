@@ -150,14 +150,20 @@ def publisher_domain(item: dict) -> str:
 
 
 def source_articles(item: dict) -> list[dict]:
-    articles = [{
-        "source": item.get("source", "Bilinmeyen kaynak"),
-        "source_domain": publisher_domain(item),
-        "title": item.get("title", ""),
-        "url": item.get("url", ""),
-        "published_at": item.get("published_at"),
-    }]
+    # Google News/search feeds discover stories but are not publisher votes.
+    if item.get("source_role") == "discovery_only":
+        articles = []
+    else:
+        articles = [{
+            "source": item.get("source", "Bilinmeyen kaynak"),
+            "source_domain": publisher_domain(item),
+            "title": item.get("title", ""),
+            "url": item.get("url", ""),
+            "published_at": item.get("published_at"),
+        }]
     for other in item.get("also_reported_by", []) or []:
+        if other.get("source_role") == "discovery_only":
+            continue
         domain = str(other.get("source_domain") or publisher_domain(other))
         articles.append({
             "source": other.get("source", "Bilinmeyen kaynak"),
