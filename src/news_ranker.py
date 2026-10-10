@@ -66,6 +66,28 @@ def similarity(a: dict, b: dict) -> float:
     return max(jaccard, containment * 0.65, title_seq * 0.85)
 
 
+def duplicate_event(a: dict, b: dict) -> bool:
+    """Conservative event-level dedupe for differently worded headlines."""
+    if similarity(a, b) >= 0.50:
+        return True
+
+    ta, tb = tokens(a), tokens(b)
+    shared = ta & tb
+    # Same show/franchise, same calendar day, and overlapping event vocabulary.
+    franchise_terms = {"masterchef", "survivor", "kizilcik", "serbeti"}
+    event_terms = {"eleme", "adayi", "potaya", "dokunulmazligi", "kazandi"}
+    title_a = plain(a.get("title", ""))
+    title_b = plain(b.get("title", ""))
+    same_franchise = bool((ta & tb) & franchise_terms)
+    same_event_vocabulary = len(shared & event_terms) >= 2 or (
+        "masterchef" in shared and len(shared & {"eleme", "adayi", "potaya", "dokunulmazligi"}) >= 1
+    )
+    date_a = parse_date(a.get("published_at"))
+    date_b = parse_date(b.get("published_at"))
+    same_day = bool(date_a and date_b and date_a.date() == date_b.date())
+    return same_franchise and same_event_vocabulary and same_day
+
+
 def parse_date(value: str | None) -> datetime | None:
     if not value:
         return None
@@ -148,7 +170,7 @@ def main() -> int:
     for candidate in ranked:
         if candidate["ranking_score"] < 1:
             continue
-        duplicate_of = next((chosen for chosen in selected if similarity(candidate, chosen) >= 0.50), None)
+        duplicate_of = next((chosen for chosen in selected if duplicate_event(candidate, chosen)), None)
         if duplicate_of:
             rejected_duplicates.append({
                 "title": candidate.get("title"),
