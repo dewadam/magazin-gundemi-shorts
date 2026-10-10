@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T20:18:09.934901+00:00",
+  "generated_at": "2026-10-10T20:19:15.930047+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
-  "note": "Olası aynı olaylar başlık + özet ortak anahtar kelimeleriyle bulunur. Eşleşmeler inceleme adayıdır, doğrulama veya yayın onayı değildir.",
+  "note": "Başlık ve özet benzerliği yalnızca olası eşleşme adayı üretir. Genel kelimeler filtrelenir; eşleşmeler haber doğrulaması veya yayın onayı değildir.",
   "items": [
     {
       "title": "\"Bunlar yüzünden eşim terk etti\"",
@@ -13,7 +13,7 @@
       "published_at": "2026-10-10T09:16:04+00:00",
       "summary": "2019'da vefat eden Dilber Ay'ın eşi İbrahim Karakaş'ın, İzmirli estetisyen Müge Zopun ile evlendiği ortaya çıktı. Dilber Ay'ın kızı Filiz Çelik, Karakaş'ın \"Ben Dilber'in acısını Müge ile yendim\" sözlerine tepki gösterdi. Karakaş'tan yanıt gecikmedi",
       "image_url": "https://im.haberturk.com/l/2026/10/10/ver1791623764/3918666/jpg/1920x1080",
-      "collected_at": "2026-10-10T20:18:04.886725+00:00",
+      "collected_at": "2026-10-10T20:19:10.389979+00:00",
       "status": "selected_not_verified",
       "also_reported_by": [],
       "ranking_score": 10.58,
@@ -32,46 +32,8 @@
         "description": "2019'da vefat eden Dilber Ay'ın eşi İbrahim Karakaş'ın, İzmirli estetisyen Müge Zopun ile evlendiği ortaya çıktı. Dilber Ay'ın kızı Filiz Çelik, Karakaş'ın \"Ben Dilber'in acısını Müge ile yendim\" sözlerine tepki gösterdi. Karakaş'tan yanıt gecikmedi",
         "error": null
       },
-      "independent_source_matches": [
-        {
-          "source": "Magazin D RSS",
-          "title": "Yenge Jelena ‘Kim’e çattı",
-          "summary": "Kim Kardashian yeni parfümünün tanıtımında seksi bir tulum giydi. Eski Beşiktaşlı Sırp futbolcu Dusko Tosic'in eşi Jelena Karleusa aynı tulumun mavi renklisini paylaşıp",
-          "url": "http://www.magazind.net/Yenge-Jelena-Kime-catti-18009",
-          "match_score": 0.38,
-          "shared_keywords": [
-            "esi",
-            "tan"
-          ],
-          "match_basis": "title_and_context"
-        },
-        {
-          "source": "Magazin D RSS",
-          "title": "Ebru Şallı'nın oğlu Pars vefat etti",
-          "summary": "Ebru Şallı'nın eski eşi Harun Tan'dan dünyaya gelen 8 yaşındaki oğlu Pars yaklaşık bir yıldır lenfoma tedavisi görüyordu. Pars, dün gece tedavi gördüğü hastanede hayatını kaybetti.",
-          "url": "http://www.magazind.net/Ebru-Sallinin-oglu-Pars-vefat-etti-17682",
-          "match_score": 0.37,
-          "shared_keywords": [
-            "esi",
-            "tan",
-            "vefat"
-          ],
-          "match_basis": "title_and_context"
-        },
-        {
-          "source": "Magazin D RSS",
-          "title": "Ambrosio tepki çekti",
-          "summary": "Karantinayı ABD Los Angeles’taki evinde geçiren Brezilyalı model Alessandra Ambrosio, kendi bikini markasını tanıtmaya devam ediyor.",
-          "url": "http://www.magazind.net/Ambrosio-tepki-cekti-17612",
-          "match_score": 0.41,
-          "shared_keywords": [
-            "tan",
-            "tepki"
-          ],
-          "match_basis": "title_and_context"
-        }
-      ],
-      "verification_status": "second_source_match_needs_manual_confirmation",
+      "independent_source_matches": [],
+      "verification_status": "source_page_reachable_no_second_source_match",
       "publication_approved": false,
       "verification_note": "Olası ikinci kaynak eşleşmeleri başlık, özet ve ortak anahtar kelimelerle bulunur; bu bir doğruluk puanı değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
@@ -84,7 +46,7 @@
       "published_at": "2026-10-10T05:12:30+00:00",
       "summary": "Nükhet Duru, ayağında küçük bir kırık olduğunu açıkladı. Konserleri nedeniyle ayağını alçıya aldırmadığını söyleyen şarkıcı, \"Robocop gibi geziyorum\" diyerek, espri yaptı",
       "image_url": "https://im.haberturk.com/l/2026/10/09/ver1791579132/3918605/jpg/1920x1080",
-      "collected_at": "2026-10-10T20:18:04.886963+00:00",
+      "collected_at": "2026-10-10T20:19:10.390157+00:00",
       "status": "selected_not_verified",
       "also_reported_by": [],
       "ranking_score": 10.24,
@@ -117,10 +79,10 @@
       "published_at": "2026-10-10T04:46:28+00:00",
       "summary": "Türk tiyatrosunun duayen ismi Nejat Uygur'un oyuncu eşi Necla Uygur, 89 yaşında hayatını kaybetti. Usta sanatçı, dün gözyaşlarıyla son yolculuğuna uğurlandı",
       "image_url": "https://im.haberturk.com/l/2026/10/09/ver1791551603/3918497/jpg/1920x1080",
-      "collected_at": "2026-10-10T20:18:04.886990+00:00",
+      "collected_at": "2026-10-10T20:19:10.390178+00:00",
       "status": "selected_not_verified",
       "also_reported_by": [],
-      "ranking_score": 9.71,
+      "ranking_score": 9.7,
       "ranking_reasons": [
         "anlaşılır başlık",
         "yeterli özet",
@@ -136,69 +98,8 @@
         "description": "Türk tiyatrosunun duayen ismi Nejat Uygur'un oyuncu eşi Necla Uygur, 89 yaşında hayatını kaybetti. Usta sanatçı, bugün son yolculuğuna uğurlandı",
         "error": null
       },
-      "independent_source_matches": [
-        {
-          "source": "Magazin D RSS",
-          "title": "Üç yıldır yalnız",
-          "summary": "Youtube’da yayınlanan bir programa konuk olan oyuncu İrem Sak, sevgili itirafıyla sosyal medyada gündem oldu.",
-          "url": "http://www.magazind.net/Uc-yildir-yalniz-17948",
-          "match_score": 0.35,
-          "shared_keywords": [
-            "oyuncu",
-            "yla"
-          ],
-          "match_basis": "title_and_context"
-        },
-        {
-          "source": "Magazin D RSS",
-          "title": "Daha nice maceralara, seninle...",
-          "summary": "Başak Dizer, 37 yaşına giren eşi Kıvanç Tatlıtuğ'un doğum gününü sosyal medya hesabından yaptığı paylaşımla kutladı.",
-          "url": "http://www.magazind.net/Daha-nice-maceralara-seninle-17852",
-          "match_score": 0.33,
-          "shared_keywords": [
-            "esi",
-            "yas"
-          ],
-          "match_basis": "title_and_context"
-        },
-        {
-          "source": "Magazin D RSS",
-          "title": "Aleyna'ya övgü yağdı",
-          "summary": "Oyuncu aleyna solaker, siyah bikinili fotoğraflarıyla sosyal medyanın konusu oldu",
-          "url": "http://www.magazind.net/Aleynaya-ovgu-yagdi-17835",
-          "match_score": 0.41,
-          "shared_keywords": [
-            "oyuncu",
-            "yla"
-          ],
-          "match_basis": "title_and_context"
-        },
-        {
-          "source": "Magazin D RSS",
-          "title": "Ferdi Tayfur'un sağlık durumu nasıl?",
-          "summary": "Usta sanatçı Ferdi Tayfur, yaşadığı sağlık sorunlarını ilk kez anlattı.",
-          "url": "http://www.magazind.net/Ferdi-Tayfurun-saglik-durumu-nasil-17690",
-          "match_score": 0.32,
-          "shared_keywords": [
-            "sanatc",
-            "usta"
-          ],
-          "match_basis": "title_and_context"
-        },
-        {
-          "source": "Magazin D RSS",
-          "title": "Eda Ece ‘Görüşmek üzere’ notuyla veda etti!",
-          "summary": "Yakışıklı basketbolcu Buğrahan Tuncer ile aşk yaşayan güzel oyuncu Eda Ece, sosyal medya hesabından yaptığı paylaşımla bir süre için kendisine dijital detoks uygulayacağını açıkladı.",
-          "url": "http://www.magazind.net/Eda-Ece-Gorusmek-uzere-notuyla-veda-etti-17641",
-          "match_score": 0.32,
-          "shared_keywords": [
-            "oyuncu",
-            "veda"
-          ],
-          "match_basis": "title_and_context"
-        }
-      ],
-      "verification_status": "second_source_match_needs_manual_confirmation",
+      "independent_source_matches": [],
+      "verification_status": "source_page_reachable_no_second_source_match",
       "publication_approved": false,
       "verification_note": "Olası ikinci kaynak eşleşmeleri başlık, özet ve ortak anahtar kelimelerle bulunur; bu bir doğruluk puanı değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     }
