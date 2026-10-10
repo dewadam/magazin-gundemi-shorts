@@ -89,6 +89,7 @@ def fetch_source(source: dict, max_items: int, lookback_hours: int) -> list[dict
             "normalized_title": normalize_title(title),
             "url": link,
             "source": name,
+            "source_role": source.get("role", "publisher"),
             "source_domain": urlparse(link).netloc.removeprefix("www.").lower(),
             "published_at": published_at,
             "summary": summary[:1200],
@@ -131,7 +132,7 @@ def main() -> int:
         else:
             existing = unique[key]
             existing["also_reported_by"].append({
-                "source": item["source"], "source_domain": item["source_domain"], "title": item["title"], "url": item["url"], "published_at": item["published_at"]
+                "source": item["source"], "source_role": item.get("source_role", "publisher"), "source_domain": item["source_domain"], "title": item["title"], "url": item["url"], "published_at": item["published_at"]
             })
             if len(item.get("summary", "")) > len(existing.get("summary", "")):
                 existing["summary"] = item["summary"]
