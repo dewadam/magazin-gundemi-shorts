@@ -229,6 +229,51 @@ def fetch_google_news_source(source: dict, max_items: int, lookback_hours: int) 
     return results
 
 
+
+def search_gdelt_news(query: str, max_items: int = 50) -> list[dict]:
+    """Search indexed publisher articles through GDELT's public JSON API (no RSS)."""
+    from urllib.parse import urlencode
+    params = urlencode({
+        "query": query,
+        "mode": "ArtList",
+        "format": "json",
+        "maxrecords": min(max_items, 250),
+        "sort": "HybridRel",
+        "timespan": "72h",
+    })
+    endpoint = "https://api.gdeltproject.org/api/v2/doc/doc?" + params
+    request = Request(endpoint, headers={"User-Agent": USER_AGENT, "Accept": "application/json"})
+    with urlopen(request, timeout=25) as response:
+        payload = json.loads(response.read(5_000_000).decode("utf-8", errors="replace"))
+    results = []
+    seen = set()
+    for article in payload.get("articles", []):
+        title = clean_text(article.get("title", ""))
+        link = str(article.get("url", ""))
+        domain = str(article.get("domain") or urlparse(link).netloc).lower().removeprefix("www.")
+        if not title or not link.startswith("http") or not domain or domain == "news.google.com":
+            continue
+        key = (domain, normalize_title(title))
+        if key in seen:
+            continue
+        seen.add(key)
+        results.append({
+            "title": title,
+            "normalized_title": normalize_title(title),
+            "url": link,
+            "source": domain,
+            "source_role": "publisher",
+            "source_domain": domain,
+            "published_at": article.get("seendate"),
+            "summary": "",
+            "image_url": article.get("socialimage"),
+            "collected_at": datetime.now(timezone.utc).isoformat(),
+            "status": "publisher_article_found_via_gdelt_search",
+            "discovery_source": "GDELT web-news index",
+        })
+    return results
+
+
 def search_google_news(query: str, max_items: int = 30) -> list[dict]:
     """Search Google News HTML for one event to discover independently published coverage."""
     url = "https://news.google.com/search?q=" + quote(query) + "&hl=tr&gl=TR&ceid=TR%3Atr"
