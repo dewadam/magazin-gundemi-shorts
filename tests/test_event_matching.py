@@ -64,6 +64,15 @@ class EventMatcherTests(unittest.TestCase):
         b["source_domain"] = "mynet.com"
         self.assertTrue(same_event(a, b)[0])
 
+    def test_hadise_kerem_bursin_milano_headlines_match(self):
+        a = story("Hadise ve Kerem Bürsin Milano Moda Haftası'nda birlikte görüntülendi",
+                  source="CNN Türk", role="publisher")
+        a["source_domain"] = "cnnturk.com"
+        b = story("Hadise Milano Moda Haftası'nda cesur tarzıyla dikkat çekti Kerem Bürsin ile aynı davette",
+                  source="Mynet", role="publisher")
+        b["source_domain"] = "mynet.com"
+        self.assertTrue(same_event(a, b)[0])
+
     def test_same_celebrity_different_developments_stay_separate(self):
         a = story("Selin Türkmen yeni rolüyle şaşırttı direk dansı sahnesi gündem oldu")
         b = story("Selin Türkmen yeni evini paylaştı")
