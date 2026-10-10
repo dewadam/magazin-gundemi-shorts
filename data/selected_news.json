@@ -1,375 +1,79 @@
 {
-  "generated_at": "2026-10-10T20:54:10.351766+00:00",
-  "candidate_count": 118,
+  "generated_at": "2026-10-10T21:05:53.264480+00:00",
+  "candidate_count": 117,
   "event_group_count": 88,
   "multi_publisher_event_count": 1,
-  "selection_count": 1,
+  "selection_count": 3,
   "target_count": 3,
-  "note": "Publisher coverage is a popularity signal, not factual verification. Exact headline matches across outlets are flagged as possible syndication and excluded from automatic top-three selection pending review.",
+  "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "SON DAKİKA | Nejat Uygur’un eşi Necla Uygur hayatını kaybetti! Cenaze bilgileri belli oldu",
-      "normalized_title": "son dakika nejat uygur un esi necla uygur hayatını kaybetti cenaze bilgileri belli oldu",
-      "url": "https://www.cnnturk.com/magazin/son-dakika-nejat-uygurun-esi-necla-uygur-hayatini-kaybetti-cenaze-bilgileri-belli-oldu-3476878",
+      "title": "MASTERCHEF ELEME ADAYI 10 EKİM 2026 | MasterChef'te eleme adayı kim oldu, dokunulmazlık oyununu hangi takım kazandı?",
+      "normalized_title": "masterchef eleme adayi 10 ekim 2026 masterchef te eleme adayı kim oldu dokunulmazlık oyununu hangi takım kazandı",
+      "url": "https://www.cnnturk.com/magazin/masterchef-eleme-adayi-10-ekim-2026-masterchefte-eleme-adayi-kim-oldu-dokunulmazlik-oyununu-hangi-takim-kazandi-3477477",
       "source": "CNN Türk Magazin",
       "source_role": "publisher",
       "source_domain": "cnnturk.com",
-      "published_at": "2026-10-09T09:26:52+00:00",
-      "summary": "Son dakika haberi... Merhum tiyatro sanatçısı Nejat Uygur’un eşi Necla Uygur, tedavi gördüğü hastanede hayatını kaybetti. Necla Uygur için düzenlenecek cenaze törenine ilişkin bilgiler oldu. Sanatçının naaşı, Teşvikiye Camii'nde ikindi namazını müteakip kılınacak cenaze namazı sonrası Feriköy Mezarlığı'na defnedilecek.",
+      "published_at": "2026-10-10T23:51:29+00:00",
+      "summary": "MasterChef'te eleme adayı olan isim, yarışmanın bugün (10 Ekim 2026 Cumartesi) yayınlanan bölümünü kaçıran vatandaşlar tarafından merak konusu oldu. Mehmet Yalçınkaya, Danilo Zanna ve Somer Sivrioğlu’nun jüri üyeliğini yaptığı yarışmada heyecan had safhadaydı. MasterChef'te eleme potasına Nurten Ayşe, Nilay, Buse, Hasan Alp ve Şadi girmişti. Peki, 10 Ekim 2026 MasterChef'te eleme adayı kim oldu?",
       "image_url": null,
-      "collected_at": "2026-10-10T20:54:07.500027+00:00",
+      "collected_at": "2026-10-10T21:05:51.163637+00:00",
       "status": "collected_not_verified",
       "also_reported_by": [],
       "source_articles": [
         {
           "source": "CNN Türk Magazin",
           "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/son-dakika-nejat-uygurun-esi-necla-uygur-hayatini-kaybetti-cenaze-bilgileri-belli-oldu-3476878",
-          "title": "SON DAKİKA | Nejat Uygur’un eşi Necla Uygur hayatını kaybetti! Cenaze bilgileri belli oldu"
-        },
-        {
-          "source": "Habertürk Magazin",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/necla-uygur-vefat-etti-3918298",
-          "title": "Necla Uygur vefat etti"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com",
-        "haberturk.com"
-      ],
-      "publisher_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    }
-  ],
-  "event_groups_preview": [
-    {
-      "title": "SON DAKİKA | Nejat Uygur’un eşi Necla Uygur hayatını kaybetti! Cenaze bilgileri belli oldu",
-      "normalized_title": "son dakika nejat uygur un esi necla uygur hayatını kaybetti cenaze bilgileri belli oldu",
-      "url": "https://www.cnnturk.com/magazin/son-dakika-nejat-uygurun-esi-necla-uygur-hayatini-kaybetti-cenaze-bilgileri-belli-oldu-3476878",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-09T09:26:52+00:00",
-      "summary": "Son dakika haberi... Merhum tiyatro sanatçısı Nejat Uygur’un eşi Necla Uygur, tedavi gördüğü hastanede hayatını kaybetti. Necla Uygur için düzenlenecek cenaze törenine ilişkin bilgiler oldu. Sanatçının naaşı, Teşvikiye Camii'nde ikindi namazını müteakip kılınacak cenaze namazı sonrası Feriköy Mezarlığı'na defnedilecek.",
-      "image_url": null,
-      "collected_at": "2026-10-10T20:54:07.500027+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/son-dakika-nejat-uygurun-esi-necla-uygur-hayatini-kaybetti-cenaze-bilgileri-belli-oldu-3476878",
-          "title": "SON DAKİKA | Nejat Uygur’un eşi Necla Uygur hayatını kaybetti! Cenaze bilgileri belli oldu"
-        },
-        {
-          "source": "Habertürk Magazin",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/necla-uygur-vefat-etti-3918298",
-          "title": "Necla Uygur vefat etti"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com",
-        "haberturk.com"
-      ],
-      "publisher_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "8 EKİM PERŞEMBE REYTİNG SONUÇLARI: Güneşin Doğduğu Yer, Sevdiğim Sensin, Halef Köklerin Çağrısı, Muhtemel Aşk Reyting Sonucu: Dün En Çok Ne İzlendi?",
-      "normalized_title": "8 ekim persembe reyting sonuclari gunesin dogdugu yer sevdigim sensin halef koklerin cagrısı muhtemel ask reyting sonucu dun en cok ne izlendi",
-      "url": "https://www.cnnturk.com/magazin/dizi/8-ekim-persembe-reyting-sonuclari-gunesin-dogdugu-yer-sevdigim-sensin-halef-koklerin-cagrisi-muhtemel-ask-reyting-sonucu-dun-3477055",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-09T11:05:26+00:00",
-      "summary": "8 Ekim 2026 Perşembe reyting sonuçları, televizyon ekranlarında yaşanan izlenme yarışının ardından merak konusu oldu. Haftanın dördüncü gününde ulusal kanallarda yayınlanan diziler, yarışmalar, gündüz kuşağı programları ve ana haber bültenlerinin reyting performansları izleyiciler tarafından yakından takip ediliyor. Özellikle “Dün akşam reytinglerde kim birinci oldu?”, “En çok hangi dizi izlendi?” ve “Hangi program zirveye yerleşti?” soruları araştırılıyor. Perşembe akşamı farklı televizyon kanallarında izleyiciyle buluşan yapımlar, Total, AB ve ABC1 reyting kategorilerinde üst sıralarda yer almak için yarıştı. Prime time kuşağında ekrana gelen dizilerin yeni bölümleri, yarışma ve eğlence programlarıyla rekabet ederken, gündüz saatlerinde yayınlanan yapımlar ile ana haber bültenlerinin izlenme oranları da dikkat çekti. 8 Ekim Perşembe gününün en çok izlenen programları ve reyting sıralamaları, televizyon tutkunlarının gündemindeki yerini aldı. Peki, 8 Ekim 2026 Perşembe reyting sonuçlarında kim birinci oldu? Dün akşam en çok izlenen dizi hangisi, reytinglerin zirvesinde hangi program var? İşte 8 Ekim Perşembe reyting sonuçları ile Total, AB ve ABC1 kategorilerinde en çok izlenen di",
-      "image_url": null,
-      "collected_at": "2026-10-10T20:54:07.499846+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/dizi/8-ekim-persembe-reyting-sonuclari-gunesin-dogdugu-yer-sevdigim-sensin-halef-koklerin-cagrisi-muhtemel-ask-reyting-sonucu-dun-3477055",
-          "title": "8 EKİM PERŞEMBE REYTİNG SONUÇLARI: Güneşin Doğduğu Yer, Sevdiğim Sensin, Halef Köklerin Çağrısı, Muhtemel Aşk Reyting Sonucu: Dün En Çok Ne İzlendi?"
+          "url": "https://www.cnnturk.com/magazin/masterchef-eleme-adayi-10-ekim-2026-masterchefte-eleme-adayi-kim-oldu-dokunulmazlik-oyununu-hangi-takim-kazandi-3477477",
+          "title": "MASTERCHEF ELEME ADAYI 10 EKİM 2026 | MasterChef'te eleme adayı kim oldu, dokunulmazlık oyununu hangi takım kazandı?"
         }
       ],
       "publisher_domains": [
         "cnnturk.com"
       ],
       "publisher_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
+      "direct_article_count": 2,
+      "event_member_count": 5,
+      "discovery_item_count": 3,
+      "latest_published_at": "2026-10-10T23:51:29+00:00",
+      "age_hours": 0.0,
+      "popularity_score": 10.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "single_publisher"
     },
     {
-      "title": "CUMARTESİ GÜNÜ HANGİ DİZİLER VAR? 10 Ekim TV Yayın Akışı 2026 | Kanal D, Show TV, TRT 1, ATV, Star TV, NOW TV, TV8",
-      "normalized_title": "cumartesi gunu hangi diziler var 10 ekim tv yayın akısı 2026 kanal d show tv trt 1 atv star tv now tv tv8",
-      "url": "https://www.cnnturk.com/magazin/dizi/cumartesi-gunu-hangi-diziler-var-10-ekim-tv-yayin-akisi-2026-kanal-d-show-tv-trt-1-atv-star-tv-now-tv-tv8-3477200",
+      "title": "MASTERCHEF ELEME ADAYLARI 8 EKİM: MasterChef dokunulmazlık oyununu kim kazandı? Eleme adayları kimler oldu?",
+      "normalized_title": "masterchef eleme adaylari 8 ekim masterchef dokunulmazlık oyununu kim kazandı eleme adayları kimler oldu",
+      "url": "https://www.cnnturk.com/magazin/masterchef-eleme-adaylari-8-ekim-masterchef-dokunulmazlik-oyununu-kim-kazandi-eleme-adaylari-kimler-oldu-3476875",
       "source": "CNN Türk Magazin",
       "source_role": "publisher",
       "source_domain": "cnnturk.com",
-      "published_at": "2026-10-10T15:55:25+00:00",
-      "summary": "10 Ekim 2026 Cumartesi TV yayın akışı, hafta sonunu televizyon karşısında değerlendirmek isteyen izleyicilerin en çok araştırdığı konular arasında yer alıyor. Cumartesi günü ulusal kanallarda yayınlanacak diziler, sinema filmleri, yarışmalar, eğlence programları ve ana haber bültenlerinin saatleri merak ediliyor. Özellikle hafta sonu akşamını evde geçirmeyi planlayan vatandaşlar, “Bugün televizyonda ne var?”, “10 Ekim Cumartesi hangi diziler var?” ve “Bu akşam TV'de hangi filmler yayınlanacak?” sorularına yanıt arıyor. Peki, 10 Ekim 2026 Cumartesi bugün TV'de ne var? Bu akşam hangi diziler ve filmler yayınlanacak? Kanal D, Show TV, TRT 1, ATV, Star TV, TV8 ve NOW TV yayın akışında hangi programlar yer alıyor? İşte 10 Ekim Cumartesi TV yayın akışı, kanalların güncel program listeleri ve yayın saatlerine ilişkin merak edilen ayrıntılar...",
+      "published_at": "2026-10-09T00:50:44+00:00",
+      "summary": "TV8 ekranlarının popüler yarışma programı MasterChef dokunulmazlık oyunları ile devam ediyor. Danilo Zanna, Somer Sivrioğlu ve Mehmet Yalçınkaya'nın jüri üyeliği yaptığı yarışmada 8 Ekim akşamında dokunulmazlık oyununu hangi takımın kazandığı ve eleme adaylarının kimler olduğu merak ediliyor. Peki MasterChef dokunulmazlık oyununu kim kazandı? Eleme adayları kimler oldu? Detaylar haberimizde...",
       "image_url": null,
-      "collected_at": "2026-10-10T20:54:07.498866+00:00",
+      "collected_at": "2026-10-10T21:05:51.164657+00:00",
       "status": "collected_not_verified",
       "also_reported_by": [],
       "source_articles": [
         {
           "source": "CNN Türk Magazin",
           "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/dizi/cumartesi-gunu-hangi-diziler-var-10-ekim-tv-yayin-akisi-2026-kanal-d-show-tv-trt-1-atv-star-tv-now-tv-tv8-3477200",
-          "title": "CUMARTESİ GÜNÜ HANGİ DİZİLER VAR? 10 Ekim TV Yayın Akışı 2026 | Kanal D, Show TV, TRT 1, ATV, Star TV, NOW TV, TV8"
+          "url": "https://www.cnnturk.com/magazin/masterchef-eleme-adaylari-8-ekim-masterchef-dokunulmazlik-oyununu-kim-kazandi-eleme-adaylari-kimler-oldu-3476875",
+          "title": "MASTERCHEF ELEME ADAYLARI 8 EKİM: MasterChef dokunulmazlık oyununu kim kazandı? Eleme adayları kimler oldu?"
         }
       ],
       "publisher_domains": [
         "cnnturk.com"
       ],
       "publisher_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Dilber Ay'ın kızının 'Yağlı kapı buldu' sözlerine İbrahim Karakaş'tan sert yanıt: \"Hepsine zehir zıkkım olsun\"",
-      "normalized_title": "dilber ay ın kızının yaglı kapı buldu sozlerine ibrahim karakas tan sert yanıt hepsine zehir zıkkım olsun",
-      "url": "https://www.sabah.com.tr/magazin/dilber-ayin-kizinin-yagli-kapi-buldu-sozlerine-ibrahim-karakastan-sert-yanit-hepsine-zehir-zikkim-olsun-7677780",
-      "source": "Sabah Magazin",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": "2026-10-10T12:44:46+00:00",
-      "summary": "Usta sanatçı Dilber Ay'ın vefatının ardından eşi İbrahim Karakaş'ın İzmirli estetisyen Müge Zopun ile evlenmesi magazin dünyasında geniş yankı buldu. Dilber Ay'ın kızının yönelttiği ağır iddialar ve \"yağlı... Devamı için tıklayınız",
-      "image_url": "https://iasbh.tmgrup.com.tr/64a775/1200/675/34/0/736/395?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/1791635867540.jpeg",
-      "collected_at": "2026-10-10T20:54:07.920089+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Sabah Magazin",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/dilber-ayin-kizinin-yagli-kapi-buldu-sozlerine-ibrahim-karakastan-sert-yanit-hepsine-zehir-zikkim-olsun-7677780",
-          "title": "Dilber Ay'ın kızının 'Yağlı kapı buldu' sözlerine İbrahim Karakaş'tan sert yanıt: \"Hepsine zehir zıkkım olsun\""
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Necla Uygur'un cenazesinde göğüs dekoltesi krizi! İpek Tanrıyar'ın kıyafeti tepki çekti! 'Başını kapatmış ama...'",
-      "normalized_title": "necla uygur un cenazesinde gogus dekoltesi krizi ipek tanrıyar ın kıyafeti tepki cekti basını kapatmıs ama",
-      "url": "https://www.mynet.com/magazin/necla-uygur-un-cenazesinde-gogus-dekoltesi-krizi-ipek-tanriyar-in-kiyafeti-tepki-cekti-basini-kapatmis-ama-130100603494",
-      "source": "Mynet Magazin",
-      "source_role": "publisher",
-      "source_domain": "mynet.com",
-      "published_at": "2026-10-10T04:39:29+00:00",
-      "summary": "Nejat Uygur'un eşi Necla Uygur, 89 yaşında hayatını kaybettikten sonra İstanbul'da son yolculuğuna uğurlandı. Teşvikiye Camisi'ndeki cenaze töreninin ardından Feriköy'deki aile kabristanında toprağa verildi. Ünlü isimlerin akın ettiği cenazede İpek Tanrıyar'ın kıyafeti dikkat çekti.",
-      "image_url": "https://imgrosetta.mynet.com.tr/file/26594465/26594465-1200xauto.jpg",
-      "collected_at": "2026-10-10T20:54:08.470170+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Mynet Magazin",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/necla-uygur-un-cenazesinde-gogus-dekoltesi-krizi-ipek-tanriyar-in-kiyafeti-tepki-cekti-basini-kapatmis-ama-130100603494",
-          "title": "Necla Uygur'un cenazesinde göğüs dekoltesi krizi! İpek Tanrıyar'ın kıyafeti tepki çekti! 'Başını kapatmış ama...'"
-        }
-      ],
-      "publisher_domains": [
-        "mynet.com"
-      ],
-      "publisher_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yasak aşk iddiası olay olmuştu! Survivor Sahra Işık'tan bomba sözler: 'Seni benden alamazlar'",
-      "normalized_title": "yasak ask iddiası olay olmustu survivor sahra isık tan bomba sozler seni benden alamazlar",
-      "url": "https://www.cnnturk.com/magazin/yasak-ask-iddiasi-olay-olmustu-survivor-sahra-isiktan-bomba-sozler-seni-benden-alamazlar-3476871",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-09T16:23:52+00:00",
-      "summary": "'Survivor' yarışmasıyla geniş kitleler tarafından tanınan Sahra Işık, ayrıldığı eski eşi İdris Aybirdi'nin kendisini, 'Kızılcık Şerbeti' oyuncularından biriyle aldattığını iddia etmişti. Daha sonraki paylaşımlarında ise Seray Kaya’yı hedef gösteren ünlü isim çok konuşulmuştu. Öte yandan daha sonra İdris Aybirdi’yle olan karesini yayımlayarak aşkını ilan eden Seray Kaya, 'yasak aşk' iddialarına yanıt vermişti. Sahra Işık'tan yeni bir paylaşım geldi. İşte detaylar…",
-      "image_url": null,
-      "collected_at": "2026-10-10T20:54:07.500451+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/yasak-ask-iddiasi-olay-olmustu-survivor-sahra-isiktan-bomba-sozler-seni-benden-alamazlar-3476871",
-          "title": "Yasak aşk iddiası olay olmuştu! Survivor Sahra Işık'tan bomba sözler: 'Seni benden alamazlar'"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ayda 250 bin Euro nafaka istemişti! Wanda Nara Icardi'ye borçlu çıktı! Mahkemeden şaşırtan karar",
-      "normalized_title": "ayda 250 bin euro nafaka istemisti wanda nara icardi ye borclu cıktı mahkemeden sasırtan karar",
-      "url": "https://www.mynet.com/magazin/ayda-250-bin-euro-nafaka-istemisti-wanda-nara-icardi-ye-borclu-cikti-mahkemeden-sasirtan-karar-130100603359",
-      "source": "Mynet Magazin",
-      "source_role": "publisher",
-      "source_domain": "mynet.com",
-      "published_at": "2026-10-09T05:20:17+00:00",
-      "summary": "Galatasaray'ın eski yıldızı Mauro Icardi, bir dönem evli olduğu Wanda Nara'yla boşanma sürecinin sonuna geldi. Mauro Icardi ve Wanda Nara, mahkeme kararıyla resmen boşandı. Boşanmanın ardından mahkemenin nafaka kararı gündeme geldi.",
-      "image_url": "https://imgrosetta.mynet.com.tr/file/20496107/20496107-1200xauto.jpg",
-      "collected_at": "2026-10-10T20:54:08.470856+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Mynet Magazin",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/ayda-250-bin-euro-nafaka-istemisti-wanda-nara-icardi-ye-borclu-cikti-mahkemeden-sasirtan-karar-130100603359",
-          "title": "Ayda 250 bin Euro nafaka istemişti! Wanda Nara Icardi'ye borçlu çıktı! Mahkemeden şaşırtan karar"
-        }
-      ],
-      "publisher_domains": [
-        "mynet.com"
-      ],
-      "publisher_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Esra Erol’da genç çifte mutlu yuva: Midyat Belediye Başkanı’ndan Cumhurbaşkanı Erdoğan’a teşekkür",
-      "normalized_title": "esra erol da genc cifte mutlu yuva midyat belediye baskanı ndan cumhurbaskanı erdogan a tesekkur",
-      "url": "https://www.sabah.com.tr/magazin/esra-erolda-genc-cifte-mutlu-yuva-midyat-belediye-baskanindan-cumhurbaskani-erdogana-tesekkur-7677717",
-      "source": "Sabah Magazin",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": "2026-10-10T10:02:35+00:00",
-      "summary": "Şanlıurfa’da yaşayan Halil ve Saadet Çavlan çifti, 16 Haziran’da evden ayrılan kızları Asiye’yi bulabilmek için Esra Erol’a başvurdu. 84 gündür kayıp olan Asiye, Esra Erol’un çabalarıyla bir günde bulundu.... Devamı için tıklayınız",
-      "image_url": "https://iasbh.tmgrup.com.tr/6107ff/1200/675/0/16/1600/915?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/esra-erolda-genc-cifte-mutlu-yuva-midyat-belediye-baskanindan-cumhurbaskani-erdogana-tesekkur-1791626527933.jpeg",
-      "collected_at": "2026-10-10T20:54:07.920187+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Sabah Magazin",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/esra-erolda-genc-cifte-mutlu-yuva-midyat-belediye-baskanindan-cumhurbaskani-erdogana-tesekkur-7677717",
-          "title": "Esra Erol’da genç çifte mutlu yuva: Midyat Belediye Başkanı’ndan Cumhurbaşkanı Erdoğan’a teşekkür"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Dilber Ay'ın kızı tepki göstermişti! İbrahim Karakaş'tan imam nikahı çıkışı! 'Eşim beni terk etti'",
-      "normalized_title": "dilber ay ın kızı tepki gostermisti ibrahim karakas tan imam nikahı cıkısı esim beni terk etti",
-      "url": "https://www.mynet.com/magazin/dilber-ay-in-kizi-tepki-gostermisti-ibrahim-karakas-tan-imam-nikahi-cikisi-esim-beni-terk-etti-130100603533",
-      "source": "Mynet Magazin",
-      "source_role": "publisher",
-      "source_domain": "mynet.com",
-      "published_at": "2026-10-10T07:59:31+00:00",
-      "summary": "2019 yılında hayatını kaybeden Dilber Ay'ın eşi İbrahim Karakaş'ın evlendiğine dair iddiaların gündeme gelmesiyle birlikte usta sanatçının kızından suçlamalar peş peşe gelmişti. İbrahim Karakaş hakkındaki iddialara açıklık getirdi.",
-      "image_url": "https://imgrosetta.mynet.com.tr/file/26582258/26582258-1200xauto.jpg",
-      "collected_at": "2026-10-10T20:54:08.469830+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Mynet Magazin",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/dilber-ay-in-kizi-tepki-gostermisti-ibrahim-karakas-tan-imam-nikahi-cikisi-esim-beni-terk-etti-130100603533",
-          "title": "Dilber Ay'ın kızı tepki göstermişti! İbrahim Karakaş'tan imam nikahı çıkışı! 'Eşim beni terk etti'"
-        }
-      ],
-      "publisher_domains": [
-        "mynet.com"
-      ],
-      "publisher_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Galatasaray'dan ayrılmıştı! Mauro Icardi'den bomba 'Wanda Nara' paylaşımı: 'Boşanma tazminatı talebini...'",
-      "normalized_title": "galatasaray dan ayrılmıstı mauro icardi den bomba wanda nara paylasımı bosanma tazminatı talebini",
-      "url": "https://www.cnnturk.com/magazin/galatasaraydan-ayrilmisti-mauro-icardiden-bomba-wanda-nara-paylasimi-bosanma-tazminati-talebini-3476877",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-08T22:08:31+00:00",
-      "summary": "Mauro Icardi, Galatasaray'dan ayrıldıktan sonra da özel hayatıyla adından söz ettirmeye devam ediyor. China Suarez ile aşk yaşayan ünlü futbolcu olaylı şekilde boşandığı eski eşi Wanda Nara’ya dair dikkat çeken bir paylaşımda bulundu.",
-      "image_url": null,
-      "collected_at": "2026-10-10T20:54:07.500285+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galatasaraydan-ayrilmisti-mauro-icardiden-bomba-wanda-nara-paylasimi-bosanma-tazminati-talebini-3476877",
-          "title": "Galatasaray'dan ayrılmıştı! Mauro Icardi'den bomba 'Wanda Nara' paylaşımı: 'Boşanma tazminatı talebini...'"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
+      "direct_article_count": 1,
+      "event_member_count": 5,
+      "discovery_item_count": 4,
+      "latest_published_at": "2026-10-10T05:19:05+00:00",
+      "age_hours": 15.78,
+      "popularity_score": 9.685,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -385,7 +89,7 @@
       "published_at": "2026-10-10T20:43:06+00:00",
       "summary": "Survivor'ın son sezonunda yarışan ünlü oyuncu Serhan Onat, nişanlısı Merve Küsmenoğlu ile evlendi. İşte ünlü çiftin nikahından ilk kareler...",
       "image_url": null,
-      "collected_at": "2026-10-10T20:54:07.498692+00:00",
+      "collected_at": "2026-10-10T21:05:51.163844+00:00",
       "status": "collected_not_verified",
       "also_reported_by": [],
       "source_articles": [
@@ -400,237 +104,19 @@
         "cnnturk.com"
       ],
       "publisher_count": 1,
+      "direct_article_count": 1,
       "event_member_count": 3,
       "discovery_item_count": 2,
+      "latest_published_at": "2026-10-10T20:43:06+00:00",
+      "age_hours": 0.38,
+      "popularity_score": 7.968,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "single_publisher"
-    },
-    {
-      "title": "9 EKİM CUMA REYTİNG SONUÇLARI: Taşacak Bu Deniz, Kızılcık Şerbeti Reyting Sonucu: Dün En Çok Ne İzlendi?",
-      "normalized_title": "9 ekim cuma reyting sonuclari tasacak bu deniz kızılcık serbeti reyting sonucu dun en cok ne izlendi",
-      "url": "https://www.cnnturk.com/magazin/dizi/9-ekim-cuma-reyting-sonuclari-tasacak-bu-deniz-kizilcik-serbeti-reyting-sonucu-dun-en-cok-ne-izlendi-3477350",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-10T11:05:49+00:00",
-      "summary": "9 Ekim 2026 Cuma reyting sonuçları, televizyon ekranlarında yaşanan izlenme rekabetinin ardından izleyicilerin gündemine yerleşti. Haftanın son iş gününde farklı kanallarda yayınlanan diziler, yarışmalar, eğlence programları ve ana haber bültenlerinin reyting performansları merakla araştırılıyor. Özellikle Total, AB ve ABC1 reyting kategorilerinde hangi yapımların zirveye çıktığı, televizyon tutkunlarının en çok yanıt aradığı sorular arasında bulunuyor. Cuma akşamı izleyiciyle buluşan dizilerin yeni bölümleri ile sevilen televizyon programlarının sıralamadaki yerleri yakından takip ediliyor. Peki, 9 Ekim Cuma reyting sonuçlarında kim birinci oldu? Dün akşam en çok izlenen dizi hangisi? Total, AB ve ABC1 kategorilerinde hangi programlar ilk sırada yer aldı? İşte 9 Ekim 2026 Cuma gününün reyting sıralamasına ilişkin merak edilen ayrıntılar...",
-      "image_url": null,
-      "collected_at": "2026-10-10T20:54:07.499019+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/dizi/9-ekim-cuma-reyting-sonuclari-tasacak-bu-deniz-kizilcik-serbeti-reyting-sonucu-dun-en-cok-ne-izlendi-3477350",
-          "title": "9 EKİM CUMA REYTİNG SONUÇLARI: Taşacak Bu Deniz, Kızılcık Şerbeti Reyting Sonucu: Dün En Çok Ne İzlendi?"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Onur Tuna ve Yasemin Yazıcı cephesinde flaş gelişme! Evlilik sorularına bakın ne yanıt geldi",
-      "normalized_title": "onur tuna ve yasemin yazıcı cephesinde flas gelisme evlilik sorularına bakın ne yanıt geldi",
-      "url": "https://www.sabah.com.tr/magazin/onur-tuna-ve-yasemin-yazici-cephesinde-flas-gelisme-evlilik-sorularina-bakin-ne-yanit-geldi-7677681",
-      "source": "Sabah Magazin",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": "2026-10-10T08:47:45+00:00",
-      "summary": "Ünlü oyuncu Onur Tuna ve sevgilisi Yasemin Yazıcı'nın ilişkisinde beklenmedik bir gelişme yaşanıyor! Dolu dizgin aşklarıyla bilinen çift, şimdi herkesi şaşırtan yeni bir aşamada mı? İşte Yazıcı'nın \"evlilik\"... Devamı için tıklayınız",
-      "image_url": "https://iasbh.tmgrup.com.tr/eda10a/1200/675/0/700/1638/1622?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/onur-tuna-ve-yasemin-yazici-cephesinde-flas-gelisme-evlilik-sorularina-bakin-ne-yanit-geldi-1791621915750.jpg",
-      "collected_at": "2026-10-10T20:54:07.920264+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Sabah Magazin",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/onur-tuna-ve-yasemin-yazici-cephesinde-flas-gelisme-evlilik-sorularina-bakin-ne-yanit-geldi-7677681",
-          "title": "Onur Tuna ve Yasemin Yazıcı cephesinde flaş gelişme! Evlilik sorularına bakın ne yanıt geldi"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yasak aşkın bedeli ağır oldu! Güzide Duran \"çocuklarımı göstermiyor\" demişti... Gerçek başka çıktı!",
-      "normalized_title": "yasak askın bedeli agır oldu guzide duran cocuklarımı gostermiyor demisti gercek baska cıktı",
-      "url": "https://www.sabah.com.tr/magazin/yasak-askin-bedeli-agir-oldu-guzide-duran-cocuklarimi-gostermiyor-demisti-gercek-baska-cikti-7677560",
-      "source": "Sabah Magazin",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": "2026-10-10T03:20:07+00:00",
-      "summary": "Eski manken Güzide Duran'ın \"Çocuklarımı benden kopardılar\" feryadının altından herkesi şoke eden bambaşka bir gerçek çıktı! \"Yasak aşk\" uğruna yuvasını dağıttığı konuşulan ünlü ismin çocuklarıyla neden... Devamı için tıklayınız",
-      "image_url": "https://iasbh.tmgrup.com.tr/83333d/1200/675/0/262/755/686?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/1791602138603.jpeg",
-      "collected_at": "2026-10-10T20:54:07.920462+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Sabah Magazin",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/yasak-askin-bedeli-agir-oldu-guzide-duran-cocuklarimi-gostermiyor-demisti-gercek-baska-cikti-7677560",
-          "title": "Yasak aşkın bedeli ağır oldu! Güzide Duran \"çocuklarımı göstermiyor\" demişti... Gerçek başka çıktı!"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Bülent Ersoy Hayrettin ile Kaos Show'a konuk oldu! Kandıralı Ferdi şarkı söyleyince kendini tutamadı",
-      "normalized_title": "bulent ersoy hayrettin ile kaos show a konuk oldu kandıralı ferdi sarkı soyleyince kendini tutamadı",
-      "url": "https://www.mynet.com/magazin/bulent-ersoy-hayrettin-ile-kaos-show-a-konuk-oldu-kandirali-ferdi-sarki-soyleyince-kendini-tutamadi-130100603371",
-      "source": "Mynet Magazin",
-      "source_role": "publisher",
-      "source_domain": "mynet.com",
-      "published_at": "2026-10-09T07:01:10+00:00",
-      "summary": "Hayrettin’in YouTube programı Kaos Show’un bu haftaki konuğu Bülent Ersoy oldu. Programda Kandıralı Ferdi’nin şarkı söylediği anlar dikkat çekerken Diva, kendini tutamadı. Ersoy'un Kandıralı Ferdi için sarf ettiği sözler herkesi güldürdü.",
-      "image_url": "https://imgrosetta.mynet.com.tr/file/26579186/26579186-1200xauto.jpg",
-      "collected_at": "2026-10-10T20:54:08.470729+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Mynet Magazin",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/bulent-ersoy-hayrettin-ile-kaos-show-a-konuk-oldu-kandirali-ferdi-sarki-soyleyince-kendini-tutamadi-130100603371",
-          "title": "Bülent Ersoy Hayrettin ile Kaos Show'a konuk oldu! Kandıralı Ferdi şarkı söyleyince kendini tutamadı"
-        }
-      ],
-      "publisher_domains": [
-        "mynet.com"
-      ],
-      "publisher_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Milyonlarca beğeni yağdı! Barbara Palvin minik bebeğiyle bakın nasıl büyüledi... \"Masaldan mı çıktılar?\"",
-      "normalized_title": "milyonlarca begeni yagdı barbara palvin minik bebegiyle bakın nasıl buyuledi masaldan mı cıktılar",
-      "url": "https://www.sabah.com.tr/magazin/milyonlarca-begeni-yagdi-barbara-palvin-minik-bebegiyle-bakin-nasil-buyuledi-masaldan-mi-ciktilar-7677638",
-      "source": "Sabah Magazin",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": "2026-10-10T07:36:07+00:00",
-      "summary": "Dünyaca ünlü model Barbara Palvin ve başarılı oyuncu eşi Dylan Sprouse'un sır gibi sakladıkları kızları Sylvie nihayet ortaya çıktı! Çiçeği burnunda annenin, kızıyla bir örnek giyinerek yaptığı büyüleyici... Devamı için tıklayınız",
-      "image_url": "https://iasbh.tmgrup.com.tr/8f8787/1200/675/0/130/1080/738?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/1791617469216.jpg",
-      "collected_at": "2026-10-10T20:54:07.920332+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Sabah Magazin",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/milyonlarca-begeni-yagdi-barbara-palvin-minik-bebegiyle-bakin-nasil-buyuledi-masaldan-mi-ciktilar-7677638",
-          "title": "Milyonlarca beğeni yağdı! Barbara Palvin minik bebeğiyle bakın nasıl büyüledi... \"Masaldan mı çıktılar?\""
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Prens Harry 20 yıl sonra ilk kez ağladı! Prenses Diana’nın o kokusu tüm duvarları yıktı",
-      "normalized_title": "prens harry 20 yıl sonra ilk kez agladı prenses diana nın o kokusu tum duvarları yıktı",
-      "url": "https://www.sabah.com.tr/magazin/prens-harry-20-yil-sonra-ilk-kez-agladi-prenses-diananin-o-kokusu-tum-duvarlari-yikti-7677011",
-      "source": "Sabah Magazin",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": "2026-10-09T10:54:35+00:00",
-      "summary": "Prens Harry'nin yıllarca herkesten sakladığı en acı sırrı, duygu yüklü bir itirafla nihayet ortaya çıktı! Annesi Prenses Diana'nın trajik ölümünün ardından yirmi yıl boyunca tek damla gözyaşı dökmediğini... Devamı için tıklayınız",
-      "image_url": "https://iasbh.tmgrup.com.tr/5f9e8f/1200/675/0/0/2048/1151?u=https://isbh.tmgrup.com.tr/sbh/2026/10/09/1791542779661.jpg",
-      "collected_at": "2026-10-10T20:54:07.920684+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Sabah Magazin",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/prens-harry-20-yil-sonra-ilk-kez-agladi-prenses-diananin-o-kokusu-tum-duvarlari-yikti-7677011",
-          "title": "Prens Harry 20 yıl sonra ilk kez ağladı! Prenses Diana’nın o kokusu tüm duvarları yıktı"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "GÜLLER VE GÜNAHLAR 38. BÖLÜM FRAGMANI İZLE KANAL D | Murat Yıldırım ve Cemre Baysel'li Güller ve Günahlar 38. bölüm fragmanı yayınlandı mı?",
-      "normalized_title": "guller ve gunahlar 38 bolum fragmani izle kanal d murat yıldırım ve cemre baysel li guller ve gunahlar 38 bolum fragmanı yayınlandı mı",
-      "url": "https://www.cnnturk.com/magazin/guller-ve-gunahlar-38-bolum-fragmani-izle-kanal-d-murat-yildirim-ve-cemre-bayselli-guller-ve-gunahlar-38-bolum-fragmani-yayinlandi-mi-3477487",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-10T22:47:14+00:00",
-      "summary": "Güller ve Günahlar 38. bölüm fragmanı merak edildi. Murat Yıldırım ve Cemre Baysel'in başrollerini paylaştığı Güller ve Günahlar'ın 38. bölüm fragmanı izleme linki internette araştırılıyor. Dizide Serhat ve Zeynep tekrar Berrak tehdidi ile karşı karşıya kalmışlardı. Öte yandan Mustafa’nın Azra için yaptığı fedakarlık, Candan Ailesi’ni üzmüştü. Peki, Güller ve Günahlar 38. bölüm fragmanı yayınlandı mı? İşte ayrıntılar…",
-      "image_url": null,
-      "collected_at": "2026-10-10T20:54:07.498317+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/guller-ve-gunahlar-38-bolum-fragmani-izle-kanal-d-murat-yildirim-ve-cemre-bayselli-guller-ve-gunahlar-38-bolum-fragmani-yayinlandi-mi-3477487",
-          "title": "GÜLLER VE GÜNAHLAR 38. BÖLÜM FRAGMANI İZLE KANAL D | Murat Yıldırım ve Cemre Baysel'li Güller ve Günahlar 38. bölüm fragmanı yayınlandı mı?"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
+    }
+  ],
+  "event_groups_preview": [
     {
       "title": "MASTERCHEF ELEME ADAYI 10 EKİM 2026 | MasterChef'te eleme adayı kim oldu, dokunulmazlık oyununu hangi takım kazandı?",
       "normalized_title": "masterchef eleme adayi 10 ekim 2026 masterchef te eleme adayı kim oldu dokunulmazlık oyununu hangi takım kazandı",
@@ -638,10 +124,10 @@
       "source": "CNN Türk Magazin",
       "source_role": "publisher",
       "source_domain": "cnnturk.com",
-      "published_at": "2026-10-10T22:46:55+00:00",
+      "published_at": "2026-10-10T23:51:29+00:00",
       "summary": "MasterChef'te eleme adayı olan isim, yarışmanın bugün (10 Ekim 2026 Cumartesi) yayınlanan bölümünü kaçıran vatandaşlar tarafından merak konusu oldu. Mehmet Yalçınkaya, Danilo Zanna ve Somer Sivrioğlu’nun jüri üyeliğini yaptığı yarışmada heyecan had safhadaydı. MasterChef'te eleme potasına Nurten Ayşe, Nilay, Buse, Hasan Alp ve Şadi girmişti. Peki, 10 Ekim 2026 MasterChef'te eleme adayı kim oldu?",
       "image_url": null,
-      "collected_at": "2026-10-10T20:54:07.498610+00:00",
+      "collected_at": "2026-10-10T21:05:51.163637+00:00",
       "status": "collected_not_verified",
       "also_reported_by": [],
       "source_articles": [
@@ -656,8 +142,343 @@
         "cnnturk.com"
       ],
       "publisher_count": 1,
+      "direct_article_count": 2,
       "event_member_count": 5,
       "discovery_item_count": 3,
+      "latest_published_at": "2026-10-10T23:51:29+00:00",
+      "age_hours": 0.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "MASTERCHEF ELEME ADAYLARI 8 EKİM: MasterChef dokunulmazlık oyununu kim kazandı? Eleme adayları kimler oldu?",
+      "normalized_title": "masterchef eleme adaylari 8 ekim masterchef dokunulmazlık oyununu kim kazandı eleme adayları kimler oldu",
+      "url": "https://www.cnnturk.com/magazin/masterchef-eleme-adaylari-8-ekim-masterchef-dokunulmazlik-oyununu-kim-kazandi-eleme-adaylari-kimler-oldu-3476875",
+      "source": "CNN Türk Magazin",
+      "source_role": "publisher",
+      "source_domain": "cnnturk.com",
+      "published_at": "2026-10-09T00:50:44+00:00",
+      "summary": "TV8 ekranlarının popüler yarışma programı MasterChef dokunulmazlık oyunları ile devam ediyor. Danilo Zanna, Somer Sivrioğlu ve Mehmet Yalçınkaya'nın jüri üyeliği yaptığı yarışmada 8 Ekim akşamında dokunulmazlık oyununu hangi takımın kazandığı ve eleme adaylarının kimler olduğu merak ediliyor. Peki MasterChef dokunulmazlık oyununu kim kazandı? Eleme adayları kimler oldu? Detaylar haberimizde...",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:05:51.164657+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "CNN Türk Magazin",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/masterchef-eleme-adaylari-8-ekim-masterchef-dokunulmazlik-oyununu-kim-kazandi-eleme-adaylari-kimler-oldu-3476875",
+          "title": "MASTERCHEF ELEME ADAYLARI 8 EKİM: MasterChef dokunulmazlık oyununu kim kazandı? Eleme adayları kimler oldu?"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 5,
+      "discovery_item_count": 4,
+      "latest_published_at": "2026-10-10T05:19:05+00:00",
+      "age_hours": 15.78,
+      "popularity_score": 9.685,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Survivor Serhan Onat evlendi! Merve Küsmenoğlu sade gelinliği ve duru güzelliğiyle göz kamaştırdı",
+      "normalized_title": "survivor serhan onat evlendi merve kusmenoglu sade gelinligi ve duru guzelligiyle goz kamastırdı",
+      "url": "https://www.cnnturk.com/magazin/survivor-serhan-onat-evlendi-merve-kusmenoglu-sade-gelinligi-ve-duru-guzelligiyle-goz-kamastirdi-3477481",
+      "source": "CNN Türk Magazin",
+      "source_role": "publisher",
+      "source_domain": "cnnturk.com",
+      "published_at": "2026-10-10T20:43:06+00:00",
+      "summary": "Survivor'ın son sezonunda yarışan ünlü oyuncu Serhan Onat, nişanlısı Merve Küsmenoğlu ile evlendi. İşte ünlü çiftin nikahından ilk kareler...",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:05:51.163844+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "CNN Türk Magazin",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/survivor-serhan-onat-evlendi-merve-kusmenoglu-sade-gelinligi-ve-duru-guzelligiyle-goz-kamastirdi-3477481",
+          "title": "Survivor Serhan Onat evlendi! Merve Küsmenoğlu sade gelinliği ve duru güzelliğiyle göz kamaştırdı"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 3,
+      "discovery_item_count": 2,
+      "latest_published_at": "2026-10-10T20:43:06+00:00",
+      "age_hours": 0.38,
+      "popularity_score": 7.968,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "SON DAKİKA | Nejat Uygur’un eşi Necla Uygur hayatını kaybetti! Cenaze bilgileri belli oldu",
+      "normalized_title": "son dakika nejat uygur un esi necla uygur hayatını kaybetti cenaze bilgileri belli oldu",
+      "url": "https://www.cnnturk.com/magazin/son-dakika-nejat-uygurun-esi-necla-uygur-hayatini-kaybetti-cenaze-bilgileri-belli-oldu-3476878",
+      "source": "CNN Türk Magazin",
+      "source_role": "publisher",
+      "source_domain": "cnnturk.com",
+      "published_at": "2026-10-09T09:26:52+00:00",
+      "summary": "Son dakika haberi... Merhum tiyatro sanatçısı Nejat Uygur’un eşi Necla Uygur, tedavi gördüğü hastanede hayatını kaybetti. Necla Uygur için düzenlenecek cenaze törenine ilişkin bilgiler oldu. Sanatçının naaşı, Teşvikiye Camii'nde ikindi namazını müteakip kılınacak cenaze namazı sonrası Feriköy Mezarlığı'na defnedilecek.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:05:51.164618+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "CNN Türk Magazin",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/son-dakika-nejat-uygurun-esi-necla-uygur-hayatini-kaybetti-cenaze-bilgileri-belli-oldu-3476878",
+          "title": "SON DAKİKA | Nejat Uygur’un eşi Necla Uygur hayatını kaybetti! Cenaze bilgileri belli oldu"
+        },
+        {
+          "source": "Habertürk Magazin",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/necla-uygur-vefat-etti-3918298",
+          "title": "Necla Uygur vefat etti"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com",
+        "haberturk.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-09T09:26:52+00:00",
+      "age_hours": 35.65,
+      "popularity_score": 6.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "GÜLLER VE GÜNAHLAR 38. BÖLÜM FRAGMANI İZLE KANAL D | Murat Yıldırım ve Cemre Baysel'li Güller ve Günahlar 38. bölüm fragmanı yayınlandı mı?",
+      "normalized_title": "guller ve gunahlar 38 bolum fragmani izle kanal d murat yıldırım ve cemre baysel li guller ve gunahlar 38 bolum fragmanı yayınlandı mı",
+      "url": "https://www.cnnturk.com/magazin/guller-ve-gunahlar-38-bolum-fragmani-izle-kanal-d-murat-yildirim-ve-cemre-bayselli-guller-ve-gunahlar-38-bolum-fragmani-yayinlandi-mi-3477487",
+      "source": "CNN Türk Magazin",
+      "source_role": "publisher",
+      "source_domain": "cnnturk.com",
+      "published_at": "2026-10-10T22:47:14+00:00",
+      "summary": "Güller ve Günahlar 38. bölüm fragmanı merak edildi. Murat Yıldırım ve Cemre Baysel'in başrollerini paylaştığı Güller ve Günahlar'ın 38. bölüm fragmanı izleme linki internette araştırılıyor. Dizide Serhat ve Zeynep tekrar Berrak tehdidi ile karşı karşıya kalmışlardı. Öte yandan Mustafa’nın Azra için yaptığı fedakarlık, Candan Ailesi’ni üzmüştü. Peki, Güller ve Günahlar 38. bölüm fragmanı yayınlandı mı? İşte ayrıntılar…",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:05:51.163715+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "CNN Türk Magazin",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/guller-ve-gunahlar-38-bolum-fragmani-izle-kanal-d-murat-yildirim-ve-cemre-bayselli-guller-ve-gunahlar-38-bolum-fragmani-yayinlandi-mi-3477487",
+          "title": "GÜLLER VE GÜNAHLAR 38. BÖLÜM FRAGMANI İZLE KANAL D | Murat Yıldırım ve Cemre Baysel'li Güller ve Günahlar 38. bölüm fragmanı yayınlandı mı?"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T22:47:14+00:00",
+      "age_hours": 0.0,
+      "popularity_score": 5.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Necla Uygur'a veda",
+      "normalized_title": "necla uygur a veda",
+      "url": "https://www.haberturk.com/magazin/unlu-oyuncu-necla-uygur-a-veda-sira-bende-demisti-3918497",
+      "source": "Habertürk Magazin",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": "2026-10-10T04:46:28+00:00",
+      "summary": "Türk tiyatrosunun duayen ismi Nejat Uygur'un oyuncu eşi Necla Uygur, 89 yaşında hayatını kaybetti. Usta sanatçı, dün gözyaşlarıyla son yolculuğuna uğurlandı",
+      "image_url": "https://im.haberturk.com/l/2026/10/09/ver1791551603/3918497/jpg/1920x1080",
+      "collected_at": "2026-10-10T21:05:47.438050+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Habertürk Magazin",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/unlu-oyuncu-necla-uygur-a-veda-sira-bende-demisti-3918497",
+          "title": "Necla Uygur'a veda"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 2,
+      "discovery_item_count": 1,
+      "latest_published_at": "2026-10-10T04:46:28+00:00",
+      "age_hours": 16.32,
+      "popularity_score": 5.14,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "'Güldür Güldür Show'un 14'üncü sezonu başlıyor",
+      "normalized_title": "guldur guldur show un 14 uncu sezonu baslıyor",
+      "url": "https://www.haberturk.com/magazin/guldur-guldur-show-un-14-uncu-sezonu-basliyor-3918822",
+      "source": "Habertürk Magazin",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": "2026-10-10T20:20:31+00:00",
+      "summary": "Kendisine özgü mizah anlayışı ile seyircilerine kahkaha tufanı yaşatan 'Güldür Güldür Show'un 14'üncü sezon tanıtımı yayınlandı",
+      "image_url": "https://im.haberturk.com/l/2026/10/10/ver1791663634/3918822/jpg/1920x1080",
+      "collected_at": "2026-10-10T21:05:47.437652+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Habertürk Magazin",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/guldur-guldur-show-un-14-uncu-sezonu-basliyor-3918822",
+          "title": "'Güldür Güldür Show'un 14'üncü sezonu başlıyor"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T20:20:31+00:00",
+      "age_hours": 0.76,
+      "popularity_score": 4.937,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "'Sevdan Bir Ateş'in yeni tanıtımı yayınlandı",
+      "normalized_title": "sevdan bir ates in yeni tanıtımı yayınlandı",
+      "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-in-yeni-tanitimi-yayinlandi-3918821",
+      "source": "Habertürk Magazin",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": "2026-10-10T20:02:35+00:00",
+      "summary": "SHOW TV'nin reytinglere damgasını vuran dizisi 'Sevdan Bir Ateş'in 6'ıncı bölümünden yeni fragman paylaşıldı",
+      "image_url": "https://im.haberturk.com/l/2026/10/10/ver1791662522/3918821/jpg/1920x1080",
+      "collected_at": "2026-10-10T21:05:47.437693+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Habertürk Magazin",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/sevdan-bir-ates-in-yeni-tanitimi-yayinlandi-3918821",
+          "title": "'Sevdan Bir Ateş'in yeni tanıtımı yayınlandı"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T20:02:35+00:00",
+      "age_hours": 1.06,
+      "popularity_score": 4.912,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Eski eşinden açıklama",
+      "normalized_title": "eski esinden acıklama",
+      "url": "https://www.haberturk.com/magazin/foto/atilla-tas-in-kizi-sezen-tas-in-eski-esinden-aciklama-3918817",
+      "source": "Habertürk Magazin",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": "2026-10-10T19:57:42+00:00",
+      "summary": "Şarkıcı Atilla Taş'ın kızı Sezen Taş, Mersin'deki bir sitedeki apartmanın 14'üncü katından düşerek hayatını kaybetmişti. Sezen Taş'ın eski eşi Uğur Haliloğlu, kendisi hakkında çıkan iddialarla ilgili konuştu",
+      "image_url": "https://im.haberturk.com/l/2026/10/10/ver1791661507/3918817/jpg/1920x1080",
+      "collected_at": "2026-10-10T21:05:47.437727+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Habertürk Magazin",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/atilla-tas-in-kizi-sezen-tas-in-eski-esinden-aciklama-3918817",
+          "title": "Eski eşinden açıklama"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T19:57:42+00:00",
+      "age_hours": 1.14,
+      "popularity_score": 4.905,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Dilber Ay'ın kızının 'Yağlı kapı buldu' sözlerine İbrahim Karakaş'tan sert yanıt: \"Hepsine zehir zıkkım olsun\"",
+      "normalized_title": "dilber ay ın kızının yaglı kapı buldu sozlerine ibrahim karakas tan sert yanıt hepsine zehir zıkkım olsun",
+      "url": "https://www.sabah.com.tr/magazin/dilber-ayin-kizinin-yagli-kapi-buldu-sozlerine-ibrahim-karakastan-sert-yanit-hepsine-zehir-zikkim-olsun-7677780",
+      "source": "Sabah Magazin",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": "2026-10-10T12:44:46+00:00",
+      "summary": "Usta sanatçı Dilber Ay'ın vefatının ardından eşi İbrahim Karakaş'ın İzmirli estetisyen Müge Zopun ile evlenmesi magazin dünyasında geniş yankı buldu. Dilber Ay'ın kızının yönelttiği ağır iddialar ve \"yağlı... Devamı için tıklayınız",
+      "image_url": "https://iasbh.tmgrup.com.tr/64a775/1200/675/34/0/736/395?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/1791635867540.jpeg",
+      "collected_at": "2026-10-10T21:05:51.549948+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Sabah Magazin",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/magazin/dilber-ayin-kizinin-yagli-kapi-buldu-sozlerine-ibrahim-karakastan-sert-yanit-hepsine-zehir-zikkim-olsun-7677780",
+          "title": "Dilber Ay'ın kızının 'Yağlı kapı buldu' sözlerine İbrahim Karakaş'tan sert yanıt: \"Hepsine zehir zıkkım olsun\""
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T12:44:46+00:00",
+      "age_hours": 8.35,
+      "popularity_score": 4.804,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -673,7 +494,7 @@
       "published_at": "2026-10-10T17:34:18+00:00",
       "summary": "Survivor All Star 2022'de yaşadıkları aşk ile gündem olan Mert Öcal ve Sude Burcu, 2024 yılında evlenmişti. Geçtiğimiz nisan ayında 'bebek' müjdesi veren ünlü çift, eylülde anne - baba olmuştu. Sude Burcu, sosyal medyadan kendisine gelen mesajı görünce şaştı kaldı. Ünlü isim ekran görüntüsü alıp mesajı ifşa etti ve takipçisine sert sözlerle tepki gösterdi.",
       "image_url": null,
-      "collected_at": "2026-10-10T20:54:07.499429+00:00",
+      "collected_at": "2026-10-10T21:05:51.164304+00:00",
       "status": "collected_not_verified",
       "also_reported_by": [],
       "source_articles": [
@@ -688,264 +509,120 @@
         "cnnturk.com"
       ],
       "publisher_count": 1,
+      "direct_article_count": 1,
       "event_member_count": 1,
       "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T17:34:18+00:00",
+      "age_hours": 3.53,
+      "popularity_score": 4.706,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "single_publisher"
     },
     {
-      "title": "9 Ekim reyting sonuçları belli oldu! Kızılcık Şerbeti, Taşacak Bu Deniz... Zirvenin sahibi kim?",
-      "normalized_title": "9 ekim reyting sonucları belli oldu kızılcık serbeti tasacak bu deniz zirvenin sahibi kim",
-      "url": "https://www.mynet.com/magazin/9-ekim-reyting-sonuclari-belli-oldu-kizilcik-serbeti-tasacak-bu-deniz-zirvenin-sahibi-kim-130100603557",
-      "source": "Mynet Magazin",
-      "source_role": "publisher",
-      "source_domain": "mynet.com",
-      "published_at": "2026-10-10T11:09:38+00:00",
-      "summary": "9 Ekim 2026 Cuma gününün reyting sonuçları açıklandı. TRT 1 ekranlarında yayınlanan Taşacak Bu Deniz, Total, AB ve ABC1 kategorilerinin tamamında zirveye yerleşti. Taşacak Bu Deniz yeni sezonuyla artık zirvedeki yerini korumaya başladı.",
-      "image_url": "https://imgrosetta.mynet.com.tr/file/18727762/18727762-1200xauto.png",
-      "collected_at": "2026-10-10T20:54:08.469421+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Mynet Magazin",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/9-ekim-reyting-sonuclari-belli-oldu-kizilcik-serbeti-tasacak-bu-deniz-zirvenin-sahibi-kim-130100603557",
-          "title": "9 Ekim reyting sonuçları belli oldu! Kızılcık Şerbeti, Taşacak Bu Deniz... Zirvenin sahibi kim?"
-        }
-      ],
-      "publisher_domains": [
-        "mynet.com"
-      ],
-      "publisher_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Okan Bayülgen’in kızı İstanbul’a uluslararası sanat ödülü! 'Hem güzel, hem başarılı'",
-      "normalized_title": "okan bayulgen in kızı istanbul a uluslararası sanat odulu hem guzel hem basarılı",
-      "url": "https://www.mynet.com/magazin/okan-bayulgen-in-kizi-istanbul-a-uluslararasi-sanat-odulu-hem-guzel-hem-basarili-130100603563",
-      "source": "Mynet Magazin",
-      "source_role": "publisher",
-      "source_domain": "mynet.com",
-      "published_at": "2026-10-10T10:49:50+00:00",
-      "summary": "Okan Bayülgen ile Şirin Ediger’in 17 yaşındaki kızları İstanbul Bayülgen, 2026 International Student Artist Awards kapsamında Özel Takdir Ödülü'ne layık görüldü. Okan Bayülgen’in kızı İstanbul kısa sürede sosyal medyanın gündemine oturdu.",
-      "image_url": "https://imgrosetta.mynet.com.tr/file/26599601/26599601-1200xauto.png",
-      "collected_at": "2026-10-10T20:54:08.469496+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Mynet Magazin",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/okan-bayulgen-in-kizi-istanbul-a-uluslararasi-sanat-odulu-hem-guzel-hem-basarili-130100603563",
-          "title": "Okan Bayülgen’in kızı İstanbul’a uluslararası sanat ödülü! 'Hem güzel, hem başarılı'"
-        }
-      ],
-      "publisher_domains": [
-        "mynet.com"
-      ],
-      "publisher_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Güller ve Günahlar'ın Zeynep'i Cemre Baysel'in Dans Sahnesi Sanal Medyayı Salladı",
-      "normalized_title": "guller ve gunahlar ın zeynep i cemre baysel in dans sahnesi sanal medyayı salladı",
-      "url": "https://www.cnnturk.com/magazin/guller-ve-gunahlarin-zeynepi-cemre-bayselin-dans-sahnesi-sanal-medyayi-salladi-3477325",
+      "title": "Şef Mehmet Yalçınkaya: Gaziantep, baklava ve katmerin dışına çıktı",
+      "normalized_title": "sef mehmet yalcınkaya gaziantep baklava ve katmerin dısına cıktı",
+      "url": "https://www.cnnturk.com/magazin/galeri/sef-mehmet-yalcinkaya-gaziantep-baklava-ve-katmerin-disina-cikti-3477451",
       "source": "CNN Türk Magazin",
       "source_role": "publisher",
       "source_domain": "cnnturk.com",
-      "published_at": "2026-10-10T09:51:44+00:00",
-      "summary": "Kanal D’nin sevilen dizisi “Güller ve Günahlar”ın Zeynep’i Cemre Baysel, son bölümdeki dans sahnesinde giydiği kıyafetle yaptığı paylaşımla sosyal medyayı hareketlendirdi.",
+      "published_at": "2026-10-10T16:16:25+00:00",
+      "summary": "GastroAntep Gastronomi Festivali’ne katılan Şef Mehmet Yalçınkaya, Gaziantep mutfağının artık yalnızca baklava ve katmerle anılmaması gerektiğini söyledi. Yalçınkaya, kentin zengin ürün çeşitliliğine dikkat çekerek yöresel ürünlerin yurt dışına taşınması gerektiğini vurguladı.",
       "image_url": null,
-      "collected_at": "2026-10-10T20:54:07.499085+00:00",
+      "collected_at": "2026-10-10T21:05:51.163902+00:00",
       "status": "collected_not_verified",
       "also_reported_by": [],
       "source_articles": [
         {
           "source": "CNN Türk Magazin",
           "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/guller-ve-gunahlarin-zeynepi-cemre-bayselin-dans-sahnesi-sanal-medyayi-salladi-3477325",
-          "title": "Güller ve Günahlar'ın Zeynep'i Cemre Baysel'in Dans Sahnesi Sanal Medyayı Salladı"
+          "url": "https://www.cnnturk.com/magazin/galeri/sef-mehmet-yalcinkaya-gaziantep-baklava-ve-katmerin-disina-cikti-3477451",
+          "title": "Şef Mehmet Yalçınkaya: Gaziantep, baklava ve katmerin dışına çıktı"
         }
       ],
       "publisher_domains": [
         "cnnturk.com"
       ],
       "publisher_count": 1,
+      "direct_article_count": 1,
       "event_member_count": 1,
       "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T16:16:25+00:00",
+      "age_hours": 4.82,
+      "popularity_score": 4.598,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "single_publisher"
     },
     {
-      "title": "HAMAL DİZİSİ NE ZAMAN BAŞLIYOR? Hamal dizisi hangi kanalda? Konusu nedir, oyuncuları kimler?",
-      "normalized_title": "hamal dizisi ne zaman basliyor hamal dizisi hangi kanalda konusu nedir oyuncuları kimler",
-      "url": "https://www.cnnturk.com/magazin/dizi/hamal-dizisi-ne-zaman-basliyor-hamal-dizisi-hangi-kanalda-konusu-nedir-oyunculari-kimler-3477275",
+      "title": "CUMARTESİ GÜNÜ HANGİ DİZİLER VAR? 10 Ekim TV Yayın Akışı 2026 | Kanal D, Show TV, TRT 1, ATV, Star TV, NOW TV, TV8",
+      "normalized_title": "cumartesi gunu hangi diziler var 10 ekim tv yayın akısı 2026 kanal d show tv trt 1 atv star tv now tv tv8",
+      "url": "https://www.cnnturk.com/magazin/dizi/cumartesi-gunu-hangi-diziler-var-10-ekim-tv-yayin-akisi-2026-kanal-d-show-tv-trt-1-atv-star-tv-now-tv-tv8-3477200",
       "source": "CNN Türk Magazin",
       "source_role": "publisher",
       "source_domain": "cnnturk.com",
-      "published_at": "2026-10-09T23:29:09+00:00",
-      "summary": "Hamal dizisi sete çıktı. Başrollerinde Oktay Kaynarca, Fahriye Evcen gibi isimlerin yer aldığı Hamal dizisi hakkında araştırmalar hız kazandı. ATV ekranlarında yayınlanacak Hamal dizisi güçlü oyuncu kadrosu ve İstanbul’un tarihi dokusuna yaslanan hikâyesiyle gündeme geldi. KYN Yapım imzasını taşıyan dizinin çekimleri 20 Eylül 2026’da başladı. Peki Hamal dizisi ne zaman başlıyor? Konusu nedir, oyuncuları kimler? Detaylar haberimizde...",
+      "published_at": "2026-10-10T15:55:25+00:00",
+      "summary": "10 Ekim 2026 Cumartesi TV yayın akışı, hafta sonunu televizyon karşısında değerlendirmek isteyen izleyicilerin en çok araştırdığı konular arasında yer alıyor. Cumartesi günü ulusal kanallarda yayınlanacak diziler, sinema filmleri, yarışmalar, eğlence programları ve ana haber bültenlerinin saatleri merak ediliyor. Özellikle hafta sonu akşamını evde geçirmeyi planlayan vatandaşlar, “Bugün televizyonda ne var?”, “10 Ekim Cumartesi hangi diziler var?” ve “Bu akşam TV'de hangi filmler yayınlanacak?” sorularına yanıt arıyor. Peki, 10 Ekim 2026 Cumartesi bugün TV'de ne var? Bu akşam hangi diziler ve filmler yayınlanacak? Kanal D, Show TV, TRT 1, ATV, Star TV, TV8 ve NOW TV yayın akışında hangi programlar yer alıyor? İşte 10 Ekim Cumartesi TV yayın akışı, kanalların güncel program listeleri ve yayın saatlerine ilişkin merak edilen ayrıntılar...",
       "image_url": null,
-      "collected_at": "2026-10-10T20:54:07.499293+00:00",
+      "collected_at": "2026-10-10T21:05:51.163998+00:00",
       "status": "collected_not_verified",
       "also_reported_by": [],
       "source_articles": [
         {
           "source": "CNN Türk Magazin",
           "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/dizi/hamal-dizisi-ne-zaman-basliyor-hamal-dizisi-hangi-kanalda-konusu-nedir-oyunculari-kimler-3477275",
-          "title": "HAMAL DİZİSİ NE ZAMAN BAŞLIYOR? Hamal dizisi hangi kanalda? Konusu nedir, oyuncuları kimler?"
+          "url": "https://www.cnnturk.com/magazin/dizi/cumartesi-gunu-hangi-diziler-var-10-ekim-tv-yayin-akisi-2026-kanal-d-show-tv-trt-1-atv-star-tv-now-tv-tv8-3477200",
+          "title": "CUMARTESİ GÜNÜ HANGİ DİZİLER VAR? 10 Ekim TV Yayın Akışı 2026 | Kanal D, Show TV, TRT 1, ATV, Star TV, NOW TV, TV8"
         }
       ],
       "publisher_domains": [
         "cnnturk.com"
       ],
       "publisher_count": 1,
+      "direct_article_count": 1,
       "event_member_count": 1,
       "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T15:55:25+00:00",
+      "age_hours": 5.17,
+      "popularity_score": 4.569,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Güllü davasında karar çıktı! Kızı ağırlaştırılmış müebbet hapis cezasına çarptırıldı",
-      "normalized_title": "gullu davasında karar cıktı kızı agırlastırılmıs muebbet hapis cezasına carptırıldı",
-      "url": "https://www.mynet.com/magazin/gullu-davasinda-karar-cikti-kizi-agirlastirilmis-muebbet-hapis-cezasina-carptirildi-130100603377",
+      "title": "Projeyi aniden bırakmışlardı! Kızılcık Şerbeti’nin yeni senaristleri belli oldu",
+      "normalized_title": "projeyi aniden bırakmıslardı kızılcık serbeti nin yeni senaristleri belli oldu",
+      "url": "https://www.mynet.com/magazin/projeyi-aniden-birakmislardi-kizilcik-serbeti-nin-yeni-senaristleri-belli-oldu-130100603575",
       "source": "Mynet Magazin",
       "source_role": "publisher",
       "source_domain": "mynet.com",
-      "published_at": "2026-10-09T12:36:01+00:00",
-      "summary": "Yalova’nın Çınarcık ilçesinde, ‘Güllü’ adıyla tanınan şarkıcı Gül Tut’un, 6’ncı kattaki evinin penceresinden düşerek hayatını kaybetmesine ilişkin davanın 2'nci duruşmasında karar çıktı. Güllü'nün kızı Tuğyan ağırlaştırılmış müebbet hapis cezasına çarptırıldı.",
-      "image_url": "https://imgrosetta.mynet.com.tr/file/24824962/24824962-1200xauto.jpg",
-      "collected_at": "2026-10-10T20:54:08.470307+00:00",
+      "published_at": "2026-10-10T12:48:03+00:00",
+      "summary": "“Kızılcık Şerbeti” beşinci sezonunda da seyirciyi ekran başına toplamaya devam ediyor. Son dönemde oyuncu değişiklikleriyle gündeme gelen fenomen dizi şimdi de senarist değişikliğiyle dikkat çekti. Kızılcık Şerbeti’nin yeni senaristleri belli oldu.",
+      "image_url": "https://imgrosetta.mynet.com.tr/file/26601299/26601299-1200xauto.jpg",
+      "collected_at": "2026-10-10T21:05:52.250591+00:00",
       "status": "collected_not_verified",
       "also_reported_by": [],
       "source_articles": [
         {
           "source": "Mynet Magazin",
           "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/gullu-davasinda-karar-cikti-kizi-agirlastirilmis-muebbet-hapis-cezasina-carptirildi-130100603377",
-          "title": "Güllü davasında karar çıktı! Kızı ağırlaştırılmış müebbet hapis cezasına çarptırıldı"
+          "url": "https://www.mynet.com/magazin/projeyi-aniden-birakmislardi-kizilcik-serbeti-nin-yeni-senaristleri-belli-oldu-130100603575",
+          "title": "Projeyi aniden bırakmışlardı! Kızılcık Şerbeti’nin yeni senaristleri belli oldu"
         }
       ],
       "publisher_domains": [
         "mynet.com"
       ],
       "publisher_count": 1,
+      "direct_article_count": 1,
       "event_member_count": 1,
       "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Atilla Taş kızını son yolculuğuna uğurladı! Ayakta duramadı, tabuta sarılıp ağladı",
-      "normalized_title": "atilla tas kızını son yolculuguna ugurladı ayakta duramadı tabuta sarılıp agladı",
-      "url": "https://www.mynet.com/magazin/atilla-tas-kizini-son-yolculuguna-ugurladi-ayakta-duramadi-tabuta-sarilip-agladi-130100603401",
-      "source": "Mynet Magazin",
-      "source_role": "publisher",
-      "source_domain": "mynet.com",
-      "published_at": "2026-10-09T12:13:05+00:00",
-      "summary": "Atilla Taş'ın 14. kattan düşerek hayatını kaybeden kızı Sezen, bugün son yolculuğuna uğurlandı. Atilla Taş kızının tabutuna sarılarak hıçkıra hıçkıra ağladı.",
-      "image_url": "https://imgrosetta.mynet.com.tr/file/26586680/26586680-1200xauto.jpg",
-      "collected_at": "2026-10-10T20:54:08.470367+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "Mynet Magazin",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/atilla-tas-kizini-son-yolculuguna-ugurladi-ayakta-duramadi-tabuta-sarilip-agladi-130100603401",
-          "title": "Atilla Taş kızını son yolculuğuna uğurladı! Ayakta duramadı, tabuta sarılıp ağladı"
-        }
-      ],
-      "publisher_domains": [
-        "mynet.com"
-      ],
-      "publisher_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Hüzünlendiren anlar! Atilla Taş'ın kızı Sezen Taş'tan geriye bu görüntüler kaldı",
-      "normalized_title": "huzunlendiren anlar atilla tas ın kızı sezen tas tan geriye bu goruntuler kaldı",
-      "url": "https://www.cnnturk.com/magazin/huzunlendiren-anlar-atilla-tasin-kizi-sezen-tastan-geriye-bu-goruntuler-kaldi-3476984",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-09T00:40:16+00:00",
-      "summary": "Ünlü şarkıcı Atilla Taş'ın kızı Sezen Taş, Mersin'in Erdemli ilçesinde bir apartmanın 14'üncü katından düşerek hayatını kaybetti. 34 yaşında yaşamını yitiren Taş'ın naaşı, otopsi yapılmak üzere morga kaldırıldı. Olayla ilgili soruşturma başlatılırken, Sezen Taş'tan geriye, eşiyle birlikte çıktığı kampta kaydedilen görüntüler kaldı.",
-      "image_url": null,
-      "collected_at": "2026-10-10T20:54:07.500215+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/huzunlendiren-anlar-atilla-tasin-kizi-sezen-tastan-geriye-bu-goruntuler-kaldi-3476984",
-          "title": "Hüzünlendiren anlar! Atilla Taş'ın kızı Sezen Taş'tan geriye bu görüntüler kaldı"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "NEJAT UYGUR'UN EŞİ NECLA UYGUR NEDEN ÖLDÜ? Necla Uygur hastalığı neydi? Necla Uygur kimdir, kaç yaşındaydı?",
-      "normalized_title": "nejat uygur un esi necla uygur neden oldu necla uygur hastalıgı neydi necla uygur kimdir kac yasındaydı",
-      "url": "https://www.cnnturk.com/magazin/nejat-uygurun-esi-necla-uygur-neden-oldu-necla-uygur-hastaligi-neydi-necla-uygur-kimdir-kac-yasindaydi-3476879",
-      "source": "CNN Türk Magazin",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": "2026-10-08T21:33:45+00:00",
-      "summary": "Merhum tiyatro sanatçısı Nejat Uygur’un eşi ve tiyatro oyuncusu Necla Uygur hayatını kaybetti. Acı haberi alan sevenleri konuya dair araştırmalarını hızlandırdı. \"Necla Uygur neden öldü?\", \"Necla Uygur'un hastalığı neydi?\" sorularının yanıtı merak ediliyor. Peki Nejat Uygur'un eşi Necla Uygur neden öldü, hastalığı neydi? Necla Uygur kimdir, kaç yaşındaydı?",
-      "image_url": null,
-      "collected_at": "2026-10-10T20:54:07.500373+00:00",
-      "status": "collected_not_verified",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "CNN Türk Magazin",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/nejat-uygurun-esi-necla-uygur-neden-oldu-necla-uygur-hastaligi-neydi-necla-uygur-kimdir-kac-yasindaydi-3476879",
-          "title": "NEJAT UYGUR'UN EŞİ NECLA UYGUR NEDEN ÖLDÜ? Necla Uygur hastalığı neydi? Necla Uygur kimdir, kaç yaşındaydı?"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T12:48:03+00:00",
+      "age_hours": 8.3,
+      "popularity_score": 4.309,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -961,7 +638,7 @@
       "published_at": "2026-10-10T12:40:49+00:00",
       "summary": "Show Tv'nin reyting rekortmeni dizisi Kızılcık Şerbeti'nde Elif ve Buğra'nın ilk gecesi sosyal medyada gündem oldu. Peş peşe ayrılıkların yaşandığı diziye adeta yorum yağdı.",
       "image_url": "https://imgrosetta.mynet.com.tr/file/26601212/26601212-1200xauto.jpg",
-      "collected_at": "2026-10-10T20:54:08.469221+00:00",
+      "collected_at": "2026-10-10T21:05:52.250631+00:00",
       "status": "collected_not_verified",
       "also_reported_by": [],
       "source_articles": [
@@ -976,8 +653,120 @@
         "mynet.com"
       ],
       "publisher_count": 1,
+      "direct_article_count": 1,
       "event_member_count": 1,
       "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T12:40:49+00:00",
+      "age_hours": 8.42,
+      "popularity_score": 4.299,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Özel'den Atilla Taş’a taziye ziyareti",
+      "normalized_title": "ozel den atilla tas a taziye ziyareti",
+      "url": "https://www.haberturk.com/magazin/ozgur-ozel-den-atilla-tasa-taziye-ziyareti-3918718",
+      "source": "Habertürk Magazin",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": "2026-10-10T12:22:59+00:00",
+      "summary": "Yeni Parti Genel Başkanı Özgür Özel, kızını kaybeden şarkıcı Atilla Taş'ı ziyaret ederek, başsağlığı dileklerini iletti",
+      "image_url": "https://im.haberturk.com/l/2026/10/10/ver1791634863/3918718/jpg/1920x1080",
+      "collected_at": "2026-10-10T21:05:47.437756+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Habertürk Magazin",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/ozgur-ozel-den-atilla-tasa-taziye-ziyareti-3918718",
+          "title": "Özel'den Atilla Taş’a taziye ziyareti"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T12:22:59+00:00",
+      "age_hours": 8.72,
+      "popularity_score": 4.274,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Selin Türkmen yeni rolüyle şaşırttı! Direk dansı sahnesi gündem oldu",
+      "normalized_title": "selin turkmen yeni roluyle sasırttı direk dansı sahnesi gundem oldu",
+      "url": "https://www.mynet.com/magazin/selin-turkmen-yeni-roluyle-sasirtti-direk-dansi-sahnesi-gundem-oldu-130100603569",
+      "source": "Mynet Magazin",
+      "source_role": "publisher",
+      "source_domain": "mynet.com",
+      "published_at": "2026-10-10T11:48:40+00:00",
+      "summary": "Kızılcık Şerbeti dizisinde hayat verdiği Çimen karakteriyle tanınan Selin Türkmen dizi sezon finalindeyken projeden apar topar ayrıldı. Şimdilerde Exxen dizisi Karma'daki sahneleriyle konuşulan Türkmen, direk dansı sahnesiyle dikkatleri üzerine çekti.",
+      "image_url": "https://imgrosetta.mynet.com.tr/file/26600177/26600177-1200xauto.jpg",
+      "collected_at": "2026-10-10T21:05:52.250667+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Mynet Magazin",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/selin-turkmen-yeni-roluyle-sasirtti-direk-dansi-sahnesi-gundem-oldu-130100603569",
+          "title": "Selin Türkmen yeni rolüyle şaşırttı! Direk dansı sahnesi gündem oldu"
+        }
+      ],
+      "publisher_domains": [
+        "mynet.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T11:48:40+00:00",
+      "age_hours": 9.29,
+      "popularity_score": 4.226,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "SUSUZ YAZ SETE ÇIKTI",
+      "normalized_title": "susuz yaz sete cikti",
+      "url": "https://www.cnnturk.com/magazin/susuz-yaz-sete-cikti-3477380",
+      "source": "CNN Türk Magazin",
+      "source_role": "publisher",
+      "source_domain": "cnnturk.com",
+      "published_at": "2026-10-10T11:24:32+00:00",
+      "summary": "Kanal D’nin, Necati Cumalı’nın aynı adlı eserinden uyarlanan yeni dizisi Susuz Yaz sete çıktı. Adana’da başlayan çekimlerde güçlü oyuncu kadrosunun enerjisi ve uyumu dikkat çekti.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:05:51.164048+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "CNN Türk Magazin",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/susuz-yaz-sete-cikti-3477380",
+          "title": "SUSUZ YAZ SETE ÇIKTI"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T11:24:32+00:00",
+      "age_hours": 9.69,
+      "popularity_score": 4.193,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -993,7 +782,7 @@
       "published_at": "2026-10-10T11:21:15+00:00",
       "summary": "Ünlü oyuncu Derya Pınar Ak, temmuz ayında aşk yaşamaya başladığı Muammer Akmeşe ile romantik anlarını sosyal medya hesabından yayımladı. Derya Pınar Ak'ın sevgilisiyle romantik karesi kısa sürede gündem oldu.",
       "image_url": "https://imgrosetta.mynet.com.tr/file/26599826/26599826-1200xauto.png",
-      "collected_at": "2026-10-10T20:54:08.469352+00:00",
+      "collected_at": "2026-10-10T21:05:52.250701+00:00",
       "status": "collected_not_verified",
       "also_reported_by": [],
       "source_articles": [
@@ -1008,8 +797,408 @@
         "mynet.com"
       ],
       "publisher_count": 1,
+      "direct_article_count": 1,
       "event_member_count": 1,
       "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T11:21:15+00:00",
+      "age_hours": 9.74,
+      "popularity_score": 4.188,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "9 Ekim reyting sonuçları belli oldu! Kızılcık Şerbeti, Taşacak Bu Deniz... Zirvenin sahibi kim?",
+      "normalized_title": "9 ekim reyting sonucları belli oldu kızılcık serbeti tasacak bu deniz zirvenin sahibi kim",
+      "url": "https://www.mynet.com/magazin/9-ekim-reyting-sonuclari-belli-oldu-kizilcik-serbeti-tasacak-bu-deniz-zirvenin-sahibi-kim-130100603557",
+      "source": "Mynet Magazin",
+      "source_role": "publisher",
+      "source_domain": "mynet.com",
+      "published_at": "2026-10-10T11:09:38+00:00",
+      "summary": "9 Ekim 2026 Cuma gününün reyting sonuçları açıklandı. TRT 1 ekranlarında yayınlanan Taşacak Bu Deniz, Total, AB ve ABC1 kategorilerinin tamamında zirveye yerleşti. Taşacak Bu Deniz yeni sezonuyla artık zirvedeki yerini korumaya başladı.",
+      "image_url": "https://imgrosetta.mynet.com.tr/file/18727762/18727762-1200xauto.png",
+      "collected_at": "2026-10-10T21:05:52.250737+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Mynet Magazin",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/9-ekim-reyting-sonuclari-belli-oldu-kizilcik-serbeti-tasacak-bu-deniz-zirvenin-sahibi-kim-130100603557",
+          "title": "9 Ekim reyting sonuçları belli oldu! Kızılcık Şerbeti, Taşacak Bu Deniz... Zirvenin sahibi kim?"
+        }
+      ],
+      "publisher_domains": [
+        "mynet.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T11:09:38+00:00",
+      "age_hours": 9.94,
+      "popularity_score": 4.172,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "9 EKİM CUMA REYTİNG SONUÇLARI: Taşacak Bu Deniz, Kızılcık Şerbeti Reyting Sonucu: Dün En Çok Ne İzlendi?",
+      "normalized_title": "9 ekim cuma reyting sonuclari tasacak bu deniz kızılcık serbeti reyting sonucu dun en cok ne izlendi",
+      "url": "https://www.cnnturk.com/magazin/dizi/9-ekim-cuma-reyting-sonuclari-tasacak-bu-deniz-kizilcik-serbeti-reyting-sonucu-dun-en-cok-ne-izlendi-3477350",
+      "source": "CNN Türk Magazin",
+      "source_role": "publisher",
+      "source_domain": "cnnturk.com",
+      "published_at": "2026-10-10T11:05:49+00:00",
+      "summary": "9 Ekim 2026 Cuma reyting sonuçları, televizyon ekranlarında yaşanan izlenme rekabetinin ardından izleyicilerin gündemine yerleşti. Haftanın son iş gününde farklı kanallarda yayınlanan diziler, yarışmalar, eğlence programları ve ana haber bültenlerinin reyting performansları merakla araştırılıyor. Özellikle Total, AB ve ABC1 reyting kategorilerinde hangi yapımların zirveye çıktığı, televizyon tutkunlarının en çok yanıt aradığı sorular arasında bulunuyor. Cuma akşamı izleyiciyle buluşan dizilerin yeni bölümleri ile sevilen televizyon programlarının sıralamadaki yerleri yakından takip ediliyor. Peki, 9 Ekim Cuma reyting sonuçlarında kim birinci oldu? Dün akşam en çok izlenen dizi hangisi? Total, AB ve ABC1 kategorilerinde hangi programlar ilk sırada yer aldı? İşte 9 Ekim 2026 Cuma gününün reyting sıralamasına ilişkin merak edilen ayrıntılar...",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:05:51.164106+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "CNN Türk Magazin",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/dizi/9-ekim-cuma-reyting-sonuclari-tasacak-bu-deniz-kizilcik-serbeti-reyting-sonucu-dun-en-cok-ne-izlendi-3477350",
+          "title": "9 EKİM CUMA REYTİNG SONUÇLARI: Taşacak Bu Deniz, Kızılcık Şerbeti Reyting Sonucu: Dün En Çok Ne İzlendi?"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T11:05:49+00:00",
+      "age_hours": 10.0,
+      "popularity_score": 4.167,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Okan Bayülgen’in kızı İstanbul’a uluslararası sanat ödülü! 'Hem güzel, hem başarılı'",
+      "normalized_title": "okan bayulgen in kızı istanbul a uluslararası sanat odulu hem guzel hem basarılı",
+      "url": "https://www.mynet.com/magazin/okan-bayulgen-in-kizi-istanbul-a-uluslararasi-sanat-odulu-hem-guzel-hem-basarili-130100603563",
+      "source": "Mynet Magazin",
+      "source_role": "publisher",
+      "source_domain": "mynet.com",
+      "published_at": "2026-10-10T10:49:50+00:00",
+      "summary": "Okan Bayülgen ile Şirin Ediger’in 17 yaşındaki kızları İstanbul Bayülgen, 2026 International Student Artist Awards kapsamında Özel Takdir Ödülü'ne layık görüldü. Okan Bayülgen’in kızı İstanbul kısa sürede sosyal medyanın gündemine oturdu.",
+      "image_url": "https://imgrosetta.mynet.com.tr/file/26599601/26599601-1200xauto.png",
+      "collected_at": "2026-10-10T21:05:52.250772+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Mynet Magazin",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/okan-bayulgen-in-kizi-istanbul-a-uluslararasi-sanat-odulu-hem-guzel-hem-basarili-130100603563",
+          "title": "Okan Bayülgen’in kızı İstanbul’a uluslararası sanat ödülü! 'Hem güzel, hem başarılı'"
+        }
+      ],
+      "publisher_domains": [
+        "mynet.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T10:49:50+00:00",
+      "age_hours": 10.27,
+      "popularity_score": 4.144,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "'Kızılcık Şerbeti'nde sular durulmuyor",
+      "normalized_title": "kızılcık serbeti nde sular durulmuyor",
+      "url": "https://www.haberturk.com/magazin/kizilcik-serbeti-nde-sular-durulmuyor-3918687",
+      "source": "Habertürk Magazin",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": "2026-10-10T10:15:58+00:00",
+      "summary": "SHOW TV’nin fenomen dizisi 'Kızılcık Şerbeti' yeni bölümüyle yine ekranlara damgasını vurdu",
+      "image_url": "https://im.haberturk.com/l/2026/10/10/ver1791627280/3918687/jpg/1920x1080",
+      "collected_at": "2026-10-10T21:05:47.437782+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Habertürk Magazin",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/kizilcik-serbeti-nde-sular-durulmuyor-3918687",
+          "title": "'Kızılcık Şerbeti'nde sular durulmuyor"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T10:15:58+00:00",
+      "age_hours": 10.83,
+      "popularity_score": 4.097,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Esra Erol’da genç çifte mutlu yuva: Midyat Belediye Başkanı’ndan Cumhurbaşkanı Erdoğan’a teşekkür",
+      "normalized_title": "esra erol da genc cifte mutlu yuva midyat belediye baskanı ndan cumhurbaskanı erdogan a tesekkur",
+      "url": "https://www.sabah.com.tr/magazin/esra-erolda-genc-cifte-mutlu-yuva-midyat-belediye-baskanindan-cumhurbaskani-erdogana-tesekkur-7677717",
+      "source": "Sabah Magazin",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": "2026-10-10T10:02:35+00:00",
+      "summary": "Şanlıurfa’da yaşayan Halil ve Saadet Çavlan çifti, 16 Haziran’da evden ayrılan kızları Asiye’yi bulabilmek için Esra Erol’a başvurdu. 84 gündür kayıp olan Asiye, Esra Erol’un çabalarıyla bir günde bulundu.... Devamı için tıklayınız",
+      "image_url": "https://iasbh.tmgrup.com.tr/6107ff/1200/675/0/16/1600/915?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/esra-erolda-genc-cifte-mutlu-yuva-midyat-belediye-baskanindan-cumhurbaskani-erdogana-tesekkur-1791626527933.jpeg",
+      "collected_at": "2026-10-10T21:05:51.549994+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Sabah Magazin",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/magazin/esra-erolda-genc-cifte-mutlu-yuva-midyat-belediye-baskanindan-cumhurbaskani-erdogana-tesekkur-7677717",
+          "title": "Esra Erol’da genç çifte mutlu yuva: Midyat Belediye Başkanı’ndan Cumhurbaşkanı Erdoğan’a teşekkür"
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T10:02:35+00:00",
+      "age_hours": 11.06,
+      "popularity_score": 4.079,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Güller ve Günahlar'ın Zeynep'i Cemre Baysel'in Dans Sahnesi Sanal Medyayı Salladı",
+      "normalized_title": "guller ve gunahlar ın zeynep i cemre baysel in dans sahnesi sanal medyayı salladı",
+      "url": "https://www.cnnturk.com/magazin/guller-ve-gunahlarin-zeynepi-cemre-bayselin-dans-sahnesi-sanal-medyayi-salladi-3477325",
+      "source": "CNN Türk Magazin",
+      "source_role": "publisher",
+      "source_domain": "cnnturk.com",
+      "published_at": "2026-10-10T09:51:44+00:00",
+      "summary": "Kanal D’nin sevilen dizisi “Güller ve Günahlar”ın Zeynep’i Cemre Baysel, son bölümdeki dans sahnesinde giydiği kıyafetle yaptığı paylaşımla sosyal medyayı hareketlendirdi.",
+      "image_url": null,
+      "collected_at": "2026-10-10T21:05:51.164142+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "CNN Türk Magazin",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/guller-ve-gunahlarin-zeynepi-cemre-bayselin-dans-sahnesi-sanal-medyayi-salladi-3477325",
+          "title": "Güller ve Günahlar'ın Zeynep'i Cemre Baysel'in Dans Sahnesi Sanal Medyayı Salladı"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T09:51:44+00:00",
+      "age_hours": 11.24,
+      "popularity_score": 4.064,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Cem Yılmaz sessizliği",
+      "normalized_title": "cem yılmaz sessizligi",
+      "url": "https://www.haberturk.com/magazin/ahu-yagtu-cem-yilmaz-sorularini-yanitsiz-birakti-3918558",
+      "source": "Habertürk Magazin",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": "2026-10-10T09:27:24+00:00",
+      "summary": "Ahu Yağtu, Nişantaşı'nda objektiflere yansıdı. Oyuncu, geçtiğimiz aylarda kalp krizi geçiren eski eşi Cem Yılmaz'la ilgili sorular karşısında sessiz kaldı",
+      "image_url": "https://im.haberturk.com/l/2026/10/09/ver1791567090/3918558/jpg/1920x1080",
+      "collected_at": "2026-10-10T21:05:47.437808+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Habertürk Magazin",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/ahu-yagtu-cem-yilmaz-sorularini-yanitsiz-birakti-3918558",
+          "title": "Cem Yılmaz sessizliği"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T09:27:24+00:00",
+      "age_hours": 11.64,
+      "popularity_score": 4.03,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "\"Bunlar yüzünden eşim terk etti\"",
+      "normalized_title": "bunlar yuzunden esim terk etti",
+      "url": "https://www.haberturk.com/magazin/foto/ibrahim-karakas-tan-dilber-ay-in-kizina-yanit-3918666",
+      "source": "Habertürk Magazin",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": "2026-10-10T09:16:04+00:00",
+      "summary": "2019'da vefat eden Dilber Ay'ın eşi İbrahim Karakaş'ın, İzmirli estetisyen Müge Zopun ile evlendiği ortaya çıktı. Dilber Ay'ın kızı Filiz Çelik, Karakaş'ın \"Ben Dilber'in acısını Müge ile yendim\" sözlerine tepki gösterdi. Karakaş'tan yanıt gecikmedi",
+      "image_url": "https://im.haberturk.com/l/2026/10/10/ver1791623764/3918666/jpg/1920x1080",
+      "collected_at": "2026-10-10T21:05:47.437838+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Habertürk Magazin",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/ibrahim-karakas-tan-dilber-ay-in-kizina-yanit-3918666",
+          "title": "\"Bunlar yüzünden eşim terk etti\""
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T09:16:04+00:00",
+      "age_hours": 11.83,
+      "popularity_score": 4.014,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Taşacak Bu Deniz 34. bölüm fragmanı izle! 'Zirvenin sahibi geri geldi'",
+      "normalized_title": "tasacak bu deniz 34 bolum fragmanı izle zirvenin sahibi geri geldi",
+      "url": "https://www.mynet.com/magazin/tas-acak-bu-deniz-34-bolum-fragmani-izle-zirvenin-sahibi-geri-geldi-130100603551",
+      "source": "Mynet Magazin",
+      "source_role": "publisher",
+      "source_domain": "mynet.com",
+      "published_at": "2026-10-10T09:14:01+00:00",
+      "summary": "Cuma akşamlarının sevilen ve ilgiyle takip edilen dizisi Taşacak Bu Deniz dün akşam 33. bölümüyle ekrana geldi. Dizinin yeni bölümü izleyicisinden tam not alırken dizinin yeni bölüm fragmanı da herkesi heyecanlandırdı.",
+      "image_url": "https://imgrosetta.mynet.com.tr/file/24813847/24813847-1200xauto.jpg",
+      "collected_at": "2026-10-10T21:05:52.250804+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Mynet Magazin",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/tas-acak-bu-deniz-34-bolum-fragmani-izle-zirvenin-sahibi-geri-geldi-130100603551",
+          "title": "Taşacak Bu Deniz 34. bölüm fragmanı izle! 'Zirvenin sahibi geri geldi'"
+        }
+      ],
+      "publisher_domains": [
+        "mynet.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T09:14:01+00:00",
+      "age_hours": 11.86,
+      "popularity_score": 4.011,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Onur Tuna ve Yasemin Yazıcı cephesinde flaş gelişme! Evlilik sorularına bakın ne yanıt geldi",
+      "normalized_title": "onur tuna ve yasemin yazıcı cephesinde flas gelisme evlilik sorularına bakın ne yanıt geldi",
+      "url": "https://www.sabah.com.tr/magazin/onur-tuna-ve-yasemin-yazici-cephesinde-flas-gelisme-evlilik-sorularina-bakin-ne-yanit-geldi-7677681",
+      "source": "Sabah Magazin",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": "2026-10-10T08:47:45+00:00",
+      "summary": "Ünlü oyuncu Onur Tuna ve sevgilisi Yasemin Yazıcı'nın ilişkisinde beklenmedik bir gelişme yaşanıyor! Dolu dizgin aşklarıyla bilinen çift, şimdi herkesi şaşırtan yeni bir aşamada mı? İşte Yazıcı'nın \"evlilik\"... Devamı için tıklayınız",
+      "image_url": "https://iasbh.tmgrup.com.tr/eda10a/1200/675/0/700/1638/1622?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/onur-tuna-ve-yasemin-yazici-cephesinde-flas-gelisme-evlilik-sorularina-bakin-ne-yanit-geldi-1791621915750.jpg",
+      "collected_at": "2026-10-10T21:05:51.550032+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Sabah Magazin",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/magazin/onur-tuna-ve-yasemin-yazici-cephesinde-flas-gelisme-evlilik-sorularina-bakin-ne-yanit-geldi-7677681",
+          "title": "Onur Tuna ve Yasemin Yazıcı cephesinde flaş gelişme! Evlilik sorularına bakın ne yanıt geldi"
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T08:47:45+00:00",
+      "age_hours": 12.3,
+      "popularity_score": 3.975,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Dünyaca ünlü Strauss Philharmonie Viyana'nın ruhunu Ankara ve İstanbul’a taşıyacak",
+      "normalized_title": "dunyaca unlu strauss philharmonie viyana nın ruhunu ankara ve istanbul a tasıyacak",
+      "url": "https://www.mynet.com/magazin/dunyaca-unlu-strauss-philharmonie-viyana-nin-ruhunu-ankara-ve-istanbul-a-tasiyacak-130100603539",
+      "source": "Mynet Magazin",
+      "source_role": "publisher",
+      "source_domain": "mynet.com",
+      "published_at": "2026-10-10T08:38:23+00:00",
+      "summary": "Strauss Philharmonie’nin sergilediği Strauss Concert Show, 12 Ekim Pazartesi günü CSO Ada Ankara Ziraat Bankası Ana Salon’da, 13 Ekim Salı günü ise AKM Türk Telekom Opera Salonu’nda sanatseverlerle buluşacak. Konserler, Viyana’nın zarafetini, neşesini ve klasik müzik geleneğini Johann Strauss’un ölümsüz eserleri eşliğinde Ankara ve İstanbul’a taşıyacak.",
+      "image_url": "https://imgrosetta.mynet.com.tr/file/26597645/26597645-1200xauto.jpg",
+      "collected_at": "2026-10-10T21:05:52.250841+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "Mynet Magazin",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/dunyaca-unlu-strauss-philharmonie-viyana-nin-ruhunu-ankara-ve-istanbul-a-tasiyacak-130100603539",
+          "title": "Dünyaca ünlü Strauss Philharmonie Viyana'nın ruhunu Ankara ve İstanbul’a taşıyacak"
+        }
+      ],
+      "publisher_domains": [
+        "mynet.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": "2026-10-10T08:38:23+00:00",
+      "age_hours": 12.46,
+      "popularity_score": 3.962,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
