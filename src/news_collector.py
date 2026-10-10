@@ -140,15 +140,39 @@ def fetch_google_news_source(source: dict, max_items: int, lookback_hours: int) 
     # is the list of distinct publisher articles inside the cluster, not the Google URL.
     path = urlparse(url).path
     if "/read/" in path or "/stories/" in path:
+        # Google News cluster pages often link to opaque news.google.com/read IDs.
+        # Resolve those IDs to the real publisher URLs in one batch request.
+        candidates = []
         for link in parser.links:
             href = str(link.get("direct_url") or link.get("href") or "")
             title = clean_text(link.get("text", ""))
             if not href or not title or len(title) < 12:
                 continue
             full_url = urljoin(url, href)
-            domain = urlparse(full_url).netloc.lower().removeprefix("www.")
+            host = urlparse(full_url).netloc.lower()
+            if host.endswith("google.com") or host.endswith("googleusercontent.com"):
+                continue
+            candidates.append({"title": title, "url": full_url})
+        decode_results = []
+        google_urls = [x["url"] for x in candidates if "news.google.com/" in x["url"]]
+        if google_urls:
+            try:
+                from googlenewsdecoder import gnewsdecoder
+                decoded = gnewsdecoder(google_urls, interval=0.5, timeout=15.0)
+                decode_results = decoded if isinstance(decoded, list) else [decoded]
+            except Exception as exc:
+                LOG.warning("Google News bağlantılarını yayıncı URL'lerine çözme başarısız: %s", exc)
+        decoded_by_input = {}
+        for original, result in zip(google_urls, decode_results):
+            if isinstance(result, dict) and result.get("success") and result.get("decoded_url"):
+                decoded_by_input[original] = result["decoded_url"]
+        for candidate in candidates:
+            article_url = decoded_by_input.get(candidate["url"], candidate["url"])
+            parsed = urlparse(article_url)
+            domain = parsed.netloc.lower().removeprefix("www.")
             if not domain or domain.endswith("google.com") or domain.endswith("googleusercontent.com"):
                 continue
+            title = candidate["title"]
             key = (domain, normalize_title(title))
             if key in seen:
                 continue
@@ -156,12 +180,12 @@ def fetch_google_news_source(source: dict, max_items: int, lookback_hours: int) 
             results.append({
                 "title": title,
                 "normalized_title": normalize_title(title),
-                "url": full_url,
+                "url": article_url,
                 "source": domain,
                 "source_role": "publisher",
                 "source_domain": domain,
                 "published_at": None,
-                "summary": "Google News haber kümesindeki yayıncı bağlantısından bulundu.",
+                "summary": "Google News hikâye kümesinden çıkarılan yayıncı haberi; yayıncı alan adı doğrudan bağlantıdan çözüldü.",
                 "image_url": None,
                 "collected_at": datetime.now(timezone.utc).isoformat(),
                 "status": "google_news_cluster_article",
