@@ -20,7 +20,7 @@ class SourceCategoryFilterTests(unittest.TestCase):
         self.assertTrue(path_is_allowed("https://example.com/anything", {}))
 
     def test_google_news_text_normalization(self):
-        self.assertEqual(clean_text("  Başlık\\n   haberi  "), "Başlık haberi")
+        self.assertEqual(clean_text("  Başlık\n   haberi  "), "Başlık haberi")
         self.assertEqual(normalize_title("Hadise ve Kerem Bürsin"), "hadise ve kerem bursin")
 
     def test_google_news_parser_extracts_story_links(self):
