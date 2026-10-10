@@ -14,8 +14,14 @@
     {
       "name": "Haber Hürriyeti Magazin",
       "url": "https://www.haberhurriyeti.com/rss.xml",
+      "enabled": false,
+      "note": "Geçici olarak devre dışı: denenen RSS adresleri feedparser tarafından geçerli akış olarak okunamadı."
+    },
+    {
+      "name": "Magazin D RSS",
+      "url": "http://www.magazind.net/rss.xml?cat=3",
       "enabled": true,
-      "note": "Haber Hürriyeti resmi RSS listesinde yer alan tüm içerikler akışı; magazin kategorisi ayrıca filtrelenebilir."
+      "note": "Magazin kategorisi RSS adresi; GitHub Actions çalıştırmasında akışın geçerliliği kontrol edilecek."
     }
   ],
   "settings": {
