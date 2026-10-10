@@ -1,7 +1,246 @@
 {
-  "generated_at": "2026-10-10T20:45:30.930021+00:00",
-  "checked_count": 0,
+  "generated_at": "2026-10-10T20:48:03.402566+00:00",
+  "checked_count": 1,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
-  "items": []
+  "items": [
+    {
+      "title": "SON DAKİKA | Nejat Uygur’un eşi Necla Uygur hayatını kaybetti! Cenaze bilgileri belli oldu",
+      "normalized_title": "son dakika nejat uygur un esi necla uygur hayatını kaybetti cenaze bilgileri belli oldu",
+      "url": "https://www.cnnturk.com/magazin/son-dakika-nejat-uygurun-esi-necla-uygur-hayatini-kaybetti-cenaze-bilgileri-belli-oldu-3476878",
+      "source": "CNN Türk Magazin",
+      "source_role": "publisher",
+      "source_domain": "cnnturk.com",
+      "published_at": "2026-10-09T09:26:52+00:00",
+      "summary": "Son dakika haberi... Merhum tiyatro sanatçısı Nejat Uygur’un eşi Necla Uygur, tedavi gördüğü hastanede hayatını kaybetti. Necla Uygur için düzenlenecek cenaze törenine ilişkin bilgiler oldu. Sanatçının naaşı, Teşvikiye Camii'nde ikindi namazını müteakip kılınacak cenaze namazı sonrası Feriköy Mezarlığı'na defnedilecek.",
+      "image_url": null,
+      "collected_at": "2026-10-10T20:47:55.845774+00:00",
+      "status": "collected_not_verified",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "CNN Türk Magazin",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/son-dakika-nejat-uygurun-esi-necla-uygur-hayatini-kaybetti-cenaze-bilgileri-belli-oldu-3476878",
+          "title": "SON DAKİKA | Nejat Uygur’un eşi Necla Uygur hayatını kaybetti! Cenaze bilgileri belli oldu"
+        },
+        {
+          "source": "Habertürk Magazin",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/necla-uygur-vefat-etti-3918298",
+          "title": "Necla Uygur vefat etti"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com",
+        "haberturk.com"
+      ],
+      "publisher_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "possible_syndication": false,
+      "verification_status": "second_source_match_needs_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Necla Uygun kimdir, kaç yaşındaydı? Nejat Uygurun eşi Necla Uygur neden öldü, hastalığı neydi? İşte cenaze bilgileri!",
+        "og_title": "Necla Uygun kimdir, kaç yaşındaydı? Nejat Uygurun eşi Necla Uygur neden öldü, hastalığı neydi? İşte cenaze bilgileri!",
+        "description": "Son dakika haberi  Merhum tiyatro sanatçısı Nejat Uygurun eşi ve tiyatro oyuncusu Necla Uygur, tedavi gördüğü hastanede hayatını kaybetti. Peki, Necla...",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "Habertürk Magazin",
+          "title": "Necla Uygur'a veda",
+          "summary": "Türk tiyatrosunun duayen ismi Nejat Uygur'un oyuncu eşi Necla Uygur, 89 yaşında hayatını kaybetti. Usta sanatçı, dün gözyaşlarıyla son yolculuğuna uğurlandı",
+          "url": "https://www.haberturk.com/magazin/unlu-oyuncu-necla-uygur-a-veda-sira-bende-demisti-3918497",
+          "match_score": 0.65,
+          "shared_keywords": [
+            "kaybetti",
+            "necla",
+            "nejat",
+            "sanatc",
+            "uygur"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Habertürk Magazin",
+          "title": "Necla Uygur vefat etti",
+          "summary": "Türk tiyatrosunun duayen ismi Nejat Uygur'un oyuncu eşi Necla Uygur, 89 yaşında hayatını kaybetti",
+          "url": "https://www.haberturk.com/magazin/necla-uygur-vefat-etti-3918298",
+          "match_score": 0.43,
+          "shared_keywords": [
+            "kaybetti",
+            "necla",
+            "nejat",
+            "uygur"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Magazin D RSS",
+          "title": "Seyfi Dursunoğlu hayatını kaybetti",
+          "summary": "Huysuz Virjin karakteriyle tanınan Seyfi Dursunoğlu, tedavi gördüğü hastanede hayatını kaybetti.",
+          "url": "http://www.magazind.net/Seyfi-Dursunoglu-hayatini-kaybetti-17773",
+          "match_score": 0.37,
+          "shared_keywords": [
+            "gordugu",
+            "hastanede",
+            "kaybetti",
+            "tedavi"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Milliyet Magazin",
+          "title": "Nobel Barış Ödülü'nün Pillay'a gitmesi İsrail yanlısı çevreleri rahatsız etti",
+          "summary": "ABD'nin önde gelen İsrail lobilerinden İftira ve İnkarla Mücadele Birliği (Anti-Defamation League - ADL), Pillay'ın Nobel Barış Ödülü'ne layık görülmesinin ardından bir açıklama yaptı. Açıklamada, \"Nobel Komitesi, Navi Pillay’a Barış Ödülü’nü vererek, Yahudileri ve İsraillileri şeytanlaştırmayı meşrulaştırma ve antisiyonizmi savunma konusundaki geçmişini ödüllendirmiştir.\" ifadesi kullanıldı. Pillay'ın İsrail'e yönelik \"soykırım\" suçlamalarının \"kanıtsız\" olduğu öne sürülen açıklamada, Pillay'ın",
+          "url": "https://www.milliyet.com.tr/dunya/nobel-baris-odulunun-pillaya-gitmesi-israil-yanlisi-cevreleri-rahatsiz-etti-7676997",
+          "match_score": 0.29,
+          "shared_keywords": [
+            "dakika",
+            "iliskin"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Milliyet Magazin",
+          "title": "Türkiye, Panama'daki depremden derin üzüntü duyduğunu bildirdi",
+          "summary": "Bakanlık, Panama’da meydana gelen depreme ilişkin yazılı açıklama yaptı. Açıklamada, Panama'da dün meydana gelen depremin yol açtığı zarardan derin üzüntü duyulduğu belirtilerek, \"Panama halkına geçmiş olsun dileklerimizi sunuyor, bu zor dönemde Panama ile dayanışma içinde olduğumuzu vurguluyoruz.\" ifadesi kullanıldı. Mevcut bilgilere göre, depremden etkilenen Türk vatandaşının bulunmadığı belirtilen açıklamada, gelişmelerin yakından takip edildiği kaydedildi. Son dakika: İstanbul'da hissedilen ",
+          "url": "https://www.milliyet.com.tr/dunya/turkiye-panamadaki-depremden-derin-uzuntu-duydugunu-bildirdi-7676990",
+          "match_score": 0.25,
+          "shared_keywords": [
+            "dakika",
+            "iliskin"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Milliyet Magazin",
+          "title": "Trump Zelenskiy'i hedef aldı: Bence Ukrayna'nın yeni bir başkan edinme vakti geldi",
+          "summary": "Trump, Beyaz Saray'dan ayrılmadan önce gazetecilere yaptığı basın açıklamasında, Ukrayna Devlet Başkanı Zelenskiy hakkında değerlendirmelerde bulundu. Zelenskiy'nin, ABD ile Rusya'nın dizel yakıt konusunda anlaşmasıyla ilgili eleştirileri hatırlatılan Trump, \"Ona (Zelenskiy'ye) 'Rusya'ya karşı istediğini yapabilirsin ancak rafinerileri vurma çünkü bu küresel çapta sorunlara yol açan bir mesele.' dedik. O ise dünyaya sorun çıkarmak istiyor. Gidip dizel yakıtı vuruyor. Kesinlikle durmalı.\" ifadele",
+          "url": "https://www.milliyet.com.tr/dunya/trump-zelenskiyi-hedef-aldi-bence-ukraynanin-yeni-bir-baskan-edinme-vakti-geldi-7676988",
+          "match_score": 0.26,
+          "shared_keywords": [
+            "dakika",
+            "kaybetti",
+            "nde"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Milliyet Magazin",
+          "title": "Esenyurt Belediyesi'ndeki yolsuzluk soruşturmasında ifadeler ortaya çıktı: İhalelerde yüzde 20'lik rüşvet çarkı",
+          "summary": "Esenyurt Belediyesi'nde gerçekleştirilen bazı ihalelerin belirli firmalar üzerinde bırakılması amacıyla organize edildiği ve ihaleleri kazanan şirketlerden hak ediş ödemeleri karşılığında para talep edildiği iddiaları üzerine başlatılan soruşturmanın ayrıntıları ortaya çıktı. İHALELERDE YÜZDE 20'LİK RÜŞVET SİSTEMİ Soruşturma dosyasındaki bilgilere göre, ihaleleri alan firmalardan hak ediş bedellerinin ortalama yüzde 20'si oranında ödeme istendiği öne sürüldü. Dosya kapsamında ifade veren tanıkla",
+          "url": "https://www.milliyet.com.tr/gundem/esenyurt-belediyesi-yolsuzluk-sorusturmasinda-sok-detaylar-suphelilerin-ifadeleri-ortaya-cikti-ihalelerde-yuzde-20lik-rusvet-carki-7676986",
+          "match_score": 0.28,
+          "shared_keywords": [
+            "iliskin",
+            "nde"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Milliyet Magazin",
+          "title": "SON DAKİKA DEPREM HABERLERİ: İstanbul'da hissedilen bir deprem meydana geldi",
+          "summary": "İstanbul'da hissedilen bir deprem meydana geldi. AFAD depremin 3.5 büyüklüğünde olduğunu duyurdu. 22.08'de gerçekleşen sarsıntının Marmara Denizi'nin Yalova açıklarında olduğu bildirildi. Depremin derinliği ise 7.96 kilometre olarak ölçüldü. Sarsıntı, Yalova merkez ve çevre ilçelerin yanı sıra İstanbul'da da hissedildi. Kentin Anadolu Yakası'nda hissedilen depremin ardından bazı vatandaşlar kısa süre sokağa çıktı. ENDİŞE EDİLECEK DURUM YOK Jeoloji Yüksek Mühendisi Prof. Dr. Okan Tüysüz sosyal me",
+          "url": "https://www.milliyet.com.tr/gundem/son-dakika-istanbulda-hissedilen-bir-deprem-meydana-geldi-7676981",
+          "match_score": 0.3,
+          "shared_keywords": [
+            "bilgiler",
+            "dakika"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Milliyet Magazin",
+          "title": "İkindi namazına gelmeyince cemaat evine gitti! İmam Halil Kısa mezarlıkta ölü bulundu",
+          "summary": "Olay, ilçeye bağlı Alibeyli Mahallesi Yanıkdam mevkiinde yaşandı. Alınan bilgiye göre, mahalle camisinde imam hatip olan Halil Kısa (51), ikindi namazı öncesinde evinden çıkarak mezarlığa gitti. NAMAZA GELMEYİNCE CEMAAT EVİNE GİTTİ İkindi saatlerinde imamın camiye namaz kıldırmaya gelmediğini gören cemaat evine gitti. Vatandaşlar, evdeki eşinden imamın mezarlığa gittiğini öğrendi. Bunun üzerine mezarlığa giden vatandaşlar, Kısa'yı kesilirken kırılan ağacın yanında hareketsiz yatarken buldu. HAYA",
+          "url": "https://www.milliyet.com.tr/gundem/ikindi-namazina-gelmeyince-cemaat-evine-gitti-imam-halil-kisa-mezarlikta-olu-bulundu-7676973",
+          "match_score": 0.3,
+          "shared_keywords": [
+            "ikindi",
+            "kaybetti",
+            "mezarl",
+            "namaz",
+            "sonras"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Milliyet Magazin",
+          "title": "Eski bakan Necmettin Cevheri vefat etti",
+          "summary": "Cevheri, yaşlılığa bağlı rahatsızlığı nedeniyle tedavi gördüğü Güven Hastanesi’nde hayata veda etti. 1930’da Şanlıurfa’da dünyaya gelen Necmettin Cevheri, sırasıyla Adalet Bakanlığı, Tarım ve Köyişleri Bakanlığı, Turizm ve Tanıtma Bakanlığı, Devlet Bakanlığı ve Başbakan Yardımcılığı yaptı.",
+          "url": "https://www.milliyet.com.tr/siyaset/eski-bakan-necmettin-cevheri-vefat-etti-7001358",
+          "match_score": 0.31,
+          "shared_keywords": [
+            "gordugu",
+            "nde",
+            "tedavi"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Milliyet Magazin",
+          "title": "SON DAKİKA: Cumhurbaşkanı Erdoğan'dan ödül töreninde dikkat çeken mesaj! ''Mahalle baskısını reddediyoruz''",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 2022 yılı Kültür ve Turizm Bakanlığı Kültür Sanat Özel Ödülleri Töreninde konuştu. Kültür ve sanat açısından önemli olan ödül töreninde katılımcılarla bir arada olmaktan mutluluk duyduğunu söyleyen Cumhurbaşkanı Erdoğan, \"1979 yılından beri verilen bu ödüller sayesinde, ülkenin kültür-sanat iklimine katkı sunan kurum, kuruluş ve sanatçılarımıza şükran borcumuzu bir nebze de olsa ödeme imkanı buluyoruz. Şimdiye kadar adlarını tarihimize, edebiyat dünyamıza ve a",
+          "url": "https://www.milliyet.com.tr/siyaset/cumhurbaskani-erdogandan-kultur-bakanligi-ozel-odulleri-toreninde-onemli-aciklamalar-6893080",
+          "match_score": 0.28,
+          "shared_keywords": [
+            "belli",
+            "dakika",
+            "sanatc"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Sabah Magazin",
+          "title": "Atilla Taş'ın kızı Sezen Taş gözyaşları içinde toprağa verildi!",
+          "summary": "Şarkıcı Atilla Taş’ın 34 yaşındaki kızı Sezen Taş, Mersin’de yaşadığı binanın 14. katından düşerek hayatını kaybetti. İki çocuk annesi Sezen Taş’ın cenaze töreninde kızının tabutuna sarılan acılı sanatçı... Devamı için tıklayınız",
+          "url": "https://www.sabah.com.tr/magazin/atilla-tasin-kizi-sezen-tas-gozyaslari-icinde-topraga-verildi-7677037",
+          "match_score": 0.28,
+          "shared_keywords": [
+            "cenaze",
+            "kaybetti",
+            "sanatc"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Mynet Magazin",
+          "title": "Necla Uygur'un cenazesinde göğüs dekoltesi krizi! İpek Tanrıyar'ın kıyafeti tepki çekti! 'Başını kapatmış ama...'",
+          "summary": "Nejat Uygur'un eşi Necla Uygur, 89 yaşında hayatını kaybettikten sonra İstanbul'da son yolculuğuna uğurlandı. Teşvikiye Camisi'ndeki cenaze töreninin ardından Feriköy'deki aile kabristanında toprağa verildi. Ünlü isimlerin akın ettiği cenazede İpek Tanrıyar'ın kıyafeti dikkat çekti.",
+          "url": "https://www.mynet.com/magazin/necla-uygur-un-cenazesinde-gogus-dekoltesi-krizi-ipek-tanriyar-in-kiyafeti-tepki-cekti-basini-kapatmis-ama-130100603494",
+          "match_score": 0.26,
+          "shared_keywords": [
+            "cenaze",
+            "ferikoy",
+            "necla",
+            "nejat",
+            "tesvikiye",
+            "uygur"
+          ],
+          "match_basis": "title_and_context"
+        },
+        {
+          "source": "Mynet Magazin",
+          "title": "Usta tiyatrocu Necla Uygur, 89 yaşında hayatını kaybetti",
+          "summary": "Tiyatrocu Nejat Uygur’un eşi, oyuncular Süheyl ve Behzat Uygur'un annesi, usta tiyatrocu Necla Uygur (89) hayatını kaybetti.",
+          "url": "https://www.mynet.com/magazin/usta-tiyatrocu-necla-uygur-89-yasinda-hayatini-kaybetti-130100603227",
+          "match_score": 0.42,
+          "shared_keywords": [
+            "kaybetti",
+            "necla",
+            "nejat",
+            "uygur"
+          ],
+          "match_basis": "title_and_context"
+        }
+      ],
+      "verification_note": "Manuel inceleme adayları başlık, özet ve ortak anahtar kelimelerle bulunur; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    }
+  ]
 }
