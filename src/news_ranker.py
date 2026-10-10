@@ -218,6 +218,7 @@ def main() -> int:
     for cluster in clusters:
         members = cluster["members"]
         representative = max(members, key=lambda x: (
+            x.get("source_role") != "discovery_only",
             x["publisher_count"], x["editorial_score"], bool(x.get("image_url"))
         ))
         all_articles = []
@@ -255,6 +256,14 @@ def main() -> int:
     single_source = [g for g in event_groups if g["publisher_count"] == 1]
     selected = multi_source[:3]
     for item in selected:
+        # A discovery-only representative can occur after exact-title RSS dedupe.
+        # Prefer a direct publisher article as the verification target.
+        if item.get("source_role") == "discovery_only" and item["source_articles"]:
+            first = item["source_articles"][0]
+            item["url"] = first["url"]
+            item["source"] = first["source"]
+            item["source_domain"] = first["source_domain"]
+            item["source_role"] = "publisher"
         item["selection_basis"] = (
             "independent_publisher_coverage_then_editorial_score"
             if item["publisher_count"] >= 2 else "single_source_fallback_needs_manual_review"
