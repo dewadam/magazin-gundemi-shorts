@@ -9,6 +9,8 @@ from datetime import datetime, timezone
 from difflib import SequenceMatcher
 from pathlib import Path
 
+from event_matcher import group_events
+
 ROOT = Path(__file__).resolve().parents[1]
 INPUT_PATH = ROOT / "data" / "news_latest.json"
 OUTPUT_PATH = ROOT / "data" / "selected_news.json"
@@ -207,14 +209,10 @@ def main() -> int:
         })
         ranked.append(candidate)
 
-    clusters: list[dict] = []
-    for candidate in sorted(ranked, key=lambda x: (x["publisher_count"], x["editorial_score"]), reverse=True):
-        match = next((cluster for cluster in clusters
-                      if any(duplicate_event(candidate, member) for member in cluster["members"])), None)
-        if match is None:
-            clusters.append({"members": [candidate]})
-        else:
-            match["members"].append(candidate)
+    clusters_raw, ambiguous_pairs = group_events(
+        sorted(ranked, key=lambda x: (x["publisher_count"], x["editorial_score"]), reverse=True)
+    )
+    clusters = [{"members": members} for members in clusters_raw]
 
     event_groups = []
     for cluster in clusters:
@@ -255,7 +253,7 @@ def main() -> int:
     ), reverse=True)
     multi_source = [g for g in event_groups if g["publisher_count"] >= 2]
     single_source = [g for g in event_groups if g["publisher_count"] == 1]
-    selected = (multi_source + single_source)[:3]
+    selected = multi_source[:3]
     for item in selected:
         item["selection_basis"] = (
             "independent_publisher_coverage_then_editorial_score"
@@ -269,12 +267,14 @@ def main() -> int:
         "candidate_count": len(items),
         "event_group_count": len(event_groups),
         "multi_publisher_event_count": len(multi_source),
+        "ambiguous_pair_count": len(ambiguous_pairs),
+        "ambiguous_pairs_preview": ambiguous_pairs[:40],
         "note": (
             "Haberler olay düzeyinde gruplanır ve öncelikle farklı yayın kuruluşu alan adlarının "
             "sayısına göre sıralanır. Aynı yayın kuruluşunun birden fazla URL'si tek kaynak sayılır. "
             "Kaynak sayısı ortak gündem göstergesidir, doğruluk kanıtı değildir; içerik, bağlam ve "
             "görsel hakları ayrıca kontrol edilmelidir. Tek kaynaklı haberler yalnızca yeterli "
-            "çok kaynaklı olay yoksa yedek olarak seçilir."
+            "çok kaynaklı olay yoksa otomatik seçime tek kaynaklı haber alınmaz."
         ),
         "items": selected,
         "event_groups_preview": event_groups[:20],
@@ -282,6 +282,7 @@ def main() -> int:
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Ham tekil aday: {len(items)} | Olay grubu: {len(event_groups)} | Çok kaynaklı olay: {len(multi_source)}")
+    print(f"Sınırda eşleşme (kaynak sayılmadı): {len(ambiguous_pairs)}")
     print(f"Seçilen haber: {len(selected)}/3")
     for i, item in enumerate(selected, 1):
         sources = ", ".join(a.get("source", "?") for a in item["source_articles"])
@@ -290,7 +291,7 @@ def main() -> int:
         print(f"   Kapsama: {item['coverage_label']}")
     print(f"Çıktı: {OUTPUT_PATH.relative_to(ROOT)}")
     if len(multi_source) < 3:
-        print("UYARI: Üç çok kaynaklı olay bulunamadı; seçilen tek kaynaklı haberler manuel inceleme gerektirir.")
+        print("UYARI: Üç çok kaynaklı olay bulunamadı; tek kaynaklı haberlerle kota doldurulmadı.")
     return 0
 
 
