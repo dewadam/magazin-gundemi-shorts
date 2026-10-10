@@ -10,6 +10,12 @@
       "url": "https://www.magazinhaber.com.tr/rss",
       "enabled": false,
       "note": "This is an RSS directory page, not a verified direct feed URL. Keep disabled until the direct XML URL is confirmed."
+    },
+    {
+      "name": "Haber Hürriyeti Magazin",
+      "url": "https://www.haberhurriyeti.com/rss/kategori/magazin-haberleri",
+      "enabled": true,
+      "note": "İkinci bağımsız RSS kaynağı; gerçek çalışma sırasında erişilebilirliği kontrol edilir."
     }
   ],
   "settings": {
