@@ -58,10 +58,28 @@ def event_terms(title: str) -> set[str]:
     return result
 
 
+MONTHS = {"ocak", "subat", "mart", "nisan", "mayis", "haziran", "temmuz",
+          "agustos", "eylul", "ekim", "kasim", "aralik"}
+
+def explicit_date_marker(title: str) -> tuple[str, ...]:
+    """Capture explicit calendar dates and episode numbers from headlines."""
+    raw = normalize(title)
+    markers = []
+    for match in re.finditer(r"\\b(\\d{1,2})\\s+(ocak|subat|mart|nisan|mayis|haziran|temmuz|agustos|eylul|ekim|kasim|aralik)\\b", raw):
+        markers.append(match.group(1) + "-" + match.group(2))
+    for match in re.finditer(r"\\b(\\d{1,3})\\s+bolum\\b", raw):
+        markers.append("episode-" + match.group(1))
+    return tuple(sorted(set(markers)))
+
 def same_event(a: dict, b: dict) -> tuple[bool, float, str]:
     ta, tb = words(a.get("title", "")), words(b.get("title", ""))
     if not ta or not tb:
         return False, 0.0, "empty_title"
+    date_a, date_b = explicit_date_marker(a.get("title", "")), explicit_date_marker(b.get("title", ""))
+    if date_a and date_b and date_a != date_b:
+        # Different episode/day labels are separate stories even when the show terms overlap.
+        if any(x.startswith("episode-") for x in date_a + date_b) or any("-" in x for x in date_a + date_b):
+            return False, 0.0, "different_explicit_headline_date"
     # Title is authoritative for event identity; summaries may contain unrelated
     # recommendations, ads, or syndicated descriptions.
     shared = ta & tb
