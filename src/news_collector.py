@@ -20,14 +20,14 @@ USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/128.0.0.
 
 
 def clean_text(value: object) -> str:
-    return re.sub(r"\\s+", " ", re.sub(r"<[^>]+>", " ", str(value or ""))).strip()
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", str(value or ""))).strip()
 
 
 def normalize_title(value: str) -> str:
     value = str(value or "").replace("ı", "i").replace("İ", "i")
     value = unicodedata.normalize("NFKD", value.casefold())
     value = "".join(ch for ch in value if not unicodedata.combining(ch))
-    return re.sub(r"\\s+", " ", re.sub(r"[^a-z0-9]+", " ", value)).strip()
+    return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9]+", " ", value)).strip()
 
 
 def within_lookback(published_at: str | None, hours: int) -> bool:
