@@ -183,36 +183,35 @@ def select_top_stories(ranked, limit=3):
   if len(selected) >= limit: break
  return selected
 
-def expand_with_google_search(items, max_queries=25, results_per_query=25):
- # Start from Google News topic-page candidates, then search each promising event
- # directly in Google News to discover coverage that is not visible in the topic feed.
+def expand_with_google_search(items, max_queries=15, results_per_query=40):
+ # Google News topic results link to /read/ or /stories/ clusters. Open those
+ # clusters and collect their publisher articles; do not hammer the search endpoint
+ # with dozens of separate queries (which triggers HTTP 429).
  try:
-  from news_collector import search_google_news
+  from news_collector import fetch_google_news_source
  except ImportError:
-  from src.news_collector import search_google_news
- initial_ranked=rank(items)
- queries=[]
- seen_titles=set()
- for item in initial_ranked:
-  title=str(item.get('title','')).strip()
-  key=norm(title)
-  if title and key not in seen_titles:
-   seen_titles.add(key)
-   queries.append(title)
-  if len(queries)>=max_queries: break
+  from src.news_collector import fetch_google_news_source
  expanded=list(items)
  seen_urls={str(x.get('url','')) for x in expanded if x.get('url')}
- for title in queries:
+ queries=[]
+ for item in items:
+  url=str(item.get('url',''))
+  if ('/read/' in url or '/stories/' in url) and url not in {x.get('cluster_url') for x in queries}:
+   queries.append({'title':str(item.get('title','')), 'url':url})
+  if len(queries)>=max_queries: break
+ for index, query in enumerate(queries):
   try:
-   found=search_google_news(title, max_items=results_per_query)
+   found=fetch_google_news_source({'name':'Google News haber kümesi: '+query['title'][:80], 'url':query['url']}, results_per_query, 72)
    for item in found:
     url=str(item.get('url',''))
     if url and url not in seen_urls:
      seen_urls.add(url)
+     item['cluster_title']=query['title']
+     item['cluster_url']=query['url']
      expanded.append(item)
   except Exception as exc:
-   print(f'Google News olay araması atlandı: {title[:90]} | {str(exc)[:160]}')
- print(f'Google News ek olay araması: {len(queries)} sorgu | toplam aday: {len(expanded)}')
+   print(f'Google News haber kümesi okunamadı: {query["title"][:90]} | {str(exc)[:160]}')
+ print(f'Google News haber kümesi incelemesi: {len(queries)} küme | toplam aday: {len(expanded)}')
  return expanded
 
 def main():
