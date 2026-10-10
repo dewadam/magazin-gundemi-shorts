@@ -1,7 +1,7 @@
 import sys, unittest
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
-from news_ranker import compare, rank
+from news_ranker import compare, rank, select_top_stories
 
 def article(title, source, domain, summary="", role="publisher", date="2026-10-10T15:00:00+00:00"):
     return {"title":title,"source":source,"source_domain":domain,"url":"https://"+domain+"/"+str(abs(hash(title+source))),"summary":summary,"source_role":role,"published_at":date}
@@ -35,5 +35,19 @@ class MatchingTests(unittest.TestCase):
         a=article("Ünlü oyuncu evlendi nikah töreni","CNN","cnnturk.com")
         b=article("Ünlü oyuncu evlendi nikah töreni","Mynet","mynet.com")
         self.assertTrue(rank([a,b])[0]["possible_syndication"])
+
+    def test_three_distinct_single_publisher_events_can_be_selected(self):
+        items = [
+            article("Oyuncu A yeni projeye başladı", "CNN", "cnnturk.com", date="2026-10-10T18:00:00+00:00"),
+            article("Şarkıcı B konser tarihini açıkladı", "Mynet", "mynet.com", date="2026-10-10T17:00:00+00:00"),
+            article("Oyuncu C evlendi", "Habertürk", "haberturk.com", date="2026-10-10T16:00:00+00:00"),
+        ]
+        selected = select_top_stories(rank(items), 3)
+        self.assertEqual(len(selected), 3)
+        self.assertEqual(len({x["url"] for x in selected}), 3)
+
+    def test_discovery_only_items_are_not_selected(self):
+        item = article("Ünlü isimden açıklama", "Google News - keşif", "news.google.com", role="discovery_only")
+        self.assertEqual(select_top_stories(rank([item]), 3), [])
 
 if __name__=="__main__": unittest.main()
