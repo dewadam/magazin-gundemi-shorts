@@ -42,8 +42,9 @@ def plain(text: str) -> str:
 
 
 def tokens(item: dict) -> set[str]:
-    title = plain(item.get("title", ""))
-    return {t for t in title.split() if len(t) > 2 and t not in STOPWORDS}
+    # Başlıkların farklı olması aynı olayı iki ayrı Shorts olarak seçmemize yol açmasın.
+    text = plain(str(item.get("title", "")) + " " + str(item.get("summary", "")))
+    return {t for t in text.split() if len(t) > 2 and t not in STOPWORDS}
 
 
 def vague_title(title: str) -> bool:
@@ -55,11 +56,14 @@ def similarity(a: dict, b: dict) -> float:
     ta, tb = tokens(a), tokens(b)
     if not ta or not tb:
         return 0.0
-    jaccard = len(ta & tb) / len(ta | tb)
-    seq = SequenceMatcher(None, plain(a.get("title", "")), plain(b.get("title", ""))).ratio()
-    # Shared distinctive tokens often indicate the same person/event even when wording differs.
-    shared = len(ta & tb)
-    return max(jaccard, seq * 0.85, 0.72 if shared >= 2 and min(len(ta), len(tb)) <= 5 else 0.0)
+    shared = ta & tb
+    jaccard = len(shared) / len(ta | tb)
+    containment = len(shared) / min(len(ta), len(tb))
+    title_seq = SequenceMatcher(
+        None, plain(a.get("title", "")), plain(b.get("title", ""))
+    ).ratio()
+    # A high shared-context score can reveal one event reported with different headlines.
+    return max(jaccard, containment * 0.65, title_seq * 0.85)
 
 
 def parse_date(value: str | None) -> datetime | None:
@@ -150,7 +154,7 @@ def main() -> int:
                 "title": candidate.get("title"),
                 "url": candidate.get("url"),
                 "duplicate_of": duplicate_of.get("title"),
-                "reason": "Muhtemel aynı olay; otomatik benzerlik kontrolü"
+                "reason": "Başlık ve özet bağlamı benzer; otomatik olay eşleştirmesi, manuel kontrol gerekebilir"
             })
             continue
         selected.append(candidate)
@@ -161,7 +165,7 @@ def main() -> int:
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "selection_count": len(selected),
         "target_count": 3,
-        "note": "Otomatik puanlama ve benzerlik kontrolüdür. Haberlerin doğruluğu, kişi/olay bağlamı ve görsel kullanım hakları ayrıca doğrulanmalıdır. Otomatik seçim yayın onayı değildir.",
+        "note": "Sıralama başlık ve özet bağlamını kullanır; benzerlik kontrolü aynı olayın farklı başlıklarla tekrar seçilmesini azaltmayı amaçlar. Bu puanlama haber doğruluğu veya yayın onayı değildir; kişi/olay bağlamı ve görsel hakları ayrıca kontrol edilmelidir.",
         "items": selected,
         "possible_duplicates_skipped": rejected_duplicates,
     }
