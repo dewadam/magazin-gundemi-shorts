@@ -77,41 +77,59 @@ def background(url,path):
 def posters(item,article,imagepath,poster,thumb):
  source_image=background(article.get("image_url",""),imagepath)
  title=clean(item.get("title","Magazin gündemi"))
- im=Image.new("RGB",(W,H),(8,13,28)).convert("RGBA")
+ # Header: centered channel identity with a compact, decorated headline plaque.
+ im=Image.new("RGB",(W,H),(7,12,25)).convert("RGBA")
  d=ImageDraw.Draw(im)
- d.rectangle((0,0,W,230),fill=(13,19,37,255))
- d.rounded_rectangle((42,28,132,118),radius=22,fill=(246,201,92,255))
- d.text((54,37),"MG",font=fnt(42),fill=(16,22,42,255))
- d.text((150,40),"MAGAZİN GÜNDEMİ",font=fnt(37),fill=(246,201,92,255))
- d.text((152,84),"Her gün gündemde ne varsa!",font=fnt(23,False),fill=(235,238,245,255))
- title_font=fnt(35)
- lines=wrap(d,title,title_font,980)
+ d.rectangle((0,0,W,270),fill=(12,19,38,255))
+ d.rectangle((0,0,W,8),fill=(246,201,92,255))
+ logo_w=64; logo_x=(W-logo_w)//2
+ d.rounded_rectangle((logo_x,18,logo_x+logo_w,82),radius=16,fill=(246,201,92,255))
+ mg=fnt(34); box=d.textbbox((0,0),"MG",font=mg)
+ d.text((logo_x+(logo_w-(box[2]-box[0]))//2,29),"MG",font=mg,fill=(16,22,42,255))
+ brand="MAGAZİN GÜNDEMİ"; bf=fnt(34); bb=d.textbbox((0,0),brand,font=bf)
+ d.text(((W-(bb[2]-bb[0]))//2,89),brand,font=bf,fill=(246,201,92,255))
+ slogan="Her gün gündemde ne varsa!"; sf=fnt(21,False); sb=d.textbbox((0,0),slogan,font=sf)
+ d.text(((W-(sb[2]-sb[0]))//2,128),slogan,font=sf,fill=(235,238,245,255))
+ # Decorated headline plaque: centered, compact, never overlaps the celebrity image.
+ d.rounded_rectangle((34,158,1046,254),radius=22,fill=(25,34,57,255),outline=(246,201,92,255),width=3)
+ d.rounded_rectangle((34,158,47,254),radius=6,fill=(246,201,92,255))
+ tf=fnt(31); lines=wrap(d,title,tf,940)
  if len(lines)>2: lines=lines[:2]; lines[-1]=lines[-1].rstrip(" .…")+"…"
- y=139 if len(lines)==2 else 153
+ total_h=len(lines)*36; y=206-total_h//2
  for line in lines:
-  d.text((50,y),line,font=title_font,fill=(255,255,255,255))
-  y+=42
- photo=ImageOps.fit(source_image,(W,1320),method=Image.Resampling.LANCZOS).convert("RGB")
- im.paste(photo,(0,230))
+  b=d.textbbox((0,0),line,font=tf)
+  d.text(((W-(b[2]-b[0]))//2,y),line,font=tf,fill=(255,255,255,255),stroke_width=1,stroke_fill=(0,0,0,110))
+  y+=36
+ # Fit the whole source image without cutting off faces or bodies. Fill any unused space with a soft blurred version.
+ photo_bg=ImageOps.fit(source_image,(W,1280),method=Image.Resampling.LANCZOS).filter(ImageFilter.GaussianBlur(24)).convert("RGBA")
+ photo_bg=Image.alpha_composite(photo_bg,Image.new("RGBA",photo_bg.size,(7,12,25,75)))
+ im.paste(photo_bg,(0,270))
+ photo=ImageOps.contain(source_image,(W,1280),method=Image.Resampling.LANCZOS).convert("RGBA")
+ px=(W-photo.width)//2; py=270+(1280-photo.height)//2
+ im.paste(photo,(px,py),photo if photo.mode=="RGBA" else None)
+ # Bottom ticker strip: no subtitles and no duplicated static slogan.
  d=ImageDraw.Draw(im)
- d.rectangle((0,1550,W,H),fill=(8,12,24,255))
+ d.rectangle((0,1550,W,H),fill=(7,12,25,255))
  d.rectangle((0,1550,14,H),fill=(246,201,92,255))
- d.rounded_rectangle((36,1582,210,1640),radius=16,fill=(246,201,92,255))
- d.text((54,1592),"SON DAKİKA",font=fnt(25),fill=(16,22,42,255))
- d.text((40,1684),"MAGAZİN GÜNDEMİ  •  HER GÜN GÜNDEMDE NE VARSA!",font=fnt(27,False),fill=(246,201,92,255))
+ d.rounded_rectangle((36,1580,208,1638),radius=16,fill=(246,201,92,255))
+ d.text((52,1593),"GÜNDEM",font=fnt(25),fill=(16,22,42,255))
+ d.rectangle((28,1660,1052,1663),fill=(50,61,82,255))
+ d.text((40,1690),"MAGAZİN GÜNDEMİ",font=fnt(28),fill=(246,201,92,255))
  im.convert("RGB").save(poster,quality=92)
+ # Photo-forward thumbnail; preserve the full source photo in the main video.
  t=ImageOps.fit(source_image,(1280,720),method=Image.Resampling.LANCZOS).convert("RGBA")
  td=ImageDraw.Draw(t)
- td.rectangle((0,0,1280,116),fill=(8,12,24,235))
- td.rounded_rectangle((24,20,91,87),radius=15,fill=(246,201,92,255))
- td.text((34,27),"MG",font=fnt(32),fill=(16,22,42,255))
- td.text((108,27),"MAGAZİN GÜNDEMİ",font=fnt(31),fill=(246,201,92,255))
- td.rectangle((0,590,1280,720),fill=(8,12,24,235))
- lines=wrap(td,title,fnt(34),1200)
+ td.rectangle((0,0,1280,112),fill=(8,12,24,238))
+ td.rounded_rectangle((20,20,88,88),radius=15,fill=(246,201,92,255))
+ td.text((30,28),"MG",font=fnt(32),fill=(16,22,42,255))
+ brand="MAGAZİN GÜNDEMİ"; bf=fnt(31); bb=td.textbbox((0,0),brand,font=bf)
+ td.text((108,28),brand,font=bf,fill=(246,201,92,255))
+ td.rectangle((0,586,1280,720),fill=(8,12,24,240))
+ lines=wrap(td,title,fnt(34),1210)
  if len(lines)>2: lines=lines[:2]; lines[-1]=lines[-1].rstrip(" .…")+"…"
- y=604
+ y=600
  for line in lines:
-  td.text((30,y),line,font=fnt(34),fill=(255,255,255,255));y+=40
+  td.text((28,y),line,font=fnt(34),fill=(255,255,255,255));y+=40
  t.convert("RGB").save(thumb,quality=93)
 def narration(item,a):
  title=clean(item.get("title",""));desc=clean(a.get("description",""));body=clean(a.get("body",""))
