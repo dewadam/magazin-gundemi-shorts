@@ -1,7 +1,253 @@
 {
-  "generated_at": "2026-10-10T21:23:59.385235+00:00",
-  "checked_count": 0,
+  "generated_at": "2026-10-11T05:41:24.988396+00:00",
+  "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
-  "items": []
+  "items": [
+    {
+      "title": "Melike Şahin anne oldu: İlk bebeğini kucağına aldı",
+      "normalized_title": "melike sahin anne oldu ilk bebegini kucagina aldi",
+      "url": "https://www.cumhuriyet.com.tr/magazin/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-2545306",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.174522+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [
+        {
+          "source": "milliyet.com.tr",
+          "source_role": "publisher",
+          "source_domain": "milliyet.com.tr",
+          "title": "Melike Şahin anne oldu! İlk bebeğini kucağına aldı",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-7676234",
+          "published_at": null
+        }
+      ],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-2545306",
+          "title": "Melike Şahin anne oldu: İlk bebeğini kucağına aldı"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-7676234",
+          "title": "Melike Şahin anne oldu! İlk bebeğini kucağına aldı"
+        },
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/melike-sahin-anne-oldu-120165842",
+          "title": "Melike Şahin anne oldu"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "milliyet.com.tr",
+        "odatv.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Melike Şahin anne oldu: İlk bebeğini kucağına aldı - Son Dakika Magazin Haberleri | Cumhuriyet",
+        "og_title": "Melike Şahin anne oldu: İlk bebeğini kucağına aldı",
+        "description": "“Nasır”, “Diva Yorgun” ve “Canın Beni Çekti” şarkılarıyla tanınan Melike Şahin, ilk çocuğunu dünyaya getirdi. Erkek bebek sahibi olan şarkıcı ve eşi Sedat Arpalık’ın oğullarına vereceği isim henüz açıklanmadı.",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "title": "Melike Şahin anne oldu! İlk bebeğini kucağına aldı",
+          "summary": "",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-7676234",
+          "match_score": 1.0,
+          "shared_keywords": [
+            "ald",
+            "anne",
+            "bebegini",
+            "ilk",
+            "kucag",
+            "melike",
+            "sahin"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        },
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "title": "Melike Şahin anne oldu",
+          "summary": "",
+          "url": "https://www.odatv.com/magazin/melike-sahin-anne-oldu-120165842",
+          "match_score": 0.72,
+          "shared_keywords": [
+            "anne",
+            "melike",
+            "sahin"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Dokuzuncu Ameliyatının Ardından Danla Bilic Karantinaya Alındı!",
+      "normalized_title": "dokuzuncu ameliyatinin ardindan danla bilic karantinaya alindi",
+      "url": "https://onedio.com/haber/dokuzuncu-ameliyatinin-ardindan-danla-bilic-karantinaya-alindi-1387267",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.175334+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/dokuzuncu-ameliyatinin-ardindan-danla-bilic-karantinaya-alindi-1387267",
+          "title": "Dokuzuncu Ameliyatının Ardından Danla Bilic Karantinaya Alındı!"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-danla-bilic-karantinaya-alindi-1745488",
+          "title": "Danla Bilic karantinaya alındı"
+        },
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/danla-bilic-9-kez-ameliyat-oldu-hastanede-karantinaya-alindi-3477196",
+          "title": "Danla Bilic 9. kez ameliyat oldu! Hastanede karantinaya alındı"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com",
+        "ntv.com.tr",
+        "onedio.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Danla Bilic Neden Karantinaya Alındı? Danla Bilic Son Durumu - Onedio",
+        "og_title": "Dokuzuncu Ameliyatının Ardından Danla Bilic Karantinaya Alındı!",
+        "description": "Danla Bilic karantinaya alındı Dokuzuncu ameliyatını geçiren fenomen, sabah uyandığında karantinaya alındığını öğrendiğini duyurdu.",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "title": "Danla Bilic karantinaya alındı",
+          "summary": "",
+          "url": "https://www.ntv.com.tr/yasam/galeri-danla-bilic-karantinaya-alindi-1745488",
+          "match_score": 0.72,
+          "shared_keywords": [
+            "bilic",
+            "danla",
+            "karantinaya"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        },
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "title": "Danla Bilic 9. kez ameliyat oldu! Hastanede karantinaya alındı",
+          "summary": "",
+          "url": "https://www.cnnturk.com/magazin/galeri/danla-bilic-9-kez-ameliyat-oldu-hastanede-karantinaya-alindi-3477196",
+          "match_score": 0.51,
+          "shared_keywords": [
+            "ameliyat",
+            "bilic",
+            "danla",
+            "karantinaya"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Atilla Taş'ın Taziye Evine Ziyaret: Özgür Özel Mersin'de Acılı Aileyle Bir Araya Geldi",
+      "normalized_title": "atilla tas in taziye evine ziyaret ozgur ozel mersin de acili aileyle bir araya geldi",
+      "url": "https://onedio.com/haber/atilla-tas-in-taziye-evine-ziyaret-ozgur-ozel-mersin-de-acili-aileyle-bir-araya-geldi-1387395",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.173655+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/atilla-tas-in-taziye-evine-ziyaret-ozgur-ozel-mersin-de-acili-aileyle-bir-araya-geldi-1387395",
+          "title": "Atilla Taş'ın Taziye Evine Ziyaret: Özgür Özel Mersin'de Acılı Aileyle Bir Araya Geldi"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "source_page_reachable_no_second_source_match",
+      "publication_approved": false,
+      "coverage_label": "single_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Özgür Özel'den Atilla Taş'a Taziye Ziyareti - Onedio",
+        "og_title": "Atilla Taş'ın Taziye Evine Ziyaret: Özgür Özel Mersin'de Acılı Aileyle Bir Araya Geldi",
+        "description": "Özgür Özel, Mersin'de kızı Sezen Taş'ı kaybeden şarkıcı Atilla Taş'ın taziye evini ziyaret ederek başsağlığı diledi.",
+        "error": null
+      },
+      "independent_source_matches": [],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    }
+  ]
 }

@@ -1,11 +1,1308 @@
 {
-  "generated_at": "2026-10-10T21:23:59.244720+00:00",
-  "candidate_count": 100,
-  "event_group_count": 0,
-  "multi_publisher_event_count": 0,
-  "selection_count": 0,
+  "generated_at": "2026-10-11T05:41:23.566624+00:00",
+  "candidate_count": 99,
+  "event_group_count": 31,
+  "multi_publisher_event_count": 2,
+  "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
-  "items": [],
-  "event_groups_preview": []
+  "items": [
+    {
+      "title": "Melike Şahin anne oldu: İlk bebeğini kucağına aldı",
+      "normalized_title": "melike sahin anne oldu ilk bebegini kucagina aldi",
+      "url": "https://www.cumhuriyet.com.tr/magazin/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-2545306",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.174522+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [
+        {
+          "source": "milliyet.com.tr",
+          "source_role": "publisher",
+          "source_domain": "milliyet.com.tr",
+          "title": "Melike Şahin anne oldu! İlk bebeğini kucağına aldı",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-7676234",
+          "published_at": null
+        }
+      ],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-2545306",
+          "title": "Melike Şahin anne oldu: İlk bebeğini kucağına aldı"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-7676234",
+          "title": "Melike Şahin anne oldu! İlk bebeğini kucağına aldı"
+        },
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/melike-sahin-anne-oldu-120165842",
+          "title": "Melike Şahin anne oldu"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "milliyet.com.tr",
+        "odatv.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Dokuzuncu Ameliyatının Ardından Danla Bilic Karantinaya Alındı!",
+      "normalized_title": "dokuzuncu ameliyatinin ardindan danla bilic karantinaya alindi",
+      "url": "https://onedio.com/haber/dokuzuncu-ameliyatinin-ardindan-danla-bilic-karantinaya-alindi-1387267",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.175334+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/dokuzuncu-ameliyatinin-ardindan-danla-bilic-karantinaya-alindi-1387267",
+          "title": "Dokuzuncu Ameliyatının Ardından Danla Bilic Karantinaya Alındı!"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-danla-bilic-karantinaya-alindi-1745488",
+          "title": "Danla Bilic karantinaya alındı"
+        },
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/danla-bilic-9-kez-ameliyat-oldu-hastanede-karantinaya-alindi-3477196",
+          "title": "Danla Bilic 9. kez ameliyat oldu! Hastanede karantinaya alındı"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com",
+        "ntv.com.tr",
+        "onedio.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Atilla Taş'ın Taziye Evine Ziyaret: Özgür Özel Mersin'de Acılı Aileyle Bir Araya Geldi",
+      "normalized_title": "atilla tas in taziye evine ziyaret ozgur ozel mersin de acili aileyle bir araya geldi",
+      "url": "https://onedio.com/haber/atilla-tas-in-taziye-evine-ziyaret-ozgur-ozel-mersin-de-acili-aileyle-bir-araya-geldi-1387395",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.173655+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/atilla-tas-in-taziye-evine-ziyaret-ozgur-ozel-mersin-de-acili-aileyle-bir-araya-geldi-1387395",
+          "title": "Atilla Taş'ın Taziye Evine Ziyaret: Özgür Özel Mersin'de Acılı Aileyle Bir Araya Geldi"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    }
+  ],
+  "event_groups_preview": [
+    {
+      "title": "Melike Şahin anne oldu: İlk bebeğini kucağına aldı",
+      "normalized_title": "melike sahin anne oldu ilk bebegini kucagina aldi",
+      "url": "https://www.cumhuriyet.com.tr/magazin/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-2545306",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.174522+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [
+        {
+          "source": "milliyet.com.tr",
+          "source_role": "publisher",
+          "source_domain": "milliyet.com.tr",
+          "title": "Melike Şahin anne oldu! İlk bebeğini kucağına aldı",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-7676234",
+          "published_at": null
+        }
+      ],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-2545306",
+          "title": "Melike Şahin anne oldu: İlk bebeğini kucağına aldı"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-7676234",
+          "title": "Melike Şahin anne oldu! İlk bebeğini kucağına aldı"
+        },
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/melike-sahin-anne-oldu-120165842",
+          "title": "Melike Şahin anne oldu"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "milliyet.com.tr",
+        "odatv.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Dokuzuncu Ameliyatının Ardından Danla Bilic Karantinaya Alındı!",
+      "normalized_title": "dokuzuncu ameliyatinin ardindan danla bilic karantinaya alindi",
+      "url": "https://onedio.com/haber/dokuzuncu-ameliyatinin-ardindan-danla-bilic-karantinaya-alindi-1387267",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.175334+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/dokuzuncu-ameliyatinin-ardindan-danla-bilic-karantinaya-alindi-1387267",
+          "title": "Dokuzuncu Ameliyatının Ardından Danla Bilic Karantinaya Alındı!"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-danla-bilic-karantinaya-alindi-1745488",
+          "title": "Danla Bilic karantinaya alındı"
+        },
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/danla-bilic-9-kez-ameliyat-oldu-hastanede-karantinaya-alindi-3477196",
+          "title": "Danla Bilic 9. kez ameliyat oldu! Hastanede karantinaya alındı"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com",
+        "ntv.com.tr",
+        "onedio.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Atilla Taş'ın Taziye Evine Ziyaret: Özgür Özel Mersin'de Acılı Aileyle Bir Araya Geldi",
+      "normalized_title": "atilla tas in taziye evine ziyaret ozgur ozel mersin de acili aileyle bir araya geldi",
+      "url": "https://onedio.com/haber/atilla-tas-in-taziye-evine-ziyaret-ozgur-ozel-mersin-de-acili-aileyle-bir-araya-geldi-1387395",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.173655+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/atilla-tas-in-taziye-evine-ziyaret-ozgur-ozel-mersin-de-acili-aileyle-bir-araya-geldi-1387395",
+          "title": "Atilla Taş'ın Taziye Evine Ziyaret: Özgür Özel Mersin'de Acılı Aileyle Bir Araya Geldi"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Atilla Taş kızını toprağa verdi! Sezen Taş'ın eski eşi Uğur Haliloğlu ilk kez konuştu",
+      "normalized_title": "atilla tas kizini topraga verdi sezen tas in eski esi ugur haliloglu ilk kez konustu",
+      "url": "https://www.milliyet.com.tr/magazin/atilla-tas-kizini-topraga-verdi-sezen-tasin-eski-esi-ugur-haliloglu-ilk-kez-konustu-7676979",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.173773+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/atilla-tas-kizini-topraga-verdi-sezen-tasin-eski-esi-ugur-haliloglu-ilk-kez-konustu-7676979",
+          "title": "Atilla Taş kızını toprağa verdi! Sezen Taş'ın eski eşi Uğur Haliloğlu ilk kez konuştu"
+        }
+      ],
+      "publisher_domains": [
+        "milliyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Seray Sever, Kızını Kaybeden Atilla Taş’ın Erol Köse Hakkındaki Sözlerini Hatırlattı: \"Ne Kadar Acı Bir Şey!",
+      "normalized_title": "seray sever kizini kaybeden atilla tas in erol kose hakkindaki sozlerini hatirlatti ne kadar aci bir sey",
+      "url": "https://onedio.com/haber/seray-sever-kizini-kaybeden-atilla-tas-in-erol-kose-hakkindaki-sozlerini-hatirlatti-buyuk-konusmayacaksin-1387389",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.173861+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/seray-sever-kizini-kaybeden-atilla-tas-in-erol-kose-hakkindaki-sozlerini-hatirlatti-buyuk-konusmayacaksin-1387389",
+          "title": "Seray Sever, Kızını Kaybeden Atilla Taş’ın Erol Köse Hakkındaki Sözlerini Hatırlattı: \"Ne Kadar Acı Bir Şey!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Şarkıcı Lara'dan Atilla Taş'ın acısına sessiz kalan ünlülere tepki",
+      "normalized_title": "sarkici lara dan atilla tas in acisina sessiz kalan unlulere tepki",
+      "url": "https://www.sozcu.com.tr/lara-atilla-tas-tepkisi-p367733",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.173920+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/lara-atilla-tas-tepkisi-p367733",
+          "title": "Şarkıcı Lara'dan Atilla Taş'ın acısına sessiz kalan ünlülere tepki"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Şahsi becerilerle 3 altın puan - Erman Toroğlu",
+      "normalized_title": "sahsi becerilerle 3 altin puan erman toroglu",
+      "url": "https://www.sozcu.com.tr/sahsi-becerilerle-3-altin-puan-p367968",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.173971+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/sahsi-becerilerle-3-altin-puan-p367968",
+          "title": "Şahsi becerilerle 3 altın puan - Erman Toroğlu"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Oyuncu Necla Uygur son yolculuğuna uğurlandı",
+      "normalized_title": "oyuncu necla uygur son yolculuguna ugurlandi",
+      "url": "https://www.cumhuriyet.com.tr/turkiye/oyuncu-necla-uygur-son-yolculuguna-ugurlandi-2545211",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.174024+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/oyuncu-necla-uygur-son-yolculuguna-ugurlandi-2545211",
+          "title": "Oyuncu Necla Uygur son yolculuğuna uğurlandı"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "İpek Tanrıyar'dan cenazedeki kıyafetiyle ilgili açıklama. \"Keşke biri beni uyarsaydı\"",
+      "normalized_title": "ipek tanriyar dan cenazedeki kiyafetiyle ilgili aciklama keske biri beni uyarsaydi",
+      "url": "https://www.ntv.com.tr/yasam/galeri-ipek-tanriyardan-cenazedeki-kiyafetiyle-ilgili-aciklama-keske-biri-beni-uyarsaydi-1745713",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.174094+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-ipek-tanriyardan-cenazedeki-kiyafetiyle-ilgili-aciklama-keske-biri-beni-uyarsaydi-1745713",
+          "title": "İpek Tanrıyar'dan cenazedeki kıyafetiyle ilgili açıklama. \"Keşke biri beni uyarsaydı\""
+        }
+      ],
+      "publisher_domains": [
+        "ntv.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ünlü oyuncu Necla Uygur'a veda: 'Sıra bende' demişti",
+      "normalized_title": "unlu oyuncu necla uygur a veda sira bende demisti",
+      "url": "https://www.haberturk.com/magazin/unlu-oyuncu-necla-uygur-a-veda-sira-bende-demisti-3918497",
+      "source": "haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.174146+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/unlu-oyuncu-necla-uygur-a-veda-sira-bende-demisti-3918497",
+          "title": "Ünlü oyuncu Necla Uygur'a veda: 'Sıra bende' demişti"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Necla Uygur’a torunu Desen Uygur'dan duygusal mektup: Baba bir anneyi kaybettim",
+      "normalized_title": "necla uygur a torunu desen uygur dan duygusal mektup baba bir anneyi kaybettim",
+      "url": "https://www.milliyet.com.tr/magazin/necla-uygura-torunu-desen-uygurdan-duygusal-mektup-baba-bir-anneyi-kaybettim-7676641",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.174204+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/necla-uygura-torunu-desen-uygurdan-duygusal-mektup-baba-bir-anneyi-kaybettim-7676641",
+          "title": "Necla Uygur’a torunu Desen Uygur'dan duygusal mektup: Baba bir anneyi kaybettim"
+        }
+      ],
+      "publisher_domains": [
+        "milliyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Eylül Ersöz: Ben hep mücadeleci oldum",
+      "normalized_title": "eylul ersoz ben hep mucadeleci oldum",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/eylul-ersoz-ben-hep-mucadeleci-oldum-43337255",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.174249+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/eylul-ersoz-ben-hep-mucadeleci-oldum-43337255",
+          "title": "Eylül Ersöz: Ben hep mücadeleci oldum"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Dilber Ay'ın eşi İbrahim Karakaş ikinci kez evlendi: 'Dilber’in acısını Müge ile yendim'",
+      "normalized_title": "dilber ay in esi ibrahim karakas ikinci kez evlendi dilber in acisini muge ile yendim",
+      "url": "https://www.odatv.com/magazin/dilber-ayin-esi-ibrahim-karakas-ikinci-kez-evlendi-120165959",
+      "source": "odatv.com",
+      "source_role": "publisher",
+      "source_domain": "odatv.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.174314+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/dilber-ayin-esi-ibrahim-karakas-ikinci-kez-evlendi-120165959",
+          "title": "Dilber Ay'ın eşi İbrahim Karakaş ikinci kez evlendi: 'Dilber’in acısını Müge ile yendim'"
+        }
+      ],
+      "publisher_domains": [
+        "odatv.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Sürpriz nikah fotoğraflarla ortaya çıkmıştı... Dilber Ay'ın kızından evliliğe tepki",
+      "normalized_title": "surpriz nikah fotograflarla ortaya cikmisti dilber ay in kizindan evlilige tepki",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/surpriz-nikah-fotograflarla-ortaya-cikmisti-dilber-ayin-kizindan-evlilige-tepki-43336250",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.174372+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/surpriz-nikah-fotograflarla-ortaya-cikmisti-dilber-ayin-kizindan-evlilige-tepki-43336250",
+          "title": "Sürpriz nikah fotoğraflarla ortaya çıkmıştı... Dilber Ay'ın kızından evliliğe tepki"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "İbrahim Karakaş'tan Dilber Ay'ın kızına yanıt: Bunlar yüzünden eşim terk etti",
+      "normalized_title": "ibrahim karakas tan dilber ay in kizina yanit bunlar yuzunden esim terk etti",
+      "url": "https://www.haberturk.com/magazin/foto/ibrahim-karakas-tan-dilber-ay-in-kizina-yanit-3918666",
+      "source": "haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.174430+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/ibrahim-karakas-tan-dilber-ay-in-kizina-yanit-3918666",
+          "title": "İbrahim Karakaş'tan Dilber Ay'ın kızına yanıt: Bunlar yüzünden eşim terk etti"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Eleştiriler sonrası terk edildi",
+      "normalized_title": "elestiriler sonrasi terk edildi",
+      "url": "https://www.sabah.com.tr/magazin/elestiriler-sonrasi-terk-edildi-7678107",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.174473+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/magazin/elestiriler-sonrasi-terk-edildi-7678107",
+          "title": "Eleştiriler sonrası terk edildi"
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Melike Şahin'in eşi kaç yaşında? Melike Şahin'in eşi kimdir?",
+      "normalized_title": "melike sahin in esi kac yasinda melike sahin in esi kimdir",
+      "url": "https://www.bursadabugun.com/haber/melike-sahin-in-esi-kac-yasinda-melike-sahin-in-esi-kimdir-1955146.html",
+      "source": "bursadabugun.com",
+      "source_role": "publisher",
+      "source_domain": "bursadabugun.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.174575+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "bursadabugun.com",
+          "source_domain": "bursadabugun.com",
+          "url": "https://www.bursadabugun.com/haber/melike-sahin-in-esi-kac-yasinda-melike-sahin-in-esi-kimdir-1955146.html",
+          "title": "Melike Şahin'in eşi kaç yaşında? Melike Şahin'in eşi kimdir?"
+        }
+      ],
+      "publisher_domains": [
+        "bursadabugun.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Kızılcık Şerbeti'nin Çimen'i de Kadroda: Exxen'in Sevilen Dizisi Karma Yıldızlarla Dolu 2. Sezonuyla Döndü!",
+      "normalized_title": "kizilcik serbeti nin cimen i de kadroda exxen in sevilen dizisi karma yildizlarla dolu 2 sezonuyla dondu",
+      "url": "https://onedio.com/haber/kizilcik-serbeti-nin-cimen-i-de-kadroda-exxen-in-sevilen-dizisi-karma-yildizlarla-dolu-2-sezonuyla-dondu-1387236",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.174739+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/kizilcik-serbeti-nin-cimen-i-de-kadroda-exxen-in-sevilen-dizisi-karma-yildizlarla-dolu-2-sezonuyla-dondu-1387236",
+          "title": "Kızılcık Şerbeti'nin Çimen'i de Kadroda: Exxen'in Sevilen Dizisi Karma Yıldızlarla Dolu 2. Sezonuyla Döndü!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Karma’nın ikinci sezonu Exxen'de yayında",
+      "normalized_title": "karma nin ikinci sezonu exxen de yayinda",
+      "url": "https://www.odatv.com/medya/karmanin-yeni-sezonu-yayinda-120165930",
+      "source": "odatv.com",
+      "source_role": "publisher",
+      "source_domain": "odatv.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.174783+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/medya/karmanin-yeni-sezonu-yayinda-120165930",
+          "title": "Karma’nın ikinci sezonu Exxen'de yayında"
+        }
+      ],
+      "publisher_domains": [
+        "odatv.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "SELİN TÜRKMEN KİMDİR, KAÇ YAŞINDA? SELİN TÜRKMEN OLAYI NE, SELİN TÜRKMEN HANGİ DİZİLERDE OYNADI?",
+      "normalized_title": "selin turkmen kimdir kac yasinda selin turkmen olayi ne selin turkmen hangi dizilerde oynadi",
+      "url": "https://www.posta.com.tr/galeri/selin-turkmen-kimdir-kac-yasinda-selin-turkmen-olayi-ne-selin-turkmen-hangi-dizilerde-oynadi-3049915",
+      "source": "posta.com.tr",
+      "source_role": "publisher",
+      "source_domain": "posta.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.174847+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "posta.com.tr",
+          "source_domain": "posta.com.tr",
+          "url": "https://www.posta.com.tr/galeri/selin-turkmen-kimdir-kac-yasinda-selin-turkmen-olayi-ne-selin-turkmen-hangi-dizilerde-oynadi-3049915",
+          "title": "SELİN TÜRKMEN KİMDİR, KAÇ YAŞINDA? SELİN TÜRKMEN OLAYI NE, SELİN TÜRKMEN HANGİ DİZİLERDE OYNADI?"
+        }
+      ],
+      "publisher_domains": [
+        "posta.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Berna Laçin hakkında İzmir paylaşımı nedeniyle soruşturma açıldı",
+      "normalized_title": "berna lacin hakkinda izmir paylasimi nedeniyle sorusturma acildi",
+      "url": "https://www.bbc.com/turkce/articles/c687zx901xdno",
+      "source": "bbc.com",
+      "source_role": "publisher",
+      "source_domain": "bbc.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.174899+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "bbc.com",
+          "source_domain": "bbc.com",
+          "url": "https://www.bbc.com/turkce/articles/c687zx901xdno",
+          "title": "Berna Laçin hakkında İzmir paylaşımı nedeniyle soruşturma açıldı"
+        }
+      ],
+      "publisher_domains": [
+        "bbc.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "İyi ki tutuklanmadı",
+      "normalized_title": "iyi ki tutuklanmadi",
+      "url": "https://www.sabah.com.tr/yazarlar/salih-tuna/2026/10/10/iyi-ki-tutuklanmadi",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.174936+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/yazarlar/salih-tuna/2026/10/10/iyi-ki-tutuklanmadi",
+          "title": "İyi ki tutuklanmadı"
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Berna Laçin hakkında yeni gelişme! İfadesi ortaya çıktı",
+      "normalized_title": "berna lacin hakkinda yeni gelisme ifadesi ortaya cikti",
+      "url": "https://www.haber7.com/guncel/haber/3666164-berna-lacin-hakkinda-yeni-gelisme-ifadesi-ortaya-cikti",
+      "source": "haber7.com",
+      "source_role": "publisher",
+      "source_domain": "haber7.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.174985+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haber7.com",
+          "source_domain": "haber7.com",
+          "url": "https://www.haber7.com/guncel/haber/3666164-berna-lacin-hakkinda-yeni-gelisme-ifadesi-ortaya-cikti",
+          "title": "Berna Laçin hakkında yeni gelişme! İfadesi ortaya çıktı"
+        }
+      ],
+      "publisher_domains": [
+        "haber7.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Son dakika... Berna Laçin tutuklama talebiyle mahkemeye sevk edildi",
+      "normalized_title": "son dakika berna lacin tutuklama talebiyle mahkemeye sevk edildi",
+      "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-berna-lacin-tutuklama-talebiyle-mahkemeye-sevk-edildi-2544861",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.175035+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-berna-lacin-tutuklama-talebiyle-mahkemeye-sevk-edildi-2544861",
+          "title": "Son dakika... Berna Laçin tutuklama talebiyle mahkemeye sevk edildi"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Hande Erçel dünyaya açılıyor",
+      "normalized_title": "hande ercel dunyaya aciliyor",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/hande-ercel-dunyaya-aciliyor-43336244",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.175075+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/hande-ercel-dunyaya-aciliyor-43336244",
+          "title": "Hande Erçel dünyaya açılıyor"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ödüllü yönetmenin başrolü oldu",
+      "normalized_title": "odullu yonetmenin basrolu oldu",
+      "url": "https://www.milliyet.com.tr/magazin/odullu-yonetmenin-basrolu-oldu-7676611",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.175115+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/odullu-yonetmenin-basrolu-oldu-7676611",
+          "title": "Ödüllü yönetmenin başrolü oldu"
+        }
+      ],
+      "publisher_domains": [
+        "milliyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Hande Erçel'e Oscar adaylı yönetmenden başrol",
+      "normalized_title": "hande ercel e oscar adayli yonetmenden basrol",
+      "url": "https://www.odatv.com/kultur-sanat/hande-ercel-nader-saeivarin-diaspora-filminde-basrol-oynayacak-120165943",
+      "source": "odatv.com",
+      "source_role": "publisher",
+      "source_domain": "odatv.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.175158+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/kultur-sanat/hande-ercel-nader-saeivarin-diaspora-filminde-basrol-oynayacak-120165943",
+          "title": "Hande Erçel'e Oscar adaylı yönetmenden başrol"
+        }
+      ],
+      "publisher_domains": [
+        "odatv.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Nader Saeivar kimdir? Yönetmen Nader Saeivar filmleri, ödülleri ve yeni projesi \"Diaspora\"nın konusu nedir?",
+      "normalized_title": "nader saeivar kimdir yonetmen nader saeivar filmleri odulleri ve yeni projesi diaspora nin konusu nedir",
+      "url": "https://www.ilerigazetesi.com.tr/nader-saeivar-kimdir-yonetmen-nader-saeivar-filmleri-odulleri-ve-yeni-projesi-diasporanin-konusu-nedir",
+      "source": "ilerigazetesi.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ilerigazetesi.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.175223+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ilerigazetesi.com.tr",
+          "source_domain": "ilerigazetesi.com.tr",
+          "url": "https://www.ilerigazetesi.com.tr/nader-saeivar-kimdir-yonetmen-nader-saeivar-filmleri-odulleri-ve-yeni-projesi-diasporanin-konusu-nedir",
+          "title": "Nader Saeivar kimdir? Yönetmen Nader Saeivar filmleri, ödülleri ve yeni projesi \"Diaspora\"nın konusu nedir?"
+        }
+      ],
+      "publisher_domains": [
+        "ilerigazetesi.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Silinmeden Yetişin: 3-10 Ekim'de Ünlülerin Paylaştığı \"Kaçarsa Yazık Olur\" Temalı Instagram Hikayeleri",
+      "normalized_title": "silinmeden yetisin 3 10 ekim de unlulerin paylastigi kacarsa yazik olur temali instagram hikayeleri",
+      "url": "https://onedio.com/haber/silinmeden-yetisin-3-10-ekim-de-unlulerin-paylastigi-kacarsa-yazik-olur-temali-instagram-hikayeleri-1387448",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.175288+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/silinmeden-yetisin-3-10-ekim-de-unlulerin-paylastigi-kacarsa-yazik-olur-temali-instagram-hikayeleri-1387448",
+          "title": "Silinmeden Yetişin: 3-10 Ekim'de Ünlülerin Paylaştığı \"Kaçarsa Yazık Olur\" Temalı Instagram Hikayeleri"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Danla Bilic neden hastanede? Danla Bilic neden ameliyat oldu?",
+      "normalized_title": "danla bilic neden hastanede danla bilic neden ameliyat oldu",
+      "url": "https://www.hurriyet.com.tr/bilgi/galeri/danla-bilic-neden-hastanede-danla-bilic-neden-ameliyat-oldu-43333727",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T05:41:02.175416+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/bilgi/galeri/danla-bilic-neden-hastanede-danla-bilic-neden-ameliyat-oldu-43333727",
+          "title": "Danla Bilic neden hastanede? Danla Bilic neden ameliyat oldu?"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    }
+  ]
 }
