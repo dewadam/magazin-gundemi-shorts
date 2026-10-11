@@ -67,7 +67,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news_latest.json data/selected_news.json data/verification_queue.json
+          git add data/news_latest.json data/selected_news.json data/verification_queue.json data/youtube_upload_history.json
           if ! git diff --cached --quiet; then
             git commit -m "Update daily magazine news reports" || true
             git push || echo "Reports saved as artifact; branch push was not possible."
