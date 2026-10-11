@@ -14,7 +14,7 @@ permissions:
   contents: write
 concurrency:
   group: daily-magazin-shorts
-  cancel-in-progress: true
+  cancel-in-progress: false
 jobs:
   produce:
     runs-on: ubuntu-latest
