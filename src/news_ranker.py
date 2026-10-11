@@ -186,14 +186,14 @@ def select_top_stories(ranked, limit=3):
   if len(selected) >= limit: break
  return selected
 
-def expand_with_google_search(items, max_queries=15, results_per_query=40):
+def expand_with_google_search(items, max_queries=8, results_per_query=25):
  # Google News topic results link to /read/ or /stories/ clusters. Open those
  # clusters and collect their publisher articles; do not hammer the search endpoint
  # with dozens of separate queries (which triggers HTTP 429).
  try:
-  from news_collector import fetch_google_news_source, search_gdelt_news
+  from news_collector import fetch_google_news_source, search_google_news
  except ImportError:
-  from src.news_collector import fetch_google_news_source, search_gdelt_news
+  from src.news_collector import fetch_google_news_source, search_google_news
  expanded=list(items)
  seen_urls={str(x.get('url','')) for x in expanded if x.get('url')}
  queries=[]
@@ -222,10 +222,11 @@ def expand_with_google_search(items, max_queries=15, results_per_query=40):
       cluster_count+=1
    except Exception as exc:
     print(f'Google News hikâye kümesi okunamadı: {query["title"][:90]} | {str(exc)[:160]}')
-  # Google cluster pages do not always expose their complete publisher list in
-  # server-rendered HTML. Search a separate indexed-news database as a fallback.
+  # Search Google News itself for the candidate event. This avoids hammering
+  # the public GDELT endpoint, which rate-limits bursts, and uses the same
+  # multi-publisher news index the user requested.
   try:
-   found=search_gdelt_news(query['title'], max_items=results_per_query)
+   found=search_google_news(query['title'], max_items=results_per_query)
    for item in found:
     link=str(item.get('url',''))
     if link and link not in seen_urls:
@@ -234,7 +235,7 @@ def expand_with_google_search(items, max_queries=15, results_per_query=40):
      expanded.append(item)
      publisher_count+=1
   except Exception as exc:
-   print(f'Web haber indeksi araması atlandı: {query["title"][:90]} | {str(exc)[:160]}')
+   print(f'Google News olay araması atlandı: {query["title"][:90]} | {str(exc)[:160]}')
  print(f'Google News küme makalesi: {cluster_count} | web haber indeksi makalesi: {publisher_count} | toplam aday: {len(expanded)}')
  return expanded
 
