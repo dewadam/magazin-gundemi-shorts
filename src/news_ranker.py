@@ -167,7 +167,11 @@ def topic_key(item):
  return ''
 
 def select_top_stories(ranked, limit=3):
- """Select distinct events; cap any named reality show at one story per daily shortlist."""
+ """Select distinct events; guard against duplicate coverage that escaped clustering."""
+ try:
+  from event_matcher import same_event
+ except ImportError:
+  from src.event_matcher import same_event
  selected=[]
  seen_urls=set()
  seen_topics=set()
@@ -179,6 +183,10 @@ def select_top_stories(ranked, limit=3):
    continue
   topic=topic_key(item)
   if topic and topic in seen_topics:
+   continue
+  # The grouping step is conservative; this second check prevents near-identical
+  # headlines about the same event being selected twice when cluster members differ.
+  if any(same_event(item, chosen)[0] for chosen in selected):
    continue
   selected.append(item)
   if url: seen_urls.add(url)
