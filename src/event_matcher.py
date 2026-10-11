@@ -44,8 +44,19 @@ def normalize(value: str) -> str:
     return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9]+", " ", value)).strip()
 
 
+TOKEN_ALIASES = {
+    "ameliyatinin": "ameliyat", "ameliyatini": "ameliyat",
+    "ameliyati": "ameliyat", "ameliyatina": "ameliyat",
+    "karantinaya": "karantina", "karantinada": "karantina",
+    "hastanede": "hastane", "hastaneye": "hastane", "hastanesinde": "hastane",
+}
+
 def words(value: str) -> set[str]:
-    return {w for w in normalize(value).split() if len(w) > 2 and w not in GENERIC}
+    return {
+        TOKEN_ALIASES.get(w, w)
+        for w in normalize(value).split()
+        if len(w) > 2 and w not in GENERIC
+    }
 
 
 def event_terms(title: str) -> set[str]:
