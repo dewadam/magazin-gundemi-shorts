@@ -13,8 +13,8 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: daily-magazin-shorts
-  cancel-in-progress: false
+  group: daily-magazin-shorts-v2
+  cancel-in-progress: true
 jobs:
   produce:
     runs-on: ubuntu-latest
