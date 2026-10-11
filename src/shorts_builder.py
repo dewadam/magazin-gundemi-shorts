@@ -43,7 +43,7 @@ def article_data(item):
  url=str(item.get("url") or "")
  if not url.startswith(("https://","http://")):return {}, "invalid URL"
  try:
-  p=Parser();p.feed(fetch(url)); body=" ".join(p.ps[:10])
+  p=Parser();p.feed(fetch(url)); body=" ".join(p.ps[:24])
   desc=p.meta.get("og:description") or p.meta.get("description") or p.meta.get("twitter:description") or (body[:900] if body else "")
   img=p.meta.get("og:image") or p.meta.get("twitter:image") or ""
   return {"page_title":clean(p.meta.get("og:title") or " ".join(p.title) or item.get("title")),"description":clean(desc),"image_url":urllib.parse.urljoin(url,img) if img else "","body":body,"url":url}, ""
@@ -135,43 +135,44 @@ def narration(item,a):
  title=clean(item.get("title",""))
  desc=clean(a.get("description",""))
  body=clean(a.get("body",""))
- # Build a story from the article text; never narrate filler such as "kaynak haberde".
  boilerplate=[
   "devamı için tıklayın","haberimizin devamı","haberin devamı","detaylar için tıklayın",
   "kaynak haberde yer alıyor","kaynak haberi okuyabilirsiniz","bizi takip etmeyi unutmayın",
-  "abone olmayı unutmayın","tüm hakları saklıdır","reklam","çerez politikası",
-  "bu içerik","ilgili haberler","daha fazlası için"
+  "abone olmayı unutmayın","tüm hakları saklıdır","çerez politikası","ilgili haberler",
+  "daha fazlası için","reklam","foto galerisi","videoyu izlemek için"
  ]
  def useful(s):
-  s=clean(s)
-  low=s.casefold()
-  if len(s)<45 or len(s)>650:return False
+  s=clean(s);low=s.casefold()
+  if len(s)<45 or len(s)>900 or len(s.split())<8:return False
   if any(x in low for x in boilerplate):return False
-  if low in title.casefold() or len(s.split())<8:return False
+  if low in title.casefold():return False
   return True
+ # Prefer the article body; use metadata only if the publisher blocks the body.
  paragraphs=[]
- for p in re.split(r"(?<=[.!?])\s+",body):
+ for p in re.split(r"(?<=[.!?])\\s+",body):
+  p=clean(p)
   if useful(p) and p not in paragraphs:paragraphs.append(p)
- # Prefer actual article paragraphs. The meta description is only a fallback.
- if not paragraphs and useful(desc):
-  paragraphs=[desc]
+ if not paragraphs and useful(desc):paragraphs=[desc]
  if not title or not paragraphs:return ""
- # Keep concrete details from the article, avoid generic claims or invented context.
- chosen=[];words=0
+ # Build a fuller 40–60 second report from several concrete article details.
+ # Avoid reading an entire article verbatim: use a short quote only if the source
+ # itself contains a clearly marked quotation, then report the remaining details.
+ selected=[];total=0
  for p in paragraphs:
   n=len(p.split())
-  if words+n>88 and chosen:break
-  chosen.append(p);words+=n
-  if words>=58:break
- if words<24:return ""
- story=" ".join(chosen).strip()
- # Remove a trailing ellipsis that may come from truncated metadata.
- story=re.sub(r"(?:\s*…|\.\.\.)$","",story).strip()
- intro=f"{title}. "
- outro=" Magazin Gündemi olarak gelişmeleri aktarmaya devam edeceğiz."
- script=intro+story.rstrip(".")+"."
- script=script+outro+" Her gün gündemde ne varsa!"
- return script
+  if total+n>112 and selected:break
+  selected.append(p);total+=n
+  if total>=92:break
+ if total<35:return ""
+ story=" ".join(selected).strip()
+ story=re.sub(r"(?:\\s*…|\\.\\.\\.)$","",story).strip()
+ # Remove the article title if the body repeats it at the start.
+ story=re.sub(r"^"+re.escape(title)+r"[.:,!?\\s-]*","",story,flags=re.I).strip()
+ if len(story.split())<30:return ""
+ # Presenter-style intro and close, without the empty "kaynak haberde" filler.
+ intro=f"Magazin Gündemi'nde bugün: {title}. "
+ outro=" Gelişmeleri aktarmaya devam edeceğiz. Her gün gündemde ne varsa!"
+ return intro+story.rstrip(".")+"."+outro
 
 def cmd(args):subprocess.run(args,check=True,stdout=subprocess.PIPE,stderr=subprocess.PIPE)
 def duration(path):
