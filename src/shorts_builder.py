@@ -196,21 +196,40 @@ def main():
  for child in OUT.iterdir():
   if child.is_dir():shutil.rmtree(child)
   else:child.unlink()
- # Generate channel branding assets alongside the daily video set.
+ # Generate a matched navy-and-gold logo, YouTube banner and channel description.
  brand=OUT/"branding";brand.mkdir(parents=True,exist_ok=True)
- icon=Image.new("RGB",(800,800),(16,22,42));idraw=ImageDraw.Draw(icon)
- idraw.ellipse((55,55,745,745),fill=(246,201,92),outline=(255,255,255),width=8)
- idraw.text((168,205),"MG",font=fnt(230),fill=(16,22,42))
- idraw.text((140,490),"MAGAZİN",font=fnt(68),fill=(16,22,42))
- idraw.text((165,575),"GÜNDEMİ",font=fnt(68),fill=(16,22,42))
+ icon=Image.new("RGB",(800,800),(7,12,25));idraw=ImageDraw.Draw(icon)
+ idraw.ellipse((35,35,765,765),fill=(10,19,39),outline=(246,201,92),width=15)
+ idraw.ellipse((58,58,742,742),outline=(190,139,42),width=4)
+ idraw.polygon([(265,210),(300,145),(355,205),(400,125),(445,205),(500,145),(535,210),(520,250),(280,250)],fill=(246,201,92))
+ mg=fnt(230);mb=idraw.textbbox((0,0),"MG",font=mg)
+ idraw.text(((800-(mb[2]-mb[0]))//2,230),"MG",font=mg,fill=(246,201,92),stroke_width=2,stroke_fill=(255,235,170))
+ idraw.line((130,490,670,490),fill=(246,201,92),width=5)
+ for text,y in [("MAGAZİN",510),("GÜNDEMİ",570)]:
+  ft=fnt(54);tb=idraw.textbbox((0,0),text,font=ft)
+  idraw.text(((800-(tb[2]-tb[0]))//2,y),text,font=ft,fill=(255,255,255))
+ slogan="Her gün gündemde ne varsa!";sf=fnt(24,False);sb=idraw.textbbox((0,0),slogan,font=sf)
+ idraw.text(((800-(sb[2]-sb[0]))//2,655),slogan,font=sf,fill=(246,201,92))
  icon.save(brand/"channel-icon.png")
- banner=Image.new("RGB",(2560,1440),(16,22,42));bd=ImageDraw.Draw(banner)
- bd.ellipse((1710,80,2700,1070),fill=(75,44,90));bd.ellipse((-350,600,900,1800),fill=(40,68,104))
- bd.rounded_rectangle((220,330,2340,1040),radius=80,fill=(8,12,24),outline=(246,201,92),width=8)
- bd.text((360,470),"MAGAZİN GÜNDEMİ",font=fnt(150),fill=(246,201,92))
- bd.text((365,700),"Her gün gündemde ne varsa!",font=fnt(76,False),fill=(255,255,255))
+ # YouTube banner dimensions; important text stays in the center safe area.
+ banner=Image.new("RGB",(2560,1440),(7,12,25));bd=ImageDraw.Draw(banner)
+ for x,y,r,col in [(120,160,310,(24,35,61)),(2440,190,360,(48,31,66)),(200,1290,380,(19,43,69)),(2370,1250,420,(28,30,54))]:
+  bd.ellipse((x-r,y-r,x+r,y+r),fill=col)
+ bd.rectangle((0,0,2560,14),fill=(246,201,92))
+ for x in range(60,2560,110):
+  bd.ellipse((x,100,x+5,105),fill=(246,201,92));bd.ellipse((x,1335,x+5,1340),fill=(246,201,92))
+ bd.rounded_rectangle((470,480,2090,960),radius=64,fill=(8,14,29),outline=(246,201,92),width=7)
+ bd.ellipse((1170,495,1390,715),fill=(10,19,39),outline=(246,201,92),width=5)
+ ft=fnt(100);tb=bd.textbbox((0,0),"MG",font=ft)
+ bd.text((1280-(tb[2]-tb[0])//2,535),"MG",font=ft,fill=(246,201,92))
+ name="MAGAZİN GÜNDEMİ";nf=fnt(108);nb=bd.textbbox((0,0),name,font=nf)
+ bd.text((1280-(nb[2]-nb[0])//2,720),name,font=nf,fill=(246,201,92))
+ tagline="Her gün gündemde ne varsa!";tf=fnt(54,False);tb=bd.textbbox((0,0),tagline,font=tf)
+ bd.rounded_rectangle((730,845,1830,925),radius=30,fill=(246,201,92))
+ bd.text((1280-(tb[2]-tb[0])//2,858),tagline,font=tf,fill=(7,12,25))
  banner.save(brand/"channel-banner.png")
- (brand/"channel-description.txt").write_text("Magazin Gündemi; ünlüler, televizyon, müzik ve magazin dünyasındaki güncel gelişmeleri kaynak bağlantılarıyla kısa ve anlaşılır videolarla aktarır. Her gün gündemde ne varsa! Haberlerin ayrıntıları için videolardaki kaynak bağlantılarını ziyaret edin.",encoding="utf-8")
+ description=("Magazin Gündemi'ne hoş geldin! Ünlüler dünyasından son gelişmeler, televizyon programları, müzik, ilişkiler ve çok konuşulan magazin haberlerini kısa, anlaşılır videolarla takip et. Günün öne çıkan gelişmeleri kaynak bağlantılarıyla birlikte burada. Yeni Shorts videolarını kaçırmamak için kanala abone ol!\\n\\nHer gün gündemde ne varsa!\\n\\n#MagazinGündemi #Magazin #Ünlüler #Shorts")
+ (brand/"channel-description.txt").write_text(description,encoding="utf-8")
  built=[];errors=[]
  for i,item in enumerate(items,1):
   try:built.append(build(item,i))
