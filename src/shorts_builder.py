@@ -150,7 +150,7 @@ def narration(item,a):
   if low in title.casefold() or len(s.split())<8:return False
   return True
  paragraphs=[]
- for p in re.split(r"(?<=[.!?])\\s+",body):
+ for p in re.split(r"(?<=[.!?])\s+",body):
   if useful(p) and p not in paragraphs:paragraphs.append(p)
  # Prefer actual article paragraphs. The meta description is only a fallback.
  if not paragraphs and useful(desc):
@@ -166,11 +166,10 @@ def narration(item,a):
  if words<24:return ""
  story=" ".join(chosen).strip()
  # Remove a trailing ellipsis that may come from truncated metadata.
- story=re.sub(r"(?:\\s*…|\\.\\.\\.)$","",story).strip()
+ story=re.sub(r"(?:\s*…|\.\.\.)$","",story).strip()
  intro=f"{title}. "
  outro=" Magazin Gündemi olarak gelişmeleri aktarmaya devam edeceğiz."
- script=intro+story+"."
- if script[-2:]!="..":script=script.rstrip(".")+" ."
+ script=intro+story.rstrip(".")+"."
  script=script+outro+" Her gün gündemde ne varsa!"
  return script
 
