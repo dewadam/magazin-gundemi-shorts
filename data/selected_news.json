@@ -1,73 +1,13 @@
 {
-  "generated_at": "2026-10-11T08:34:43.358525+00:00",
-  "candidate_count": 99,
-  "event_group_count": 49,
+  "generated_at": "2026-10-11T09:15:35.881789+00:00",
+  "candidate_count": 100,
+  "event_group_count": 50,
   "multi_publisher_event_count": 6,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Melike Şahin anne oldu: İlk bebeğini kucağına aldı",
-      "normalized_title": "melike sahin anne oldu ilk bebegini kucagina aldi",
-      "url": "https://www.cumhuriyet.com.tr/magazin/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-2545306",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.193644+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [
-        {
-          "source": "milliyet.com.tr",
-          "source_role": "publisher",
-          "source_domain": "milliyet.com.tr",
-          "title": "Melike Şahin anne oldu! İlk bebeğini kucağına aldı",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-7676234",
-          "published_at": null
-        }
-      ],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-2545306",
-          "title": "Melike Şahin anne oldu: İlk bebeğini kucağına aldı"
-        },
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-7676234",
-          "title": "Melike Şahin anne oldu! İlk bebeğini kucağına aldı"
-        },
-        {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/magazin/melike-sahin-anne-oldu-120165842",
-          "title": "Melike Şahin anne oldu"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "milliyet.com.tr",
-        "odatv.com"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
       "title": "Dokuzuncu Ameliyatının Ardından Danla Bilic Karantinaya Alındı!",
       "normalized_title": "dokuzuncu ameliyatinin ardindan danla bilic karantinaya alindi",
       "url": "https://onedio.com/haber/dokuzuncu-ameliyatinin-ardindan-danla-bilic-karantinaya-alindi-1387267",
@@ -77,7 +17,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.194609+00:00",
+      "collected_at": "2026-10-11T09:14:57.892755+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -128,171 +68,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.195474+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/magazin/istanbula-sanat-odulu-istanbul-bayulgen-kimdir-120166014",
-          "title": "Okan Bayülgen’in kızı İstanbul’a uluslararası sanat ödülü"
-        },
-        {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/haberler/okan-bayulgenin-17-yasindaki-kizi-istanbuldan-20317146-haberi/",
-          "title": "Okan Bayülgen'in 17 yaşındaki kızı İstanbul'dan büyük başarı"
-        },
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/okan-bayulgen-in-kizi-istanbul-bayulgen-e-uluslararasi-sanat-odulu-1387408",
-          "title": "Okan Bayülgen'in Kızı İstanbul Bayülgen'e Uluslararası Sanat Ödülü!"
-        }
-      ],
-      "publisher_domains": [
-        "haberler.com",
-        "odatv.com",
-        "onedio.com"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    }
-  ],
-  "event_groups_preview": [
-    {
-      "title": "Melike Şahin anne oldu: İlk bebeğini kucağına aldı",
-      "normalized_title": "melike sahin anne oldu ilk bebegini kucagina aldi",
-      "url": "https://www.cumhuriyet.com.tr/magazin/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-2545306",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.193644+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [
-        {
-          "source": "milliyet.com.tr",
-          "source_role": "publisher",
-          "source_domain": "milliyet.com.tr",
-          "title": "Melike Şahin anne oldu! İlk bebeğini kucağına aldı",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-7676234",
-          "published_at": null
-        }
-      ],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-2545306",
-          "title": "Melike Şahin anne oldu: İlk bebeğini kucağına aldı"
-        },
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-7676234",
-          "title": "Melike Şahin anne oldu! İlk bebeğini kucağına aldı"
-        },
-        {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/magazin/melike-sahin-anne-oldu-120165842",
-          "title": "Melike Şahin anne oldu"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "milliyet.com.tr",
-        "odatv.com"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Dokuzuncu Ameliyatının Ardından Danla Bilic Karantinaya Alındı!",
-      "normalized_title": "dokuzuncu ameliyatinin ardindan danla bilic karantinaya alindi",
-      "url": "https://onedio.com/haber/dokuzuncu-ameliyatinin-ardindan-danla-bilic-karantinaya-alindi-1387267",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.194609+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/dokuzuncu-ameliyatinin-ardindan-danla-bilic-karantinaya-alindi-1387267",
-          "title": "Dokuzuncu Ameliyatının Ardından Danla Bilic Karantinaya Alındı!"
-        },
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-danla-bilic-karantinaya-alindi-1745488",
-          "title": "Danla Bilic karantinaya alındı"
-        },
-        {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/danla-bilic-9-kez-ameliyat-oldu-hastanede-karantinaya-alindi-3477196",
-          "title": "Danla Bilic 9. kez ameliyat oldu! Hastanede karantinaya alındı"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com",
-        "ntv.com.tr",
-        "onedio.com"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Okan Bayülgen'in 17 yaşındaki kızı İstanbul'dan büyük başarı",
-      "normalized_title": "okan bayulgen in 17 yasindaki kizi istanbul dan buyuk basari",
-      "url": "https://www.haberler.com/haberler/okan-bayulgenin-17-yasindaki-kizi-istanbuldan-20317146-haberi/",
-      "source": "haberler.com",
-      "source_role": "publisher",
-      "source_domain": "haberler.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.195474+00:00",
+      "collected_at": "2026-10-11T09:14:57.893309+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -343,7 +119,162 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.195916+00:00",
+      "collected_at": "2026-10-11T09:14:57.893750+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/pinar-altug-ile-yagmur-atacan-in-kizi-su-atacan-londra-daki-universitenin-kurallarina-isyan-etti-3918839",
+          "title": "Pınar Altuğ ile Yağmur Atacan'ın kızı Su Atacan Londra'daki üniversitenin kurallarına isyan etti"
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/egitim-icin-londraya-gitmisti-pinar-altugun-kizi-su-atacan-isyan-etti-burada-her-sey-yasak",
+          "title": "Eğitim için Londra’ya gitmişti: Pınar Altuğ’un kızı Su Atacan isyan etti! Burada her şey yasak"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/milliyet-tv/pinar-altugun-kizi-su-atacan-londradaki-okul-kurallarina-isyan-etti-her-sey-yasak-video-7676904",
+          "title": "Pınar Altuğ’un kızı Su Atacan Londra'daki okul kurallarına isyan etti: Her şey yasak"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "milliyet.com.tr",
+        "sabah.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    }
+  ],
+  "event_groups_preview": [
+    {
+      "title": "Dokuzuncu Ameliyatının Ardından Danla Bilic Karantinaya Alındı!",
+      "normalized_title": "dokuzuncu ameliyatinin ardindan danla bilic karantinaya alindi",
+      "url": "https://onedio.com/haber/dokuzuncu-ameliyatinin-ardindan-danla-bilic-karantinaya-alindi-1387267",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T09:14:57.892755+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/dokuzuncu-ameliyatinin-ardindan-danla-bilic-karantinaya-alindi-1387267",
+          "title": "Dokuzuncu Ameliyatının Ardından Danla Bilic Karantinaya Alındı!"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-danla-bilic-karantinaya-alindi-1745488",
+          "title": "Danla Bilic karantinaya alındı"
+        },
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/danla-bilic-9-kez-ameliyat-oldu-hastanede-karantinaya-alindi-3477196",
+          "title": "Danla Bilic 9. kez ameliyat oldu! Hastanede karantinaya alındı"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com",
+        "ntv.com.tr",
+        "onedio.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Okan Bayülgen'in 17 yaşındaki kızı İstanbul'dan büyük başarı",
+      "normalized_title": "okan bayulgen in 17 yasindaki kizi istanbul dan buyuk basari",
+      "url": "https://www.haberler.com/haberler/okan-bayulgenin-17-yasindaki-kizi-istanbuldan-20317146-haberi/",
+      "source": "haberler.com",
+      "source_role": "publisher",
+      "source_domain": "haberler.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T09:14:57.893309+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/istanbula-sanat-odulu-istanbul-bayulgen-kimdir-120166014",
+          "title": "Okan Bayülgen’in kızı İstanbul’a uluslararası sanat ödülü"
+        },
+        {
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/haberler/okan-bayulgenin-17-yasindaki-kizi-istanbuldan-20317146-haberi/",
+          "title": "Okan Bayülgen'in 17 yaşındaki kızı İstanbul'dan büyük başarı"
+        },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/okan-bayulgen-in-kizi-istanbul-bayulgen-e-uluslararasi-sanat-odulu-1387408",
+          "title": "Okan Bayülgen'in Kızı İstanbul Bayülgen'e Uluslararası Sanat Ödülü!"
+        }
+      ],
+      "publisher_domains": [
+        "haberler.com",
+        "odatv.com",
+        "onedio.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Eğitim için Londra’ya gitmişti: Pınar Altuğ’un kızı Su Atacan isyan etti! Burada her şey yasak",
+      "normalized_title": "egitim icin londra ya gitmisti pinar altug un kizi su atacan isyan etti burada her sey yasak",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/egitim-icin-londraya-gitmisti-pinar-altugun-kizi-su-atacan-isyan-etti-burada-her-sey-yasak",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T09:14:57.893750+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -394,7 +325,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.196243+00:00",
+      "collected_at": "2026-10-11T09:14:57.893987+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -445,7 +376,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.192923+00:00",
+      "collected_at": "2026-10-11T09:14:57.891442+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -480,6 +411,50 @@
       "coverage_label": "multi_publisher"
     },
     {
+      "title": "Melike Şahin Anne Oldu: Sağlıklı Bir Erkek Bebek Dünyaya Getirdi!",
+      "normalized_title": "melike sahin anne oldu saglikli bir erkek bebek dunyaya getirdi",
+      "url": "https://onedio.com/haber/melike-sahin-anne-oldu-saglikli-bir-erkek-bebek-dunyaya-getirdi-1387127",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T09:14:57.891897+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-2545306",
+          "title": "Melike Şahin anne oldu: İlk bebeğini kucağına aldı"
+        },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/melike-sahin-anne-oldu-saglikli-bir-erkek-bebek-dunyaya-getirdi-1387127",
+          "title": "Melike Şahin Anne Oldu: Sağlıklı Bir Erkek Bebek Dünyaya Getirdi!"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "onedio.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
       "title": "Gazete İsmail Saymaz ve Murat Ağırel'e Ev Hapsi",
       "normalized_title": "gazete ismail saymaz ve murat agirel e ev hapsi",
       "url": "https://onedio.com/haber/gazete-ismail-saymaz-ve-murat-agirel-e-ev-hapsi-1387388",
@@ -489,7 +464,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.196415+00:00",
+      "collected_at": "2026-10-11T09:14:57.894123+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -526,7 +501,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.192755+00:00",
+      "collected_at": "2026-10-11T09:14:57.891298+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -563,7 +538,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.192848+00:00",
+      "collected_at": "2026-10-11T09:14:57.891380+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -600,7 +575,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.193005+00:00",
+      "collected_at": "2026-10-11T09:14:57.891497+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -637,7 +612,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.193096+00:00",
+      "collected_at": "2026-10-11T09:14:57.891569+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -674,7 +649,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.193224+00:00",
+      "collected_at": "2026-10-11T09:14:57.891669+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -711,7 +686,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.193275+00:00",
+      "collected_at": "2026-10-11T09:14:57.891709+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -748,7 +723,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.193332+00:00",
+      "collected_at": "2026-10-11T09:14:57.891754+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -776,29 +751,103 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Necla Uygur son yolculuğuna uğurlandı",
-      "normalized_title": "necla uygur son yolculuguna ugurlandi",
-      "url": "https://halktv.com.tr/gundem/necla-uygur-son-yolculuguna-ugurlandi-1060644h",
-      "source": "halktv.com.tr",
+      "title": "Melike Şahin'in eşi kaç yaşında? Melike Şahin'in eşi kimdir?",
+      "normalized_title": "melike sahin in esi kac yasinda melike sahin in esi kimdir",
+      "url": "https://www.bursadabugun.com/haber/melike-sahin-in-esi-kac-yasinda-melike-sahin-in-esi-kimdir-1955146.html",
+      "source": "bursadabugun.com",
       "source_role": "publisher",
-      "source_domain": "halktv.com.tr",
+      "source_domain": "bursadabugun.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.193384+00:00",
+      "collected_at": "2026-10-11T09:14:57.891849+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "halktv.com.tr",
-          "source_domain": "halktv.com.tr",
-          "url": "https://halktv.com.tr/gundem/necla-uygur-son-yolculuguna-ugurlandi-1060644h",
-          "title": "Necla Uygur son yolculuğuna uğurlandı"
+          "source": "bursadabugun.com",
+          "source_domain": "bursadabugun.com",
+          "url": "https://www.bursadabugun.com/haber/melike-sahin-in-esi-kac-yasinda-melike-sahin-in-esi-kimdir-1955146.html",
+          "title": "Melike Şahin'in eşi kaç yaşında? Melike Şahin'in eşi kimdir?"
         }
       ],
       "publisher_domains": [
-        "halktv.com.tr"
+        "bursadabugun.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Melike Şahin anne oldu! Bebeğinin adı merak edildi",
+      "normalized_title": "melike sahin anne oldu bebeginin adi merak edildi",
+      "url": "https://www.cnnturk.com/magazin/galeri/melike-sahin-anne-oldu-bebeginin-adi-merak-edildi-3477140",
+      "source": "cnnturk.com",
+      "source_role": "publisher",
+      "source_domain": "cnnturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T09:14:57.891940+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/melike-sahin-anne-oldu-bebeginin-adi-merak-edildi-3477140",
+          "title": "Melike Şahin anne oldu! Bebeğinin adı merak edildi"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Usta Tiyatrocu Necla Uygur Son Yolculuğuna Uğurlandı: Cenazeden İlk Görüntüler Geldi",
+      "normalized_title": "usta tiyatrocu necla uygur son yolculuguna ugurlandi cenazeden ilk goruntuler geldi",
+      "url": "https://onedio.com/haber/usta-tiyatrocu-necla-uygur-son-yolculuguna-ugurlandi-cenazeden-ilk-goruntuler-geldi-1387271",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T09:14:57.891997+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/usta-tiyatrocu-necla-uygur-son-yolculuguna-ugurlandi-cenazeden-ilk-goruntuler-geldi-1387271",
+          "title": "Usta Tiyatrocu Necla Uygur Son Yolculuğuna Uğurlandı: Cenazeden İlk Görüntüler Geldi"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -822,7 +871,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.193460+00:00",
+      "collected_at": "2026-10-11T09:14:57.892066+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -859,7 +908,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.193517+00:00",
+      "collected_at": "2026-10-11T09:14:57.892111+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -896,7 +945,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.193585+00:00",
+      "collected_at": "2026-10-11T09:14:57.892167+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -924,43 +973,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Melike Şahin'in eşi kaç yaşında? Melike Şahin'in eşi kimdir?",
-      "normalized_title": "melike sahin in esi kac yasinda melike sahin in esi kimdir",
-      "url": "https://www.bursadabugun.com/haber/melike-sahin-in-esi-kac-yasinda-melike-sahin-in-esi-kimdir-1955146.html",
-      "source": "bursadabugun.com",
-      "source_role": "publisher",
-      "source_domain": "bursadabugun.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.193710+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "bursadabugun.com",
-          "source_domain": "bursadabugun.com",
-          "url": "https://www.bursadabugun.com/haber/melike-sahin-in-esi-kac-yasinda-melike-sahin-in-esi-kimdir-1955146.html",
-          "title": "Melike Şahin'in eşi kaç yaşında? Melike Şahin'in eşi kimdir?"
-        }
-      ],
-      "publisher_domains": [
-        "bursadabugun.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Dilber Ay'ın eşi İbrahim Karakaş ikinci kez evlendi: 'Dilber’in acısını Müge ile yendim'",
       "normalized_title": "dilber ay in esi ibrahim karakas ikinci kez evlendi dilber in acisini muge ile yendim",
       "url": "https://www.odatv.com/magazin/dilber-ayin-esi-ibrahim-karakas-ikinci-kez-evlendi-120165959",
@@ -970,7 +982,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.193890+00:00",
+      "collected_at": "2026-10-11T09:14:57.892225+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1007,7 +1019,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.193965+00:00",
+      "collected_at": "2026-10-11T09:14:57.892283+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1044,7 +1056,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.194024+00:00",
+      "collected_at": "2026-10-11T09:14:57.892320+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1081,7 +1093,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.194095+00:00",
+      "collected_at": "2026-10-11T09:14:57.892373+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1118,7 +1130,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.194158+00:00",
+      "collected_at": "2026-10-11T09:14:57.892419+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1155,7 +1167,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.194202+00:00",
+      "collected_at": "2026-10-11T09:14:57.892452+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1192,7 +1204,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.194262+00:00",
+      "collected_at": "2026-10-11T09:14:57.892496+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1229,7 +1241,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.194324+00:00",
+      "collected_at": "2026-10-11T09:14:57.892542+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1266,7 +1278,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.194372+00:00",
+      "collected_at": "2026-10-11T09:14:57.892577+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1303,7 +1315,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.194419+00:00",
+      "collected_at": "2026-10-11T09:14:57.892612+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1317,43 +1329,6 @@
       ],
       "publisher_domains": [
         "milliyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Hande Erçel'e Oscar adaylı yönetmenden başrol",
-      "normalized_title": "hande ercel e oscar adayli yonetmenden basrol",
-      "url": "https://www.odatv.com/kultur-sanat/hande-ercel-nader-saeivarin-diaspora-filminde-basrol-oynayacak-120165943",
-      "source": "odatv.com",
-      "source_role": "publisher",
-      "source_domain": "odatv.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-11T08:34:05.194473+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/kultur-sanat/hande-ercel-nader-saeivarin-diaspora-filminde-basrol-oynayacak-120165943",
-          "title": "Hande Erçel'e Oscar adaylı yönetmenden başrol"
-        }
-      ],
-      "publisher_domains": [
-        "odatv.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
