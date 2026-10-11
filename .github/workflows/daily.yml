@@ -48,13 +48,13 @@ jobs:
           YOUTUBE_PRIVACY_STATUS: public
       - name: Upload to YouTube if OAuth token is configured
         env:
-          YOUTUBE_TOKEN_JSON: \${{ secrets.YOUTUBE_TOKEN_JSON }}
+          YOUTUBE_TOKEN_JSON: ${{ secrets.YOUTUBE_TOKEN_JSON }}
         run: python src/youtube_uploader.py
       - name: Save videos and reports as artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: magazin-gundemi-shorts-\${{ github.run_number }}
+          name: magazin-gundemi-shorts-${{ github.run_number }}
           path: |
             output/
             data/news_latest.json
