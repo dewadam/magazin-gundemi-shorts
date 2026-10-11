@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T09:45:42.242428+00:00",
+  "generated_at": "2026-10-11T10:12:27.922610+00:00",
   "candidate_count": 100,
-  "event_group_count": 52,
-  "multi_publisher_event_count": 5,
+  "event_group_count": 50,
+  "multi_publisher_event_count": 6,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
@@ -17,7 +17,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.093380+00:00",
+      "collected_at": "2026-10-11T10:11:51.511336+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -68,7 +68,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.093785+00:00",
+      "collected_at": "2026-10-11T10:11:51.511923+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -119,7 +119,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.094105+00:00",
+      "collected_at": "2026-10-11T10:11:51.512582+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -172,7 +172,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.093380+00:00",
+      "collected_at": "2026-10-11T10:11:51.511336+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -223,7 +223,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.093785+00:00",
+      "collected_at": "2026-10-11T10:11:51.511923+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -274,7 +274,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.094105+00:00",
+      "collected_at": "2026-10-11T10:11:51.512582+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -316,16 +316,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Ceylan Ertem'in telifleri köpeklerine ev oldu",
-      "normalized_title": "ceylan ertem in telifleri kopeklerine ev oldu",
-      "url": "https://www.odatv.com/magazin/ceylan-ertem-telif-gelirleriyle-kopeklerine-konteyner-ev-aldi-120166026",
-      "source": "odatv.com",
+      "title": "Ceylan Ertem'den köpeklerine özel ev. Tüm ayrıntılarla kendisi ilgilendi",
+      "normalized_title": "ceylan ertem den kopeklerine ozel ev tum ayrintilarla kendisi ilgilendi",
+      "url": "https://www.ntv.com.tr/yasam/galeri-ceylan-ertemden-kopeklerine-ozel-ev-tum-ayrintilarla-kendisi-ilgilendi-1745569",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "odatv.com",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.094213+00:00",
+      "collected_at": "2026-10-11T10:11:51.512966+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -341,19 +341,70 @@
           "source_domain": "haberturk.com",
           "url": "https://www.haberturk.com/magazin/ceylan-ertem-kopeklerine-ev-yaptirdi-3918440",
           "title": "Ceylan Ertem köpeklerine ev yaptırdı"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-ceylan-ertemden-kopeklerine-ozel-ev-tum-ayrintilarla-kendisi-ilgilendi-1745569",
+          "title": "Ceylan Ertem'den köpeklerine özel ev. Tüm ayrıntılarla kendisi ilgilendi"
         }
       ],
       "publisher_domains": [
         "haberturk.com",
+        "ntv.com.tr",
         "odatv.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Özgür Özel'den şarkıcı Atilla Taş’a taziye ziyareti",
+      "normalized_title": "ozgur ozel den sarkici atilla tas a taziye ziyareti",
+      "url": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-den-sarkici-atilla-tas-a-taziye-ziyareti-2545232",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T10:11:51.509411+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-den-sarkici-atilla-tas-a-taziye-ziyareti-2545232",
+          "title": "Özgür Özel'den şarkıcı Atilla Taş’a taziye ziyareti"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/ozgur-ozel-den-atilla-tasa-taziye-ziyareti-3918718",
+          "title": "Özgür Özel'den Atilla Taş’a taziye ziyareti"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "haberturk.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
-      "event_member_count": 3,
-      "discovery_item_count": 1,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.5,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -369,22 +420,22 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092777+00:00",
+      "collected_at": "2026-10-11T10:11:51.510227+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-2545306",
-          "title": "Melike Şahin anne oldu: İlk bebeğini kucağına aldı"
-        },
-        {
           "source": "onedio.com",
           "source_domain": "onedio.com",
           "url": "https://onedio.com/haber/melike-sahin-anne-oldu-saglikli-bir-erkek-bebek-dunyaya-getirdi-1387127",
           "title": "Melike Şahin Anne Oldu: Sağlıklı Bir Erkek Bebek Dünyaya Getirdi!"
+        },
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/melike-sahin-anne-oldu-ilk-bebegini-kucagina-aldi-2545306",
+          "title": "Melike Şahin anne oldu: İlk bebeğini kucağına aldı"
         }
       ],
       "publisher_domains": [
@@ -404,6 +455,43 @@
       "coverage_label": "multi_publisher"
     },
     {
+      "title": "Gazete İsmail Saymaz ve Murat Ağırel'e Ev Hapsi",
+      "normalized_title": "gazete ismail saymaz ve murat agirel e ev hapsi",
+      "url": "https://onedio.com/haber/gazete-ismail-saymaz-ve-murat-agirel-e-ev-hapsi-1387388",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T10:11:51.513099+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/gazete-ismail-saymaz-ve-murat-agirel-e-ev-hapsi-1387388",
+          "title": "Gazete İsmail Saymaz ve Murat Ağırel'e Ev Hapsi"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 2,
+      "discovery_item_count": 1,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Kızılcık Şerbeti 142. Bölüm Kamera Arkası",
       "normalized_title": "kizilcik serbeti 142 bolum kamera arkasi",
       "url": "https://www.showtv.com.tr/kamera-arkasi/920103-kizilcik-serbeti-142-bolum-kamera-arkasi",
@@ -413,7 +501,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092146+00:00",
+      "collected_at": "2026-10-11T10:11:51.508816+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -450,7 +538,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092218+00:00",
+      "collected_at": "2026-10-11T10:11:51.508932+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -487,7 +575,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092265+00:00",
+      "collected_at": "2026-10-11T10:11:51.509020+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -524,7 +612,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092309+00:00",
+      "collected_at": "2026-10-11T10:11:51.509105+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -561,7 +649,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092341+00:00",
+      "collected_at": "2026-10-11T10:11:51.509167+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -589,29 +677,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Karma ikinci sezonuyla şimdi Exxen’de!",
-      "normalized_title": "karma ikinci sezonuyla simdi exxen de",
-      "url": "https://www.diziler.com/karma-ikinci-sezonuyla-simdi-exxende",
-      "source": "diziler.com",
+      "title": "Karma’nın ikinci sezonu Exxen'de yayında",
+      "normalized_title": "karma nin ikinci sezonu exxen de yayinda",
+      "url": "https://www.odatv.com/medya/karmanin-yeni-sezonu-yayinda-120165930",
+      "source": "odatv.com",
       "source_role": "publisher",
-      "source_domain": "diziler.com",
+      "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092378+00:00",
+      "collected_at": "2026-10-11T10:11:51.509236+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "diziler.com",
-          "source_domain": "diziler.com",
-          "url": "https://www.diziler.com/karma-ikinci-sezonuyla-simdi-exxende",
-          "title": "Karma ikinci sezonuyla şimdi Exxen’de!"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/medya/karmanin-yeni-sezonu-yayinda-120165930",
+          "title": "Karma’nın ikinci sezonu Exxen'de yayında"
         }
       ],
       "publisher_domains": [
-        "diziler.com"
+        "odatv.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -626,29 +714,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Özgür Özel'den şarkıcı Atilla Taş’a taziye ziyareti",
-      "normalized_title": "ozgur ozel den sarkici atilla tas a taziye ziyareti",
-      "url": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-den-sarkici-atilla-tas-a-taziye-ziyareti-2545232",
-      "source": "cumhuriyet.com.tr",
+      "title": "SELİN TÜRKMEN KİMDİR, KAÇ YAŞINDA? SELİN TÜRKMEN OLAYI NE, SELİN TÜRKMEN HANGİ DİZİLERDE OYNADI?",
+      "normalized_title": "selin turkmen kimdir kac yasinda selin turkmen olayi ne selin turkmen hangi dizilerde oynadi",
+      "url": "https://www.posta.com.tr/galeri/selin-turkmen-kimdir-kac-yasinda-selin-turkmen-olayi-ne-selin-turkmen-hangi-dizilerde-oynadi-3049915",
+      "source": "posta.com.tr",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "posta.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092422+00:00",
+      "collected_at": "2026-10-11T10:11:51.509335+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-den-sarkici-atilla-tas-a-taziye-ziyareti-2545232",
-          "title": "Özgür Özel'den şarkıcı Atilla Taş’a taziye ziyareti"
+          "source": "posta.com.tr",
+          "source_domain": "posta.com.tr",
+          "url": "https://www.posta.com.tr/galeri/selin-turkmen-kimdir-kac-yasinda-selin-turkmen-olayi-ne-selin-turkmen-hangi-dizilerde-oynadi-3049915",
+          "title": "SELİN TÜRKMEN KİMDİR, KAÇ YAŞINDA? SELİN TÜRKMEN OLAYI NE, SELİN TÜRKMEN HANGİ DİZİLERDE OYNADI?"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr"
+        "posta.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -672,7 +760,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092486+00:00",
+      "collected_at": "2026-10-11T10:11:51.509501+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -700,43 +788,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Atilla Taş kızını toprağa verdi! Sezen Taş'ın eski eşi Uğur Haliloğlu ilk kez konuştu",
-      "normalized_title": "atilla tas kizini topraga verdi sezen tas in eski esi ugur haliloglu ilk kez konustu",
-      "url": "https://www.milliyet.com.tr/magazin/atilla-tas-kizini-topraga-verdi-sezen-tasin-eski-esi-ugur-haliloglu-ilk-kez-konustu-7676979",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092535+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/atilla-tas-kizini-topraga-verdi-sezen-tasin-eski-esi-ugur-haliloglu-ilk-kez-konustu-7676979",
-          "title": "Atilla Taş kızını toprağa verdi! Sezen Taş'ın eski eşi Uğur Haliloğlu ilk kez konuştu"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Seray Sever, Kızını Kaybeden Atilla Taş’ın Erol Köse Hakkındaki Sözlerini Hatırlattı: \"Ne Kadar Acı Bir Şey!",
       "normalized_title": "seray sever kizini kaybeden atilla tas in erol kose hakkindaki sozlerini hatirlatti ne kadar aci bir sey",
       "url": "https://onedio.com/haber/seray-sever-kizini-kaybeden-atilla-tas-in-erol-kose-hakkindaki-sozlerini-hatirlatti-buyuk-konusmayacaksin-1387389",
@@ -746,7 +797,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092583+00:00",
+      "collected_at": "2026-10-11T10:11:51.509597+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -783,7 +834,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092614+00:00",
+      "collected_at": "2026-10-11T10:11:51.509723+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -820,7 +871,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092640+00:00",
+      "collected_at": "2026-10-11T10:11:51.509803+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -857,7 +908,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092673+00:00",
+      "collected_at": "2026-10-11T10:11:51.509870+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -885,80 +936,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Melike Şahin'in eşi kaç yaşında? Melike Şahin'in eşi kimdir?",
-      "normalized_title": "melike sahin in esi kac yasinda melike sahin in esi kimdir",
-      "url": "https://www.bursadabugun.com/haber/melike-sahin-in-esi-kac-yasinda-melike-sahin-in-esi-kimdir-1955146.html",
-      "source": "bursadabugun.com",
-      "source_role": "publisher",
-      "source_domain": "bursadabugun.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092742+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "bursadabugun.com",
-          "source_domain": "bursadabugun.com",
-          "url": "https://www.bursadabugun.com/haber/melike-sahin-in-esi-kac-yasinda-melike-sahin-in-esi-kimdir-1955146.html",
-          "title": "Melike Şahin'in eşi kaç yaşında? Melike Şahin'in eşi kimdir?"
-        }
-      ],
-      "publisher_domains": [
-        "bursadabugun.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Melike Şahin anne oldu! Bebeğinin adı merak edildi",
-      "normalized_title": "melike sahin anne oldu bebeginin adi merak edildi",
-      "url": "https://www.cnnturk.com/magazin/galeri/melike-sahin-anne-oldu-bebeginin-adi-merak-edildi-3477140",
-      "source": "cnnturk.com",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092807+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/melike-sahin-anne-oldu-bebeginin-adi-merak-edildi-3477140",
-          "title": "Melike Şahin anne oldu! Bebeğinin adı merak edildi"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Necla Uygur son yolculuğuna uğurlandı",
       "normalized_title": "necla uygur son yolculuguna ugurlandi",
       "url": "https://halktv.com.tr/gundem/necla-uygur-son-yolculuguna-ugurlandi-1060644h",
@@ -968,7 +945,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092836+00:00",
+      "collected_at": "2026-10-11T10:11:51.509928+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1005,7 +982,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092878+00:00",
+      "collected_at": "2026-10-11T10:11:51.510013+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1042,7 +1019,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092909+00:00",
+      "collected_at": "2026-10-11T10:11:51.510079+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1079,7 +1056,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092947+00:00",
+      "collected_at": "2026-10-11T10:11:51.510156+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1107,6 +1084,80 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "Melike Şahin'in eşi kaç yaşında? Melike Şahin'in eşi kimdir?",
+      "normalized_title": "melike sahin in esi kac yasinda melike sahin in esi kimdir",
+      "url": "https://www.bursadabugun.com/haber/melike-sahin-in-esi-kac-yasinda-melike-sahin-in-esi-kimdir-1955146.html",
+      "source": "bursadabugun.com",
+      "source_role": "publisher",
+      "source_domain": "bursadabugun.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T10:11:51.510369+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "bursadabugun.com",
+          "source_domain": "bursadabugun.com",
+          "url": "https://www.bursadabugun.com/haber/melike-sahin-in-esi-kac-yasinda-melike-sahin-in-esi-kimdir-1955146.html",
+          "title": "Melike Şahin'in eşi kaç yaşında? Melike Şahin'in eşi kimdir?"
+        }
+      ],
+      "publisher_domains": [
+        "bursadabugun.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Melike Şahin anne oldu! Bebeğinin adı merak edildi",
+      "normalized_title": "melike sahin anne oldu bebeginin adi merak edildi",
+      "url": "https://www.cnnturk.com/magazin/galeri/melike-sahin-anne-oldu-bebeginin-adi-merak-edildi-3477140",
+      "source": "cnnturk.com",
+      "source_role": "publisher",
+      "source_domain": "cnnturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-11T10:11:51.510431+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/melike-sahin-anne-oldu-bebeginin-adi-merak-edildi-3477140",
+          "title": "Melike Şahin anne oldu! Bebeğinin adı merak edildi"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Dilber Ay'ın eşi İbrahim Karakaş ikinci kez evlendi: 'Dilber’in acısını Müge ile yendim'",
       "normalized_title": "dilber ay in esi ibrahim karakas ikinci kez evlendi dilber in acisini muge ile yendim",
       "url": "https://www.odatv.com/magazin/dilber-ayin-esi-ibrahim-karakas-ikinci-kez-evlendi-120165959",
@@ -1116,7 +1167,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.092988+00:00",
+      "collected_at": "2026-10-11T10:11:51.510516+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1153,7 +1204,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.093029+00:00",
+      "collected_at": "2026-10-11T10:11:51.510600+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1190,7 +1241,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.093057+00:00",
+      "collected_at": "2026-10-11T10:11:51.510655+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1227,7 +1278,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.093095+00:00",
+      "collected_at": "2026-10-11T10:11:51.510732+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1264,7 +1315,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.093131+00:00",
+      "collected_at": "2026-10-11T10:11:51.510826+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1278,43 +1329,6 @@
       ],
       "publisher_domains": [
         "bbc.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "İyi ki tutuklanmadı",
-      "normalized_title": "iyi ki tutuklanmadi",
-      "url": "https://www.sabah.com.tr/yazarlar/salih-tuna/2026/10/10/iyi-ki-tutuklanmadi",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-11T09:45:05.093155+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/yazarlar/salih-tuna/2026/10/10/iyi-ki-tutuklanmadi",
-          "title": "İyi ki tutuklanmadı"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
