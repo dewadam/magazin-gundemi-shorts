@@ -186,57 +186,15 @@ def select_top_stories(ranked, limit=3):
   if len(selected) >= limit: break
  return selected
 
-def expand_with_google_search(items, max_queries=8, results_per_query=25):
- # Google News topic results link to /read/ or /stories/ clusters. Open those
- # clusters and collect their publisher articles; do not hammer the search endpoint
- # with dozens of separate queries (which triggers HTTP 429).
- try:
-  from news_collector import fetch_google_news_source, search_google_news
- except ImportError:
-  from src.news_collector import fetch_google_news_source, search_google_news
- expanded=list(items)
- seen_urls={str(x.get('url','')) for x in expanded if x.get('url')}
- queries=[]
- seen_query_titles=set()
- for item in items:
-  title=str(item.get('title','')).strip()
-  key=norm(title)
-  if title and key not in seen_query_titles:
-   seen_query_titles.add(key)
-   queries.append({'title':title,'url':str(item.get('url',''))})
-  if len(queries)>=max_queries: break
- cluster_count=0
- publisher_count=0
- for query in queries:
-  url=query['url']
-  if '/read/' in url or '/stories/' in url:
-   try:
-    found=fetch_google_news_source({'name':'Google News hikâye kümesi: '+query['title'][:80], 'url':url}, results_per_query, 72)
-    for item in found:
-     link=str(item.get('url',''))
-     if link and link not in seen_urls:
-      seen_urls.add(link)
-      item['cluster_title']=query['title']
-      item['cluster_url']=url
-      expanded.append(item)
-      cluster_count+=1
-   except Exception as exc:
-    print(f'Google News hikâye kümesi okunamadı: {query["title"][:90]} | {str(exc)[:160]}')
-  # Search Google News itself for the candidate event. This avoids hammering
-  # the public GDELT endpoint, which rate-limits bursts, and uses the same
-  # multi-publisher news index the user requested.
-  try:
-   found=search_google_news(query['title'], max_items=results_per_query)
-   for item in found:
-    link=str(item.get('url',''))
-    if link and link not in seen_urls:
-     seen_urls.add(link)
-     item['query_title']=query['title']
-     expanded.append(item)
-     publisher_count+=1
-  except Exception as exc:
-   print(f'Google News olay araması atlandı: {query["title"][:90]} | {str(exc)[:160]}')
- print(f'Google News küme makalesi: {cluster_count} | web haber indeksi makalesi: {publisher_count} | toplam aday: {len(expanded)}')
+def expand_with_google_search(items, max_queries=0, results_per_query=0):
+ # The collector now resolves Google News /read URLs in one batch. Re-querying
+ # Google News for every headline triggers HTTP 429 and adds no reliable signal.
+ # Keep only the collected publisher records; unresolved Google News cluster
+ # cards remain discovery-only and can never be counted as publisher votes.
+ expanded = list(items)
+ direct = sum(1 for item in expanded if role(item) != "discovery_only" and publisher(item) and not publisher(item).startswith("google-news-cluster:"))
+ unresolved = sum(1 for item in expanded if role(item) == "discovery_only")
+ print(f"Doğrudan yayıncı adayı: {direct} | yayıncıya çözülemeyen Google News adayı: {unresolved} | toplam: {len(expanded)}")
  return expanded
 
 def main():
