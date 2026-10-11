@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T05:41:24.988396+00:00",
+  "generated_at": "2026-10-11T05:44:15.671879+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
@@ -14,7 +14,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T05:41:02.174522+00:00",
+      "collected_at": "2026-10-11T05:43:37.937729+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [
@@ -119,7 +119,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T05:41:02.175334+00:00",
+      "collected_at": "2026-10-11T05:43:37.938824+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -203,50 +203,95 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Atilla Taş'ın Taziye Evine Ziyaret: Özgür Özel Mersin'de Acılı Aileyle Bir Araya Geldi",
-      "normalized_title": "atilla tas in taziye evine ziyaret ozgur ozel mersin de acili aileyle bir araya geldi",
-      "url": "https://onedio.com/haber/atilla-tas-in-taziye-evine-ziyaret-ozgur-ozel-mersin-de-acili-aileyle-bir-araya-geldi-1387395",
-      "source": "onedio.com",
+      "title": "Ceylan Ertem köpeklerine ev aldı! İçini tek tek kendi hazırladı...",
+      "normalized_title": "ceylan ertem kopeklerine ev aldi icini tek tek kendi hazirladi",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/ceylan-ertemden-kopeklerine-ozel-ev-telif-kazancini-bakin-nereye-harcadi-43335109",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-11T05:41:02.173655+00:00",
+      "collected_at": "2026-10-11T05:43:37.940238+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/atilla-tas-in-taziye-evine-ziyaret-ozgur-ozel-mersin-de-acili-aileyle-bir-araya-geldi-1387395",
-          "title": "Atilla Taş'ın Taziye Evine Ziyaret: Özgür Özel Mersin'de Acılı Aileyle Bir Araya Geldi"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/ceylan-ertem-telif-gelirleriyle-kopeklerine-konteyner-ev-aldi-120166026",
+          "title": "Ceylan Ertem'in telifleri köpeklerine ev oldu"
+        },
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/ceylan-ertemden-kopeklerine-ozel-ev-telif-kazancini-bakin-nereye-harcadi-43335109",
+          "title": "Ceylan Ertem köpeklerine ev aldı! İçini tek tek kendi hazırladı..."
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/ceylan-ertem-kopeklerine-ev-yaptirdi-3918440",
+          "title": "Ceylan Ertem köpeklerine ev yaptırdı"
         }
       ],
       "publisher_domains": [
-        "onedio.com"
+        "haberturk.com",
+        "hurriyet.com.tr",
+        "odatv.com"
       ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 10.0,
+      "popularity_score": 30.0,
       "possible_syndication": false,
-      "verification_status": "source_page_reachable_no_second_source_match",
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
       "publication_approved": false,
-      "coverage_label": "single_publisher",
+      "coverage_label": "multi_publisher",
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Özgür Özel'den Atilla Taş'a Taziye Ziyareti - Onedio",
-        "og_title": "Atilla Taş'ın Taziye Evine Ziyaret: Özgür Özel Mersin'de Acılı Aileyle Bir Araya Geldi",
-        "description": "Özgür Özel, Mersin'de kızı Sezen Taş'ı kaybeden şarkıcı Atilla Taş'ın taziye evini ziyaret ederek başsağlığı diledi.",
+        "page_title": "Ceylan Ertem köpeklerine ev aldı! İçini tek tek kendi hazırladı... - Son Dakika Magazin Haberleri",
+        "og_title": "Ceylan Ertem köpeklerine ev aldı! İçini tek tek kendi hazırladı...",
+        "description": "Hayvanlara olan sevgisiyle tanınan ünlü şarkıcı Ceylan Ertem, köpekleri için yaptırdığı konteyner evle gündeme geldi. Telif gelirlerini köpekleri için harcayan Ertem, yeni yuvanın görüntülerini sosyal medya hesabından paylaşarak takipçilerine çağrıda bulundu.",
         "error": null
       },
-      "independent_source_matches": [],
+      "independent_source_matches": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "title": "Ceylan Ertem'in telifleri köpeklerine ev oldu",
+          "summary": "",
+          "url": "https://www.odatv.com/magazin/ceylan-ertem-telif-gelirleriyle-kopeklerine-konteyner-ev-aldi-120166026",
+          "match_score": 0.54,
+          "shared_keywords": [
+            "ceylan",
+            "ertem",
+            "kopeklerine"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "title": "Ceylan Ertem köpeklerine ev yaptırdı",
+          "summary": "",
+          "url": "https://www.haberturk.com/magazin/ceylan-ertem-kopeklerine-ev-yaptirdi-3918440",
+          "match_score": 0.59,
+          "shared_keywords": [
+            "ceylan",
+            "ertem",
+            "kopeklerine"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     }
   ]
