@@ -211,22 +211,28 @@ def main():
  slogan="Her gün gündemde ne varsa!";sf=fnt(24,False);sb=idraw.textbbox((0,0),slogan,font=sf)
  idraw.text(((800-(sb[2]-sb[0]))//2,655),slogan,font=sf,fill=(246,201,92))
  icon.save(brand/"channel-icon.png")
- # YouTube banner dimensions; important text stays in the center safe area.
- banner=Image.new("RGB",(2560,1440),(7,12,25));bd=ImageDraw.Draw(banner)
+ # YouTube banner: 2560x1440; keep all essential text inside the centered 1546x423 safe area.
+ banner=Image.new("RGB",(2560,1440),(7,12,26));bd=ImageDraw.Draw(banner)
  for x,y,r,col in [(120,160,310,(24,35,61)),(2440,190,360,(48,31,66)),(200,1290,380,(19,43,69)),(2370,1250,420,(28,30,54))]:
   bd.ellipse((x-r,y-r,x+r,y+r),fill=col)
  bd.rectangle((0,0,2560,14),fill=(246,201,92))
  for x in range(60,2560,110):
   bd.ellipse((x,100,x+5,105),fill=(246,201,92));bd.ellipse((x,1335,x+5,1340),fill=(246,201,92))
- bd.rounded_rectangle((470,480,2090,960),radius=64,fill=(8,14,29),outline=(246,201,92),width=7)
- bd.ellipse((1170,495,1390,715),fill=(10,19,39),outline=(246,201,92),width=5)
- ft=fnt(100);tb=bd.textbbox((0,0),"MG",font=ft)
- bd.text((1280-(tb[2]-tb[0])//2,535),"MG",font=ft,fill=(246,201,92))
- name="MAGAZİN GÜNDEMİ";nf=fnt(108);nb=bd.textbbox((0,0),name,font=nf)
- bd.text((1280-(nb[2]-nb[0])//2,720),name,font=nf,fill=(246,201,92))
- tagline="Her gün gündemde ne varsa!";tf=fnt(54,False);tb=bd.textbbox((0,0),tagline,font=tf)
- bd.rounded_rectangle((730,845,1830,925),radius=30,fill=(246,201,92))
- bd.text((1280-(tb[2]-tb[0])//2,858),tagline,font=tf,fill=(7,12,25))
+ # Strictly centered safe panel: x=507..2053, y=508..931.
+ bd.rounded_rectangle((507,508,2053,931),radius=52,fill=(8,14,30),outline=(246,201,92),width=5)
+ cx=1280
+ bd.ellipse((1202,522,1358,678),fill=(10,19,39),outline=(246,201,92),width=4)
+ ft=fnt(76);tb=bd.textbbox((0,0),"MG",font=ft)
+ bd.text((cx-(tb[2]-tb[0])//2,554),"MG",font=ft,fill=(246,201,92))
+ name="MAGAZİN GÜNDEMİ";nf=fnt(82);nb=bd.textbbox((0,0),name,font=nf)
+ bd.text((cx-(nb[2]-nb[0])//2,692),name,font=nf,fill=(246,201,92))
+ bd.line((cx-380,797,cx-170,797),fill=(159,111,35),width=3)
+ bd.polygon([(cx-12,787),(cx,797),(cx+12,787),(cx,807)],fill=(246,201,92))
+ bd.line((cx+170,797,cx+380,797),fill=(159,111,35),width=3)
+ tagline="Her gün gündemde ne varsa!";tf=fnt(40,False);tb=bd.textbbox((0,0),tagline,font=tf)
+ tw=tb[2]-tb[0]
+ bd.rounded_rectangle((cx-tw//2-26,829,cx+tw//2+26,891),radius=22,fill=(246,201,92))
+ bd.text((cx-tw//2,837),tagline,font=tf,fill=(7,12,25))
  banner.save(brand/"channel-banner.png")
  description=("Magazin Gündemi'ne hoş geldin! Ünlüler dünyasından son gelişmeler, televizyon programları, müzik, ilişkiler ve çok konuşulan magazin haberlerini kısa, anlaşılır videolarla takip et. Günün öne çıkan gelişmeleri kaynak bağlantılarıyla birlikte burada. Yeni Shorts videolarını kaçırmamak için kanala abone ol!\\n\\nHer gün gündemde ne varsa!\\n\\n#MagazinGündemi #Magazin #Ünlüler #Shorts")
  (brand/"channel-description.txt").write_text(description,encoding="utf-8")
