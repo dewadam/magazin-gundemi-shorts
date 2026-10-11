@@ -7,7 +7,6 @@ import sys
 import unicodedata
 from difflib import SequenceMatcher
 
-import feedparser
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.error import HTTPError, URLError
@@ -80,44 +79,33 @@ def event_similarity(item: dict, other_title: str, other_summary: str) -> tuple[
 
 
 def collect_other_source_headlines(selected_items: list[dict]) -> dict[str, list[dict]]:
-    """Cross-check each event using indexed publisher articles, never publisher RSS feeds."""
-    try:
-        from news_collector import search_gdelt_news
-    except ImportError:
-        from src.news_collector import search_gdelt_news
+    """Use Google News-derived direct publisher coverage; do not call RSS or rate-limited search APIs."""
     matches: dict[str, list[dict]] = {str(item.get("url", "")): [] for item in selected_items}
     for item in selected_items:
-        title = str(item.get("title", "")).strip()
-        if not title:
-            continue
-        try:
-            candidates = search_gdelt_news(title, max_items=60)
-        except Exception as exc:
-            LOG.warning("Web haber indeksi doğrulaması başarısız: %s | %s", title[:100], str(exc)[:180])
-            continue
         target = matches[str(item.get("url", ""))]
-        original_domain = re.sub(r"^www\\.", "", str(item.get("source_domain", "")).lower())
-        seen = set()
-        for candidate in candidates:
+        own_url = str(item.get("url", ""))
+        own_domain = re.sub(r"^www\\.", "", str(item.get("source_domain", "")).lower())
+        seen_urls = {own_url}
+        for candidate in item.get("source_articles", []) or []:
             url = str(candidate.get("url", ""))
             domain = re.sub(r"^www\\.", "", str(candidate.get("source_domain", "")).lower())
-            if not url or url == item.get("url") or url in seen:
+            if not url.startswith(("https://", "http://")) or url in seen_urls:
                 continue
-            if domain and original_domain and domain == original_domain:
+            if domain and own_domain and domain == own_domain:
                 continue
-            sim, shared, basis = event_similarity(item, candidate.get("title", ""), candidate.get("summary", ""))
+            sim, shared, basis = event_similarity(item, str(candidate.get("title", "")), "")
             if sim >= 0.25 and len(shared) >= 2:
-                seen.add(url)
+                seen_urls.add(url)
                 target.append({
                     "source": candidate.get("source", domain),
                     "source_domain": domain,
                     "title": candidate.get("title", ""),
-                    "summary": str(candidate.get("summary", ""))[:500],
+                    "summary": "",
                     "url": url,
                     "match_score": round(sim, 2),
                     "shared_keywords": shared[:12],
                     "match_basis": basis,
-                    "discovery_method": "GDELT web haber indeksi",
+                    "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir",
                 })
     return matches
 
@@ -190,10 +178,10 @@ def main() -> int:
         record["source_page_check"] = page
         record["independent_source_matches"] = cross_source_matches.get(url, [])
         has_match = bool(record["independent_source_matches"])
-        record["verification_status"] = ("second_source_match_needs_manual_confirmation" if has_match else ("source_page_reachable_no_second_source_match" if page["reachable"] else "source_page_unavailable_needs_review"))
+        record["verification_status"] = ("publisher_coverage_candidates_need_manual_confirmation" if has_match else ("source_page_reachable_no_second_source_match" if page["reachable"] else "source_page_unavailable_needs_review"))
         record["publication_approved"] = False
         record["verification_note"] = (
-            "Manuel inceleme adayları başlık, özet ve ortak anahtar kelimelerle bulunur; bunlar doğrulanmış haber veya bağımsız teyit değildir. "
+            "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. "
             "Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
         )
         results.append(record)
