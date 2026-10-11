@@ -30,6 +30,11 @@ class EventMatcherTests(unittest.TestCase):
         b = story("Merve Küsmenoğlu ile Survivor Serhan Onat evlendi")
         self.assertTrue(same_event(a, b)[0])
 
+    def test_danla_bilic_surgery_quarantine_headlines_are_same_event(self):
+        a = story("Dokuzuncu Ameliyatının Ardından Danla Bilic Karantinaya Alındı")
+        b = story("Danla Bilic 9. kez ameliyat oldu Hastanede karantinaya alındı")
+        self.assertTrue(same_event(a, b)[0])
+
     def test_distinctive_headlines_stay_separate(self):
         a = story("Selin Türkmen yeni rolüyle gündem oldu")
         b = story("Selin Türkmen yeni evini paylaştı")
