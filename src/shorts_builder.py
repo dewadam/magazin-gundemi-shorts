@@ -130,7 +130,17 @@ def build(item,index):
  (folder/"narration.txt").write_text(script,encoding="utf-8")
  (folder/"source.json").write_text(json.dumps({"title":item.get("title"),"url":item.get("url"),"source":item.get("source"),"article_metadata":a,"created_at":datetime.now(timezone.utc).isoformat(),"visual_rights_note":"Open Graph görselinin yeniden kullanım lisansı otomatik doğrulanmamıştır."},ensure_ascii=False,indent=2),encoding="utf-8")
  image=folder/"source-image.jpg";poster=folder/"poster.jpg";thumb=folder/"thumbnail.jpg";voice=folder/"narration.mp3";srt=folder/"captions.srt";video=folder/"short.mp4"
- posters(item,a,image,poster,thumb);asyncio.run(tts(script,voice));dur=duration(voice);make_srt(script,dur,srt)
+ posters(item,a,image,poster,thumb)
+ try:
+  asyncio.run(asyncio.wait_for(tts(script,voice),timeout=45))
+ except Exception as tts_error:
+  if not shutil.which("espeak-ng"):raise RuntimeError(f"Edge TTS başarısız ve espeak-ng yok: {tts_error}")
+  wav=voice.with_suffix(".wav")
+  subprocess.run(["espeak-ng","-v","tr","-s","145","-w",str(wav),script],check=True,capture_output=True)
+  cmd(["ffmpeg","-y","-i",str(wav),"-codec:a","libmp3lame","-q:a","3",str(voice)])
+  wav.unlink(missing_ok=True)
+  LOG.warning("Edge TTS yerine yerel espeak-ng sesi kullanıldı.")
+ dur=duration(voice);make_srt(script,dur,srt)
  music=ROOT/"assets/music/selected_track.mp3"
  vf=f"subtitles='{esc(srt)}':force_style='FontName=DejaVu Sans,FontSize=20,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,BorderStyle=1,Outline=3,Shadow=1,Alignment=2,MarginV=210'"
  if music.exists():
