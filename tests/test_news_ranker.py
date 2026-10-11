@@ -46,6 +46,17 @@ class MatchingTests(unittest.TestCase):
         self.assertEqual(len(selected), 3)
         self.assertEqual(len({x["url"] for x in selected}), 3)
 
+    def test_daily_shortlist_deduplicates_same_event_headlines(self):
+        items = [
+            article("Dokuzuncu ameliyatının ardından Danla Bilic karantinaya alındı", "Onedio", "onedio.com"),
+            article("Danla Bilic 9. kez ameliyat oldu hastanede karantinaya alındı", "CNN Türk", "cnnturk.com"),
+            article("Melike Şahin anne oldu ilk bebeğini kucağına aldı", "Cumhuriyet", "cumhuriyet.com.tr"),
+            article("Hadise Milano Moda Haftası'nda görüntülendi", "Mynet", "mynet.com"),
+        ]
+        selected = select_top_stories(rank(items), 3)
+        danla = [x for x in selected if "danla bilic" in x["title"].lower()]
+        self.assertLessEqual(len(danla), 1)
+
     def test_discovery_repetition_increases_trend_score(self):
         direct = article("Hadise Kerem Bürsin Milano Moda Haftası birlikte görüntülendi", "CNN", "cnnturk.com")
         discovery1 = article("Hadise Kerem Bürsin Milano Moda Haftası birlikte görüntülendi - Haberler", "Google News - Magazin (keşif)", "news.google.com", role="discovery_only")
