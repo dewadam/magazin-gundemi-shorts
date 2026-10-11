@@ -158,7 +158,7 @@ def fetch_google_news_source(source: dict, max_items: int, lookback_hours: int) 
         if google_urls:
             try:
                 from googlenewsdecoder import gnewsdecoder
-                decoded = gnewsdecoder(google_urls, interval=0.5, timeout=15.0)
+                decoded = gnewsdecoder(google_urls, interval=0.15, timeout=15.0)
                 decode_results = decoded if isinstance(decoded, list) else [decoded]
             except Exception as exc:
                 LOG.warning("Google News bağlantılarını yayıncı URL'lerine çözme başarısız: %s", exc)
