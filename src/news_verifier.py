@@ -84,11 +84,11 @@ def collect_other_source_headlines(selected_items: list[dict]) -> dict[str, list
     for item in selected_items:
         target = matches[str(item.get("url", ""))]
         own_url = str(item.get("url", ""))
-        own_domain = re.sub(r"^www\\.", "", str(item.get("source_domain", "")).lower())
+        own_domain = re.sub(r"^www\.", "", str(item.get("source_domain", "")).lower())
         seen_urls = {own_url}
         for candidate in item.get("source_articles", []) or []:
             url = str(candidate.get("url", ""))
-            domain = re.sub(r"^www\\.", "", str(candidate.get("source_domain", "")).lower())
+            domain = re.sub(r"^www\.", "", str(candidate.get("source_domain", "")).lower())
             if not url.startswith(("https://", "http://")) or url in seen_urls:
                 continue
             if domain and own_domain and domain == own_domain:
