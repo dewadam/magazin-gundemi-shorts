@@ -228,7 +228,7 @@ def fetch_google_news_source(source: dict, max_items: int, lookback_hours: int) 
     # Decode Google News /read links on topic and search pages into direct publisher URLs.
     # This turns Google News discovery cards into countable publisher articles only when
     # the decoder successfully returns a non-Google URL; unresolved cards remain discovery-only.
-    google_urls = [item["url"] for item in results if "news.google.com/read/" in str(item.get("url", ""))]
+    google_urls = [item["url"] for item in results if "news.google.com/read/" in str(item.get("url", ""))][:35]
     if google_urls:
         try:
             from googlenewsdecoder import gnewsdecoder
