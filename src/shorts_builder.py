@@ -132,16 +132,48 @@ def posters(item,article,imagepath,poster,thumb):
   td.text((28,y),line,font=fnt(34),fill=(255,255,255,255));y+=40
  t.convert("RGB").save(thumb,quality=93)
 def narration(item,a):
- title=clean(item.get("title",""));desc=clean(a.get("description",""));body=clean(a.get("body",""))
- if not desc and body:desc=body[:650]
- if not title or len(desc)<35:return ""
- desc=desc[:500].rsplit(" ",1)[0]+"…" if len(desc)>500 else desc
- src=clean(item.get("source") or item.get("source_domain") or "kaynak haber")
- text=(f"Magazin Gündemi'nde öne çıkan haber: {title}. Haberde aktarılanlara göre, {desc} "
-       f"Bu gelişmenin ayrıntıları kaynak haberde yer alıyor. Detayları ve bağlamı görmek için kaynak haberi okuyabilirsiniz. "
-       f"Magazin dünyasındaki gelişmeler için Magazin Gündemi'ni takip edin. Her gün gündemde ne varsa!")
- if len(text.split())<65:text+=f" Haber başlığı: {title}. Kaynak yayın: {src}."
- return text
+ title=clean(item.get("title",""))
+ desc=clean(a.get("description",""))
+ body=clean(a.get("body",""))
+ # Build a story from the article text; never narrate filler such as "kaynak haberde".
+ boilerplate=[
+  "devamı için tıklayın","haberimizin devamı","haberin devamı","detaylar için tıklayın",
+  "kaynak haberde yer alıyor","kaynak haberi okuyabilirsiniz","bizi takip etmeyi unutmayın",
+  "abone olmayı unutmayın","tüm hakları saklıdır","reklam","çerez politikası",
+  "bu içerik","ilgili haberler","daha fazlası için"
+ ]
+ def useful(s):
+  s=clean(s)
+  low=s.casefold()
+  if len(s)<45 or len(s)>650:return False
+  if any(x in low for x in boilerplate):return False
+  if low in title.casefold() or len(s.split())<8:return False
+  return True
+ paragraphs=[]
+ for p in re.split(r"(?<=[.!?])\\s+",body):
+  if useful(p) and p not in paragraphs:paragraphs.append(p)
+ # Prefer actual article paragraphs. The meta description is only a fallback.
+ if not paragraphs and useful(desc):
+  paragraphs=[desc]
+ if not title or not paragraphs:return ""
+ # Keep concrete details from the article, avoid generic claims or invented context.
+ chosen=[];words=0
+ for p in paragraphs:
+  n=len(p.split())
+  if words+n>88 and chosen:break
+  chosen.append(p);words+=n
+  if words>=58:break
+ if words<24:return ""
+ story=" ".join(chosen).strip()
+ # Remove a trailing ellipsis that may come from truncated metadata.
+ story=re.sub(r"(?:\\s*…|\\.\\.\\.)$","",story).strip()
+ intro=f"{title}. "
+ outro=" Magazin Gündemi olarak gelişmeleri aktarmaya devam edeceğiz."
+ script=intro+story+"."
+ if script[-2:]!="..":script=script.rstrip(".")+" ."
+ script=script+outro+" Her gün gündemde ne varsa!"
+ return script
+
 def cmd(args):subprocess.run(args,check=True,stdout=subprocess.PIPE,stderr=subprocess.PIPE)
 def duration(path):
  r=subprocess.run(["ffprobe","-v","error","-show_entries","format=duration","-of","default=noprint_wrappers=1:nokey=1",str(path)],check=True,capture_output=True,text=True)
