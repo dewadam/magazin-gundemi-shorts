@@ -162,7 +162,7 @@ def build(item,index):
  ticker_filter=f"drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:textfile='{esc(ticker)}':reload=0:fontsize=34:fontcolor=white:box=1:boxcolor=0x080C18@0.95:boxborderw=18:x=w-mod(t*170\\,w+tw):y=h-190"
  if music.exists():
   args=["ffmpeg","-y","-loop","1","-framerate","30","-i",str(poster),"-i",str(voice),"-stream_loop","-1","-i",str(music),"-filter_complex","[1:a]volume=1.0[voice];[2:a]volume=0.10[music];[voice][music]amix=inputs=2:duration=first:dropout_transition=2[a]","-vf",ticker_filter,"-map","0:v","-map","[a]","-t",f"{dur:.2f}"]
- else:args=["ffmpeg","-y","-loop","1","-framerate","30","-i",str(poster),"-i",str(voice),"-vf",vf,"-map","0:v","-map","1:a","-t",f"{dur:.2f}"]
+ else:args=["ffmpeg","-y","-loop","1","-framerate","30","-i",str(poster),"-i",str(voice),"-vf",ticker_filter,"-map","0:v","-map","1:a","-t",f"{dur:.2f}"]
  args += ["-c:v","libx264","-preset","veryfast","-tune","stillimage","-pix_fmt","yuv420p","-c:a","aac","-b:a","192k","-movflags","+faststart",str(video)];cmd(args)
  meta={"title":(title_clean(item.get("title",""))+" #Shorts")[:100],"description":f"{item.get('title','')}\n\nKaynak haber: {item.get('url','')}\nAyrıntılar ve bağlam için kaynak haberi okuyun.\n\n#MagazinGündemi #Magazin #Shorts","tags":["Magazin Gündemi","magazin","magazin haberleri","ünlüler","Shorts"],"categoryId":"25","privacyStatus":os.getenv("YOUTUBE_PRIVACY_STATUS","public"),"madeForKids":False}
  (folder/"youtube-metadata.json").write_text(json.dumps(meta,ensure_ascii=False,indent=2),encoding="utf-8")
