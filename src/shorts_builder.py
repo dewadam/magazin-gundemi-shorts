@@ -90,14 +90,17 @@ def posters(item,article,imagepath,poster,thumb):
  y=1260
  for line in lines:d.text((105,y),line,font=fnt(67),fill=(255,255,255,255),stroke_width=1,stroke_fill=(0,0,0,150));y+=82
  d.text((78,1780),"Her gün gündemde ne varsa!",font=fnt(34,False),fill=(246,201,92,255));im.convert("RGB").save(poster,quality=92)
- t=im.resize((1280,720),Image.Resampling.LANCZOS);td=ImageDraw.Draw(t)
- td.rounded_rectangle((35,35,1245,685),radius=28,fill=(8,12,24,185),outline=(246,201,92,240),width=4)
- lines=wrap(td,title,fnt(58),1110)
- if len(lines)>4:lines=lines[:3]+["…"]
- y=(720-len(lines)*76)//2-25
+ t=im.resize((1280,720),Image.Resampling.LANCZOS).convert("RGBA")
+ t=Image.alpha_composite(t,Image.new("RGBA",(1280,720),(8,12,24,55)))
+ td=ImageDraw.Draw(t)
+ # Keep the source photo visible; reserve only the lower third for readable title text.
+ td.rounded_rectangle((35,390,1245,685),radius=28,fill=(8,12,24,238),outline=(246,201,92,255),width=4)
+ lines=wrap(td,title,fnt(50),1090)
+ if len(lines)>3:lines=lines[:2]+["…"]
+ y=415
  for line in lines:
-  box=td.textbbox((0,0),line,font=fnt(58));td.text(((1280-(box[2]-box[0]))//2,y),line,font=fnt(58),fill=(255,255,255,255));y+=76
- td.text((58,615),"MAGAZİN GÜNDEMİ",font=fnt(30),fill=(246,201,92,255));t.convert("RGB").save(thumb,quality=93)
+  box=td.textbbox((0,0),line,font=fnt(50));td.text(((1280-(box[2]-box[0]))//2,y),line,font=fnt(50),fill=(255,255,255,255));y+=60
+ td.text((58,635),"MAGAZİN GÜNDEMİ",font=fnt(27),fill=(246,201,92,255));t.convert("RGB").save(thumb,quality=93)
 def narration(item,a):
  title=clean(item.get("title",""));desc=clean(a.get("description",""));body=clean(a.get("body",""))
  if not desc and body:desc=body[:650]
