@@ -225,6 +225,36 @@ def fetch_google_news_source(source: dict, max_items: int, lookback_hours: int) 
         })
         if len(results) >= max_items:
             break
+    # Decode Google News /read links on topic and search pages into direct publisher URLs.
+    # This turns Google News discovery cards into countable publisher articles only when
+    # the decoder successfully returns a non-Google URL; unresolved cards remain discovery-only.
+    google_urls = [item["url"] for item in results if "news.google.com/read/" in str(item.get("url", ""))]
+    if google_urls:
+        try:
+            from googlenewsdecoder import gnewsdecoder
+            decoded = gnewsdecoder(google_urls, interval=0.5, timeout=15.0)
+            decoded = decoded if isinstance(decoded, list) else [decoded]
+            decoded_count = 0
+            for original, result in zip(google_urls, decoded):
+                if not isinstance(result, dict) or not result.get("success") or not result.get("decoded_url"):
+                    continue
+                direct_url = str(result["decoded_url"])
+                domain = urlparse(direct_url).netloc.lower().removeprefix("www.")
+                if not domain or domain.endswith("google.com") or domain.endswith("googleusercontent.com"):
+                    continue
+                for item in results:
+                    if item.get("url") == original:
+                        item["url"] = direct_url
+                        item["source"] = domain
+                        item["source_domain"] = domain
+                        item["source_role"] = "publisher"
+                        item["status"] = "publisher_article_decoded_from_google_news"
+                        item["summary"] = "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi."
+                        decoded_count += 1
+                        break
+            LOG.info("Google News bağlantısından doğrudan yayıncı URL'si çözülen: %d/%d", decoded_count, len(google_urls))
+        except Exception as exc:
+            LOG.warning("Google News yayıncı bağlantıları çözülemedi: %s", str(exc)[:180])
     LOG.info("Google News sayfasından çıkarılan aday: %d", len(results))
     return results
 
