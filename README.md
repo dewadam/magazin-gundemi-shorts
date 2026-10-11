@@ -23,9 +23,24 @@ Artifact içeriği:
 
 ## YouTube otomatik yükleme
 
-Settings → Secrets and variables → Actions → New repository secret bölümünde YOUTUBE_TOKEN_JSON secret eklenmelidir. Değer, YouTube Data API v3 için OAuth kullanıcı token JSON içeriği olmalı; client_id, client_secret, refresh_token, token_uri ve scopes alanlarını içermeli, youtube.upload kapsamıyla yetkilendirilmelidir. Secret/token depoya düz metin olarak commit edilmemelidir.
+Yükleme kodu hazırdır; ilk yayın için YouTube kanalına bir kez OAuth izni verilmesi gerekir. Şifre veya token'ı bana göndermeyin ve GitHub koduna eklemeyin.
 
-Secret yoksa video üretimi devam eder; yükleme atlanır ve videolar artifact olarak alınır. YouTube API kota/izin sorunları ayrıca raporlanır.
+### Bir defalık kurulum
+1. Google Cloud Console'da bir proje oluşturun: https://console.cloud.google.com/
+2. **APIs & Services → Library** bölümünden **YouTube Data API v3** API'sini etkinleştirin.
+3. **Google Auth Platform / OAuth consent screen** bölümünde uygulama bilgilerini tamamlayın. Uygulama test modundaysa kendi Google hesabınızı test kullanıcısı olarak ekleyin.
+4. **Credentials → Create credentials → OAuth client ID** seçin; uygulama türü olarak **Desktop app** seçin ve istemci JSON dosyasını indirin.
+5. Bilgisayarınızda Python 3.11 kurulu bir terminal açın; depoyu indirin/klonlayın ve proje klasöründe çalıştırın:
+   `python -m pip install -r requirements.txt`
+   `python scripts/get_youtube_token.py`
+6. İndirilen OAuth istemci JSON dosyasının yolunu girin. Açılan tarayıcıda yayın yapacağınız YouTube kanalının Google hesabıyla giriş yapıp izni onaylayın. Proje klasöründe `authorized_user.json` oluşur.
+7. `authorized_user.json` dosyasını metin düzenleyicide açıp tüm JSON içeriğini kopyalayın.
+8. GitHub deposunda **Settings → Secrets and variables → Actions → New repository secret** yolunu açın. Adı tam olarak `YOUTUBE_TOKEN_JSON`, değeri kopyaladığınız JSON olsun; kaydedin.
+9. OAuth istemci dosyasını ve `authorized_user.json` dosyasını depoya yüklemeyin veya başkalarıyla paylaşmayın.
+
+Secret eklenince bir sonraki günlük veya elle başlatılan başarılı workflow, üretilen ve daha önce yüklenmemiş Shorts videolarını YouTube'a **public** olarak yükler ve küçük resmi ayarlar. `data/youtube_upload_history.json` daha önce yüklenen haber bağlantılarını kaydederek aynı haberin tekrar yüklenmesini önler.
+
+Secret yoksa yükleme atlanır; videolar artifact olarak alınır. YouTube API kota/izin sorunları workflow loglarında görünür.
 
 ## Müzik
 
