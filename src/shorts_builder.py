@@ -3,7 +3,7 @@ import asyncio, html, json, logging, os, re, shutil, subprocess, sys, urllib.par
 from html.parser import HTMLParser
 from pathlib import Path
 from datetime import datetime, timezone
-from PIL import Image, ImageDraw, ImageFont, ImageFilter
+from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageOps
 import edge_tts
 
 ROOT=Path(__file__).resolve().parents[1]; INPUT=ROOT/"data/selected_news.json"; OUT=ROOT/"output"
@@ -75,8 +75,14 @@ def background(url,path):
  d.ellipse((650,160,1280,790),fill=(75,44,90));d.ellipse((-250,980,550,1800),fill=(40,68,104))
  return im
 def posters(item,article,imagepath,poster,thumb):
- im=background(article.get("image_url",""),imagepath).resize((W,H),Image.Resampling.LANCZOS).filter(ImageFilter.GaussianBlur(16)).convert("RGBA")
- im=Image.alpha_composite(im,Image.new("RGBA",(W,H),(8,13,28,125)));d=ImageDraw.Draw(im)
+ source_image=background(article.get("image_url",""),imagepath)
+ im=source_image.resize((W,H),Image.Resampling.LANCZOS).filter(ImageFilter.GaussianBlur(16)).convert("RGBA")
+ im=Image.alpha_composite(im,Image.new("RGBA",(W,H),(8,13,28,125)))
+ # Keep the article photo visible, not just as a blurred background.
+ photo=ImageOps.fit(source_image,(900,820),method=Image.Resampling.LANCZOS).convert("RGBA")
+ mask=Image.new("L",photo.size,0);md=ImageDraw.Draw(mask);md.rounded_rectangle((0,0,899,819),radius=34,fill=255)
+ im.paste(photo,(90,250),mask);d=ImageDraw.Draw(im)
+ d.rounded_rectangle((86,246,994,1074),radius=38,outline=(246,201,92,255),width=6)
  d.rounded_rectangle((58,80,530,166),radius=28,fill=(246,201,92,255));d.text((84,101),"MAGAZİN GÜNDEMİ",font=fnt(38),fill=(20,25,42,255))
  d.rounded_rectangle((58,1190,1022,1710),radius=42,fill=(8,12,24,225),outline=(246,201,92,230),width=3)
  title=clean(item.get("title","Magazin gündemi")); lines=wrap(d,title,fnt(67),850)
@@ -96,7 +102,7 @@ def narration(item,a):
  title=clean(item.get("title",""));desc=clean(a.get("description",""));body=clean(a.get("body",""))
  if not desc and body:desc=body[:650]
  if not title or len(desc)<35:return ""
- desc=desc[:760].rsplit(" ",1)[0]+"…" if len(desc)>760 else desc
+ desc=desc[:500].rsplit(" ",1)[0]+"…" if len(desc)>500 else desc
  src=clean(item.get("source") or item.get("source_domain") or "kaynak haber")
  text=(f"Magazin Gündemi'nde öne çıkan haber: {title}. Haberde aktarılanlara göre, {desc} "
        f"Bu gelişmenin ayrıntıları kaynak haberde yer alıyor. Detayları ve bağlamı görmek için kaynak haberi okuyabilirsiniz. "
@@ -145,6 +151,21 @@ def main():
  for child in OUT.iterdir():
   if child.is_dir():shutil.rmtree(child)
   else:child.unlink()
+ # Generate channel branding assets alongside the daily video set.
+ brand=OUT/"branding";brand.mkdir(parents=True,exist_ok=True)
+ icon=Image.new("RGB",(800,800),(16,22,42));idraw=ImageDraw.Draw(icon)
+ idraw.ellipse((55,55,745,745),fill=(246,201,92),outline=(255,255,255),width=8)
+ idraw.text((168,205),"MG",font=fnt(230),fill=(16,22,42))
+ idraw.text((140,490),"MAGAZİN",font=fnt(68),fill=(16,22,42))
+ idraw.text((165,575),"GÜNDEMİ",font=fnt(68),fill=(16,22,42))
+ icon.save(brand/"channel-icon.png")
+ banner=Image.new("RGB",(2560,1440),(16,22,42));bd=ImageDraw.Draw(banner)
+ bd.ellipse((1710,80,2700,1070),fill=(75,44,90));bd.ellipse((-350,600,900,1800),fill=(40,68,104))
+ bd.rounded_rectangle((220,330,2340,1040),radius=80,fill=(8,12,24),outline=(246,201,92),width=8)
+ bd.text((360,470),"MAGAZİN GÜNDEMİ",font=fnt(150),fill=(246,201,92))
+ bd.text((365,700),"Her gün gündemde ne varsa!",font=fnt(76,False),fill=(255,255,255))
+ banner.save(brand/"channel-banner.png")
+ (brand/"channel-description.txt").write_text("Magazin Gündemi; ünlüler, televizyon, müzik ve magazin dünyasındaki güncel gelişmeleri kaynak bağlantılarıyla kısa ve anlaşılır videolarla aktarır. Her gün gündemde ne varsa! Haberlerin ayrıntıları için videolardaki kaynak bağlantılarını ziyaret edin.",encoding="utf-8")
  built=[];errors=[]
  for i,item in enumerate(items,1):
   try:built.append(build(item,i))
