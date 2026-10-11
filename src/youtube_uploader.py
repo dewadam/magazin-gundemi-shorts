@@ -29,7 +29,8 @@ def main():
    print(f"Zaten yüklenmiş, tekrar atlandı: {item.get('title','')}")
    continue
   folder=ROOT/item["folder"];vp=ROOT/item["video"];tp=ROOT/item["thumbnail"];meta=json.loads((folder/"youtube-metadata.json").read_text(encoding="utf-8"))
-  body={"snippet":{"title":meta["title"],"description":meta["description"],"tags":meta.get("tags",[]),"categoryId":meta.get("categoryId","25")},"status":{"privacyStatus":meta.get("privacyStatus","public"),"selfDeclaredMadeForKids":bool(meta.get("madeForKids",False))}}
+  # Force public visibility here; metadata cannot accidentally override it.
+  body={"snippet":{"title":meta["title"],"description":meta["description"],"tags":meta.get("tags",[]),"categoryId":meta.get("categoryId","25")},"status":{"privacyStatus":"public","selfDeclaredMadeForKids":bool(meta.get("madeForKids",False))}}
   req=api.videos().insert(part="snippet,status",body=body,media_body=MediaFileUpload(str(vp),chunksize=-1,resumable=True));response=None
   while response is None:_,response=req.next_chunk()
   vid=response.get("id")
@@ -43,7 +44,7 @@ def main():
    known.add(source_url)
    HISTORY.parent.mkdir(parents=True,exist_ok=True)
    HISTORY.write_text(json.dumps(history,ensure_ascii=False,indent=2),encoding="utf-8")
-  print(f"Yüklendi: https://www.youtube.com/watch?v={vid}")
+  print(f"Yüklendi (public): https://www.youtube.com/watch?v={vid}")
  (OUT/"upload_results.json").write_text(json.dumps(uploaded,ensure_ascii=False,indent=2),encoding="utf-8")
  return 0 if uploaded else 4
 if __name__=="__main__":sys.exit(main())
