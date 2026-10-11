@@ -76,31 +76,43 @@ def background(url,path):
  return im
 def posters(item,article,imagepath,poster,thumb):
  source_image=background(article.get("image_url",""),imagepath)
- im=source_image.resize((W,H),Image.Resampling.LANCZOS).filter(ImageFilter.GaussianBlur(16)).convert("RGBA")
- im=Image.alpha_composite(im,Image.new("RGBA",(W,H),(8,13,28,125)))
- # Keep the article photo visible, not just as a blurred background.
- photo=ImageOps.fit(source_image,(900,820),method=Image.Resampling.LANCZOS).convert("RGBA")
- mask=Image.new("L",photo.size,0);md=ImageDraw.Draw(mask);md.rounded_rectangle((0,0,899,819),radius=34,fill=255)
- im.paste(photo,(90,250),mask);d=ImageDraw.Draw(im)
- d.rounded_rectangle((86,246,994,1074),radius=38,outline=(246,201,92,255),width=6)
- d.rounded_rectangle((58,80,530,166),radius=28,fill=(246,201,92,255));d.text((84,101),"MAGAZİN GÜNDEMİ",font=fnt(38),fill=(20,25,42,255))
- d.rounded_rectangle((58,1190,1022,1710),radius=42,fill=(8,12,24,225),outline=(246,201,92,230),width=3)
- title=clean(item.get("title","Magazin gündemi")); lines=wrap(d,title,fnt(67),850)
- if len(lines)>6:lines=lines[:5]+["…"]
- y=1260
- for line in lines:d.text((105,y),line,font=fnt(67),fill=(255,255,255,255),stroke_width=1,stroke_fill=(0,0,0,150));y+=82
- d.text((78,1780),"Her gün gündemde ne varsa!",font=fnt(34,False),fill=(246,201,92,255));im.convert("RGB").save(poster,quality=92)
- t=im.resize((1280,720),Image.Resampling.LANCZOS).convert("RGBA")
- t=Image.alpha_composite(t,Image.new("RGBA",(1280,720),(8,12,24,55)))
- td=ImageDraw.Draw(t)
- # Keep the source photo visible; reserve only the lower third for readable title text.
- td.rounded_rectangle((35,390,1245,685),radius=28,fill=(8,12,24,238),outline=(246,201,92,255),width=4)
- lines=wrap(td,title,fnt(50),1090)
- if len(lines)>3:lines=lines[:2]+["…"]
- y=415
+ title=clean(item.get("title","Magazin gündemi"))
+ im=Image.new("RGB",(W,H),(8,13,28)).convert("RGBA")
+ d=ImageDraw.Draw(im)
+ d.rectangle((0,0,W,230),fill=(13,19,37,255))
+ d.rounded_rectangle((42,28,132,118),radius=22,fill=(246,201,92,255))
+ d.text((54,37),"MG",font=fnt(42),fill=(16,22,42,255))
+ d.text((150,40),"MAGAZİN GÜNDEMİ",font=fnt(37),fill=(246,201,92,255))
+ d.text((152,84),"Her gün gündemde ne varsa!",font=fnt(23,False),fill=(235,238,245,255))
+ title_font=fnt(35)
+ lines=wrap(d,title,title_font,980)
+ if len(lines)>2: lines=lines[:2]; lines[-1]=lines[-1].rstrip(" .…")+"…"
+ y=139 if len(lines)==2 else 153
  for line in lines:
-  box=td.textbbox((0,0),line,font=fnt(50));td.text(((1280-(box[2]-box[0]))//2,y),line,font=fnt(50),fill=(255,255,255,255));y+=60
- td.text((58,635),"MAGAZİN GÜNDEMİ",font=fnt(27),fill=(246,201,92,255));t.convert("RGB").save(thumb,quality=93)
+  d.text((50,y),line,font=title_font,fill=(255,255,255,255))
+  y+=42
+ photo=ImageOps.fit(source_image,(W,1320),method=Image.Resampling.LANCZOS).convert("RGB")
+ im.paste(photo,(0,230))
+ d=ImageDraw.Draw(im)
+ d.rectangle((0,1550,W,H),fill=(8,12,24,255))
+ d.rectangle((0,1550,14,H),fill=(246,201,92,255))
+ d.rounded_rectangle((36,1582,210,1640),radius=16,fill=(246,201,92,255))
+ d.text((54,1592),"SON DAKİKA",font=fnt(25),fill=(16,22,42,255))
+ d.text((40,1684),"MAGAZİN GÜNDEMİ  •  HER GÜN GÜNDEMDE NE VARSA!",font=fnt(27,False),fill=(246,201,92,255))
+ im.convert("RGB").save(poster,quality=92)
+ t=ImageOps.fit(source_image,(1280,720),method=Image.Resampling.LANCZOS).convert("RGBA")
+ td=ImageDraw.Draw(t)
+ td.rectangle((0,0,1280,116),fill=(8,12,24,235))
+ td.rounded_rectangle((24,20,91,87),radius=15,fill=(246,201,92,255))
+ td.text((34,27),"MG",font=fnt(32),fill=(16,22,42,255))
+ td.text((108,27),"MAGAZİN GÜNDEMİ",font=fnt(31),fill=(246,201,92,255))
+ td.rectangle((0,590,1280,720),fill=(8,12,24,235))
+ lines=wrap(td,title,fnt(34),1200)
+ if len(lines)>2: lines=lines[:2]; lines[-1]=lines[-1].rstrip(" .…")+"…"
+ y=604
+ for line in lines:
+  td.text((30,y),line,font=fnt(34),fill=(255,255,255,255));y+=40
+ t.convert("RGB").save(thumb,quality=93)
 def narration(item,a):
  title=clean(item.get("title",""));desc=clean(a.get("description",""));body=clean(a.get("body",""))
  if not desc and body:desc=body[:650]
@@ -143,11 +155,13 @@ def build(item,index):
   cmd(["ffmpeg","-y","-i",str(wav),"-codec:a","libmp3lame","-q:a","3",str(voice)])
   wav.unlink(missing_ok=True)
   LOG.warning("Edge TTS yerine yerel espeak-ng sesi kullanıldı.")
- dur=duration(voice);make_srt(script,dur,srt)
+ dur=duration(voice)
  music=ROOT/"assets/music/selected_track.mp3"
- vf=f"subtitles='{esc(srt)}':force_style='FontName=DejaVu Sans,FontSize=20,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,BorderStyle=1,Outline=3,Shadow=1,Alignment=2,MarginV=210'"
+ ticker=folder/"ticker.txt"
+ ticker.write_text("   "+clean(item.get("title","Magazin gündemi"))+"     •     MAGAZİN GÜNDEMİ     •     HER GÜN GÜNDEMDE NE VARSA!     ",encoding="utf-8")
+ ticker_filter=f"drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:textfile='{esc(ticker)}':reload=0:fontsize=34:fontcolor=white:box=1:boxcolor=0x080C18@0.95:boxborderw=18:x=w-mod(t*170\\,w+tw):y=h-190"
  if music.exists():
-  args=["ffmpeg","-y","-loop","1","-framerate","30","-i",str(poster),"-i",str(voice),"-stream_loop","-1","-i",str(music),"-filter_complex","[1:a]volume=1.0[voice];[2:a]volume=0.10[music];[voice][music]amix=inputs=2:duration=first:dropout_transition=2[a]","-vf",vf,"-map","0:v","-map","[a]","-t",f"{dur:.2f}"]
+  args=["ffmpeg","-y","-loop","1","-framerate","30","-i",str(poster),"-i",str(voice),"-stream_loop","-1","-i",str(music),"-filter_complex","[1:a]volume=1.0[voice];[2:a]volume=0.10[music];[voice][music]amix=inputs=2:duration=first:dropout_transition=2[a]","-vf",ticker_filter,"-map","0:v","-map","[a]","-t",f"{dur:.2f}"]
  else:args=["ffmpeg","-y","-loop","1","-framerate","30","-i",str(poster),"-i",str(voice),"-vf",vf,"-map","0:v","-map","1:a","-t",f"{dur:.2f}"]
  args += ["-c:v","libx264","-preset","veryfast","-tune","stillimage","-pix_fmt","yuv420p","-c:a","aac","-b:a","192k","-movflags","+faststart",str(video)];cmd(args)
  meta={"title":(title_clean(item.get("title",""))+" #Shorts")[:100],"description":f"{item.get('title','')}\n\nKaynak haber: {item.get('url','')}\nAyrıntılar ve bağlam için kaynak haberi okuyun.\n\n#MagazinGündemi #Magazin #Shorts","tags":["Magazin Gündemi","magazin","magazin haberleri","ünlüler","Shorts"],"categoryId":"25","privacyStatus":os.getenv("YOUTUBE_PRIVACY_STATUS","public"),"madeForKids":False}
