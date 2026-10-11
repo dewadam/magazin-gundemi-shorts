@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import asyncio
 import json
 import logging
 import re
@@ -157,8 +158,8 @@ def fetch_google_news_source(source: dict, max_items: int, lookback_hours: int) 
         google_urls = [x["url"] for x in candidates if "news.google.com/" in x["url"]]
         if google_urls:
             try:
-                from googlenewsdecoder import gnewsdecoder
-                decoded = gnewsdecoder(google_urls, interval=0.15, timeout=15.0)
+                from googlenewsdecoder import gnews_decoder_async
+                decoded = asyncio.run(gnews_decoder_async(google_urls, interval=0.1, timeout=10.0, concurrency=8))
                 decode_results = decoded if isinstance(decoded, list) else [decoded]
             except Exception as exc:
                 LOG.warning("Google News bağlantılarını yayıncı URL'lerine çözme başarısız: %s", exc)
