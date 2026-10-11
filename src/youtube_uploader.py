@@ -1,11 +1,16 @@
 from __future__ import annotations
-import json,os,sys
+import json,os,sys,re,unicodedata
 from pathlib import Path
 from google.oauth2.credentials import Credentials
 from google.auth.transport.requests import Request
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/"output";HISTORY=ROOT/"data/youtube_upload_history.json";SCOPES=["https://www.googleapis.com/auth/youtube.upload"]
+def norm_title(value):
+ value=unicodedata.normalize("NFKD",str(value or "")).encode("ascii","ignore").decode("ascii").lower()
+ value=re.sub(r"[^a-z0-9]+"," ",value)
+ value=re.sub(r"\\bshorts\\b"," ",value)
+ return " ".join(value.split())
 def main():
  raw=os.getenv("YOUTUBE_TOKEN_JSON","").strip()
  if not raw:print("YOUTUBE_TOKEN_JSON tanımlı değil; yükleme atlandı. Videolar artifact olarak saklanacak.");return 0
@@ -21,15 +26,17 @@ def main():
  if HISTORY.exists():
   try:history=json.loads(HISTORY.read_text(encoding="utf-8"))
   except Exception:history={"items":[]}
- known={str(x.get("source_url") or "") for x in history.get("items",[]) if x.get("source_url")}
+ known_urls={str(x.get("source_url") or "").strip().rstrip("/").lower() for x in history.get("items",[]) if x.get("source_url")}
+ known_titles={norm_title(x.get("title","")) for x in history.get("items",[]) if x.get("title")}
  uploaded=[]
  for item in json.loads(mp.read_text(encoding="utf-8")).get("items",[]):
-  source_url=str(item.get("source_url") or "")
-  if source_url and source_url in known:
-   print(f"Zaten yüklenmiş, tekrar atlandı: {item.get('title','')}")
-   continue
+  source_url=str(item.get("source_url") or "").strip().rstrip("/").lower()
   folder=ROOT/item["folder"];vp=ROOT/item["video"];tp=ROOT/item["thumbnail"];meta=json.loads((folder/"youtube-metadata.json").read_text(encoding="utf-8"))
-  # Force public visibility here; metadata cannot accidentally override it.
+  title_key=norm_title(meta.get("title") or item.get("title",""))
+  if (source_url and source_url in known_urls) or (title_key and title_key in known_titles):
+   print(f"Zaten yüklenmiş (kaynak veya başlık eşleşti), tekrar atlandı: {meta.get('title','')}")
+   continue
+  # Force public visibility; metadata cannot override this.
   body={"snippet":{"title":meta["title"],"description":meta["description"],"tags":meta.get("tags",[]),"categoryId":meta.get("categoryId","25")},"status":{"privacyStatus":"public","selfDeclaredMadeForKids":bool(meta.get("madeForKids",False))}}
   req=api.videos().insert(part="snippet,status",body=body,media_body=MediaFileUpload(str(vp),chunksize=-1,resumable=True));response=None
   while response is None:_,response=req.next_chunk()
@@ -41,10 +48,12 @@ def main():
   uploaded.append(record)
   if vid:
    history.setdefault("items",[]).append(record)
-   known.add(source_url)
+   if source_url:known_urls.add(source_url)
+   if title_key:known_titles.add(title_key)
    HISTORY.parent.mkdir(parents=True,exist_ok=True)
    HISTORY.write_text(json.dumps(history,ensure_ascii=False,indent=2),encoding="utf-8")
   print(f"Yüklendi (public): https://www.youtube.com/watch?v={vid}")
  (OUT/"upload_results.json").write_text(json.dumps(uploaded,ensure_ascii=False,indent=2),encoding="utf-8")
- return 0 if uploaded else 4
+ if not uploaded:print("Yeni video yok; tüm videolar daha önce yüklenmiş. İşlem başarılı.")
+ return 0
 if __name__=="__main__":sys.exit(main())
