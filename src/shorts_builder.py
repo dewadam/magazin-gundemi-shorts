@@ -113,7 +113,7 @@ def make_srt(text,dur,path):
  words=text.split();chunks=[words[i:i+7] for i in range(0,len(words),7)];lines=[]
  for i,c in enumerate(chunks):
   lines.extend([str(i+1),f"{stamp(dur*i/len(chunks))} --> {stamp(dur*(i+1)/len(chunks))}"," ".join(c),""])
- path.write_text("\\n".join(lines),encoding="utf-8")
+ path.write_text("\n".join(lines),encoding="utf-8")
 def esc(p):return str(p.resolve()).replace("\\\\","\\\\\\\\").replace(":","\\\\:").replace("'","\\\\'")
 async def tts(text,path):await edge_tts.Communicate(text,VOICE,rate="-4%",volume="+0%").save(str(path))
 def build(item,index):
@@ -131,7 +131,7 @@ def build(item,index):
   args=["ffmpeg","-y","-loop","1","-framerate","30","-i",str(poster),"-i",str(voice),"-stream_loop","-1","-i",str(music),"-filter_complex","[1:a]volume=1.0[voice];[2:a]volume=0.10[music];[voice][music]amix=inputs=2:duration=first:dropout_transition=2[a]","-vf",vf,"-map","0:v","-map","[a]","-t",f"{dur:.2f}"]
  else:args=["ffmpeg","-y","-loop","1","-framerate","30","-i",str(poster),"-i",str(voice),"-vf",vf,"-map","0:v","-map","1:a","-t",f"{dur:.2f}"]
  args += ["-c:v","libx264","-preset","veryfast","-tune","stillimage","-pix_fmt","yuv420p","-c:a","aac","-b:a","192k","-movflags","+faststart",str(video)];cmd(args)
- meta={"title":(title_clean(item.get("title",""))+" #Shorts")[:100],"description":f"{item.get('title','')}\\n\\nKaynak haber: {item.get('url','')}\\nAyrıntılar ve bağlam için kaynak haberi okuyun.\\n\\n#MagazinGündemi #Magazin #Shorts","tags":["Magazin Gündemi","magazin","magazin haberleri","ünlüler","Shorts"],"categoryId":"25","privacyStatus":os.getenv("YOUTUBE_PRIVACY_STATUS","public"),"madeForKids":False}
+ meta={"title":(title_clean(item.get("title",""))+" #Shorts")[:100],"description":f"{item.get('title','')}\n\nKaynak haber: {item.get('url','')}\nAyrıntılar ve bağlam için kaynak haberi okuyun.\n\n#MagazinGündemi #Magazin #Shorts","tags":["Magazin Gündemi","magazin","magazin haberleri","ünlüler","Shorts"],"categoryId":"25","privacyStatus":os.getenv("YOUTUBE_PRIVACY_STATUS","public"),"madeForKids":False}
  (folder/"youtube-metadata.json").write_text(json.dumps(meta,ensure_ascii=False,indent=2),encoding="utf-8")
  LOG.info("Video hazır (%.1fs): %s",dur,item.get("title"))
  return {"title":item.get("title"),"folder":str(folder.relative_to(ROOT)),"video":str(video.relative_to(ROOT)),"thumbnail":str(thumb.relative_to(ROOT)),"duration":round(dur,2),"source_url":item.get("url","")}
