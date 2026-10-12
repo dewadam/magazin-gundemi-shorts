@@ -9,9 +9,12 @@ on:
       - "requirements.txt"
       - ".github/workflows/daily.yml"
   schedule:
-    - cron: "30 3 * * *" # 06:30 Türkiye saati (UTC+3)
-    - cron: "30 7 * * *" # 10:30 Türkiye saati (UTC+3)
-    - cron: "0 13 * * *" # 16:00 Türkiye saati (UTC+3)
+    - cron: "0 5 * * *"
+      timezone: "Europe/Istanbul" # 05:00 Türkiye saati
+    - cron: "30 9 * * *"
+      timezone: "Europe/Istanbul" # 09:30 Türkiye saati
+    - cron: "30 15 * * *"
+      timezone: "Europe/Istanbul" # 15:30 Türkiye saati
 permissions:
   contents: write
 concurrency:
