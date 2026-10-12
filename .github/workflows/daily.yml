@@ -50,6 +50,8 @@ jobs:
         run: python src/shorts_builder.py
         env:
           TTS_VOICE: tr-TR-EmelNeural
+          AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
+          AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
           YOUTUBE_PRIVACY_STATUS: public
       - name: Upload to YouTube if OAuth token is configured
         env:
