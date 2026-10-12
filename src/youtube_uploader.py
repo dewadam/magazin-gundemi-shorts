@@ -38,6 +38,18 @@ def main():
  for item in json.loads(mp.read_text(encoding="utf-8")).get("items",[]):
   source_url=str(item.get("source_url") or "").strip().rstrip("/").lower()
   folder=ROOT/item["folder"];vp=ROOT/item["video"];tp=ROOT/item["thumbnail"];meta=json.loads((folder/"youtube-metadata.json").read_text(encoding="utf-8"))
+  source_image=folder/"source-image.jpg"
+  # Fail closed: never upload a video unless its original publisher image and generated thumbnail are valid.
+  try:
+   if not vp.is_file() or vp.stat().st_size<100_000:raise RuntimeError("video dosyası yok veya geçersiz")
+   if not source_image.is_file() or source_image.stat().st_size<10_000:raise RuntimeError("kaynak haber görseli yok veya boş")
+   if not tp.is_file() or tp.stat().st_size<10_000:raise RuntimeError("YouTube thumbnail dosyası yok veya boş")
+   from PIL import Image
+   with Image.open(source_image) as im:im.verify()
+   with Image.open(tp) as im:im.verify()
+  except Exception as e:
+   print(f"GÖRSEL KONTROLÜ BAŞARISIZ — YouTube yüklemesi engellendi: {item.get('title','')}: {e}",file=sys.stderr)
+   continue
   title_key=norm_title(meta.get("title") or item.get("title",""))
   prior_event=next((old for old in history.get("items",[]) if old.get("title") and same_event({"title":meta.get("title") or item.get("title","")},{"title":old.get("title","")})[0]),None)
   if (source_url and source_url in known_urls) or (title_key and title_key in known_titles) or prior_event:
