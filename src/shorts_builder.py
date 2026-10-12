@@ -197,22 +197,22 @@ def build(item,index):
  image=folder/"source-image.jpg";poster=folder/"poster.jpg";thumb=folder/"thumbnail.jpg";voice=folder/"narration.mp3";srt=folder/"captions.srt";video=folder/"short.mp4"
  posters(item,a,image,poster,thumb)
  # Use the natural neural voice only. Never silently fall back to robotic espeak audio.
-  tts_error=None
-  for attempt in range(1,4):
-   try:
-    voice.unlink(missing_ok=True)
-    asyncio.run(asyncio.wait_for(tts(script,voice),timeout=75))
-    tts_error=None
-    break
-   except Exception as e:
-    tts_error=e
-    voice.unlink(missing_ok=True)
-    LOG.warning("Edge TTS denemesi %d/3 başarısız: %s",attempt,str(e)[:180])
-    if attempt<3:
-     import time
-     time.sleep(2*attempt)
-  if tts_error is not None:
-   raise RuntimeError(f"Doğal Türkçe ses üretilemedi; düşük kaliteli yedek sesle video yayınlanmayacak: {tts_error}")
+ tts_error=None
+ for attempt in range(1,4):
+  try:
+   voice.unlink(missing_ok=True)
+   asyncio.run(asyncio.wait_for(tts(script,voice),timeout=75))
+   tts_error=None
+   break
+  except Exception as e:
+   tts_error=e
+   voice.unlink(missing_ok=True)
+   LOG.warning("Edge TTS denemesi %d/3 başarısız: %s",attempt,str(e)[:180])
+   if attempt<3:
+    import time
+    time.sleep(2*attempt)
+ if tts_error is not None:
+  raise RuntimeError(f"Doğal Türkçe ses üretilemedi; düşük kaliteli yedek sesle video yayınlanmayacak: {tts_error}")
  dur=duration(voice)
  music=ROOT/"assets/music/selected_track.mp3"
  ticker=folder/"ticker.txt"
