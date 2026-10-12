@@ -153,13 +153,21 @@ def posters(item,article,imagepath,poster,thumb):
  # Decorated headline plaque: centered, compact, never overlaps the celebrity image.
  d.rounded_rectangle((34,158,1046,254),radius=22,fill=(25,34,57,255),outline=(246,201,92,255),width=3)
  d.rounded_rectangle((34,158,47,254),radius=6,fill=(246,201,92,255))
- tf=fnt(31); lines=wrap(d,title,tf,940)
- if len(lines)>2: lines=lines[:2]; lines[-1]=lines[-1].rstrip(" .…")+"…"
- total_h=len(lines)*36; y=206-total_h//2
+ # Never slice the headline. Reduce the font and wrap until every word fits inside the plaque.
+ tf=None; lines=[]
+ for size in range(31,17,-1):
+  candidate_font=fnt(size)
+  candidate_lines=wrap(d,title,candidate_font,940)
+  line_h=size+5
+  if len(candidate_lines)<=3 and len(candidate_lines)*line_h<=88:
+   tf=candidate_font;lines=candidate_lines;break
+ if tf is None:
+  tf=fnt(18);lines=wrap(d,title,tf,940)
+ total_h=len(lines)*23; y=206-total_h//2
  for line in lines:
   b=d.textbbox((0,0),line,font=tf)
-  d.text(((W-(b[2]-b[0]))//2,y),line,font=tf,fill=(255,255,255,255),stroke_width=1,stroke_fill=(0,0,0,110))
-  y+=36
+  d.text(((W-(b[2]-b[0])//2,y),y),line,font=tf,fill=(255,255,255,255),stroke_width=1,stroke_fill=(0,0,0,110))
+  y+=23
  # Fit the whole source image without cutting off faces or bodies. Fill any unused space with a soft blurred version.
  photo_bg=ImageOps.fit(source_image,(W,1280),method=Image.Resampling.LANCZOS).filter(ImageFilter.GaussianBlur(24)).convert("RGBA")
  photo_bg=Image.alpha_composite(photo_bg,Image.new("RGBA",photo_bg.size,(7,12,25,75)))
@@ -185,11 +193,20 @@ def posters(item,article,imagepath,poster,thumb):
  brand="MAGAZİN GÜNDEMİ"; bf=fnt(31); bb=td.textbbox((0,0),brand,font=bf)
  td.text((108,28),brand,font=bf,fill=(246,201,92,255))
  td.rectangle((0,586,1280,720),fill=(8,12,24,240))
- lines=wrap(td,title,fnt(34),1210)
- if len(lines)>2: lines=lines[:2]; lines[-1]=lines[-1].rstrip(" .…")+"…"
- y=600
+ # Thumbnail headline also keeps the complete text; font size adapts to long headlines.
+ thumb_font=None;lines=[]
+ for size in range(34,21,-1):
+  candidate_font=fnt(size)
+  candidate_lines=wrap(td,title,candidate_font,1210)
+  if len(candidate_lines)<=3 and len(candidate_lines)*(size+6)<=126:
+   thumb_font=candidate_font;lines=candidate_lines;break
+ if thumb_font is None:
+  thumb_font=fnt(22);lines=wrap(td,title,thumb_font,1210)
+ line_h=max(27,thumb_font.size+6)
+ total_h=len(lines)*line_h
+ y=586+(134-total_h)//2
  for line in lines:
-  td.text((28,y),line,font=fnt(34),fill=(255,255,255,255));y+=40
+  td.text((28,y),line,font=thumb_font,fill=(255,255,255,255));y+=line_h
  t.convert("RGB").save(thumb,quality=93)
 def narration(item,a):
  title=clean(item.get("title",""))
