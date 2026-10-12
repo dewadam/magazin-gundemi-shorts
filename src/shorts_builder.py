@@ -40,14 +40,25 @@ def fetch(url):
  req=urllib.request.Request(url,headers={"User-Agent":UA,"Accept-Language":"tr-TR,tr;q=0.9,en;q=0.5"})
  with urllib.request.urlopen(req,timeout=18) as r:return r.read(4000000).decode(r.headers.get_content_charset() or "utf-8",errors="replace")
 def article_data(item):
- url=str(item.get("url") or "")
- if not url.startswith(("https://","http://")):return {}, "invalid URL"
- try:
-  p=Parser();p.feed(fetch(url)); body=" ".join(p.ps[:24])
-  desc=p.meta.get("og:description") or p.meta.get("description") or p.meta.get("twitter:description") or (body[:900] if body else "")
-  img=p.meta.get("og:image") or p.meta.get("twitter:image") or ""
-  return {"page_title":clean(p.meta.get("og:title") or " ".join(p.title) or item.get("title")),"description":clean(desc),"image_url":urllib.parse.urljoin(url,img) if img else "","body":body,"url":url}, ""
- except Exception as e:return {},str(e)[:180]
+ # Try the selected article first, then other direct-publisher articles for the same event.
+ candidates=[]
+ primary=str(item.get("url") or "")
+ if primary:candidates.append(primary)
+ for other in item.get("source_articles",[]) or []:
+  url=str(other.get("url") or "")
+  if url and url not in candidates:candidates.append(url)
+ errors=[]
+ for url in candidates:
+  if not url.startswith(("https://","http://")):continue
+  try:
+   p=Parser();p.feed(fetch(url)); body=" ".join(p.ps[:24])
+   desc=p.meta.get("og:description") or p.meta.get("description") or p.meta.get("twitter:description") or (body[:900] if body else "")
+   img=p.meta.get("og:image") or p.meta.get("twitter:image") or ""
+   data={"page_title":clean(p.meta.get("og:title") or " ".join(p.title) or item.get("title")),"description":clean(desc),"image_url":urllib.parse.urljoin(url,img) if img else "","body":body,"url":url}
+   if len(body)>180 or len(clean(desc))>180:return data, ""
+   errors.append("Sayfada uzun açıklama veya haber metni bulunamadı")
+  except Exception as e:errors.append(f"{urllib.parse.urlparse(url).netloc}: {str(e)[:100]}")
+ return {}, "; ".join(errors[:3]) or "Erişilebilir yayıncı metni bulunamadı"
 def fnt(size,bold=True):
  for p in (BOLD if bold else REG):
   if Path(p).exists():return ImageFont.truetype(p,size=size)
@@ -149,10 +160,14 @@ def narration(item,a):
   return True
  # Prefer the article body; use metadata only if the publisher blocks the body.
  paragraphs=[]
- for p in re.split(r"(?<=[.!?])\\s+",body):
+ for p in re.split(r"(?<=[.!?])\s+",body):
   p=clean(p)
   if useful(p) and p not in paragraphs:paragraphs.append(p)
  if not paragraphs and useful(desc):paragraphs=[desc]
+ # Do not narrate the generic Google News collector placeholder.
+ feed_summary=clean(item.get("summary",""))
+ if not paragraphs and useful(feed_summary) and "google news bağlantı çözücüsüyle doğrudan url" not in feed_summary.casefold():
+  paragraphs=[feed_summary]
  if not title or not paragraphs:return ""
  # Build a fuller 40–60 second report from several concrete article details.
  # Avoid reading an entire article verbatim: use a short quote only if the source
