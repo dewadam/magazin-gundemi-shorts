@@ -9,7 +9,7 @@ ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/"output";HISTORY=ROOT/"data/yo
 def norm_title(value):
  value=unicodedata.normalize("NFKD",str(value or "")).encode("ascii","ignore").decode("ascii").lower()
  value=re.sub(r"[^a-z0-9]+"," ",value)
- value=re.sub(r"\\bshorts\\b"," ",value)
+ value=re.sub(r"\bshorts\b"," ",value)
  return " ".join(value.split())
 try:
  from event_matcher import same_event
