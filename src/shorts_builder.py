@@ -196,15 +196,23 @@ def build(item,index):
  (folder/"source.json").write_text(json.dumps({"title":item.get("title"),"url":item.get("url"),"source":item.get("source"),"article_metadata":a,"created_at":datetime.now(timezone.utc).isoformat(),"visual_rights_note":"Open Graph görselinin yeniden kullanım lisansı otomatik doğrulanmamıştır."},ensure_ascii=False,indent=2),encoding="utf-8")
  image=folder/"source-image.jpg";poster=folder/"poster.jpg";thumb=folder/"thumbnail.jpg";voice=folder/"narration.mp3";srt=folder/"captions.srt";video=folder/"short.mp4"
  posters(item,a,image,poster,thumb)
- try:
-  asyncio.run(asyncio.wait_for(tts(script,voice),timeout=45))
- except Exception as tts_error:
-  if not shutil.which("espeak-ng"):raise RuntimeError(f"Edge TTS başarısız ve espeak-ng yok: {tts_error}")
-  wav=voice.with_suffix(".wav")
-  subprocess.run(["espeak-ng","-v","tr","-s","145","-w",str(wav),script],check=True,capture_output=True)
-  cmd(["ffmpeg","-y","-i",str(wav),"-codec:a","libmp3lame","-q:a","3",str(voice)])
-  wav.unlink(missing_ok=True)
-  LOG.warning("Edge TTS yerine yerel espeak-ng sesi kullanıldı.")
+ # Use the natural neural voice only. Never silently fall back to robotic espeak audio.
+  tts_error=None
+  for attempt in range(1,4):
+   try:
+    voice.unlink(missing_ok=True)
+    asyncio.run(asyncio.wait_for(tts(script,voice),timeout=75))
+    tts_error=None
+    break
+   except Exception as e:
+    tts_error=e
+    voice.unlink(missing_ok=True)
+    LOG.warning("Edge TTS denemesi %d/3 başarısız: %s",attempt,str(e)[:180])
+    if attempt<3:
+     import time
+     time.sleep(2*attempt)
+  if tts_error is not None:
+   raise RuntimeError(f"Doğal Türkçe ses üretilemedi; düşük kaliteli yedek sesle video yayınlanmayacak: {tts_error}")
  dur=duration(voice)
  music=ROOT/"assets/music/selected_track.mp3"
  ticker=folder/"ticker.txt"
