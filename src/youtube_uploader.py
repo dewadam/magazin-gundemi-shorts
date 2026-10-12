@@ -10,6 +10,7 @@ from googleapiclient.http import MediaFileUpload
 from googleapiclient.errors import ResumableUploadError
 ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/"output";HISTORY=ROOT/"data/youtube_upload_history.json";SCOPES=["https://www.googleapis.com/auth/youtube.upload"]
 DAILY_UPLOAD_LIMIT=max(1,int(os.getenv("YOUTUBE_DAILY_UPLOAD_LIMIT","3")))
+PER_RUN_UPLOAD_LIMIT=1
 TURKEY_TZ=ZoneInfo("Europe/Istanbul")
 def norm_title(value):
  value=unicodedata.normalize("NFKD",str(value or "")).encode("ascii","ignore").decode("ascii").lower()
@@ -55,6 +56,9 @@ def main():
   (OUT/"upload_results.json").write_text("[]",encoding="utf-8")
   return 0
  for item in json.loads(mp.read_text(encoding="utf-8")).get("items",[]):
+  if len(uploaded)>=PER_RUN_UPLOAD_LIMIT:
+   print(f"Bu çalıştırmanın yükleme sınırı ({PER_RUN_UPLOAD_LIMIT}) doldu; kalan videolar atlandı.")
+   break
   if daily_count+len(uploaded)>=DAILY_UPLOAD_LIMIT:
    print(f"Günlük yükleme sınırı ({DAILY_UPLOAD_LIMIT}) doldu; kalan videolar atlandı.")
    break
