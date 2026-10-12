@@ -123,17 +123,23 @@ def wrap(draw,text,ft,maxw):
  if line:lines.append(line)
  return lines
 def background(url,path):
- if url:
-  try:
-   req=urllib.request.Request(url,headers={"User-Agent":UA})
-   with urllib.request.urlopen(req,timeout=15) as r:path.write_bytes(r.read(8000000))
-   return Image.open(path).convert("RGB")
-  except Exception as e:LOG.warning("Görsel alınamadı, özgün marka zemini kullanılacak: %s",str(e)[:100])
- im=Image.new("RGB",(W,H),(16,22,42));d=ImageDraw.Draw(im)
- for y in range(H):
-  q=y/H;d.line((0,y,W,y),fill=(int(16+q*18),int(22+q*12),int(42+q*34)))
- d.ellipse((650,160,1280,790),fill=(75,44,90));d.ellipse((-250,980,550,1800),fill=(40,68,104))
- return im
+ if not url or not str(url).startswith(("https://","http://")):
+  raise RuntimeError("Haber görseli bulunamadı; görselsiz video üretimi/yüklemesi yasak.")
+ try:
+  req=urllib.request.Request(url,headers={"User-Agent":UA,"Accept":"image/avif,image/webp,image/apng,image/*,*/*;q=0.8"})
+  with urllib.request.urlopen(req,timeout=20) as r:
+   content_type=(r.headers.get("Content-Type") or "").lower()
+   payload=r.read(8000000)
+  if not payload or (content_type and not content_type.startswith("image/")):
+   raise RuntimeError(f"URL bir görsel döndürmedi (Content-Type={content_type or 'bilinmiyor'}).")
+  path.write_bytes(payload)
+  with Image.open(path) as probe:
+   probe.verify()
+  return Image.open(path).convert("RGB")
+ except Exception as e:
+  path.unlink(missing_ok=True)
+  raise RuntimeError(f"Haber görseli indirilemedi veya geçersiz; video oluşturulmayacak: {e}") from e
+
 def posters(item,article,imagepath,poster,thumb):
  source_image=background(article.get("image_url",""),imagepath)
  title=clean(item.get("title","Magazin gündemi"))
