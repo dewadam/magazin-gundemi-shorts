@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-10-12T09:13:44.732861+00:00",
+  "generated_at": "2026-10-12T09:23:20.320339+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
-      "title": "Çağatay Ulusoy’dan aile ziyareti! Anne ve babasıyla Bulgaristan’daki köyüne gitti",
-      "normalized_title": "cagatay ulusoy dan aile ziyareti anne ve babasiyla bulgaristan daki koyune gitti",
-      "url": "https://www.ntv.com.tr/yasam/cagatay-ulusoydan-aile-ziyareti-anne-ve-babasiyla-bulgaristandaki-koyune-gitti-1745836",
-      "source": "ntv.com.tr",
+      "title": "Çağatay Ulusoy’dan Bulgaristan’daki köyüne ziyaret",
+      "normalized_title": "cagatay ulusoy dan bulgaristan daki koyune ziyaret",
+      "url": "https://www.sozcu.com.tr/cagatay-ulusoy-dan-bulgaristan-daki-koyune-ziyaret-p368166",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:13:06.496394+00:00",
+      "collected_at": "2026-10-12T09:22:40.841040+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
+      "also_reported_by": [
+        {
+          "source": "haberturk.com",
+          "source_role": "publisher",
+          "source_domain": "haberturk.com",
+          "title": "Çağatay Ulusoy'dan Bulgaristan'daki köyüne ziyaret",
+          "url": "https://www.haberturk.com/magazin/foto/cagatay-ulusoy-dan-bulgaristan-daki-koyune-ziyaret-3918897",
+          "published_at": null
+        }
+      ],
       "source_articles": [
         {
           "source": "sozcu.com.tr",
@@ -30,69 +39,46 @@
           "source_domain": "haberturk.com",
           "url": "https://www.haberturk.com/magazin/foto/cagatay-ulusoy-dan-bulgaristan-daki-koyune-ziyaret-3918897",
           "title": "Çağatay Ulusoy'dan Bulgaristan'daki köyüne ziyaret"
-        },
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/cagatay-ulusoydan-aile-ziyareti-anne-ve-babasiyla-bulgaristandaki-koyune-gitti-1745836",
-          "title": "Çağatay Ulusoy’dan aile ziyareti! Anne ve babasıyla Bulgaristan’daki köyüne gitti"
         }
       ],
       "publisher_domains": [
         "haberturk.com",
-        "ntv.com.tr",
         "sozcu.com.tr"
       ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
+      "popularity_score": 20.0,
+      "possible_syndication": true,
       "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
       "publication_approved": false,
       "coverage_label": "multi_publisher",
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Çağatay Ulusoy’dan aile ziyareti! Anne ve babasıyla Bulgaristan’daki köyüne gitti | NTV Haber",
-        "og_title": "Çağatay Ulusoy’dan aile ziyareti! Anne ve babasıyla Bulgaristan’daki köyüne gitti | NTV Haber",
-        "description": "Çağatay Ulusoy, annesi Refiye Ulusoy ve babası Aylin Ulusoy ile birlikte Bulgaristan'daki köyünü ziyaret etti.",
+        "page_title": "Çağatay Ulusoy’dan Bulgaristan’daki köyüne ziyaret - Sözcü",
+        "og_title": "Çağatay Ulusoy’dan Bulgaristan’daki köyüne ziyaret - Sözcü Gazetesi",
+        "description": "Ünlü oyuncu Çağatay Ulusoy, anne ve babasıyla birlikte Bulgaristan’a giderek babasının memleketi Belilom köyünü ziyaret etti. Akrabaları ve köy sakinleriyle bir araya gelen Ulusoy, kendisiyle fotoğraf çektirmek isteyenleri de geri çevirmedi.",
         "error": null
       },
       "independent_source_matches": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "title": "Çağatay Ulusoy’dan Bulgaristan’daki köyüne ziyaret",
-          "summary": "",
-          "url": "https://www.sozcu.com.tr/cagatay-ulusoy-dan-bulgaristan-daki-koyune-ziyaret-p368166",
-          "match_score": 0.63,
-          "shared_keywords": [
-            "bulgaristan",
-            "cagatay",
-            "daki",
-            "koyune",
-            "ulusoy"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        },
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
           "title": "Çağatay Ulusoy'dan Bulgaristan'daki köyüne ziyaret",
           "summary": "",
           "url": "https://www.haberturk.com/magazin/foto/cagatay-ulusoy-dan-bulgaristan-daki-koyune-ziyaret-3918897",
-          "match_score": 0.63,
+          "match_score": 1.0,
           "shared_keywords": [
             "bulgaristan",
             "cagatay",
             "daki",
             "koyune",
-            "ulusoy"
+            "ulusoy",
+            "ziyaret"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
@@ -110,7 +96,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:13:06.496760+00:00",
+      "collected_at": "2026-10-12T09:22:40.841637+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -182,7 +168,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:13:06.497642+00:00",
+      "collected_at": "2026-10-12T09:22:40.843519+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
