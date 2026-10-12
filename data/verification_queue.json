@@ -1,9 +1,128 @@
 {
-  "generated_at": "2026-10-12T09:39:13.292566+00:00",
+  "generated_at": "2026-10-12T15:51:05.471374+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
+    {
+      "title": "\"Kuzuma nazar değdi\" diyerek duyurdu! Demet Akalın'ın eşi Okan Kurt acillik oldu!",
+      "normalized_title": "kuzuma nazar degdi diyerek duyurdu demet akalin in esi okan kurt acillik oldu",
+      "url": "https://www.sabah.com.tr/magazin/kuzuma-nazar-degdi-diyerek-duyurdu-demet-akalinin-esi-okan-kurt-acillik-oldu-7678873",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T15:50:27.209487+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/demet-akalin-in-hayat-arkadasi-okan-kurt-hastanelik-oldu-3919113",
+          "title": "Demet Akalın'ın hayat arkadaşı Okan Kurt hastanelik oldu"
+        },
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/okan-kurt-hastanelik-oldu-demet-akalindan-uyari-43338430",
+          "title": "Okan Kurt hastanelik oldu! Demet Akalın’dan uyarı..."
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/magazin/kuzuma-nazar-degdi-diyerek-duyurdu-demet-akalinin-esi-okan-kurt-acillik-oldu-7678873",
+          "title": "\"Kuzuma nazar değdi\" diyerek duyurdu! Demet Akalın'ın eşi Okan Kurt acillik oldu!"
+        },
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/unlu-sarkici-demet-akalin-duyurdu-okan-kurt-arabada-fenalasarak-acillik-oldu-2545879",
+          "title": "Ünlü şarkıcı Demet Akalın duyurdu: Okan Kurt arabada fenalaşarak acillik oldu"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "haberturk.com",
+        "hurriyet.com.tr",
+        "sabah.com.tr"
+      ],
+      "publisher_count": 4,
+      "direct_article_count": 4,
+      "event_member_count": 4,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 40.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "\"Kuzuma nazar değdi\" diyerek duyurdu! Demet Akalın'ın eşi Okan Kurt acillik oldu! - Son Dakika Magazin Haberleri",
+        "og_title": "'Kuzuma nazar değdi' diyerek duyurdu! Demet Akalın'ın eşi Okan Kurt acillik oldu!",
+        "description": "Magazin dünyasının gözde çifti Demet Akalın ve Okan Kurt’tan sevenlerini korkutan bir haber geldi. Geçtiğimiz aylarda kaslı pozlarıyla sosyal medyayı sallayan Okan Kurt, yaşadığı beklenmedik durum sonrası soluğu acil serviste aldı. İşte detaylar! Magazin dünyasının en çok konuşulan çiftlerinden...",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "title": "Demet Akalın'ın hayat arkadaşı Okan Kurt hastanelik oldu",
+          "summary": "",
+          "url": "https://www.haberturk.com/magazin/demet-akalin-in-hayat-arkadasi-okan-kurt-hastanelik-oldu-3919113",
+          "match_score": 0.5,
+          "shared_keywords": [
+            "akal",
+            "demet",
+            "kurt",
+            "okan"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        },
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "title": "Okan Kurt hastanelik oldu! Demet Akalın’dan uyarı...",
+          "summary": "",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/okan-kurt-hastanelik-oldu-demet-akalindan-uyari-43338430",
+          "match_score": 0.5,
+          "shared_keywords": [
+            "akal",
+            "demet",
+            "kurt",
+            "okan"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        },
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "title": "Ünlü şarkıcı Demet Akalın duyurdu: Okan Kurt arabada fenalaşarak acillik oldu",
+          "summary": "",
+          "url": "https://www.cumhuriyet.com.tr/magazin/unlu-sarkici-demet-akalin-duyurdu-okan-kurt-arabada-fenalasarak-acillik-oldu-2545879",
+          "match_score": 0.53,
+          "shared_keywords": [
+            "acillik",
+            "akal",
+            "demet",
+            "duyurdu",
+            "kurt",
+            "okan"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
     {
       "title": "Kırgın Çiçekler'le tanınan İpek Karapınar'dan karnı burnunda pozlar: “Birkaç haftamız kaldı”",
       "normalized_title": "kirgin cicekler le taninan ipek karapinar dan karni burnunda pozlar birkac haftamiz kaldi",
@@ -14,7 +133,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:38:35.634651+00:00",
+      "collected_at": "2026-10-12T15:50:27.210667+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -78,16 +197,16 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Acılı anne baba Cindy Crawford ve Rande Gerber oğullarının ölümünden sonra ilk kez görüntülendi",
-      "normalized_title": "acili anne baba cindy crawford ve rande gerber ogullarinin olumunden sonra ilk kez goruntulendi",
-      "url": "https://www.haberturk.com/magazin/acili-anne-baba-cindy-crawford-ve-rande-gerber-ogullarinin-olumunden-sonra-ilk-kez-goruntulendi-3918872",
-      "source": "haberturk.com",
+      "title": "Didem Balçın'dan samimi itiraf: \"Her şeye yetişemiyorum\"",
+      "normalized_title": "didem balcin dan samimi itiraf her seye yetisemiyorum",
+      "url": "https://www.bursadabugun.com/haber/didem-balcin-dan-samimi-itiraf-her-seye-yetisemiyorum-1955831.html",
+      "source": "bursadabugun.com",
       "source_role": "publisher",
-      "source_domain": "haberturk.com",
+      "source_domain": "bursadabugun.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:38:35.636817+00:00",
+      "collected_at": "2026-10-12T15:50:27.210433+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -95,18 +214,18 @@
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/acili-anne-baba-cindy-crawford-ve-rande-gerber-ogullarinin-olumunden-sonra-ilk-kez-goruntulendi-3918872",
-          "title": "Acılı anne baba Cindy Crawford ve Rande Gerber oğullarının ölümünden sonra ilk kez görüntülendi"
+          "url": "https://www.haberturk.com/magazin/didem-balcin-her-seye-yetisemiyorum-3919074",
+          "title": "Didem Balçın: Her şeye yetişemiyorum"
         },
         {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/magazin/cindy-crawford-oglunun-olumunden-sonra-esiyle-ilk-20317791-haberi/",
-          "title": "Cindy Crawford, oğlunun ölümünden sonra eşiyle ilk kez görüntülendi"
+          "source": "bursadabugun.com",
+          "source_domain": "bursadabugun.com",
+          "url": "https://www.bursadabugun.com/haber/didem-balcin-dan-samimi-itiraf-her-seye-yetisemiyorum-1955831.html",
+          "title": "Didem Balçın'dan samimi itiraf: \"Her şeye yetişemiyorum\""
         }
       ],
       "publisher_domains": [
-        "haberler.com",
+        "bursadabugun.com",
         "haberturk.com"
       ],
       "publisher_count": 2,
@@ -123,97 +242,25 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Acılı anne baba Cindy Crawford ve Rande Gerber oğullarının ölümünden sonra ilk kez görüntülendi",
-        "og_title": "Acılı anne baba Cindy Crawford ve Rande Gerber oğullarının ölümünden sonra ilk kez görüntülendi",
-        "description": "Cindy Crawford ve eşi Rande Gerber, 27 yaşındaki oğulları Presley'nin ölümünden sonra ilk kez birlikte görüldü",
+        "page_title": "Didem Balçın'dan samimi itiraf: \"Her şeye yetişemiyorum\" - Magazin Haberleri - Bursadabugun.com",
+        "og_title": "Didem Balçın'dan samimi itiraf: \"Her şeye yetişemiyorum\"",
+        "description": "Oyuncu Didem Balçın, katıldığı televizyon programında annelik, iş hayatı ve babasının kaybıyla birlikte değişen yaşamına dair içten açıklamalarda bulundu. Bloomberg HT ekranlarında yayınlanan Aslı Şafak'la İşin Aslı programına konuk olan oyuncu, günlük yaşamın sorumlulukları arasında denge kurmanın her zaman kolay olmadığını dile getirdi. Mayıs 2025'te babasını kaybeden Balçın, yas sürecine ilişkin düşüncelerini de paylaşarak acının belirli bir zamanın sonunda tamamen geride bırakılmadığını vurguladı.",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "title": "Cindy Crawford, oğlunun ölümünden sonra eşiyle ilk kez görüntülendi",
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "title": "Didem Balçın: Her şeye yetişemiyorum",
           "summary": "",
-          "url": "https://www.haberler.com/magazin/cindy-crawford-oglunun-olumunden-sonra-esiyle-ilk-20317791-haberi/",
-          "match_score": 0.61,
+          "url": "https://www.haberturk.com/magazin/didem-balcin-her-seye-yetisemiyorum-3919074",
+          "match_score": 0.76,
           "shared_keywords": [
-            "cindy",
-            "crawford",
-            "goruntulendi",
-            "ilk",
-            "kez",
-            "olumunden"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "Tuzlu Kahve'den yeni sürpriz. Ajda Pekkan \"Hatun\" ile halayda",
-      "normalized_title": "tuzlu kahve den yeni surpriz ajda pekkan hatun ile halayda",
-      "url": "https://www.ntv.com.tr/yasam/tuzlu-kahveden-yeni-surpriz-ajda-pekkan-hatun-ile-halayda-1745804",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T09:38:35.637131+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/tuzlu-kahveden-yeni-surpriz-ajda-pekkan-hatun-ile-halayda-1745804",
-          "title": "Tuzlu Kahve'den yeni sürpriz. Ajda Pekkan \"Hatun\" ile halayda"
-        },
-        {
-          "source": "kralmuzik.com.tr",
-          "source_domain": "kralmuzik.com.tr",
-          "url": "https://www.kralmuzik.com.tr/haberler/tuzlu-kahvede-ajda-pekkan-surprizi",
-          "title": "'TUZLU KAHVE'DE AJDA PEKKAN SÜRPRİZİ!"
-        }
-      ],
-      "publisher_domains": [
-        "kralmuzik.com.tr",
-        "ntv.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Tuzlu Kahve'den yeni sürpriz. Ajda Pekkan \"Hatun\" ile halayda | NTV Haber",
-        "og_title": "Tuzlu Kahve'den yeni sürpriz. Ajda Pekkan \"Hatun\" ile halayda | NTV Haber",
-        "description": "Star TV'nin iddialı dizisi Tuzlu Kahve salı akşamlarına damga vurmaya devam ediyor. Bu Salı yeni bölümü yayımlanacak diziye Ajda Pekkan konuk oluyor. ",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "kralmuzik.com.tr",
-          "source_domain": "kralmuzik.com.tr",
-          "title": "'TUZLU KAHVE'DE AJDA PEKKAN SÜRPRİZİ!",
-          "summary": "",
-          "url": "https://www.kralmuzik.com.tr/haberler/tuzlu-kahvede-ajda-pekkan-surprizi",
-          "match_score": 0.6,
-          "shared_keywords": [
-            "ajda",
-            "kahve",
-            "pekkan",
-            "tuzlu"
+            "balc",
+            "didem",
+            "her",
+            "seye",
+            "yetisemiyorum"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
