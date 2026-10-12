@@ -1,337 +1,43 @@
 {
-  "generated_at": "2026-10-12T15:51:04.048613+00:00",
-  "candidate_count": 99,
-  "event_group_count": 51,
-  "multi_publisher_event_count": 7,
+  "generated_at": "2026-10-12T18:07:24.540439+00:00",
+  "candidate_count": 100,
+  "event_group_count": 52,
+  "multi_publisher_event_count": 6,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "\"Kuzuma nazar değdi\" diyerek duyurdu! Demet Akalın'ın eşi Okan Kurt acillik oldu!",
-      "normalized_title": "kuzuma nazar degdi diyerek duyurdu demet akalin in esi okan kurt acillik oldu",
-      "url": "https://www.sabah.com.tr/magazin/kuzuma-nazar-degdi-diyerek-duyurdu-demet-akalinin-esi-okan-kurt-acillik-oldu-7678873",
-      "source": "sabah.com.tr",
+      "title": "Oyuncu Deniz Işın, yaşadığı sözlü tacizi anlattı: Her kimse ne kendi gücüne ne de karşısındakinin 'güçsüzlüğüne' güvensin!",
+      "normalized_title": "oyuncu deniz isin yasadigi sozlu tacizi anlatti her kimse ne kendi gucune ne de karsisindakinin gucsuzlugune guvensin",
+      "url": "https://t24.com.tr/magazin/oyuncu-deniz-isin-yasadigi-sozlu-tacizi-anlatti-her-kimse-ne-kendi-gucune-ne-de-karsisindakinin-gucsuzlugune-guvensin,1352821",
+      "source": "t24.com.tr",
       "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
+      "source_domain": "t24.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.209487+00:00",
+      "collected_at": "2026-10-12T18:06:45.313311+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/demet-akalin-in-hayat-arkadasi-okan-kurt-hastanelik-oldu-3919113",
-          "title": "Demet Akalın'ın hayat arkadaşı Okan Kurt hastanelik oldu"
-        },
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/okan-kurt-hastanelik-oldu-demet-akalindan-uyari-43338430",
-          "title": "Okan Kurt hastanelik oldu! Demet Akalın’dan uyarı..."
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/deniz-isin-yasadigi-tacizi-anlatti-bagira-bagira-uzaklastim-oradan-43338810",
+          "title": "Deniz Işın yaşadığı tacizi anlattı: Bağıra bağıra uzaklaştım oradan!"
         },
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/kuzuma-nazar-degdi-diyerek-duyurdu-demet-akalinin-esi-okan-kurt-acillik-oldu-7678873",
-          "title": "\"Kuzuma nazar değdi\" diyerek duyurdu! Demet Akalın'ın eşi Okan Kurt acillik oldu!"
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/unlu-sarkici-demet-akalin-duyurdu-okan-kurt-arabada-fenalasarak-acillik-oldu-2545879",
-          "title": "Ünlü şarkıcı Demet Akalın duyurdu: Okan Kurt arabada fenalaşarak acillik oldu"
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/oyuncu-deniz-isin-yasadigi-sozlu-tacizi-anlatti-her-kimse-ne-kendi-gucune-ne-de-karsisindakinin-gucsuzlugune-guvensin,1352821",
+          "title": "Oyuncu Deniz Işın, yaşadığı sözlü tacizi anlattı: Her kimse ne kendi gücüne ne de karşısındakinin 'güçsüzlüğüne' güvensin!"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "haberturk.com",
         "hurriyet.com.tr",
-        "sabah.com.tr"
-      ],
-      "publisher_count": 4,
-      "direct_article_count": 4,
-      "event_member_count": 4,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 40.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Kırgın Çiçekler'le tanınan İpek Karapınar'dan karnı burnunda pozlar: “Birkaç haftamız kaldı”",
-      "normalized_title": "kirgin cicekler le taninan ipek karapinar dan karni burnunda pozlar birkac haftamiz kaldi",
-      "url": "https://www.sozcu.com.tr/kirgin-cicekler-le-taninan-ipek-karapinar-dan-karni-burnunda-pozlar-birkac-haftamiz-kaldi-p368380",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.210667+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/ipek-karapinar-kaldi-birkac-haftamiz-3918930",
-          "title": "İpek Karapınar: Kaldı birkaç haftamız"
-        },
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/kirgin-cicekler-le-taninan-ipek-karapinar-dan-karni-burnunda-pozlar-birkac-haftamiz-kaldi-p368380",
-          "title": "Kırgın Çiçekler'le tanınan İpek Karapınar'dan karnı burnunda pozlar: “Birkaç haftamız kaldı”"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.5,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Didem Balçın'dan samimi itiraf: \"Her şeye yetişemiyorum\"",
-      "normalized_title": "didem balcin dan samimi itiraf her seye yetisemiyorum",
-      "url": "https://www.bursadabugun.com/haber/didem-balcin-dan-samimi-itiraf-her-seye-yetisemiyorum-1955831.html",
-      "source": "bursadabugun.com",
-      "source_role": "publisher",
-      "source_domain": "bursadabugun.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.210433+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/didem-balcin-her-seye-yetisemiyorum-3919074",
-          "title": "Didem Balçın: Her şeye yetişemiyorum"
-        },
-        {
-          "source": "bursadabugun.com",
-          "source_domain": "bursadabugun.com",
-          "url": "https://www.bursadabugun.com/haber/didem-balcin-dan-samimi-itiraf-her-seye-yetisemiyorum-1955831.html",
-          "title": "Didem Balçın'dan samimi itiraf: \"Her şeye yetişemiyorum\""
-        }
-      ],
-      "publisher_domains": [
-        "bursadabugun.com",
-        "haberturk.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    }
-  ],
-  "event_groups_preview": [
-    {
-      "title": "\"Kuzuma nazar değdi\" diyerek duyurdu! Demet Akalın'ın eşi Okan Kurt acillik oldu!",
-      "normalized_title": "kuzuma nazar degdi diyerek duyurdu demet akalin in esi okan kurt acillik oldu",
-      "url": "https://www.sabah.com.tr/magazin/kuzuma-nazar-degdi-diyerek-duyurdu-demet-akalinin-esi-okan-kurt-acillik-oldu-7678873",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.209487+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/demet-akalin-in-hayat-arkadasi-okan-kurt-hastanelik-oldu-3919113",
-          "title": "Demet Akalın'ın hayat arkadaşı Okan Kurt hastanelik oldu"
-        },
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/okan-kurt-hastanelik-oldu-demet-akalindan-uyari-43338430",
-          "title": "Okan Kurt hastanelik oldu! Demet Akalın’dan uyarı..."
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/kuzuma-nazar-degdi-diyerek-duyurdu-demet-akalinin-esi-okan-kurt-acillik-oldu-7678873",
-          "title": "\"Kuzuma nazar değdi\" diyerek duyurdu! Demet Akalın'ın eşi Okan Kurt acillik oldu!"
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/unlu-sarkici-demet-akalin-duyurdu-okan-kurt-arabada-fenalasarak-acillik-oldu-2545879",
-          "title": "Ünlü şarkıcı Demet Akalın duyurdu: Okan Kurt arabada fenalaşarak acillik oldu"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "haberturk.com",
-        "hurriyet.com.tr",
-        "sabah.com.tr"
-      ],
-      "publisher_count": 4,
-      "direct_article_count": 4,
-      "event_member_count": 4,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 40.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Kırgın Çiçekler'le tanınan İpek Karapınar'dan karnı burnunda pozlar: “Birkaç haftamız kaldı”",
-      "normalized_title": "kirgin cicekler le taninan ipek karapinar dan karni burnunda pozlar birkac haftamiz kaldi",
-      "url": "https://www.sozcu.com.tr/kirgin-cicekler-le-taninan-ipek-karapinar-dan-karni-burnunda-pozlar-birkac-haftamiz-kaldi-p368380",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.210667+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/ipek-karapinar-kaldi-birkac-haftamiz-3918930",
-          "title": "İpek Karapınar: Kaldı birkaç haftamız"
-        },
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/kirgin-cicekler-le-taninan-ipek-karapinar-dan-karni-burnunda-pozlar-birkac-haftamiz-kaldi-p368380",
-          "title": "Kırgın Çiçekler'le tanınan İpek Karapınar'dan karnı burnunda pozlar: “Birkaç haftamız kaldı”"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.5,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Didem Balçın'dan samimi itiraf: \"Her şeye yetişemiyorum\"",
-      "normalized_title": "didem balcin dan samimi itiraf her seye yetisemiyorum",
-      "url": "https://www.bursadabugun.com/haber/didem-balcin-dan-samimi-itiraf-her-seye-yetisemiyorum-1955831.html",
-      "source": "bursadabugun.com",
-      "source_role": "publisher",
-      "source_domain": "bursadabugun.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.210433+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/didem-balcin-her-seye-yetisemiyorum-3919074",
-          "title": "Didem Balçın: Her şeye yetişemiyorum"
-        },
-        {
-          "source": "bursadabugun.com",
-          "source_domain": "bursadabugun.com",
-          "url": "https://www.bursadabugun.com/haber/didem-balcin-dan-samimi-itiraf-her-seye-yetisemiyorum-1955831.html",
-          "title": "Didem Balçın'dan samimi itiraf: \"Her şeye yetişemiyorum\""
-        }
-      ],
-      "publisher_domains": [
-        "bursadabugun.com",
-        "haberturk.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Kaşif Kozinoğlu soruşturmasına gelişme: Dönemin Silivri Cumhuriyet Başsavcısı Ali İşgören ve Hasan Atilla Uğur’a gözaltı",
-      "normalized_title": "kasif kozinoglu sorusturmasina gelisme donemin silivri cumhuriyet bassavcisi ali isgoren ve hasan atilla ugur a gozalti",
-      "url": "https://www.izgazete.net/kasif-kozinoglu-sorusturmasina-gelisme-donemin-silivri-cumhuriyet-bassavcisi-ali-isgoren-ve-hasan-atilla-ugura-gozalti",
-      "source": "izgazete.net",
-      "source_role": "publisher",
-      "source_domain": "izgazete.net",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.211661+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "tr724.com",
-          "source_domain": "tr724.com",
-          "url": "https://www.tr724.com/kasif-kozinoglu-sorusturmasinda-yeni-gozalti-kararlari-hasan-atilla-ugur-da-listede/",
-          "title": "Kaşif Kozinoğlu soruşturmasında yeni gözaltı kararları; Hasan Atilla Uğur da listede"
-        },
-        {
-          "source": "izgazete.net",
-          "source_domain": "izgazete.net",
-          "url": "https://www.izgazete.net/kasif-kozinoglu-sorusturmasina-gelisme-donemin-silivri-cumhuriyet-bassavcisi-ali-isgoren-ve-hasan-atilla-ugura-gozalti",
-          "title": "Kaşif Kozinoğlu soruşturmasına gelişme: Dönemin Silivri Cumhuriyet Başsavcısı Ali İşgören ve Hasan Atilla Uğur’a gözaltı"
-        }
-      ],
-      "publisher_domains": [
-        "izgazete.net",
-        "tr724.com"
+        "t24.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -355,7 +61,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.211799+00:00",
+      "collected_at": "2026-10-12T18:06:45.314880+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -399,7 +105,287 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.212277+00:00",
+      "collected_at": "2026-10-12T18:06:45.315343+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "bianet.org",
+          "source_domain": "bianet.org",
+          "url": "https://bianet.org/haber/berna-lacin-serbest-birakildi-324234",
+          "title": "Berna Laçin serbest bırakıldı"
+        },
+        {
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/haber/haber-serbest-birakilan-berna-lacin-dostlariyla-poz-20317766/",
+          "title": "Serbest bırakılan Berna Laçin dostlarıyla poz verdi: İyiyim"
+        }
+      ],
+      "publisher_domains": [
+        "bianet.org",
+        "sondakika.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    }
+  ],
+  "event_groups_preview": [
+    {
+      "title": "\"Kuzuma nazar değdi\" diyerek duyurdu! Demet Akalın'ın eşi Okan Kurt acillik oldu!",
+      "normalized_title": "kuzuma nazar degdi diyerek duyurdu demet akalin in esi okan kurt acillik oldu",
+      "url": "https://www.sabah.com.tr/magazin/kuzuma-nazar-degdi-diyerek-duyurdu-demet-akalinin-esi-okan-kurt-acillik-oldu-7678873",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T18:06:45.312325+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/demet-akalin-in-hayat-arkadasi-okan-kurt-hastanelik-oldu-3919113",
+          "title": "Demet Akalın'ın hayat arkadaşı Okan Kurt hastanelik oldu"
+        },
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/okan-kurt-hastanelik-oldu-demet-akalindan-uyari-43338430",
+          "title": "Okan Kurt hastanelik oldu! Demet Akalın’dan uyarı..."
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/magazin/kuzuma-nazar-degdi-diyerek-duyurdu-demet-akalinin-esi-okan-kurt-acillik-oldu-7678873",
+          "title": "\"Kuzuma nazar değdi\" diyerek duyurdu! Demet Akalın'ın eşi Okan Kurt acillik oldu!"
+        },
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/unlu-sarkici-demet-akalin-duyurdu-okan-kurt-arabada-fenalasarak-acillik-oldu-2545879",
+          "title": "Ünlü şarkıcı Demet Akalın duyurdu: Okan Kurt arabada fenalaşarak acillik oldu"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "haberturk.com",
+        "hurriyet.com.tr",
+        "sabah.com.tr"
+      ],
+      "publisher_count": 4,
+      "direct_article_count": 4,
+      "event_member_count": 4,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 40.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Oyuncu Deniz Işın, yaşadığı sözlü tacizi anlattı: Her kimse ne kendi gücüne ne de karşısındakinin 'güçsüzlüğüne' güvensin!",
+      "normalized_title": "oyuncu deniz isin yasadigi sozlu tacizi anlatti her kimse ne kendi gucune ne de karsisindakinin gucsuzlugune guvensin",
+      "url": "https://t24.com.tr/magazin/oyuncu-deniz-isin-yasadigi-sozlu-tacizi-anlatti-her-kimse-ne-kendi-gucune-ne-de-karsisindakinin-gucsuzlugune-guvensin,1352821",
+      "source": "t24.com.tr",
+      "source_role": "publisher",
+      "source_domain": "t24.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T18:06:45.313311+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/deniz-isin-yasadigi-tacizi-anlatti-bagira-bagira-uzaklastim-oradan-43338810",
+          "title": "Deniz Işın yaşadığı tacizi anlattı: Bağıra bağıra uzaklaştım oradan!"
+        },
+        {
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/oyuncu-deniz-isin-yasadigi-sozlu-tacizi-anlatti-her-kimse-ne-kendi-gucune-ne-de-karsisindakinin-gucsuzlugune-guvensin,1352821",
+          "title": "Oyuncu Deniz Işın, yaşadığı sözlü tacizi anlattı: Her kimse ne kendi gücüne ne de karşısındakinin 'güçsüzlüğüne' güvensin!"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr",
+        "t24.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Didem Balçın'dan samimi itiraf: \"Her şeye yetişemiyorum\"",
+      "normalized_title": "didem balcin dan samimi itiraf her seye yetisemiyorum",
+      "url": "https://www.bursadabugun.com/haber/didem-balcin-dan-samimi-itiraf-her-seye-yetisemiyorum-1955831.html",
+      "source": "bursadabugun.com",
+      "source_role": "publisher",
+      "source_domain": "bursadabugun.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T18:06:45.313514+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/didem-balcin-her-seye-yetisemiyorum-3919074",
+          "title": "Didem Balçın: Her şeye yetişemiyorum"
+        },
+        {
+          "source": "bursadabugun.com",
+          "source_domain": "bursadabugun.com",
+          "url": "https://www.bursadabugun.com/haber/didem-balcin-dan-samimi-itiraf-her-seye-yetisemiyorum-1955831.html",
+          "title": "Didem Balçın'dan samimi itiraf: \"Her şeye yetişemiyorum\""
+        }
+      ],
+      "publisher_domains": [
+        "bursadabugun.com",
+        "haberturk.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Onur Büyüktopçu'dan Üzen Açıklama: \"Parkinson ve Demans Teşhisi Konuldu\"",
+      "normalized_title": "onur buyuktopcu dan uzen aciklama parkinson ve demans teshisi konuldu",
+      "url": "https://www.gecce.com.tr/haber/onur-buyuktopcudan-uzen-aciklama-parkinson-ve-demans-teshisi-konuldu-332889.html",
+      "source": "gecce.com.tr",
+      "source_role": "publisher",
+      "source_domain": "gecce.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T18:06:45.313828+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/onur-buyuktopcu-parkinson-teshisi-konuldu-3918937",
+          "title": "Onur Büyüktopçu: Parkinson teşhisi konuldu"
+        },
+        {
+          "source": "gecce.com.tr",
+          "source_domain": "gecce.com.tr",
+          "url": "https://www.gecce.com.tr/haber/onur-buyuktopcudan-uzen-aciklama-parkinson-ve-demans-teshisi-konuldu-332889.html",
+          "title": "Onur Büyüktopçu'dan Üzen Açıklama: \"Parkinson ve Demans Teşhisi Konuldu\""
+        }
+      ],
+      "publisher_domains": [
+        "gecce.com.tr",
+        "haberturk.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Çağatay Ulusoy'dan kökenlerine yolculuk: Ailecek Bulgaristan'a gittiler",
+      "normalized_title": "cagatay ulusoy dan kokenlerine yolculuk ailecek bulgaristan a gittiler",
+      "url": "https://t24.com.tr/foto-haber/cagatay-ulusoydan-kokenlerine-yolculuk-ailecek-bulgaristana-gittiler,42727",
+      "source": "t24.com.tr",
+      "source_role": "publisher",
+      "source_domain": "t24.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T18:06:45.314880+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/foto-haber/cagatay-ulusoydan-kokenlerine-yolculuk-ailecek-bulgaristana-gittiler,42727",
+          "title": "Çağatay Ulusoy'dan kökenlerine yolculuk: Ailecek Bulgaristan'a gittiler"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/cagatay-ulusoy-dan-bulgaristan-daki-koyune-ziyaret-3918897",
+          "title": "Çağatay Ulusoy'dan Bulgaristan'daki köyüne ziyaret"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "t24.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Serbest bırakılan Berna Laçin dostlarıyla poz verdi: İyiyim",
+      "normalized_title": "serbest birakilan berna lacin dostlariyla poz verdi iyiyim",
+      "url": "https://www.sondakika.com/haber/haber-serbest-birakilan-berna-lacin-dostlariyla-poz-20317766/",
+      "source": "sondakika.com",
+      "source_role": "publisher",
+      "source_domain": "sondakika.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T18:06:45.315343+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -434,96 +420,6 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Tuzlu Kahve'den yeni sürpriz. Ajda Pekkan \"Hatun\" ile halayda",
-      "normalized_title": "tuzlu kahve den yeni surpriz ajda pekkan hatun ile halayda",
-      "url": "https://www.ntv.com.tr/yasam/tuzlu-kahveden-yeni-surpriz-ajda-pekkan-hatun-ile-halayda-1745804",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.212852+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/tuzlu-kahveden-yeni-surpriz-ajda-pekkan-hatun-ile-halayda-1745804",
-          "title": "Tuzlu Kahve'den yeni sürpriz. Ajda Pekkan \"Hatun\" ile halayda"
-        },
-        {
-          "source": "kralmuzik.com.tr",
-          "source_domain": "kralmuzik.com.tr",
-          "url": "https://www.kralmuzik.com.tr/haberler/tuzlu-kahvede-ajda-pekkan-surprizi",
-          "title": "'TUZLU KAHVE'DE AJDA PEKKAN SÜRPRİZİ!"
-        }
-      ],
-      "publisher_domains": [
-        "kralmuzik.com.tr",
-        "ntv.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Penelope Cruz'dan Javier Bardem açıklaması: Çok sık birlikte çalışmak istemiyoruz",
-      "normalized_title": "penelope cruz dan javier bardem aciklamasi cok sik birlikte calismak istemiyoruz",
-      "url": "https://news.google.com/read/CBMivwFBVV95cUxPbXRiOXMxVGR0NF9kZk1GSVE1YW9LOFhkMXBhRzMtSU5nWThTbWJGSGgzZUpmcUgxREtnZmFqMGtDYmhxQ1QyNGgtZjhkNGRvWmpscE83cXVnWnlDYkJTQ3hzSWlHbnNmaXFwbzNWM3BOa19DOUt1bFRNc3NsZzF6VlpCLWt4VTRCQ1pNeG5vbVZvU1d6LU0xc2FkVmpXTGZLODd0SW84LUJzRS13Z2NKVjBkQnVrNktFSHR6M2JlQQ?hl=tr&gl=TR&ceid=TR%3Atr",
-      "source": "Google News sonucu",
-      "source_role": "publisher",
-      "source_domain": "google-news-cluster:penelope-cruz-dan-javier-bardem-aciklamasi-cok-sik-birlikte-calismak-i",
-      "published_at": null,
-      "summary": "Google News konu akışından bulunan haber kümesi. Kaynak sayısı ilgili /read/ veya /stories/ sayfasından çıkarılmalıdır.",
-      "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.215355+00:00",
-      "status": "google_news_discovered_not_verified",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [
-        {
-          "source": "Google News sonucu",
-          "source_role": "publisher",
-          "source_domain": "google-news-cluster:penelope-cruz-dan-javier-bardem-aciklamasi-cok-sik-birlikte-calismak-i",
-          "title": "Penelope Cruz'dan Javier Bardem açıklaması: Çok sık birlikte çalışmak istemiyoruz",
-          "url": "https://news.google.com/read/CBMivwFBVV95cUxPbXRiOXMxVGR0NF9kZk1GSVE1YW9LOFhkMXBhRzMtSU5nWThTbWJGSGgzZUpmcUgxREtnZmFqMGtDYmhxQ1QyNGgtZjhkNGRvWmpscE83cXVnWnlDYkJTQ3hzSWlHbnNmaXFwbzNWM3BOa19DOUt1bFRNc3NsZzF6VlpCLWt4VTRCQ1pNeG5vbVZvU1d6LU0xc2FkVmpXTGZLODd0SW84LUJzRS13Z2NKVjBkQnVrNktFSHR6M2JlQQ?hl=tr&gl=TR&ceid=TR%3Atr",
-          "published_at": null
-        }
-      ],
-      "source_articles": [
-        {
-          "source": "Google News sonucu",
-          "source_domain": "google-news-cluster:penelope-cruz-dan-javier-bardem-aciklamasi-cok-sik-birlikte-calismak-i",
-          "url": "https://news.google.com/read/CBMivwFBVV95cUxPbXRiOXMxVGR0NF9kZk1GSVE1YW9LOFhkMXBhRzMtSU5nWThTbWJGSGgzZUpmcUgxREtnZmFqMGtDYmhxQ1QyNGgtZjhkNGRvWmpscE83cXVnWnlDYkJTQ3hzSWlHbnNmaXFwbzNWM3BOa19DOUt1bFRNc3NsZzF6VlpCLWt4VTRCQ1pNeG5vbVZvU1d6LU0xc2FkVmpXTGZLODd0SW84LUJzRS13Z2NKVjBkQnVrNktFSHR6M2JlQQ?hl=tr&gl=TR&ceid=TR%3Atr",
-          "title": "Penelope Cruz'dan Javier Bardem açıklaması: Çok sık birlikte çalışmak istemiyoruz"
-        }
-      ],
-      "publisher_domains": [
-        "google-news-cluster:penelope-cruz-dan-javier-bardem-aciklamasi-cok-sik-birlikte-calismak-i"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 3,
-      "discovery_item_count": 2,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 11.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Usta sanatçı Nihat Ziyalan hayatını kaybetti",
       "normalized_title": "usta sanatci nihat ziyalan hayatini kaybetti",
       "url": "https://www.hurriyet.com.tr/kelebek/televizyon/usta-sanatci-nihat-ziyalan-hayatini-kaybetti-43338675",
@@ -533,7 +429,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.208938+00:00",
+      "collected_at": "2026-10-12T18:06:45.311100+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -570,7 +466,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.209049+00:00",
+      "collected_at": "2026-10-12T18:06:45.311215+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -607,7 +503,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.209155+00:00",
+      "collected_at": "2026-10-12T18:06:45.311321+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -644,7 +540,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.209241+00:00",
+      "collected_at": "2026-10-12T18:06:45.311406+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -672,6 +568,339 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "Tom Cruise'un rol aldığı Digger Hollywood'un en düşük gişeli filmleri arasına girebilir",
+      "normalized_title": "tom cruise un rol aldigi digger hollywood un en dusuk giseli filmleri arasina girebilir",
+      "url": "https://www.bbc.com/turkce/articles/c5398vgxjmz0o",
+      "source": "bbc.com",
+      "source_role": "publisher",
+      "source_domain": "bbc.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T18:06:45.311495+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "bbc.com",
+          "source_domain": "bbc.com",
+          "url": "https://www.bbc.com/turkce/articles/c5398vgxjmz0o",
+          "title": "Tom Cruise'un rol aldığı Digger Hollywood'un en düşük gişeli filmleri arasına girebilir"
+        }
+      ],
+      "publisher_domains": [
+        "bbc.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Hollywood yıldızları Tom Cruise'un başarısız filmine sahip çıktı",
+      "normalized_title": "hollywood yildizlari tom cruise un basarisiz filmine sahip cikti",
+      "url": "https://www.odatv.com/kultur-sanat/tom-cruiseun-digger-filmi-gisede-kaybetti-unlulerden-destek-geldi-120166196",
+      "source": "odatv.com",
+      "source_role": "publisher",
+      "source_domain": "odatv.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T18:06:45.311574+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/kultur-sanat/tom-cruiseun-digger-filmi-gisede-kaybetti-unlulerden-destek-geldi-120166196",
+          "title": "Hollywood yıldızları Tom Cruise'un başarısız filmine sahip çıktı"
+        }
+      ],
+      "publisher_domains": [
+        "odatv.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Alejandro G. Iñárritu'dan Açıklama: \"Filmin Final Sahnesi Geleceğimiz İçin Bir Uyarı!",
+      "normalized_title": "alejandro g inarritu dan aciklama filmin final sahnesi gelecegimiz icin bir uyari",
+      "url": "https://www.beyazperde.com/haberler/filmler/haberler-1000226876/",
+      "source": "beyazperde.com",
+      "source_role": "publisher",
+      "source_domain": "beyazperde.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T18:06:45.311672+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "beyazperde.com",
+          "source_domain": "beyazperde.com",
+          "url": "https://www.beyazperde.com/haberler/filmler/haberler-1000226876/",
+          "title": "Alejandro G. Iñárritu'dan Açıklama: \"Filmin Final Sahnesi Geleceğimiz İçin Bir Uyarı!"
+        }
+      ],
+      "publisher_domains": [
+        "beyazperde.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Iñárritu'nun 'Digger' Filmi İstanbul Modern'de Vizyon Öncesi",
+      "normalized_title": "inarritu nun digger filmi istanbul modern de vizyon oncesi",
+      "url": "https://www.sanatmat.com/etkinlik/inarritunun-digger-filmi-istanbul-modernde-vizyon-oncesi-1739",
+      "source": "sanatmat.com",
+      "source_role": "publisher",
+      "source_domain": "sanatmat.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T18:06:45.311770+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sanatmat.com",
+          "source_domain": "sanatmat.com",
+          "url": "https://www.sanatmat.com/etkinlik/inarritunun-digger-filmi-istanbul-modernde-vizyon-oncesi-1739",
+          "title": "Iñárritu'nun 'Digger' Filmi İstanbul Modern'de Vizyon Öncesi"
+        }
+      ],
+      "publisher_domains": [
+        "sanatmat.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Kovacs Kimdir, Kaç Yaşında, Nereli? Ufuk Beydemir'in Sevgilisi Sharon Kovacs'ın Hayatı",
+      "normalized_title": "kovacs kimdir kac yasinda nereli ufuk beydemir in sevgilisi sharon kovacs in hayati",
+      "url": "https://onedio.com/haber/kovacs-kimdir-kac-yasinda-nereli-ufuk-beydemir-in-sevgilisi-sharon-kovacs-in-hayati-1387929",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T18:06:45.311859+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/kovacs-kimdir-kac-yasinda-nereli-ufuk-beydemir-in-sevgilisi-sharon-kovacs-in-hayati-1387929",
+          "title": "Kovacs Kimdir, Kaç Yaşında, Nereli? Ufuk Beydemir'in Sevgilisi Sharon Kovacs'ın Hayatı"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Şarkıcı Ufuk Beydemir'den sürpriz paylaşım... Gizemli anne ortaya çıktı!",
+      "normalized_title": "sarkici ufuk beydemir den surpriz paylasim gizemli anne ortaya cikti",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/sarkici-ufuk-beydemirden-surpriz-paylasim-gizemli-anne-ortaya-cikti-43338568",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T18:06:45.311934+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/sarkici-ufuk-beydemirden-surpriz-paylasim-gizemli-anne-ortaya-cikti-43338568",
+          "title": "Şarkıcı Ufuk Beydemir'den sürpriz paylaşım... Gizemli anne ortaya çıktı!"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "'İsim açıklanacak' denildi, pazartesi geldi: YENİ Parti’den yeni isim çıkmadı",
+      "normalized_title": "isim aciklanacak denildi pazartesi geldi yeni parti den yeni isim cikmadi",
+      "url": "https://www.odatv.com/siyaset/fon-sorusturmasinda-yeni-parti-yeni-isim-aciklamadi-umit-ozlale-sonrasi-teyit-vurgusu-120166320",
+      "source": "odatv.com",
+      "source_role": "publisher",
+      "source_domain": "odatv.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T18:06:45.312014+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/siyaset/fon-sorusturmasinda-yeni-parti-yeni-isim-aciklamadi-umit-ozlale-sonrasi-teyit-vurgusu-120166320",
+          "title": "'İsim açıklanacak' denildi, pazartesi geldi: YENİ Parti’den yeni isim çıkmadı"
+        }
+      ],
+      "publisher_domains": [
+        "odatv.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Babalık Haberiyle Şaşırtmıştı: Ufuk Beydemir'in Sır Gibi Sakladığı Sevgilisi Dünyaca Ünlü Şarkıcı Çıktı!",
+      "normalized_title": "babalik haberiyle sasirtmisti ufuk beydemir in sir gibi sakladigi sevgilisi dunyaca unlu sarkici cikti",
+      "url": "https://onedio.com/haber/ufuk-beydemir-in-bebeginin-annesi-belli-oldu-gizemli-sevgilisi-hollandali-sarkici-sharon-kovacs-cikti-1387914",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T18:06:45.312103+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/ufuk-beydemir-in-bebeginin-annesi-belli-oldu-gizemli-sevgilisi-hollandali-sarkici-sharon-kovacs-cikti-1387914",
+          "title": "Babalık Haberiyle Şaşırtmıştı: Ufuk Beydemir'in Sır Gibi Sakladığı Sevgilisi Dünyaca Ünlü Şarkıcı Çıktı!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Cem Yılmaz hayatını kurtaran hastanede söz verdi: 'Bu çocuksu bir vaat değil'",
+      "normalized_title": "cem yilmaz hayatini kurtaran hastanede soz verdi bu cocuksu bir vaat degil",
+      "url": "https://www.ahaber.com.tr/galeri/magazin/cem-yilmaz-hayatini-kurtaran-hastanede-soz-verdi-bu-cocuksu-bir-vaat-degil",
+      "source": "ahaber.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ahaber.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T18:06:45.312480+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ahaber.com.tr",
+          "source_domain": "ahaber.com.tr",
+          "url": "https://www.ahaber.com.tr/galeri/magazin/cem-yilmaz-hayatini-kurtaran-hastanede-soz-verdi-bu-cocuksu-bir-vaat-degil",
+          "title": "Cem Yılmaz hayatını kurtaran hastanede söz verdi: 'Bu çocuksu bir vaat değil'"
+        }
+      ],
+      "publisher_domains": [
+        "ahaber.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "ÇOMÜ'de kontrol randevusu. Cem Yılmaz kalp krizi sonrası anjiyo olduğu hastanede",
       "normalized_title": "comu de kontrol randevusu cem yilmaz kalp krizi sonrasi anjiyo oldugu hastanede",
       "url": "https://www.ntv.com.tr/yasam/galeri-comude-kontrol-randevusu-cem-yilmaz-kalp-krizi-sonrasi-anjiyo-oldugu-hastanede-1745962",
@@ -681,7 +910,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.209686+00:00",
+      "collected_at": "2026-10-12T18:06:45.312559+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -709,80 +938,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Cem Yılmaz hayatını kurtaran hastanede söz verdi: \"Bu çocuksu bir vaat değil\"",
-      "normalized_title": "cem yilmaz hayatini kurtaran hastanede soz verdi bu cocuksu bir vaat degil",
-      "url": "https://www.ahaber.com.tr/galeri/magazin/cem-yilmaz-hayatini-kurtaran-hastanede-soz-verdi-bu-cocuksu-bir-vaat-degil",
-      "source": "ahaber.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ahaber.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.209768+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ahaber.com.tr",
-          "source_domain": "ahaber.com.tr",
-          "url": "https://www.ahaber.com.tr/galeri/magazin/cem-yilmaz-hayatini-kurtaran-hastanede-soz-verdi-bu-cocuksu-bir-vaat-degil",
-          "title": "Cem Yılmaz hayatını kurtaran hastanede söz verdi: \"Bu çocuksu bir vaat değil\""
-        }
-      ],
-      "publisher_domains": [
-        "ahaber.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Kalp krizi atlatmıştı: Cem Yılmaz tedavi gördüğü hastanenin önünden poz verdi",
-      "normalized_title": "kalp krizi atlatmisti cem yilmaz tedavi gordugu hastanenin onunden poz verdi",
-      "url": "https://www.cumhuriyet.com.tr/magazin/kalp-krizi-atlatmisti-cem-yilmaz-tedavi-gordugu-hastanenin-onunden-poz-verdi-2545893",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.209847+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/kalp-krizi-atlatmisti-cem-yilmaz-tedavi-gordugu-hastanenin-onunden-poz-verdi-2545893",
-          "title": "Kalp krizi atlatmıştı: Cem Yılmaz tedavi gördüğü hastanenin önünden poz verdi"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Mobile-Video Haber Detay",
       "normalized_title": "mobile video haber detay",
       "url": "https://www.iha.com.tr/video-kalp-krizi-sonrasi-kontrol-icin-canakkaleye-gelen-cem-yilmaz-durumum-iyi-allaha-sukur-zor-bir-sey-atlattigim-icin-dikkat-etmem-lazim",
@@ -792,7 +947,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.209898+00:00",
+      "collected_at": "2026-10-12T18:06:45.312610+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -820,29 +975,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Ceren Karakoç Nursema Rolünden Kalan Boyun Sıkıntıları İçin Fizik Tedavi Gördüğünü Anlattı",
-      "normalized_title": "ceren karakoc nursema rolunden kalan boyun sikintilari icin fizik tedavi gordugunu anlatti",
-      "url": "https://onedio.com/haber/ceren-karakoc-nursema-rolunden-kalan-kamburluk-ve-boyun-sikintilari-icin-fizik-tedavi-gordugunu-anlatti-1387692",
-      "source": "onedio.com",
+      "title": "Kalp krizi atlatmıştı: Cem Yılmaz tedavi gördüğü hastanenin önünden poz verdi",
+      "normalized_title": "kalp krizi atlatmisti cem yilmaz tedavi gordugu hastanenin onunden poz verdi",
+      "url": "https://www.cumhuriyet.com.tr/magazin/kalp-krizi-atlatmisti-cem-yilmaz-tedavi-gordugu-hastanenin-onunden-poz-verdi-2545893",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.209990+00:00",
+      "collected_at": "2026-10-12T18:06:45.312686+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/ceren-karakoc-nursema-rolunden-kalan-kamburluk-ve-boyun-sikintilari-icin-fizik-tedavi-gordugunu-anlatti-1387692",
-          "title": "Ceren Karakoç Nursema Rolünden Kalan Boyun Sıkıntıları İçin Fizik Tedavi Gördüğünü Anlattı"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/kalp-krizi-atlatmisti-cem-yilmaz-tedavi-gordugu-hastanenin-onunden-poz-verdi-2545893",
+          "title": "Kalp krizi atlatmıştı: Cem Yılmaz tedavi gördüğü hastanenin önünden poz verdi"
         }
       ],
       "publisher_domains": [
-        "onedio.com"
+        "cumhuriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -857,16 +1012,127 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Kızılcık Şerbeti'nde ayrılık rüzgarı: Görevi yeni ekibe devrettiler",
-      "normalized_title": "kizilcik serbeti nde ayrilik ruzgari gorevi yeni ekibe devrettiler",
-      "url": "https://www.sozcu.com.tr/kizilcik-serbeti-nde-ayrilik-ruzgari-gorevi-yeni-ekibe-devrettiler-p368092",
+      "title": "Hacı Sabancı ve Nazlı Sabancı çiftinin Mardin romantizmi",
+      "normalized_title": "haci sabanci ve nazli sabanci ciftinin mardin romantizmi",
+      "url": "https://www.patronlardunyasi.com/haci-sabanci-ve-nazli-sabanci-ciftinin-mardin-romantizmi",
+      "source": "patronlardunyasi.com",
+      "source_role": "publisher",
+      "source_domain": "patronlardunyasi.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T18:06:45.312778+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "patronlardunyasi.com",
+          "source_domain": "patronlardunyasi.com",
+          "url": "https://www.patronlardunyasi.com/haci-sabanci-ve-nazli-sabanci-ciftinin-mardin-romantizmi",
+          "title": "Hacı Sabancı ve Nazlı Sabancı çiftinin Mardin romantizmi"
+        }
+      ],
+      "publisher_domains": [
+        "patronlardunyasi.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "5 yıldızlı otel kapatıldı... Sosyete Mardin’de!",
+      "normalized_title": "5 yildizli otel kapatildi sosyete mardin de",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/5-yildizli-otel-kapatildi-sosyete-mardinde-43338209",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T18:06:45.312845+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/5-yildizli-otel-kapatildi-sosyete-mardinde-43338209",
+          "title": "5 yıldızlı otel kapatıldı... Sosyete Mardin’de!"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Mardin Mardin olalı böyle eğlence görmedi",
+      "normalized_title": "mardin mardin olali boyle eglence gormedi",
+      "url": "https://www.sabah.com.tr/yazarlar/gunaydin/cankurt/2026/10/12/mardin-mardin-olali-boyle-eglence-gormedi",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T18:06:45.312907+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/yazarlar/gunaydin/cankurt/2026/10/12/mardin-mardin-olali-boyle-eglence-gormedi",
+          "title": "Mardin Mardin olalı böyle eğlence görmedi"
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Sosyete vaftiz için Mardin'e gitti: Tef çalıp zılgıt çektiler",
+      "normalized_title": "sosyete vaftiz icin mardin e gitti tef calip zilgit cektiler",
+      "url": "https://www.sozcu.com.tr/sosyete-vaftiz-icin-mardin-e-gitti-tef-calip-zilgit-cektiler-p368000",
       "source": "sozcu.com.tr",
       "source_role": "publisher",
       "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.210064+00:00",
+      "collected_at": "2026-10-12T18:06:45.312978+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -874,8 +1140,8 @@
         {
           "source": "sozcu.com.tr",
           "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/kizilcik-serbeti-nde-ayrilik-ruzgari-gorevi-yeni-ekibe-devrettiler-p368092",
-          "title": "Kızılcık Şerbeti'nde ayrılık rüzgarı: Görevi yeni ekibe devrettiler"
+          "url": "https://www.sozcu.com.tr/sosyete-vaftiz-icin-mardin-e-gitti-tef-calip-zilgit-cektiler-p368000",
+          "title": "Sosyete vaftiz için Mardin'e gitti: Tef çalıp zılgıt çektiler"
         }
       ],
       "publisher_domains": [
@@ -894,16 +1160,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Kızılcık Şerbeti'nden 'Atılan' Nursema Ceren Karakoç, Babasının Tepkisini Gözleri Dolarak Anlattı",
-      "normalized_title": "kizilcik serbeti nden atilan nursema ceren karakoc babasinin tepkisini gozleri dolarak anlatti",
-      "url": "https://onedio.com/haber/kizilcik-serbeti-nden-atilan-nursema-ceren-karakoc-babasinin-tepkisini-gozleri-dolarak-anlatti-1387850",
+      "title": "Sevdiğim Sensin'in Nilüfer'i Deniz Işın Tacize Uğradığı Geceyi Anlattı: \"Geç Saatte\" Diyenlere Rest Çekti!",
+      "normalized_title": "sevdigim sensin in nilufer i deniz isin tacize ugradigi geceyi anlatti gec saatte diyenlere rest cekti",
+      "url": "https://onedio.com/haber/sevdigim-sensin-in-nilufer-i-deniz-isin-tacize-ugradigi-geceyi-anlatti-gec-saatte-diyenlere-rest-cekti-1387816",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.210148+00:00",
+      "collected_at": "2026-10-12T18:06:45.313068+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -911,8 +1177,8 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/kizilcik-serbeti-nden-atilan-nursema-ceren-karakoc-babasinin-tepkisini-gozleri-dolarak-anlatti-1387850",
-          "title": "Kızılcık Şerbeti'nden 'Atılan' Nursema Ceren Karakoç, Babasının Tepkisini Gözleri Dolarak Anlattı"
+          "url": "https://onedio.com/haber/sevdigim-sensin-in-nilufer-i-deniz-isin-tacize-ugradigi-geceyi-anlatti-gec-saatte-diyenlere-rest-cekti-1387816",
+          "title": "Sevdiğim Sensin'in Nilüfer'i Deniz Işın Tacize Uğradığı Geceyi Anlattı: \"Geç Saatte\" Diyenlere Rest Çekti!"
         }
       ],
       "publisher_domains": [
@@ -931,29 +1197,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Kızılcık Şerbeti'ne ne olacak: Yapımcı Faruk Turgut Odatv'ye anlattı",
-      "normalized_title": "kizilcik serbeti ne ne olacak yapimci faruk turgut odatv ye anlatti",
-      "url": "https://www.odatv.com/ozel/kizilcik-serbetinde-senarist-degisikligini-faruk-turgut-anlatti-120166083",
-      "source": "odatv.com",
+      "title": "Sevdiğim Sensin dizisinin başrol oyuncusu Deniz Işın taciz edildiğini açıkladı!",
+      "normalized_title": "sevdigim sensin dizisinin basrol oyuncusu deniz isin taciz edildigini acikladi",
+      "url": "https://www.cumhuriyet.com.tr/magazin/sevdigim-sensin-dizisinin-basrol-oyuncusu-deniz-isin-taciz-edildigini-acikladi-2545902",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "odatv.com",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.210220+00:00",
+      "collected_at": "2026-10-12T18:06:45.313213+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/ozel/kizilcik-serbetinde-senarist-degisikligini-faruk-turgut-anlatti-120166083",
-          "title": "Kızılcık Şerbeti'ne ne olacak: Yapımcı Faruk Turgut Odatv'ye anlattı"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/sevdigim-sensin-dizisinin-basrol-oyuncusu-deniz-isin-taciz-edildigini-acikladi-2545902",
+          "title": "Sevdiğim Sensin dizisinin başrol oyuncusu Deniz Işın taciz edildiğini açıkladı!"
         }
       ],
       "publisher_domains": [
-        "odatv.com"
+        "cumhuriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -977,7 +1243,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.210363+00:00",
+      "collected_at": "2026-10-12T18:06:45.313448+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1005,325 +1271,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "İlk kez anne olacak İpek Karapınar doğum için gün sayıyor",
-      "normalized_title": "ilk kez anne olacak ipek karapinar dogum icin gun sayiyor",
-      "url": "https://www.haberler.com/magazin/ilk-kez-anne-olacak-ipek-karapinar-dogum-icin-gun-20319892-haberi/",
-      "source": "haberler.com",
+      "title": "Onur Büyüktopçu'yu üzen haber: Annesi tam rahata erdiği yaşta hastalığa yakalandı",
+      "normalized_title": "onur buyuktopcu yu uzen haber annesi tam rahata erdigi yasta hastaliga yakalandi",
+      "url": "https://www.sozcu.com.tr/onur-buyuktopcu-yu-uzen-haber-annesi-tam-rahata-erdigi-yasta-hastaliga-yakalandi-p368330",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "haberler.com",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.210739+00:00",
+      "collected_at": "2026-10-12T18:06:45.313651+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/magazin/ilk-kez-anne-olacak-ipek-karapinar-dogum-icin-gun-20319892-haberi/",
-          "title": "İlk kez anne olacak İpek Karapınar doğum için gün sayıyor"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/onur-buyuktopcu-yu-uzen-haber-annesi-tam-rahata-erdigi-yasta-hastaliga-yakalandi-p368330",
+          "title": "Onur Büyüktopçu'yu üzen haber: Annesi tam rahata erdiği yaşta hastalığa yakalandı"
         }
       ],
       "publisher_domains": [
-        "haberler.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Burcu Biricik'in Altın Portakal Jüri Görevi Son Anda İptal Oldu, Yerine Gelen İsim Belli Oldu!",
-      "normalized_title": "burcu biricik in altin portakal juri gorevi son anda iptal oldu yerine gelen isim belli oldu",
-      "url": "https://onedio.com/haber/burcu-biricik-in-altin-portakal-juri-gorevi-son-anda-iptal-oldu-yerine-gelen-isim-belli-oldu-1387789",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.210828+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/burcu-biricik-in-altin-portakal-juri-gorevi-son-anda-iptal-oldu-yerine-gelen-isim-belli-oldu-1387789",
-          "title": "Burcu Biricik'in Altın Portakal Jüri Görevi Son Anda İptal Oldu, Yerine Gelen İsim Belli Oldu!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Meğer O Küçük Kız Sezen’miş: Atilla Taş’ın Neler Oluyor Hayatta Klibindeki Baba-Kız Kareleri Ortaya Çıktı!",
-      "normalized_title": "meger o kucuk kiz sezen mis atilla tas in neler oluyor hayatta klibindeki baba kiz kareleri ortaya cikti",
-      "url": "https://onedio.com/haber/meger-o-kucuk-kiz-sezen-mis-atilla-tas-in-neler-oluyor-hayatta-klibindeki-baba-kiz-kareleri-ortaya-cikti-1387770",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.210923+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/meger-o-kucuk-kiz-sezen-mis-atilla-tas-in-neler-oluyor-hayatta-klibindeki-baba-kiz-kareleri-ortaya-cikti-1387770",
-          "title": "Meğer O Küçük Kız Sezen’miş: Atilla Taş’ın Neler Oluyor Hayatta Klibindeki Baba-Kız Kareleri Ortaya Çıktı!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "14. Kattan Düşerek Hayatını Kaybeden Sezen Taş'ın Geçmişine Dair Dikkat Çeken Detay!",
-      "normalized_title": "14 kattan duserek hayatini kaybeden sezen tas in gecmisine dair dikkat ceken detay",
-      "url": "https://onedio.com/haber/14-kattan-duserek-hayatini-kaybeden-sezen-tas-in-gecmisine-dair-dikkat-ceken-detay-1387726",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.211005+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/14-kattan-duserek-hayatini-kaybeden-sezen-tas-in-gecmisine-dair-dikkat-ceken-detay-1387726",
-          "title": "14. Kattan Düşerek Hayatını Kaybeden Sezen Taş'ın Geçmişine Dair Dikkat Çeken Detay!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "‘BABAM, BEN GELDİM BABAM’ - Elif Ünal",
-      "normalized_title": "babam ben geldim babam elif unal",
-      "url": "https://www.gazetevatan.com/yazarlar/elif-unal/babam-ben-geldim-babam-2415832",
-      "source": "gazetevatan.com",
-      "source_role": "publisher",
-      "source_domain": "gazetevatan.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.211067+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "gazetevatan.com",
-          "source_domain": "gazetevatan.com",
-          "url": "https://www.gazetevatan.com/yazarlar/elif-unal/babam-ben-geldim-babam-2415832",
-          "title": "‘BABAM, BEN GELDİM BABAM’ - Elif Ünal"
-        }
-      ],
-      "publisher_domains": [
-        "gazetevatan.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Özgür Özel'den Atilla Taş’a taziye ziyareti",
-      "normalized_title": "ozgur ozel den atilla tas a taziye ziyareti",
-      "url": "https://www.haberturk.com/magazin/ozgur-ozel-den-atilla-tasa-taziye-ziyareti-3918718",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.211130+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/ozgur-ozel-den-atilla-tasa-taziye-ziyareti-3918718",
-          "title": "Özgür Özel'den Atilla Taş’a taziye ziyareti"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "En büyük mutluluğum",
-      "normalized_title": "en buyuk mutlulugum",
-      "url": "https://www.hurriyet.com.tr/kelebek/stil/en-buyuk-mutlulugum-43338313",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.211183+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/stil/en-buyuk-mutlulugum-43338313",
-          "title": "En büyük mutluluğum"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Sibel Can Cahide Palazzo Sahnesinde Yeni Sezonu Görkemli Bir Şekilde Başlattı",
-      "normalized_title": "sibel can cahide palazzo sahnesinde yeni sezonu gorkemli bir sekilde baslatti",
-      "url": "https://ajansturkhaber.com/haber/sibel-can-cahide-palazzo-sahnesinde-yeni-sezonu-gorkemli-bir-sekilde-baslatti-422429",
-      "source": "ajansturkhaber.com",
-      "source_role": "publisher",
-      "source_domain": "ajansturkhaber.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.211260+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ajansturkhaber.com",
-          "source_domain": "ajansturkhaber.com",
-          "url": "https://ajansturkhaber.com/haber/sibel-can-cahide-palazzo-sahnesinde-yeni-sezonu-gorkemli-bir-sekilde-baslatti-422429",
-          "title": "Sibel Can Cahide Palazzo Sahnesinde Yeni Sezonu Görkemli Bir Şekilde Başlattı"
-        }
-      ],
-      "publisher_domains": [
-        "ajansturkhaber.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "SİBEL CAN YENİ SEZONA DAMGA VURDU!",
-      "normalized_title": "sibel can yeni sezona damga vurdu",
-      "url": "https://bandirmamanset.com/haber/sibel-can-yeni-sezona-damga-vurdu-61046",
-      "source": "bandirmamanset.com",
-      "source_role": "publisher",
-      "source_domain": "bandirmamanset.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T15:50:27.211320+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "bandirmamanset.com",
-          "source_domain": "bandirmamanset.com",
-          "url": "https://bandirmamanset.com/haber/sibel-can-yeni-sezona-damga-vurdu-61046",
-          "title": "SİBEL CAN YENİ SEZONA DAMGA VURDU!"
-        }
-      ],
-      "publisher_domains": [
-        "bandirmamanset.com"
+        "sozcu.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
