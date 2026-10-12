@@ -166,12 +166,22 @@ def topic_key(item):
    return 'program:'+program
  return ''
 
-def select_top_stories(ranked, limit=3):
- """Select distinct events; guard against duplicate coverage that escaped clustering."""
+def load_upload_history():
+ path=ROOT/'data/youtube_upload_history.json'
+ try:
+  payload=json.loads(path.read_text(encoding='utf-8'))
+  return [x for x in payload.get('items',[]) if isinstance(x,dict)]
+ except (OSError,ValueError,TypeError):
+  return []
+
+def select_top_stories(ranked, limit=3, upload_history=None):
+ """Select distinct events and exclude stories already uploaded to the channel."""
  try:
   from event_matcher import same_event
  except ImportError:
   from src.event_matcher import same_event
+ upload_history=upload_history or []
+ old_urls={str(x.get('source_url') or '').strip().rstrip('/').lower() for x in upload_history if x.get('source_url')}
  selected=[]
  seen_urls=set()
  seen_topics=set()
@@ -179,7 +189,14 @@ def select_top_stories(ranked, limit=3):
   if role(item) == 'discovery_only' or not publisher(item):
    continue
   url=str(item.get('url') or '')
-  if url and url in seen_urls:
+  if url and url.rstrip('/').lower() in old_urls:
+   print(f"Önceden yayınlandığı için aday atlandı: {item.get('title','')}")
+   continue
+  # Headline text and source URL may change between publishers, so also compare
+  # event identity against the saved upload history.
+  duplicate=next((old for old in upload_history if old.get('title') and same_event(item, {'title':old.get('title','')})[0]),None)
+  if duplicate:
+   print(f"Önceden yayınlanan aynı olay atlandı: {item.get('title','')} (eski video: {duplicate.get('video_id','bilinmiyor')})")
    continue
   topic=topic_key(item)
   if topic and topic in seen_topics:
@@ -213,7 +230,8 @@ def main():
  expanded=expand_with_google_search(discovered)
  ranked=rank(expanded)
  multi=[x for x in ranked if x['publisher_count']>=2 and not x['possible_syndication']]
- selected=select_top_stories(ranked, 3)
+ history=load_upload_history()
+ selected=select_top_stories(ranked, 3, history)
  output={'generated_at':datetime.now(timezone.utc).isoformat(),
   'candidate_count':len(payload.get('items',[])), 'event_group_count':len(ranked),
   'multi_publisher_event_count':len(multi),'selection_count':len(selected),
