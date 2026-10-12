@@ -77,6 +77,7 @@ jobs:
           git add data/news_latest.json data/selected_news.json data/verification_queue.json data/youtube_upload_history.json
           if ! git diff --cached --quiet; then
             git commit -m "Update daily magazine news reports" || true
+            git pull --rebase origin main || { echo "Reports saved as artifact; rebase was not possible."; exit 0; }
             git push || echo "Reports saved as artifact; branch push was not possible."
           else
             echo "No report changes to commit."
