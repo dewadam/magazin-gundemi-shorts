@@ -40,25 +40,74 @@ def fetch(url):
  req=urllib.request.Request(url,headers={"User-Agent":UA,"Accept-Language":"tr-TR,tr;q=0.9,en;q=0.5"})
  with urllib.request.urlopen(req,timeout=18) as r:return r.read(4000000).decode(r.headers.get_content_charset() or "utf-8",errors="replace")
 def article_data(item):
- # Try the selected article first, then other direct-publisher articles for the same event.
+ # Publisher HTML varies: try JSON-LD articleBody, OpenGraph metadata, semantic
+ # article containers and normal paragraphs. Never treat Google News boilerplate as article text.
  candidates=[]
- primary=str(item.get("url") or "")
- if primary:candidates.append(primary)
- for other in item.get("source_articles",[]) or []:
-  url=str(other.get("url") or "")
-  if url and url not in candidates:candidates.append(url)
+ for entry in [item, *(item.get("source_articles",[]) or []), *(item.get("also_reported_by",[]) or [])]:
+  url=str(entry.get("url") or "")
+  if url.startswith(("https://","http://")) and url not in candidates:
+   candidates.append(url)
  errors=[]
  for url in candidates:
-  if not url.startswith(("https://","http://")):continue
   try:
-   p=Parser();p.feed(fetch(url)); body=" ".join(p.ps[:24])
-   desc=p.meta.get("og:description") or p.meta.get("description") or p.meta.get("twitter:description") or (body[:900] if body else "")
-   img=p.meta.get("og:image") or p.meta.get("twitter:image") or ""
-   data={"page_title":clean(p.meta.get("og:title") or " ".join(p.title) or item.get("title")),"description":clean(desc),"image_url":urllib.parse.urljoin(url,img) if img else "","body":body,"url":url}
-   if len(body)>180 or len(clean(desc))>180:return data, ""
-   errors.append("Sayfada uzun açıklama veya haber metni bulunamadı")
-  except Exception as e:errors.append(f"{urllib.parse.urlparse(url).netloc}: {str(e)[:100]}")
- return {}, "; ".join(errors[:3]) or "Erişilebilir yayıncı metni bulunamadı"
+   raw=fetch(url)
+   p=Parser();p.feed(raw)
+   meta=p.meta
+   # Many Turkish publishers expose the full article in JSON-LD even when the
+   # visible HTML is rendered by JavaScript or paragraph extraction is blocked.
+   jsonld_text=[]
+   for match in re.findall(r'<script\b[^>]*type=["\']application/ld\+json["\'][^>]*>(.*?)</script\s*>',raw,re.I|re.S):
+    try:
+     obj=json.loads(html.unescape(match).strip())
+    except Exception:
+     continue
+    stack=obj if isinstance(obj,list) else [obj]
+    while stack:
+     node=stack.pop(0)
+     if isinstance(node,list):
+      stack.extend(node); continue
+     if not isinstance(node,dict): continue
+     graph=node.get("@graph")
+     if isinstance(graph,list): stack.extend(graph)
+     for key in ("articleBody","text","description"):
+      value=node.get(key)
+      if isinstance(value,str) and len(clean(value))>100:
+       jsonld_text.append(clean(value))
+     for key in ("mainEntity","mainEntityOfPage","article","subjectOf"):
+      value=node.get(key)
+      if isinstance(value,(dict,list)): stack.append(value)
+   # Remove non-editorial blocks, then collect visible paragraphs and text from
+   # common article/main containers as a fallback for sites without JSON-LD.
+   stripped=re.sub(r'<(script|style|noscript|svg|nav|footer|header|aside)\b[^>]*>.*?</\1\s*>'," ",raw,flags=re.I|re.S)
+   container_text=[]
+   for block in re.findall(r'<(?:article|main|div|section)\b[^>]*(?:itemprop=["\']articleBody["\']|class=["\'][^"\']*(?:article|content|detail|news|story|text|body)[^"\']*["\'])[^>]*>(.*?)</(?:article|main|div|section)\s*>',stripped,re.I|re.S):
+    text=clean(re.sub(r"<[^>]+>"," ",block))
+    if len(text)>160:container_text.append(text)
+   body_parts=[]
+   body_parts.extend(jsonld_text)
+   body_parts.extend(p.ps)
+   body_parts.extend(container_text)
+   # De-duplicate while preserving source order; strip cookie/site boilerplate.
+   boilerplate=("çerez politikası","gizlilik politikası","reklam","bizi takip edin","abone olun","tüm hakları saklıdır","çerez tercihleri","devamı için tıklayın")
+   seen=set(); kept=[]
+   for part in body_parts:
+    part=clean(part)
+    key=part.casefold()
+    if len(part)<65 or key in seen or any(x in key for x in boilerplate):continue
+    seen.add(key);kept.append(part)
+   body=" ".join(kept[:30])
+   desc=clean(meta.get("og:description") or meta.get("description") or meta.get("twitter:description") or "")
+   img=meta.get("og:image") or meta.get("twitter:image") or ""
+   page_title=clean(meta.get("og:title") or " ".join(p.title) or item.get("title"))
+   data={"page_title":page_title,"description":desc,"image_url":urllib.parse.urljoin(url,img) if img else clean(item.get("image_url") or ""),"body":body,"url":url}
+   if len(body)>180 or len(desc)>180:
+    LOG.info("Kaynak metni alındı: %s (gövde=%d, açıklama=%d)",urllib.parse.urlparse(url).netloc,len(body),len(desc))
+    return data,""
+   errors.append(f"{urllib.parse.urlparse(url).netloc}: yeterli haber metni yok (gövde={len(body)}, açıklama={len(desc)})")
+  except Exception as e:
+   errors.append(f"{urllib.parse.urlparse(url).netloc}: {str(e)[:120]}")
+ return {}, "; ".join(errors[:4]) or "Erişilebilir yayıncı metni bulunamadı"
+
 def fnt(size,bold=True):
  for p in (BOLD if bold else REG):
   if Path(p).exists():return ImageFont.truetype(p,size=size)
