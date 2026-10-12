@@ -5,6 +5,7 @@ from google.oauth2.credentials import Credentials
 from google.auth.transport.requests import Request
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
+from googleapiclient.errors import ResumableUploadError
 ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/"output";HISTORY=ROOT/"data/youtube_upload_history.json";SCOPES=["https://www.googleapis.com/auth/youtube.upload"]
 def norm_title(value):
  value=unicodedata.normalize("NFKD",str(value or "")).encode("ascii","ignore").decode("ascii").lower()
@@ -45,7 +46,15 @@ def main():
   # Force public visibility; metadata cannot override this.
   body={"snippet":{"title":meta["title"],"description":meta["description"],"tags":meta.get("tags",[]),"categoryId":meta.get("categoryId","25")},"status":{"privacyStatus":"public","selfDeclaredMadeForKids":bool(meta.get("madeForKids",False))}}
   req=api.videos().insert(part="snippet,status",body=body,media_body=MediaFileUpload(str(vp),chunksize=-1,resumable=True));response=None
-  while response is None:_,response=req.next_chunk()
+  try:
+   while response is None:_,response=req.next_chunk()
+  except ResumableUploadError as e:
+   error_text=str(e)
+   if "uploadLimitExceeded" in error_text or "exceeded the number of videos they may upload" in error_text:
+    print("YouTube günlük/hesap yükleme sınırına ulaşıldı. Bu video yüklenmedi; kalan videolar atlanıyor. Limit yenilendiğinde tekrar deneyin.")
+    (OUT/"upload_results.json").write_text(json.dumps(uploaded,ensure_ascii=False,indent=2),encoding="utf-8")
+    return 0
+   raise
   vid=response.get("id")
   if vid and tp.exists():
    try:api.thumbnails().set(videoId=vid,media_body=MediaFileUpload(str(tp),mimetype="image/jpeg"))
