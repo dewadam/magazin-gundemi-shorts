@@ -202,6 +202,29 @@ def make_srt(text,dur,path):
  path.write_text("\n".join(lines),encoding="utf-8")
 def esc(p):return str(p.resolve()).replace("\\\\","\\\\\\\\").replace(":","\\\\:").replace("'","\\\\'")
 async def tts(text,path):await edge_tts.Communicate(text,VOICE,rate="-4%",volume="+0%").save(str(path))
+
+def azure_tts(text,path):
+ # Official Microsoft Azure Neural TTS fallback for GitHub-hosted runners where
+ # the public Edge read-aloud websocket returns HTTP 403.
+ key=os.getenv("AZURE_SPEECH_KEY","").strip()
+ region=os.getenv("AZURE_SPEECH_REGION","").strip()
+ if not key or not region:
+  raise RuntimeError("Azure TTS yedeği yapılandırılmamış (AZURE_SPEECH_KEY / AZURE_SPEECH_REGION secret gerekli)")
+ safe=html.escape(text,quote=True)
+ ssml=(f'<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" '
+       f'xml:lang="tr-TR"><voice name="{html.escape(VOICE,quote=True)}">'
+       f'<prosody rate="-4%">{safe}</prosody></voice></speak>')
+ endpoint=f"https://{region}.tts.speech.microsoft.com/cognitiveservices/v1"
+ req=urllib.request.Request(endpoint,data=ssml.encode("utf-8"),headers={
+  "Ocp-Apim-Subscription-Key":key,
+  "Content-Type":"application/ssml+xml",
+  "X-Microsoft-OutputFormat":"audio-24khz-48kbitrate-mono-mp3",
+  "User-Agent":"MagazinGundemiShorts/1.0"
+ },method="POST")
+ with urllib.request.urlopen(req,timeout=90) as response:
+  audio=response.read()
+ if not audio or len(audio)<1000:raise RuntimeError("Azure TTS boş veya geçersiz ses döndürdü")
+ path.write_bytes(audio)
 def build(item,index):
  slug=re.sub(r"[^a-z0-9]+","-",clean(item.get("title","")).lower().replace("ı","i"))[:55].strip("-") or f"haber-{index}"
  folder=OUT/f"{index:02d}-{slug}";folder.mkdir(parents=True,exist_ok=True)
@@ -211,7 +234,8 @@ def build(item,index):
  (folder/"source.json").write_text(json.dumps({"title":item.get("title"),"url":item.get("url"),"source":item.get("source"),"article_metadata":a,"created_at":datetime.now(timezone.utc).isoformat(),"visual_rights_note":"Open Graph görselinin yeniden kullanım lisansı otomatik doğrulanmamıştır."},ensure_ascii=False,indent=2),encoding="utf-8")
  image=folder/"source-image.jpg";poster=folder/"poster.jpg";thumb=folder/"thumbnail.jpg";voice=folder/"narration.mp3";srt=folder/"captions.srt";video=folder/"short.mp4"
  posters(item,a,image,poster,thumb)
- # Use the natural neural voice only. Never silently fall back to robotic espeak audio.
+ # Keep the preferred Edge neural voice, retry three times, then use official Azure Neural TTS
+ # if configured. Never use the robotic espeak fallback.
  tts_error=None
  for attempt in range(1,4):
   try:
@@ -227,7 +251,13 @@ def build(item,index):
     import time
     time.sleep(2*attempt)
  if tts_error is not None:
-  raise RuntimeError(f"Doğal Türkçe ses üretilemedi; düşük kaliteli yedek sesle video yayınlanmayacak: {tts_error}")
+  LOG.warning("Edge TTS başarısız; Microsoft Azure Neural TTS yedeği deneniyor.")
+  try:
+   azure_tts(script,voice)
+   LOG.info("Microsoft Azure Neural TTS başarılı: %s",VOICE)
+  except Exception as azure_error:
+   voice.unlink(missing_ok=True)
+   raise RuntimeError(f"Edge TTS ve Azure Neural TTS başarısız; düşük kaliteli yedek sesle video yayınlanmayacak. Edge: {tts_error}; Azure: {azure_error}")
  dur=duration(voice)
  music=ROOT/"assets/music/selected_track.mp3"
  ticker=folder/"ticker.txt"
