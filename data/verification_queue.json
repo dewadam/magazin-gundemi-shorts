@@ -1,49 +1,136 @@
 {
-  "generated_at": "2026-10-12T06:04:13.244273+00:00",
+  "generated_at": "2026-10-12T08:53:33.255923+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
-      "title": "Sıla'ya İzmir konserinde anneanne sürprizi",
-      "normalized_title": "sila ya izmir konserinde anneanne surprizi",
-      "url": "https://www.haberturk.com/magazin/sila-ya-izmir-konserinde-anneanne-surprizi-3918920",
-      "source": "haberturk.com",
+      "title": "Çağatay Ulusoy’dan aile ziyareti! Anne ve babasıyla Bulgaristan’daki köyüne gitti",
+      "normalized_title": "cagatay ulusoy dan aile ziyareti anne ve babasiyla bulgaristan daki koyune gitti",
+      "url": "https://www.ntv.com.tr/yasam/cagatay-ulusoydan-aile-ziyareti-anne-ve-babasiyla-bulgaristandaki-koyune-gitti-1745836",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "haberturk.com",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T06:03:35.026870+00:00",
+      "collected_at": "2026-10-12T08:52:54.648150+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [
-        {
-          "source": "magazinci.com",
-          "source_role": "publisher",
-          "source_domain": "magazinci.com",
-          "title": "SILA’YA İZMİR KONSERİNDE ANNEANNE SÜRPRİZİ",
-          "url": "https://www.magazinci.com/icerikler/magazin/sila-rsquo-ya-izmir-konserinde-anneanne-surprizi_86298.html",
-          "published_at": null
-        }
-      ],
+      "also_reported_by": [],
       "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/cagatay-ulusoy-dan-bulgaristan-daki-koyune-ziyaret-p368166",
+          "title": "Çağatay Ulusoy’dan Bulgaristan’daki köyüne ziyaret"
+        },
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/sila-ya-izmir-konserinde-anneanne-surprizi-3918920",
-          "title": "Sıla'ya İzmir konserinde anneanne sürprizi"
+          "url": "https://www.haberturk.com/magazin/foto/cagatay-ulusoy-dan-bulgaristan-daki-koyune-ziyaret-3918897",
+          "title": "Çağatay Ulusoy'dan Bulgaristan'daki köyüne ziyaret"
         },
         {
-          "source": "magazinci.com",
-          "source_domain": "magazinci.com",
-          "url": "https://www.magazinci.com/icerikler/magazin/sila-rsquo-ya-izmir-konserinde-anneanne-surprizi_86298.html",
-          "title": "SILA’YA İZMİR KONSERİNDE ANNEANNE SÜRPRİZİ"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/cagatay-ulusoydan-aile-ziyareti-anne-ve-babasiyla-bulgaristandaki-koyune-gitti-1745836",
+          "title": "Çağatay Ulusoy’dan aile ziyareti! Anne ve babasıyla Bulgaristan’daki köyüne gitti"
         }
       ],
       "publisher_domains": [
         "haberturk.com",
-        "magazinci.com"
+        "ntv.com.tr",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Çağatay Ulusoy’dan aile ziyareti! Anne ve babasıyla Bulgaristan’daki köyüne gitti | NTV Haber",
+        "og_title": "Çağatay Ulusoy’dan aile ziyareti! Anne ve babasıyla Bulgaristan’daki köyüne gitti | NTV Haber",
+        "description": "Çağatay Ulusoy, annesi Refiye Ulusoy ve babası Aylin Ulusoy ile birlikte Bulgaristan'daki köyünü ziyaret etti.",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "title": "Çağatay Ulusoy’dan Bulgaristan’daki köyüne ziyaret",
+          "summary": "",
+          "url": "https://www.sozcu.com.tr/cagatay-ulusoy-dan-bulgaristan-daki-koyune-ziyaret-p368166",
+          "match_score": 0.63,
+          "shared_keywords": [
+            "bulgaristan",
+            "cagatay",
+            "daki",
+            "koyune",
+            "ulusoy"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "title": "Çağatay Ulusoy'dan Bulgaristan'daki köyüne ziyaret",
+          "summary": "",
+          "url": "https://www.haberturk.com/magazin/foto/cagatay-ulusoy-dan-bulgaristan-daki-koyune-ziyaret-3918897",
+          "match_score": 0.63,
+          "shared_keywords": [
+            "bulgaristan",
+            "cagatay",
+            "daki",
+            "koyune",
+            "ulusoy"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Onur Büyüktopçu'dan Üzen Açıklama: \"Parkinson ve Demans Teşhisi Konuldu\"",
+      "normalized_title": "onur buyuktopcu dan uzen aciklama parkinson ve demans teshisi konuldu",
+      "url": "https://www.gecce.com.tr/haber/onur-buyuktopcudan-uzen-aciklama-parkinson-ve-demans-teshisi-konuldu-332889.html",
+      "source": "gecce.com.tr",
+      "source_role": "publisher",
+      "source_domain": "gecce.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T08:52:54.649105+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/onur-buyuktopcu-parkinson-teshisi-konuldu-3918937",
+          "title": "Onur Büyüktopçu: Parkinson teşhisi konuldu"
+        },
+        {
+          "source": "gecce.com.tr",
+          "source_domain": "gecce.com.tr",
+          "url": "https://www.gecce.com.tr/haber/onur-buyuktopcudan-uzen-aciklama-parkinson-ve-demans-teshisi-konuldu-332889.html",
+          "title": "Onur Büyüktopçu'dan Üzen Açıklama: \"Parkinson ve Demans Teşhisi Konuldu\""
+        }
+      ],
+      "publisher_domains": [
+        "gecce.com.tr",
+        "haberturk.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -52,31 +139,32 @@
       "latest_published_at": null,
       "age_hours": 48.0,
       "popularity_score": 20.0,
-      "possible_syndication": true,
+      "possible_syndication": false,
       "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
       "publication_approved": false,
       "coverage_label": "multi_publisher",
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Sıla'ya İzmir konserinde anneanne sürprizi - Magazin Haberleri - Habertürk",
-        "og_title": "Sıla'ya İzmir konserinde anneanne sürprizi",
-        "description": "Ünlü şarkıcı Sıla Gençoğlu, İzmir konserinde 101 yaşındaki anneannesi Süheyla Hanım'la bir araya geldi",
+        "page_title": "Onur Büyüktopçu'dan Üzen Açıklama: \"Parkinson ve Demans Teşhisi Konuldu\" - Gecce Magazin Haberleri",
+        "og_title": "Onur Büyüktopçu'dan Üzen Açıklama: \"Parkinson ve Demans Teşhisi Konuldu\"",
+        "description": "Onur Büyüktopçu annesi Ayşe Hanım'ın Parkinson ve demans hastalığıyla mücadelesini anlattı: \"Eski günlerimizi arıyoruz, insan konduramıyor.\"",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "magazinci.com",
-          "source_domain": "magazinci.com",
-          "title": "SILA’YA İZMİR KONSERİNDE ANNEANNE SÜRPRİZİ",
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "title": "Onur Büyüktopçu: Parkinson teşhisi konuldu",
           "summary": "",
-          "url": "https://www.magazinci.com/icerikler/magazin/sila-rsquo-ya-izmir-konserinde-anneanne-surprizi_86298.html",
-          "match_score": 0.83,
+          "url": "https://www.haberturk.com/magazin/onur-buyuktopcu-parkinson-teshisi-konuldu-3918937",
+          "match_score": 0.75,
           "shared_keywords": [
-            "anneanne",
-            "izmir",
-            "konserinde",
-            "surprizi"
+            "buyuktopcu",
+            "konuldu",
+            "onur",
+            "parkinson",
+            "teshisi"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
@@ -94,7 +182,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T06:03:35.027719+00:00",
+      "collected_at": "2026-10-12T08:52:54.650484+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -155,53 +243,6 @@
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
         }
       ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "İpek Karapınar: Kaldı birkaç haftamız",
-      "normalized_title": "ipek karapinar kaldi birkac haftamiz",
-      "url": "https://www.haberturk.com/magazin/foto/ipek-karapinar-kaldi-birkac-haftamiz-3918930",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T06:03:35.024954+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/ipek-karapinar-kaldi-birkac-haftamiz-3918930",
-          "title": "İpek Karapınar: Kaldı birkaç haftamız"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.5,
-      "possible_syndication": false,
-      "verification_status": "source_page_reachable_no_second_source_match",
-      "publication_approved": false,
-      "coverage_label": "single_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "İpek Karapınar: Birkaç haftamız kaldı - En Son Magazin Haberleri - Habertürk",
-        "og_title": "İpek Karapınar: Birkaç haftamız kaldı",
-        "description": "İlk kez anne olmaya hazırlanan İpek Karapınar, doğuma sayılı günler kala karnı burnunda yeni pozlarını paylaştı. Oyuncu, \"Birkaç haftamız kaldı. Anlatılmaz bir heyecanla sana kavuşmayı bekliyoruz oğlum\" sözleriyle duygularını ifade etti",
-        "error": null
-      },
-      "independent_source_matches": [],
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     }
   ]
