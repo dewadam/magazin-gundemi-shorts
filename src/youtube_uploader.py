@@ -1,5 +1,7 @@
 from __future__ import annotations
 import json,os,sys,re,unicodedata
+from datetime import datetime
+from zoneinfo import ZoneInfo
 from pathlib import Path
 from google.oauth2.credentials import Credentials
 from google.auth.transport.requests import Request
@@ -7,6 +9,8 @@ from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 from googleapiclient.errors import ResumableUploadError
 ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/"output";HISTORY=ROOT/"data/youtube_upload_history.json";SCOPES=["https://www.googleapis.com/auth/youtube.upload"]
+DAILY_UPLOAD_LIMIT=max(1,int(os.getenv("YOUTUBE_DAILY_UPLOAD_LIMIT","3")))
+TURKEY_TZ=ZoneInfo("Europe/Istanbul")
 def norm_title(value):
  value=unicodedata.normalize("NFKD",str(value or "")).encode("ascii","ignore").decode("ascii").lower()
  value=re.sub(r"[^a-z0-9]+"," ",value)
@@ -34,8 +38,26 @@ def main():
   except Exception:history={"items":[]}
  known_urls={str(x.get("source_url") or "").strip().rstrip("/").lower() for x in history.get("items",[]) if x.get("source_url")}
  known_titles={norm_title(x.get("title","")) for x in history.get("items",[]) if x.get("title")}
+ today=datetime.now(TURKEY_TZ).date()
+ def uploaded_today(record):
+  stamp=record.get("uploaded_at")
+  if not stamp:return False
+  try:
+   dt=datetime.fromisoformat(stamp.replace("Z","+00:00"))
+   if dt.tzinfo is None:dt=dt.replace(tzinfo=TURKEY_TZ)
+   return dt.astimezone(TURKEY_TZ).date()==today
+  except (ValueError,TypeError):return False
+ daily_count=sum(1 for record in history.get("items",[]) if uploaded_today(record))
+ print(f"Türkiye tarihiyle bugünkü yükleme: {daily_count}/{DAILY_UPLOAD_LIMIT}")
  uploaded=[]
+ if daily_count>=DAILY_UPLOAD_LIMIT:
+  print("Günlük YouTube yükleme kotası dolu; bu çalıştırmada hiçbir video yüklenmeyecek.")
+  (OUT/"upload_results.json").write_text("[]",encoding="utf-8")
+  return 0
  for item in json.loads(mp.read_text(encoding="utf-8")).get("items",[]):
+  if daily_count+len(uploaded)>=DAILY_UPLOAD_LIMIT:
+   print(f"Günlük yükleme sınırı ({DAILY_UPLOAD_LIMIT}) doldu; kalan videolar atlandı.")
+   break
   source_url=str(item.get("source_url") or "").strip().rstrip("/").lower()
   folder=ROOT/item["folder"];vp=ROOT/item["video"];tp=ROOT/item["thumbnail"];meta=json.loads((folder/"youtube-metadata.json").read_text(encoding="utf-8"))
   source_image=folder/"source-image.jpg"
@@ -71,7 +93,7 @@ def main():
   if vid and tp.exists():
    try:api.thumbnails().set(videoId=vid,media_body=MediaFileUpload(str(tp),mimetype="image/jpeg"))
    except Exception as e:print(f"Thumbnail yüklenemedi {vid}: {e}")
-  record={"title":meta["title"],"video_id":vid,"url":f"https://www.youtube.com/watch?v={vid}","source_url":source_url}
+  record={"title":meta["title"],"video_id":vid,"url":f"https://www.youtube.com/watch?v={vid}","source_url":source_url,"uploaded_at":datetime.now(TURKEY_TZ).isoformat()}
   uploaded.append(record)
   if vid:
    history.setdefault("items",[]).append(record)
