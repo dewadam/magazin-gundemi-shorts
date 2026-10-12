@@ -1,65 +1,12 @@
 {
-  "generated_at": "2026-10-12T09:23:17.712832+00:00",
+  "generated_at": "2026-10-12T09:34:43.965286+00:00",
   "candidate_count": 98,
-  "event_group_count": 56,
-  "multi_publisher_event_count": 3,
+  "event_group_count": 54,
+  "multi_publisher_event_count": 4,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
-    {
-      "title": "Çağatay Ulusoy’dan Bulgaristan’daki köyüne ziyaret",
-      "normalized_title": "cagatay ulusoy dan bulgaristan daki koyune ziyaret",
-      "url": "https://www.sozcu.com.tr/cagatay-ulusoy-dan-bulgaristan-daki-koyune-ziyaret-p368166",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.841040+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [
-        {
-          "source": "haberturk.com",
-          "source_role": "publisher",
-          "source_domain": "haberturk.com",
-          "title": "Çağatay Ulusoy'dan Bulgaristan'daki köyüne ziyaret",
-          "url": "https://www.haberturk.com/magazin/foto/cagatay-ulusoy-dan-bulgaristan-daki-koyune-ziyaret-3918897",
-          "published_at": null
-        }
-      ],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/cagatay-ulusoy-dan-bulgaristan-daki-koyune-ziyaret-p368166",
-          "title": "Çağatay Ulusoy’dan Bulgaristan’daki köyüne ziyaret"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/cagatay-ulusoy-dan-bulgaristan-daki-koyune-ziyaret-3918897",
-          "title": "Çağatay Ulusoy'dan Bulgaristan'daki köyüne ziyaret"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": true,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
     {
       "title": "Onur Büyüktopçu'dan Üzen Açıklama: \"Parkinson ve Demans Teşhisi Konuldu\"",
       "normalized_title": "onur buyuktopcu dan uzen aciklama parkinson ve demans teshisi konuldu",
@@ -70,7 +17,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.841637+00:00",
+      "collected_at": "2026-10-12T09:34:08.236028+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -86,19 +33,70 @@
           "source_domain": "gecce.com.tr",
           "url": "https://www.gecce.com.tr/haber/onur-buyuktopcudan-uzen-aciklama-parkinson-ve-demans-teshisi-konuldu-332889.html",
           "title": "Onur Büyüktopçu'dan Üzen Açıklama: \"Parkinson ve Demans Teşhisi Konuldu\""
+        },
+        {
+          "source": "bolgegundemi.com",
+          "source_domain": "bolgegundemi.com",
+          "url": "https://www.bolgegundemi.com/magazin/onur-buyuktopcu-annesinin-parkinson-ve-demans-surecini-anlatti-208230.html",
+          "title": "Onur Büyüktopçu annesinin Parkinson ve demans sürecini anlattı"
         }
       ],
       "publisher_domains": [
+        "bolgegundemi.com",
         "gecce.com.tr",
         "haberturk.com"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Kırgın Çiçekler'le tanınan İpek Karapınar'dan karnı burnunda pozlar: “Birkaç haftamız kaldı”",
+      "normalized_title": "kirgin cicekler le taninan ipek karapinar dan karni burnunda pozlar birkac haftamiz kaldi",
+      "url": "https://www.sozcu.com.tr/kirgin-cicekler-le-taninan-ipek-karapinar-dan-karni-burnunda-pozlar-birkac-haftamiz-kaldi-p368380",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T09:34:08.236143+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/ipek-karapinar-kaldi-birkac-haftamiz-3918930",
+          "title": "İpek Karapınar: Kaldı birkaç haftamız"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/kirgin-cicekler-le-taninan-ipek-karapinar-dan-karni-burnunda-pozlar-birkac-haftamiz-kaldi-p368380",
+          "title": "Kırgın Çiçekler'le tanınan İpek Karapınar'dan karnı burnunda pozlar: “Birkaç haftamız kaldı”"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.5,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -114,7 +112,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.843519+00:00",
+      "collected_at": "2026-10-12T09:34:08.237151+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -151,6 +149,101 @@
   ],
   "event_groups_preview": [
     {
+      "title": "Onur Büyüktopçu'dan Üzen Açıklama: \"Parkinson ve Demans Teşhisi Konuldu\"",
+      "normalized_title": "onur buyuktopcu dan uzen aciklama parkinson ve demans teshisi konuldu",
+      "url": "https://www.gecce.com.tr/haber/onur-buyuktopcudan-uzen-aciklama-parkinson-ve-demans-teshisi-konuldu-332889.html",
+      "source": "gecce.com.tr",
+      "source_role": "publisher",
+      "source_domain": "gecce.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T09:34:08.236028+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/onur-buyuktopcu-parkinson-teshisi-konuldu-3918937",
+          "title": "Onur Büyüktopçu: Parkinson teşhisi konuldu"
+        },
+        {
+          "source": "gecce.com.tr",
+          "source_domain": "gecce.com.tr",
+          "url": "https://www.gecce.com.tr/haber/onur-buyuktopcudan-uzen-aciklama-parkinson-ve-demans-teshisi-konuldu-332889.html",
+          "title": "Onur Büyüktopçu'dan Üzen Açıklama: \"Parkinson ve Demans Teşhisi Konuldu\""
+        },
+        {
+          "source": "bolgegundemi.com",
+          "source_domain": "bolgegundemi.com",
+          "url": "https://www.bolgegundemi.com/magazin/onur-buyuktopcu-annesinin-parkinson-ve-demans-surecini-anlatti-208230.html",
+          "title": "Onur Büyüktopçu annesinin Parkinson ve demans sürecini anlattı"
+        }
+      ],
+      "publisher_domains": [
+        "bolgegundemi.com",
+        "gecce.com.tr",
+        "haberturk.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Kırgın Çiçekler'le tanınan İpek Karapınar'dan karnı burnunda pozlar: “Birkaç haftamız kaldı”",
+      "normalized_title": "kirgin cicekler le taninan ipek karapinar dan karni burnunda pozlar birkac haftamiz kaldi",
+      "url": "https://www.sozcu.com.tr/kirgin-cicekler-le-taninan-ipek-karapinar-dan-karni-burnunda-pozlar-birkac-haftamiz-kaldi-p368380",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T09:34:08.236143+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/ipek-karapinar-kaldi-birkac-haftamiz-3918930",
+          "title": "İpek Karapınar: Kaldı birkaç haftamız"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/kirgin-cicekler-le-taninan-ipek-karapinar-dan-karni-burnunda-pozlar-birkac-haftamiz-kaldi-p368380",
+          "title": "Kırgın Çiçekler'le tanınan İpek Karapınar'dan karnı burnunda pozlar: “Birkaç haftamız kaldı”"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
       "title": "Çağatay Ulusoy’dan Bulgaristan’daki köyüne ziyaret",
       "normalized_title": "cagatay ulusoy dan bulgaristan daki koyune ziyaret",
       "url": "https://www.sozcu.com.tr/cagatay-ulusoy-dan-bulgaristan-daki-koyune-ziyaret-p368166",
@@ -160,7 +253,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.841040+00:00",
+      "collected_at": "2026-10-12T09:34:08.235763+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [
@@ -204,50 +297,6 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Onur Büyüktopçu'dan Üzen Açıklama: \"Parkinson ve Demans Teşhisi Konuldu\"",
-      "normalized_title": "onur buyuktopcu dan uzen aciklama parkinson ve demans teshisi konuldu",
-      "url": "https://www.gecce.com.tr/haber/onur-buyuktopcudan-uzen-aciklama-parkinson-ve-demans-teshisi-konuldu-332889.html",
-      "source": "gecce.com.tr",
-      "source_role": "publisher",
-      "source_domain": "gecce.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.841637+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/onur-buyuktopcu-parkinson-teshisi-konuldu-3918937",
-          "title": "Onur Büyüktopçu: Parkinson teşhisi konuldu"
-        },
-        {
-          "source": "gecce.com.tr",
-          "source_domain": "gecce.com.tr",
-          "url": "https://www.gecce.com.tr/haber/onur-buyuktopcudan-uzen-aciklama-parkinson-ve-demans-teshisi-konuldu-332889.html",
-          "title": "Onur Büyüktopçu'dan Üzen Açıklama: \"Parkinson ve Demans Teşhisi Konuldu\""
-        }
-      ],
-      "publisher_domains": [
-        "gecce.com.tr",
-        "haberturk.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
       "title": "Acılı anne baba Cindy Crawford ve Rande Gerber oğullarının ölümünden sonra ilk kez görüntülendi",
       "normalized_title": "acili anne baba cindy crawford ve rande gerber ogullarinin olumunden sonra ilk kez goruntulendi",
       "url": "https://www.haberturk.com/magazin/acili-anne-baba-cindy-crawford-ve-rande-gerber-ogullarinin-olumunden-sonra-ilk-kez-goruntulendi-3918872",
@@ -257,7 +306,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.843519+00:00",
+      "collected_at": "2026-10-12T09:34:08.237151+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -301,7 +350,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.843832+00:00",
+      "collected_at": "2026-10-12T09:34:08.237315+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -336,43 +385,6 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "İpek Karapınar: Kaldı birkaç haftamız",
-      "normalized_title": "ipek karapinar kaldi birkac haftamiz",
-      "url": "https://www.haberturk.com/magazin/foto/ipek-karapinar-kaldi-birkac-haftamiz-3918930",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.841698+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/ipek-karapinar-kaldi-birkac-haftamiz-3918930",
-          "title": "İpek Karapınar: Kaldı birkaç haftamız"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.5,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Penelope Cruz'dan Javier Bardem açıklaması: Çok sık birlikte çalışmak istemiyoruz",
       "normalized_title": "penelope cruz dan javier bardem aciklamasi cok sik birlikte calismak istemiyoruz",
       "url": "https://news.google.com/read/CBMivwFBVV95cUxPbXRiOXMxVGR0NF9kZk1GSVE1YW9LOFhkMXBhRzMtSU5nWThTbWJGSGgzZUpmcUgxREtnZmFqMGtDYmhxQ1QyNGgtZjhkNGRvWmpscE83cXVnWnlDYkJTQ3hzSWlHbnNmaXFwbzNWM3BOa19DOUt1bFRNc3NsZzF6VlpCLWt4VTRCQ1pNeG5vbVZvU1d6LU0xc2FkVmpXTGZLODd0SW84LUJzRS13Z2NKVjBkQnVrNktFSHR6M2JlQQ?hl=tr&gl=TR&ceid=TR%3Atr",
@@ -382,7 +394,7 @@
       "published_at": null,
       "summary": "Google News konu akışından bulunan haber kümesi. Kaynak sayısı ilgili /read/ veya /stories/ sayfasından çıkarılmalıdır.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.845452+00:00",
+      "collected_at": "2026-10-12T09:34:08.238122+00:00",
       "status": "google_news_discovered_not_verified",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [
@@ -428,7 +440,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.840687+00:00",
+      "collected_at": "2026-10-12T09:34:08.235555+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -465,7 +477,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.840815+00:00",
+      "collected_at": "2026-10-12T09:34:08.235638+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -502,7 +514,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.840895+00:00",
+      "collected_at": "2026-10-12T09:34:08.235683+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -539,7 +551,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.840966+00:00",
+      "collected_at": "2026-10-12T09:34:08.235722+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -576,7 +588,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.841129+00:00",
+      "collected_at": "2026-10-12T09:34:08.235812+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -613,7 +625,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.841298+00:00",
+      "collected_at": "2026-10-12T09:34:08.235905+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -641,43 +653,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Onur Büyüktopçu'yu üzen haber: Annesi tam rahata erdiği yaşta hastalığa yakalandı",
-      "normalized_title": "onur buyuktopcu yu uzen haber annesi tam rahata erdigi yasta hastaliga yakalandi",
-      "url": "https://www.sozcu.com.tr/onur-buyuktopcu-yu-uzen-haber-annesi-tam-rahata-erdigi-yasta-hastaliga-yakalandi-p368330?utm_source=haberdetay_1&utm_medium=free&utm_campaign=oneriHaber",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.841475+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/onur-buyuktopcu-yu-uzen-haber-annesi-tam-rahata-erdigi-yasta-hastaliga-yakalandi-p368330?utm_source=haberdetay_1&utm_medium=free&utm_campaign=oneriHaber",
-          "title": "Onur Büyüktopçu'yu üzen haber: Annesi tam rahata erdiği yaşta hastalığa yakalandı"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Onur Büyüktopçu'dan annesi ile ilgili yürek burkan açıklama! 'Eski günlerimizi arıyoruz'",
       "normalized_title": "onur buyuktopcu dan annesi ile ilgili yurek burkan aciklama eski gunlerimizi ariyoruz",
       "url": "https://www.yasemin.com/foto-galeri/83672-onur-buyuktopcudan-annesi-ile-ilgili-yurek-burkan-aciklama-eski-gunlerimizi-ariyoruz",
@@ -687,7 +662,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.841559+00:00",
+      "collected_at": "2026-10-12T09:34:08.235986+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -724,7 +699,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.841831+00:00",
+      "collected_at": "2026-10-12T09:34:08.236215+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -752,29 +727,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "İpek Karapınar’dan Doğuma Günler Kala Olay Yaratan Paylaşım!",
-      "normalized_title": "ipek karapinar dan doguma gunler kala olay yaratan paylasim",
-      "url": "https://www.gecce.com.tr/haber/ipek-karapinardan-doguma-gunler-kala-olay-yaratan-paylasim-332882.html",
-      "source": "gecce.com.tr",
+      "title": "Hacı Sabancı ve Nazlı Sabancı çiftinin Mardin romantizmi",
+      "normalized_title": "haci sabanci ve nazli sabanci ciftinin mardin romantizmi",
+      "url": "https://www.patronlardunyasi.com/haci-sabanci-ve-nazli-sabanci-ciftinin-mardin-romantizmi",
+      "source": "patronlardunyasi.com",
       "source_role": "publisher",
-      "source_domain": "gecce.com.tr",
+      "source_domain": "patronlardunyasi.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.841913+00:00",
+      "collected_at": "2026-10-12T09:34:08.236251+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "gecce.com.tr",
-          "source_domain": "gecce.com.tr",
-          "url": "https://www.gecce.com.tr/haber/ipek-karapinardan-doguma-gunler-kala-olay-yaratan-paylasim-332882.html",
-          "title": "İpek Karapınar’dan Doğuma Günler Kala Olay Yaratan Paylaşım!"
+          "source": "patronlardunyasi.com",
+          "source_domain": "patronlardunyasi.com",
+          "url": "https://www.patronlardunyasi.com/haci-sabanci-ve-nazli-sabanci-ciftinin-mardin-romantizmi",
+          "title": "Hacı Sabancı ve Nazlı Sabancı çiftinin Mardin romantizmi"
         }
       ],
       "publisher_domains": [
-        "gecce.com.tr"
+        "patronlardunyasi.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -789,16 +764,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Bizim hayatımız komple absürt",
-      "normalized_title": "bizim hayatimiz komple absurt",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/bizim-hayatimiz-komple-absurt-43337264",
+      "title": "5 yıldızlı otel kapatıldı... Sosyete Mardin’de!",
+      "normalized_title": "5 yildizli otel kapatildi sosyete mardin de",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/5-yildizli-otel-kapatildi-sosyete-mardinde-43338209",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.841972+00:00",
+      "collected_at": "2026-10-12T09:34:08.236293+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -806,12 +781,86 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/bizim-hayatimiz-komple-absurt-43337264",
-          "title": "Bizim hayatımız komple absürt"
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/5-yildizli-otel-kapatildi-sosyete-mardinde-43338209",
+          "title": "5 yıldızlı otel kapatıldı... Sosyete Mardin’de!"
         }
       ],
       "publisher_domains": [
         "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Mardin Mardin olalı böyle eğlence görmedi",
+      "normalized_title": "mardin mardin olali boyle eglence gormedi",
+      "url": "https://www.sabah.com.tr/yazarlar/gunaydin/cankurt/2026/10/12/mardin-mardin-olali-boyle-eglence-gormedi",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T09:34:08.236327+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/yazarlar/gunaydin/cankurt/2026/10/12/mardin-mardin-olali-boyle-eglence-gormedi",
+          "title": "Mardin Mardin olalı böyle eğlence görmedi"
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Sosyete vaftiz için Mardin'e gitti: Tef çalıp zılgıt çektiler",
+      "normalized_title": "sosyete vaftiz icin mardin e gitti tef calip zilgit cektiler",
+      "url": "https://www.sozcu.com.tr/sosyete-vaftiz-icin-mardin-e-gitti-tef-calip-zilgit-cektiler-p368000",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T09:34:08.236364+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/sosyete-vaftiz-icin-mardin-e-gitti-tef-calip-zilgit-cektiler-p368000",
+          "title": "Sosyete vaftiz için Mardin'e gitti: Tef çalıp zılgıt çektiler"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -835,7 +884,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.842048+00:00",
+      "collected_at": "2026-10-12T09:34:08.236403+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -863,6 +912,43 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "Bizim hayatımız komple absürt",
+      "normalized_title": "bizim hayatimiz komple absurt",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/bizim-hayatimiz-komple-absurt-43337264",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-12T09:34:08.236430+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/bizim-hayatimiz-komple-absurt-43337264",
+          "title": "Bizim hayatımız komple absürt"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Karma’nın ikinci sezonu Exxen'de yayında",
       "normalized_title": "karma nin ikinci sezonu exxen de yayinda",
       "url": "https://www.odatv.com/medya/karmanin-yeni-sezonu-yayinda-120165930",
@@ -872,7 +958,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.842110+00:00",
+      "collected_at": "2026-10-12T09:34:08.236460+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -909,7 +995,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.842198+00:00",
+      "collected_at": "2026-10-12T09:34:08.236506+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -946,7 +1032,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.842252+00:00",
+      "collected_at": "2026-10-12T09:34:08.236531+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -983,7 +1069,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.842351+00:00",
+      "collected_at": "2026-10-12T09:34:08.236572+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1020,7 +1106,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.842414+00:00",
+      "collected_at": "2026-10-12T09:34:08.236600+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1057,7 +1143,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.842486+00:00",
+      "collected_at": "2026-10-12T09:34:08.236636+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1094,7 +1180,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.842555+00:00",
+      "collected_at": "2026-10-12T09:34:08.236670+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1131,7 +1217,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.842618+00:00",
+      "collected_at": "2026-10-12T09:34:08.236701+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1168,7 +1254,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.842698+00:00",
+      "collected_at": "2026-10-12T09:34:08.236742+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1205,7 +1291,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.842762+00:00",
+      "collected_at": "2026-10-12T09:34:08.236774+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1219,80 +1305,6 @@
       ],
       "publisher_domains": [
         "m.haber7.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Nihat Kahveci’den Fenerbahçe’nin yıldızına sert eleştiri: 'En kötüsüydü, operasyon yapılmış!'",
-      "normalized_title": "nihat kahveci den fenerbahce nin yildizina sert elestiri en kotusuydu operasyon yapilmis",
-      "url": "https://www.hurriyet.com.tr/sporarena/nihat-kahveciden-fenerbahcenin-yildizina-sert-elestiri-en-kotusuydu-operasyon-yapilmis-43337308",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.842847+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/sporarena/nihat-kahveciden-fenerbahcenin-yildizina-sert-elestiri-en-kotusuydu-operasyon-yapilmis-43337308",
-          "title": "Nihat Kahveci’den Fenerbahçe’nin yıldızına sert eleştiri: 'En kötüsüydü, operasyon yapılmış!'"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Kızılcık Şerbeti'nin Nursema'sı Ceren Karakoç, Sibel Taşçıoğlu'nun nasıl kovulduğunu anlattı - Magazin Haberleri",
-      "normalized_title": "kizilcik serbeti nin nursema si ceren karakoc sibel tascioglu nun nasil kovuldugunu anlatti magazin haberleri",
-      "url": "https://www.mynet.com/magazin/kizilcik-serbeti-nin-nursema-si-ceren-karakoc-sibel-tascioglu-nun-nasil-kovuldugunu-anlatti-130100603713",
-      "source": "mynet.com",
-      "source_role": "publisher",
-      "source_domain": "mynet.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T09:22:40.842941+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "mynet.com",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/kizilcik-serbeti-nin-nursema-si-ceren-karakoc-sibel-tascioglu-nun-nasil-kovuldugunu-anlatti-130100603713",
-          "title": "Kızılcık Şerbeti'nin Nursema'sı Ceren Karakoç, Sibel Taşçıoğlu'nun nasıl kovulduğunu anlattı - Magazin Haberleri"
-        }
-      ],
-      "publisher_domains": [
-        "mynet.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
