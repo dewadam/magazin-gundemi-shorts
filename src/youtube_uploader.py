@@ -11,6 +11,11 @@ def norm_title(value):
  value=re.sub(r"[^a-z0-9]+"," ",value)
  value=re.sub(r"\\bshorts\\b"," ",value)
  return " ".join(value.split())
+try:
+ from event_matcher import same_event
+except ImportError:
+ from src.event_matcher import same_event
+
 def main():
  raw=os.getenv("YOUTUBE_TOKEN_JSON","").strip()
  if not raw:print("YOUTUBE_TOKEN_JSON tanımlı değil; yükleme atlandı. Videolar artifact olarak saklanacak.");return 0
@@ -33,8 +38,9 @@ def main():
   source_url=str(item.get("source_url") or "").strip().rstrip("/").lower()
   folder=ROOT/item["folder"];vp=ROOT/item["video"];tp=ROOT/item["thumbnail"];meta=json.loads((folder/"youtube-metadata.json").read_text(encoding="utf-8"))
   title_key=norm_title(meta.get("title") or item.get("title",""))
-  if (source_url and source_url in known_urls) or (title_key and title_key in known_titles):
-   print(f"Zaten yüklenmiş (kaynak veya başlık eşleşti), tekrar atlandı: {meta.get('title','')}")
+  prior_event=next((old for old in history.get("items",[]) if old.get("title") and same_event({"title":meta.get("title") or item.get("title","")},{"title":old.get("title","")})[0]),None)
+  if (source_url and source_url in known_urls) or (title_key and title_key in known_titles) or prior_event:
+   print(f"Zaten yüklenmiş (kaynak, başlık veya aynı olay eşleşti), tekrar atlandı: {meta.get('title','')}")
    continue
   # Force public visibility; metadata cannot override this.
   body={"snippet":{"title":meta["title"],"description":meta["description"],"tags":meta.get("tags",[]),"categoryId":meta.get("categoryId","25")},"status":{"privacyStatus":"public","selfDeclaredMadeForKids":bool(meta.get("madeForKids",False))}}
