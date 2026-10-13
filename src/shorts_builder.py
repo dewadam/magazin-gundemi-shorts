@@ -172,7 +172,7 @@ def posters(item,article,imagepath,poster,thumb):
  total_h=len(lines)*23; y=206-total_h//2
  for line in lines:
   b=d.textbbox((0,0),line,font=tf)
-  d.text(((W-(b[2]-b[0])//2,y),y),line,font=tf,fill=(255,255,255,255),stroke_width=1,stroke_fill=(0,0,0,110))
+  d.text(((W-(b[2]-b[0]))//2,y),line,font=tf,fill=(255,255,255,255),stroke_width=1,stroke_fill=(0,0,0,110))
   y+=23
  # Fit the whole source image without cutting off faces or bodies. Fill any unused space with a soft blurred version.
  photo_bg=ImageOps.fit(source_image,(W,1280),method=Image.Resampling.LANCZOS).filter(ImageFilter.GaussianBlur(24)).convert("RGBA")
