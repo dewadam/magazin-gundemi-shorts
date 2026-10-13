@@ -1,114 +1,12 @@
 {
-  "generated_at": "2026-10-13T14:27:45.736824+00:00",
+  "generated_at": "2026-10-13T19:29:27.712862+00:00",
   "candidate_count": 100,
-  "event_group_count": 49,
-  "multi_publisher_event_count": 9,
+  "event_group_count": 45,
+  "multi_publisher_event_count": 12,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
-    {
-      "title": "Ufuk Beydemir'in sevgilisi ünlü şarkıcı çıktı: Hamile Sharon Kovacs kimdir, kaç yaşında?",
-      "normalized_title": "ufuk beydemir in sevgilisi unlu sarkici cikti hamile sharon kovacs kimdir kac yasinda",
-      "url": "https://www.sozcu.com.tr/ufuk-beydemir-in-sevgilisi-unlu-sarkici-cikti-hamile-sharon-kovacs-kimdir-kac-yasinda-p368622",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596633+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/galeri-kovacs-kimdir-kac-yasinda-ufuk-beydemirin-sevgilisi-sharon-kovacs-kac-yasinda-ne-is-yapiyor-43338942",
-          "title": "Kovacs kimdir, kaç yaşında? Ufuk Beydemir'in sevgilisi Sharon Kovacs kaç yaşında, ne iş yapıyor?"
-        },
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/ufuk-beydemir-in-sevgilisi-unlu-sarkici-cikti-hamile-sharon-kovacs-kimdir-kac-yasinda-p368622",
-          "title": "Ufuk Beydemir'in sevgilisi ünlü şarkıcı çıktı: Hamile Sharon Kovacs kimdir, kaç yaşında?"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/ufuk-beydemir-kovacs-ile-askini-ilan-etti-3919051",
-          "title": "Ufuk Beydemir, Kovacs ile aşkını ilan etti"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com",
-        "hurriyet.com.tr",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Tuzlu Kahve'den yeni sürpriz. Ajda Pekkan \"Hatun\" ile halayda",
-      "normalized_title": "tuzlu kahve den yeni surpriz ajda pekkan hatun ile halayda",
-      "url": "https://www.ntv.com.tr/yasam/tuzlu-kahveden-yeni-surpriz-ajda-pekkan-hatun-ile-halayda-1745804",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.597659+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/foto-haber/tuzlu-kahveye-ajda-pekkan-ruzgari-superstar-kovboy-oldu,42734",
-          "title": "Tuzlu Kahve'ye Ajda Pekkan rüzgarı: Süperstar, kovboy oldu!"
-        },
-        {
-          "source": "kralmuzik.com.tr",
-          "source_domain": "kralmuzik.com.tr",
-          "url": "https://www.kralmuzik.com.tr/haberler/tuzlu-kahvede-ajda-pekkan-surprizi",
-          "title": "'TUZLU KAHVE'DE AJDA PEKKAN SÜRPRİZİ!"
-        },
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/tuzlu-kahveden-yeni-surpriz-ajda-pekkan-hatun-ile-halayda-1745804",
-          "title": "Tuzlu Kahve'den yeni sürpriz. Ajda Pekkan \"Hatun\" ile halayda"
-        }
-      ],
-      "publisher_domains": [
-        "kralmuzik.com.tr",
-        "ntv.com.tr",
-        "t24.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
     {
       "title": "Hülya Avşar'dan Erkan Petekkaya'ya yanıt: Sakın üzülme, ben çok eğlendim",
       "normalized_title": "hulya avsar dan erkan petekkaya ya yanit sakin uzulme ben cok eglendim",
@@ -119,7 +17,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596411+00:00",
+      "collected_at": "2026-10-13T19:28:52.328429+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -135,11 +33,113 @@
           "source_domain": "milliyet.com.tr",
           "url": "https://www.milliyet.com.tr/magazin/yuruyemeyen-kadin-tartismasi-hulya-avsardan-erkan-petekkayaya-yanit-geldi-7678595",
           "title": "'Yürüyemeyen kadın' tartışması! Hülya Avşar'dan Erkan Petekkaya'ya yanıt geldi"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-hulya-avsardan-erkan-petekkayaya-yanit-ben-cok-eglendim-1746161",
+          "title": "Hülya Avşar'dan Erkan Petekkaya'ya yanıt. \"Ben çok eğlendim\""
         }
       ],
       "publisher_domains": [
         "haberturk.com",
-        "milliyet.com.tr"
+        "milliyet.com.tr",
+        "ntv.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Bodrum Masalı’nın yıldızından mutlu haber! Oyuncu Serhan Onat sessiz sedasız evlendi!",
+      "normalized_title": "bodrum masali nin yildizindan mutlu haber oyuncu serhan onat sessiz sedasiz evlendi",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/bodrum-masalinin-yildizindan-mutlu-haber-oyuncu-serhan-onat-sessiz-sedasiz-evlendi",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-13T19:28:52.329937+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/serhan-onat-ile-merve-kusmenoglu-evlendi-3919259",
+          "title": "Serhan Onat ile Merve Küsmenoğlu evlendi"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/serhan-onat-sessiz-sedasiz-evlendi-surpriz-nikahtan-ilk-kareler-p368613",
+          "title": "Serhan Onat sessiz sedasız evlendi: Sürpriz nikahtan ilk kareler"
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/bodrum-masalinin-yildizindan-mutlu-haber-oyuncu-serhan-onat-sessiz-sedasiz-evlendi",
+          "title": "Bodrum Masalı’nın yıldızından mutlu haber! Oyuncu Serhan Onat sessiz sedasız evlendi!"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "sabah.com.tr",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Jackie Chan'den milli yıldız Alperen Şengün'e övgü dolu sözler",
+      "normalized_title": "jackie chan den milli yildiz alperen sengun e ovgu dolu sozler",
+      "url": "https://www.sozcu.com.tr/jackie-chan-den-milli-yildiz-alperen-sengun-e-ovgu-dolu-sozler-p368296",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-13T19:28:52.329190+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/alperen-sengun-ile-jackie-chan-bir-araya-geldi-3919423",
+          "title": "Alperen Şengün ile Jackie Chan bir araya geldi"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/jackie-chan-den-milli-yildiz-alperen-sengun-e-ovgu-dolu-sozler-p368296",
+          "title": "Jackie Chan'den milli yıldız Alperen Şengün'e övgü dolu sözler"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "sozcu.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -156,6 +156,57 @@
   ],
   "event_groups_preview": [
     {
+      "title": "Hülya Avşar'dan Erkan Petekkaya'ya yanıt: Sakın üzülme, ben çok eğlendim",
+      "normalized_title": "hulya avsar dan erkan petekkaya ya yanit sakin uzulme ben cok eglendim",
+      "url": "https://www.haberturk.com/magazin/hulya-avsar-dan-erkan-petekkaya-ya-yanit-sakin-uzulme-ben-cok-eglendim-3919363",
+      "source": "haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-13T19:28:52.328429+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/hulya-avsar-dan-erkan-petekkaya-ya-yanit-sakin-uzulme-ben-cok-eglendim-3919363",
+          "title": "Hülya Avşar'dan Erkan Petekkaya'ya yanıt: Sakın üzülme, ben çok eğlendim"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/yuruyemeyen-kadin-tartismasi-hulya-avsardan-erkan-petekkayaya-yanit-geldi-7678595",
+          "title": "'Yürüyemeyen kadın' tartışması! Hülya Avşar'dan Erkan Petekkaya'ya yanıt geldi"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-hulya-avsardan-erkan-petekkayaya-yanit-ben-cok-eglendim-1746161",
+          "title": "Hülya Avşar'dan Erkan Petekkaya'ya yanıt. \"Ben çok eğlendim\""
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "milliyet.com.tr",
+        "ntv.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
       "title": "Ufuk Beydemir'in sevgilisi ünlü şarkıcı çıktı: Hamile Sharon Kovacs kimdir, kaç yaşında?",
       "normalized_title": "ufuk beydemir in sevgilisi unlu sarkici cikti hamile sharon kovacs kimdir kac yasinda",
       "url": "https://www.sozcu.com.tr/ufuk-beydemir-in-sevgilisi-unlu-sarkici-cikti-hamile-sharon-kovacs-kimdir-kac-yasinda-p368622",
@@ -165,7 +216,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596633+00:00",
+      "collected_at": "2026-10-13T19:28:52.329017+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -207,43 +258,43 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Tuzlu Kahve'den yeni sürpriz. Ajda Pekkan \"Hatun\" ile halayda",
-      "normalized_title": "tuzlu kahve den yeni surpriz ajda pekkan hatun ile halayda",
-      "url": "https://www.ntv.com.tr/yasam/tuzlu-kahveden-yeni-surpriz-ajda-pekkan-hatun-ile-halayda-1745804",
-      "source": "ntv.com.tr",
+      "title": "Bodrum Masalı’nın yıldızından mutlu haber! Oyuncu Serhan Onat sessiz sedasız evlendi!",
+      "normalized_title": "bodrum masali nin yildizindan mutlu haber oyuncu serhan onat sessiz sedasiz evlendi",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/bodrum-masalinin-yildizindan-mutlu-haber-oyuncu-serhan-onat-sessiz-sedasiz-evlendi",
+      "source": "sabah.com.tr",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.597659+00:00",
+      "collected_at": "2026-10-13T19:28:52.329937+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/foto-haber/tuzlu-kahveye-ajda-pekkan-ruzgari-superstar-kovboy-oldu,42734",
-          "title": "Tuzlu Kahve'ye Ajda Pekkan rüzgarı: Süperstar, kovboy oldu!"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/serhan-onat-ile-merve-kusmenoglu-evlendi-3919259",
+          "title": "Serhan Onat ile Merve Küsmenoğlu evlendi"
         },
         {
-          "source": "kralmuzik.com.tr",
-          "source_domain": "kralmuzik.com.tr",
-          "url": "https://www.kralmuzik.com.tr/haberler/tuzlu-kahvede-ajda-pekkan-surprizi",
-          "title": "'TUZLU KAHVE'DE AJDA PEKKAN SÜRPRİZİ!"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/serhan-onat-sessiz-sedasiz-evlendi-surpriz-nikahtan-ilk-kareler-p368613",
+          "title": "Serhan Onat sessiz sedasız evlendi: Sürpriz nikahtan ilk kareler"
         },
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/tuzlu-kahveden-yeni-surpriz-ajda-pekkan-hatun-ile-halayda-1745804",
-          "title": "Tuzlu Kahve'den yeni sürpriz. Ajda Pekkan \"Hatun\" ile halayda"
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/bodrum-masalinin-yildizindan-mutlu-haber-oyuncu-serhan-onat-sessiz-sedasiz-evlendi",
+          "title": "Bodrum Masalı’nın yıldızından mutlu haber! Oyuncu Serhan Onat sessiz sedasız evlendi!"
         }
       ],
       "publisher_domains": [
-        "kralmuzik.com.tr",
-        "ntv.com.tr",
-        "t24.com.tr"
+        "haberturk.com",
+        "sabah.com.tr",
+        "sozcu.com.tr"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -267,7 +318,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596014+00:00",
+      "collected_at": "2026-10-13T19:28:52.328641+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -302,16 +353,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Hülya Avşar'dan Erkan Petekkaya'ya yanıt: Sakın üzülme, ben çok eğlendim",
-      "normalized_title": "hulya avsar dan erkan petekkaya ya yanit sakin uzulme ben cok eglendim",
-      "url": "https://www.haberturk.com/magazin/hulya-avsar-dan-erkan-petekkaya-ya-yanit-sakin-uzulme-ben-cok-eglendim-3919363",
-      "source": "haberturk.com",
+      "title": "Jackie Chan'den milli yıldız Alperen Şengün'e övgü dolu sözler",
+      "normalized_title": "jackie chan den milli yildiz alperen sengun e ovgu dolu sozler",
+      "url": "https://www.sozcu.com.tr/jackie-chan-den-milli-yildiz-alperen-sengun-e-ovgu-dolu-sozler-p368296",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "haberturk.com",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596411+00:00",
+      "collected_at": "2026-10-13T19:28:52.329190+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -319,19 +370,195 @@
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/hulya-avsar-dan-erkan-petekkaya-ya-yanit-sakin-uzulme-ben-cok-eglendim-3919363",
-          "title": "Hülya Avşar'dan Erkan Petekkaya'ya yanıt: Sakın üzülme, ben çok eğlendim"
+          "url": "https://www.haberturk.com/magazin/foto/alperen-sengun-ile-jackie-chan-bir-araya-geldi-3919423",
+          "title": "Alperen Şengün ile Jackie Chan bir araya geldi"
         },
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/yuruyemeyen-kadin-tartismasi-hulya-avsardan-erkan-petekkayaya-yanit-geldi-7678595",
-          "title": "'Yürüyemeyen kadın' tartışması! Hülya Avşar'dan Erkan Petekkaya'ya yanıt geldi"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/jackie-chan-den-milli-yildiz-alperen-sengun-e-ovgu-dolu-sozler-p368296",
+          "title": "Jackie Chan'den milli yıldız Alperen Şengün'e övgü dolu sözler"
         }
       ],
       "publisher_domains": [
         "haberturk.com",
-        "milliyet.com.tr"
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Ünlü yönetmen Quentin Tarantino ilk kez tiyatro sahnesinde: Başrolde Sacha Baron Cohen yer alacak",
+      "normalized_title": "unlu yonetmen quentin tarantino ilk kez tiyatro sahnesinde basrolde sacha baron cohen yer alacak",
+      "url": "https://www.cumhuriyet.com.tr/kultur-sanat/unlu-yonetmen-quentin-tarantino-ilk-kez-tiyatro-sahnesinde-basrolde-sacha-baron-cohen-yer-alacak-2546352",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-13T19:28:52.329315+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/unlu-yonetmen-quentin-tarantino-ilk-kez-tiyatro-sahnesinde-basrolde-sacha-baron-cohen-yer-alacak-2546352",
+          "title": "Ünlü yönetmen Quentin Tarantino ilk kez tiyatro sahnesinde: Başrolde Sacha Baron Cohen yer alacak"
+        },
+        {
+          "source": "medyascope.tv",
+          "source_domain": "medyascope.tv",
+          "url": "https://medyascope.tv/2026/10/12/quentin-tarantino-ilk-tiyatro-oyunu-sacha-baron-cohen/",
+          "title": "Quentin Tarantino’nun ilk tiyatro oyununda başrol Sacha Baron Cohen"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "medyascope.tv"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Manifest'ten Tralala rekoru. Dört günde 18 milyon dinlenmeye ulaştı",
+      "normalized_title": "manifest ten tralala rekoru dort gunde 18 milyon dinlenmeye ulasti",
+      "url": "https://www.ntv.com.tr/yasam/galeri-manifestten-tralala-rekoru-dort-gunde-18-milyon-dinlenmeye-ulasti-1746147",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-13T19:28:52.329448+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-manifestten-tralala-rekoru-dort-gunde-18-milyon-dinlenmeye-ulasti-1746147",
+          "title": "Manifest'ten Tralala rekoru. Dört günde 18 milyon dinlenmeye ulaştı"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/manifestin-tralala-sarkisi-4-gunde-18-milyon-izlenmeye-ulasti-p368816",
+          "title": "Manifest'in Tralala şarkısı 4 günde 18 milyon izlenmeye ulaştı"
+        }
+      ],
+      "publisher_domains": [
+        "ntv.com.tr",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Kaan Çakır, oyunculuğa nasıl başladığını anlattı: “Asistan olarak gittim, oyuncu yaptılar”",
+      "normalized_title": "kaan cakir oyunculuga nasil basladigini anlatti asistan olarak gittim oyuncu yaptilar",
+      "url": "https://www.cnnturk.com/magazin/galeri/kaan-cakir-oyunculuga-nasil-basladigini-anlatti-asistan-olarak-gittim-oyuncu-yaptilar-3478529",
+      "source": "cnnturk.com",
+      "source_role": "publisher",
+      "source_domain": "cnnturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-13T19:28:52.329675+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/galeri-asistan-olarak-gittim-oyuncu-yaptilar-43339417",
+          "title": "Asistan olarak gittim oyuncu yaptılar"
+        },
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/kaan-cakir-oyunculuga-nasil-basladigini-anlatti-asistan-olarak-gittim-oyuncu-yaptilar-3478529",
+          "title": "Kaan Çakır, oyunculuğa nasıl başladığını anlattı: “Asistan olarak gittim, oyuncu yaptılar”"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com",
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Yalı Sahiplerinin Huzuru Kaçmış: Boğaz Turlarına Yeni Düzenleme Gelebilir!",
+      "normalized_title": "yali sahiplerinin huzuru kacmis bogaz turlarina yeni duzenleme gelebilir",
+      "url": "https://onedio.com/haber/yali-sahiplerinin-huzuru-kacmis-bogaz-turlarina-yeni-duzenleme-gelebilir-1388077",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-13T19:28:52.329773+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/yali-sahiplerinin-huzuru-kacmis-bogaz-turlarina-yeni-duzenleme-gelebilir-1388077",
+          "title": "Yalı Sahiplerinin Huzuru Kaçmış: Boğaz Turlarına Yeni Düzenleme Gelebilir!"
+        },
+        {
+          "source": "yasemin.com",
+          "source_domain": "yasemin.com",
+          "url": "https://www.yasemin.com/magazin/haber/3062738-yali-sahipleri-rahatsiz-oldu-bogaz-turlarina-yeni-duzenleme-istedi",
+          "title": "Yalı sahipleri rahatsız oldu! Boğaz turlarına yeni düzenleme istedi"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com",
+        "yasemin.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -355,7 +582,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.597097+00:00",
+      "collected_at": "2026-10-13T19:28:52.330196+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -399,7 +626,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.597349+00:00",
+      "collected_at": "2026-10-13T19:28:52.330505+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -434,80 +661,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Çağatay Ulusoy’dan aile ziyareti! Anne ve babasıyla Bulgaristan’daki köyüne gitti",
-      "normalized_title": "cagatay ulusoy dan aile ziyareti anne ve babasiyla bulgaristan daki koyune gitti",
-      "url": "https://www.ntv.com.tr/yasam/cagatay-ulusoydan-aile-ziyareti-anne-ve-babasiyla-bulgaristandaki-koyune-gitti-1745836",
-      "source": "ntv.com.tr",
+      "title": "Eray Temiz kimdir? Kaç yaşında? Özlem Özdil nişanlandı mı? Nişanlısı kimdir?",
+      "normalized_title": "eray temiz kimdir kac yasinda ozlem ozdil nisanlandi mi nisanlisi kimdir",
+      "url": "https://www.hakimiyet.com/eray-temiz-kimdir-kac-yasinda-ozlem-ozdil-nisanlandi-mi-nisanlisi-kimdir/127588/",
+      "source": "hakimiyet.com",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "hakimiyet.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.597559+00:00",
+      "collected_at": "2026-10-13T19:28:52.330600+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/cagatay-ulusoy-ailesiyle-birlikte-bulgaristan-daki-koyune-gitti-2545804",
-          "title": "Çağatay Ulusoy ailesiyle birlikte Bulgaristan'daki köyüne gitti"
+          "source": "hakimiyet.com",
+          "source_domain": "hakimiyet.com",
+          "url": "https://www.hakimiyet.com/eray-temiz-kimdir-kac-yasinda-ozlem-ozdil-nisanlandi-mi-nisanlisi-kimdir/127588/",
+          "title": "Eray Temiz kimdir? Kaç yaşında? Özlem Özdil nişanlandı mı? Nişanlısı kimdir?"
         },
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/cagatay-ulusoydan-aile-ziyareti-anne-ve-babasiyla-bulgaristandaki-koyune-gitti-1745836",
-          "title": "Çağatay Ulusoy’dan aile ziyareti! Anne ve babasıyla Bulgaristan’daki köyüne gitti"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/ozlem-ozdil-ve-eray-temiz-nisanlandi-3919179",
+          "title": "Özlem Özdil ve Eray Temiz nişanlandı"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "ntv.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Onur Büyüktopçu'dan annesiyle ilgili yürek burkan itiraf: Eski günlerimizi arıyoruz",
-      "normalized_title": "onur buyuktopcu dan annesiyle ilgili yurek burkan itiraf eski gunlerimizi ariyoruz",
-      "url": "https://www.sozcu.com.tr/onur-buyuktopcu-dan-annesiyle-ilgili-yurek-burkan-itiraf-eski-gunlerimizi-ariyoruz-p368531",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.597766+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/onur-buyuktopcu-dan-annesiyle-ilgili-yurek-burkan-itiraf-eski-gunlerimizi-ariyoruz-p368531",
-          "title": "Onur Büyüktopçu'dan annesiyle ilgili yürek burkan itiraf: Eski günlerimizi arıyoruz"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/onur-buyuktopcudan-annesi-hakkinda-duygulandiran-aciklama-eski-gunlerimizi-ariyoruz",
-          "title": "Onur Büyüktopçu’dan annesi hakkında duygulandıran açıklama! Eski günlerimizi arıyoruz"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr",
-        "sozcu.com.tr"
+        "haberturk.com",
+        "hakimiyet.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -531,17 +714,11 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.598125+00:00",
+      "collected_at": "2026-10-13T19:28:52.330666+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/ozlem-ozdil-ve-eray-temiz-nisanlandi-3919179",
-          "title": "Özlem Özdil ve Eray Temiz nişanlandı"
-        },
         {
           "source": "sozcu.com.tr",
           "source_domain": "sozcu.com.tr",
@@ -550,45 +727,7 @@
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
         "sozcu.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Acılı anne baba Cindy Crawford ve Rande Gerber oğullarının ölümünden sonra ilk kez görüntülendi",
-      "normalized_title": "acili anne baba cindy crawford ve rande gerber ogullarinin olumunden sonra ilk kez goruntulendi",
-      "url": "https://www.haberturk.com/magazin/acili-anne-baba-cindy-crawford-ve-rande-gerber-ogullarinin-olumunden-sonra-ilk-kez-goruntulendi-3918872",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.598277+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/acili-anne-baba-cindy-crawford-ve-rande-gerber-ogullarinin-olumunden-sonra-ilk-kez-goruntulendi-3918872",
-          "title": "Acılı anne baba Cindy Crawford ve Rande Gerber oğullarının ölümünden sonra ilk kez görüntülendi"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -597,6 +736,43 @@
       "latest_published_at": null,
       "age_hours": 48.0,
       "popularity_score": 10.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Yürüyüşüne Yaptığı Yorum Tepki Çekmişti: Hülya Avşar’dan Erkan Petekkaya’ya Beklenmedik Cevap!",
+      "normalized_title": "yuruyusune yaptigi yorum tepki cekmisti hulya avsar dan erkan petekkaya ya beklenmedik cevap",
+      "url": "https://onedio.com/haber/yuruyusune-yaptigi-yorum-tepki-cekmisti-hulya-avsar-dan-erkan-petekkaya-ya-beklenmedik-cevap-1388108",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-13T19:28:52.328600+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/yuruyusune-yaptigi-yorum-tepki-cekmisti-hulya-avsar-dan-erkan-petekkaya-ya-beklenmedik-cevap-1388108",
+          "title": "Yürüyüşüne Yaptığı Yorum Tepki Çekmişti: Hülya Avşar’dan Erkan Petekkaya’ya Beklenmedik Cevap!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -612,7 +788,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596151+00:00",
+      "collected_at": "2026-10-13T19:28:52.328740+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -640,29 +816,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "'Breaking Bad'deki rolüyle tanınan RJ Mitte hayatını kaybetti",
-      "normalized_title": "breaking bad deki roluyle taninan rj mitte hayatini kaybetti",
-      "url": "https://www.diken.com.tr/breaking-baddeki-roluyle-taninan-rj-mitte-hayatini-kaybetti/",
-      "source": "diken.com.tr",
+      "title": "Bryan Cranston’dan RJ Mitte’ye veda: Seni özleyeceğim oğlum",
+      "normalized_title": "bryan cranston dan rj mitte ye veda seni ozleyecegim oglum",
+      "url": "https://www.haberler.com/magazin/bryan-cranstondan-rj-mitteye-veda-seni-20323424-haberi/",
+      "source": "haberler.com",
       "source_role": "publisher",
-      "source_domain": "diken.com.tr",
+      "source_domain": "haberler.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596193+00:00",
+      "collected_at": "2026-10-13T19:28:52.328780+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/breaking-baddeki-roluyle-taninan-rj-mitte-hayatini-kaybetti/",
-          "title": "'Breaking Bad'deki rolüyle tanınan RJ Mitte hayatını kaybetti"
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/magazin/bryan-cranstondan-rj-mitteye-veda-seni-20323424-haberi/",
+          "title": "Bryan Cranston’dan RJ Mitte’ye veda: Seni özleyeceğim oğlum"
         }
       ],
       "publisher_domains": [
-        "diken.com.tr"
+        "haberler.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -686,7 +862,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596236+00:00",
+      "collected_at": "2026-10-13T19:28:52.328821+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -723,7 +899,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596278+00:00",
+      "collected_at": "2026-10-13T19:28:52.328856+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -751,29 +927,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Yeşilçam’ın usta oyuncusu şair Nihat Ziyalan hayatını kaybetti",
-      "normalized_title": "yesilcam in usta oyuncusu sair nihat ziyalan hayatini kaybetti",
-      "url": "https://medyascope.tv/2026/10/12/yesilcamin-usta-oyuncusu-nihat-ziyalan-hayatini-kaybetti/",
-      "source": "medyascope.tv",
+      "title": "Yeşilçam'ın 'Kötü Adam'ı Nihat Ziyalan Hayatını Kaybetti",
+      "normalized_title": "yesilcam in kotu adam i nihat ziyalan hayatini kaybetti",
+      "url": "https://onedio.com/haber/yesilcam-in-kotu-adam-i-nihat-ziyalan-hayatini-kaybetti-1387825",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "medyascope.tv",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596324+00:00",
+      "collected_at": "2026-10-13T19:28:52.328891+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "medyascope.tv",
-          "source_domain": "medyascope.tv",
-          "url": "https://medyascope.tv/2026/10/12/yesilcamin-usta-oyuncusu-nihat-ziyalan-hayatini-kaybetti/",
-          "title": "Yeşilçam’ın usta oyuncusu şair Nihat Ziyalan hayatını kaybetti"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/yesilcam-in-kotu-adam-i-nihat-ziyalan-hayatini-kaybetti-1387825",
+          "title": "Yeşilçam'ın 'Kötü Adam'ı Nihat Ziyalan Hayatını Kaybetti"
         }
       ],
       "publisher_domains": [
-        "medyascope.tv"
+        "onedio.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -797,7 +973,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596369+00:00",
+      "collected_at": "2026-10-13T19:28:52.328931+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -825,80 +1001,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Tartışma büyüyor! Demet Akalın’dan Erkan Petekkaya’ya sert çıkış: Böyle bir şey denir mi!",
-      "normalized_title": "tartisma buyuyor demet akalin dan erkan petekkaya ya sert cikis boyle bir sey denir mi",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/tartisma-buyuyor-demet-akalindan-erkan-petekkayaya-sert-cikis-boyle-bir-sey-denir-mi",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596499+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/tartisma-buyuyor-demet-akalindan-erkan-petekkayaya-sert-cikis-boyle-bir-sey-denir-mi",
-          "title": "Tartışma büyüyor! Demet Akalın’dan Erkan Petekkaya’ya sert çıkış: Böyle bir şey denir mi!"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yürüyüşüne Yaptığı Yorum Tepki Çekmişti: Hülya Avşar’dan Erkan Petekkaya’ya Beklenmedik Cevap!",
-      "normalized_title": "yuruyusune yaptigi yorum tepki cekmisti hulya avsar dan erkan petekkaya ya beklenmedik cevap",
-      "url": "https://onedio.com/haber/yuruyusune-yaptigi-yorum-tepki-cekmisti-hulya-avsar-dan-erkan-petekkaya-ya-beklenmedik-cevap-1388108",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596544+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/yuruyusune-yaptigi-yorum-tepki-cekmisti-hulya-avsar-dan-erkan-petekkaya-ya-beklenmedik-cevap-1388108",
-          "title": "Yürüyüşüne Yaptığı Yorum Tepki Çekmişti: Hülya Avşar’dan Erkan Petekkaya’ya Beklenmedik Cevap!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "YENİ Parti Sözcüsü Zeynel Emre: Çalışmalarımız sürüyor",
       "normalized_title": "yeni parti sozcusu zeynel emre calismalarimiz suruyor",
       "url": "https://www.odatv.com/siyaset/yeni-parti-sozcusu-zeynel-emre-calismalarimiz-suruyor-120166320",
@@ -908,7 +1010,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596668+00:00",
+      "collected_at": "2026-10-13T19:28:52.329051+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -936,53 +1038,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Sezen Aksu şikayetçi oldu: Tekne turlarında düzenleme",
-      "normalized_title": "sezen aksu sikayetci oldu tekne turlarinda duzenleme",
-      "url": "https://www.odatv.com/magazin/sezen-aksu-sikayetci-oldu-tekne-turlarinda-duzenleme-120166418",
-      "source": "odatv.com",
-      "source_role": "publisher",
-      "source_domain": "odatv.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596734+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/magazin/sezen-aksu-sikayetci-oldu-tekne-turlarinda-duzenleme-120166418",
-          "title": "Sezen Aksu şikayetçi oldu: Tekne turlarında düzenleme"
-        }
-      ],
-      "publisher_domains": [
-        "odatv.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yalı Sahiplerinin Huzuru Kaçmış: Boğaz Turlarına Yeni Düzenleme Gelebilir!",
-      "normalized_title": "yali sahiplerinin huzuru kacmis bogaz turlarina yeni duzenleme gelebilir",
-      "url": "https://onedio.com/haber/yali-sahiplerinin-huzuru-kacmis-bogaz-turlarina-yeni-duzenleme-gelebilir-1388077",
+      "title": "Şivesi Kadar Bilezikleri de Konuşulmuştu: Şevval Sam, Tuzlu Kahve'nin Candan'ının Altınlarını Anlattı",
+      "normalized_title": "sivesi kadar bilezikleri de konusulmustu sevval sam tuzlu kahve nin candan inin altinlarini anlatti",
+      "url": "https://onedio.com/haber/sivesi-kadar-bilezikleri-de-konusulmustu-sevval-sam-tuzlu-kahve-nin-candan-inin-altinlarini-anlatti-1388243",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596772+00:00",
+      "collected_at": "2026-10-13T19:28:52.329124+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -990,8 +1055,8 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/yali-sahiplerinin-huzuru-kacmis-bogaz-turlarina-yeni-duzenleme-gelebilir-1388077",
-          "title": "Yalı Sahiplerinin Huzuru Kaçmış: Boğaz Turlarına Yeni Düzenleme Gelebilir!"
+          "url": "https://onedio.com/haber/sivesi-kadar-bilezikleri-de-konusulmustu-sevval-sam-tuzlu-kahve-nin-candan-inin-altinlarini-anlatti-1388243",
+          "title": "Şivesi Kadar Bilezikleri de Konuşulmuştu: Şevval Sam, Tuzlu Kahve'nin Candan'ının Altınlarını Anlattı"
         }
       ],
       "publisher_domains": [
@@ -1010,29 +1075,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Ufuk Özcan - Boğaz’ın yalılarında sessizlik",
-      "normalized_title": "ufuk ozcan bogaz in yalilarinda sessizlik",
-      "url": "https://www.takvim.com.tr/yazarlar/ufuk-ozcan/2026/10/12/bogazin-yalilarinda-sessizlik",
-      "source": "takvim.com.tr",
+      "title": "Tarık Biberovic, Dallas Mavericks İle İkinci Maçında Ne Yaptı?",
+      "normalized_title": "tarik biberovic dallas mavericks ile ikinci macinda ne yapti",
+      "url": "https://www.eurohoops.net/tr/nba-news-tr/2019457/tarik-biberovic-dallas-mavericks-ile-ikinci-macinda-ne-yapti/",
+      "source": "eurohoops.net",
       "source_role": "publisher",
-      "source_domain": "takvim.com.tr",
+      "source_domain": "eurohoops.net",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596803+00:00",
+      "collected_at": "2026-10-13T19:28:52.329226+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "takvim.com.tr",
-          "source_domain": "takvim.com.tr",
-          "url": "https://www.takvim.com.tr/yazarlar/ufuk-ozcan/2026/10/12/bogazin-yalilarinda-sessizlik",
-          "title": "Ufuk Özcan - Boğaz’ın yalılarında sessizlik"
+          "source": "eurohoops.net",
+          "source_domain": "eurohoops.net",
+          "url": "https://www.eurohoops.net/tr/nba-news-tr/2019457/tarik-biberovic-dallas-mavericks-ile-ikinci-macinda-ne-yapti/",
+          "title": "Tarık Biberovic, Dallas Mavericks İle İkinci Maçında Ne Yaptı?"
         }
       ],
       "publisher_domains": [
-        "takvim.com.tr"
+        "eurohoops.net"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1047,29 +1112,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Boğaz turlarındaki Sezen Aksu anonsu için kısıtlama gündemde",
-      "normalized_title": "bogaz turlarindaki sezen aksu anonsu icin kisitlama gundemde",
-      "url": "https://www.timeturk.com/bogaz-turlarindaki-sezen-aksu-anonsu-icin-kisitlama-gundemde",
-      "source": "timeturk.com",
+      "title": "Milli basketbolcu Alperen Şengün ile Jackie Chan yan yana! TEBRİK ETTİ",
+      "normalized_title": "milli basketbolcu alperen sengun ile jackie chan yan yana tebrik etti",
+      "url": "https://www.cnnturk.com/magazin/galeri/milli-basketbolcu-alperen-sengun-ile-jackie-chan-yan-yana-galibiyetten-dolayi-tebrik-etti-3478863",
+      "source": "cnnturk.com",
       "source_role": "publisher",
-      "source_domain": "timeturk.com",
+      "source_domain": "cnnturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596837+00:00",
+      "collected_at": "2026-10-13T19:28:52.329272+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "timeturk.com",
-          "source_domain": "timeturk.com",
-          "url": "https://www.timeturk.com/bogaz-turlarindaki-sezen-aksu-anonsu-icin-kisitlama-gundemde",
-          "title": "Boğaz turlarındaki Sezen Aksu anonsu için kısıtlama gündemde"
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/milli-basketbolcu-alperen-sengun-ile-jackie-chan-yan-yana-galibiyetten-dolayi-tebrik-etti-3478863",
+          "title": "Milli basketbolcu Alperen Şengün ile Jackie Chan yan yana! TEBRİK ETTİ"
         }
       ],
       "publisher_domains": [
-        "timeturk.com"
+        "cnnturk.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1084,29 +1149,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Asistan olarak gittim oyuncu yaptılar",
-      "normalized_title": "asistan olarak gittim oyuncu yaptilar",
-      "url": "https://www.hurriyet.com.tr/galeri-asistan-olarak-gittim-oyuncu-yaptilar-43339417",
-      "source": "hurriyet.com.tr",
+      "title": "Tarantino ilk tiyatro oyununu sahneye taşıyor",
+      "normalized_title": "tarantino ilk tiyatro oyununu sahneye tasiyor",
+      "url": "https://www.diken.com.tr/tarantino-ilk-tiyatro-oyununu-sahneye-tasiyor/",
+      "source": "diken.com.tr",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "diken.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596875+00:00",
+      "collected_at": "2026-10-13T19:28:52.329346+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/galeri-asistan-olarak-gittim-oyuncu-yaptilar-43339417",
-          "title": "Asistan olarak gittim oyuncu yaptılar"
+          "source": "diken.com.tr",
+          "source_domain": "diken.com.tr",
+          "url": "https://www.diken.com.tr/tarantino-ilk-tiyatro-oyununu-sahneye-tasiyor/",
+          "title": "Tarantino ilk tiyatro oyununu sahneye taşıyor"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
+        "diken.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1121,29 +1186,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Kıvanç’ın okuma listesi",
-      "normalized_title": "kivanc in okuma listesi",
-      "url": "https://www.hurriyet.com.tr/kelebek/stil/kivancin-okuma-listesi-43339454",
-      "source": "hurriyet.com.tr",
+      "title": "Quentin Tarantino’nun ilk tiyatro oyunu Londra’da sahnelenecek",
+      "normalized_title": "quentin tarantino nun ilk tiyatro oyunu londra da sahnelenecek",
+      "url": "https://tr.euronews.com/2026/10/12/quentin-tarantinonun-ilk-tiyatro-oyunu-londrada-sahnelenecek",
+      "source": "tr.euronews.com",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "tr.euronews.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596901+00:00",
+      "collected_at": "2026-10-13T19:28:52.329412+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/stil/kivancin-okuma-listesi-43339454",
-          "title": "Kıvanç’ın okuma listesi"
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "url": "https://tr.euronews.com/2026/10/12/quentin-tarantinonun-ilk-tiyatro-oyunu-londrada-sahnelenecek",
+          "title": "Quentin Tarantino’nun ilk tiyatro oyunu Londra’da sahnelenecek"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
+        "tr.euronews.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1158,29 +1223,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Instagram'ı Kapatıp Kitaplara Gömülmüştü: Kıvanç Tatlıtuğ Etkilendiği Kitapları Açıkladı, Tartışma Yarattı!",
-      "normalized_title": "instagram i kapatip kitaplara gomulmustu kivanc tatlitug etkilendigi kitaplari acikladi tartisma yaratti",
-      "url": "https://onedio.com/haber/instagram-i-kapatip-kitaplara-gomulmustu-kivanc-tatlitug-etkilendigi-kitaplari-acikladi-tartisma-yaratti-1387853",
-      "source": "onedio.com",
+      "title": "Manifest dünya zirvesinde!",
+      "normalized_title": "manifest dunya zirvesinde",
+      "url": "https://www.milliyet.com.tr/magazin/manifest-dunya-zirvesinde-7677471",
+      "source": "milliyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "milliyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596947+00:00",
+      "collected_at": "2026-10-13T19:28:52.329507+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/instagram-i-kapatip-kitaplara-gomulmustu-kivanc-tatlitug-etkilendigi-kitaplari-acikladi-tartisma-yaratti-1387853",
-          "title": "Instagram'ı Kapatıp Kitaplara Gömülmüştü: Kıvanç Tatlıtuğ Etkilendiği Kitapları Açıkladı, Tartışma Yarattı!"
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/manifest-dunya-zirvesinde-7677471",
+          "title": "Manifest dünya zirvesinde!"
         }
       ],
       "publisher_domains": [
-        "onedio.com"
+        "milliyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1195,29 +1260,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Kıvanç Tatlıtuğ sosyal medyayı kapatma nedenini açıkladı",
-      "normalized_title": "kivanc tatlitug sosyal medyayi kapatma nedenini acikladi",
-      "url": "https://www.cumhuriyet.com.tr/magazin/kivanc-tatlitug-sosyal-medyayi-kapatma-nedenini-acikladi-2544748",
-      "source": "cumhuriyet.com.tr",
+      "title": "Manifest İngiliz Basınına Kendilerini ve Hedeflerini Anlattı: \"Türküz ve Gurur Duyuyoruz\"",
+      "normalized_title": "manifest ingiliz basinina kendilerini ve hedeflerini anlatti turkuz ve gurur duyuyoruz",
+      "url": "https://www.gecce.com.tr/haber/manifest-ingiliz-basinina-kendilerini-ve-hedeflerini-anlatti-turkuz-ve-gurur-duyuyoruz-332899.html",
+      "source": "gecce.com.tr",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "gecce.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.596980+00:00",
+      "collected_at": "2026-10-13T19:28:52.329550+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/kivanc-tatlitug-sosyal-medyayi-kapatma-nedenini-acikladi-2544748",
-          "title": "Kıvanç Tatlıtuğ sosyal medyayı kapatma nedenini açıkladı"
+          "source": "gecce.com.tr",
+          "source_domain": "gecce.com.tr",
+          "url": "https://www.gecce.com.tr/haber/manifest-ingiliz-basinina-kendilerini-ve-hedeflerini-anlatti-turkuz-ve-gurur-duyuyoruz-332899.html",
+          "title": "Manifest İngiliz Basınına Kendilerini ve Hedeflerini Anlattı: \"Türküz ve Gurur Duyuyoruz\""
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr"
+        "gecce.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1232,16 +1297,53 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "5 milyonu bırakıp gitmişti: Kıvanç Tatlıtuğ'un listesi ortaya çıktı",
-      "normalized_title": "5 milyonu birakip gitmisti kivanc tatlitug un listesi ortaya cikti",
-      "url": "https://halktv.com.tr/magazin/5-milyonu-birakip-gitmisti-kivanc-tatlitugun-listesi-ortaya-cikti-1061452h",
+      "title": "Altı Üstü İstanbul’un yıldızı Kaan Çakır’dan sürpriz açıklama! Yıllar önce o klibe gitmişti: Oyunculuk kariyerinin kapısını bakın nasıl araladı!",
+      "normalized_title": "alti ustu istanbul un yildizi kaan cakir dan surpriz aciklama yillar once o klibe gitmisti oyunculuk kariyerinin kapisini bakin nasil araladi",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/alti-ustu-istanbulun-yildizi-kaan-cakirdan-surpriz-aciklama-yillar-once-o-klibe-gitmisti-oyunculuk-kariyerinin-kapisini-bakin-nasil-araladi",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-13T19:28:52.329634+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/alti-ustu-istanbulun-yildizi-kaan-cakirdan-surpriz-aciklama-yillar-once-o-klibe-gitmisti-oyunculuk-kariyerinin-kapisini-bakin-nasil-araladi",
+          "title": "Altı Üstü İstanbul’un yıldızı Kaan Çakır’dan sürpriz açıklama! Yıllar önce o klibe gitmişti: Oyunculuk kariyerinin kapısını bakın nasıl araladı!"
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "18 yaşında asistan olarak gitti oyuncu oldu",
+      "normalized_title": "18 yasinda asistan olarak gitti oyuncu oldu",
+      "url": "https://halktv.com.tr/magazin/18-yasinda-asistan-olarak-gitti-oyuncu-oldu-1061503h",
       "source": "halktv.com.tr",
       "source_role": "publisher",
       "source_domain": "halktv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.597016+00:00",
+      "collected_at": "2026-10-13T19:28:52.329704+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1249,86 +1351,12 @@
         {
           "source": "halktv.com.tr",
           "source_domain": "halktv.com.tr",
-          "url": "https://halktv.com.tr/magazin/5-milyonu-birakip-gitmisti-kivanc-tatlitugun-listesi-ortaya-cikti-1061452h",
-          "title": "5 milyonu bırakıp gitmişti: Kıvanç Tatlıtuğ'un listesi ortaya çıktı"
+          "url": "https://halktv.com.tr/magazin/18-yasinda-asistan-olarak-gitti-oyuncu-oldu-1061503h",
+          "title": "18 yaşında asistan olarak gitti oyuncu oldu"
         }
       ],
       "publisher_domains": [
         "halktv.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Oscar Ödüllü Yıldız, Polisiye Dünyasının Kült Dizisinde Başrol için İlk Sinyali Verdi",
-      "normalized_title": "oscar odullu yildiz polisiye dunyasinin kult dizisinde basrol icin ilk sinyali verdi",
-      "url": "https://kayiprihtim.com/haber/nicolas-cage-true-detective-5-sezon-rol/",
-      "source": "kayiprihtim.com",
-      "source_role": "publisher",
-      "source_domain": "kayiprihtim.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.597059+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "kayiprihtim.com",
-          "source_domain": "kayiprihtim.com",
-          "url": "https://kayiprihtim.com/haber/nicolas-cage-true-detective-5-sezon-rol/",
-          "title": "Oscar Ödüllü Yıldız, Polisiye Dünyasının Kült Dizisinde Başrol için İlk Sinyali Verdi"
-        }
-      ],
-      "publisher_domains": [
-        "kayiprihtim.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Nicolas Cage, Sevilen Dizinin 5. Sezon Kadrosunda: Yıldız Oyuncudan Sürpriz Duyuru!",
-      "normalized_title": "nicolas cage sevilen dizinin 5 sezon kadrosunda yildiz oyuncudan surpriz duyuru",
-      "url": "https://www.beyazperde.com/haberler/diziler/haberler-1000226913/",
-      "source": "beyazperde.com",
-      "source_role": "publisher",
-      "source_domain": "beyazperde.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-13T14:27:08.597138+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "beyazperde.com",
-          "source_domain": "beyazperde.com",
-          "url": "https://www.beyazperde.com/haberler/diziler/haberler-1000226913/",
-          "title": "Nicolas Cage, Sevilen Dizinin 5. Sezon Kadrosunda: Yıldız Oyuncudan Sürpriz Duyuru!"
-        }
-      ],
-      "publisher_domains": [
-        "beyazperde.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
