@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:23:55.720262+00:00",
+  "generated_at": "2026-10-13T04:25:01.552926+00:00",
   "candidate_count": 100,
   "event_group_count": 48,
   "multi_publisher_event_count": 8,
@@ -8,20 +8,32 @@
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Yaşamına Son Verdi: Breaking Bad'in Yıldızı RJ Mitte 34 Yaşında Hayatını Kaybetti!",
-      "normalized_title": "yasamina son verdi breaking bad in yildizi rj mitte 34 yasinda hayatini kaybetti",
-      "url": "https://onedio.com/haber/yasamina-son-verdi-breaking-bad-in-yildizi-rj-mitte-34-yasinda-hayatini-kaybetti-1387996",
-      "source": "onedio.com",
+      "title": "Breaking Bad dizisinin yıldızından acı haber: 34 yaşında hayatını kaybetti",
+      "normalized_title": "breaking bad dizisinin yildizindan aci haber 34 yasinda hayatini kaybetti",
+      "url": "https://www.sozcu.com.tr/breaking-bad-dizisinin-yildizindan-aci-haber-34-yasinda-hayatini-kaybetti-p368553",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.258297+00:00",
+      "collected_at": "2026-10-13T04:24:26.656841+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
+        {
+          "source": "bbc.com",
+          "source_domain": "bbc.com",
+          "url": "https://www.bbc.com/turkce/articles/cm8xz8jezr44o",
+          "title": "Breaking Bad dizisinin oyuncusu RJ Mitte hayatını kaybetti"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/breaking-bad-dizisinin-yildizindan-aci-haber-34-yasinda-hayatini-kaybetti-p368553",
+          "title": "Breaking Bad dizisinin yıldızından acı haber: 34 yaşında hayatını kaybetti"
+        },
         {
           "source": "diken.com.tr",
           "source_domain": "diken.com.tr",
@@ -29,29 +41,17 @@
           "title": "'Breaking Bad'deki rolüyle tanınan RJ Mitte hayatını kaybetti"
         },
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/yasamina-son-verdi-breaking-bad-in-yildizi-rj-mitte-34-yasinda-hayatini-kaybetti-1387996",
-          "title": "Yaşamına Son Verdi: Breaking Bad'in Yıldızı RJ Mitte 34 Yaşında Hayatını Kaybetti!"
-        },
-        {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/haberler/breaking-bad-yildizi-rj-mitte-34-yasinda-hayatini-20323192-haberi/",
-          "title": "Breaking Bad yıldızı RJ Mitte 34 yaşında hayatını kaybetti"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/henuz-34-yasindaydi-breaking-badin-yildizi-rj-mitte-hayatini-kaybetti-7679325",
-          "title": "Henüz 34 yaşındaydı! Breaking Bad’in yıldızı RJ Mitte hayatını kaybetti"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-breaking-badin-yildizi-34-yasinda-hayatini-kaybetti-1746032",
+          "title": "Breaking Bad'in yıldızı 34 yaşında hayatını kaybetti"
         }
       ],
       "publisher_domains": [
+        "bbc.com",
         "diken.com.tr",
-        "haberler.com",
-        "onedio.com",
-        "sabah.com.tr"
+        "ntv.com.tr",
+        "sozcu.com.tr"
       ],
       "publisher_count": 4,
       "direct_article_count": 4,
@@ -66,16 +66,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Özlem Özdil nişanlandı! Ünlü türkücünün son hali sosyal medyada dikkat çekti",
-      "normalized_title": "ozlem ozdil nisanlandi unlu turkucunun son hali sosyal medyada dikkat cekti",
-      "url": "https://www.bursadabugun.com/haber/ozlem-ozdil-nisanlandi-unlu-turkucunun-son-hali-sosyal-medyada-dikkat-cekti-1955854.html",
-      "source": "bursadabugun.com",
+      "title": "Ata Demirer'den dolandırıcılık uyarısı: Adını kullanarak para isteyenlere dikkat!",
+      "normalized_title": "ata demirer den dolandiricilik uyarisi adini kullanarak para isteyenlere dikkat",
+      "url": "https://www.sozcu.com.tr/ata-demirer-dolandiricilik-uyarisi-p368546",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "bursadabugun.com",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.259031+00:00",
+      "collected_at": "2026-10-13T04:24:26.657333+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -83,26 +83,26 @@
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/ozlem-ozdil-ve-eray-temiz-nisanlandi-3919179",
-          "title": "Özlem Özdil ve Eray Temiz nişanlandı"
+          "url": "https://www.haberturk.com/magazin/ata-demirer-den-uyari-3919215",
+          "title": "Ata Demirer'den uyarı"
         },
         {
-          "source": "sondakika.com",
-          "source_domain": "sondakika.com",
-          "url": "https://www.sondakika.com/magazin/haber-ozlem-ozdil-ile-eray-temiz-nisanlandi-20321162/",
-          "title": "Özlem Özdil ile Eray Temiz nişanlandı"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/ata-demirer-dolandiricilik-uyarisi-p368546",
+          "title": "Ata Demirer'den dolandırıcılık uyarısı: Adını kullanarak para isteyenlere dikkat!"
         },
         {
-          "source": "bursadabugun.com",
-          "source_domain": "bursadabugun.com",
-          "url": "https://www.bursadabugun.com/haber/ozlem-ozdil-nisanlandi-unlu-turkucunun-son-hali-sosyal-medyada-dikkat-cekti-1955854.html",
-          "title": "Özlem Özdil nişanlandı! Ünlü türkücünün son hali sosyal medyada dikkat çekti"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/guncel/ata-demirerden-guvenlik-uyarisi-120166388",
+          "title": "Ata Demirer'den güvenlik uyarısı"
         }
       ],
       "publisher_domains": [
-        "bursadabugun.com",
         "haberturk.com",
-        "sondakika.com"
+        "odatv.com",
+        "sozcu.com.tr"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -117,59 +117,78 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Beyazperdenin emektarlarından, şair Nihat Ziyalan Sydney'de yaşama veda etti",
-      "normalized_title": "beyazperdenin emektarlarindan sair nihat ziyalan sydney de yasama veda etti",
-      "url": "https://haber.sol.org.tr/haber/beyazperdenin-emektarlarindan-sair-nihat-ziyalan-sydneyde-yasama-veda-etti-414895",
-      "source": "haber.sol.org.tr",
+      "title": "Kovacs kimdir, kaç yaşında? Ufuk Beydemir'in sevgilisi Sharon Kovacs kaç yaşında, ne iş yapıyor?",
+      "normalized_title": "kovacs kimdir kac yasinda ufuk beydemir in sevgilisi sharon kovacs kac yasinda ne is yapiyor",
+      "url": "https://www.hurriyet.com.tr/galeri-kovacs-kimdir-kac-yasinda-ufuk-beydemirin-sevgilisi-sharon-kovacs-kac-yasinda-ne-is-yapiyor-43338942",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "haber.sol.org.tr",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.257175+00:00",
+      "collected_at": "2026-10-13T04:24:26.657163+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haber.sol.org.tr",
-          "source_domain": "haber.sol.org.tr",
-          "url": "https://haber.sol.org.tr/haber/beyazperdenin-emektarlarindan-sair-nihat-ziyalan-sydneyde-yasama-veda-etti-414895",
-          "title": "Beyazperdenin emektarlarından, şair Nihat Ziyalan Sydney'de yaşama veda etti"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/galeri-kovacs-kimdir-kac-yasinda-ufuk-beydemirin-sevgilisi-sharon-kovacs-kac-yasinda-ne-is-yapiyor-43338942",
+          "title": "Kovacs kimdir, kaç yaşında? Ufuk Beydemir'in sevgilisi Sharon Kovacs kaç yaşında, ne iş yapıyor?"
+        },
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/yasam/kovacs-kimdir-ufuk-beydemir-in-sevgilisi-sharon-kovacs-ne-is-yapiyor-2545906",
+          "title": "Kovacs kimdir? Ufuk Beydemir'in sevgilisi Sharon Kovacs ne iş yapıyor?"
         }
       ],
       "publisher_domains": [
-        "haber.sol.org.tr"
+        "cumhuriyet.com.tr",
+        "hurriyet.com.tr"
       ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 10.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "single_publisher"
+      "coverage_label": "multi_publisher"
     }
   ],
   "event_groups_preview": [
     {
-      "title": "Yaşamına Son Verdi: Breaking Bad'in Yıldızı RJ Mitte 34 Yaşında Hayatını Kaybetti!",
-      "normalized_title": "yasamina son verdi breaking bad in yildizi rj mitte 34 yasinda hayatini kaybetti",
-      "url": "https://onedio.com/haber/yasamina-son-verdi-breaking-bad-in-yildizi-rj-mitte-34-yasinda-hayatini-kaybetti-1387996",
-      "source": "onedio.com",
+      "title": "Breaking Bad dizisinin yıldızından acı haber: 34 yaşında hayatını kaybetti",
+      "normalized_title": "breaking bad dizisinin yildizindan aci haber 34 yasinda hayatini kaybetti",
+      "url": "https://www.sozcu.com.tr/breaking-bad-dizisinin-yildizindan-aci-haber-34-yasinda-hayatini-kaybetti-p368553",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.258297+00:00",
+      "collected_at": "2026-10-13T04:24:26.656841+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
+        {
+          "source": "bbc.com",
+          "source_domain": "bbc.com",
+          "url": "https://www.bbc.com/turkce/articles/cm8xz8jezr44o",
+          "title": "Breaking Bad dizisinin oyuncusu RJ Mitte hayatını kaybetti"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/breaking-bad-dizisinin-yildizindan-aci-haber-34-yasinda-hayatini-kaybetti-p368553",
+          "title": "Breaking Bad dizisinin yıldızından acı haber: 34 yaşında hayatını kaybetti"
+        },
         {
           "source": "diken.com.tr",
           "source_domain": "diken.com.tr",
@@ -177,29 +196,17 @@
           "title": "'Breaking Bad'deki rolüyle tanınan RJ Mitte hayatını kaybetti"
         },
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/yasamina-son-verdi-breaking-bad-in-yildizi-rj-mitte-34-yasinda-hayatini-kaybetti-1387996",
-          "title": "Yaşamına Son Verdi: Breaking Bad'in Yıldızı RJ Mitte 34 Yaşında Hayatını Kaybetti!"
-        },
-        {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/haberler/breaking-bad-yildizi-rj-mitte-34-yasinda-hayatini-20323192-haberi/",
-          "title": "Breaking Bad yıldızı RJ Mitte 34 yaşında hayatını kaybetti"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/henuz-34-yasindaydi-breaking-badin-yildizi-rj-mitte-hayatini-kaybetti-7679325",
-          "title": "Henüz 34 yaşındaydı! Breaking Bad’in yıldızı RJ Mitte hayatını kaybetti"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-breaking-badin-yildizi-34-yasinda-hayatini-kaybetti-1746032",
+          "title": "Breaking Bad'in yıldızı 34 yaşında hayatını kaybetti"
         }
       ],
       "publisher_domains": [
+        "bbc.com",
         "diken.com.tr",
-        "haberler.com",
-        "onedio.com",
-        "sabah.com.tr"
+        "ntv.com.tr",
+        "sozcu.com.tr"
       ],
       "publisher_count": 4,
       "direct_article_count": 4,
@@ -214,16 +221,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Özlem Özdil nişanlandı! Ünlü türkücünün son hali sosyal medyada dikkat çekti",
-      "normalized_title": "ozlem ozdil nisanlandi unlu turkucunun son hali sosyal medyada dikkat cekti",
-      "url": "https://www.bursadabugun.com/haber/ozlem-ozdil-nisanlandi-unlu-turkucunun-son-hali-sosyal-medyada-dikkat-cekti-1955854.html",
-      "source": "bursadabugun.com",
+      "title": "Ata Demirer'den dolandırıcılık uyarısı: Adını kullanarak para isteyenlere dikkat!",
+      "normalized_title": "ata demirer den dolandiricilik uyarisi adini kullanarak para isteyenlere dikkat",
+      "url": "https://www.sozcu.com.tr/ata-demirer-dolandiricilik-uyarisi-p368546",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "bursadabugun.com",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.259031+00:00",
+      "collected_at": "2026-10-13T04:24:26.657333+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -231,26 +238,26 @@
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/ozlem-ozdil-ve-eray-temiz-nisanlandi-3919179",
-          "title": "Özlem Özdil ve Eray Temiz nişanlandı"
+          "url": "https://www.haberturk.com/magazin/ata-demirer-den-uyari-3919215",
+          "title": "Ata Demirer'den uyarı"
         },
         {
-          "source": "sondakika.com",
-          "source_domain": "sondakika.com",
-          "url": "https://www.sondakika.com/magazin/haber-ozlem-ozdil-ile-eray-temiz-nisanlandi-20321162/",
-          "title": "Özlem Özdil ile Eray Temiz nişanlandı"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/ata-demirer-dolandiricilik-uyarisi-p368546",
+          "title": "Ata Demirer'den dolandırıcılık uyarısı: Adını kullanarak para isteyenlere dikkat!"
         },
         {
-          "source": "bursadabugun.com",
-          "source_domain": "bursadabugun.com",
-          "url": "https://www.bursadabugun.com/haber/ozlem-ozdil-nisanlandi-unlu-turkucunun-son-hali-sosyal-medyada-dikkat-cekti-1955854.html",
-          "title": "Özlem Özdil nişanlandı! Ünlü türkücünün son hali sosyal medyada dikkat çekti"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/guncel/ata-demirerden-guvenlik-uyarisi-120166388",
+          "title": "Ata Demirer'den güvenlik uyarısı"
         }
       ],
       "publisher_domains": [
-        "bursadabugun.com",
         "haberturk.com",
-        "sondakika.com"
+        "odatv.com",
+        "sozcu.com.tr"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -274,7 +281,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.259513+00:00",
+      "collected_at": "2026-10-13T04:24:26.658253+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -316,16 +323,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Oyuncu Deniz Işın, yaşadığı sözlü tacizi anlattı: Her kimse ne kendi gücüne ne de karşısındakinin 'güçsüzlüğüne' güvensin!",
-      "normalized_title": "oyuncu deniz isin yasadigi sozlu tacizi anlatti her kimse ne kendi gucune ne de karsisindakinin gucsuzlugune guvensin",
-      "url": "https://t24.com.tr/magazin/oyuncu-deniz-isin-yasadigi-sozlu-tacizi-anlatti-her-kimse-ne-kendi-gucune-ne-de-karsisindakinin-gucsuzlugune-guvensin,1352821",
-      "source": "t24.com.tr",
+      "title": "Kovacs kimdir, kaç yaşında? Ufuk Beydemir'in sevgilisi Sharon Kovacs kaç yaşında, ne iş yapıyor?",
+      "normalized_title": "kovacs kimdir kac yasinda ufuk beydemir in sevgilisi sharon kovacs kac yasinda ne is yapiyor",
+      "url": "https://www.hurriyet.com.tr/galeri-kovacs-kimdir-kac-yasinda-ufuk-beydemirin-sevgilisi-sharon-kovacs-kac-yasinda-ne-is-yapiyor-43338942",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "t24.com.tr",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.259940+00:00",
+      "collected_at": "2026-10-13T04:24:26.657163+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -333,19 +340,19 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/deniz-isin-yasadigi-tacizi-anlatti-bagira-bagira-uzaklastim-oradan-43338810",
-          "title": "Deniz Işın yaşadığı tacizi anlattı: Bağıra bağıra uzaklaştım oradan!"
+          "url": "https://www.hurriyet.com.tr/galeri-kovacs-kimdir-kac-yasinda-ufuk-beydemirin-sevgilisi-sharon-kovacs-kac-yasinda-ne-is-yapiyor-43338942",
+          "title": "Kovacs kimdir, kaç yaşında? Ufuk Beydemir'in sevgilisi Sharon Kovacs kaç yaşında, ne iş yapıyor?"
         },
         {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/magazin/oyuncu-deniz-isin-yasadigi-sozlu-tacizi-anlatti-her-kimse-ne-kendi-gucune-ne-de-karsisindakinin-gucsuzlugune-guvensin,1352821",
-          "title": "Oyuncu Deniz Işın, yaşadığı sözlü tacizi anlattı: Her kimse ne kendi gücüne ne de karşısındakinin 'güçsüzlüğüne' güvensin!"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/yasam/kovacs-kimdir-ufuk-beydemir-in-sevgilisi-sharon-kovacs-ne-is-yapiyor-2545906",
+          "title": "Kovacs kimdir? Ufuk Beydemir'in sevgilisi Sharon Kovacs ne iş yapıyor?"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr",
-        "t24.com.tr"
+        "cumhuriyet.com.tr",
+        "hurriyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -360,60 +367,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Didem Balçın'dan samimi itiraf: \"Her şeye yetişemiyorum\"",
-      "normalized_title": "didem balcin dan samimi itiraf her seye yetisemiyorum",
-      "url": "https://www.bursadabugun.com/haber/didem-balcin-dan-samimi-itiraf-her-seye-yetisemiyorum-1955831.html",
-      "source": "bursadabugun.com",
+      "title": "Tuzlu Kahve'den yeni sürpriz. Ajda Pekkan \"Hatun\" ile halayda",
+      "normalized_title": "tuzlu kahve den yeni surpriz ajda pekkan hatun ile halayda",
+      "url": "https://www.ntv.com.tr/yasam/tuzlu-kahveden-yeni-surpriz-ajda-pekkan-hatun-ile-halayda-1745804",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "bursadabugun.com",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.260141+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/didem-balcin-her-seye-yetisemiyorum-3919074",
-          "title": "Didem Balçın: Her şeye yetişemiyorum"
-        },
-        {
-          "source": "bursadabugun.com",
-          "source_domain": "bursadabugun.com",
-          "url": "https://www.bursadabugun.com/haber/didem-balcin-dan-samimi-itiraf-her-seye-yetisemiyorum-1955831.html",
-          "title": "Didem Balçın'dan samimi itiraf: \"Her şeye yetişemiyorum\""
-        }
-      ],
-      "publisher_domains": [
-        "bursadabugun.com",
-        "haberturk.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Çağatay Ulusoy'dan kökenlerine yolculuk: Ailecek Bulgaristan'a gittiler",
-      "normalized_title": "cagatay ulusoy dan kokenlerine yolculuk ailecek bulgaristan a gittiler",
-      "url": "https://t24.com.tr/foto-haber/cagatay-ulusoydan-kokenlerine-yolculuk-ailecek-bulgaristana-gittiler,42727",
-      "source": "t24.com.tr",
-      "source_role": "publisher",
-      "source_domain": "t24.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.260907+00:00",
+      "collected_at": "2026-10-13T04:24:26.657629+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -421,18 +384,18 @@
         {
           "source": "t24.com.tr",
           "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/foto-haber/cagatay-ulusoydan-kokenlerine-yolculuk-ailecek-bulgaristana-gittiler,42727",
-          "title": "Çağatay Ulusoy'dan kökenlerine yolculuk: Ailecek Bulgaristan'a gittiler"
+          "url": "https://t24.com.tr/foto-haber/tuzlu-kahveye-ajda-pekkan-ruzgari-superstar-kovboy-oldu,42734",
+          "title": "Tuzlu Kahve'ye Ajda Pekkan rüzgarı: Süperstar, kovboy oldu!"
         },
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/cagatay-ulusoy-dan-bulgaristan-daki-koyune-ziyaret-3918897",
-          "title": "Çağatay Ulusoy'dan Bulgaristan'daki köyüne ziyaret"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/tuzlu-kahveden-yeni-surpriz-ajda-pekkan-hatun-ile-halayda-1745804",
+          "title": "Tuzlu Kahve'den yeni sürpriz. Ajda Pekkan \"Hatun\" ile halayda"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
+        "ntv.com.tr",
         "t24.com.tr"
       ],
       "publisher_count": 2,
@@ -457,15 +420,15 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.261362+00:00",
+      "collected_at": "2026-10-13T04:24:26.657967+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "bianet.org",
-          "source_domain": "bianet.org",
-          "url": "https://bianet.org/haber/berna-lacin-serbest-birakildi-324234",
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/gundem/berna-lacine-izmir-paylasimi-nedeniyle-sorusturma-1745234",
           "title": "Berna Laçin serbest bırakıldı"
         },
         {
@@ -476,8 +439,52 @@
         }
       ],
       "publisher_domains": [
-        "bianet.org",
+        "ntv.com.tr",
         "sondakika.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Çağatay Ulusoy’dan aile ziyareti! Anne ve babasıyla Bulgaristan’daki köyüne gitti",
+      "normalized_title": "cagatay ulusoy dan aile ziyareti anne ve babasiyla bulgaristan daki koyune gitti",
+      "url": "https://www.ntv.com.tr/yasam/cagatay-ulusoydan-aile-ziyareti-anne-ve-babasiyla-bulgaristandaki-koyune-gitti-1745836",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-13T04:24:26.658153+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/cagatay-ulusoy-dan-bulgaristan-daki-koyune-ziyaret-p368166",
+          "title": "Çağatay Ulusoy’dan Bulgaristan’daki köyüne ziyaret"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/cagatay-ulusoydan-aile-ziyareti-anne-ve-babasiyla-bulgaristandaki-koyune-gitti-1745836",
+          "title": "Çağatay Ulusoy’dan aile ziyareti! Anne ve babasıyla Bulgaristan’daki köyüne gitti"
+        }
+      ],
+      "publisher_domains": [
+        "ntv.com.tr",
+        "sozcu.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -501,7 +508,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.261674+00:00",
+      "collected_at": "2026-10-13T04:24:26.658599+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -545,7 +552,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.257175+00:00",
+      "collected_at": "2026-10-13T04:24:26.656970+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -582,7 +589,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.257282+00:00",
+      "collected_at": "2026-10-13T04:24:26.657010+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -610,43 +617,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Usta sanatçı Nihat Ziyalan hayatını kaybetti",
-      "normalized_title": "usta sanatci nihat ziyalan hayatini kaybetti",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/usta-sanatci-nihat-ziyalan-hayatini-kaybetti-43338675",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.257360+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/usta-sanatci-nihat-ziyalan-hayatini-kaybetti-43338675",
-          "title": "Usta sanatçı Nihat Ziyalan hayatını kaybetti"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Yeşilçam oyuncusu Nihat Ziyalan vefat etti! Nihat Ziyalan kimdir, kaç yaşındaydı, hangi filmlerde rol aldı?",
       "normalized_title": "yesilcam oyuncusu nihat ziyalan vefat etti nihat ziyalan kimdir kac yasindaydi hangi filmlerde rol aldi",
       "url": "https://www.haberturk.com/magazin/yesilcam-oyuncusu-nihat-ziyalan-vefat-etti-3919023",
@@ -656,7 +626,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.257456+00:00",
+      "collected_at": "2026-10-13T04:24:26.657073+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -684,29 +654,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Kovacs kimdir, kaç yaşında? Ufuk Beydemir'in sevgilisi Sharon Kovacs kaç yaşında, ne iş yapıyor?",
-      "normalized_title": "kovacs kimdir kac yasinda ufuk beydemir in sevgilisi sharon kovacs kac yasinda ne is yapiyor",
-      "url": "https://www.hurriyet.com.tr/galeri-kovacs-kimdir-kac-yasinda-ufuk-beydemirin-sevgilisi-sharon-kovacs-kac-yasinda-ne-is-yapiyor-43338942",
-      "source": "hurriyet.com.tr",
+      "title": "Yeşilçam'ın usta ismi hayatını kaybetti: 'Sezercik' filmindeki rolüyle tanınmıştı",
+      "normalized_title": "yesilcam in usta ismi hayatini kaybetti sezercik filmindeki roluyle taninmisti",
+      "url": "https://www.yenisafak.com/hayat/yesilcamin-usta-ismi-hayatini-kaybetti-sezercik-filmindeki-roluyle-taninmisti-4863600",
+      "source": "yenisafak.com",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "yenisafak.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.257574+00:00",
+      "collected_at": "2026-10-13T04:24:26.657116+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/galeri-kovacs-kimdir-kac-yasinda-ufuk-beydemirin-sevgilisi-sharon-kovacs-kac-yasinda-ne-is-yapiyor-43338942",
-          "title": "Kovacs kimdir, kaç yaşında? Ufuk Beydemir'in sevgilisi Sharon Kovacs kaç yaşında, ne iş yapıyor?"
+          "source": "yenisafak.com",
+          "source_domain": "yenisafak.com",
+          "url": "https://www.yenisafak.com/hayat/yesilcamin-usta-ismi-hayatini-kaybetti-sezercik-filmindeki-roluyle-taninmisti-4863600",
+          "title": "Yeşilçam'ın usta ismi hayatını kaybetti: 'Sezercik' filmindeki rolüyle tanınmıştı"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
+        "yenisafak.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -730,7 +700,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.257659+00:00",
+      "collected_at": "2026-10-13T04:24:26.657201+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -767,7 +737,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.257737+00:00",
+      "collected_at": "2026-10-13T04:24:26.657235+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -795,29 +765,251 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Babalık Haberiyle Şaşırtmıştı: Ufuk Beydemir'in Sır Gibi Sakladığı Sevgilisi Dünyaca Ünlü Şarkıcı Çıktı!",
-      "normalized_title": "babalik haberiyle sasirtmisti ufuk beydemir in sir gibi sakladigi sevgilisi dunyaca unlu sarkici cikti",
-      "url": "https://onedio.com/haber/ufuk-beydemir-in-bebeginin-annesi-belli-oldu-gizemli-sevgilisi-hollandali-sarkici-sharon-kovacs-cikti-1387914",
-      "source": "onedio.com",
+      "title": "Ata Demirer kendisinin ve kardeşinin adını kullananlara karşı uyardı",
+      "normalized_title": "ata demirer kendisinin ve kardesinin adini kullananlara karsi uyardi",
+      "url": "https://www.haberler.com/haberler/ata-demirer-kendisinin-ve-kardesinin-adini-20323065-haberi/",
+      "source": "haberler.com",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "haberler.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.257830+00:00",
+      "collected_at": "2026-10-13T04:24:26.657396+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/ufuk-beydemir-in-bebeginin-annesi-belli-oldu-gizemli-sevgilisi-hollandali-sarkici-sharon-kovacs-cikti-1387914",
-          "title": "Babalık Haberiyle Şaşırtmıştı: Ufuk Beydemir'in Sır Gibi Sakladığı Sevgilisi Dünyaca Ünlü Şarkıcı Çıktı!"
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/haberler/ata-demirer-kendisinin-ve-kardesinin-adini-20323065-haberi/",
+          "title": "Ata Demirer kendisinin ve kardeşinin adını kullananlara karşı uyardı"
         }
       ],
       "publisher_domains": [
-        "onedio.com"
+        "haberler.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Acun Ilıcalı Survivor 2027 formatını açıkladı",
+      "normalized_title": "acun ilicali survivor 2027 formatini acikladi",
+      "url": "https://www.odatv.com/guncel/acun-ilicali-survivor-2027-formatini-acikladi-survivor-buyuk-odul-ne-kadar-120166387",
+      "source": "odatv.com",
+      "source_role": "publisher",
+      "source_domain": "odatv.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-13T04:24:26.657431+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/guncel/acun-ilicali-survivor-2027-formatini-acikladi-survivor-buyuk-odul-ne-kadar-120166387",
+          "title": "Acun Ilıcalı Survivor 2027 formatını açıkladı"
+        }
+      ],
+      "publisher_domains": [
+        "odatv.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Survivor 2027'de yeni format belli oldu! Turabi ve Ogeday karşı karşıya: Yarışmacılar kimler?",
+      "normalized_title": "survivor 2027 de yeni format belli oldu turabi ve ogeday karsi karsiya yarismacilar kimler",
+      "url": "https://www.internethaber.com/survivor-2027de-yeni-format-belli-oldu-turabi-ve-ogeday-karsi-karsiya-yarismacilar-kimler-2463769h.htm",
+      "source": "internethaber.com",
+      "source_role": "publisher",
+      "source_domain": "internethaber.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-13T04:24:26.657473+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "internethaber.com",
+          "source_domain": "internethaber.com",
+          "url": "https://www.internethaber.com/survivor-2027de-yeni-format-belli-oldu-turabi-ve-ogeday-karsi-karsiya-yarismacilar-kimler-2463769h.htm",
+          "title": "Survivor 2027'de yeni format belli oldu! Turabi ve Ogeday karşı karşıya: Yarışmacılar kimler?"
+        }
+      ],
+      "publisher_domains": [
+        "internethaber.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "SURVİVOR 2027 YARIŞMACI KADROSU: Survivor 2027 Yarışmacıları Kimler Oldu? Nasıl Ve Nereden Başvuru Yapılır?",
+      "normalized_title": "survivor 2027 yarismaci kadrosu survivor 2027 yarismacilari kimler oldu nasil ve nereden basvuru yapilir",
+      "url": "https://www.cnnturk.com/magazin/survivor-2027-yarismaci-kadrosu-survivor-2027-yarismacilari-kimler-oldu-nasil-ve-nereden-basvuru-yapilir-3478407",
+      "source": "cnnturk.com",
+      "source_role": "publisher",
+      "source_domain": "cnnturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-13T04:24:26.657519+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/survivor-2027-yarismaci-kadrosu-survivor-2027-yarismacilari-kimler-oldu-nasil-ve-nereden-basvuru-yapilir-3478407",
+          "title": "SURVİVOR 2027 YARIŞMACI KADROSU: Survivor 2027 Yarışmacıları Kimler Oldu? Nasıl Ve Nereden Başvuru Yapılır?"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Acun Ilıcalı'dan Survivor 2027 müjdesi: İki yıldız takım kaptanı olacak, büyük ödül dudak uçuklattı",
+      "normalized_title": "acun ilicali dan survivor 2027 mujdesi iki yildiz takim kaptani olacak buyuk odul dudak ucuklatti",
+      "url": "https://www.yenicaggazetesi.com/acun-ilicalidan-survivor-2027-mujdesi-iki-yildiz-takim-kaptani-olacak-buyuk-odul-dudak-ucuklatti-1081557h.htm",
+      "source": "yenicaggazetesi.com",
+      "source_role": "publisher",
+      "source_domain": "yenicaggazetesi.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-13T04:24:26.657562+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yenicaggazetesi.com",
+          "source_domain": "yenicaggazetesi.com",
+          "url": "https://www.yenicaggazetesi.com/acun-ilicalidan-survivor-2027-mujdesi-iki-yildiz-takim-kaptani-olacak-buyuk-odul-dudak-ucuklatti-1081557h.htm",
+          "title": "Acun Ilıcalı'dan Survivor 2027 müjdesi: İki yıldız takım kaptanı olacak, büyük ödül dudak uçuklattı"
+        }
+      ],
+      "publisher_domains": [
+        "yenicaggazetesi.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Tuzlu Kahve'de görenleri şaşırtan konuk: Hatun ile köyde halay çekti",
+      "normalized_title": "tuzlu kahve de gorenleri sasirtan konuk hatun ile koyde halay cekti",
+      "url": "https://www.sozcu.com.tr/tuzlu-kahve-de-gorenleri-sasirtan-konuk-hatun-ile-koyde-halay-cekti-p368095?utm_source=haberdetay_1&utm_medium=free&utm_campaign=oneriHaber",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-13T04:24:26.657666+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/tuzlu-kahve-de-gorenleri-sasirtan-konuk-hatun-ile-koyde-halay-cekti-p368095?utm_source=haberdetay_1&utm_medium=free&utm_campaign=oneriHaber",
+          "title": "Tuzlu Kahve'de görenleri şaşırtan konuk: Hatun ile köyde halay çekti"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ajda Pekkan’dan dizi sürprizi! Eda Ece ve Binnur Kaya ile halay çekti",
+      "normalized_title": "ajda pekkan dan dizi surprizi eda ece ve binnur kaya ile halay cekti",
+      "url": "https://www.sondakika.com/haber/haber-ajda-pekkandan-dizi-surprizi-eda-ece-ve-binnur-20319734/",
+      "source": "sondakika.com",
+      "source_role": "publisher",
+      "source_domain": "sondakika.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-13T04:24:26.657705+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/haber/haber-ajda-pekkandan-dizi-surprizi-eda-ece-ve-binnur-20319734/",
+          "title": "Ajda Pekkan’dan dizi sürprizi! Eda Ece ve Binnur Kaya ile halay çekti"
+        }
+      ],
+      "publisher_domains": [
+        "sondakika.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -841,7 +1033,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.257915+00:00",
+      "collected_at": "2026-10-13T04:24:26.657746+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -878,7 +1070,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.257987+00:00",
+      "collected_at": "2026-10-13T04:24:26.657780+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -915,7 +1107,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.258061+00:00",
+      "collected_at": "2026-10-13T04:24:26.657815+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -952,7 +1144,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.258147+00:00",
+      "collected_at": "2026-10-13T04:24:26.657854+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -980,29 +1172,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Cem Yılmaz hayatını kurtaran hastanede söz verdi: 'Bu çocuksu bir vaat değil'",
-      "normalized_title": "cem yilmaz hayatini kurtaran hastanede soz verdi bu cocuksu bir vaat degil",
-      "url": "https://www.ahaber.com.tr/galeri/magazin/cem-yilmaz-hayatini-kurtaran-hastanede-soz-verdi-bu-cocuksu-bir-vaat-degil",
-      "source": "ahaber.com.tr",
+      "title": "Özlem Özdil ve Eray Temiz nişanlandı",
+      "normalized_title": "ozlem ozdil ve eray temiz nisanlandi",
+      "url": "https://www.haberturk.com/magazin/foto/ozlem-ozdil-ve-eray-temiz-nisanlandi-3919179",
+      "source": "haberturk.com",
       "source_role": "publisher",
-      "source_domain": "ahaber.com.tr",
+      "source_domain": "haberturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.258539+00:00",
+      "collected_at": "2026-10-13T04:24:26.657883+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ahaber.com.tr",
-          "source_domain": "ahaber.com.tr",
-          "url": "https://www.ahaber.com.tr/galeri/magazin/cem-yilmaz-hayatini-kurtaran-hastanede-soz-verdi-bu-cocuksu-bir-vaat-degil",
-          "title": "Cem Yılmaz hayatını kurtaran hastanede söz verdi: 'Bu çocuksu bir vaat değil'"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/ozlem-ozdil-ve-eray-temiz-nisanlandi-3919179",
+          "title": "Özlem Özdil ve Eray Temiz nişanlandı"
         }
       ],
       "publisher_domains": [
-        "ahaber.com.tr"
+        "haberturk.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1017,238 +1209,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Cem Yılmaz, Çanakkale'de tedavi gördüğü hastaneye kontrole geldi",
-      "normalized_title": "cem yilmaz canakkale de tedavi gordugu hastaneye kontrole geldi",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/cem-yilmaz-canakkalede-tedavi-gordugu-hastaneye-kontrole-geldi-43338657",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.258613+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/cem-yilmaz-canakkalede-tedavi-gordugu-hastaneye-kontrole-geldi-43338657",
-          "title": "Cem Yılmaz, Çanakkale'de tedavi gördüğü hastaneye kontrole geldi"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "ÇOMÜ'de kontrol randevusu. Cem Yılmaz kalp krizi sonrası anjiyo olduğu hastanede",
-      "normalized_title": "comu de kontrol randevusu cem yilmaz kalp krizi sonrasi anjiyo oldugu hastanede",
-      "url": "https://www.ntv.com.tr/yasam/galeri-comude-kontrol-randevusu-cem-yilmaz-kalp-krizi-sonrasi-anjiyo-oldugu-hastanede-1745962",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.258690+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-comude-kontrol-randevusu-cem-yilmaz-kalp-krizi-sonrasi-anjiyo-oldugu-hastanede-1745962",
-          "title": "ÇOMÜ'de kontrol randevusu. Cem Yılmaz kalp krizi sonrası anjiyo olduğu hastanede"
-        }
-      ],
-      "publisher_domains": [
-        "ntv.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Kalp krizi atlatmıştı: Cem Yılmaz tedavi gördüğü hastanenin önünden poz verdi",
-      "normalized_title": "kalp krizi atlatmisti cem yilmaz tedavi gordugu hastanenin onunden poz verdi",
-      "url": "https://www.cumhuriyet.com.tr/magazin/kalp-krizi-atlatmisti-cem-yilmaz-tedavi-gordugu-hastanenin-onunden-poz-verdi-2545893",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.258766+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/kalp-krizi-atlatmisti-cem-yilmaz-tedavi-gordugu-hastanenin-onunden-poz-verdi-2545893",
-          "title": "Kalp krizi atlatmıştı: Cem Yılmaz tedavi gördüğü hastanenin önünden poz verdi"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Halk müziği sanatçısı Özlem Özdil'den güzel haber! Tarzı olay...",
-      "normalized_title": "halk muzigi sanatcisi ozlem ozdil den guzel haber tarzi olay",
-      "url": "https://www.internethaber.com/halk-muzigi-sanatcisi-ozlem-ozdilden-guzel-haber-tarzi-olay-foto-galerisi-2463719.htm",
-      "source": "internethaber.com",
-      "source_role": "publisher",
-      "source_domain": "internethaber.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.258954+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "internethaber.com",
-          "source_domain": "internethaber.com",
-          "url": "https://www.internethaber.com/halk-muzigi-sanatcisi-ozlem-ozdilden-guzel-haber-tarzi-olay-foto-galerisi-2463719.htm",
-          "title": "Halk müziği sanatçısı Özlem Özdil'den güzel haber! Tarzı olay..."
-        }
-      ],
-      "publisher_domains": [
-        "internethaber.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Hacı Sabancı ve Nazlı Sabancı çiftinin Mardin romantizmi",
-      "normalized_title": "haci sabanci ve nazli sabanci ciftinin mardin romantizmi",
-      "url": "https://www.patronlardunyasi.com/haci-sabanci-ve-nazli-sabanci-ciftinin-mardin-romantizmi",
-      "source": "patronlardunyasi.com",
-      "source_role": "publisher",
-      "source_domain": "patronlardunyasi.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.259097+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "patronlardunyasi.com",
-          "source_domain": "patronlardunyasi.com",
-          "url": "https://www.patronlardunyasi.com/haci-sabanci-ve-nazli-sabanci-ciftinin-mardin-romantizmi",
-          "title": "Hacı Sabancı ve Nazlı Sabancı çiftinin Mardin romantizmi"
-        }
-      ],
-      "publisher_domains": [
-        "patronlardunyasi.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "5 yıldızlı otel kapatıldı... Sosyete Mardin’de!",
-      "normalized_title": "5 yildizli otel kapatildi sosyete mardin de",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/5-yildizli-otel-kapatildi-sosyete-mardinde-43338209",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.259163+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/5-yildizli-otel-kapatildi-sosyete-mardinde-43338209",
-          "title": "5 yıldızlı otel kapatıldı... Sosyete Mardin’de!"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Mardin Mardin olalı böyle eğlence görmedi",
-      "normalized_title": "mardin mardin olali boyle eglence gormedi",
-      "url": "https://www.sabah.com.tr/yazarlar/gunaydin/cankurt/2026/10/12/mardin-mardin-olali-boyle-eglence-gormedi",
+      "title": "İyi ki tutuklanmadı",
+      "normalized_title": "iyi ki tutuklanmadi",
+      "url": "https://www.sabah.com.tr/yazarlar/salih-tuna/2026/10/10/iyi-ki-tutuklanmadi",
       "source": "sabah.com.tr",
       "source_role": "publisher",
       "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.259224+00:00",
+      "collected_at": "2026-10-13T04:24:26.657934+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1256,8 +1226,8 @@
         {
           "source": "sabah.com.tr",
           "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/yazarlar/gunaydin/cankurt/2026/10/12/mardin-mardin-olali-boyle-eglence-gormedi",
-          "title": "Mardin Mardin olalı böyle eğlence görmedi"
+          "url": "https://www.sabah.com.tr/yazarlar/salih-tuna/2026/10/10/iyi-ki-tutuklanmadi",
+          "title": "İyi ki tutuklanmadı"
         }
       ],
       "publisher_domains": [
@@ -1276,16 +1246,53 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Sosyete vaftiz için Mardin'e gitti: Tef çalıp zılgıt çektiler",
-      "normalized_title": "sosyete vaftiz icin mardin e gitti tef calip zilgit cektiler",
-      "url": "https://www.sozcu.com.tr/sosyete-vaftiz-icin-mardin-e-gitti-tef-calip-zilgit-cektiler-p368000",
+      "title": "Son dakika... Tutuklama talep edilmişti: Berna Laçin serbest bırakıldı",
+      "normalized_title": "son dakika tutuklama talep edilmisti berna lacin serbest birakildi",
+      "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-tutuklama-talep-edilmisti-berna-lacin-serbest-birakildi-2544861",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-13T04:24:26.658002+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-tutuklama-talep-edilmisti-berna-lacin-serbest-birakildi-2544861",
+          "title": "Son dakika... Tutuklama talep edilmişti: Berna Laçin serbest bırakıldı"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Vatandaşlık işlemlerine başvurmuştu: Çağatay Ulusoy bu kez ailesinin köyüne gitti",
+      "normalized_title": "vatandaslik islemlerine basvurmustu cagatay ulusoy bu kez ailesinin koyune gitti",
+      "url": "https://www.sozcu.com.tr/vatandaslik-islemlerine-basvurmustu-cagatay-ulusoy-bu-kez-ailesinin-koyune-gitti-p368291",
       "source": "sozcu.com.tr",
       "source_role": "publisher",
       "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.259294+00:00",
+      "collected_at": "2026-10-13T04:24:26.658080+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1293,8 +1300,8 @@
         {
           "source": "sozcu.com.tr",
           "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/sosyete-vaftiz-icin-mardin-e-gitti-tef-calip-zilgit-cektiler-p368000",
-          "title": "Sosyete vaftiz için Mardin'e gitti: Tef çalıp zılgıt çektiler"
+          "url": "https://www.sozcu.com.tr/vatandaslik-islemlerine-basvurmustu-cagatay-ulusoy-bu-kez-ailesinin-koyune-gitti-p368291",
+          "title": "Vatandaşlık işlemlerine başvurmuştu: Çağatay Ulusoy bu kez ailesinin köyüne gitti"
         }
       ],
       "publisher_domains": [
@@ -1313,29 +1320,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Kas Şovuyla Gündem Olmuştu: Demet Akalın'ın Eşi Okan Kurt Acilde Soluğu Aldı, Sebebi Ortaya Çıktı!",
-      "normalized_title": "kas sovuyla gundem olmustu demet akalin in esi okan kurt acilde solugu aldi sebebi ortaya cikti",
-      "url": "https://onedio.com/haber/kas-sovuyla-gundem-olmustu-demet-akalin-in-esi-okan-kurt-acilde-solugu-aldi-sebebi-ortaya-cikti-1387786",
-      "source": "onedio.com",
+      "title": "Kimi köy meydanında kimi de zeytinlikte! Ünlü isimlerin memleket halleri!",
+      "normalized_title": "kimi koy meydaninda kimi de zeytinlikte unlu isimlerin memleket halleri",
+      "url": "https://www.sabah.com.tr/magazin/kimi-koy-meydaninda-kimi-de-zeytinlikte-unlu-isimlerin-memleket-halleri-7678830",
+      "source": "sabah.com.tr",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-12T21:23:20.259607+00:00",
+      "collected_at": "2026-10-13T04:24:26.658116+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/kas-sovuyla-gundem-olmustu-demet-akalin-in-esi-okan-kurt-acilde-solugu-aldi-sebebi-ortaya-cikti-1387786",
-          "title": "Kas Şovuyla Gündem Olmuştu: Demet Akalın'ın Eşi Okan Kurt Acilde Soluğu Aldı, Sebebi Ortaya Çıktı!"
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/magazin/kimi-koy-meydaninda-kimi-de-zeytinlikte-unlu-isimlerin-memleket-halleri-7678830",
+          "title": "Kimi köy meydanında kimi de zeytinlikte! Ünlü isimlerin memleket halleri!"
         }
       ],
       "publisher_domains": [
-        "onedio.com"
+        "sabah.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
