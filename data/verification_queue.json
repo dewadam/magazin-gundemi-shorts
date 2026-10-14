@@ -1,114 +1,20 @@
 {
-  "generated_at": "2026-10-14T07:16:58.919402+00:00",
+  "generated_at": "2026-10-14T12:13:18.124011+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
-      "title": "Bodrum Masalı’nın yıldızından mutlu haber! Oyuncu Serhan Onat sessiz sedasız evlendi!",
-      "normalized_title": "bodrum masali nin yildizindan mutlu haber oyuncu serhan onat sessiz sedasiz evlendi",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/bodrum-masalinin-yildizindan-mutlu-haber-oyuncu-serhan-onat-sessiz-sedasiz-evlendi",
-      "source": "sabah.com.tr",
+      "title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti",
+      "normalized_title": "yesilcam in kotu adami nihat ziyalan hayatini kaybetti",
+      "url": "https://www.odatv.com/guncel/yesilcamin-kotu-adami-nihat-ziyalan-hayatini-kaybetti-120166345",
+      "source": "odatv.com",
       "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
+      "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T07:16:20.529993+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/serhan-onat-ile-merve-kusmenoglu-evlendi-3919259",
-          "title": "Serhan Onat ile Merve Küsmenoğlu evlendi"
-        },
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/serhan-onat-sessiz-sedasiz-evlendi-surpriz-nikahtan-ilk-kareler-p368613",
-          "title": "Serhan Onat sessiz sedasız evlendi: Sürpriz nikahtan ilk kareler"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/bodrum-masalinin-yildizindan-mutlu-haber-oyuncu-serhan-onat-sessiz-sedasiz-evlendi",
-          "title": "Bodrum Masalı’nın yıldızından mutlu haber! Oyuncu Serhan Onat sessiz sedasız evlendi!"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com",
-        "sabah.com.tr",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Bodrum Masalı’nın yıldızından mutlu haber! Oyuncu Serhan Onat sessiz sedasız evlendi!  - Galeri - Trend Magazin",
-        "og_title": "Bodrum Masalı’nın yıldızından mutlu haber! Oyuncu Serhan Onat sessiz sedasız evlendi!",
-        "description": "'Bodrum Masalı' dizisiyle kariyerinde büyük bir çıkış yakalayan oyuncu Serhan Onat'tan müjdeli haber geldi. Geçtiğimiz yıl Merve Küsmenoğlu ile nişanlanan ünlü oyuncu, sessiz sedasız nikah masasına oturdu.",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "title": "Serhan Onat ile Merve Küsmenoğlu evlendi",
-          "summary": "",
-          "url": "https://www.haberturk.com/magazin/foto/serhan-onat-ile-merve-kusmenoglu-evlendi-3919259",
-          "match_score": 0.44,
-          "shared_keywords": [
-            "evlendi",
-            "onat",
-            "serhan"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        },
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "title": "Serhan Onat sessiz sedasız evlendi: Sürpriz nikahtan ilk kareler",
-          "summary": "",
-          "url": "https://www.sozcu.com.tr/serhan-onat-sessiz-sedasiz-evlendi-surpriz-nikahtan-ilk-kareler-p368613",
-          "match_score": 0.44,
-          "shared_keywords": [
-            "evlendi",
-            "onat",
-            "sedas",
-            "serhan",
-            "sessiz"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "Ata Demirer'den dolandırıcılık uyarısı: Adını kullanarak para isteyenlere dikkat!",
-      "normalized_title": "ata demirer den dolandiricilik uyarisi adini kullanarak para isteyenlere dikkat",
-      "url": "https://www.sozcu.com.tr/ata-demirer-dolandiricilik-uyarisi-p368546",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-14T07:16:20.530496+00:00",
+      "collected_at": "2026-10-14T12:12:40.826716+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -116,26 +22,26 @@
         {
           "source": "odatv.com",
           "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/guncel/ata-demirerden-guvenlik-uyarisi-120166388",
-          "title": "Ata Demirer'den güvenlik uyarısı"
+          "url": "https://www.odatv.com/guncel/yesilcamin-kotu-adami-nihat-ziyalan-hayatini-kaybetti-120166345",
+          "title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti"
         },
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/ata-demirer-dolandiricilik-uyarisi-p368546",
-          "title": "Ata Demirer'den dolandırıcılık uyarısı: Adını kullanarak para isteyenlere dikkat!"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/oyuncu-nihat-ziyalan-hayatini-kaybetti-1745978",
+          "title": "Oyuncu Nihat Ziyalan hayatını kaybetti"
         },
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/ata-demirer-den-uyari-3919215",
-          "title": "Ata Demirer'den uyarı"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/yesilcam-in-kotu-adam-i-nihat-ziyalan-hayatini-kaybetti-1387825",
+          "title": "Yeşilçam'ın 'Kötü Adam'ı Nihat Ziyalan Hayatını Kaybetti"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
+        "ntv.com.tr",
         "odatv.com",
-        "sozcu.com.tr"
+        "onedio.com"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -151,38 +57,41 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Ata Demirer'den dolandırıcılık uyarısı: Adını kullanarak para isteyenlere dikkat! - Sözcü",
-        "og_title": "Ata Demirer'den dolandırıcılık uyarısı: Adını kullanarak para isteyenlere dikkat! - Sözcü Gazetesi",
-        "description": "Komedyen Ata Demirer; kendisi ve kardeşinin adını kullanarak borç veya acil nakit para talebinde bulunan dolandırıcılara karşı takipçilerini uyardı. Demirer, bu kişilere itibar edilmemesini ve arayan numaraların güvenlik birimlerine bildirilmesini istedi.",
+        "page_title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti",
+        "og_title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti",
+        "description": "Yeşilçam’ın usta oyuncularından Nihat Ziyalan, 90 yaşında hayatını kaybetti. Canlandırdığı kötü adam karakterleriyle hafızalara kazınan sanatçı, oyunculuğunun yanı sıra şair ve yazar kimliğiyle de tanınıyordu.",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "title": "Ata Demirer'den güvenlik uyarısı",
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "title": "Oyuncu Nihat Ziyalan hayatını kaybetti",
           "summary": "",
-          "url": "https://www.odatv.com/guncel/ata-demirerden-guvenlik-uyarisi-120166388",
-          "match_score": 0.55,
+          "url": "https://www.ntv.com.tr/yasam/oyuncu-nihat-ziyalan-hayatini-kaybetti-1745978",
+          "match_score": 0.72,
           "shared_keywords": [
-            "ata",
-            "demirer",
-            "uyar"
+            "kaybetti",
+            "nihat",
+            "ziyalan"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
         },
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "title": "Ata Demirer'den uyarı",
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "title": "Yeşilçam'ın 'Kötü Adam'ı Nihat Ziyalan Hayatını Kaybetti",
           "summary": "",
-          "url": "https://www.haberturk.com/magazin/ata-demirer-den-uyari-3919215",
-          "match_score": 0.71,
+          "url": "https://onedio.com/haber/yesilcam-in-kotu-adam-i-nihat-ziyalan-hayatini-kaybetti-1387825",
+          "match_score": 1.0,
           "shared_keywords": [
-            "ata",
-            "demirer",
-            "uyar"
+            "adam",
+            "kaybetti",
+            "kotu",
+            "nihat",
+            "yesilcam",
+            "ziyalan"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
@@ -191,36 +100,36 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Uyuşturucu hayatını mahvetti! Peaky Blinders'in Arthur'u Paul Anderson'un son hali ortaya çıktı",
-      "normalized_title": "uyusturucu hayatini mahvetti peaky blinders in arthur u paul anderson un son hali ortaya cikti",
-      "url": "https://www.yasemin.com/magazin/haber/3062753-uyusturucu-hayatini-mahvetti-peaky-blindersin-arthuru-paul-andersonun-son-hali-ortaya-cikti",
-      "source": "yasemin.com",
+      "title": "Sanatçı Alpay, 91 yaşında hayatını kaybetti",
+      "normalized_title": "sanatci alpay 91 yasinda hayatini kaybetti",
+      "url": "https://www.ntv.com.tr/yasam/galeri-usta-sanatci-alpay-91-yasinda-hayatini-kaybetti-1746282",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "yasemin.com",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T07:16:20.527478+00:00",
+      "collected_at": "2026-10-14T12:12:40.826001+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "mynet.com",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/peaky-blinders-yildizi-paul-anderson-in-son-hali-ortaya-cikti-130100604192",
-          "title": "Peaky Blinders dizisinin yıldızı Paul Anderson'ın son hali ortaya çıktı! - Magazin Haberleri"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-usta-sanatci-alpay-91-yasinda-hayatini-kaybetti-1746282",
+          "title": "Sanatçı Alpay, 91 yaşında hayatını kaybetti"
         },
         {
-          "source": "yasemin.com",
-          "source_domain": "yasemin.com",
-          "url": "https://www.yasemin.com/magazin/haber/3062753-uyusturucu-hayatini-mahvetti-peaky-blindersin-arthuru-paul-andersonun-son-hali-ortaya-cikti",
-          "title": "Uyuşturucu hayatını mahvetti! Peaky Blinders'in Arthur'u Paul Anderson'un son hali ortaya çıktı"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/usta-sanatci-alpay-hayatini-kaybetti-43341120",
+          "title": "Usta sanatçı Alpay hayatını kaybetti"
         }
       ],
       "publisher_domains": [
-        "mynet.com",
-        "yasemin.com"
+        "hurriyet.com.tr",
+        "ntv.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -236,26 +145,94 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Uyuşturucu hayatını mahvetti! Peaky Blinders'in Arthur'u Paul Anderson'un son hali ortaya çıktı - Magazin Haberleri",
-        "og_title": "Uyuşturucu hayatını mahvetti! Peaky Blinders'in Arthur'u Paul Anderson'un son hali ortaya çıktı",
-        "description": "İngiliz dönem dizisi olarak dijital platformlarda yayınlanan Peaky Blinders dizisinde rol alan Paul Anderson'un son hali ortaya çıktı. Uyuşturucu ile mücadele e",
+        "page_title": "Sanatçı Alpay, 91 yaşında hayatını kaybetti | NTV Haber",
+        "og_title": "Sanatçı Alpay, 91 yaşında hayatını kaybetti | NTV Haber",
+        "description": "\"Fabrika Kızı\" ve \"Eylül'de Gel\" gibi şarkılarla tanınan sanatçı Alpay, 91 yaşında hayatını kaybetti.",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "mynet.com",
-          "source_domain": "mynet.com",
-          "title": "Peaky Blinders dizisinin yıldızı Paul Anderson'ın son hali ortaya çıktı! - Magazin Haberleri",
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "title": "Usta sanatçı Alpay hayatını kaybetti",
           "summary": "",
-          "url": "https://www.mynet.com/magazin/peaky-blinders-yildizi-paul-anderson-in-son-hali-ortaya-cikti-130100604192",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/usta-sanatci-alpay-hayatini-kaybetti-43341120",
+          "match_score": 0.75,
+          "shared_keywords": [
+            "alpay",
+            "kaybetti",
+            "sanatc"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Tuzlu Kahve'de Ajda Pekkan rüzgarı. Teksas Şerife ile Hatun'dan \"Annesinin annesinin\" düeti",
+      "normalized_title": "tuzlu kahve de ajda pekkan ruzgari teksas serife ile hatun dan annesinin annesinin dueti",
+      "url": "https://www.ntv.com.tr/yasam/galeri-tuzlu-kahvede-ajda-pekkan-ruzgari-teksas-serife-ile-hatundan-annesinin-annesinin-dueti-1746223",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-14T12:12:40.826375+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-tuzlu-kahvede-ajda-pekkan-ruzgari-teksas-serife-ile-hatundan-annesinin-annesinin-dueti-1746223",
+          "title": "Tuzlu Kahve'de Ajda Pekkan rüzgarı. Teksas Şerife ile Hatun'dan \"Annesinin annesinin\" düeti"
+        },
+        {
+          "source": "kralmuzik.com.tr",
+          "source_domain": "kralmuzik.com.tr",
+          "url": "https://www.kralmuzik.com.tr/haberler/tuzlu-kahvede-ajda-pekkan-surprizi",
+          "title": "'TUZLU KAHVE'DE AJDA PEKKAN SÜRPRİZİ!"
+        }
+      ],
+      "publisher_domains": [
+        "kralmuzik.com.tr",
+        "ntv.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Tuzlu Kahve'de Ajda Pekkan rüzgarı. Teksas Şerife ile Hatun'dan \"Annesinin annesinin\" düeti | NTV Haber",
+        "og_title": "Tuzlu Kahve'de Ajda Pekkan rüzgarı. Teksas Şerife ile Hatun'dan \"Annesinin annesinin\" düeti | NTV Haber",
+        "description": "Tuzlu Kahve'nin dün akşam yayınlanan 7'nci bölümüne Ajda Pekkan konuk oldu. Süperstar'ın \"Annesinin annesinin\" şarkısına eşlik etmesi ve Hatun'la halay çekmesi damga vurdu.",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "kralmuzik.com.tr",
+          "source_domain": "kralmuzik.com.tr",
+          "title": "'TUZLU KAHVE'DE AJDA PEKKAN SÜRPRİZİ!",
+          "summary": "",
+          "url": "https://www.kralmuzik.com.tr/haberler/tuzlu-kahvede-ajda-pekkan-surprizi",
           "match_score": 0.59,
           "shared_keywords": [
-            "anderson",
-            "blinders",
-            "hali",
-            "ortaya",
-            "paul",
-            "peaky"
+            "ajda",
+            "kahve",
+            "pekkan",
+            "tuzlu"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
