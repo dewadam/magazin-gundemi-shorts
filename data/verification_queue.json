@@ -1,135 +1,94 @@
 {
-  "generated_at": "2026-10-14T12:13:18.124011+00:00",
+  "generated_at": "2026-10-14T17:32:05.524891+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
-      "title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti",
-      "normalized_title": "yesilcam in kotu adami nihat ziyalan hayatini kaybetti",
-      "url": "https://www.odatv.com/guncel/yesilcamin-kotu-adami-nihat-ziyalan-hayatini-kaybetti-120166345",
-      "source": "odatv.com",
+      "title": "Şarkıcı Alpay hayatını kaybetti",
+      "normalized_title": "sarkici alpay hayatini kaybetti",
+      "url": "https://www.trthaber.com/haber/gundem/sarkici-alpay-hayatini-kaybetti-960092.html",
+      "source": "trthaber.com",
       "source_role": "publisher",
-      "source_domain": "odatv.com",
+      "source_domain": "trthaber.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.826716+00:00",
+      "collected_at": "2026-10-14T17:31:27.122230+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/guncel/yesilcamin-kotu-adami-nihat-ziyalan-hayatini-kaybetti-120166345",
-          "title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti"
+          "source": "trthaber.com",
+          "source_domain": "trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/sarkici-alpay-hayatini-kaybetti-960092.html",
+          "title": "Şarkıcı Alpay hayatını kaybetti"
         },
         {
           "source": "ntv.com.tr",
           "source_domain": "ntv.com.tr",
           "url": "https://www.ntv.com.tr/yasam/oyuncu-nihat-ziyalan-hayatini-kaybetti-1745978",
           "title": "Oyuncu Nihat Ziyalan hayatını kaybetti"
-        },
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/yesilcam-in-kotu-adam-i-nihat-ziyalan-hayatini-kaybetti-1387825",
-          "title": "Yeşilçam'ın 'Kötü Adam'ı Nihat Ziyalan Hayatını Kaybetti"
         }
       ],
       "publisher_domains": [
         "ntv.com.tr",
-        "odatv.com",
-        "onedio.com"
+        "trthaber.com"
       ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "verification_status": "source_page_reachable_no_second_source_match",
       "publication_approved": false,
       "coverage_label": "multi_publisher",
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti",
-        "og_title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti",
-        "description": "Yeşilçam’ın usta oyuncularından Nihat Ziyalan, 90 yaşında hayatını kaybetti. Canlandırdığı kötü adam karakterleriyle hafızalara kazınan sanatçı, oyunculuğunun yanı sıra şair ve yazar kimliğiyle de tanınıyordu.",
+        "page_title": "Şarkıcı Alpay hayatını kaybetti - Son Dakika Haberleri",
+        "og_title": "Şarkıcı Alpay hayatını kaybetti",
+        "description": "'Fabrika Kızı' ve 'Eylülde Gel' şarkılarıyla hafızalara kazınan Türk pop müziğinin usta isimlerinden Alpay Nazikioğlu 91 yaşında hayatını kaybetti.",
         "error": null
       },
-      "independent_source_matches": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "title": "Oyuncu Nihat Ziyalan hayatını kaybetti",
-          "summary": "",
-          "url": "https://www.ntv.com.tr/yasam/oyuncu-nihat-ziyalan-hayatini-kaybetti-1745978",
-          "match_score": 0.72,
-          "shared_keywords": [
-            "kaybetti",
-            "nihat",
-            "ziyalan"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        },
+      "independent_source_matches": [],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Danla Bilic Dokuzuncu Ameliyatın Perde Arkasını Anlattı: \"Bu Son Kurşunumuzdu!\"",
+      "normalized_title": "danla bilic dokuzuncu ameliyatin perde arkasini anlatti bu son kursunumuzdu",
+      "url": "https://onedio.com/haber/danla-bilic-dokuzuncu-ameliyatin-perde-arkasini-anlatti-bu-son-kursunumuzdu-1388468",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-14T17:31:27.122783+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "title": "Yeşilçam'ın 'Kötü Adam'ı Nihat Ziyalan Hayatını Kaybetti",
-          "summary": "",
-          "url": "https://onedio.com/haber/yesilcam-in-kotu-adam-i-nihat-ziyalan-hayatini-kaybetti-1387825",
-          "match_score": 1.0,
-          "shared_keywords": [
-            "adam",
-            "kaybetti",
-            "kotu",
-            "nihat",
-            "yesilcam",
-            "ziyalan"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "Sanatçı Alpay, 91 yaşında hayatını kaybetti",
-      "normalized_title": "sanatci alpay 91 yasinda hayatini kaybetti",
-      "url": "https://www.ntv.com.tr/yasam/galeri-usta-sanatci-alpay-91-yasinda-hayatini-kaybetti-1746282",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.826001+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-usta-sanatci-alpay-91-yasinda-hayatini-kaybetti-1746282",
-          "title": "Sanatçı Alpay, 91 yaşında hayatını kaybetti"
+          "url": "https://onedio.com/haber/danla-bilic-dokuzuncu-ameliyatin-perde-arkasini-anlatti-bu-son-kursunumuzdu-1388468",
+          "title": "Danla Bilic Dokuzuncu Ameliyatın Perde Arkasını Anlattı: \"Bu Son Kurşunumuzdu!\""
         },
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/usta-sanatci-alpay-hayatini-kaybetti-43341120",
-          "title": "Usta sanatçı Alpay hayatını kaybetti"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/danla-bilic-9-ameliyatini-anlatti-dolguyu-kazidilar-120166661",
+          "title": "Danla Bilic 9. ameliyatını anlattı: “Dolguyu kazıdılar”"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr",
-        "ntv.com.tr"
+        "odatv.com",
+        "onedio.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -145,23 +104,24 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Sanatçı Alpay, 91 yaşında hayatını kaybetti | NTV Haber",
-        "og_title": "Sanatçı Alpay, 91 yaşında hayatını kaybetti | NTV Haber",
-        "description": "\"Fabrika Kızı\" ve \"Eylül'de Gel\" gibi şarkılarla tanınan sanatçı Alpay, 91 yaşında hayatını kaybetti.",
+        "page_title": "Danla Bilic 9. Ameliyatının Detaylarını İlk Kez Anlattı! - Onedio",
+        "og_title": "Danla Bilic Dokuzuncu Ameliyatın Perde Arkasını Anlattı: \"Bu Son Kurşunumuzdu!\"",
+        "description": "Danla Bilic, kalça dolgusu nedeniyle geçirdiği 9. ameliyatın detaylarını anlattı. Ünlü fenomen, dört aydır yaşadığı sağlık sorunlarını ve zorlu süreci paylaştı.",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "title": "Usta sanatçı Alpay hayatını kaybetti",
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "title": "Danla Bilic 9. ameliyatını anlattı: “Dolguyu kazıdılar”",
           "summary": "",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/usta-sanatci-alpay-hayatini-kaybetti-43341120",
-          "match_score": 0.75,
+          "url": "https://www.odatv.com/magazin/danla-bilic-9-ameliyatini-anlatti-dolguyu-kazidilar-120166661",
+          "match_score": 0.49,
           "shared_keywords": [
-            "alpay",
-            "kaybetti",
-            "sanatc"
+            "ameliyat",
+            "anlatt",
+            "bilic",
+            "danla"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
@@ -170,36 +130,36 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Tuzlu Kahve'de Ajda Pekkan rüzgarı. Teksas Şerife ile Hatun'dan \"Annesinin annesinin\" düeti",
-      "normalized_title": "tuzlu kahve de ajda pekkan ruzgari teksas serife ile hatun dan annesinin annesinin dueti",
-      "url": "https://www.ntv.com.tr/yasam/galeri-tuzlu-kahvede-ajda-pekkan-ruzgari-teksas-serife-ile-hatundan-annesinin-annesinin-dueti-1746223",
-      "source": "ntv.com.tr",
+      "title": "Tarık Akan'ın üç çocuğu doğum günü etkinliğinde bir araya geldi",
+      "normalized_title": "tarik akan in uc cocugu dogum gunu etkinliginde bir araya geldi",
+      "url": "https://www.sondakika.com/haber/haber-tarik-akanin-uc-cocugu-dogum-gunu-etkinliginde-20329663/",
+      "source": "sondakika.com",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "sondakika.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.826375+00:00",
+      "collected_at": "2026-10-14T17:31:27.123859+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-tuzlu-kahvede-ajda-pekkan-ruzgari-teksas-serife-ile-hatundan-annesinin-annesinin-dueti-1746223",
-          "title": "Tuzlu Kahve'de Ajda Pekkan rüzgarı. Teksas Şerife ile Hatun'dan \"Annesinin annesinin\" düeti"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/tarik-akan-dogum-gununde-anildi-3919529",
+          "title": "Tarık Akan doğum gününde anıldı"
         },
         {
-          "source": "kralmuzik.com.tr",
-          "source_domain": "kralmuzik.com.tr",
-          "url": "https://www.kralmuzik.com.tr/haberler/tuzlu-kahvede-ajda-pekkan-surprizi",
-          "title": "'TUZLU KAHVE'DE AJDA PEKKAN SÜRPRİZİ!"
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/haber/haber-tarik-akanin-uc-cocugu-dogum-gunu-etkinliginde-20329663/",
+          "title": "Tarık Akan'ın üç çocuğu doğum günü etkinliğinde bir araya geldi"
         }
       ],
       "publisher_domains": [
-        "kralmuzik.com.tr",
-        "ntv.com.tr"
+        "haberturk.com",
+        "sondakika.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -215,24 +175,23 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Tuzlu Kahve'de Ajda Pekkan rüzgarı. Teksas Şerife ile Hatun'dan \"Annesinin annesinin\" düeti | NTV Haber",
-        "og_title": "Tuzlu Kahve'de Ajda Pekkan rüzgarı. Teksas Şerife ile Hatun'dan \"Annesinin annesinin\" düeti | NTV Haber",
-        "description": "Tuzlu Kahve'nin dün akşam yayınlanan 7'nci bölümüne Ajda Pekkan konuk oldu. Süperstar'ın \"Annesinin annesinin\" şarkısına eşlik etmesi ve Hatun'la halay çekmesi damga vurdu.",
+        "page_title": "Tarık Akan'ın üç çocuğu doğum günü etkinliğinde bir araya geldi - Son Dakika",
+        "og_title": "Tarık Akan'ın üç çocuğu doğum günü etkinliğinde bir araya geldi",
+        "description": "Yeşilçam'ın unutulmaz jönlerinden Tarık Akan'ın çocukları, babaları için düzenlenen doğum günü etkinliğinde bir araya geldi. Usta oyuncunun oğulları Barış Zeki ve Yaşar Özgür'ün yıllar içindeki değişimi dikkat çekti. Kız kardeşleri Özlem ile objektif karşısına geçen iki kardeşin çocukluk fotoğraflarıyla bugünkü halleri arasındaki fark gözlerden kaçmadı.\n",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "kralmuzik.com.tr",
-          "source_domain": "kralmuzik.com.tr",
-          "title": "'TUZLU KAHVE'DE AJDA PEKKAN SÜRPRİZİ!",
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "title": "Tarık Akan doğum gününde anıldı",
           "summary": "",
-          "url": "https://www.kralmuzik.com.tr/haberler/tuzlu-kahvede-ajda-pekkan-surprizi",
-          "match_score": 0.59,
+          "url": "https://www.haberturk.com/magazin/tarik-akan-dogum-gununde-anildi-3919529",
+          "match_score": 0.55,
           "shared_keywords": [
-            "ajda",
-            "kahve",
-            "pekkan",
-            "tuzlu"
+            "akan",
+            "dogum",
+            "tar"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"

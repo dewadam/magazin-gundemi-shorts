@@ -1,94 +1,43 @@
 {
-  "generated_at": "2026-10-14T12:13:17.348335+00:00",
+  "generated_at": "2026-10-14T17:32:03.625260+00:00",
   "candidate_count": 100,
-  "event_group_count": 45,
+  "event_group_count": 48,
   "multi_publisher_event_count": 11,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti",
-      "normalized_title": "yesilcam in kotu adami nihat ziyalan hayatini kaybetti",
-      "url": "https://www.odatv.com/guncel/yesilcamin-kotu-adami-nihat-ziyalan-hayatini-kaybetti-120166345",
-      "source": "odatv.com",
+      "title": "Şarkıcı Alpay hayatını kaybetti",
+      "normalized_title": "sarkici alpay hayatini kaybetti",
+      "url": "https://www.trthaber.com/haber/gundem/sarkici-alpay-hayatini-kaybetti-960092.html",
+      "source": "trthaber.com",
       "source_role": "publisher",
-      "source_domain": "odatv.com",
+      "source_domain": "trthaber.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.826716+00:00",
+      "collected_at": "2026-10-14T17:31:27.122230+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/guncel/yesilcamin-kotu-adami-nihat-ziyalan-hayatini-kaybetti-120166345",
-          "title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti"
+          "source": "trthaber.com",
+          "source_domain": "trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/sarkici-alpay-hayatini-kaybetti-960092.html",
+          "title": "Şarkıcı Alpay hayatını kaybetti"
         },
         {
           "source": "ntv.com.tr",
           "source_domain": "ntv.com.tr",
           "url": "https://www.ntv.com.tr/yasam/oyuncu-nihat-ziyalan-hayatini-kaybetti-1745978",
           "title": "Oyuncu Nihat Ziyalan hayatını kaybetti"
-        },
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/yesilcam-in-kotu-adam-i-nihat-ziyalan-hayatini-kaybetti-1387825",
-          "title": "Yeşilçam'ın 'Kötü Adam'ı Nihat Ziyalan Hayatını Kaybetti"
         }
       ],
       "publisher_domains": [
         "ntv.com.tr",
-        "odatv.com",
-        "onedio.com"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Sanatçı Alpay, 91 yaşında hayatını kaybetti",
-      "normalized_title": "sanatci alpay 91 yasinda hayatini kaybetti",
-      "url": "https://www.ntv.com.tr/yasam/galeri-usta-sanatci-alpay-91-yasinda-hayatini-kaybetti-1746282",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.826001+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-usta-sanatci-alpay-91-yasinda-hayatini-kaybetti-1746282",
-          "title": "Sanatçı Alpay, 91 yaşında hayatını kaybetti"
-        },
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/usta-sanatci-alpay-hayatini-kaybetti-43341120",
-          "title": "Usta sanatçı Alpay hayatını kaybetti"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr",
-        "ntv.com.tr"
+        "trthaber.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -103,36 +52,80 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Tuzlu Kahve'de Ajda Pekkan rüzgarı. Teksas Şerife ile Hatun'dan \"Annesinin annesinin\" düeti",
-      "normalized_title": "tuzlu kahve de ajda pekkan ruzgari teksas serife ile hatun dan annesinin annesinin dueti",
-      "url": "https://www.ntv.com.tr/yasam/galeri-tuzlu-kahvede-ajda-pekkan-ruzgari-teksas-serife-ile-hatundan-annesinin-annesinin-dueti-1746223",
-      "source": "ntv.com.tr",
+      "title": "Danla Bilic Dokuzuncu Ameliyatın Perde Arkasını Anlattı: \"Bu Son Kurşunumuzdu!\"",
+      "normalized_title": "danla bilic dokuzuncu ameliyatin perde arkasini anlatti bu son kursunumuzdu",
+      "url": "https://onedio.com/haber/danla-bilic-dokuzuncu-ameliyatin-perde-arkasini-anlatti-bu-son-kursunumuzdu-1388468",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.826375+00:00",
+      "collected_at": "2026-10-14T17:31:27.122783+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-tuzlu-kahvede-ajda-pekkan-ruzgari-teksas-serife-ile-hatundan-annesinin-annesinin-dueti-1746223",
-          "title": "Tuzlu Kahve'de Ajda Pekkan rüzgarı. Teksas Şerife ile Hatun'dan \"Annesinin annesinin\" düeti"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/danla-bilic-dokuzuncu-ameliyatin-perde-arkasini-anlatti-bu-son-kursunumuzdu-1388468",
+          "title": "Danla Bilic Dokuzuncu Ameliyatın Perde Arkasını Anlattı: \"Bu Son Kurşunumuzdu!\""
         },
         {
-          "source": "kralmuzik.com.tr",
-          "source_domain": "kralmuzik.com.tr",
-          "url": "https://www.kralmuzik.com.tr/haberler/tuzlu-kahvede-ajda-pekkan-surprizi",
-          "title": "'TUZLU KAHVE'DE AJDA PEKKAN SÜRPRİZİ!"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/danla-bilic-9-ameliyatini-anlatti-dolguyu-kazidilar-120166661",
+          "title": "Danla Bilic 9. ameliyatını anlattı: “Dolguyu kazıdılar”"
         }
       ],
       "publisher_domains": [
-        "kralmuzik.com.tr",
-        "ntv.com.tr"
+        "odatv.com",
+        "onedio.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Tarık Akan'ın üç çocuğu doğum günü etkinliğinde bir araya geldi",
+      "normalized_title": "tarik akan in uc cocugu dogum gunu etkinliginde bir araya geldi",
+      "url": "https://www.sondakika.com/haber/haber-tarik-akanin-uc-cocugu-dogum-gunu-etkinliginde-20329663/",
+      "source": "sondakika.com",
+      "source_role": "publisher",
+      "source_domain": "sondakika.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-14T17:31:27.123859+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/tarik-akan-dogum-gununde-anildi-3919529",
+          "title": "Tarık Akan doğum gününde anıldı"
+        },
+        {
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/haber/haber-tarik-akanin-uc-cocugu-dogum-gunu-etkinliginde-20329663/",
+          "title": "Tarık Akan'ın üç çocuğu doğum günü etkinliğinde bir araya geldi"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "sondakika.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -149,108 +142,6 @@
   ],
   "event_groups_preview": [
     {
-      "title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti",
-      "normalized_title": "yesilcam in kotu adami nihat ziyalan hayatini kaybetti",
-      "url": "https://www.odatv.com/guncel/yesilcamin-kotu-adami-nihat-ziyalan-hayatini-kaybetti-120166345",
-      "source": "odatv.com",
-      "source_role": "publisher",
-      "source_domain": "odatv.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.826716+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/guncel/yesilcamin-kotu-adami-nihat-ziyalan-hayatini-kaybetti-120166345",
-          "title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti"
-        },
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/oyuncu-nihat-ziyalan-hayatini-kaybetti-1745978",
-          "title": "Oyuncu Nihat Ziyalan hayatını kaybetti"
-        },
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/yesilcam-in-kotu-adam-i-nihat-ziyalan-hayatini-kaybetti-1387825",
-          "title": "Yeşilçam'ın 'Kötü Adam'ı Nihat Ziyalan Hayatını Kaybetti"
-        }
-      ],
-      "publisher_domains": [
-        "ntv.com.tr",
-        "odatv.com",
-        "onedio.com"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Breaking Bad dizisinin yıldızı RJ Mitte 34 yaşında hayatını kaybetti",
-      "normalized_title": "breaking bad dizisinin yildizi rj mitte 34 yasinda hayatini kaybetti",
-      "url": "https://www.bbc.com/turkce/articles/cm8xz8jezr44o",
-      "source": "bbc.com",
-      "source_role": "publisher",
-      "source_domain": "bbc.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.826982+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "bbc.com",
-          "source_domain": "bbc.com",
-          "url": "https://www.bbc.com/turkce/articles/cm8xz8jezr44o",
-          "title": "Breaking Bad dizisinin yıldızı RJ Mitte 34 yaşında hayatını kaybetti"
-        },
-        {
-          "source": "dw.com",
-          "source_domain": "dw.com",
-          "url": "https://www.dw.com/tr/breaking-badin-y%C4%B1ld%C4%B1z%C4%B1-rj-mitte-hayat%C4%B1n%C4%B1-kaybetti/a-79647500",
-          "title": "Breaking Bad dizisinin 34 yaşındaki yıldızı RJ Mitte intihar etti"
-        },
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/dunya/breaking-bad-yildizi-hayatini-kaybetti-43340682",
-          "title": "BreakIng Bad yıldızı hayatını kaybetti"
-        }
-      ],
-      "publisher_domains": [
-        "bbc.com",
-        "dw.com",
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
       "title": "Ufuk Beydemir'in sevgilisi ünlü şarkıcı çıktı: Hamile Sharon Kovacs kimdir, kaç yaşında?",
       "normalized_title": "ufuk beydemir in sevgilisi unlu sarkici cikti hamile sharon kovacs kimdir kac yasinda",
       "url": "https://www.sozcu.com.tr/ufuk-beydemir-in-sevgilisi-unlu-sarkici-cikti-hamile-sharon-kovacs-kimdir-kac-yasinda-p368622",
@@ -260,16 +151,16 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.827916+00:00",
+      "collected_at": "2026-10-14T17:31:27.124818+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/kovacs-kimdir-kac-yasinda-nereli-ufuk-beydemir-in-sevgilisi-sharon-kovacs-in-hayati-1387929",
-          "title": "Kovacs Kimdir, Kaç Yaşında, Nereli? Ufuk Beydemir'in Sevgilisi Sharon Kovacs'ın Hayatı"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/galeri-kovacs-kimdir-kac-yasinda-ufuk-beydemirin-sevgilisi-sharon-kovacs-kac-yasinda-ne-is-yapiyor-43338942",
+          "title": "Kovacs kimdir, kaç yaşında? Ufuk Beydemir'in sevgilisi Sharon Kovacs kaç yaşında, ne iş yapıyor?"
         },
         {
           "source": "sozcu.com.tr",
@@ -278,66 +169,15 @@
           "title": "Ufuk Beydemir'in sevgilisi ünlü şarkıcı çıktı: Hamile Sharon Kovacs kimdir, kaç yaşında?"
         },
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/galeri-kovacs-kimdir-kac-yasinda-ufuk-beydemirin-sevgilisi-sharon-kovacs-kac-yasinda-ne-is-yapiyor-43338942",
-          "title": "Kovacs kimdir, kaç yaşında? Ufuk Beydemir'in sevgilisi Sharon Kovacs kaç yaşında, ne iş yapıyor?"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr",
-        "onedio.com",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Bodrum Masalı’nın yıldızından mutlu haber! Oyuncu Serhan Onat sessiz sedasız evlendi!",
-      "normalized_title": "bodrum masali nin yildizindan mutlu haber oyuncu serhan onat sessiz sedasiz evlendi",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/bodrum-masalinin-yildizindan-mutlu-haber-oyuncu-serhan-onat-sessiz-sedasiz-evlendi",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.828512+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/serhan-onat-ile-merve-kusmenoglu-evlendi-3919259",
-          "title": "Serhan Onat ile Merve Küsmenoğlu evlendi"
-        },
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/serhan-onat-sessiz-sedasiz-evlendi-surpriz-nikahtan-ilk-kareler-p368613",
-          "title": "Serhan Onat sessiz sedasız evlendi: Sürpriz nikahtan ilk kareler"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/bodrum-masalinin-yildizindan-mutlu-haber-oyuncu-serhan-onat-sessiz-sedasiz-evlendi",
-          "title": "Bodrum Masalı’nın yıldızından mutlu haber! Oyuncu Serhan Onat sessiz sedasız evlendi!"
+          "url": "https://www.haberturk.com/magazin/foto/ufuk-beydemir-kovacs-ile-askini-ilan-etti-3919051",
+          "title": "Ufuk Beydemir, Kovacs ile aşkını ilan etti"
         }
       ],
       "publisher_domains": [
         "haberturk.com",
-        "sabah.com.tr",
+        "hurriyet.com.tr",
         "sozcu.com.tr"
       ],
       "publisher_count": 3,
@@ -353,36 +193,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Sanatçı Alpay, 91 yaşında hayatını kaybetti",
-      "normalized_title": "sanatci alpay 91 yasinda hayatini kaybetti",
-      "url": "https://www.ntv.com.tr/yasam/galeri-usta-sanatci-alpay-91-yasinda-hayatini-kaybetti-1746282",
-      "source": "ntv.com.tr",
+      "title": "Şarkıcı Alpay hayatını kaybetti",
+      "normalized_title": "sarkici alpay hayatini kaybetti",
+      "url": "https://www.trthaber.com/haber/gundem/sarkici-alpay-hayatini-kaybetti-960092.html",
+      "source": "trthaber.com",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "trthaber.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.826001+00:00",
+      "collected_at": "2026-10-14T17:31:27.122230+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-usta-sanatci-alpay-91-yasinda-hayatini-kaybetti-1746282",
-          "title": "Sanatçı Alpay, 91 yaşında hayatını kaybetti"
+          "source": "trthaber.com",
+          "source_domain": "trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/sarkici-alpay-hayatini-kaybetti-960092.html",
+          "title": "Şarkıcı Alpay hayatını kaybetti"
         },
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/usta-sanatci-alpay-hayatini-kaybetti-43341120",
-          "title": "Usta sanatçı Alpay hayatını kaybetti"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/oyuncu-nihat-ziyalan-hayatini-kaybetti-1745978",
+          "title": "Oyuncu Nihat Ziyalan hayatını kaybetti"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr",
-        "ntv.com.tr"
+        "ntv.com.tr",
+        "trthaber.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -397,60 +237,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Tuzlu Kahve'de Ajda Pekkan rüzgarı. Teksas Şerife ile Hatun'dan \"Annesinin annesinin\" düeti",
-      "normalized_title": "tuzlu kahve de ajda pekkan ruzgari teksas serife ile hatun dan annesinin annesinin dueti",
-      "url": "https://www.ntv.com.tr/yasam/galeri-tuzlu-kahvede-ajda-pekkan-ruzgari-teksas-serife-ile-hatundan-annesinin-annesinin-dueti-1746223",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.826375+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-tuzlu-kahvede-ajda-pekkan-ruzgari-teksas-serife-ile-hatundan-annesinin-annesinin-dueti-1746223",
-          "title": "Tuzlu Kahve'de Ajda Pekkan rüzgarı. Teksas Şerife ile Hatun'dan \"Annesinin annesinin\" düeti"
-        },
-        {
-          "source": "kralmuzik.com.tr",
-          "source_domain": "kralmuzik.com.tr",
-          "url": "https://www.kralmuzik.com.tr/haberler/tuzlu-kahvede-ajda-pekkan-surprizi",
-          "title": "'TUZLU KAHVE'DE AJDA PEKKAN SÜRPRİZİ!"
-        }
-      ],
-      "publisher_domains": [
-        "kralmuzik.com.tr",
-        "ntv.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Yalı Sahiplerinin Huzuru Kaçmış: Boğaz Turlarına Yeni Düzenleme Gelebilir!",
-      "normalized_title": "yali sahiplerinin huzuru kacmis bogaz turlarina yeni duzenleme gelebilir",
-      "url": "https://onedio.com/haber/yali-sahiplerinin-huzuru-kacmis-bogaz-turlarina-yeni-duzenleme-gelebilir-1388077",
+      "title": "Danla Bilic Dokuzuncu Ameliyatın Perde Arkasını Anlattı: \"Bu Son Kurşunumuzdu!\"",
+      "normalized_title": "danla bilic dokuzuncu ameliyatin perde arkasini anlatti bu son kursunumuzdu",
+      "url": "https://onedio.com/haber/danla-bilic-dokuzuncu-ameliyatin-perde-arkasini-anlatti-bu-son-kursunumuzdu-1388468",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.827306+00:00",
+      "collected_at": "2026-10-14T17:31:27.122783+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -458,19 +254,195 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/yali-sahiplerinin-huzuru-kacmis-bogaz-turlarina-yeni-duzenleme-gelebilir-1388077",
-          "title": "Yalı Sahiplerinin Huzuru Kaçmış: Boğaz Turlarına Yeni Düzenleme Gelebilir!"
+          "url": "https://onedio.com/haber/danla-bilic-dokuzuncu-ameliyatin-perde-arkasini-anlatti-bu-son-kursunumuzdu-1388468",
+          "title": "Danla Bilic Dokuzuncu Ameliyatın Perde Arkasını Anlattı: \"Bu Son Kurşunumuzdu!\""
         },
         {
-          "source": "yasemin.com",
-          "source_domain": "yasemin.com",
-          "url": "https://www.yasemin.com/magazin/haber/3062738-yali-sahipleri-rahatsiz-oldu-bogaz-turlarina-yeni-duzenleme-istedi",
-          "title": "Yalı sahipleri rahatsız oldu! Boğaz turlarına yeni düzenleme istedi"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/danla-bilic-9-ameliyatini-anlatti-dolguyu-kazidilar-120166661",
+          "title": "Danla Bilic 9. ameliyatını anlattı: “Dolguyu kazıdılar”"
         }
       ],
       "publisher_domains": [
-        "onedio.com",
-        "yasemin.com"
+        "odatv.com",
+        "onedio.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Tarık Akan'ın üç çocuğu doğum günü etkinliğinde bir araya geldi",
+      "normalized_title": "tarik akan in uc cocugu dogum gunu etkinliginde bir araya geldi",
+      "url": "https://www.sondakika.com/haber/haber-tarik-akanin-uc-cocugu-dogum-gunu-etkinliginde-20329663/",
+      "source": "sondakika.com",
+      "source_role": "publisher",
+      "source_domain": "sondakika.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-14T17:31:27.123859+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/tarik-akan-dogum-gununde-anildi-3919529",
+          "title": "Tarık Akan doğum gününde anıldı"
+        },
+        {
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/haber/haber-tarik-akanin-uc-cocugu-dogum-gunu-etkinliginde-20329663/",
+          "title": "Tarık Akan'ın üç çocuğu doğum günü etkinliğinde bir araya geldi"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "sondakika.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Podyumda yürümesi yetti! Serenay Sarıkaya’ya milyonluk teklif: Dünya deviyle masaya oturacak",
+      "normalized_title": "podyumda yurumesi yetti serenay sarikaya ya milyonluk teklif dunya deviyle masaya oturacak",
+      "url": "https://www.yeniasir.com.tr/magazin/2026/10/13/podyumda-yurumesi-yetti-serenay-sarikayaya-milyonluk-teklif-dunya-deviyle-masaya-oturacak",
+      "source": "yeniasir.com.tr",
+      "source_role": "publisher",
+      "source_domain": "yeniasir.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-14T17:31:27.124142+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/haberler/serenay-sarikayaya-kuresel-markadan-milyonluk-20324643-haberi/",
+          "title": "Serenay Sarıkaya’ya küresel markadan milyonluk teklif iddiası"
+        },
+        {
+          "source": "yeniasir.com.tr",
+          "source_domain": "yeniasir.com.tr",
+          "url": "https://www.yeniasir.com.tr/magazin/2026/10/13/podyumda-yurumesi-yetti-serenay-sarikayaya-milyonluk-teklif-dunya-deviyle-masaya-oturacak",
+          "title": "Podyumda yürümesi yetti! Serenay Sarıkaya’ya milyonluk teklif: Dünya deviyle masaya oturacak"
+        }
+      ],
+      "publisher_domains": [
+        "haberler.com",
+        "yeniasir.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Serkan Kaya itiraf etti! İki aydır uyuyamıyor!",
+      "normalized_title": "serkan kaya itiraf etti iki aydir uyuyamiyor",
+      "url": "https://www.cnnturk.com/magazin/serkan-kaya-itiraf-etti-iki-aydir-uyuyamiyor-3477954",
+      "source": "cnnturk.com",
+      "source_role": "publisher",
+      "source_domain": "cnnturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-14T17:31:27.124422+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/iki-aydir-uyuyamiyor-7677483",
+          "title": "İki aydır uyuyamıyor!"
+        },
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/serkan-kaya-itiraf-etti-iki-aydir-uyuyamiyor-3477954",
+          "title": "Serkan Kaya itiraf etti! İki aydır uyuyamıyor!"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com",
+        "milliyet.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Hülya Avşar'dan Erkan Petekkaya'ya destek: 'Sakın üzülme, ben çok eğlendim'",
+      "normalized_title": "hulya avsar dan erkan petekkaya ya destek sakin uzulme ben cok eglendim",
+      "url": "https://www.cumhuriyet.com.tr/magazin/hulya-avsar-dan-erkan-petekkaya-ya-destek-sakin-uzulme-ben-cok-eglendim-2546380",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-14T17:31:27.124484+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/hulya-avsar-dan-erkan-petekkaya-ya-destek-sakin-uzulme-ben-cok-eglendim-2546380",
+          "title": "Hülya Avşar'dan Erkan Petekkaya'ya destek: 'Sakın üzülme, ben çok eğlendim'"
+        },
+        {
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/hulya-avsardan-erkan-petekkayanin-esprisine-destek-cok-eglendim,1353049",
+          "title": "Hülya Avşar'dan Erkan Petekkaya'nın esprisine destek: Çok eğlendim"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "t24.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -494,7 +466,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.827540+00:00",
+      "collected_at": "2026-10-14T17:31:27.124992+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -538,7 +510,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.827680+00:00",
+      "collected_at": "2026-10-14T17:31:27.125100+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -573,6 +545,50 @@
       "coverage_label": "multi_publisher"
     },
     {
+      "title": "Selçuk Yöntem’den Aşk-ı Memnu itirafı. “Oradaki arkadaşlarımla sonrasında bir araya gelemedik”",
+      "normalized_title": "selcuk yontem den ask i memnu itirafi oradaki arkadaslarimla sonrasinda bir araya gelemedik",
+      "url": "https://www.ntv.com.tr/yasam/galeri-selcuk-yontemden-ask-i-memnu-itirafi-oradaki-arkadaslarimla-sonrasinda-bir-araya-gelemedik-1746088",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-14T17:31:27.125279+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/selcuk-yontem-rol-arkadaslarimizla-bir-araya-gelemedik-3919454",
+          "title": "Selçuk Yöntem: Rol arkadaşlarımızla bir araya gelemedik"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-selcuk-yontemden-ask-i-memnu-itirafi-oradaki-arkadaslarimla-sonrasinda-bir-araya-gelemedik-1746088",
+          "title": "Selçuk Yöntem’den Aşk-ı Memnu itirafı. “Oradaki arkadaşlarımla sonrasında bir araya gelemedik”"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "ntv.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
       "title": "Ata Demirer'den güvenlik uyarısı",
       "normalized_title": "ata demirer den guvenlik uyarisi",
       "url": "https://www.odatv.com/guncel/ata-demirerden-guvenlik-uyarisi-120166388",
@@ -582,7 +598,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.828126+00:00",
+      "collected_at": "2026-10-14T17:31:27.125412+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -617,16 +633,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Manifest'ten Tralala rekoru. Dört günde 18 milyon dinlenmeye ulaştı",
-      "normalized_title": "manifest ten tralala rekoru dort gunde 18 milyon dinlenmeye ulasti",
-      "url": "https://www.ntv.com.tr/yasam/galeri-manifestten-tralala-rekoru-dort-gunde-18-milyon-dinlenmeye-ulasti-1746147",
+      "title": "Tuzlu Kahve'de Ajda Pekkan rüzgarı. Teksas Şerife ile Hatun'dan \"Annesinin annesinin\" düeti",
+      "normalized_title": "tuzlu kahve de ajda pekkan ruzgari teksas serife ile hatun dan annesinin annesinin dueti",
+      "url": "https://www.ntv.com.tr/yasam/galeri-tuzlu-kahvede-ajda-pekkan-ruzgari-teksas-serife-ile-hatundan-annesinin-annesinin-dueti-1746223",
       "source": "ntv.com.tr",
       "source_role": "publisher",
       "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.829072+00:00",
+      "collected_at": "2026-10-14T17:31:27.122351+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -634,93 +650,12 @@
         {
           "source": "ntv.com.tr",
           "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-manifestten-tralala-rekoru-dort-gunde-18-milyon-dinlenmeye-ulasti-1746147",
-          "title": "Manifest'ten Tralala rekoru. Dört günde 18 milyon dinlenmeye ulaştı"
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/manifest-in-tralala-sarkisi-4-gunde-18-milyon-izlendi-2546390",
-          "title": "Manifest'in 'Tralala' şarkısı 4 günde 18 milyon izlendi"
+          "url": "https://www.ntv.com.tr/yasam/galeri-tuzlu-kahvede-ajda-pekkan-ruzgari-teksas-serife-ile-hatundan-annesinin-annesinin-dueti-1746223",
+          "title": "Tuzlu Kahve'de Ajda Pekkan rüzgarı. Teksas Şerife ile Hatun'dan \"Annesinin annesinin\" düeti"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
         "ntv.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Son dakika... Türk pop müziğinin usta ismi Alpay vefat etti",
-      "normalized_title": "son dakika turk pop muziginin usta ismi alpay vefat etti",
-      "url": "https://www.sozcu.com.tr/son-dakika-turk-pop-muziginin-usta-ismi-alpay-vefat-etti-p369064",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.826114+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/son-dakika-turk-pop-muziginin-usta-ismi-alpay-vefat-etti-p369064",
-          "title": "Son dakika... Türk pop müziğinin usta ismi Alpay vefat etti"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Futbol Sahalarından “Eylül'de Gel”e: Türk Pop Müziğinin Unutulmaz Sesi Alpay'ın Hayat Hikayesi",
-      "normalized_title": "futbol sahalarindan eylul de gel e turk pop muziginin unutulmaz sesi alpay in hayat hikayesi",
-      "url": "https://onedio.com/haber/futbol-sahalarindan-eylul-de-gel-e-turk-pop-muziginin-unutulmaz-sesi-alpay-in-hayat-hikayesi-1388368",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.826285+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/futbol-sahalarindan-eylul-de-gel-e-turk-pop-muziginin-unutulmaz-sesi-alpay-in-hayat-hikayesi-1388368",
-          "title": "Futbol Sahalarından “Eylül'de Gel”e: Türk Pop Müziğinin Unutulmaz Sesi Alpay'ın Hayat Hikayesi"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -744,7 +679,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.826473+00:00",
+      "collected_at": "2026-10-14T17:31:27.122435+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -772,29 +707,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Tuzlu Kahve 13 Ekim 2026 - Saat Kaçta Başlıyor? - TV Rehberi",
-      "normalized_title": "tuzlu kahve 13 ekim 2026 saat kacta basliyor tv rehberi",
-      "url": "https://www.hurriyet.com.tr/tv-rehberi/program-detay/24508716/tuzlu-kahve/",
-      "source": "hurriyet.com.tr",
+      "title": "Tuzlu Kahve'de Yapay Zekayla Gençleşen Taylan, Sitare ve Tiraje Sosyal Medyada Gündem Oldu",
+      "normalized_title": "tuzlu kahve de yapay zekayla genclesen taylan sitare ve tiraje sosyal medyada gundem oldu",
+      "url": "https://onedio.com/haber/tuzlu-kahve-de-yapay-zekayla-genclesen-taylan-sitare-ve-tiraje-sosyal-medyada-gundem-oldu-1388311",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.826577+00:00",
+      "collected_at": "2026-10-14T17:31:27.122509+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/tv-rehberi/program-detay/24508716/tuzlu-kahve/",
-          "title": "Tuzlu Kahve 13 Ekim 2026 - Saat Kaçta Başlıyor? - TV Rehberi"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/tuzlu-kahve-de-yapay-zekayla-genclesen-taylan-sitare-ve-tiraje-sosyal-medyada-gundem-oldu-1388311",
+          "title": "Tuzlu Kahve'de Yapay Zekayla Gençleşen Taylan, Sitare ve Tiraje Sosyal Medyada Gündem Oldu"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
+        "onedio.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -809,29 +744,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Bir dönem Türk sinemasının kötü adamı yaşamını yitirdi",
-      "normalized_title": "bir donem turk sinemasinin kotu adami yasamini yitirdi",
-      "url": "https://www.sozcu.com.tr/bir-donem-turk-sinemasinin-kotu-adami-yasamini-yitirdi-p368383",
-      "source": "sozcu.com.tr",
+      "title": "Tuzlu Kahve’de GORA göndermesi! O sahne gündem oldu - Dizi Haberleri",
+      "normalized_title": "tuzlu kahve de gora gondermesi o sahne gundem oldu dizi haberleri",
+      "url": "https://www.mynet.com/magazin/tuzlu-kahve-de-gora-gondermesi-o-sahne-gundem-oldu-130100604210",
+      "source": "mynet.com",
       "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
+      "source_domain": "mynet.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.826842+00:00",
+      "collected_at": "2026-10-14T17:31:27.122576+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/bir-donem-turk-sinemasinin-kotu-adami-yasamini-yitirdi-p368383",
-          "title": "Bir dönem Türk sinemasının kötü adamı yaşamını yitirdi"
+          "source": "mynet.com",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/tuzlu-kahve-de-gora-gondermesi-o-sahne-gundem-oldu-130100604210",
+          "title": "Tuzlu Kahve’de GORA göndermesi! O sahne gündem oldu - Dizi Haberleri"
         }
       ],
       "publisher_domains": [
-        "sozcu.com.tr"
+        "mynet.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -846,16 +781,90 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Oyuncunun acı vedası",
-      "normalized_title": "oyuncunun aci vedasi",
-      "url": "https://www.milliyet.com.tr/kultur-sanat/oyuncunun-aci-vedasi-7679087",
+      "title": "Sylvester Stallone'dan yıllar sonra gelen itiraf: 'Dublör kullanmamak aptallıktı'",
+      "normalized_title": "sylvester stallone dan yillar sonra gelen itiraf dublor kullanmamak aptallikti",
+      "url": "https://www.cumhuriyet.com.tr/yasam/sylvester-stallone-dan-yillar-sonra-gelen-itiraf-dublor-kullanmamak-aptallikti-2546759",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-14T17:31:27.122651+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/yasam/sylvester-stallone-dan-yillar-sonra-gelen-itiraf-dublor-kullanmamak-aptallikti-2546759",
+          "title": "Sylvester Stallone'dan yıllar sonra gelen itiraf: 'Dublör kullanmamak aptallıktı'"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Danla Bilic: 180 derece kesip vücudumu açtılar",
+      "normalized_title": "danla bilic 180 derece kesip vucudumu actilar",
+      "url": "https://www.egedesonsoz.com/danla-bilici-180-derece-kesip-vucudumu-actilar",
+      "source": "egedesonsoz.com",
+      "source_role": "publisher",
+      "source_domain": "egedesonsoz.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-14T17:31:27.122714+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "egedesonsoz.com",
+          "source_domain": "egedesonsoz.com",
+          "url": "https://www.egedesonsoz.com/danla-bilici-180-derece-kesip-vucudumu-actilar",
+          "title": "Danla Bilic: 180 derece kesip vücudumu açtılar"
+        }
+      ],
+      "publisher_domains": [
+        "egedesonsoz.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Danla Bilic Aquafilling mağduru! 9. ameliyat sonrası karantinaya alınmıştı: Uzmanından hayati uyarılar",
+      "normalized_title": "danla bilic aquafilling magduru 9 ameliyat sonrasi karantinaya alinmisti uzmanindan hayati uyarilar",
+      "url": "https://www.milliyet.com.tr/magazin/danla-bilic-aquafilling-magduru-9-ameliyat-sonrasi-karantinaya-alinmisti-uzmanindan-hayati-uyarilar-7678945",
       "source": "milliyet.com.tr",
       "source_role": "publisher",
       "source_domain": "milliyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.827166+00:00",
+      "collected_at": "2026-10-14T17:31:27.122869+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -863,8 +872,8 @@
         {
           "source": "milliyet.com.tr",
           "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/kultur-sanat/oyuncunun-aci-vedasi-7679087",
-          "title": "Oyuncunun acı vedası"
+          "url": "https://www.milliyet.com.tr/magazin/danla-bilic-aquafilling-magduru-9-ameliyat-sonrasi-karantinaya-alinmisti-uzmanindan-hayati-uyarilar-7678945",
+          "title": "Danla Bilic Aquafilling mağduru! 9. ameliyat sonrası karantinaya alınmıştı: Uzmanından hayati uyarılar"
         }
       ],
       "publisher_domains": [
@@ -883,29 +892,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Sezen Aksu şikayetçi oldu: Tekne turlarında düzenleme",
-      "normalized_title": "sezen aksu sikayetci oldu tekne turlarinda duzenleme",
-      "url": "https://www.odatv.com/magazin/sezen-aksu-sikayetci-oldu-tekne-turlarinda-duzenleme-120166418",
-      "source": "odatv.com",
+      "title": "Beyazperdenin emektarlarından, şair Nihat Ziyalan Sydney'de yaşama veda etti",
+      "normalized_title": "beyazperdenin emektarlarindan sair nihat ziyalan sydney de yasama veda etti",
+      "url": "https://haber.sol.org.tr/haber/beyazperdenin-emektarlarindan-sair-nihat-ziyalan-sydneyde-yasama-veda-etti-414895",
+      "source": "haber.sol.org.tr",
       "source_role": "publisher",
-      "source_domain": "odatv.com",
+      "source_domain": "haber.sol.org.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.827233+00:00",
+      "collected_at": "2026-10-14T17:31:27.122991+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/magazin/sezen-aksu-sikayetci-oldu-tekne-turlarinda-duzenleme-120166418",
-          "title": "Sezen Aksu şikayetçi oldu: Tekne turlarında düzenleme"
+          "source": "haber.sol.org.tr",
+          "source_domain": "haber.sol.org.tr",
+          "url": "https://haber.sol.org.tr/haber/beyazperdenin-emektarlarindan-sair-nihat-ziyalan-sydneyde-yasama-veda-etti-414895",
+          "title": "Beyazperdenin emektarlarından, şair Nihat Ziyalan Sydney'de yaşama veda etti"
         }
       ],
       "publisher_domains": [
-        "odatv.com"
+        "haber.sol.org.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -920,29 +929,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Beykoz’da yalı sahipleri anonslardan rahatsız oldu",
-      "normalized_title": "beykoz da yali sahipleri anonslardan rahatsiz oldu",
-      "url": "https://dostbeykoz.com/beykozda-yali-sahipleri-anonslardan-rahatsiz-oldu/",
-      "source": "dostbeykoz.com",
+      "title": "Yeşilçam'ın usta ismi hayatını kaybetti: 'Sezercik' filmindeki rolüyle tanınmıştı",
+      "normalized_title": "yesilcam in usta ismi hayatini kaybetti sezercik filmindeki roluyle taninmisti",
+      "url": "https://www.yenisafak.com/hayat/yesilcamin-usta-ismi-hayatini-kaybetti-sezercik-filmindeki-roluyle-taninmisti-4863600",
+      "source": "yenisafak.com",
       "source_role": "publisher",
-      "source_domain": "dostbeykoz.com",
+      "source_domain": "yenisafak.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.827445+00:00",
+      "collected_at": "2026-10-14T17:31:27.123102+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "dostbeykoz.com",
-          "source_domain": "dostbeykoz.com",
-          "url": "https://dostbeykoz.com/beykozda-yali-sahipleri-anonslardan-rahatsiz-oldu/",
-          "title": "Beykoz’da yalı sahipleri anonslardan rahatsız oldu"
+          "source": "yenisafak.com",
+          "source_domain": "yenisafak.com",
+          "url": "https://www.yenisafak.com/hayat/yesilcamin-usta-ismi-hayatini-kaybetti-sezercik-filmindeki-roluyle-taninmisti-4863600",
+          "title": "Yeşilçam'ın usta ismi hayatını kaybetti: 'Sezercik' filmindeki rolüyle tanınmıştı"
         }
       ],
       "publisher_domains": [
-        "dostbeykoz.com"
+        "yenisafak.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -957,164 +966,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "YENİ Parti Sözcüsü Zeynel Emre: Çalışmalarımız sürüyor",
-      "normalized_title": "yeni parti sozcusu zeynel emre calismalarimiz suruyor",
-      "url": "https://www.odatv.com/siyaset/yeni-parti-sozcusu-zeynel-emre-calismalarimiz-suruyor-120166320",
-      "source": "odatv.com",
-      "source_role": "publisher",
-      "source_domain": "odatv.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.827982+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/siyaset/yeni-parti-sozcusu-zeynel-emre-calismalarimiz-suruyor-120166320",
-          "title": "YENİ Parti Sözcüsü Zeynel Emre: Çalışmalarımız sürüyor"
-        }
-      ],
-      "publisher_domains": [
-        "odatv.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ben Ata’yım diyene kanma",
-      "normalized_title": "ben ata yim diyene kanma",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/ben-atayim-diyene-kanma-43341048",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.828179+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/ben-atayim-diyene-kanma-43341048",
-          "title": "Ben Ata’yım diyene kanma"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ata Demirer'in başı dolandırıcılarla dertte! \"Arayan numarayı bildirin\"",
-      "normalized_title": "ata demirer in basi dolandiricilarla dertte arayan numarayi bildirin",
-      "url": "https://www.sabah.com.tr/magazin/ata-demirerin-basi-dolandiricilarla-dertte-arayan-numarayi-bildirin-7679442",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.828252+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/ata-demirerin-basi-dolandiricilarla-dertte-arayan-numarayi-bildirin-7679442",
-          "title": "Ata Demirer'in başı dolandırıcılarla dertte! \"Arayan numarayı bildirin\""
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ünlü oyuncu sessiz sedasız evlendi! Nikah şahidi bakın kim çıktı...",
-      "normalized_title": "unlu oyuncu sessiz sedasiz evlendi nikah sahidi bakin kim cikti",
-      "url": "https://www.internethaber.com/unlu-oyuncu-sessiz-sedasiz-evlendi-nikah-sahidi-bakin-kim-cikti-foto-galerisi-2463828.htm",
-      "source": "internethaber.com",
-      "source_role": "publisher",
-      "source_domain": "internethaber.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.828606+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "internethaber.com",
-          "source_domain": "internethaber.com",
-          "url": "https://www.internethaber.com/unlu-oyuncu-sessiz-sedasiz-evlendi-nikah-sahidi-bakin-kim-cikti-foto-galerisi-2463828.htm",
-          "title": "Ünlü oyuncu sessiz sedasız evlendi! Nikah şahidi bakın kim çıktı..."
-        }
-      ],
-      "publisher_domains": [
-        "internethaber.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Meğer O Küçük Kız Sezen’miş: Atilla Taş’ın Neler Oluyor Hayatta Klibindeki Baba-Kız Kareleri Ortaya Çıktı!",
-      "normalized_title": "meger o kucuk kiz sezen mis atilla tas in neler oluyor hayatta klibindeki baba kiz kareleri ortaya cikti",
-      "url": "https://onedio.com/haber/meger-o-kucuk-kiz-sezen-mis-atilla-tas-in-neler-oluyor-hayatta-klibindeki-baba-kiz-kareleri-ortaya-cikti-1387770",
+      "title": "Yeşilçam'ın 'Kötü Adam'ı Nihat Ziyalan Hayatını Kaybetti",
+      "normalized_title": "yesilcam in kotu adam i nihat ziyalan hayatini kaybetti",
+      "url": "https://onedio.com/haber/yesilcam-in-kotu-adam-i-nihat-ziyalan-hayatini-kaybetti-1387825",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.828701+00:00",
+      "collected_at": "2026-10-14T17:31:27.123157+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1122,8 +983,8 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/meger-o-kucuk-kiz-sezen-mis-atilla-tas-in-neler-oluyor-hayatta-klibindeki-baba-kiz-kareleri-ortaya-cikti-1387770",
-          "title": "Meğer O Küçük Kız Sezen’miş: Atilla Taş’ın Neler Oluyor Hayatta Klibindeki Baba-Kız Kareleri Ortaya Çıktı!"
+          "url": "https://onedio.com/haber/yesilcam-in-kotu-adam-i-nihat-ziyalan-hayatini-kaybetti-1387825",
+          "title": "Yeşilçam'ın 'Kötü Adam'ı Nihat Ziyalan Hayatını Kaybetti"
         }
       ],
       "publisher_domains": [
@@ -1142,16 +1003,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "14. Kattan Düşerek Hayatını Kaybeden Sezen Taş'ın Eski Eşi Uğur Haliloğlu Sessizliğini Bozdu",
-      "normalized_title": "14 kattan duserek hayatini kaybeden sezen tas in eski esi ugur haliloglu sessizligini bozdu",
-      "url": "https://onedio.com/haber/14-kattan-duserek-hayatini-kaybeden-sezen-tas-in-eski-esi-ugur-haliloglu-sessizligini-bozdu-1387547",
+      "title": "Barış Arduç En Sevdiği 3 Filmi Açıkladı: Belli ki Ağlamayı Seviyoruz!",
+      "normalized_title": "baris arduc en sevdigi 3 filmi acikladi belli ki aglamayi seviyoruz",
+      "url": "https://onedio.com/haber/baris-arduc-en-sevdigi-3-filmi-acikladi-belli-ki-aglamayi-seviyoruz-1388566",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.828786+00:00",
+      "collected_at": "2026-10-14T17:31:27.123222+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1159,8 +1020,8 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/14-kattan-duserek-hayatini-kaybeden-sezen-tas-in-eski-esi-ugur-haliloglu-sessizligini-bozdu-1387547",
-          "title": "14. Kattan Düşerek Hayatını Kaybeden Sezen Taş'ın Eski Eşi Uğur Haliloğlu Sessizliğini Bozdu"
+          "url": "https://onedio.com/haber/baris-arduc-en-sevdigi-3-filmi-acikladi-belli-ki-aglamayi-seviyoruz-1388566",
+          "title": "Barış Arduç En Sevdiği 3 Filmi Açıkladı: Belli ki Ağlamayı Seviyoruz!"
         }
       ],
       "publisher_domains": [
@@ -1179,90 +1040,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Atilla Taş'ın kızı Sezen Taş'ın eski eşinden açıklama",
-      "normalized_title": "atilla tas in kizi sezen tas in eski esinden aciklama",
-      "url": "https://www.birgun.net/haber/atilla-tas-in-kizi-sezen-tas-in-eski-esinden-aciklama-739858",
-      "source": "birgun.net",
-      "source_role": "publisher",
-      "source_domain": "birgun.net",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.828853+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "birgun.net",
-          "source_domain": "birgun.net",
-          "url": "https://www.birgun.net/haber/atilla-tas-in-kizi-sezen-tas-in-eski-esinden-aciklama-739858",
-          "title": "Atilla Taş'ın kızı Sezen Taş'ın eski eşinden açıklama"
-        }
-      ],
-      "publisher_domains": [
-        "birgun.net"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Özgür Özel'den Atilla Taş’a taziye ziyareti",
-      "normalized_title": "ozgur ozel den atilla tas a taziye ziyareti",
-      "url": "https://www.haberturk.com/magazin/ozgur-ozel-den-atilla-tasa-taziye-ziyareti-3918718",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.828914+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/ozgur-ozel-den-atilla-tasa-taziye-ziyareti-3918718",
-          "title": "Özgür Özel'den Atilla Taş’a taziye ziyareti"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Şivesi Kadar Bilezikleri de Konuşulmuştu: Şevval Sam, Tuzlu Kahve'nin Candan'ının Altınlarını Anlattı",
-      "normalized_title": "sivesi kadar bilezikleri de konusulmustu sevval sam tuzlu kahve nin candan inin altinlarini anlatti",
-      "url": "https://onedio.com/haber/sivesi-kadar-bilezikleri-de-konusulmustu-sevval-sam-tuzlu-kahve-nin-candan-inin-altinlarini-anlatti-1388243",
+      "title": "Teşkilat Oyuncusu, NOW'ın İddialı Dizisi Adana Ayazı'na Dahil Oldu",
+      "normalized_title": "teskilat oyuncusu now in iddiali dizisi adana ayazi na dahil oldu",
+      "url": "https://onedio.com/haber/teskilat-oyuncusu-now-in-iddiali-dizisi-adana-ayazi-na-dahil-oldu-1388314",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.829000+00:00",
+      "collected_at": "2026-10-14T17:31:27.123282+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1270,8 +1057,8 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/sivesi-kadar-bilezikleri-de-konusulmustu-sevval-sam-tuzlu-kahve-nin-candan-inin-altinlarini-anlatti-1388243",
-          "title": "Şivesi Kadar Bilezikleri de Konuşulmuştu: Şevval Sam, Tuzlu Kahve'nin Candan'ının Altınlarını Anlattı"
+          "url": "https://onedio.com/haber/teskilat-oyuncusu-now-in-iddiali-dizisi-adana-ayazi-na-dahil-oldu-1388314",
+          "title": "Teşkilat Oyuncusu, NOW'ın İddialı Dizisi Adana Ayazı'na Dahil Oldu"
         }
       ],
       "publisher_domains": [
@@ -1290,29 +1077,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Manifest 'Tralala' ile rekora koşuyor! Murat Dalkılıç'tan anlamlı destek",
-      "normalized_title": "manifest tralala ile rekora kosuyor murat dalkilic tan anlamli destek",
-      "url": "https://www.milliyet.com.tr/magazin/galeri/manifest-tralala-ile-rekora-kosuyor-murat-dalkilictan-anlamli-destek-7679056",
-      "source": "milliyet.com.tr",
+      "title": "Sahipsizler Oyuncusu Uğur Güneş'li Adana Ayazı Dizisinde!",
+      "normalized_title": "sahipsizler oyuncusu ugur gunes li adana ayazi dizisinde",
+      "url": "https://onedio.com/haber/sahipsizler-oyuncusu-ugur-gunes-li-adana-ayazi-dizisinde-1388396",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.829143+00:00",
+      "collected_at": "2026-10-14T17:31:27.123337+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/manifest-tralala-ile-rekora-kosuyor-murat-dalkilictan-anlamli-destek-7679056",
-          "title": "Manifest 'Tralala' ile rekora koşuyor! Murat Dalkılıç'tan anlamlı destek"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/sahipsizler-oyuncusu-ugur-gunes-li-adana-ayazi-dizisinde-1388396",
+          "title": "Sahipsizler Oyuncusu Uğur Güneş'li Adana Ayazı Dizisinde!"
         }
       ],
       "publisher_domains": [
-        "milliyet.com.tr"
+        "onedio.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1327,29 +1114,214 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Manifest, \"TRALALA\" ile dünya sahnesinde: “Kültürümüzü de yanımızda taşıyarak dünyaya açılmak istiyoruz”",
-      "normalized_title": "manifest tralala ile dunya sahnesinde kulturumuzu de yanimizda tasiyarak dunyaya acilmak istiyoruz",
-      "url": "https://medyascope.tv/2026/10/12/manifest-tralala-ile-dunya-sahnesinde-kulturumuzu-de-yanimizda-tasiyarak-dunyaya-acilmak-istiyoruz/",
-      "source": "medyascope.tv",
+      "title": "Mustafa Mert Koç'un yeni adresi belli oldu! İddialı diziye girdi - Magazin Haberleri",
+      "normalized_title": "mustafa mert koc un yeni adresi belli oldu iddiali diziye girdi magazin haberleri",
+      "url": "https://www.mynet.com/magazin/mustafa-mert-koc-un-yeni-adresi-belli-oldu-iddiali-diziye-girdi-130100603949",
+      "source": "mynet.com",
       "source_role": "publisher",
-      "source_domain": "medyascope.tv",
+      "source_domain": "mynet.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-14T12:12:40.829298+00:00",
+      "collected_at": "2026-10-14T17:31:27.123406+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "medyascope.tv",
-          "source_domain": "medyascope.tv",
-          "url": "https://medyascope.tv/2026/10/12/manifest-tralala-ile-dunya-sahnesinde-kulturumuzu-de-yanimizda-tasiyarak-dunyaya-acilmak-istiyoruz/",
-          "title": "Manifest, \"TRALALA\" ile dünya sahnesinde: “Kültürümüzü de yanımızda taşıyarak dünyaya açılmak istiyoruz”"
+          "source": "mynet.com",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/mustafa-mert-koc-un-yeni-adresi-belli-oldu-iddiali-diziye-girdi-130100603949",
+          "title": "Mustafa Mert Koç'un yeni adresi belli oldu! İddialı diziye girdi - Magazin Haberleri"
         }
       ],
       "publisher_domains": [
-        "medyascope.tv"
+        "mynet.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Adana Ayazı dizisi ne zaman başlayacak, konusu ne? Adana Ayazı dizisinin oyuncuları kimler?",
+      "normalized_title": "adana ayazi dizisi ne zaman baslayacak konusu ne adana ayazi dizisinin oyunculari kimler",
+      "url": "https://m.aksam.com.tr/trend/adana-a-dizisi-ne-zaman-baslayacak-konusu-ne-adana-a-dizisinin-oyunculari-kimler/haber-1705782",
+      "source": "m.aksam.com.tr",
+      "source_role": "publisher",
+      "source_domain": "m.aksam.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-14T17:31:27.123475+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "m.aksam.com.tr",
+          "source_domain": "m.aksam.com.tr",
+          "url": "https://m.aksam.com.tr/trend/adana-a-dizisi-ne-zaman-baslayacak-konusu-ne-adana-a-dizisinin-oyunculari-kimler/haber-1705782",
+          "title": "Adana Ayazı dizisi ne zaman başlayacak, konusu ne? Adana Ayazı dizisinin oyuncuları kimler?"
+        }
+      ],
+      "publisher_domains": [
+        "m.aksam.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Güllü Davasının Kilit Tanığı Sultan Nur Ulu Yine Ekranda: Esra Ezmeci'nin Kıyafet Müdahalesi Gündem Oldu!",
+      "normalized_title": "gullu davasinin kilit tanigi sultan nur ulu yine ekranda esra ezmeci nin kiyafet mudahalesi gundem oldu",
+      "url": "https://onedio.com/haber/gullu-davasinin-kilit-tanigi-sultan-nur-ulu-yine-ekranda-esra-ezmeci-nin-kiyafet-mudahalesi-gundem-oldu-1388316",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-14T17:31:27.123549+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/gullu-davasinin-kilit-tanigi-sultan-nur-ulu-yine-ekranda-esra-ezmeci-nin-kiyafet-mudahalesi-gundem-oldu-1388316",
+          "title": "Güllü Davasının Kilit Tanığı Sultan Nur Ulu Yine Ekranda: Esra Ezmeci'nin Kıyafet Müdahalesi Gündem Oldu!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Sultan Nur Ulu, yayına transparan bluz ile katılınca olanlar oldu",
+      "normalized_title": "sultan nur ulu yayina transparan bluz ile katilinca olanlar oldu",
+      "url": "https://www.sondakika.com/magazin/haber-sultan-nur-ulu-yayina-transparan-bluz-ile-20328006/",
+      "source": "sondakika.com",
+      "source_role": "publisher",
+      "source_domain": "sondakika.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-14T17:31:27.123604+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/magazin/haber-sultan-nur-ulu-yayina-transparan-bluz-ile-20328006/",
+          "title": "Sultan Nur Ulu, yayına transparan bluz ile katılınca olanlar oldu"
+        }
+      ],
+      "publisher_domains": [
+        "sondakika.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Esra Ezmeci Güllü davasındaki sanık Sultan'ın transparanına müdahale etti: \"Kıyafet açık...\" - Magazin Haberleri",
+      "normalized_title": "esra ezmeci gullu davasindaki sanik sultan in transparanina mudahale etti kiyafet acik magazin haberleri",
+      "url": "https://www.mynet.com/magazin/esra-ezmeci-gullu-davasindaki-sanik-sultan-in-transparanina-mudahale-etti-kiyafet-acik-130100604291",
+      "source": "mynet.com",
+      "source_role": "publisher",
+      "source_domain": "mynet.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-14T17:31:27.123678+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "mynet.com",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/esra-ezmeci-gullu-davasindaki-sanik-sultan-in-transparanina-mudahale-etti-kiyafet-acik-130100604291",
+          "title": "Esra Ezmeci Güllü davasındaki sanık Sultan'ın transparanına müdahale etti: \"Kıyafet açık...\" - Magazin Haberleri"
+        }
+      ],
+      "publisher_domains": [
+        "mynet.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Sultan Nur Ulu'nun transparan kıyafeti olay oldu! Uyarı gelince hemen değiştirdi",
+      "normalized_title": "sultan nur ulu nun transparan kiyafeti olay oldu uyari gelince hemen degistirdi",
+      "url": "https://www.posta.com.tr/galeri/sultan-nur-ulunun-transparan-kiyafeti-olay-oldu-uyari-gelince-hemen-degistirdi-3051547",
+      "source": "posta.com.tr",
+      "source_role": "publisher",
+      "source_domain": "posta.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-14T17:31:27.123740+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "posta.com.tr",
+          "source_domain": "posta.com.tr",
+          "url": "https://www.posta.com.tr/galeri/sultan-nur-ulunun-transparan-kiyafeti-olay-oldu-uyari-gelince-hemen-degistirdi-3051547",
+          "title": "Sultan Nur Ulu'nun transparan kıyafeti olay oldu! Uyarı gelince hemen değiştirdi"
+        }
+      ],
+      "publisher_domains": [
+        "posta.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
