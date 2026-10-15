@@ -1,43 +1,94 @@
 {
-  "generated_at": "2026-10-15T07:08:11.046540+00:00",
+  "generated_at": "2026-10-15T11:51:24.477588+00:00",
   "candidate_count": 100,
-  "event_group_count": 48,
+  "event_group_count": 49,
   "multi_publisher_event_count": 9,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Usta sanatçı Alpay Nazikioğlu 91 yaşında hayatını kaybetti",
-      "normalized_title": "usta sanatci alpay nazikioglu 91 yasinda hayatini kaybetti",
-      "url": "https://tr.euronews.com/2026/10/14/usta-sanatci-alpay-nazikioglu-91-yasinda-hayatini-kaybetti",
-      "source": "tr.euronews.com",
+      "title": "Aşk-ı Memnu'dan Sonra Rol Arkadaşlarıyla Bir Araya Gelemeyen Selçuk Yöntem Nedenini Açıkladı",
+      "normalized_title": "ask i memnu dan sonra rol arkadaslariyla bir araya gelemeyen selcuk yontem nedenini acikladi",
+      "url": "https://onedio.com/haber/ask-i-memnu-dan-sonra-rol-arkadaslariyla-bir-araya-gelemeyen-selcuk-yontem-nedenini-acikladi-1388113",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "tr.euronews.com",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.065444+00:00",
+      "collected_at": "2026-10-15T11:50:46.444940+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/10/14/usta-sanatci-alpay-nazikioglu-91-yasinda-hayatini-kaybetti",
-          "title": "Usta sanatçı Alpay Nazikioğlu 91 yaşında hayatını kaybetti"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/selcuk-yontem-den-ask-i-memnu-itirafi-rol-arkadaslarimizla-bir-araya-gelemedik-2546552",
+          "title": "Selçuk Yöntem'den 'Aşk-ı Memnu' itirafı: 'Rol arkadaşlarımızla bir araya gelemedik'"
         },
         {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/sarkici-alpay-hayatini-kaybetti/",
-          "title": "Şarkıcı Alpay hayatını kaybetti"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/oyuncu-selcuk-yontemden-ask-i-memnu-itirafi-120166609",
+          "title": "Oyuncu Selçuk Yöntem'den Aşk-ı Memnu itirafı"
+        },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/ask-i-memnu-dan-sonra-rol-arkadaslariyla-bir-araya-gelemeyen-selcuk-yontem-nedenini-acikladi-1388113",
+          "title": "Aşk-ı Memnu'dan Sonra Rol Arkadaşlarıyla Bir Araya Gelemeyen Selçuk Yöntem Nedenini Açıkladı"
         }
       ],
       "publisher_domains": [
-        "diken.com.tr",
-        "tr.euronews.com"
+        "cumhuriyet.com.tr",
+        "odatv.com",
+        "onedio.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Bayhan'dan dikkat çeken itiraf: Beni rahibeler büyüttü",
+      "normalized_title": "bayhan dan dikkat ceken itiraf beni rahibeler buyuttu",
+      "url": "https://www.odatv.com/magazin/bayhan-beni-rahibeler-buyuttu-120166767",
+      "source": "odatv.com",
+      "source_role": "publisher",
+      "source_domain": "odatv.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-15T11:50:46.445181+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/bayhan-beni-rahibeler-buyuttu-120166767",
+          "title": "Bayhan'dan dikkat çeken itiraf: Beni rahibeler büyüttü"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/sarkici-bayhan-dan-hristiyanlik-aciklamasi-beni-rahibeler-buyuttu-p368829",
+          "title": "Şarkıcı Bayhan'dan 'Hristiyanlık' açıklaması: \"Beni rahibeler büyüttü\""
+        }
+      ],
+      "publisher_domains": [
+        "odatv.com",
+        "sozcu.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -61,7 +112,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.067196+00:00",
+      "collected_at": "2026-10-15T11:50:46.445344+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -94,91 +145,47 @@
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
-    },
+    }
+  ],
+  "event_groups_preview": [
     {
-      "title": "Selçuk Yöntem'den 'Aşk-ı Memnu' itirafı: 'Rol arkadaşlarımızla bir araya gelemedik'",
-      "normalized_title": "selcuk yontem den ask i memnu itirafi rol arkadaslarimizla bir araya gelemedik",
-      "url": "https://www.cumhuriyet.com.tr/magazin/selcuk-yontem-den-ask-i-memnu-itirafi-rol-arkadaslarimizla-bir-araya-gelemedik-2546552",
-      "source": "cumhuriyet.com.tr",
+      "title": "Aşk-ı Memnu'dan Sonra Rol Arkadaşlarıyla Bir Araya Gelemeyen Selçuk Yöntem Nedenini Açıkladı",
+      "normalized_title": "ask i memnu dan sonra rol arkadaslariyla bir araya gelemeyen selcuk yontem nedenini acikladi",
+      "url": "https://onedio.com/haber/ask-i-memnu-dan-sonra-rol-arkadaslariyla-bir-araya-gelemeyen-selcuk-yontem-nedenini-acikladi-1388113",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.068008+00:00",
+      "collected_at": "2026-10-15T11:50:46.444940+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/selcuk-yontem-rol-arkadaslarimizla-bir-araya-gelemedik-3919454",
-          "title": "Selçuk Yöntem: Rol arkadaşlarımızla bir araya gelemedik"
-        },
         {
           "source": "cumhuriyet.com.tr",
           "source_domain": "cumhuriyet.com.tr",
           "url": "https://www.cumhuriyet.com.tr/magazin/selcuk-yontem-den-ask-i-memnu-itirafi-rol-arkadaslarimizla-bir-araya-gelemedik-2546552",
           "title": "Selçuk Yöntem'den 'Aşk-ı Memnu' itirafı: 'Rol arkadaşlarımızla bir araya gelemedik'"
+        },
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/oyuncu-selcuk-yontemden-ask-i-memnu-itirafi-120166609",
+          "title": "Oyuncu Selçuk Yöntem'den Aşk-ı Memnu itirafı"
+        },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/ask-i-memnu-dan-sonra-rol-arkadaslariyla-bir-araya-gelemeyen-selcuk-yontem-nedenini-acikladi-1388113",
+          "title": "Aşk-ı Memnu'dan Sonra Rol Arkadaşlarıyla Bir Araya Gelemeyen Selçuk Yöntem Nedenini Açıkladı"
         }
       ],
       "publisher_domains": [
         "cumhuriyet.com.tr",
-        "haberturk.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    }
-  ],
-  "event_groups_preview": [
-    {
-      "title": "Breaking Bad dizisinin yıldızı RJ Mitte 34 yaşında hayatını kaybetti",
-      "normalized_title": "breaking bad dizisinin yildizi rj mitte 34 yasinda hayatini kaybetti",
-      "url": "https://www.bbc.com/turkce/articles/cm8xz8jezr44o",
-      "source": "bbc.com",
-      "source_role": "publisher",
-      "source_domain": "bbc.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.066253+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "bbc.com",
-          "source_domain": "bbc.com",
-          "url": "https://www.bbc.com/turkce/articles/cm8xz8jezr44o",
-          "title": "Breaking Bad dizisinin yıldızı RJ Mitte 34 yaşında hayatını kaybetti"
-        },
-        {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/breaking-baddeki-roluyle-taninan-rj-mitte-hayatini-kaybetti/",
-          "title": "'Breaking Bad'deki rolüyle tanınan RJ Mitte hayatını kaybetti"
-        },
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/dunya/breaking-bad-yildizi-hayatini-kaybetti-43340682",
-          "title": "BreakIng Bad yıldızı hayatını kaybetti"
-        }
-      ],
-      "publisher_domains": [
-        "bbc.com",
-        "diken.com.tr",
-        "hurriyet.com.tr"
+        "odatv.com",
+        "onedio.com"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -202,7 +209,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.066649+00:00",
+      "collected_at": "2026-10-15T11:50:46.444976+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -244,16 +251,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti",
-      "normalized_title": "yesilcam in kotu adami nihat ziyalan hayatini kaybetti",
-      "url": "https://www.odatv.com/guncel/yesilcamin-kotu-adami-nihat-ziyalan-hayatini-kaybetti-120166345",
+      "title": "Bayhan'dan dikkat çeken itiraf: Beni rahibeler büyüttü",
+      "normalized_title": "bayhan dan dikkat ceken itiraf beni rahibeler buyuttu",
+      "url": "https://www.odatv.com/magazin/bayhan-beni-rahibeler-buyuttu-120166767",
       "source": "odatv.com",
       "source_role": "publisher",
       "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.066914+00:00",
+      "collected_at": "2026-10-15T11:50:46.445181+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -261,70 +268,19 @@
         {
           "source": "odatv.com",
           "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/guncel/yesilcamin-kotu-adami-nihat-ziyalan-hayatini-kaybetti-120166345",
-          "title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti"
+          "url": "https://www.odatv.com/magazin/bayhan-beni-rahibeler-buyuttu-120166767",
+          "title": "Bayhan'dan dikkat çeken itiraf: Beni rahibeler büyüttü"
         },
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/oyuncu-nihat-ziyalan-hayatini-kaybetti-1745978",
-          "title": "Oyuncu Nihat Ziyalan hayatını kaybetti"
-        },
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/yesilcam-in-kotu-adam-i-nihat-ziyalan-hayatini-kaybetti-1387825",
-          "title": "Yeşilçam'ın 'Kötü Adam'ı Nihat Ziyalan Hayatını Kaybetti"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/sarkici-bayhan-dan-hristiyanlik-aciklamasi-beni-rahibeler-buyuttu-p368829",
+          "title": "Şarkıcı Bayhan'dan 'Hristiyanlık' açıklaması: \"Beni rahibeler büyüttü\""
         }
       ],
       "publisher_domains": [
-        "ntv.com.tr",
         "odatv.com",
-        "onedio.com"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Usta sanatçı Alpay Nazikioğlu 91 yaşında hayatını kaybetti",
-      "normalized_title": "usta sanatci alpay nazikioglu 91 yasinda hayatini kaybetti",
-      "url": "https://tr.euronews.com/2026/10/14/usta-sanatci-alpay-nazikioglu-91-yasinda-hayatini-kaybetti",
-      "source": "tr.euronews.com",
-      "source_role": "publisher",
-      "source_domain": "tr.euronews.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.065444+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/10/14/usta-sanatci-alpay-nazikioglu-91-yasinda-hayatini-kaybetti",
-          "title": "Usta sanatçı Alpay Nazikioğlu 91 yaşında hayatını kaybetti"
-        },
-        {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/sarkici-alpay-hayatini-kaybetti/",
-          "title": "Şarkıcı Alpay hayatını kaybetti"
-        }
-      ],
-      "publisher_domains": [
-        "diken.com.tr",
-        "tr.euronews.com"
+        "sozcu.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -348,7 +304,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.067196+00:00",
+      "collected_at": "2026-10-15T11:50:46.445344+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -383,36 +339,80 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Selçuk Yöntem'den 'Aşk-ı Memnu' itirafı: 'Rol arkadaşlarımızla bir araya gelemedik'",
-      "normalized_title": "selcuk yontem den ask i memnu itirafi rol arkadaslarimizla bir araya gelemedik",
-      "url": "https://www.cumhuriyet.com.tr/magazin/selcuk-yontem-den-ask-i-memnu-itirafi-rol-arkadaslarimizla-bir-araya-gelemedik-2546552",
+      "title": "Danla Bilic'ten zorlu ameliyat açıklaması: '180 derece kesip vücudumu açtılar'",
+      "normalized_title": "danla bilic ten zorlu ameliyat aciklamasi 180 derece kesip vucudumu actilar",
+      "url": "https://www.cumhuriyet.com.tr/magazin/danla-bilic-ten-zorlu-ameliyat-aciklamasi-180-derece-kesip-vucudumu-actilar-2546718",
       "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.068008+00:00",
+      "collected_at": "2026-10-15T11:50:46.445474+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/selcuk-yontem-rol-arkadaslarimizla-bir-araya-gelemedik-3919454",
-          "title": "Selçuk Yöntem: Rol arkadaşlarımızla bir araya gelemedik"
+          "source": "egedesonsoz.com",
+          "source_domain": "egedesonsoz.com",
+          "url": "https://www.egedesonsoz.com/danla-bilici-180-derece-kesip-vucudumu-actilar",
+          "title": "Danla Bilic: 180 derece kesip vücudumu açtılar"
         },
         {
           "source": "cumhuriyet.com.tr",
           "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/selcuk-yontem-den-ask-i-memnu-itirafi-rol-arkadaslarimizla-bir-araya-gelemedik-2546552",
-          "title": "Selçuk Yöntem'den 'Aşk-ı Memnu' itirafı: 'Rol arkadaşlarımızla bir araya gelemedik'"
+          "url": "https://www.cumhuriyet.com.tr/magazin/danla-bilic-ten-zorlu-ameliyat-aciklamasi-180-derece-kesip-vucudumu-actilar-2546718",
+          "title": "Danla Bilic'ten zorlu ameliyat açıklaması: '180 derece kesip vücudumu açtılar'"
         }
       ],
       "publisher_domains": [
         "cumhuriyet.com.tr",
-        "haberturk.com"
+        "egedesonsoz.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Breaking Bad dizisinin yıldızı RJ Mitte 34 yaşında hayatını kaybetti",
+      "normalized_title": "breaking bad dizisinin yildizi rj mitte 34 yasinda hayatini kaybetti",
+      "url": "https://www.bbc.com/turkce/articles/cm8xz8jezr44o",
+      "source": "bbc.com",
+      "source_role": "publisher",
+      "source_domain": "bbc.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-15T11:50:46.445579+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "bbc.com",
+          "source_domain": "bbc.com",
+          "url": "https://www.bbc.com/turkce/articles/cm8xz8jezr44o",
+          "title": "Breaking Bad dizisinin yıldızı RJ Mitte 34 yaşında hayatını kaybetti"
+        },
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/dunya/breaking-bad-yildizi-hayatini-kaybetti-43340682",
+          "title": "BreakIng Bad yıldızı hayatını kaybetti"
+        }
+      ],
+      "publisher_domains": [
+        "bbc.com",
+        "hurriyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -436,7 +436,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.068199+00:00",
+      "collected_at": "2026-10-15T11:50:46.445733+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -480,7 +480,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.068485+00:00",
+      "collected_at": "2026-10-15T11:50:46.445895+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -515,36 +515,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Ufuk Beydemir'in sevgilisi ünlü şarkıcı çıktı: Hamile Sharon Kovacs kimdir, kaç yaşında?",
-      "normalized_title": "ufuk beydemir in sevgilisi unlu sarkici cikti hamile sharon kovacs kimdir kac yasinda",
-      "url": "https://www.sozcu.com.tr/ufuk-beydemir-in-sevgilisi-unlu-sarkici-cikti-hamile-sharon-kovacs-kimdir-kac-yasinda-p368622",
-      "source": "sozcu.com.tr",
+      "title": "Müzik dünyasında yeni tartışma! Serkan Kaya oyuncular için bakın ne söyledi",
+      "normalized_title": "muzik dunyasinda yeni tartisma serkan kaya oyuncular icin bakin ne soyledi",
+      "url": "https://www.sabah.com.tr/magazin/muzik-dunyasinda-yeni-tartisma-serkan-kaya-oyuncular-icin-bakin-ne-soyledi-7681206",
+      "source": "sabah.com.tr",
       "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
+      "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.068778+00:00",
+      "collected_at": "2026-10-15T11:50:46.446044+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/kovacs-kimdir-kac-yasinda-nereli-ufuk-beydemir-in-sevgilisi-sharon-kovacs-in-hayati-1387929",
-          "title": "Kovacs Kimdir, Kaç Yaşında, Nereli? Ufuk Beydemir'in Sevgilisi Sharon Kovacs'ın Hayatı"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/serkan-kaya-oyuncular-da-sarki-soyleyebilir-3919538",
+          "title": "Serkan Kaya: Oyuncular da şarkı söyleyebilir"
         },
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/ufuk-beydemir-in-sevgilisi-unlu-sarkici-cikti-hamile-sharon-kovacs-kimdir-kac-yasinda-p368622",
-          "title": "Ufuk Beydemir'in sevgilisi ünlü şarkıcı çıktı: Hamile Sharon Kovacs kimdir, kaç yaşında?"
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/magazin/muzik-dunyasinda-yeni-tartisma-serkan-kaya-oyuncular-icin-bakin-ne-soyledi-7681206",
+          "title": "Müzik dünyasında yeni tartışma! Serkan Kaya oyuncular için bakın ne söyledi"
         }
       ],
       "publisher_domains": [
-        "onedio.com",
-        "sozcu.com.tr"
+        "haberturk.com",
+        "sabah.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -559,140 +559,29 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Murat Boz ile Demet Özdemir'den yardım çağrısı: Su seviyesi yükseliyor, durum acil!",
-      "normalized_title": "murat boz ile demet ozdemir den yardim cagrisi su seviyesi yukseliyor durum acil",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/murat-boz-ile-demet-ozdemirden-yardim-cagrisi-su-seviyesi-yukseliyor-durum-acil-43341846",
-      "source": "hurriyet.com.tr",
+      "title": "Usta sanatçı Alpay Nazikioğlu 91 yaşında hayatını kaybetti",
+      "normalized_title": "usta sanatci alpay nazikioglu 91 yasinda hayatini kaybetti",
+      "url": "https://tr.euronews.com/2026/10/14/usta-sanatci-alpay-nazikioglu-91-yasinda-hayatini-kaybetti",
+      "source": "tr.euronews.com",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "tr.euronews.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.065122+00:00",
+      "collected_at": "2026-10-15T11:50:46.443883+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/murat-boz-ile-demet-ozdemirden-yardim-cagrisi-su-seviyesi-yukseliyor-durum-acil-43341846",
-          "title": "Murat Boz ile Demet Özdemir'den yardım çağrısı: Su seviyesi yükseliyor, durum acil!"
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "url": "https://tr.euronews.com/2026/10/14/usta-sanatci-alpay-nazikioglu-91-yasinda-hayatini-kaybetti",
+          "title": "Usta sanatçı Alpay Nazikioğlu 91 yaşında hayatını kaybetti"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Murat Boz ile Demet Özdemir'in bulunduğu stüdyoyu su bastı... Gergin bekleyiş son buldu",
-      "normalized_title": "murat boz ile demet ozdemir in bulundugu studyoyu su basti gergin bekleyis son buldu",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/murat-boz-ile-demet-ozdemirin-bulundugu-studyoyu-su-basti-gergin-bekleyis-son-buldu-43341846",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.065247+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/murat-boz-ile-demet-ozdemirin-bulundugu-studyoyu-su-basti-gergin-bekleyis-son-buldu-43341846",
-          "title": "Murat Boz ile Demet Özdemir'in bulunduğu stüdyoyu su bastı... Gergin bekleyiş son buldu"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Mobile-Video Haber Detay",
-      "normalized_title": "mobile video haber detay",
-      "url": "https://www.iha.com.tr/video-saganak-yagis-nedeniyle-mahsur-kalan-murat-boz-ve-vatandaslari-dalgic-polisler-kurtardi",
-      "source": "iha.com.tr",
-      "source_role": "publisher",
-      "source_domain": "iha.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.065307+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "iha.com.tr",
-          "source_domain": "iha.com.tr",
-          "url": "https://www.iha.com.tr/video-saganak-yagis-nedeniyle-mahsur-kalan-murat-boz-ve-vatandaslari-dalgic-polisler-kurtardi",
-          "title": "Mobile-Video Haber Detay"
-        }
-      ],
-      "publisher_domains": [
-        "iha.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Selde mahsur kalan Murat Boz ve Demet Özdemir kurtarıldı",
-      "normalized_title": "selde mahsur kalan murat boz ve demet ozdemir kurtarildi",
-      "url": "https://www.diken.com.tr/selde-mahsur-kalan-murat-boz-ve-demet-ozdemir-kurtarildi/",
-      "source": "diken.com.tr",
-      "source_role": "publisher",
-      "source_domain": "diken.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.065376+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/selde-mahsur-kalan-murat-boz-ve-demet-ozdemir-kurtarildi/",
-          "title": "Selde mahsur kalan Murat Boz ve Demet Özdemir kurtarıldı"
-        }
-      ],
-      "publisher_domains": [
-        "diken.com.tr"
+        "tr.euronews.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -716,7 +605,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.065504+00:00",
+      "collected_at": "2026-10-15T11:50:46.443947+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -744,6 +633,43 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "Türk müziğinin usta ismi Alpay yarın son yolculuğuna uğurlanacak",
+      "normalized_title": "turk muziginin usta ismi alpay yarin son yolculuguna ugurlanacak",
+      "url": "https://aa.com.tr/tr/kultur/turk-muziginin-usta-ismi-alpay-yarin-son-yolculuguna-ugurlanacak/4089557",
+      "source": "aa.com.tr",
+      "source_role": "publisher",
+      "source_domain": "aa.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-15T11:50:46.443994+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "aa.com.tr",
+          "source_domain": "aa.com.tr",
+          "url": "https://aa.com.tr/tr/kultur/turk-muziginin-usta-ismi-alpay-yarin-son-yolculuguna-ugurlanacak/4089557",
+          "title": "Türk müziğinin usta ismi Alpay yarın son yolculuğuna uğurlanacak"
+        }
+      ],
+      "publisher_domains": [
+        "aa.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Bu dünyadan bilge bir müzik adamı geçti",
       "normalized_title": "bu dunyadan bilge bir muzik adami gecti",
       "url": "https://www.sabah.com.tr/yazarlar/gunaydin/aytug/2026/10/15/bu-dunyadan-bilge-bir-muzik-adami-gecti",
@@ -753,7 +679,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.065574+00:00",
+      "collected_at": "2026-10-15T11:50:46.444031+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -781,6 +707,450 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "Pelin Akil'den İstanbul'daki Sel Felaketinin Ardından Altyapı Tepkisi: “Yağmur Doğal, Bu Yaşananlar Değil!”",
+      "normalized_title": "pelin akil den istanbul daki sel felaketinin ardindan altyapi tepkisi yagmur dogal bu yasananlar degil",
+      "url": "https://onedio.com/haber/pelin-akil-den-istanbul-daki-sel-felaketinin-ardindan-altyapi-tepkisi-yagmur-dogal-bu-yasananlar-degil-1388644",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-15T11:50:46.444083+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/pelin-akil-den-istanbul-daki-sel-felaketinin-ardindan-altyapi-tepkisi-yagmur-dogal-bu-yasananlar-degil-1388644",
+          "title": "Pelin Akil'den İstanbul'daki Sel Felaketinin Ardından Altyapı Tepkisi: “Yağmur Doğal, Bu Yaşananlar Değil!”"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "İstanbul'da selde akıma kapılan 14 yaşındaki Mahmut'la ilgili kahreden detay",
+      "normalized_title": "istanbul da selde akima kapilan 14 yasindaki mahmut la ilgili kahreden detay",
+      "url": "https://www.sozcu.com.tr/selde-akima-kapilan-14-yasindaki-mahmut-hayatini-kaybetti-p369423",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-15T11:50:46.444130+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/selde-akima-kapilan-14-yasindaki-mahmut-hayatini-kaybetti-p369423",
+          "title": "İstanbul'da selde akıma kapılan 14 yaşındaki Mahmut'la ilgili kahreden detay"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Selde elektrik akımına kapılıp can verdi. 14 yaşındaki Mahmut'un hikayesinde acı ayrıntı",
+      "normalized_title": "selde elektrik akimina kapilip can verdi 14 yasindaki mahmut un hikayesinde aci ayrinti",
+      "url": "https://www.ntv.com.tr/turkiye/galeri-selde-elektrik-akimina-kapilip-can-verdi-14-yasindaki-mahmutun-hikayesinde-aci-ayrinti-1746432",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-15T11:50:46.444180+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/turkiye/galeri-selde-elektrik-akimina-kapilip-can-verdi-14-yasindaki-mahmutun-hikayesinde-aci-ayrinti-1746432",
+          "title": "Selde elektrik akımına kapılıp can verdi. 14 yaşındaki Mahmut'un hikayesinde acı ayrıntı"
+        }
+      ],
+      "publisher_domains": [
+        "ntv.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Fatih'te su birikintisine basan çocuk, akıma kapılıp hayatını kaybetti",
+      "normalized_title": "fatih te su birikintisine basan cocuk akima kapilip hayatini kaybetti",
+      "url": "https://tr.euronews.com/2026/10/14/fatihte-su-birikintisine-basan-bir-cocuk-akima-kapilarak-hayatini-kaybetti",
+      "source": "tr.euronews.com",
+      "source_role": "publisher",
+      "source_domain": "tr.euronews.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-15T11:50:46.444222+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "url": "https://tr.euronews.com/2026/10/14/fatihte-su-birikintisine-basan-bir-cocuk-akima-kapilarak-hayatini-kaybetti",
+          "title": "Fatih'te su birikintisine basan çocuk, akıma kapılıp hayatını kaybetti"
+        }
+      ],
+      "publisher_domains": [
+        "tr.euronews.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Kanal D MIPCOM 2026'nın yıldızı oldu",
+      "normalized_title": "kanal d mipcom 2026 nin yildizi oldu",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kanal-d-mipcom-2026nin-yildizi-oldu-43342507",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-15T11:50:46.444253+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kanal-d-mipcom-2026nin-yildizi-oldu-43342507",
+          "title": "Kanal D MIPCOM 2026'nın yıldızı oldu"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Türk dizileri dünya ile buluşuyor",
+      "normalized_title": "turk dizileri dunya ile bulusuyor",
+      "url": "https://www.haberturk.com/magazin/turk-dizileri-dunya-ile-bulusuyor-3919293",
+      "source": "haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-15T11:50:46.444283+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/turk-dizileri-dunya-ile-bulusuyor-3919293",
+          "title": "Türk dizileri dünya ile buluşuyor"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Hayranları Çoktan Yakıştırmıştı: Altı Üstü İstanbul'un Emir'i ile Naz'ına Havalimanında Aşk Sorusu Soruldu!",
+      "normalized_title": "hayranlari coktan yakistirmisti alti ustu istanbul un emir i ile naz ina havalimaninda ask sorusu soruldu",
+      "url": "https://onedio.com/haber/hayranlari-coktan-yakistirmisti-alti-ustu-istanbul-un-emir-i-ile-naz-ina-havalimaninda-ask-sorusu-soruldu-1388594",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-15T11:50:46.444332+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/hayranlari-coktan-yakistirmisti-alti-ustu-istanbul-un-emir-i-ile-naz-ina-havalimaninda-ask-sorusu-soruldu-1388594",
+          "title": "Hayranları Çoktan Yakıştırmıştı: Altı Üstü İstanbul'un Emir'i ile Naz'ına Havalimanında Aşk Sorusu Soruldu!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "ATV’nin yeni hikayeleri Cannes’ta buluştu!",
+      "normalized_title": "atv nin yeni hikayeleri cannes ta bulustu",
+      "url": "https://m.sabah.com.tr/trend/galeri/magazin/atvnin-yeni-hikayeleri-cannesta-bulustu",
+      "source": "m.sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "m.sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-15T11:50:46.444363+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "m.sabah.com.tr",
+          "source_domain": "m.sabah.com.tr",
+          "url": "https://m.sabah.com.tr/trend/galeri/magazin/atvnin-yeni-hikayeleri-cannesta-bulustu",
+          "title": "ATV’nin yeni hikayeleri Cannes’ta buluştu!"
+        }
+      ],
+      "publisher_domains": [
+        "m.sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Murat Boz ve Demet Özdemir'in de mahsur kaldığı Maslak Ayazağa'da kurtarma operasyonu: Tahliye botları bölgeye sevk edildi, akıntı nedeniyle kurtarma yapılamadı",
+      "normalized_title": "murat boz ve demet ozdemir in de mahsur kaldigi maslak ayazaga da kurtarma operasyonu tahliye botlari bolgeye sevk edildi akinti nedeniyle kurtarma yapilamadi",
+      "url": "https://t24.com.tr/magazin/murat-boz-ve-demet-ozdemirin-de-mahsur-kaldigi-maslak-ayazagada-kurtarma-operasyonu-tahliye-botlari-bolgeye-sevk-edildi,1353271",
+      "source": "t24.com.tr",
+      "source_role": "publisher",
+      "source_domain": "t24.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-15T11:50:46.444420+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/murat-boz-ve-demet-ozdemirin-de-mahsur-kaldigi-maslak-ayazagada-kurtarma-operasyonu-tahliye-botlari-bolgeye-sevk-edildi,1353271",
+          "title": "Murat Boz ve Demet Özdemir'in de mahsur kaldığı Maslak Ayazağa'da kurtarma operasyonu: Tahliye botları bölgeye sevk edildi, akıntı nedeniyle kurtarma yapılamadı"
+        }
+      ],
+      "publisher_domains": [
+        "t24.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Murat Boz ile Demet Özdemir'in bulunduğu stüdyoyu su bastı... Gergin bekleyiş son buldu",
+      "normalized_title": "murat boz ile demet ozdemir in bulundugu studyoyu su basti gergin bekleyis son buldu",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/murat-boz-ile-demet-ozdemirin-bulundugu-studyoyu-su-basti-gergin-bekleyis-son-buldu-43341846",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-15T11:50:46.444460+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/murat-boz-ile-demet-ozdemirin-bulundugu-studyoyu-su-basti-gergin-bekleyis-son-buldu-43341846",
+          "title": "Murat Boz ile Demet Özdemir'in bulunduğu stüdyoyu su bastı... Gergin bekleyiş son buldu"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "İstanbul'da yağış hayatı felç etti: Sanatçı Nazan Öncel de mahsur kaldı",
+      "normalized_title": "istanbul da yagis hayati felc etti sanatci nazan oncel de mahsur kaldi",
+      "url": "https://www.birgun.net/haber/istanbul-da-yagis-hayati-felc-etti-sanatci-nazan-oncel-de-mahsur-kaldi-740416",
+      "source": "birgun.net",
+      "source_role": "publisher",
+      "source_domain": "birgun.net",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-15T11:50:46.444496+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "birgun.net",
+          "source_domain": "birgun.net",
+          "url": "https://www.birgun.net/haber/istanbul-da-yagis-hayati-felc-etti-sanatci-nazan-oncel-de-mahsur-kaldi-740416",
+          "title": "İstanbul'da yağış hayatı felç etti: Sanatçı Nazan Öncel de mahsur kaldı"
+        }
+      ],
+      "publisher_domains": [
+        "birgun.net"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "İstanbul'daki sel görüntülerine Seren Serengil'den dikkat çeken yorum: Allah kızmaya başladı",
+      "normalized_title": "istanbul daki sel goruntulerine seren serengil den dikkat ceken yorum allah kizmaya basladi",
+      "url": "https://www.milliyet.com.tr/magazin/galeri/istanbuldaki-sel-goruntulerine-seren-serengilden-dikkat-ceken-yorum-allah-kizmaya-basladi-7680163",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-15T11:50:46.444537+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/istanbuldaki-sel-goruntulerine-seren-serengilden-dikkat-ceken-yorum-allah-kizmaya-basladi-7680163",
+          "title": "İstanbul'daki sel görüntülerine Seren Serengil'den dikkat çeken yorum: Allah kızmaya başladı"
+        }
+      ],
+      "publisher_domains": [
+        "milliyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "'Pembe Top'u Cemre Baysel havaya attı",
       "normalized_title": "pembe top u cemre baysel havaya atti",
       "url": "https://www.haberturk.com/magazin/pembe-top-u-cemre-baysel-havaya-atti-3919797",
@@ -790,7 +1160,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.065683+00:00",
+      "collected_at": "2026-10-15T11:50:46.444566+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -818,16 +1188,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "EuroLeague'de çifte hüzün! | Ünal Özüak Köşe Yazısı",
-      "normalized_title": "euroleague de cifte huzun unal ozuak kose yazisi",
-      "url": "https://www.hurriyet.com.tr/sporarena/yazarlar/unal-ozuak/euroleaguede-cifte-huzun-43342095",
+      "title": "4. evre kanser tedavisi görürken estetik yaptırdı: Doktorlarım onay verdi",
+      "normalized_title": "4 evre kanser tedavisi gorurken estetik yaptirdi doktorlarim onay verdi",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/4-evre-kanser-tedavisi-gorurken-estetik-yaptirdi-doktorlarim-onay-verdi-43342606",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.065744+00:00",
+      "collected_at": "2026-10-15T11:50:46.444603+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -835,8 +1205,8 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/sporarena/yazarlar/unal-ozuak/euroleaguede-cifte-huzun-43342095",
-          "title": "EuroLeague'de çifte hüzün! | Ünal Özüak Köşe Yazısı"
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/4-evre-kanser-tedavisi-gorurken-estetik-yaptirdi-doktorlarim-onay-verdi-43342606",
+          "title": "4. evre kanser tedavisi görürken estetik yaptırdı: Doktorlarım onay verdi"
         }
       ],
       "publisher_domains": [
@@ -855,66 +1225,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Anadolu Efes'e Bayern Münih çelmesi! Üst üste 3. yenilgi...",
-      "normalized_title": "anadolu efes e bayern munih celmesi ust uste 3 yenilgi",
-      "url": "https://www.cumhuriyet.com.tr/spor/anadolu-efes-e-bayern-munih-celmesi-ust-uste-3-yenilgi-2546849",
-      "source": "cumhuriyet.com.tr",
+      "title": "Sezen Aksu'nun Unutmamak İçin Sertab Erener'in Telesekreterine Kaydettiği Şarkının Hikayesi!",
+      "normalized_title": "sezen aksu nun unutmamak icin sertab erener in telesekreterine kaydettigi sarkinin hikayesi",
+      "url": "https://onedio.com/haber/sezen-aksu-nun-unutmamak-icin-sertab-erener-in-telesekreterine-kaydettigi-sarkinin-hikayesi-1388676",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.065822+00:00",
+      "collected_at": "2026-10-15T11:50:46.444643+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/spor/anadolu-efes-e-bayern-munih-celmesi-ust-uste-3-yenilgi-2546849",
-          "title": "Anadolu Efes'e Bayern Münih çelmesi! Üst üste 3. yenilgi..."
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/sezen-aksu-nun-unutmamak-icin-sertab-erener-in-telesekreterine-kaydettigi-sarkinin-hikayesi-1388676",
+          "title": "Sezen Aksu'nun Unutmamak İçin Sertab Erener'in Telesekreterine Kaydettiği Şarkının Hikayesi!"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Pablo Laso: \"Takım Halinde Çözüm Üretmeliyiz, Bu Şekilde Devam Edemeyiz\"",
-      "normalized_title": "pablo laso takim halinde cozum uretmeliyiz bu sekilde devam edemeyiz",
-      "url": "https://www.eurohoops.net/tr/euroleague-tr/2021012/pablo-laso-takim-halinde-cozum-uretmeliyiz-bu-sekilde-devam-edemeyiz/",
-      "source": "eurohoops.net",
-      "source_role": "publisher",
-      "source_domain": "eurohoops.net",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.065890+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "eurohoops.net",
-          "source_domain": "eurohoops.net",
-          "url": "https://www.eurohoops.net/tr/euroleague-tr/2021012/pablo-laso-takim-halinde-cozum-uretmeliyiz-bu-sekilde-devam-edemeyiz/",
-          "title": "Pablo Laso: \"Takım Halinde Çözüm Üretmeliyiz, Bu Şekilde Devam Edemeyiz\""
-        }
-      ],
-      "publisher_domains": [
-        "eurohoops.net"
+        "onedio.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -938,7 +1271,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.065967+00:00",
+      "collected_at": "2026-10-15T11:50:46.444683+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -975,7 +1308,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.066045+00:00",
+      "collected_at": "2026-10-15T11:50:46.444722+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -989,339 +1322,6 @@
       ],
       "publisher_domains": [
         "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Tuzlu Kahve dizisinin yeni bölümü ne zaman? Tuzlu Kahve dizisinin son bölümünde ne oldu?",
-      "normalized_title": "tuzlu kahve dizisinin yeni bolumu ne zaman tuzlu kahve dizisinin son bolumunde ne oldu",
-      "url": "https://www.cumhuriyet.com.tr/tv-rehberi/tuzlu-kahve-dizisinin-yeni-bolumu-ne-zaman-tuzlu-kahve-dizisinin-son-bolumunde-ne-oldu-2546409",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.066118+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/tv-rehberi/tuzlu-kahve-dizisinin-yeni-bolumu-ne-zaman-tuzlu-kahve-dizisinin-son-bolumunde-ne-oldu-2546409",
-          "title": "Tuzlu Kahve dizisinin yeni bölümü ne zaman? Tuzlu Kahve dizisinin son bölümünde ne oldu?"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Süperstar Ajda Pekkan sete damga vurdu: Tuzlu Kahve'den sosyal medyayı sallayan sürpriz",
-      "normalized_title": "superstar ajda pekkan sete damga vurdu tuzlu kahve den sosyal medyayi sallayan surpriz",
-      "url": "https://www.yenicaggazetesi.com/superstar-ajda-pekkan-sete-damga-vurdu-tuzlu-kahveden-sosyal-medyayi-sallayan-surpriz-1081585h.htm",
-      "source": "yenicaggazetesi.com",
-      "source_role": "publisher",
-      "source_domain": "yenicaggazetesi.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.066189+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yenicaggazetesi.com",
-          "source_domain": "yenicaggazetesi.com",
-          "url": "https://www.yenicaggazetesi.com/superstar-ajda-pekkan-sete-damga-vurdu-tuzlu-kahveden-sosyal-medyayi-sallayan-surpriz-1081585h.htm",
-          "title": "Süperstar Ajda Pekkan sete damga vurdu: Tuzlu Kahve'den sosyal medyayı sallayan sürpriz"
-        }
-      ],
-      "publisher_domains": [
-        "yenicaggazetesi.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Oyuncunun acı vedası",
-      "normalized_title": "oyuncunun aci vedasi",
-      "url": "https://www.milliyet.com.tr/kultur-sanat/oyuncunun-aci-vedasi-7679087",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.066399+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/kultur-sanat/oyuncunun-aci-vedasi-7679087",
-          "title": "Oyuncunun acı vedası"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Aslıhan Gürbüz: Bu yıl zeytin yüzümü güldürdü",
-      "normalized_title": "aslihan gurbuz bu yil zeytin yuzumu guldurdu",
-      "url": "https://www.haberturk.com/magazin/foto/aslihan-gurbuz-bu-yil-zeytin-yuzumu-guldurdu-3919765",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.066456+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/aslihan-gurbuz-bu-yil-zeytin-yuzumu-guldurdu-3919765",
-          "title": "Aslıhan Gürbüz: Bu yıl zeytin yüzümü güldürdü"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Barış Arduç En Sevdiği 3 Filmi Açıkladı: Belli ki Ağlamayı Seviyoruz!",
-      "normalized_title": "baris arduc en sevdigi 3 filmi acikladi belli ki aglamayi seviyoruz",
-      "url": "https://onedio.com/haber/baris-arduc-en-sevdigi-3-filmi-acikladi-belli-ki-aglamayi-seviyoruz-1388566",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.066519+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/baris-arduc-en-sevdigi-3-filmi-acikladi-belli-ki-aglamayi-seviyoruz-1388566",
-          "title": "Barış Arduç En Sevdiği 3 Filmi Açıkladı: Belli ki Ağlamayı Seviyoruz!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Sylvester Stallone'dan yıllar sonra gelen itiraf: 'Dublör kullanmamak aptallıktı'",
-      "normalized_title": "sylvester stallone dan yillar sonra gelen itiraf dublor kullanmamak aptallikti",
-      "url": "https://www.cumhuriyet.com.tr/yasam/sylvester-stallone-dan-yillar-sonra-gelen-itiraf-dublor-kullanmamak-aptallikti-2546759",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.066584+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/sylvester-stallone-dan-yillar-sonra-gelen-itiraf-dublor-kullanmamak-aptallikti-2546759",
-          "title": "Sylvester Stallone'dan yıllar sonra gelen itiraf: 'Dublör kullanmamak aptallıktı'"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Hülya Avşar 'yürüyemeyen kadın' tartışmasına son noktayı koydu! Demet Akalın'da katılmıştı...",
-      "normalized_title": "hulya avsar yuruyemeyen kadin tartismasina son noktayi koydu demet akalin da katilmisti",
-      "url": "https://www.internethaber.com/hulya-avsar-yuruyemeyen-kadin-tartismasina-son-noktayi-koydu-demet-akalinda-katilmisti-foto-galerisi-2464037.htm",
-      "source": "internethaber.com",
-      "source_role": "publisher",
-      "source_domain": "internethaber.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.066796+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "internethaber.com",
-          "source_domain": "internethaber.com",
-          "url": "https://www.internethaber.com/hulya-avsar-yuruyemeyen-kadin-tartismasina-son-noktayi-koydu-demet-akalinda-katilmisti-foto-galerisi-2464037.htm",
-          "title": "Hülya Avşar 'yürüyemeyen kadın' tartışmasına son noktayı koydu! Demet Akalın'da katılmıştı..."
-        }
-      ],
-      "publisher_domains": [
-        "internethaber.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yeşilçam'ın usta ismi hayatını kaybetti: 'Sezercik' filmindeki rolüyle tanınmıştı",
-      "normalized_title": "yesilcam in usta ismi hayatini kaybetti sezercik filmindeki roluyle taninmisti",
-      "url": "https://www.yenisafak.com/hayat/yesilcamin-usta-ismi-hayatini-kaybetti-sezercik-filmindeki-roluyle-taninmisti-4863600",
-      "source": "yenisafak.com",
-      "source_role": "publisher",
-      "source_domain": "yenisafak.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.067027+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yenisafak.com",
-          "source_domain": "yenisafak.com",
-          "url": "https://www.yenisafak.com/hayat/yesilcamin-usta-ismi-hayatini-kaybetti-sezercik-filmindeki-roluyle-taninmisti-4863600",
-          "title": "Yeşilçam'ın usta ismi hayatını kaybetti: 'Sezercik' filmindeki rolüyle tanınmıştı"
-        }
-      ],
-      "publisher_domains": [
-        "yenisafak.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "CRR’de Tarık Akan anması: Işıklı Perdede Bir Ömür",
-      "normalized_title": "crr de tarik akan anmasi isikli perdede bir omur",
-      "url": "https://www.cumhuriyet.com.tr/kultur-sanat/crr-de-tarik-akan-anmasi-isikli-perdede-bir-omur-2546220",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-15T07:07:35.067253+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/crr-de-tarik-akan-anmasi-isikli-perdede-bir-omur-2546220",
-          "title": "CRR’de Tarık Akan anması: Işıklı Perdede Bir Ömür"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
