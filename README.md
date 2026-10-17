@@ -12,6 +12,12 @@ Magazin Gündemi için günlük haber keşfi, olay gruplama, 3 ayrı Shorts üre
 
 Haber indeksindeki yayıncı sayısı gerçek izlenme/paylaşım sayısı değildir. Sayfanın açılması haberi bağımsız doğrulamaz. Kaynak sayfasında yeterli açıklama yoksa o video üretilmez; uydurma detay eklenmez.
 
+## Hook Engine (ilk saniyeler)
+
+`src/hook_engine.py` her haber için başlık ve yayıncı metninden en fazla üç açılış adayı üretir; kısa, somut ve kaynağa dayalı adayı puanlayıp seçer. Yeni bir iddia, tepki veya motivasyon uydurmaz. Seçim ve alternatifler her video klasöründeki `hook.json` dosyasına yazılır. Seslendirme ilk cümlede doğrudan konuya girer; uzun kanal selamlaması kullanılmaz.
+
+Hook Engine testleri `tests/test_hook_engine.py` içindedir. GitHub Actions'ta **Hook Engine Tests** workflow'u ilgili dosyalar değiştiğinde testleri çalıştırır; elle de başlatılabilir. Bu değişiklik izlenme artışını garanti etmez; sonuçlar YouTube Analytics ile ölçülmelidir.
+
 ## Günlük çalışma
 
 GitHub Actions her gün 09:15 Türkiye saatinde çalışır. Actions içinden Daily Magazin Shorts → Run workflow ile elle de başlatılabilir.
