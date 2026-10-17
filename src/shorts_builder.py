@@ -231,7 +231,7 @@ def narration(item,a):
   if low in title.casefold():return False
   return True
  paragraphs=[]
- for p in re.split(r"(?<=[.!?])\\s+",body):
+ for p in re.split(r"(?<=[.!?])\s+",body):
   p=clean(p)
   if useful(p) and p not in paragraphs:paragraphs.append(p)
  if not paragraphs and useful(desc):paragraphs=[desc]
@@ -247,8 +247,8 @@ def narration(item,a):
   if total>=92:break
  if total<35:return ""
  story=" ".join(selected).strip()
- story=re.sub(r"(?:\\s*…|\\.\\.\\.)$","",story).strip()
- story=re.sub(r"^"+re.escape(title)+r"[.:,!?\\s-]*","",story,flags=re.I).strip()
+ story=re.sub(r"(?:\s*…|\.\.\.)$","",story).strip()
+ story=re.sub(r"^"+re.escape(title)+r"[.:,!?\s-]*","",story,flags=re.I).strip()
  if len(story.split())<30:return ""
  # Generate three candidate hooks from the headline and publisher text; choose
  # only source-grounded wording and persist the decision for auditability.
@@ -316,7 +316,7 @@ def build(item,index):
   from hook_engine import generate_hook
  except ImportError:
   from src.hook_engine import generate_hook
- hook_paragraphs=[clean(p) for p in re.split(r"(?<=[.!?])\\s+",clean(a.get("body",""))) if len(clean(p).split())>=8]
+ hook_paragraphs=[clean(p) for p in re.split(r"(?<=[.!?])\s+",clean(a.get("body",""))) if len(clean(p).split())>=8]
  hook_data=generate_hook(clean(item.get("title","")),hook_paragraphs or [clean(a.get("description",""))])
  (folder/"hook.json").write_text(json.dumps(hook_data,ensure_ascii=False,indent=2),encoding="utf-8")
  (folder/"source.json").write_text(json.dumps({"title":item.get("title"),"url":item.get("url"),"source":item.get("source"),"article_metadata":a,"created_at":datetime.now(timezone.utc).isoformat(),"visual_rights_note":"Open Graph görselinin yeniden kullanım lisansı otomatik doğrulanmamıştır."},ensure_ascii=False,indent=2),encoding="utf-8")
