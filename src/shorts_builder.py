@@ -318,6 +318,10 @@ def build(item,index):
   from src.hook_engine import generate_hook
  hook_paragraphs=[clean(p) for p in re.split(r"(?<=[.!?])\s+",clean(a.get("body",""))) if len(clean(p).split())>=8]
  hook_data=generate_hook(clean(item.get("title","")),hook_paragraphs or [clean(a.get("description",""))])
+ if hook_data.get("selected","").casefold()!=clean(item.get("title","")).casefold() and clean(" ".join(hook_paragraphs)).casefold().startswith(hook_data.get("selected","").casefold()):
+  hook_data["selected"]=clean(item.get("title",""))
+  hook_data["selected_type"]="headline"
+  hook_data["note"] += " Başlık seçildi; kaynak cümlesinin senaryoda tekrarlanması önlendi."
  (folder/"hook.json").write_text(json.dumps(hook_data,ensure_ascii=False,indent=2),encoding="utf-8")
  (folder/"source.json").write_text(json.dumps({"title":item.get("title"),"url":item.get("url"),"source":item.get("source"),"article_metadata":a,"created_at":datetime.now(timezone.utc).isoformat(),"visual_rights_note":"Open Graph görselinin yeniden kullanım lisansı otomatik doğrulanmamıştır."},ensure_ascii=False,indent=2),encoding="utf-8")
  image=folder/"source-image.jpg";poster=folder/"poster.jpg";thumb=folder/"thumbnail.jpg";voice=folder/"narration.mp3";srt=folder/"captions.srt";video=folder/"short.mp4"
