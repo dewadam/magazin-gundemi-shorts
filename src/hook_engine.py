@@ -10,13 +10,13 @@ from typing import Iterable
 
 
 def _clean(value: str) -> str:
-    return re.sub(r"\\s+", " ", str(value or "")).strip(" \\t\\r\\n.•-")
+    return re.sub(r"\s+", " ", str(value or "")).strip(" \t\r\n.•-")
 
 
 def _sentences(paragraphs: Iterable[str]) -> list[str]:
     result: list[str] = []
     for paragraph in paragraphs:
-        for sentence in re.split(r"(?<=[.!?])\\s+", _clean(paragraph)):
+        for sentence in re.split(r"(?<=[.!?])\s+", _clean(paragraph)):
             sentence = _clean(sentence)
             words = sentence.split()
             if 7 <= len(words) <= 25 and 45 <= len(sentence) <= 190:
