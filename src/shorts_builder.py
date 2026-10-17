@@ -259,8 +259,9 @@ def narration(item,a):
  hook_data=generate_hook(title, paragraphs)
  hook=clean(hook_data.get("selected",""))
  if not hook:return ""
- # Keep the hook short and avoid repeating a long headline verbatim.
- if len(hook.split())>22:
+ # Keep the hook short; if a publisher lead would be repeated verbatim,
+ # prefer the headline as the spoken opening.
+ if len(hook.split())>22 or (hook.casefold()!=title.casefold() and story.casefold().startswith(hook.casefold())):
   hook=title
  if hook.casefold()==title.casefold():
   intro=f"{hook}. "
