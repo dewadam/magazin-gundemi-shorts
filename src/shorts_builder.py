@@ -230,20 +230,15 @@ def narration(item,a):
   if any(x in low for x in boilerplate):return False
   if low in title.casefold():return False
   return True
- # Prefer the article body; use metadata only if the publisher blocks the body.
  paragraphs=[]
- for p in re.split(r"(?<=[.!?])\s+",body):
+ for p in re.split(r"(?<=[.!?])\\s+",body):
   p=clean(p)
   if useful(p) and p not in paragraphs:paragraphs.append(p)
  if not paragraphs and useful(desc):paragraphs=[desc]
- # Do not narrate the generic Google News collector placeholder.
  feed_summary=clean(item.get("summary",""))
  if not paragraphs and useful(feed_summary) and "google news bağlantı çözücüsüyle doğrudan url" not in feed_summary.casefold():
   paragraphs=[feed_summary]
  if not title or not paragraphs:return ""
- # Build a fuller 40–60 second report from several concrete article details.
- # Avoid reading an entire article verbatim: use a short quote only if the source
- # itself contains a clearly marked quotation, then report the remaining details.
  selected=[];total=0
  for p in paragraphs:
   n=len(p.split())
@@ -253,11 +248,24 @@ def narration(item,a):
  if total<35:return ""
  story=" ".join(selected).strip()
  story=re.sub(r"(?:\\s*…|\\.\\.\\.)$","",story).strip()
- # Remove the article title if the body repeats it at the start.
  story=re.sub(r"^"+re.escape(title)+r"[.:,!?\\s-]*","",story,flags=re.I).strip()
  if len(story.split())<30:return ""
- # Presenter-style intro and close, without the empty "kaynak haberde" filler.
- intro=f"Magazin Gündemi'nde bugün: {title}. "
+ # Generate three candidate hooks from the headline and publisher text; choose
+ # only source-grounded wording and persist the decision for auditability.
+ try:
+  from hook_engine import generate_hook
+ except ImportError:
+  from src.hook_engine import generate_hook
+ hook_data=generate_hook(title, paragraphs)
+ hook=clean(hook_data.get("selected",""))
+ if not hook:return ""
+ # Keep the hook short and avoid repeating a long headline verbatim.
+ if len(hook.split())>22:
+  hook=title
+ if hook.casefold()==title.casefold():
+  intro=f"{hook}. "
+ else:
+  intro=f"{hook} Şimdi ayrıntılara bakalım. "
  outro=" Gelişmeleri aktarmaya devam edeceğiz. Her gün gündemde ne varsa!"
  return intro+story.rstrip(".")+"."+outro
 
@@ -303,6 +311,13 @@ def build(item,index):
  a,err=article_data(item);script=narration(item,a)
  if not script:raise RuntimeError(f"Kaynak sayfasında yeterli açıklama yok: {err or 'metin bulunamadı'}")
  (folder/"narration.txt").write_text(script,encoding="utf-8")
+ try:
+  from hook_engine import generate_hook
+ except ImportError:
+  from src.hook_engine import generate_hook
+ hook_paragraphs=[clean(p) for p in re.split(r"(?<=[.!?])\\s+",clean(a.get("body",""))) if len(clean(p).split())>=8]
+ hook_data=generate_hook(clean(item.get("title","")),hook_paragraphs or [clean(a.get("description",""))])
+ (folder/"hook.json").write_text(json.dumps(hook_data,ensure_ascii=False,indent=2),encoding="utf-8")
  (folder/"source.json").write_text(json.dumps({"title":item.get("title"),"url":item.get("url"),"source":item.get("source"),"article_metadata":a,"created_at":datetime.now(timezone.utc).isoformat(),"visual_rights_note":"Open Graph görselinin yeniden kullanım lisansı otomatik doğrulanmamıştır."},ensure_ascii=False,indent=2),encoding="utf-8")
  image=folder/"source-image.jpg";poster=folder/"poster.jpg";thumb=folder/"thumbnail.jpg";voice=folder/"narration.mp3";srt=folder/"captions.srt";video=folder/"short.mp4"
  posters(item,a,image,poster,thumb)
