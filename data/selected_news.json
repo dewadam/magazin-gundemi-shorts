@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-10-18T11:30:31.899539+00:00",
+  "generated_at": "2026-10-18T16:06:42.728213+00:00",
   "candidate_count": 100,
-  "event_group_count": 49,
-  "multi_publisher_event_count": 6,
+  "event_group_count": 46,
+  "multi_publisher_event_count": 10,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Avrupa Yakası'nın Gaffur'u Peker Açıkalın'dan yapımcılara çağrı: “Para lazım, para”",
-      "normalized_title": "avrupa yakasi nin gaffur u peker acikalin dan yapimcilara cagri para lazim para",
-      "url": "https://www.sozcu.com.tr/avrupa-yakasi-nin-gaffur-u-peker-acikalin-dan-yapimcilara-cagri-para-lazim-para-p370210",
-      "source": "sozcu.com.tr",
+      "title": "Özgün baskı sanatının öncü ismi Süleyman Saim Tekcan yaşamını yitirdi",
+      "normalized_title": "ozgun baski sanatinin oncu ismi suleyman saim tekcan yasamini yitirdi",
+      "url": "https://www.cumhuriyet.com.tr/kultur-sanat/ozgun-baski-sanatinin-oncu-ismi-suleyman-saim-tekcan-yasamini-yitirdi-2547887",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.434244+00:00",
+      "collected_at": "2026-10-18T16:06:06.067931+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/magazin/peker-acikalindan-yapimcilara-cagri-para-lazim-tekliflere-acigim,1353809",
-          "title": "Peker Açıkalın'dan yapımcılara çağrı: Para lazım, tekliflere açığım"
-        },
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/avrupa-yakasi-nin-gaffur-u-peker-acikalin-dan-yapimcilara-cagri-para-lazim-para-p370210",
-          "title": "Avrupa Yakası'nın Gaffur'u Peker Açıkalın'dan yapımcılara çağrı: “Para lazım, para”"
+          "source": "trthaber.com",
+          "source_domain": "trthaber.com",
+          "url": "https://www.trthaber.com/haber/kultur-sanat/sanatci-suleyman-saim-tekcan-vefat-etti-960451.html",
+          "title": "Sanatçı Süleyman Saim Tekcan vefat etti"
         },
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/peker-acikalin-tekliflere-acigim-para-lazim-3920546",
-          "title": "Peker Açıkalın: Tekliflere açığım, para lazım"
+          "url": "https://www.haberturk.com/magazin/suleyman-saim-tekcan-hayatini-kaybetti-3920619",
+          "title": "Süleyman Saim Tekcan hayatını kaybetti"
         },
         {
           "source": "cumhuriyet.com.tr",
           "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/oyuncu-peker-acikalin-dan-yapimcilara-cagri-tekliflere-acigim-para-lazim-2547802",
-          "title": "Oyuncu Peker Açıkalın'dan yapımcılara çağrı: 'Tekliflere açığım, para lazım'"
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/ozgun-baski-sanatinin-oncu-ismi-suleyman-saim-tekcan-yasamini-yitirdi-2547887",
+          "title": "Özgün baskı sanatının öncü ismi Süleyman Saim Tekcan yaşamını yitirdi"
+        },
+        {
+          "source": "evrensel.net",
+          "source_domain": "evrensel.net",
+          "url": "https://www.evrensel.net/haber/6005477/suleyman-saim-tekcan-kimdir",
+          "title": "Süleyman Saim Tekcan kimdir?"
         }
       ],
       "publisher_domains": [
         "cumhuriyet.com.tr",
+        "evrensel.net",
         "haberturk.com",
-        "sozcu.com.tr",
-        "t24.com.tr"
+        "trthaber.com"
       ],
       "publisher_count": 4,
       "direct_article_count": 4,
@@ -66,51 +66,44 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Kültür ve Turizm Bakanlığı, vefat eden Süleyman Saim Tekcan'a taziye mesajı yayımladı",
-      "normalized_title": "kultur ve turizm bakanligi vefat eden suleyman saim tekcan a taziye mesaji yayimladi",
-      "url": "https://www.haberler.com/guncel/kultur-ve-turizm-bakanligi-vefat-eden-suleyman-20341705-haberi/",
-      "source": "haberler.com",
+      "title": "Bella Duygulu kimdir? Kaç yaşında? Eski hali nasıl? Bella Duygulu'nun eşi kimdir? Nereli?",
+      "normalized_title": "bella duygulu kimdir kac yasinda eski hali nasil bella duygulu nun esi kimdir nereli",
+      "url": "https://www.hakimiyet.com/bella-duygulu-kimdir-kac-yasinda-eski-hali-nasil-bella-duygulu-nun-esi-kimdir-nereli/127872/",
+      "source": "hakimiyet.com",
       "source_role": "publisher",
-      "source_domain": "haberler.com",
+      "source_domain": "hakimiyet.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.430074+00:00",
+      "collected_at": "2026-10-18T16:06:06.071895+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "trthaber.com",
-          "source_domain": "trthaber.com",
-          "url": "https://www.trthaber.com/haber/kultur-sanat/sanatci-suleyman-saim-tekcan-vefat-etti-960451.html",
-          "title": "Sanatçı Süleyman Saim Tekcan vefat etti"
+          "source": "hakimiyet.com",
+          "source_domain": "hakimiyet.com",
+          "url": "https://www.hakimiyet.com/bella-duygulu-kimdir-kac-yasinda-eski-hali-nasil-bella-duygulu-nun-esi-kimdir-nereli/127872/",
+          "title": "Bella Duygulu kimdir? Kaç yaşında? Eski hali nasıl? Bella Duygulu'nun eşi kimdir? Nereli?"
         },
         {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/guncel/kultur-ve-turizm-bakanligi-vefat-eden-suleyman-20341705-haberi/",
-          "title": "Kültür ve Turizm Bakanlığı, vefat eden Süleyman Saim Tekcan'a taziye mesajı yayımladı"
-        },
-        {
-          "source": "evrensel.net",
-          "source_domain": "evrensel.net",
-          "url": "https://www.evrensel.net/haber/6005477/suleyman-saim-tekcan-kimdir",
-          "title": "Süleyman Saim Tekcan kimdir?"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/bella-duygulu-kimdir-kac-yasinda-nereli-tayfun-duygulu-nun-esi-bella-duygulu-nun-hayati-1389339",
+          "title": "Bella Duygulu Kimdir, Kaç Yaşında, Nereli? Tayfun Duygulu'nun Eşi Bella Duygulu'nun Hayatı"
         }
       ],
       "publisher_domains": [
-        "evrensel.net",
-        "haberler.com",
-        "trthaber.com"
+        "hakimiyet.com",
+        "onedio.com"
       ],
-      "publisher_count": 3,
+      "publisher_count": 2,
       "direct_article_count": 3,
       "event_member_count": 3,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 20.5,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -126,17 +119,11 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.431661+00:00",
+      "collected_at": "2026-10-18T16:06:06.068179+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/halit-ergenc-rusya-buyukelcisi-ile-bulustu-3920411",
-          "title": "Halit Ergenç, Rusya'nın Ankara Büyükelçisi Vershinin ile buluştu"
-        },
         {
           "source": "t24.com.tr",
           "source_domain": "t24.com.tr",
@@ -144,24 +131,23 @@
           "title": "Rusya'nın Ankara Büyükelçisi, oyuncu Halit Ergenç ile bir araya geldi: Türk dizileri Ruslar tarafından beğeniyle takip ediliyor"
         },
         {
-          "source": "bursadabugun.com",
-          "source_domain": "bursadabugun.com",
-          "url": "https://www.bursadabugun.com/haber/halit-ergenc-rusya-nin-ankara-buyukelcisi-sergey-vershinin-ile-bir-araya-geldi-1957086.html",
-          "title": "Halit Ergenç, Rusya'nın Ankara Büyükelçisi Sergey Vershinin ile bir araya geldi"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/halit-ergenc-rusya-buyukelcisi-ile-bulustu-3920411",
+          "title": "Halit Ergenç, Rusya'nın Ankara Büyükelçisi Vershinin ile buluştu"
         }
       ],
       "publisher_domains": [
-        "bursadabugun.com",
         "haberturk.com",
         "t24.com.tr"
       ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -170,50 +156,50 @@
   ],
   "event_groups_preview": [
     {
-      "title": "Avrupa Yakası'nın Gaffur'u Peker Açıkalın'dan yapımcılara çağrı: “Para lazım, para”",
-      "normalized_title": "avrupa yakasi nin gaffur u peker acikalin dan yapimcilara cagri para lazim para",
-      "url": "https://www.sozcu.com.tr/avrupa-yakasi-nin-gaffur-u-peker-acikalin-dan-yapimcilara-cagri-para-lazim-para-p370210",
-      "source": "sozcu.com.tr",
+      "title": "Özgün baskı sanatının öncü ismi Süleyman Saim Tekcan yaşamını yitirdi",
+      "normalized_title": "ozgun baski sanatinin oncu ismi suleyman saim tekcan yasamini yitirdi",
+      "url": "https://www.cumhuriyet.com.tr/kultur-sanat/ozgun-baski-sanatinin-oncu-ismi-suleyman-saim-tekcan-yasamini-yitirdi-2547887",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.434244+00:00",
+      "collected_at": "2026-10-18T16:06:06.067931+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/magazin/peker-acikalindan-yapimcilara-cagri-para-lazim-tekliflere-acigim,1353809",
-          "title": "Peker Açıkalın'dan yapımcılara çağrı: Para lazım, tekliflere açığım"
-        },
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/avrupa-yakasi-nin-gaffur-u-peker-acikalin-dan-yapimcilara-cagri-para-lazim-para-p370210",
-          "title": "Avrupa Yakası'nın Gaffur'u Peker Açıkalın'dan yapımcılara çağrı: “Para lazım, para”"
+          "source": "trthaber.com",
+          "source_domain": "trthaber.com",
+          "url": "https://www.trthaber.com/haber/kultur-sanat/sanatci-suleyman-saim-tekcan-vefat-etti-960451.html",
+          "title": "Sanatçı Süleyman Saim Tekcan vefat etti"
         },
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/peker-acikalin-tekliflere-acigim-para-lazim-3920546",
-          "title": "Peker Açıkalın: Tekliflere açığım, para lazım"
+          "url": "https://www.haberturk.com/magazin/suleyman-saim-tekcan-hayatini-kaybetti-3920619",
+          "title": "Süleyman Saim Tekcan hayatını kaybetti"
         },
         {
           "source": "cumhuriyet.com.tr",
           "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/oyuncu-peker-acikalin-dan-yapimcilara-cagri-tekliflere-acigim-para-lazim-2547802",
-          "title": "Oyuncu Peker Açıkalın'dan yapımcılara çağrı: 'Tekliflere açığım, para lazım'"
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/ozgun-baski-sanatinin-oncu-ismi-suleyman-saim-tekcan-yasamini-yitirdi-2547887",
+          "title": "Özgün baskı sanatının öncü ismi Süleyman Saim Tekcan yaşamını yitirdi"
+        },
+        {
+          "source": "evrensel.net",
+          "source_domain": "evrensel.net",
+          "url": "https://www.evrensel.net/haber/6005477/suleyman-saim-tekcan-kimdir",
+          "title": "Süleyman Saim Tekcan kimdir?"
         }
       ],
       "publisher_domains": [
         "cumhuriyet.com.tr",
+        "evrensel.net",
         "haberturk.com",
-        "sozcu.com.tr",
-        "t24.com.tr"
+        "trthaber.com"
       ],
       "publisher_count": 4,
       "direct_article_count": 4,
@@ -228,43 +214,43 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Kültür ve Turizm Bakanlığı, vefat eden Süleyman Saim Tekcan'a taziye mesajı yayımladı",
-      "normalized_title": "kultur ve turizm bakanligi vefat eden suleyman saim tekcan a taziye mesaji yayimladi",
-      "url": "https://www.haberler.com/guncel/kultur-ve-turizm-bakanligi-vefat-eden-suleyman-20341705-haberi/",
-      "source": "haberler.com",
+      "title": "Can Bonomo’nun acı günü: Ünlü sanatçının babası hayatını kaybetti",
+      "normalized_title": "can bonomo nun aci gunu unlu sanatcinin babasi hayatini kaybetti",
+      "url": "https://www.odatv.com/magazin/can-bonomonun-aci-gunu-unlu-sanatcinin-babasi-yasar-bonomo-hayatini-kaybetti-120167148",
+      "source": "odatv.com",
       "source_role": "publisher",
-      "source_domain": "haberler.com",
+      "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.430074+00:00",
+      "collected_at": "2026-10-18T16:06:06.072141+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "trthaber.com",
-          "source_domain": "trthaber.com",
-          "url": "https://www.trthaber.com/haber/kultur-sanat/sanatci-suleyman-saim-tekcan-vefat-etti-960451.html",
-          "title": "Sanatçı Süleyman Saim Tekcan vefat etti"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/can-bonomonun-aci-gunu-unlu-sanatcinin-babasi-yasar-bonomo-hayatini-kaybetti-120167148",
+          "title": "Can Bonomo’nun acı günü: Ünlü sanatçının babası hayatını kaybetti"
         },
         {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/guncel/kultur-ve-turizm-bakanligi-vefat-eden-suleyman-20341705-haberi/",
-          "title": "Kültür ve Turizm Bakanlığı, vefat eden Süleyman Saim Tekcan'a taziye mesajı yayımladı"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/can-bonomonun-babasi-yasar-bonomo-hayatini-kaybetti-3920522",
+          "title": "Can Bonomo'nun babası Yaşar Bonomo hayatını kaybetti"
         },
         {
-          "source": "evrensel.net",
-          "source_domain": "evrensel.net",
-          "url": "https://www.evrensel.net/haber/6005477/suleyman-saim-tekcan-kimdir",
-          "title": "Süleyman Saim Tekcan kimdir?"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/bilgi/yasar-bonomo-kimdir-ne-is-yapar-can-bonomonun-babasi-yasar-bonomo-hayatini-kaybetti-43345721",
+          "title": "Yaşar Bonomo kimdir, ne iş yapar? Can Bonomo'nun babası Yaşar Bonomo hayatını kaybetti"
         }
       ],
       "publisher_domains": [
-        "evrensel.net",
-        "haberler.com",
-        "trthaber.com"
+        "haberturk.com",
+        "hurriyet.com.tr",
+        "odatv.com"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -273,6 +259,50 @@
       "latest_published_at": null,
       "age_hours": 48.0,
       "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Bella Duygulu kimdir? Kaç yaşında? Eski hali nasıl? Bella Duygulu'nun eşi kimdir? Nereli?",
+      "normalized_title": "bella duygulu kimdir kac yasinda eski hali nasil bella duygulu nun esi kimdir nereli",
+      "url": "https://www.hakimiyet.com/bella-duygulu-kimdir-kac-yasinda-eski-hali-nasil-bella-duygulu-nun-esi-kimdir-nereli/127872/",
+      "source": "hakimiyet.com",
+      "source_role": "publisher",
+      "source_domain": "hakimiyet.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T16:06:06.071895+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hakimiyet.com",
+          "source_domain": "hakimiyet.com",
+          "url": "https://www.hakimiyet.com/bella-duygulu-kimdir-kac-yasinda-eski-hali-nasil-bella-duygulu-nun-esi-kimdir-nereli/127872/",
+          "title": "Bella Duygulu kimdir? Kaç yaşında? Eski hali nasıl? Bella Duygulu'nun eşi kimdir? Nereli?"
+        },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/bella-duygulu-kimdir-kac-yasinda-nereli-tayfun-duygulu-nun-esi-bella-duygulu-nun-hayati-1389339",
+          "title": "Bella Duygulu Kimdir, Kaç Yaşında, Nereli? Tayfun Duygulu'nun Eşi Bella Duygulu'nun Hayatı"
+        }
+      ],
+      "publisher_domains": [
+        "hakimiyet.com",
+        "onedio.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.5,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -288,17 +318,11 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.431661+00:00",
+      "collected_at": "2026-10-18T16:06:06.068179+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/halit-ergenc-rusya-buyukelcisi-ile-bulustu-3920411",
-          "title": "Halit Ergenç, Rusya'nın Ankara Büyükelçisi Vershinin ile buluştu"
-        },
         {
           "source": "t24.com.tr",
           "source_domain": "t24.com.tr",
@@ -306,60 +330,191 @@
           "title": "Rusya'nın Ankara Büyükelçisi, oyuncu Halit Ergenç ile bir araya geldi: Türk dizileri Ruslar tarafından beğeniyle takip ediliyor"
         },
         {
-          "source": "bursadabugun.com",
-          "source_domain": "bursadabugun.com",
-          "url": "https://www.bursadabugun.com/haber/halit-ergenc-rusya-nin-ankara-buyukelcisi-sergey-vershinin-ile-bir-araya-geldi-1957086.html",
-          "title": "Halit Ergenç, Rusya'nın Ankara Büyükelçisi Sergey Vershinin ile bir araya geldi"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/halit-ergenc-rusya-buyukelcisi-ile-bulustu-3920411",
+          "title": "Halit Ergenç, Rusya'nın Ankara Büyükelçisi Vershinin ile buluştu"
         }
       ],
       "publisher_domains": [
-        "bursadabugun.com",
         "haberturk.com",
         "t24.com.tr"
       ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "'Beni rahibeler büyüttü' demişti! Bayhan'dan 'Din değiştirdi' iddialarına jet hızında yanıt",
-      "normalized_title": "beni rahibeler buyuttu demisti bayhan dan din degistirdi iddialarina jet hizinda yanit",
-      "url": "https://www.milliyet.com.tr/magazin/galeri/beni-rahibeler-buyuttu-demisti-bayhandan-din-degistirdi-iddialarina-jet-hizinda-yanit-7680616",
-      "source": "milliyet.com.tr",
+      "title": "Melis İşiten'den itiraf: Sevgilim varken aşık oldum",
+      "normalized_title": "melis isiten den itiraf sevgilim varken asik oldum",
+      "url": "https://www.haberturk.com/magazin/foto/melis-isiten-den-itiraf-3920391",
+      "source": "haberturk.com",
       "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
+      "source_domain": "haberturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.431015+00:00",
+      "collected_at": "2026-10-18T16:06:06.068967+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/bayhandan-din-degistirdi-iddiasina-yanit-43344612",
-          "title": "Bayhan'dan 'din değiştirdi' iddiasına yanıt"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/melis-isiten-den-ozel-hayatiyla-ilgili-itiraf-p370364",
+          "title": "Melis İşiten'den özel hayatıyla ilgili itiraf"
         },
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/beni-rahibeler-buyuttu-demisti-bayhandan-din-degistirdi-iddialarina-jet-hizinda-yanit-7680616",
-          "title": "'Beni rahibeler büyüttü' demişti! Bayhan'dan 'Din değiştirdi' iddialarına jet hızında yanıt"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/melis-isiten-den-itiraf-3920391",
+          "title": "Melis İşiten'den itiraf: Sevgilim varken aşık oldum"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr",
-        "milliyet.com.tr"
+        "haberturk.com",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Melis İşiten’den evlilik itirafı: Uraz Kaygılaroğlu’nu kafede görüp sevgilisinden ayrılmış",
+      "normalized_title": "melis isiten den evlilik itirafi uraz kaygilaroglu nu kafede gorup sevgilisinden ayrilmis",
+      "url": "https://www.haberler.com/magazin/melis-isitenden-evlilik-itirafi-uraz-20342113-haberi/",
+      "source": "haberler.com",
+      "source_role": "publisher",
+      "source_domain": "haberler.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T16:06:06.069055+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/uraz-kaygilaroglu-ile-evliligi-bitmisti-melis-isiten-den-surpriz-iliski-itirafi-2547938",
+          "title": "Uraz Kaygılaroğlu ile evliliği bitmişti: Melis İşiten'den sürpriz ilişki itirafı"
+        },
+        {
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/magazin/melis-isitenden-evlilik-itirafi-uraz-20342113-haberi/",
+          "title": "Melis İşiten’den evlilik itirafı: Uraz Kaygılaroğlu’nu kafede görüp sevgilisinden ayrılmış"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "haberler.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Elizabeth Hurley ve Billy Ray Cyrus, bir yılı aşkın süredir birlikte olduktan sonra nişanlandı - Free Press",
+      "normalized_title": "elizabeth hurley ve billy ray cyrus bir yili askin suredir birlikte olduktan sonra nisanlandi free press",
+      "url": "https://www.slobodenpecat.mk/tr/elizabet-harli-i-bili-rej-sajrus-se-svrshija-po-povekje-od-edna-godina-vrska/",
+      "source": "slobodenpecat.mk",
+      "source_role": "publisher",
+      "source_domain": "slobodenpecat.mk",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T16:06:06.069303+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/liz-hurley-sevgilisi-billy-ray-cyrus-ile-nisanlandi-3920627",
+          "title": "Liz Hurley sevgilisi Billy Ray Cyrus ile nişanlandı"
+        },
+        {
+          "source": "slobodenpecat.mk",
+          "source_domain": "slobodenpecat.mk",
+          "url": "https://www.slobodenpecat.mk/tr/elizabet-harli-i-bili-rej-sajrus-se-svrshija-po-povekje-od-edna-godina-vrska/",
+          "title": "Elizabeth Hurley ve Billy Ray Cyrus, bir yılı aşkın süredir birlikte olduktan sonra nişanlandı - Free Press"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "slobodenpecat.mk"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Pelin Karahan'dan Yıllar Sonra Gelen Muhteşem Yüzyıl İtirafı: Meğer Hayatını Değiştirmiş!",
+      "normalized_title": "pelin karahan dan yillar sonra gelen muhtesem yuzyil itirafi meger hayatini degistirmis",
+      "url": "https://onedio.com/haber/pelin-karahan-dan-yillar-sonra-gelen-muhtesem-yuzyil-itirafi-meger-hayatini-degistirmis-1389392",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T16:06:06.069487+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/pelin-karahan-dan-yillar-sonra-gelen-muhtesem-yuzyil-itirafi-p370383",
+          "title": "Pelin Karahan'dan yıllar sonra gelen Muhteşem Yüzyıl itirafı"
+        },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/pelin-karahan-dan-yillar-sonra-gelen-muhtesem-yuzyil-itirafi-meger-hayatini-degistirmis-1389392",
+          "title": "Pelin Karahan'dan Yıllar Sonra Gelen Muhteşem Yüzyıl İtirafı: Meğer Hayatını Değiştirmiş!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com",
+        "sozcu.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -383,7 +538,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.431889+00:00",
+      "collected_at": "2026-10-18T16:06:06.070196+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -427,7 +582,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.432995+00:00",
+      "collected_at": "2026-10-18T16:06:06.071025+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -462,16 +617,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Alpay'a veda... Usta sanatçı son yolculuğuna uğurlandı",
-      "normalized_title": "alpay a veda usta sanatci son yolculuguna ugurlandi",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/alpaya-veda-usta-sanatci-son-yolculuguna-ugurlandi-43344326",
+      "title": "Halit Ergenç’e Rusya’dan yakın ilgi",
+      "normalized_title": "halit ergenc e rusya dan yakin ilgi",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/halit-ergence-rusyadan-yakin-ilgi-43346231",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.430793+00:00",
+      "collected_at": "2026-10-18T16:06:06.068068+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -479,493 +634,12 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/alpaya-veda-usta-sanatci-son-yolculuguna-ugurlandi-43344326",
-          "title": "Alpay'a veda... Usta sanatçı son yolculuğuna uğurlandı"
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/halit-ergence-rusyadan-yakin-ilgi-43346231",
+          "title": "Halit Ergenç’e Rusya’dan yakın ilgi"
         }
       ],
       "publisher_domains": [
         "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.5,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Özgün baskı sanatının öncü ismi Süleyman Saim Tekcan yaşamını yitirdi",
-      "normalized_title": "ozgun baski sanatinin oncu ismi suleyman saim tekcan yasamini yitirdi",
-      "url": "https://www.cumhuriyet.com.tr/kultur-sanat/ozgun-baski-sanatinin-oncu-ismi-suleyman-saim-tekcan-yasamini-yitirdi-2547887",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.430226+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/ozgun-baski-sanatinin-oncu-ismi-suleyman-saim-tekcan-yasamini-yitirdi-2547887",
-          "title": "Özgün baskı sanatının öncü ismi Süleyman Saim Tekcan yaşamını yitirdi"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Teoman'ın kızı Zeyno büyüdü",
-      "normalized_title": "teoman in kizi zeyno buyudu",
-      "url": "https://www.hurriyet.com.tr/galeri-teomanin-kizi-zeyno-buyudu-43345833",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.430288+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/galeri-teomanin-kizi-zeyno-buyudu-43345833",
-          "title": "Teoman'ın kızı Zeyno büyüdü"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yıldız oyuncu düzenli telif aldığı tek filmi açıkladı",
-      "normalized_title": "yildiz oyuncu duzenli telif aldigi tek filmi acikladi",
-      "url": "https://www.indyturk.com/node/783984/k%C3%BClt%C3%BCr/y%C4%B1ld%C4%B1z-oyuncu-d%C3%BCzenli-telif-ald%C4%B1%C4%9F%C4%B1-tek-filmi-a%C3%A7%C4%B1klad%C4%B1",
-      "source": "indyturk.com",
-      "source_role": "publisher",
-      "source_domain": "indyturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.430365+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "indyturk.com",
-          "source_domain": "indyturk.com",
-          "url": "https://www.indyturk.com/node/783984/k%C3%BClt%C3%BCr/y%C4%B1ld%C4%B1z-oyuncu-d%C3%BCzenli-telif-ald%C4%B1%C4%9F%C4%B1-tek-filmi-a%C3%A7%C4%B1klad%C4%B1",
-          "title": "Yıldız oyuncu düzenli telif aldığı tek filmi açıkladı"
-        }
-      ],
-      "publisher_domains": [
-        "indyturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "'Bir külçe altınla kendimi ödüllendirdim'... 10 yıl önce oynadığı filmden hâlâ tıkır tıkır para kazanıyor",
-      "normalized_title": "bir kulce altinla kendimi odullendirdim 10 yil once oynadigi filmden hala tikir tikir para kazaniyor",
-      "url": "https://www.hurriyet.com.tr/kelebek/magazin/kendimi-bir-kulce-altinda-odullendirdim-10-yil-once-oynadigi-filmden-hala-tikir-tikir-para-kazaniyor-43344375",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.430467+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/magazin/kendimi-bir-kulce-altinda-odullendirdim-10-yil-once-oynadigi-filmden-hala-tikir-tikir-para-kazaniyor-43344375",
-          "title": "'Bir külçe altınla kendimi ödüllendirdim'... 10 yıl önce oynadığı filmden hâlâ tıkır tıkır para kazanıyor"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "James McAvoy kimdir, kaç yaşında ve neden gündem oldu? Ünlü oyuncunun yıllar sonra gelen itirafları",
-      "normalized_title": "james mcavoy kimdir kac yasinda ve neden gundem oldu unlu oyuncunun yillar sonra gelen itiraflari",
-      "url": "https://www.24saatgazetesi.com/james-mcavoy-kimdir-kac-yasinda-ve-neden-gundem-oldu-unlu-oyuncunun-yillar-sonra-gelen-itiraflari",
-      "source": "24saatgazetesi.com",
-      "source_role": "publisher",
-      "source_domain": "24saatgazetesi.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.430561+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "24saatgazetesi.com",
-          "source_domain": "24saatgazetesi.com",
-          "url": "https://www.24saatgazetesi.com/james-mcavoy-kimdir-kac-yasinda-ve-neden-gundem-oldu-unlu-oyuncunun-yillar-sonra-gelen-itiraflari",
-          "title": "James McAvoy kimdir, kaç yaşında ve neden gündem oldu? Ünlü oyuncunun yıllar sonra gelen itirafları"
-        }
-      ],
-      "publisher_domains": [
-        "24saatgazetesi.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Emre Altuğ’dan 70 yıllık Türk pop hafızası: 'Bir Pop Masalı' ile sahnede yeni bir soluk",
-      "normalized_title": "emre altug dan 70 yillik turk pop hafizasi bir pop masali ile sahnede yeni bir soluk",
-      "url": "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/emre-altug-dan-70-yillik-turk-pop-hafizasi-bir-pop-masali-ile-sahnede-yeni-bir-soluk-2547826",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.430651+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/emre-altug-dan-70-yillik-turk-pop-hafizasi-bir-pop-masali-ile-sahnede-yeni-bir-soluk-2547826",
-          "title": "Emre Altuğ’dan 70 yıllık Türk pop hafızası: 'Bir Pop Masalı' ile sahnede yeni bir soluk"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Alpay'ın cenazesinin yeri hayat arkadaşı ile ailesini birbirine düşürdü",
-      "normalized_title": "alpay in cenazesinin yeri hayat arkadasi ile ailesini birbirine dusurdu",
-      "url": "https://www.sozcu.com.tr/cenazenin-yeri-hayat-arkadasi-ile-ailesini-birbirine-dusurdu-p369699",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.430727+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/cenazenin-yeri-hayat-arkadasi-ile-ailesini-birbirine-dusurdu-p369699",
-          "title": "Alpay'ın cenazesinin yeri hayat arkadaşı ile ailesini birbirine düşürdü"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Şarkıcı Alpay hayatını kaybetti",
-      "normalized_title": "sarkici alpay hayatini kaybetti",
-      "url": "https://www.diken.com.tr/sarkici-alpay-hayatini-kaybetti/",
-      "source": "diken.com.tr",
-      "source_role": "publisher",
-      "source_domain": "diken.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.430849+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/sarkici-alpay-hayatini-kaybetti/",
-          "title": "Şarkıcı Alpay hayatını kaybetti"
-        }
-      ],
-      "publisher_domains": [
-        "diken.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Popstar Bayhan din mi değiştirdi? İddialara bakın ne yanıt verdi!",
-      "normalized_title": "popstar bayhan din mi degistirdi iddialara bakin ne yanit verdi",
-      "url": "https://www.cnnturk.com/magazin/popstar-bayhan-din-mi-degistirdi-iddialara-bakin-ne-yanit-verdi-3480021",
-      "source": "cnnturk.com",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.431096+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/popstar-bayhan-din-mi-degistirdi-iddialara-bakin-ne-yanit-verdi-3480021",
-          "title": "Popstar Bayhan din mi değiştirdi? İddialara bakın ne yanıt verdi!"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "'Beni Rahibeler Büyüttü' Demişti: Bayhan, Din Değiştirdiği İddialarına Yanıt Verdi, Özüne Döndüğü Anı Anlattı!",
-      "normalized_title": "beni rahibeler buyuttu demisti bayhan din degistirdigi iddialarina yanit verdi ozune dondugu ani anlatti",
-      "url": "https://onedio.com/haber/beni-rahibeler-buyuttu-demisti-bayhan-din-degistirdigi-iddialarina-yanit-verdi-ozune-dondugu-ani-anlatti-1388860",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.431188+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/beni-rahibeler-buyuttu-demisti-bayhan-din-degistirdigi-iddialarina-yanit-verdi-ozune-dondugu-ani-anlatti-1388860",
-          "title": "'Beni Rahibeler Büyüttü' Demişti: Bayhan, Din Değiştirdiği İddialarına Yanıt Verdi, Özüne Döndüğü Anı Anlattı!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Soner Olgun'un eski eşi Özlem Koldaş kimdir, ne iş yapar? Evliliği ve çocuğu",
-      "normalized_title": "soner olgun un eski esi ozlem koldas kimdir ne is yapar evliligi ve cocugu",
-      "url": "https://www.antalyahurses.com/soner-olgunun-eski-esi-ozlem-koldas-kimdir-ne-is-yapar-evliligi-ve-cocugu/559998",
-      "source": "antalyahurses.com",
-      "source_role": "publisher",
-      "source_domain": "antalyahurses.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.431268+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "antalyahurses.com",
-          "source_domain": "antalyahurses.com",
-          "url": "https://www.antalyahurses.com/soner-olgunun-eski-esi-ozlem-koldas-kimdir-ne-is-yapar-evliligi-ve-cocugu/559998",
-          "title": "Soner Olgun'un eski eşi Özlem Koldaş kimdir, ne iş yapar? Evliliği ve çocuğu"
-        }
-      ],
-      "publisher_domains": [
-        "antalyahurses.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "21 yaşından beri beraberlerdi: Soner Olgun'un eski eşinden duygusal veda: 'Sana nasıl veda edeceğim?'",
-      "normalized_title": "21 yasindan beri beraberlerdi soner olgun un eski esinden duygusal veda sana nasil veda edecegim",
-      "url": "https://www.sozcu.com.tr/21-yasindan-beri-beraberlerdi-soner-olgun-un-eski-esinden-duygusal-veda-sana-nasil-veda-edecegim-p370310",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.431358+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/21-yasindan-beri-beraberlerdi-soner-olgun-un-eski-esinden-duygusal-veda-sana-nasil-veda-edecegim-p370310",
-          "title": "21 yaşından beri beraberlerdi: Soner Olgun'un eski eşinden duygusal veda: 'Sana nasıl veda edeceğim?'"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Soner Olgun için Harbiye Muhsin Ertuğrul Sahnesi’nde veda töreni düzenlendi",
-      "normalized_title": "soner olgun icin harbiye muhsin ertugrul sahnesi nde veda toreni duzenlendi",
-      "url": "https://www.evrensel.net/haber/6005487/soner-olgun-icin-harbiye-muhsin-ertugrul-sahnesinde-veda-toreni-duzenlendi",
-      "source": "evrensel.net",
-      "source_role": "publisher",
-      "source_domain": "evrensel.net",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.431493+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "evrensel.net",
-          "source_domain": "evrensel.net",
-          "url": "https://www.evrensel.net/haber/6005487/soner-olgun-icin-harbiye-muhsin-ertugrul-sahnesinde-veda-toreni-duzenlendi",
-          "title": "Soner Olgun için Harbiye Muhsin Ertuğrul Sahnesi’nde veda töreni düzenlendi"
-        }
-      ],
-      "publisher_domains": [
-        "evrensel.net"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -989,7 +663,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.431739+00:00",
+      "collected_at": "2026-10-18T16:06:06.068352+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1017,6 +691,524 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "İlyas Yalçıntaş İçin 10 Yıl Hapis İsteniyor! İfadesi Dikkat Çekti: “Kavanozdaki Kekik, Terazi Diyet İçin”",
+      "normalized_title": "ilyas yalcintas icin 10 yil hapis isteniyor ifadesi dikkat cekti kavanozdaki kekik terazi diyet icin",
+      "url": "https://onedio.com/haber/ilyas-yalcintas-icin-10-yil-hapis-isteniyor-ifadesi-dikkat-cekti-kavanozdaki-kekik-terazi-diyet-icin-1389292",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T16:06:06.068480+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/ilyas-yalcintas-icin-10-yil-hapis-isteniyor-ifadesi-dikkat-cekti-kavanozdaki-kekik-terazi-diyet-icin-1389292",
+          "title": "İlyas Yalçıntaş İçin 10 Yıl Hapis İsteniyor! İfadesi Dikkat Çekti: “Kavanozdaki Kekik, Terazi Diyet İçin”"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ünlü şarkıcı İlyas Yalçıntaş'ın uyuşturucudan 10 yıla kadar hapsi isteniyor",
+      "normalized_title": "unlu sarkici ilyas yalcintas in uyusturucudan 10 yila kadar hapsi isteniyor",
+      "url": "https://www.sozcu.com.tr/unlu-sarkici-ilyas-yalcintas-a-en-az-10-yil-hapis-talebi-p370291",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T16:06:06.068564+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/unlu-sarkici-ilyas-yalcintas-a-en-az-10-yil-hapis-talebi-p370291",
+          "title": "Ünlü şarkıcı İlyas Yalçıntaş'ın uyuşturucudan 10 yıla kadar hapsi isteniyor"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "İlyas Yalçıntaş hakkında 'uyuşturucu' iddianamesi: En az 10 yıl hapsi istendi!",
+      "normalized_title": "ilyas yalcintas hakkinda uyusturucu iddianamesi en az 10 yil hapsi istendi",
+      "url": "https://www.cumhuriyet.com.tr/turkiye/ilyas-yalcintas-hakkinda-uyusturucu-iddianamesi-en-az-10-yil-hapsi-istendi-2547830",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T16:06:06.068646+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/ilyas-yalcintas-hakkinda-uyusturucu-iddianamesi-en-az-10-yil-hapsi-istendi-2547830",
+          "title": "İlyas Yalçıntaş hakkında 'uyuşturucu' iddianamesi: En az 10 yıl hapsi istendi!"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Son dakika | İşte İlyas Yalçıntaş için istenen ceza: İddianamaden şok detaylar! Uyuşturucu yazışmaları ortaya çıktı",
+      "normalized_title": "son dakika iste ilyas yalcintas icin istenen ceza iddianamaden sok detaylar uyusturucu yazismalari ortaya cikti",
+      "url": "https://www.sabah.com.tr/yasam/sarkici-ilyas-yalcintas-hakkinda-iddianame-tamamlandi-10-yildan-az-olmamak-uzere-hapis-istemi-7683199",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T16:06:06.068745+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/yasam/sarkici-ilyas-yalcintas-hakkinda-iddianame-tamamlandi-10-yildan-az-olmamak-uzere-hapis-istemi-7683199",
+          "title": "Son dakika | İşte İlyas Yalçıntaş için istenen ceza: İddianamaden şok detaylar! Uyuşturucu yazışmaları ortaya çıktı"
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Sürpriz aşkta mutlu son: Liz Hurley ile Billy Ray Cyrus evlilik yolunda ilk adımı attı",
+      "normalized_title": "surpriz askta mutlu son liz hurley ile billy ray cyrus evlilik yolunda ilk adimi atti",
+      "url": "https://www.cumhuriyet.com.tr/magazin/surpriz-askta-mutlu-son-liz-hurley-ile-billy-ray-cyrus-evlilik-yolunda-ilk-adimi-atti-2547921",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T16:06:06.069209+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/surpriz-askta-mutlu-son-liz-hurley-ile-billy-ray-cyrus-evlilik-yolunda-ilk-adimi-atti-2547921",
+          "title": "Sürpriz aşkta mutlu son: Liz Hurley ile Billy Ray Cyrus evlilik yolunda ilk adımı attı"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "12 yıllık evlilik tek celsede bitmişti.. Pelin Karahan boşanma nedenini açıkladı",
+      "normalized_title": "12 yillik evlilik tek celsede bitmisti pelin karahan bosanma nedenini acikladi",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/12-yillik-evlilik-tek-celsede-bitmisti-pelin-karahan-bosanma-nedenini-acikladi-43339796",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T16:06:06.069568+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/12-yillik-evlilik-tek-celsede-bitmisti-pelin-karahan-bosanma-nedenini-acikladi-43339796",
+          "title": "12 yıllık evlilik tek celsede bitmişti.. Pelin Karahan boşanma nedenini açıkladı"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Pelin Karahan'ın eşi Bedri Güntay kimdir? Kaç yaşında, hangi üniversiteden mezun?",
+      "normalized_title": "pelin karahan in esi bedri guntay kimdir kac yasinda hangi universiteden mezun",
+      "url": "https://www.guneydoguekspres.com/pelin-karahanin-esi-bedri-guntay-kimdir-kac-yasinda-hangi-universiteden-mezun",
+      "source": "guneydoguekspres.com",
+      "source_role": "publisher",
+      "source_domain": "guneydoguekspres.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T16:06:06.069647+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "guneydoguekspres.com",
+          "source_domain": "guneydoguekspres.com",
+          "url": "https://www.guneydoguekspres.com/pelin-karahanin-esi-bedri-guntay-kimdir-kac-yasinda-hangi-universiteden-mezun",
+          "title": "Pelin Karahan'ın eşi Bedri Güntay kimdir? Kaç yaşında, hangi üniversiteden mezun?"
+        }
+      ],
+      "publisher_domains": [
+        "guneydoguekspres.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Soner Olgun son yolculuğuna uğurlandı",
+      "normalized_title": "soner olgun son yolculuguna ugurlandi",
+      "url": "https://www.ntv.com.tr/yasam/galeri-soner-olgun-son-yolculuguna-ugurlandi-1746813",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T16:06:06.069707+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-soner-olgun-son-yolculuguna-ugurlandi-1746813",
+          "title": "Soner Olgun son yolculuğuna uğurlandı"
+        }
+      ],
+      "publisher_domains": [
+        "ntv.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Emre Altuğ’dan 70 yıllık Türk pop hafızası: 'Bir Pop Masalı' ile sahnede yeni bir soluk",
+      "normalized_title": "emre altug dan 70 yillik turk pop hafizasi bir pop masali ile sahnede yeni bir soluk",
+      "url": "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/emre-altug-dan-70-yillik-turk-pop-hafizasi-bir-pop-masali-ile-sahnede-yeni-bir-soluk-2547826",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T16:06:06.069795+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/emre-altug-dan-70-yillik-turk-pop-hafizasi-bir-pop-masali-ile-sahnede-yeni-bir-soluk-2547826",
+          "title": "Emre Altuğ’dan 70 yıllık Türk pop hafızası: 'Bir Pop Masalı' ile sahnede yeni bir soluk"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Teoman'ın kızı Zeyno büyüdü",
+      "normalized_title": "teoman in kizi zeyno buyudu",
+      "url": "https://www.hurriyet.com.tr/galeri-teomanin-kizi-zeyno-buyudu-43345833",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T16:06:06.069851+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/galeri-teomanin-kizi-zeyno-buyudu-43345833",
+          "title": "Teoman'ın kızı Zeyno büyüdü"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Alpay’ın ardından: Haysiyetle yaşamak",
+      "normalized_title": "alpay in ardindan haysiyetle yasamak",
+      "url": "https://www.birgun.net/makale/alpayin-ardindan-haysiyetle-yasamak-740985",
+      "source": "birgun.net",
+      "source_role": "publisher",
+      "source_domain": "birgun.net",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T16:06:06.069910+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "birgun.net",
+          "source_domain": "birgun.net",
+          "url": "https://www.birgun.net/makale/alpayin-ardindan-haysiyetle-yasamak-740985",
+          "title": "Alpay’ın ardından: Haysiyetle yaşamak"
+        }
+      ],
+      "publisher_domains": [
+        "birgun.net"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Alpay'a veda... Usta sanatçı son yolculuğuna uğurlandı",
+      "normalized_title": "alpay a veda usta sanatci son yolculuguna ugurlandi",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/alpaya-veda-usta-sanatci-son-yolculuguna-ugurlandi-43344326",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T16:06:06.069976+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/alpaya-veda-usta-sanatci-son-yolculuguna-ugurlandi-43344326",
+          "title": "Alpay'a veda... Usta sanatçı son yolculuğuna uğurlandı"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Alpay'ın Defin Yeri Tartışma Yarattı: Cenazesinin Yeri Hayat Arkadaşı ile Ailesini Karşı Karşıya Getirdi",
+      "normalized_title": "alpay in defin yeri tartisma yaratti cenazesinin yeri hayat arkadasi ile ailesini karsi karsiya getirdi",
+      "url": "https://onedio.com/haber/alpay-in-defin-yeri-tartisma-yaratti-hayat-arkadasi-bodrum-dedi-aile-ankara-da-topraga-vermeye-karar-verdi-1388883",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T16:06:06.070066+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/alpay-in-defin-yeri-tartisma-yaratti-hayat-arkadasi-bodrum-dedi-aile-ankara-da-topraga-vermeye-karar-verdi-1388883",
+          "title": "Alpay'ın Defin Yeri Tartışma Yarattı: Cenazesinin Yeri Hayat Arkadaşı ile Ailesini Karşı Karşıya Getirdi"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Şarkıcı Alpay hayatını kaybetti",
+      "normalized_title": "sarkici alpay hayatini kaybetti",
+      "url": "https://www.diken.com.tr/sarkici-alpay-hayatini-kaybetti/",
+      "source": "diken.com.tr",
+      "source_role": "publisher",
+      "source_domain": "diken.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T16:06:06.070122+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "diken.com.tr",
+          "source_domain": "diken.com.tr",
+          "url": "https://www.diken.com.tr/sarkici-alpay-hayatini-kaybetti/",
+          "title": "Şarkıcı Alpay hayatını kaybetti"
+        }
+      ],
+      "publisher_domains": [
+        "diken.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Özge Gürel: “Acıların ve Mutlulukların Evrensel Olduğuna İnanıyorum”",
       "normalized_title": "ozge gurel acilarin ve mutluluklarin evrensel olduguna inaniyorum",
       "url": "https://vogue.com.tr/sinema/ozge-gurel-acilarin-ve-mutluluklarin-evrensel-olduguna-inaniyorum",
@@ -1026,7 +1218,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.431981+00:00",
+      "collected_at": "2026-10-18T16:06:06.070269+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1063,7 +1255,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.432038+00:00",
+      "collected_at": "2026-10-18T16:06:06.070321+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1091,154 +1283,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Berfu Yenenler: Evin önü göl oldu",
-      "normalized_title": "berfu yenenler evin onu gol oldu",
-      "url": "https://www.haberturk.com/magazin/foto/berfu-yenenler-evin-onu-gol-oldu-3920126",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.432161+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/berfu-yenenler-evin-onu-gol-oldu-3920126",
-          "title": "Berfu Yenenler: Evin önü göl oldu"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Kemerburgaz'da korku dolu anlar... Evinin önü göl oldu",
-      "normalized_title": "kemerburgaz da korku dolu anlar evinin onu gol oldu",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/kemerburgazda-korku-dolu-anlar-evinin-onu-gol-oldu-43343510",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.432226+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/kemerburgazda-korku-dolu-anlar-evinin-onu-gol-oldu-43343510",
-          "title": "Kemerburgaz'da korku dolu anlar... Evinin önü göl oldu"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Sağanak İdo ve Yasemin Tatlıses'in Villasının Alt Katını Su Altında Bıraktı!",
-      "normalized_title": "saganak ido ve yasemin tatlises in villasinin alt katini su altinda birakti",
-      "url": "https://onedio.com/haber/saganak-ido-ve-yasemin-tatlises-in-villasinin-alt-katini-su-altinda-birakti-sesim-bu-yuzden-cikmiyor-1388975",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.432304+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/saganak-ido-ve-yasemin-tatlises-in-villasinin-alt-katini-su-altinda-birakti-sesim-bu-yuzden-cikmiyor-1388975",
-          "title": "Sağanak İdo ve Yasemin Tatlıses'in Villasının Alt Katını Su Altında Bıraktı!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Alişan’ın lüks villasını su bastı! Yardımına itfaiye ekipleri yetişti",
-      "normalized_title": "alisan in luks villasini su basti yardimina itfaiye ekipleri yetisti",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/alisanin-luks-villasini-su-basti-yardimina-itfaiye-ekipleri-yetisti",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.432379+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/alisanin-luks-villasini-su-basti-yardimina-itfaiye-ekipleri-yetisti",
-          "title": "Alişan’ın lüks villasını su bastı! Yardımına itfaiye ekipleri yetişti"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Sora’ya 90’lar partisi",
       "normalized_title": "sora ya 90 lar partisi",
       "url": "https://www.hurriyet.com.tr/kelebek/hayat/soraya-90lar-partisi-43344615",
@@ -1248,7 +1292,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.432431+00:00",
+      "collected_at": "2026-10-18T16:06:06.070465+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1285,7 +1329,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.432524+00:00",
+      "collected_at": "2026-10-18T16:06:06.070562+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1299,43 +1343,6 @@
       ],
       "publisher_domains": [
         "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "İrem Helvacıoğlu’nun kızı Sora 1 yaşında! 90’lar temalı kutlama",
-      "normalized_title": "irem helvacioglu nun kizi sora 1 yasinda 90 lar temali kutlama",
-      "url": "https://www.sondakika.com/magazin/haber-irem-helvacioglunun-kizi-sora-1-yasinda-90lar-20336645/",
-      "source": "sondakika.com",
-      "source_role": "publisher",
-      "source_domain": "sondakika.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-18T11:29:55.432597+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sondakika.com",
-          "source_domain": "sondakika.com",
-          "url": "https://www.sondakika.com/magazin/haber-irem-helvacioglunun-kizi-sora-1-yasinda-90lar-20336645/",
-          "title": "İrem Helvacıoğlu’nun kızı Sora 1 yaşında! 90’lar temalı kutlama"
-        }
-      ],
-      "publisher_domains": [
-        "sondakika.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
