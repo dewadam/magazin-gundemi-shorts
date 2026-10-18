@@ -1,131 +1,152 @@
 {
-  "generated_at": "2026-10-17T15:52:20.111888+00:00",
+  "generated_at": "2026-10-18T07:04:29.094556+00:00",
   "candidate_count": 100,
-  "event_group_count": 52,
-  "multi_publisher_event_count": 7,
+  "event_group_count": 51,
+  "multi_publisher_event_count": 6,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Usta sanatçıdan acı haber geldi... Soner Olgun hayatını kaybetti",
-      "normalized_title": "usta sanatcidan aci haber geldi soner olgun hayatini kaybetti",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/soner-olgun-hayatini-kaybetti-43343699",
-      "source": "hurriyet.com.tr",
+      "title": "Can Bonomo’nun acı günü: Ünlü sanatçının babası hayatını kaybetti",
+      "normalized_title": "can bonomo nun aci gunu unlu sanatcinin babasi hayatini kaybetti",
+      "url": "https://www.odatv.com/magazin/can-bonomonun-aci-gunu-unlu-sanatcinin-babasi-yasar-bonomo-hayatini-kaybetti-120167148",
+      "source": "odatv.com",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.477850+00:00",
+      "collected_at": "2026-10-18T07:03:53.143133+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "gazeteoksijen.com",
-          "source_domain": "gazeteoksijen.com",
-          "url": "https://gazeteoksijen.com/turkiye/muzisyen-soner-olgun-hayatini-kaybetti-292915",
-          "title": "Müzisyen Soner Olgun hayatını kaybetti"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/can-bonomonun-aci-gunu-unlu-sanatcinin-babasi-yasar-bonomo-hayatini-kaybetti-120167148",
+          "title": "Can Bonomo’nun acı günü: Ünlü sanatçının babası hayatını kaybetti"
+        },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/yasar-bonomo-kimdir-ne-is-yapiyordu-can-bonomo-nun-babasi-yasar-bonomo-hayatini-kaybetti-1389245",
+          "title": "Yaşar Bonomo Kimdir, Ne İş Yapıyordu? Can Bonomo'nun Babası Yaşar Bonomo Hayatını Kaybetti"
         },
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/soner-olgun-hayatini-kaybetti-43343699",
-          "title": "Usta sanatçıdan acı haber geldi... Soner Olgun hayatını kaybetti"
-        }
-      ],
-      "publisher_domains": [
-        "gazeteoksijen.com",
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Müge Zop'tan İbrahim Karakaş'a evlilik yanıtı: \"Geri adım attım\"",
-      "normalized_title": "muge zop tan ibrahim karakas a evlilik yaniti geri adim attim",
-      "url": "https://www.bursadabugun.com/haber/muge-zop-tan-ibrahim-karakas-a-evlilik-yaniti-geri-adim-attim-1957032.html",
-      "source": "bursadabugun.com",
-      "source_role": "publisher",
-      "source_domain": "bursadabugun.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.478828+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
+          "url": "https://www.hurriyet.com.tr/bilgi/yasar-bonomo-kimdir-ne-is-yapar-can-bonomonun-babasi-yasar-bonomo-hayatini-kaybetti-43345721",
+          "title": "Yaşar Bonomo kimdir, ne iş yapar? Can Bonomo'nun babası Yaşar Bonomo hayatını kaybetti"
+        },
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/muge-zop-evlilikten-geri-adim-attim-3920343",
-          "title": "Müge Zop: Evlilikten geri adım attım"
-        },
-        {
-          "source": "bursadabugun.com",
-          "source_domain": "bursadabugun.com",
-          "url": "https://www.bursadabugun.com/haber/muge-zop-tan-ibrahim-karakas-a-evlilik-yaniti-geri-adim-attim-1957032.html",
-          "title": "Müge Zop'tan İbrahim Karakaş'a evlilik yanıtı: \"Geri adım attım\""
+          "url": "https://www.haberturk.com/magazin/can-bonomonun-babasi-yasar-bonomo-hayatini-kaybetti-3920522",
+          "title": "Can Bonomo'nun babası Yaşar Bonomo hayatını kaybetti"
         }
       ],
       "publisher_domains": [
-        "bursadabugun.com",
-        "haberturk.com"
+        "haberturk.com",
+        "hurriyet.com.tr",
+        "odatv.com",
+        "onedio.com"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 4,
+      "direct_article_count": 4,
+      "event_member_count": 4,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 40.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Charlie Cox'tan Bir Başkadır önerisi: \"Bir Türk dizisi...\" - Kültür Sanat Haberleri",
-      "normalized_title": "charlie cox tan bir baskadir onerisi bir turk dizisi kultur sanat haberleri",
-      "url": "https://www.mynet.com/magazin/daredevil-yildizi-charlie-cox-tan-bir-baskadir-onerisi-bir-turk-dizisi-130100604489",
-      "source": "mynet.com",
+      "title": "Peker Açıkalın'dan yapımcılara çağrı: Para lazım, tekliflere açığım",
+      "normalized_title": "peker acikalin dan yapimcilara cagri para lazim tekliflere acigim",
+      "url": "https://t24.com.tr/magazin/peker-acikalindan-yapimcilara-cagri-para-lazim-tekliflere-acigim,1353809",
+      "source": "t24.com.tr",
       "source_role": "publisher",
-      "source_domain": "mynet.com",
+      "source_domain": "t24.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.479792+00:00",
+      "collected_at": "2026-10-18T07:03:53.142729+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "mynet.com",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/daredevil-yildizi-charlie-cox-tan-bir-baskadir-onerisi-bir-turk-dizisi-130100604489",
-          "title": "Charlie Cox'tan Bir Başkadır önerisi: \"Bir Türk dizisi...\" - Kültür Sanat Haberleri"
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/peker-acikalindan-yapimcilara-cagri-para-lazim-tekliflere-acigim,1353809",
+          "title": "Peker Açıkalın'dan yapımcılara çağrı: Para lazım, tekliflere açığım"
         },
         {
           "source": "haberler.com",
           "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/magazin/charlie-coxtan-bir-baskadira-ovgu-oyunculuklar-20331777-haberi/",
-          "title": "Ünlü oyuncu Charlie Cox’tan “Bir Başkadır”a övgü: Oyunculuklar muhteşemdi"
+          "url": "https://www.haberler.com/haberler/peker-acikalindan-dikkat-ceken-cikis-para-lazim-20340819-haberi/",
+          "title": "Peker Açıkalın’dan dikkat çeken çıkış: Para lazım, para!"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/peker-acikalin-tekliflere-acigim-para-lazim-3920546",
+          "title": "Peker Açıkalın: Tekliflere açığım, para lazım"
         }
       ],
       "publisher_domains": [
         "haberler.com",
-        "mynet.com"
+        "haberturk.com",
+        "t24.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Soner Olgun'un eski eşi Özlem Koldaş kimdir, ne iş yapar? Evliliği ve çocuğu",
+      "normalized_title": "soner olgun un eski esi ozlem koldas kimdir ne is yapar evliligi ve cocugu",
+      "url": "https://www.antalyahurses.com/soner-olgunun-eski-esi-ozlem-koldas-kimdir-ne-is-yapar-evliligi-ve-cocugu/559998",
+      "source": "antalyahurses.com",
+      "source_role": "publisher",
+      "source_domain": "antalyahurses.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T07:03:53.140617+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "antalyahurses.com",
+          "source_domain": "antalyahurses.com",
+          "url": "https://www.antalyahurses.com/soner-olgunun-eski-esi-ozlem-koldas-kimdir-ne-is-yapar-evliligi-ve-cocugu/559998",
+          "title": "Soner Olgun'un eski eşi Özlem Koldaş kimdir, ne iş yapar? Evliliği ve çocuğu"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/ozlem-koldas-tan-soner-olgun-a-duygusal-veda-3920363",
+          "title": "Özlem Koldaş'tan Soner Olgun'a duygusal veda"
+        }
+      ],
+      "publisher_domains": [
+        "antalyahurses.com",
+        "haberturk.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -142,43 +163,101 @@
   ],
   "event_groups_preview": [
     {
-      "title": "Hafsanur Sancaktutan'ın 17 yaşındaki hali ortaya çıktı! Çegingen tavrı olay",
-      "normalized_title": "hafsanur sancaktutan in 17 yasindaki hali ortaya cikti cegingen tavri olay",
-      "url": "https://www.internethaber.com/hafsanur-sancaktutanin-17-yasindaki-hali-ortaya-cikti-cegingen-tavri-olay-foto-galerisi-2464319.htm",
-      "source": "internethaber.com",
+      "title": "Can Bonomo’nun acı günü: Ünlü sanatçının babası hayatını kaybetti",
+      "normalized_title": "can bonomo nun aci gunu unlu sanatcinin babasi hayatini kaybetti",
+      "url": "https://www.odatv.com/magazin/can-bonomonun-aci-gunu-unlu-sanatcinin-babasi-yasar-bonomo-hayatini-kaybetti-120167148",
+      "source": "odatv.com",
       "source_role": "publisher",
-      "source_domain": "internethaber.com",
+      "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.478987+00:00",
+      "collected_at": "2026-10-18T07:03:53.143133+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "internethaber.com",
-          "source_domain": "internethaber.com",
-          "url": "https://www.internethaber.com/hafsanur-sancaktutanin-17-yasindaki-hali-ortaya-cikti-cegingen-tavri-olay-foto-galerisi-2464319.htm",
-          "title": "Hafsanur Sancaktutan'ın 17 yaşındaki hali ortaya çıktı! Çegingen tavrı olay"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/can-bonomonun-aci-gunu-unlu-sanatcinin-babasi-yasar-bonomo-hayatini-kaybetti-120167148",
+          "title": "Can Bonomo’nun acı günü: Ünlü sanatçının babası hayatını kaybetti"
         },
         {
-          "source": "haber.com",
-          "source_domain": "haber.com",
-          "url": "https://www.haber.com/magazin/hafsanur-sancaktutanin-17-yasindaki-goruntuleri-ortaya-cikti-28718",
-          "title": "Hafsanur Sancaktutan'ın 17 Yaşındaki Görüntüleri Ortaya Çıktı"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/yasar-bonomo-kimdir-ne-is-yapiyordu-can-bonomo-nun-babasi-yasar-bonomo-hayatini-kaybetti-1389245",
+          "title": "Yaşar Bonomo Kimdir, Ne İş Yapıyordu? Can Bonomo'nun Babası Yaşar Bonomo Hayatını Kaybetti"
         },
         {
-          "source": "haber3.com",
-          "source_domain": "haber3.com",
-          "url": "https://www.haber3.com/foto-galeri/haber/hafsanur-sancaktutanin-17-yasindaki-ajans-videosu-olay-oldu-galeri-6267141",
-          "title": "Hafsanur Sancaktutan’ın 17 yaşındaki ajans videosu olay oldu"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/bilgi/yasar-bonomo-kimdir-ne-is-yapar-can-bonomonun-babasi-yasar-bonomo-hayatini-kaybetti-43345721",
+          "title": "Yaşar Bonomo kimdir, ne iş yapar? Can Bonomo'nun babası Yaşar Bonomo hayatını kaybetti"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/can-bonomonun-babasi-yasar-bonomo-hayatini-kaybetti-3920522",
+          "title": "Can Bonomo'nun babası Yaşar Bonomo hayatını kaybetti"
         }
       ],
       "publisher_domains": [
-        "haber.com",
-        "haber3.com",
-        "internethaber.com"
+        "haberturk.com",
+        "hurriyet.com.tr",
+        "odatv.com",
+        "onedio.com"
+      ],
+      "publisher_count": 4,
+      "direct_article_count": 4,
+      "event_member_count": 4,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 40.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Peker Açıkalın'dan yapımcılara çağrı: Para lazım, tekliflere açığım",
+      "normalized_title": "peker acikalin dan yapimcilara cagri para lazim tekliflere acigim",
+      "url": "https://t24.com.tr/magazin/peker-acikalindan-yapimcilara-cagri-para-lazim-tekliflere-acigim,1353809",
+      "source": "t24.com.tr",
+      "source_role": "publisher",
+      "source_domain": "t24.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T07:03:53.142729+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/peker-acikalindan-yapimcilara-cagri-para-lazim-tekliflere-acigim,1353809",
+          "title": "Peker Açıkalın'dan yapımcılara çağrı: Para lazım, tekliflere açığım"
+        },
+        {
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/haberler/peker-acikalindan-dikkat-ceken-cikis-para-lazim-20340819-haberi/",
+          "title": "Peker Açıkalın’dan dikkat çeken çıkış: Para lazım, para!"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/peker-acikalin-tekliflere-acigim-para-lazim-3920546",
+          "title": "Peker Açıkalın: Tekliflere açığım, para lazım"
+        }
+      ],
+      "publisher_domains": [
+        "haberler.com",
+        "haberturk.com",
+        "t24.com.tr"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -202,7 +281,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.476058+00:00",
+      "collected_at": "2026-10-18T07:03:53.140128+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -237,36 +316,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "'Fabrika Kızı'nın unutulmaz sesi Alpay son yolculuğuna uğurlandı",
-      "normalized_title": "fabrika kizi nin unutulmaz sesi alpay son yolculuguna ugurlandi",
-      "url": "https://www.cumhuriyet.com.tr/yasam/fabrika-kizi-nin-unutulmaz-sesi-alpay-son-yolculuguna-ugurlandi-2547384",
-      "source": "cumhuriyet.com.tr",
+      "title": "Soner Olgun'un eski eşi Özlem Koldaş kimdir, ne iş yapar? Evliliği ve çocuğu",
+      "normalized_title": "soner olgun un eski esi ozlem koldas kimdir ne is yapar evliligi ve cocugu",
+      "url": "https://www.antalyahurses.com/soner-olgunun-eski-esi-ozlem-koldas-kimdir-ne-is-yapar-evliligi-ve-cocugu/559998",
+      "source": "antalyahurses.com",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "antalyahurses.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.476603+00:00",
+      "collected_at": "2026-10-18T07:03:53.140617+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "trthaber.com",
-          "source_domain": "trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/sarkici-alpay-son-yolculuguna-ugurlandi-960308.html",
-          "title": "Şarkıcı Alpay son yolculuğuna uğurlandı"
+          "source": "antalyahurses.com",
+          "source_domain": "antalyahurses.com",
+          "url": "https://www.antalyahurses.com/soner-olgunun-eski-esi-ozlem-koldas-kimdir-ne-is-yapar-evliligi-ve-cocugu/559998",
+          "title": "Soner Olgun'un eski eşi Özlem Koldaş kimdir, ne iş yapar? Evliliği ve çocuğu"
         },
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/fabrika-kizi-nin-unutulmaz-sesi-alpay-son-yolculuguna-ugurlandi-2547384",
-          "title": "'Fabrika Kızı'nın unutulmaz sesi Alpay son yolculuğuna uğurlandı"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/ozlem-koldas-tan-soner-olgun-a-duygusal-veda-3920363",
+          "title": "Özlem Koldaş'tan Soner Olgun'a duygusal veda"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "trthaber.com"
+        "antalyahurses.com",
+        "haberturk.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -290,7 +369,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.476865+00:00",
+      "collected_at": "2026-10-18T07:03:53.140832+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -325,50 +404,6 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Usta sanatçıdan acı haber geldi... Soner Olgun hayatını kaybetti",
-      "normalized_title": "usta sanatcidan aci haber geldi soner olgun hayatini kaybetti",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/soner-olgun-hayatini-kaybetti-43343699",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.477850+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "gazeteoksijen.com",
-          "source_domain": "gazeteoksijen.com",
-          "url": "https://gazeteoksijen.com/turkiye/muzisyen-soner-olgun-hayatini-kaybetti-292915",
-          "title": "Müzisyen Soner Olgun hayatını kaybetti"
-        },
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/soner-olgun-hayatini-kaybetti-43343699",
-          "title": "Usta sanatçıdan acı haber geldi... Soner Olgun hayatını kaybetti"
-        }
-      ],
-      "publisher_domains": [
-        "gazeteoksijen.com",
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
       "title": "Müge Zop'tan İbrahim Karakaş'a evlilik yanıtı: \"Geri adım attım\"",
       "normalized_title": "muge zop tan ibrahim karakas a evlilik yaniti geri adim attim",
       "url": "https://www.bursadabugun.com/haber/muge-zop-tan-ibrahim-karakas-a-evlilik-yaniti-geri-adim-attim-1957032.html",
@@ -378,7 +413,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.478828+00:00",
+      "collected_at": "2026-10-18T07:03:53.141270+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -413,48 +448,41 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Charlie Cox'tan Bir Başkadır önerisi: \"Bir Türk dizisi...\" - Kültür Sanat Haberleri",
-      "normalized_title": "charlie cox tan bir baskadir onerisi bir turk dizisi kultur sanat haberleri",
-      "url": "https://www.mynet.com/magazin/daredevil-yildizi-charlie-cox-tan-bir-baskadir-onerisi-bir-turk-dizisi-130100604489",
-      "source": "mynet.com",
+      "title": "Teoman'ın kızı Zeyno büyüdü",
+      "normalized_title": "teoman in kizi zeyno buyudu",
+      "url": "https://www.hurriyet.com.tr/galeri-teomanin-kizi-zeyno-buyudu-43345833",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "mynet.com",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.479792+00:00",
+      "collected_at": "2026-10-18T07:03:53.139943+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "mynet.com",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/daredevil-yildizi-charlie-cox-tan-bir-baskadir-onerisi-bir-turk-dizisi-130100604489",
-          "title": "Charlie Cox'tan Bir Başkadır önerisi: \"Bir Türk dizisi...\" - Kültür Sanat Haberleri"
-        },
-        {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/magazin/charlie-coxtan-bir-baskadira-ovgu-oyunculuklar-20331777-haberi/",
-          "title": "Ünlü oyuncu Charlie Cox’tan “Bir Başkadır”a övgü: Oyunculuklar muhteşemdi"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/galeri-teomanin-kizi-zeyno-buyudu-43345833",
+          "title": "Teoman'ın kızı Zeyno büyüdü"
         }
       ],
       "publisher_domains": [
-        "haberler.com",
-        "mynet.com"
+        "hurriyet.com.tr"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 10.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "multi_publisher"
+      "coverage_label": "single_publisher"
     },
     {
       "title": "Popstar Bayhan din mi değiştirdi? İddialara bakın ne yanıt verdi!",
@@ -466,7 +494,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.476148+00:00",
+      "collected_at": "2026-10-18T07:03:53.140209+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -503,7 +531,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.476250+00:00",
+      "collected_at": "2026-10-18T07:03:53.140299+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -531,16 +559,127 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Bu Kez Kardeşleriyle Gündemde: Sadettin Saran'ın Yemek Karesinde Yeni İmajı Dikkat Çekti!",
-      "normalized_title": "bu kez kardesleriyle gundemde sadettin saran in yemek karesinde yeni imaji dikkat cekti",
-      "url": "https://onedio.com/haber/bu-kez-kardesleriyle-gundemde-sadettin-saran-in-yemek-karesinde-yeni-imaji-dikkat-cekti-1389170",
+      "title": "Alpay'ın cenazesinin yeri hayat arkadaşı ile ailesini birbirine düşürdü",
+      "normalized_title": "alpay in cenazesinin yeri hayat arkadasi ile ailesini birbirine dusurdu",
+      "url": "https://www.sozcu.com.tr/cenazenin-yeri-hayat-arkadasi-ile-ailesini-birbirine-dusurdu-p369699",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T07:03:53.140371+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/cenazenin-yeri-hayat-arkadasi-ile-ailesini-birbirine-dusurdu-p369699",
+          "title": "Alpay'ın cenazesinin yeri hayat arkadaşı ile ailesini birbirine düşürdü"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Alpay'a veda... Usta sanatçı son yolculuğuna uğurlandı",
+      "normalized_title": "alpay a veda usta sanatci son yolculuguna ugurlandi",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/alpaya-veda-usta-sanatci-son-yolculuguna-ugurlandi-43344326",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T07:03:53.140440+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/alpaya-veda-usta-sanatci-son-yolculuguna-ugurlandi-43344326",
+          "title": "Alpay'a veda... Usta sanatçı son yolculuğuna uğurlandı"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Şarkıcı Alpay hayatını kaybetti",
+      "normalized_title": "sarkici alpay hayatini kaybetti",
+      "url": "https://www.diken.com.tr/sarkici-alpay-hayatini-kaybetti/",
+      "source": "diken.com.tr",
+      "source_role": "publisher",
+      "source_domain": "diken.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T07:03:53.140493+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "diken.com.tr",
+          "source_domain": "diken.com.tr",
+          "url": "https://www.diken.com.tr/sarkici-alpay-hayatini-kaybetti/",
+          "title": "Şarkıcı Alpay hayatını kaybetti"
+        }
+      ],
+      "publisher_domains": [
+        "diken.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Kimse Gerçek Adını Bilmiyor: Kim Bu Sanatçı?",
+      "normalized_title": "kimse gercek adini bilmiyor kim bu sanatci",
+      "url": "https://onedio.com/haber/kimse-gercek-adini-bilmiyor-kim-bu-sanatci-1383691",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.476341+00:00",
+      "collected_at": "2026-10-18T07:03:53.140548+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -548,8 +687,8 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/bu-kez-kardesleriyle-gundemde-sadettin-saran-in-yemek-karesinde-yeni-imaji-dikkat-cekti-1389170",
-          "title": "Bu Kez Kardeşleriyle Gündemde: Sadettin Saran'ın Yemek Karesinde Yeni İmajı Dikkat Çekti!"
+          "url": "https://onedio.com/haber/kimse-gercek-adini-bilmiyor-kim-bu-sanatci-1383691",
+          "title": "Kimse Gerçek Adını Bilmiyor: Kim Bu Sanatçı?"
         }
       ],
       "publisher_domains": [
@@ -568,29 +707,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Alpay'ın son yolculuğunda vasiyet krizi! 34 yıllık hayat arkadaşı törene katılmadı",
-      "normalized_title": "alpay in son yolculugunda vasiyet krizi 34 yillik hayat arkadasi torene katilmadi",
-      "url": "https://www.ahaber.com.tr/galeri/magazin/alpayin-son-yolculugunda-vasiyet-krizi-cikti",
-      "source": "ahaber.com.tr",
+      "title": "Bakan Çiftçi: 4 vatandaş kayıp. Birisi kendi çıkıp geldi",
+      "normalized_title": "bakan ciftci 4 vatandas kayip birisi kendi cikip geldi",
+      "url": "https://www.odatv.com/guncel/bakan-ciftci-4-vatandas-kayip-birisi-kendi-cikip-geldi-120166946",
+      "source": "odatv.com",
       "source_role": "publisher",
-      "source_domain": "ahaber.com.tr",
+      "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.476521+00:00",
+      "collected_at": "2026-10-18T07:03:53.140721+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ahaber.com.tr",
-          "source_domain": "ahaber.com.tr",
-          "url": "https://www.ahaber.com.tr/galeri/magazin/alpayin-son-yolculugunda-vasiyet-krizi-cikti",
-          "title": "Alpay'ın son yolculuğunda vasiyet krizi! 34 yıllık hayat arkadaşı törene katılmadı"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/guncel/bakan-ciftci-4-vatandas-kayip-birisi-kendi-cikip-geldi-120166946",
+          "title": "Bakan Çiftçi: 4 vatandaş kayıp. Birisi kendi çıkıp geldi"
         }
       ],
       "publisher_domains": [
-        "ahaber.com.tr"
+        "odatv.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -605,66 +744,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Alpay'ın Defin Yeri Tartışma Yarattı: Cenazesinin Yeri Hayat Arkadaşı ile Ailesini Karşı Karşıya Getirdi",
-      "normalized_title": "alpay in defin yeri tartisma yaratti cenazesinin yeri hayat arkadasi ile ailesini karsi karsiya getirdi",
-      "url": "https://onedio.com/haber/alpay-in-defin-yeri-tartisma-yaratti-hayat-arkadasi-bodrum-dedi-aile-ankara-da-topraga-vermeye-karar-verdi-1388883",
-      "source": "onedio.com",
+      "title": "Soner Olgun'u neden bu kadar çok sevdik?",
+      "normalized_title": "soner olgun u neden bu kadar cok sevdik",
+      "url": "https://www.evrensel.net/haber/6005226/soner-olgun-u-neden-bu-kadar-cok-sevdik",
+      "source": "evrensel.net",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "evrensel.net",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.476695+00:00",
+      "collected_at": "2026-10-18T07:03:53.140770+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/alpay-in-defin-yeri-tartisma-yaratti-hayat-arkadasi-bodrum-dedi-aile-ankara-da-topraga-vermeye-karar-verdi-1388883",
-          "title": "Alpay'ın Defin Yeri Tartışma Yarattı: Cenazesinin Yeri Hayat Arkadaşı ile Ailesini Karşı Karşıya Getirdi"
+          "source": "evrensel.net",
+          "source_domain": "evrensel.net",
+          "url": "https://www.evrensel.net/haber/6005226/soner-olgun-u-neden-bu-kadar-cok-sevdik",
+          "title": "Soner Olgun'u neden bu kadar çok sevdik?"
         }
       ],
       "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Var Mısın Yok Musun'da Başlayan Aşkın Meyvesi: Gizem ve Hakan Hatipoğlu'nun Kızları Lila Kocaman Oldu!",
-      "normalized_title": "var misin yok musun da baslayan askin meyvesi gizem ve hakan hatipoglu nun kizlari lila kocaman oldu",
-      "url": "https://onedio.com/haber/var-misin-yok-musun-da-baslayan-askin-meyvesi-gizem-ve-hakan-hatipoglu-nun-kizlari-lila-kocaman-oldu-1389181",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.476789+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/var-misin-yok-musun-da-baslayan-askin-meyvesi-gizem-ve-hakan-hatipoglu-nun-kizlari-lila-kocaman-oldu-1389181",
-          "title": "Var Mısın Yok Musun'da Başlayan Aşkın Meyvesi: Gizem ve Hakan Hatipoğlu'nun Kızları Lila Kocaman Oldu!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
+        "evrensel.net"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -688,7 +790,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.476941+00:00",
+      "collected_at": "2026-10-18T07:03:53.140892+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -725,7 +827,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.476994+00:00",
+      "collected_at": "2026-10-18T07:03:53.140933+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -753,6 +855,228 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "\"Bir yağlı kapı daha buldun\" demişti…İbrahim Karakaş’ın yeni eşi evi terk etti!",
+      "normalized_title": "bir yagli kapi daha buldun demisti ibrahim karakas in yeni esi evi terk etti",
+      "url": "https://www.sabah.com.tr/magazin/bir-yagli-kapi-daha-buldun-demistiibrahim-karakasin-yeni-esi-evi-terk-etti-7682665",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T07:03:53.141127+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/magazin/bir-yagli-kapi-daha-buldun-demistiibrahim-karakasin-yeni-esi-evi-terk-etti-7682665",
+          "title": "\"Bir yağlı kapı daha buldun\" demişti…İbrahim Karakaş’ın yeni eşi evi terk etti!"
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Dilber Ay'ın kızının açıklamaları sonrası flaş karar! Müge Zopun'dan sert çıkış",
+      "normalized_title": "dilber ay in kizinin aciklamalari sonrasi flas karar muge zopun dan sert cikis",
+      "url": "https://www.gunes.com/magazin/dilber-ayin-kizinin-aciklamalari-sonrasi-flas-karar-muge-zopundan-sert-cikis-1230251",
+      "source": "gunes.com",
+      "source_role": "publisher",
+      "source_domain": "gunes.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T07:03:53.141204+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "gunes.com",
+          "source_domain": "gunes.com",
+          "url": "https://www.gunes.com/magazin/dilber-ayin-kizinin-aciklamalari-sonrasi-flas-karar-muge-zopundan-sert-cikis-1230251",
+          "title": "Dilber Ay'ın kızının açıklamaları sonrası flaş karar! Müge Zopun'dan sert çıkış"
+        }
+      ],
+      "publisher_domains": [
+        "gunes.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Berfu Yenenler: Evin önü göl oldu",
+      "normalized_title": "berfu yenenler evin onu gol oldu",
+      "url": "https://www.haberturk.com/magazin/foto/berfu-yenenler-evin-onu-gol-oldu-3920126",
+      "source": "haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T07:03:53.141319+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/berfu-yenenler-evin-onu-gol-oldu-3920126",
+          "title": "Berfu Yenenler: Evin önü göl oldu"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Kemerburgaz'da korku dolu anlar... Evinin önü göl oldu",
+      "normalized_title": "kemerburgaz da korku dolu anlar evinin onu gol oldu",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/kemerburgazda-korku-dolu-anlar-evinin-onu-gol-oldu-43343510",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T07:03:53.141372+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/kemerburgazda-korku-dolu-anlar-evinin-onu-gol-oldu-43343510",
+          "title": "Kemerburgaz'da korku dolu anlar... Evinin önü göl oldu"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Sağanak İdo ve Yasemin Tatlıses'in Villasının Alt Katını Su Altında Bıraktı!",
+      "normalized_title": "saganak ido ve yasemin tatlises in villasinin alt katini su altinda birakti",
+      "url": "https://onedio.com/haber/saganak-ido-ve-yasemin-tatlises-in-villasinin-alt-katini-su-altinda-birakti-sesim-bu-yuzden-cikmiyor-1388975",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T07:03:53.141437+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/saganak-ido-ve-yasemin-tatlises-in-villasinin-alt-katini-su-altinda-birakti-sesim-bu-yuzden-cikmiyor-1388975",
+          "title": "Sağanak İdo ve Yasemin Tatlıses'in Villasının Alt Katını Su Altında Bıraktı!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Alişan’ın lüks villasını su bastı! Yardımına itfaiye ekipleri yetişti",
+      "normalized_title": "alisan in luks villasini su basti yardimina itfaiye ekipleri yetisti",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/alisanin-luks-villasini-su-basti-yardimina-itfaiye-ekipleri-yetisti",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-18T07:03:53.141499+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/alisanin-luks-villasini-su-basti-yardimina-itfaiye-ekipleri-yetisti",
+          "title": "Alişan’ın lüks villasını su bastı! Yardımına itfaiye ekipleri yetişti"
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Sora’ya 90’lar partisi",
       "normalized_title": "sora ya 90 lar partisi",
       "url": "https://www.hurriyet.com.tr/kelebek/hayat/soraya-90lar-partisi-43344615",
@@ -762,7 +1086,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.477122+00:00",
+      "collected_at": "2026-10-18T07:03:53.141542+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -799,7 +1123,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.477216+00:00",
+      "collected_at": "2026-10-18T07:03:53.141622+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -836,7 +1160,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.477290+00:00",
+      "collected_at": "2026-10-18T07:03:53.141684+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -873,7 +1197,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.477374+00:00",
+      "collected_at": "2026-10-18T07:03:53.141752+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -901,325 +1225,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Elif Buse Doğan: Şarkı bahane dostlar şahane",
-      "normalized_title": "elif buse dogan sarki bahane dostlar sahane",
-      "url": "https://www.hurriyet.com.tr/kelebek/stil/elif-buse-dogan-sarki-bahane-dostlar-sahane-43344617",
-      "source": "hurriyet.com.tr",
+      "title": "Var Mısın Yok Musun'da Başlayan Aşkın Meyvesi: Gizem ve Hakan Hatipoğlu'nun Kızları Lila Kocaman Oldu!",
+      "normalized_title": "var misin yok musun da baslayan askin meyvesi gizem ve hakan hatipoglu nun kizlari lila kocaman oldu",
+      "url": "https://onedio.com/haber/var-misin-yok-musun-da-baslayan-askin-meyvesi-gizem-ve-hakan-hatipoglu-nun-kizlari-lila-kocaman-oldu-1389181",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.477440+00:00",
+      "collected_at": "2026-10-18T07:03:53.141827+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/stil/elif-buse-dogan-sarki-bahane-dostlar-sahane-43344617",
-          "title": "Elif Buse Doğan: Şarkı bahane dostlar şahane"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/var-misin-yok-musun-da-baslayan-askin-meyvesi-gizem-ve-hakan-hatipoglu-nun-kizlari-lila-kocaman-oldu-1389181",
+          "title": "Var Mısın Yok Musun'da Başlayan Aşkın Meyvesi: Gizem ve Hakan Hatipoğlu'nun Kızları Lila Kocaman Oldu!"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "ELİF BUSE DOĞAN’DAN YENİ TEKLİ: \"ÇOK KEZ\"",
-      "normalized_title": "elif buse dogan dan yeni tekli cok kez",
-      "url": "https://www.kralmuzik.com.tr/haberler/elif-buse-dogandan-yeni-tekli-cok-kez",
-      "source": "kralmuzik.com.tr",
-      "source_role": "publisher",
-      "source_domain": "kralmuzik.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.477526+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "kralmuzik.com.tr",
-          "source_domain": "kralmuzik.com.tr",
-          "url": "https://www.kralmuzik.com.tr/haberler/elif-buse-dogandan-yeni-tekli-cok-kez",
-          "title": "ELİF BUSE DOĞAN’DAN YENİ TEKLİ: \"ÇOK KEZ\""
-        }
-      ],
-      "publisher_domains": [
-        "kralmuzik.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "'Yeni klibimde çocukluğuma döndüm'",
-      "normalized_title": "yeni klibimde cocukluguma dondum",
-      "url": "https://www.sabah.com.tr/magazin/yeni-klibimde-cocukluguma-dondum-7682172",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.477590+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/yeni-klibimde-cocukluguma-dondum-7682172",
-          "title": "'Yeni klibimde çocukluğuma döndüm'"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Elif Buse Doğan... BU KEZ AŞKIN EN KIRGIN HALİNİ ANLATTI!",
-      "normalized_title": "elif buse dogan bu kez askin en kirgin halini anlatti",
-      "url": "https://www.magazinkolik.com/elif-buse-dogan-bu-kez-askin-en-kirgin-halini-anlatti-111790h.htm",
-      "source": "magazinkolik.com",
-      "source_role": "publisher",
-      "source_domain": "magazinkolik.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.477661+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "magazinkolik.com",
-          "source_domain": "magazinkolik.com",
-          "url": "https://www.magazinkolik.com/elif-buse-dogan-bu-kez-askin-en-kirgin-halini-anlatti-111790h.htm",
-          "title": "Elif Buse Doğan... BU KEZ AŞKIN EN KIRGIN HALİNİ ANLATTI!"
-        }
-      ],
-      "publisher_domains": [
-        "magazinkolik.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Özlem Koldaş'tan Soner Olgun'a duygusal veda",
-      "normalized_title": "ozlem koldas tan soner olgun a duygusal veda",
-      "url": "https://www.haberturk.com/magazin/ozlem-koldas-tan-soner-olgun-a-duygusal-veda-3920363",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.477782+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/ozlem-koldas-tan-soner-olgun-a-duygusal-veda-3920363",
-          "title": "Özlem Koldaş'tan Soner Olgun'a duygusal veda"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Soner Olgun hayatını kaybetti! 45 yıllık dostu Hüseyin Avni Danyal'dan duygu yüklü veda",
-      "normalized_title": "soner olgun hayatini kaybetti 45 yillik dostu huseyin avni danyal dan duygu yuklu veda",
-      "url": "https://www.milliyet.com.tr/magazin/soner-olgun-hayatini-kaybetti-45-yillik-dostu-huseyin-avni-danyaldan-duygu-yuklu-veda-7681363",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.477932+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/soner-olgun-hayatini-kaybetti-45-yillik-dostu-huseyin-avni-danyaldan-duygu-yuklu-veda-7681363",
-          "title": "Soner Olgun hayatını kaybetti! 45 yıllık dostu Hüseyin Avni Danyal'dan duygu yüklü veda"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Herkes yüzüne ne yaptırdığını merak etti! Hülya Avşar güzellik sırrını açıkladı!",
-      "normalized_title": "herkes yuzune ne yaptirdigini merak etti hulya avsar guzellik sirrini acikladi",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/herkes-yuzune-ne-yaptirdigini-merak-etti-hulya-avsar-guzellik-sirrini-acikladi",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.478013+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/herkes-yuzune-ne-yaptirdigini-merak-etti-hulya-avsar-guzellik-sirrini-acikladi",
-          "title": "Herkes yüzüne ne yaptırdığını merak etti! Hülya Avşar güzellik sırrını açıkladı!"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "‘Fatma Girik’i izledim’",
-      "normalized_title": "fatma girik i izledim",
-      "url": "https://www.milliyet.com.tr/magazin/fatma-giriki-izledim-7681516",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.478066+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/fatma-giriki-izledim-7681516",
-          "title": "‘Fatma Girik’i izledim’"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Hülya Avşar, Kanlı Nigar’ı oynayacak: Karakter olarak benziyoruz",
-      "normalized_title": "hulya avsar kanli nigar i oynayacak karakter olarak benziyoruz",
-      "url": "https://www.sondakika.com/haber/haber-hulya-avsar-kanli-nigari-oynayacak-karakter-20335064/",
-      "source": "sondakika.com",
-      "source_role": "publisher",
-      "source_domain": "sondakika.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.478137+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sondakika.com",
-          "source_domain": "sondakika.com",
-          "url": "https://www.sondakika.com/haber/haber-hulya-avsar-kanli-nigari-oynayacak-karakter-20335064/",
-          "title": "Hülya Avşar, Kanlı Nigar’ı oynayacak: Karakter olarak benziyoruz"
-        }
-      ],
-      "publisher_domains": [
-        "sondakika.com"
+        "onedio.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1243,7 +1271,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.478220+00:00",
+      "collected_at": "2026-10-18T07:03:53.141894+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1271,29 +1299,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Kadir İnanır'ın 35 Milyon TL Değerindeki Kurbağa Koleksiyonu Nerede? Levent İnanır'dan Şoke Eden İddia!",
-      "normalized_title": "kadir inanir in 35 milyon tl degerindeki kurbaga koleksiyonu nerede levent inanir dan soke eden iddia",
-      "url": "https://onedio.com/haber/kadir-inanir-in-35-milyon-tl-degerindeki-kurbaga-koleksiyonu-nerede-levent-inanir-dan-soke-eden-iddia-1388801",
-      "source": "onedio.com",
+      "title": "Sezen Aksu şikayetçi oldu: Tekne turlarında düzenleme",
+      "normalized_title": "sezen aksu sikayetci oldu tekne turlarinda duzenleme",
+      "url": "https://www.odatv.com/magazin/sezen-aksu-sikayetci-oldu-tekne-turlarinda-duzenleme-120166418",
+      "source": "odatv.com",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-17T15:51:43.478307+00:00",
+      "collected_at": "2026-10-18T07:03:53.141946+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/kadir-inanir-in-35-milyon-tl-degerindeki-kurbaga-koleksiyonu-nerede-levent-inanir-dan-soke-eden-iddia-1388801",
-          "title": "Kadir İnanır'ın 35 Milyon TL Değerindeki Kurbağa Koleksiyonu Nerede? Levent İnanır'dan Şoke Eden İddia!"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/sezen-aksu-sikayetci-oldu-tekne-turlarinda-duzenleme-120166418",
+          "title": "Sezen Aksu şikayetçi oldu: Tekne turlarında düzenleme"
         }
       ],
       "publisher_domains": [
-        "onedio.com"
+        "odatv.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
