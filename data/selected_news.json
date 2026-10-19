@@ -1,43 +1,87 @@
 {
-  "generated_at": "2026-10-19T13:46:24.098880+00:00",
+  "generated_at": "2026-10-19T18:49:50.086537+00:00",
   "candidate_count": 100,
-  "event_group_count": 50,
-  "multi_publisher_event_count": 8,
+  "event_group_count": 51,
+  "multi_publisher_event_count": 9,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Melike Şahin oğlunun adını açıkladı: İsminin anlamı dikkat çekti",
-      "normalized_title": "melike sahin oglunun adini acikladi isminin anlami dikkat cekti",
-      "url": "https://www.sozcu.com.tr/melike-sahin-oglunun-adini-acikladi-ali-robin-p370462",
-      "source": "sozcu.com.tr",
+      "title": "Evlat acısıyla sarsıldı! Cindy Crawford'dan 27 yaşında vefat eden oğluna yürek yakan veda mesajı…",
+      "normalized_title": "evlat acisiyla sarsildi cindy crawford dan 27 yasinda vefat eden ogluna yurek yakan veda mesaji",
+      "url": "https://m.sabah.com.tr/magazin/evlat-acisiyla-sarsildi-cindy-crawforddan-27-yasinda-vefat-eden-ogluna-yurek-yakan-veda-mesaji-7683917",
+      "source": "m.sabah.com.tr",
       "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
+      "source_domain": "m.sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.954991+00:00",
+      "collected_at": "2026-10-19T18:49:13.216470+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/melike-sahin-oglunun-ismini-acikladi-3920709",
-          "title": "Melike Şahin oğlunun ismini açıkladı"
+          "source": "bbc.com",
+          "source_domain": "bbc.com",
+          "url": "https://www.bbc.com/turkce/articles/cm0qklj05v5xo",
+          "title": "Cindy Crawford'dan 27 yaşında ölen oğluna veda mesajı"
         },
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/melike-sahin-oglunun-adini-acikladi-ali-robin-p370462",
-          "title": "Melike Şahin oğlunun adını açıkladı: İsminin anlamı dikkat çekti"
+          "source": "m.sabah.com.tr",
+          "source_domain": "m.sabah.com.tr",
+          "url": "https://m.sabah.com.tr/magazin/evlat-acisiyla-sarsildi-cindy-crawforddan-27-yasinda-vefat-eden-ogluna-yurek-yakan-veda-mesaji-7683917",
+          "title": "Evlat acısıyla sarsıldı! Cindy Crawford'dan 27 yaşında vefat eden oğluna yürek yakan veda mesajı…"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "sozcu.com.tr"
+        "bbc.com",
+        "m.sabah.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Sözleşmesine Madde Koyduruyormuş: Erkan Petekkaya'nın Sözleşmesine Yazdırdığı 'Özel' Madde Ortaya Çıktı!",
+      "normalized_title": "sozlesmesine madde koyduruyormus erkan petekkaya nin sozlesmesine yazdirdigi ozel madde ortaya cikti",
+      "url": "https://onedio.com/haber/sozlesmesine-madde-koyduruyormus-erkan-petekkaya-nin-sozlesmesine-yazdirdigi-ozel-madde-ortaya-cikti-1389450",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-19T18:49:13.216989+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/sozlesmesine-madde-koyduruyormus-erkan-petekkaya-nin-sozlesmesine-yazdirdigi-ozel-madde-ortaya-cikti-1389450",
+          "title": "Sözleşmesine Madde Koyduruyormuş: Erkan Petekkaya'nın Sözleşmesine Yazdırdığı 'Özel' Madde Ortaya Çıktı!"
+        },
+        {
+          "source": "ensonhaber.com",
+          "source_domain": "ensonhaber.com",
+          "url": "https://www.ensonhaber.com/erkan-petekkayanin-ozel-maddesi-bunu-cikartmam-h1574956",
+          "title": "Erkan Petekkaya'nın özel maddesi: Yüzüğümü çıkarmam"
+        }
+      ],
+      "publisher_domains": [
+        "ensonhaber.com",
+        "onedio.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -61,7 +105,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955365+00:00",
+      "collected_at": "2026-10-19T18:49:13.217346+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -82,50 +126,6 @@
       "publisher_domains": [
         "m.sabah.com.tr",
         "onedio.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Gupse Özay imzalı \"Gupi ve Gülmeyen Kral\" filminin galası gerçekleşti!",
-      "normalized_title": "gupse ozay imzali gupi ve gulmeyen kral filminin galasi gerceklesti",
-      "url": "https://www.gunes.com/magazin/gupse-ozay-imzali-gupi-ve-gulmeyen-kral-filminin-galasi-gerceklesti-1230280",
-      "source": "gunes.com",
-      "source_role": "publisher",
-      "source_domain": "gunes.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955618+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "gunes.com",
-          "source_domain": "gunes.com",
-          "url": "https://www.gunes.com/magazin/gupse-ozay-imzali-gupi-ve-gulmeyen-kral-filminin-galasi-gerceklesti-1230280",
-          "title": "Gupse Özay imzalı \"Gupi ve Gülmeyen Kral\" filminin galası gerçekleşti!"
-        },
-        {
-          "source": "beyazperde.com",
-          "source_domain": "beyazperde.com",
-          "url": "https://www.beyazperde.com/filmler/film-1000044839/enteresan-bilgiler/",
-          "title": "Gupi ve Gülmeyen Kral filminden 3 enteresan bilgi"
-        }
-      ],
-      "publisher_domains": [
-        "beyazperde.com",
-        "gunes.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -142,16 +142,16 @@
   ],
   "event_groups_preview": [
     {
-      "title": "Baskı sanatının öncü ismi: Süleyman Saim Tekcan",
-      "normalized_title": "baski sanatinin oncu ismi suleyman saim tekcan",
-      "url": "https://www.aa.com.tr/tr/kultur/baski-sanatinin-oncu-ismi-suleyman-saim-tekcan/4092825",
-      "source": "aa.com.tr",
+      "title": "Sanatçı Süleyman Saim Tekcan vefat etti",
+      "normalized_title": "sanatci suleyman saim tekcan vefat etti",
+      "url": "https://www.trthaber.com/haber/kultur-sanat/sanatci-suleyman-saim-tekcan-vefat-etti-960451.html",
+      "source": "trthaber.com",
       "source_role": "publisher",
-      "source_domain": "aa.com.tr",
+      "source_domain": "trthaber.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.954905+00:00",
+      "collected_at": "2026-10-19T18:49:13.215800+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -167,113 +167,99 @@
           "source_domain": "haberturk.com",
           "url": "https://www.haberturk.com/magazin/suleyman-saim-tekcan-hayatini-kaybetti-3920619",
           "title": "Süleyman Saim Tekcan hayatını kaybetti"
-        },
-        {
-          "source": "aa.com.tr",
-          "source_domain": "aa.com.tr",
-          "url": "https://www.aa.com.tr/tr/kultur/baski-sanatinin-oncu-ismi-suleyman-saim-tekcan/4092825",
-          "title": "Baskı sanatının öncü ismi: Süleyman Saim Tekcan"
         }
       ],
       "publisher_domains": [
-        "aa.com.tr",
         "haberturk.com",
         "trthaber.com"
       ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Avrupa Yakası'nın Gaffur'u Peker Açıkalın'dan yapımcılara çağrı: “Para lazım, para”",
-      "normalized_title": "avrupa yakasi nin gaffur u peker acikalin dan yapimcilara cagri para lazim para",
-      "url": "https://www.sozcu.com.tr/avrupa-yakasi-nin-gaffur-u-peker-acikalin-dan-yapimcilara-cagri-para-lazim-para-p370210",
-      "source": "sozcu.com.tr",
+      "title": "Evlat acısıyla sarsıldı! Cindy Crawford'dan 27 yaşında vefat eden oğluna yürek yakan veda mesajı…",
+      "normalized_title": "evlat acisiyla sarsildi cindy crawford dan 27 yasinda vefat eden ogluna yurek yakan veda mesaji",
+      "url": "https://m.sabah.com.tr/magazin/evlat-acisiyla-sarsildi-cindy-crawforddan-27-yasinda-vefat-eden-ogluna-yurek-yakan-veda-mesaji-7683917",
+      "source": "m.sabah.com.tr",
       "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
+      "source_domain": "m.sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.957033+00:00",
+      "collected_at": "2026-10-19T18:49:13.216470+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/oyuncu-peker-acikalin-dan-yapimcilara-cagri-tekliflere-acigim-para-lazim-2547802",
-          "title": "Oyuncu Peker Açıkalın'dan yapımcılara çağrı: 'Tekliflere açığım, para lazım'"
+          "source": "bbc.com",
+          "source_domain": "bbc.com",
+          "url": "https://www.bbc.com/turkce/articles/cm0qklj05v5xo",
+          "title": "Cindy Crawford'dan 27 yaşında ölen oğluna veda mesajı"
         },
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/avrupa-yakasi-nin-gaffur-u-peker-acikalin-dan-yapimcilara-cagri-para-lazim-para-p370210",
-          "title": "Avrupa Yakası'nın Gaffur'u Peker Açıkalın'dan yapımcılara çağrı: “Para lazım, para”"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/peker-acikalin-tekliflere-acigim-para-lazim-3920546",
-          "title": "Peker Açıkalın: Tekliflere açığım, para lazım"
+          "source": "m.sabah.com.tr",
+          "source_domain": "m.sabah.com.tr",
+          "url": "https://m.sabah.com.tr/magazin/evlat-acisiyla-sarsildi-cindy-crawforddan-27-yasinda-vefat-eden-ogluna-yurek-yakan-veda-mesaji-7683917",
+          "title": "Evlat acısıyla sarsıldı! Cindy Crawford'dan 27 yaşında vefat eden oğluna yürek yakan veda mesajı…"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "haberturk.com",
-        "sozcu.com.tr"
+        "bbc.com",
+        "m.sabah.com.tr"
       ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Melike Şahin oğlunun adını açıkladı: İsminin anlamı dikkat çekti",
-      "normalized_title": "melike sahin oglunun adini acikladi isminin anlami dikkat cekti",
-      "url": "https://www.sozcu.com.tr/melike-sahin-oglunun-adini-acikladi-ali-robin-p370462",
-      "source": "sozcu.com.tr",
+      "title": "Sözleşmesine Madde Koyduruyormuş: Erkan Petekkaya'nın Sözleşmesine Yazdırdığı 'Özel' Madde Ortaya Çıktı!",
+      "normalized_title": "sozlesmesine madde koyduruyormus erkan petekkaya nin sozlesmesine yazdirdigi ozel madde ortaya cikti",
+      "url": "https://onedio.com/haber/sozlesmesine-madde-koyduruyormus-erkan-petekkaya-nin-sozlesmesine-yazdirdigi-ozel-madde-ortaya-cikti-1389450",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.954991+00:00",
+      "collected_at": "2026-10-19T18:49:13.216989+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/melike-sahin-oglunun-ismini-acikladi-3920709",
-          "title": "Melike Şahin oğlunun ismini açıkladı"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/sozlesmesine-madde-koyduruyormus-erkan-petekkaya-nin-sozlesmesine-yazdirdigi-ozel-madde-ortaya-cikti-1389450",
+          "title": "Sözleşmesine Madde Koyduruyormuş: Erkan Petekkaya'nın Sözleşmesine Yazdırdığı 'Özel' Madde Ortaya Çıktı!"
         },
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/melike-sahin-oglunun-adini-acikladi-ali-robin-p370462",
-          "title": "Melike Şahin oğlunun adını açıkladı: İsminin anlamı dikkat çekti"
+          "source": "ensonhaber.com",
+          "source_domain": "ensonhaber.com",
+          "url": "https://www.ensonhaber.com/erkan-petekkayanin-ozel-maddesi-bunu-cikartmam-h1574956",
+          "title": "Erkan Petekkaya'nın özel maddesi: Yüzüğümü çıkarmam"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "sozcu.com.tr"
+        "ensonhaber.com",
+        "onedio.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -297,7 +283,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955365+00:00",
+      "collected_at": "2026-10-19T18:49:13.217346+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -341,7 +327,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955618+00:00",
+      "collected_at": "2026-10-19T18:49:13.217809+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -353,59 +339,15 @@
           "title": "Gupse Özay imzalı \"Gupi ve Gülmeyen Kral\" filminin galası gerçekleşti!"
         },
         {
-          "source": "beyazperde.com",
-          "source_domain": "beyazperde.com",
-          "url": "https://www.beyazperde.com/filmler/film-1000044839/enteresan-bilgiler/",
-          "title": "Gupi ve Gülmeyen Kral filminden 3 enteresan bilgi"
+          "source": "sanatmat.com",
+          "source_domain": "sanatmat.com",
+          "url": "https://www.sanatmat.com/haber/gupse-ozayin-gupi-ve-gulmeyen-kral-filmi-23-ekimde-vizyonda-2263",
+          "title": "Gupse Özay'ın 'Gupi ve Gülmeyen Kral' Filmi 23 Ekim'de Vizyonda"
         }
       ],
       "publisher_domains": [
-        "beyazperde.com",
-        "gunes.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Sürpriz aşkta mutlu son: Liz Hurley ile Billy Ray Cyrus evlilik yolunda ilk adımı attı",
-      "normalized_title": "surpriz askta mutlu son liz hurley ile billy ray cyrus evlilik yolunda ilk adimi atti",
-      "url": "https://www.cumhuriyet.com.tr/magazin/surpriz-askta-mutlu-son-liz-hurley-ile-billy-ray-cyrus-evlilik-yolunda-ilk-adimi-atti-2547921",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955732+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/surpriz-askta-mutlu-son-liz-hurley-ile-billy-ray-cyrus-evlilik-yolunda-ilk-adimi-atti-2547921",
-          "title": "Sürpriz aşkta mutlu son: Liz Hurley ile Billy Ray Cyrus evlilik yolunda ilk adımı attı"
-        },
-        {
-          "source": "bursadabugun.com",
-          "source_domain": "bursadabugun.com",
-          "url": "https://www.bursadabugun.com/haber/elizabeth-hurley-ve-billy-ray-cyrus-evlilik-yolunda-bir-yillik-asklarini-nisanla-taclandirdilar-1957416.html",
-          "title": "Elizabeth Hurley ve Billy Ray Cyrus evlilik yolunda! Bir yıllık aşklarını nişanla taçlandırdılar"
-        }
-      ],
-      "publisher_domains": [
-        "bursadabugun.com",
-        "cumhuriyet.com.tr"
+        "gunes.com",
+        "sanatmat.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -429,7 +371,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955973+00:00",
+      "collected_at": "2026-10-19T18:49:13.218039+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -464,6 +406,50 @@
       "coverage_label": "multi_publisher"
     },
     {
+      "title": "Melike Şahin oğluna Ali Robin adını verdi - Magazin Haberleri",
+      "normalized_title": "melike sahin ogluna ali robin adini verdi magazin haberleri",
+      "url": "https://www.mynet.com/magazin/melike-sahin-ogluna-ali-robin-adini-verdi-130100604819",
+      "source": "mynet.com",
+      "source_role": "publisher",
+      "source_domain": "mynet.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-19T18:49:13.219002+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "mynet.com",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/melike-sahin-ogluna-ali-robin-adini-verdi-130100604819",
+          "title": "Melike Şahin oğluna Ali Robin adını verdi - Magazin Haberleri"
+        },
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/iste-melike-sahinin-oglu-ali-robin-43347299",
+          "title": "İşte Melike Şahin'in oğlu Ali Robin!"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr",
+        "mynet.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
       "title": "Yönetmenin gururu kadraja sığmadı",
       "normalized_title": "yonetmenin gururu kadraja sigmadi",
       "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yonetmenin-gururu-kadraja-sigmadi-43346222",
@@ -473,7 +459,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.956834+00:00",
+      "collected_at": "2026-10-19T18:49:13.219944+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -517,7 +503,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.957225+00:00",
+      "collected_at": "2026-10-19T18:49:13.220239+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -527,22 +513,29 @@
           "source_domain": "hakimiyet.com",
           "url": "https://www.hakimiyet.com/bella-duygulu-kimdir-kac-yasinda-eski-hali-nasil-bella-duygulu-nun-esi-kimdir-nereli/127872/",
           "title": "Bella Duygulu kimdir? Kaç yaşında? Eski hali nasıl? Bella Duygulu'nun eşi kimdir? Nereli?"
+        },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/bella-duygulu-kimdir-kac-yasinda-nereli-tayfun-duygulu-nun-esi-bella-duygulu-nun-hayati-1389339",
+          "title": "Bella Duygulu Kimdir, Kaç Yaşında, Nereli? Tayfun Duygulu'nun Eşi Bella Duygulu'nun Hayatı"
         }
       ],
       "publisher_domains": [
-        "hakimiyet.com"
+        "hakimiyet.com",
+        "onedio.com"
       ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 3,
-      "discovery_item_count": 2,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 11.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "single_publisher"
+      "coverage_label": "multi_publisher"
     },
     {
       "title": "Efsane atların büyük ustasına veda | İhsan Yılmaz Köşe Yazısı",
@@ -554,7 +547,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.954812+00:00",
+      "collected_at": "2026-10-19T18:49:13.215922+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -582,127 +575,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "İşte Melike Şahin'in oğlu Ali Robin!",
-      "normalized_title": "iste melike sahin in oglu ali robin",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/iste-melike-sahinin-oglu-ali-robin-43347299",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955034+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/iste-melike-sahinin-oglu-ali-robin-43347299",
-          "title": "İşte Melike Şahin'in oğlu Ali Robin!"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "İlk kez anne olan Melike Şahin bebeğiyle pozlarını paylaştı! İşte oğluna verdiği isim",
-      "normalized_title": "ilk kez anne olan melike sahin bebegiyle pozlarini paylasti iste ogluna verdigi isim",
-      "url": "https://www.milliyet.com.tr/magazin/galeri/ilk-kez-anne-olan-melike-sahin-bebegiyle-pozlarini-paylasti-iste-ogluna-verdigi-isim-7682718",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955087+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/ilk-kez-anne-olan-melike-sahin-bebegiyle-pozlarini-paylasti-iste-ogluna-verdigi-isim-7682718",
-          "title": "İlk kez anne olan Melike Şahin bebeğiyle pozlarını paylaştı! İşte oğluna verdiği isim"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Cindy Crawford'dan 27 yaşında ölen oğluna veda mesajı",
-      "normalized_title": "cindy crawford dan 27 yasinda olen ogluna veda mesaji",
-      "url": "https://www.bbc.com/turkce/articles/cm0qklj05v5xo",
-      "source": "bbc.com",
-      "source_role": "publisher",
-      "source_domain": "bbc.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955128+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "bbc.com",
-          "source_domain": "bbc.com",
-          "url": "https://www.bbc.com/turkce/articles/cm0qklj05v5xo",
-          "title": "Cindy Crawford'dan 27 yaşında ölen oğluna veda mesajı"
-        }
-      ],
-      "publisher_domains": [
-        "bbc.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Sözleşmesine Madde Koyduruyormuş: Erkan Petekkaya'nın Sözleşmesine Yazdırdığı 'Özel' Madde Ortaya Çıktı!",
-      "normalized_title": "sozlesmesine madde koyduruyormus erkan petekkaya nin sozlesmesine yazdirdigi ozel madde ortaya cikti",
-      "url": "https://onedio.com/haber/sozlesmesine-madde-koyduruyormus-erkan-petekkaya-nin-sozlesmesine-yazdirdigi-ozel-madde-ortaya-cikti-1389450",
+      "title": "Yeşilçam'ın 92 Yaşındaki Efsane Jönü İzzet Günay'ın Son Hali Cenazede Ortaya Çıktı!",
+      "normalized_title": "yesilcam in 92 yasindaki efsane jonu izzet gunay in son hali cenazede ortaya cikti",
+      "url": "https://onedio.com/haber/yesilcam-in-92-yasindaki-efsane-jonu-izzet-gunay-in-son-hali-cenazede-ortaya-cikti-1389674",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955181+00:00",
+      "collected_at": "2026-10-19T18:49:13.216020+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -710,8 +592,8 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/sozlesmesine-madde-koyduruyormus-erkan-petekkaya-nin-sozlesmesine-yazdirdigi-ozel-madde-ortaya-cikti-1389450",
-          "title": "Sözleşmesine Madde Koyduruyormuş: Erkan Petekkaya'nın Sözleşmesine Yazdırdığı 'Özel' Madde Ortaya Çıktı!"
+          "url": "https://onedio.com/haber/yesilcam-in-92-yasindaki-efsane-jonu-izzet-gunay-in-son-hali-cenazede-ortaya-cikti-1389674",
+          "title": "Yeşilçam'ın 92 Yaşındaki Efsane Jönü İzzet Günay'ın Son Hali Cenazede Ortaya Çıktı!"
         }
       ],
       "publisher_domains": [
@@ -730,29 +612,288 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Erkan Petekkaya her projede sözleşmesine ekletiyor: \"Bunu çıkarmam\" - Magazin Haberleri",
-      "normalized_title": "erkan petekkaya her projede sozlesmesine ekletiyor bunu cikarmam magazin haberleri",
-      "url": "https://www.mynet.com/magazin/erkan-petekkaya-her-projede-sozlesmesine-ekletiyor-bunu-cikarmam-130100604849",
-      "source": "mynet.com",
+      "title": "Kardeş acısı ünlü modelin içini yakıp kavurdu… ‘Ben seni severek doğdum, seni severek öleceğim’",
+      "normalized_title": "kardes acisi unlu modelin icini yakip kavurdu ben seni severek dogdum seni severek olecegim",
+      "url": "https://www.hurriyet.com.tr/kelebek/magazin/kardes-acisi-unlu-modelin-icini-yakip-kavurdu-ben-seni-severek-dogdum-seni-severek-olecegim-43346934",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "mynet.com",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955227+00:00",
+      "collected_at": "2026-10-19T18:49:13.216293+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "mynet.com",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/erkan-petekkaya-her-projede-sozlesmesine-ekletiyor-bunu-cikarmam-130100604849",
-          "title": "Erkan Petekkaya her projede sözleşmesine ekletiyor: \"Bunu çıkarmam\" - Magazin Haberleri"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/magazin/kardes-acisi-unlu-modelin-icini-yakip-kavurdu-ben-seni-severek-dogdum-seni-severek-olecegim-43346934",
+          "title": "Kardeş acısı ünlü modelin içini yakıp kavurdu… ‘Ben seni severek doğdum, seni severek öleceğim’"
         }
       ],
       "publisher_domains": [
-        "mynet.com"
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Evlat acısı yaşayan Cindy Crawford sessizliğini bozdu: Yıkıldık!",
+      "normalized_title": "evlat acisi yasayan cindy crawford sessizligini bozdu yikildik",
+      "url": "https://www.haberturk.com/magazin/evlat-acisi-yasayan-cindy-crawford-sessizligini-bozdu-yikildik-3920783",
+      "source": "haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-19T18:49:13.216375+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/evlat-acisi-yasayan-cindy-crawford-sessizligini-bozdu-yikildik-3920783",
+          "title": "Evlat acısı yaşayan Cindy Crawford sessizliğini bozdu: Yıkıldık!"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Can Bonomo'nun Kardeşinden Babasının Vefatının Ardından Yahudilik Yorumlarına Tepki: \"İnsan mı Değiliz?\"",
+      "normalized_title": "can bonomo nun kardesinden babasinin vefatinin ardindan yahudilik yorumlarina tepki insan mi degiliz",
+      "url": "https://onedio.com/haber/can-bonomo-nun-kardesinden-babasinin-vefatinin-ardindan-yahudilik-yorumlarina-tepki-insan-mi-degiliz-1389416",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-19T18:49:13.216561+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/can-bonomo-nun-kardesinden-babasinin-vefatinin-ardindan-yahudilik-yorumlarina-tepki-insan-mi-degiliz-1389416",
+          "title": "Can Bonomo'nun Kardeşinden Babasının Vefatının Ardından Yahudilik Yorumlarına Tepki: \"İnsan mı Değiliz?\""
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Can Bonomo babasını son yolculuğuna uğurladı... Yorumlara tepki gösterdi!",
+      "normalized_title": "can bonomo babasini son yolculuguna ugurladi yorumlara tepki gosterdi",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/can-bonomo-babasini-son-yolculuguna-ugurladi-yorumlara-tepki-gosterdi-43347594",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-19T18:49:13.216638+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/can-bonomo-babasini-son-yolculuguna-ugurladi-yorumlara-tepki-gosterdi-43347594",
+          "title": "Can Bonomo babasını son yolculuğuna uğurladı... Yorumlara tepki gösterdi!"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Can Bonomo nereli, kökeni ne, alevi mi? Can Bonomo dini nedir, Musevi mi, Yahudi mi?",
+      "normalized_title": "can bonomo nereli kokeni ne alevi mi can bonomo dini nedir musevi mi yahudi mi",
+      "url": "https://www.haberler.com/haber/can-bonomo-nereli-kokeni-ne-can-bonomo-dini-nedir-20345576-haberi/",
+      "source": "haberler.com",
+      "source_role": "publisher",
+      "source_domain": "haberler.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-19T18:49:13.216729+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/haber/can-bonomo-nereli-kokeni-ne-can-bonomo-dini-nedir-20345576-haberi/",
+          "title": "Can Bonomo nereli, kökeni ne, alevi mi? Can Bonomo dini nedir, Musevi mi, Yahudi mi?"
+        }
+      ],
+      "publisher_domains": [
+        "haberler.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Babasını kaybeden Can Bonomo yapılan yorumlara kayıtsız kalamadı: Görün bunları",
+      "normalized_title": "babasini kaybeden can bonomo yapilan yorumlara kayitsiz kalamadi gorun bunlari",
+      "url": "https://www.milliyet.com.tr/magazin/babasini-kaybeden-can-bonomo-yapilan-yorumlara-kayitsiz-kalamadi-gorun-bunlari-7683152",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-19T18:49:13.216809+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/babasini-kaybeden-can-bonomo-yapilan-yorumlara-kayitsiz-kalamadi-gorun-bunlari-7683152",
+          "title": "Babasını kaybeden Can Bonomo yapılan yorumlara kayıtsız kalamadı: Görün bunları"
+        }
+      ],
+      "publisher_domains": [
+        "milliyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Canlı Yayında Küfür, Hakaret, Tehdit: Valorant'ta Kız Çocuklarını Hedef Alan Şahıs İçin Emniyet'e Çağrı!",
+      "normalized_title": "canli yayinda kufur hakaret tehdit valorant ta kiz cocuklarini hedef alan sahis icin emniyet e cagri",
+      "url": "https://onedio.com/haber/canli-yayinda-kufur-hakaret-tehdit-valorant-ta-kiz-cocuklarini-hedef-alan-sahis-icin-egm-ye-cagri-1389660",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-19T18:49:13.216903+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/canli-yayinda-kufur-hakaret-tehdit-valorant-ta-kiz-cocuklarini-hedef-alan-sahis-icin-egm-ye-cagri-1389660",
+          "title": "Canlı Yayında Küfür, Hakaret, Tehdit: Valorant'ta Kız Çocuklarını Hedef Alan Şahıs İçin Emniyet'e Çağrı!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Erkan Petekkaya'nın Dizi Sözleşmelerindeki Flaş 'Yüzük' Maddesi Deşifre Oldu!",
+      "normalized_title": "erkan petekkaya nin dizi sozlesmelerindeki flas yuzuk maddesi desifre oldu",
+      "url": "https://www.gecce.com.tr/haber/erkan-petekkayanin-dizi-sozlesmelerindeki-flas-yuzuk-maddesi-desifre-oldu-333089.html",
+      "source": "gecce.com.tr",
+      "source_role": "publisher",
+      "source_domain": "gecce.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-19T18:49:13.217154+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "gecce.com.tr",
+          "source_domain": "gecce.com.tr",
+          "url": "https://www.gecce.com.tr/haber/erkan-petekkayanin-dizi-sozlesmelerindeki-flas-yuzuk-maddesi-desifre-oldu-333089.html",
+          "title": "Erkan Petekkaya'nın Dizi Sözleşmelerindeki Flaş 'Yüzük' Maddesi Deşifre Oldu!"
+        }
+      ],
+      "publisher_domains": [
+        "gecce.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -776,7 +917,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955273+00:00",
+      "collected_at": "2026-10-19T18:49:13.217239+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -804,43 +945,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Erkan Petekkaya'nın sözleşmelerindeki dikkat çeken şart: \"Yüzüğümü çıkarmam\"",
-      "normalized_title": "erkan petekkaya nin sozlesmelerindeki dikkat ceken sart yuzugumu cikarmam",
-      "url": "https://www.bursadabugun.com/haber/erkan-petekkaya-nin-sozlesmelerindeki-dikkat-ceken-sart-yuzugumu-cikarmam-1957601.html",
-      "source": "bursadabugun.com",
-      "source_role": "publisher",
-      "source_domain": "bursadabugun.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955317+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "bursadabugun.com",
-          "source_domain": "bursadabugun.com",
-          "url": "https://www.bursadabugun.com/haber/erkan-petekkaya-nin-sozlesmelerindeki-dikkat-ceken-sart-yuzugumu-cikarmam-1957601.html",
-          "title": "Erkan Petekkaya'nın sözleşmelerindeki dikkat çeken şart: \"Yüzüğümü çıkarmam\""
-        }
-      ],
-      "publisher_domains": [
-        "bursadabugun.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Yanan villasını baştan yaptırdı: İkinci kez servet döktü",
       "normalized_title": "yanan villasini bastan yaptirdi ikinci kez servet doktu",
       "url": "https://www.sozcu.com.tr/yanan-villasini-bastan-yaptirdi-ikinci-kez-servet-doktu-p370498",
@@ -850,7 +954,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955404+00:00",
+      "collected_at": "2026-10-19T18:49:13.217416+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -887,7 +991,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955451+00:00",
+      "collected_at": "2026-10-19T18:49:13.217505+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -924,7 +1028,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955542+00:00",
+      "collected_at": "2026-10-19T18:49:13.217671+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -961,7 +1065,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955578+00:00",
+      "collected_at": "2026-10-19T18:49:13.217737+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -989,117 +1093,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Liz Hurley sevgilisi Billy Ray Cyrus ile nişanlandı",
-      "normalized_title": "liz hurley sevgilisi billy ray cyrus ile nisanlandi",
-      "url": "https://www.haberturk.com/magazin/liz-hurley-sevgilisi-billy-ray-cyrus-ile-nisanlandi-3920627",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955688+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/liz-hurley-sevgilisi-billy-ray-cyrus-ile-nisanlandi-3920627",
-          "title": "Liz Hurley sevgilisi Billy Ray Cyrus ile nişanlandı"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "61 yaşında yeniden gelin oluyor! Ünlü oyuncu devasa tektaşıyla nişanlandığını duyurdu!",
-      "normalized_title": "61 yasinda yeniden gelin oluyor unlu oyuncu devasa tektasiyla nisanlandigini duyurdu",
-      "url": "https://www.sabah.com.tr/magazin/61-yasinda-yeniden-gelin-oluyor-unlu-oyuncu-devasa-tektasiyla-nisanlandigini-duyurdu-7683717",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955777+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/61-yasinda-yeniden-gelin-oluyor-unlu-oyuncu-devasa-tektasiyla-nisanlandigini-duyurdu-7683717",
-          "title": "61 yaşında yeniden gelin oluyor! Ünlü oyuncu devasa tektaşıyla nişanlandığını duyurdu!"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Soner Olgun son yolculuğuna uğurlandı",
-      "normalized_title": "soner olgun son yolculuguna ugurlandi",
-      "url": "https://www.ntv.com.tr/yasam/galeri-soner-olgun-son-yolculuguna-ugurlandi-1746813",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955855+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-soner-olgun-son-yolculuguna-ugurlandi-1746813",
-          "title": "Soner Olgun son yolculuğuna uğurlandı"
-        }
-      ],
-      "publisher_domains": [
-        "ntv.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Halit Ergenç’e Rusya’dan yakın ilgi",
       "normalized_title": "halit ergenc e rusya dan yakin ilgi",
       "url": "https://www.hurriyet.com.tr/kelebek/televizyon/halit-ergence-rusyadan-yakin-ilgi-43346231",
@@ -1109,7 +1102,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.955897+00:00",
+      "collected_at": "2026-10-19T18:49:13.217940+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1146,7 +1139,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.956054+00:00",
+      "collected_at": "2026-10-19T18:49:13.218214+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1174,29 +1167,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Emre Altuğ’dan 70 yıllık Türk pop hafızası: 'Bir Pop Masalı' ile sahnede yeni bir soluk",
-      "normalized_title": "emre altug dan 70 yillik turk pop hafizasi bir pop masali ile sahnede yeni bir soluk",
-      "url": "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/emre-altug-dan-70-yillik-turk-pop-hafizasi-bir-pop-masali-ile-sahnede-yeni-bir-soluk-2547826",
-      "source": "cumhuriyet.com.tr",
+      "title": "Sezen Aksu şikayetçi oldu: Tekne turlarında düzenleme",
+      "normalized_title": "sezen aksu sikayetci oldu tekne turlarinda duzenleme",
+      "url": "https://www.odatv.com/magazin/sezen-aksu-sikayetci-oldu-tekne-turlarinda-duzenleme-120166418",
+      "source": "odatv.com",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.956101+00:00",
+      "collected_at": "2026-10-19T18:49:13.218281+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/emre-altug-dan-70-yillik-turk-pop-hafizasi-bir-pop-masali-ile-sahnede-yeni-bir-soluk-2547826",
-          "title": "Emre Altuğ’dan 70 yıllık Türk pop hafızası: 'Bir Pop Masalı' ile sahnede yeni bir soluk"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/sezen-aksu-sikayetci-oldu-tekne-turlarinda-duzenleme-120166418",
+          "title": "Sezen Aksu şikayetçi oldu: Tekne turlarında düzenleme"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr"
+        "odatv.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1211,16 +1204,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Adana Ayazı'nın Kadrosuna Bir İsim Daha! Uğur Güneş'in Karakterine Düşman Geliyor",
-      "normalized_title": "adana ayazi nin kadrosuna bir isim daha ugur gunes in karakterine dusman geliyor",
-      "url": "https://onedio.com/haber/adana-ayazi-nin-kadrosuna-bir-isim-daha-ugur-gunes-in-karakterine-dusman-geliyor-1389148",
+      "title": "Yalı Sahiplerinin Huzuru Kaçmış: Boğaz Turlarına Yeni Düzenleme Gelebilir!",
+      "normalized_title": "yali sahiplerinin huzuru kacmis bogaz turlarina yeni duzenleme gelebilir",
+      "url": "https://onedio.com/haber/yali-sahiplerinin-huzuru-kacmis-bogaz-turlarina-yeni-duzenleme-gelebilir-1388077",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.956144+00:00",
+      "collected_at": "2026-10-19T18:49:13.218355+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1228,8 +1221,8 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/adana-ayazi-nin-kadrosuna-bir-isim-daha-ugur-gunes-in-karakterine-dusman-geliyor-1389148",
-          "title": "Adana Ayazı'nın Kadrosuna Bir İsim Daha! Uğur Güneş'in Karakterine Düşman Geliyor"
+          "url": "https://onedio.com/haber/yali-sahiplerinin-huzuru-kacmis-bogaz-turlarina-yeni-duzenleme-gelebilir-1388077",
+          "title": "Yalı Sahiplerinin Huzuru Kaçmış: Boğaz Turlarına Yeni Düzenleme Gelebilir!"
         }
       ],
       "publisher_domains": [
@@ -1248,29 +1241,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Usta aktör Uğur Polat “Kaderin Cilvesi” dizisinde",
-      "normalized_title": "usta aktor ugur polat kaderin cilvesi dizisinde",
-      "url": "https://www.birsenaltuntas.com/dizi/usta-aktor-ugur-polat-kaderin-cilvesi-dizisinde/78534/",
-      "source": "birsenaltuntas.com",
+      "title": "Beykoz’da yalı sahipleri anonslardan rahatsız oldu",
+      "normalized_title": "beykoz da yali sahipleri anonslardan rahatsiz oldu",
+      "url": "https://dostbeykoz.com/beykozda-yali-sahipleri-anonslardan-rahatsiz-oldu/",
+      "source": "dostbeykoz.com",
       "source_role": "publisher",
-      "source_domain": "birsenaltuntas.com",
+      "source_domain": "dostbeykoz.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.956178+00:00",
+      "collected_at": "2026-10-19T18:49:13.218417+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "birsenaltuntas.com",
-          "source_domain": "birsenaltuntas.com",
-          "url": "https://www.birsenaltuntas.com/dizi/usta-aktor-ugur-polat-kaderin-cilvesi-dizisinde/78534/",
-          "title": "Usta aktör Uğur Polat “Kaderin Cilvesi” dizisinde"
+          "source": "dostbeykoz.com",
+          "source_domain": "dostbeykoz.com",
+          "url": "https://dostbeykoz.com/beykozda-yali-sahipleri-anonslardan-rahatsiz-oldu/",
+          "title": "Beykoz’da yalı sahipleri anonslardan rahatsız oldu"
         }
       ],
       "publisher_domains": [
-        "birsenaltuntas.com"
+        "dostbeykoz.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1285,29 +1278,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Asena Girişken'in yeni adresi belli oldu! İddialı diziye girdi - Magazin Haberleri",
-      "normalized_title": "asena girisken in yeni adresi belli oldu iddiali diziye girdi magazin haberleri",
-      "url": "https://www.mynet.com/magazin/asena-girisken-in-yeni-adresi-belli-oldu-iddiali-diziye-girdi-130100604327",
-      "source": "mynet.com",
+      "title": "Boğaz turlarındaki Sezen Aksu anonsu için kısıtlama gündemde",
+      "normalized_title": "bogaz turlarindaki sezen aksu anonsu icin kisitlama gundemde",
+      "url": "https://www.timeturk.com/bogaz-turlarindaki-sezen-aksu-anonsu-icin-kisitlama-gundemde",
+      "source": "timeturk.com",
       "source_role": "publisher",
-      "source_domain": "mynet.com",
+      "source_domain": "timeturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-19T13:45:45.956221+00:00",
+      "collected_at": "2026-10-19T18:49:13.218485+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "mynet.com",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/asena-girisken-in-yeni-adresi-belli-oldu-iddiali-diziye-girdi-130100604327",
-          "title": "Asena Girişken'in yeni adresi belli oldu! İddialı diziye girdi - Magazin Haberleri"
+          "source": "timeturk.com",
+          "source_domain": "timeturk.com",
+          "url": "https://www.timeturk.com/bogaz-turlarindaki-sezen-aksu-anonsu-icin-kisitlama-gundemde",
+          "title": "Boğaz turlarındaki Sezen Aksu anonsu için kısıtlama gündemde"
         }
       ],
       "publisher_domains": [
-        "mynet.com"
+        "timeturk.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
