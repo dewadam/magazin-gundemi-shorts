@@ -1,51 +1,58 @@
 {
-  "generated_at": "2026-10-20T11:55:53.723814+00:00",
+  "generated_at": "2026-10-20T17:28:04.605720+00:00",
   "candidate_count": 100,
-  "event_group_count": 50,
-  "multi_publisher_event_count": 10,
+  "event_group_count": 51,
+  "multi_publisher_event_count": 7,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Yeşilçam'ın 92 Yaşındaki Efsane Jönü İzzet Günay'ın Son Hali Cenazede Ortaya Çıktı!",
-      "normalized_title": "yesilcam in 92 yasindaki efsane jonu izzet gunay in son hali cenazede ortaya cikti",
-      "url": "https://onedio.com/haber/yesilcam-in-92-yasindaki-efsane-jonu-izzet-gunay-in-son-hali-cenazede-ortaya-cikti-1389674",
+      "title": "Hülya Avşar'ın Yürüyüşünü Eleştiren Erkan Petekkaya'dan Beklenmedik Savunma!",
+      "normalized_title": "hulya avsar in yuruyusunu elestiren erkan petekkaya dan beklenmedik savunma",
+      "url": "https://onedio.com/haber/hulya-avsar-in-yuruyusunu-elestiren-erkan-petekkaya-dan-beklenmedik-savunma-1389666",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647354+00:00",
+      "collected_at": "2026-10-20T17:27:27.758244+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/yesilcam-in-92-yasindaki-efsane-jonu-izzet-gunay-in-son-hali-cenazede-ortaya-cikti-1389674",
-          "title": "Yeşilçam'ın 92 Yaşındaki Efsane Jönü İzzet Günay'ın Son Hali Cenazede Ortaya Çıktı!"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/erkan-petekkaya-dan-hulya-avsar-aciklamasi-3920923",
+          "title": "Erkan Petekkaya'dan Hülya Avşar açıklaması"
         },
         {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/haberler/yesilcamin-yakisikli-jonuydu-92-yasindaki-son-20346463-haberi/",
-          "title": "Yeşilçam'ın yakışıklı jönüydü! 92 yaşındaki son hali ortaya çıktı"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/hulya-avsar-in-yuruyusunu-elestiren-erkan-petekkaya-dan-beklenmedik-savunma-1389666",
+          "title": "Hülya Avşar'ın Yürüyüşünü Eleştiren Erkan Petekkaya'dan Beklenmedik Savunma!"
+        },
+        {
+          "source": "gecce.com.tr",
+          "source_domain": "gecce.com.tr",
+          "url": "https://www.gecce.com.tr/haber/erkan-petekkayadan-hulya-avsar-itirafi-espri-yaptim-333106.html",
+          "title": "Erkan Petekkaya’dan Hülya Avşar İtirafı! “Espri Yaptım”"
         }
       ],
       "publisher_domains": [
-        "haberler.com",
+        "gecce.com.tr",
+        "haberturk.com",
         "onedio.com"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 30.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -61,7 +68,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647614+00:00",
+      "collected_at": "2026-10-20T17:27:27.756874+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -96,36 +103,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Ogün Sanlısoy Washington'da sahne aldı! Türk Festivali'nde rock rüzgârı esti",
-      "normalized_title": "ogun sanlisoy washington da sahne aldi turk festivali nde rock ruzgari esti",
-      "url": "https://www.bursadabugun.com/haber/ogun-sanlisoy-washington-da-sahne-aldi-turk-festivali-nde-rock-ruzgari-esti-1957844.html",
-      "source": "bursadabugun.com",
+      "title": "Can Bonomo'nun kardeşi Funda Bonomo'dan o yorumlara tepki",
+      "normalized_title": "can bonomo nun kardesi funda bonomo dan o yorumlara tepki",
+      "url": "https://www.haberturk.com/magazin/can-bonomo-nun-kardesi-funda-bonomo-dan-gelen-yahudilik-yorumlara-tepki-3920715",
+      "source": "haberturk.com",
       "source_role": "publisher",
-      "source_domain": "bursadabugun.com",
+      "source_domain": "haberturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647794+00:00",
+      "collected_at": "2026-10-20T17:27:27.758031+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/ogun-sanlisoy-abd-de-sahne-aldi-3920997",
-          "title": "Ogün Sanlısoy, ABD'de sahne aldı"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/can-bonomodan-babasina-son-gorev-120167379",
+          "title": "Can Bonomo'dan babasına son görev"
         },
         {
-          "source": "bursadabugun.com",
-          "source_domain": "bursadabugun.com",
-          "url": "https://www.bursadabugun.com/haber/ogun-sanlisoy-washington-da-sahne-aldi-turk-festivali-nde-rock-ruzgari-esti-1957844.html",
-          "title": "Ogün Sanlısoy Washington'da sahne aldı! Türk Festivali'nde rock rüzgârı esti"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/can-bonomo-nun-kardesi-funda-bonomo-dan-gelen-yahudilik-yorumlara-tepki-3920715",
+          "title": "Can Bonomo'nun kardeşi Funda Bonomo'dan o yorumlara tepki"
         }
       ],
       "publisher_domains": [
-        "bursadabugun.com",
-        "haberturk.com"
+        "haberturk.com",
+        "odatv.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -142,6 +149,108 @@
   ],
   "event_groups_preview": [
     {
+      "title": "Hülya Avşar'ın Yürüyüşünü Eleştiren Erkan Petekkaya'dan Beklenmedik Savunma!",
+      "normalized_title": "hulya avsar in yuruyusunu elestiren erkan petekkaya dan beklenmedik savunma",
+      "url": "https://onedio.com/haber/hulya-avsar-in-yuruyusunu-elestiren-erkan-petekkaya-dan-beklenmedik-savunma-1389666",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T17:27:27.758244+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/erkan-petekkaya-dan-hulya-avsar-aciklamasi-3920923",
+          "title": "Erkan Petekkaya'dan Hülya Avşar açıklaması"
+        },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/hulya-avsar-in-yuruyusunu-elestiren-erkan-petekkaya-dan-beklenmedik-savunma-1389666",
+          "title": "Hülya Avşar'ın Yürüyüşünü Eleştiren Erkan Petekkaya'dan Beklenmedik Savunma!"
+        },
+        {
+          "source": "gecce.com.tr",
+          "source_domain": "gecce.com.tr",
+          "url": "https://www.gecce.com.tr/haber/erkan-petekkayadan-hulya-avsar-itirafi-espri-yaptim-333106.html",
+          "title": "Erkan Petekkaya’dan Hülya Avşar İtirafı! “Espri Yaptım”"
+        }
+      ],
+      "publisher_domains": [
+        "gecce.com.tr",
+        "haberturk.com",
+        "onedio.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Grammy ödüllü şarkıcı Selena Gomez: 'Elektronik sigara sesimi değiştirdi'",
+      "normalized_title": "grammy odullu sarkici selena gomez elektronik sigara sesimi degistirdi",
+      "url": "https://tr.euronews.com/2026/10/20/grammy-odullu-sarkici-selena-gomez-elektronik-sigara-sesimi-degistirdi",
+      "source": "tr.euronews.com",
+      "source_role": "publisher",
+      "source_domain": "tr.euronews.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T17:27:27.760088+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "diken.com.tr",
+          "source_domain": "diken.com.tr",
+          "url": "https://www.diken.com.tr/selena-gomez-elektronik-sigara-sesimi-degistirdi/",
+          "title": "Selena Gomez: Elektronik sigara sesimi değiştirdi"
+        },
+        {
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "url": "https://tr.euronews.com/2026/10/20/grammy-odullu-sarkici-selena-gomez-elektronik-sigara-sesimi-degistirdi",
+          "title": "Grammy ödüllü şarkıcı Selena Gomez: 'Elektronik sigara sesimi değiştirdi'"
+        },
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/saglik/elektronik-sigaranin-10-zarari-selena-gomez-isyan-etti-sesimi-degistirdi-3482150",
+          "title": "ELEKTRONİK SİGARANIN 10 ZARARI! Selena Gomez isyan etti: 'Sesimi değiştirdi'"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com",
+        "diken.com.tr",
+        "tr.euronews.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
       "title": "Yeşilçam'ın 92 Yaşındaki Efsane Jönü İzzet Günay'ın Son Hali Cenazede Ortaya Çıktı!",
       "normalized_title": "yesilcam in 92 yasindaki efsane jonu izzet gunay in son hali cenazede ortaya cikti",
       "url": "https://onedio.com/haber/yesilcam-in-92-yasindaki-efsane-jonu-izzet-gunay-in-son-hali-cenazede-ortaya-cikti-1389674",
@@ -151,7 +260,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647354+00:00",
+      "collected_at": "2026-10-20T17:27:27.756488+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -195,7 +304,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647614+00:00",
+      "collected_at": "2026-10-20T17:27:27.756874+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -215,50 +324,6 @@
       ],
       "publisher_domains": [
         "cumhuriyet.com.tr",
-        "haberturk.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Ogün Sanlısoy Washington'da sahne aldı! Türk Festivali'nde rock rüzgârı esti",
-      "normalized_title": "ogun sanlisoy washington da sahne aldi turk festivali nde rock ruzgari esti",
-      "url": "https://www.bursadabugun.com/haber/ogun-sanlisoy-washington-da-sahne-aldi-turk-festivali-nde-rock-ruzgari-esti-1957844.html",
-      "source": "bursadabugun.com",
-      "source_role": "publisher",
-      "source_domain": "bursadabugun.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647794+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/ogun-sanlisoy-abd-de-sahne-aldi-3920997",
-          "title": "Ogün Sanlısoy, ABD'de sahne aldı"
-        },
-        {
-          "source": "bursadabugun.com",
-          "source_domain": "bursadabugun.com",
-          "url": "https://www.bursadabugun.com/haber/ogun-sanlisoy-washington-da-sahne-aldi-turk-festivali-nde-rock-ruzgari-esti-1957844.html",
-          "title": "Ogün Sanlısoy Washington'da sahne aldı! Türk Festivali'nde rock rüzgârı esti"
-        }
-      ],
-      "publisher_domains": [
-        "bursadabugun.com",
         "haberturk.com"
       ],
       "publisher_count": 2,
@@ -283,7 +348,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647830+00:00",
+      "collected_at": "2026-10-20T17:27:27.757255+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -318,94 +383,6 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Evlat acısıyla sarsıldı! Cindy Crawford'dan 27 yaşında vefat eden oğluna yürek yakan veda mesajı…",
-      "normalized_title": "evlat acisiyla sarsildi cindy crawford dan 27 yasinda vefat eden ogluna yurek yakan veda mesaji",
-      "url": "https://www.sabah.com.tr/magazin/evlat-acisiyla-sarsildi-cindy-crawforddan-27-yasinda-vefat-eden-ogluna-yurek-yakan-veda-mesaji-7683917",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.648221+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "bbc.com",
-          "source_domain": "bbc.com",
-          "url": "https://www.bbc.com/turkce/articles/cm0qklj05v5xo",
-          "title": "Cindy Crawford'dan 27 yaşında ölen oğluna veda mesajı"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/evlat-acisiyla-sarsildi-cindy-crawforddan-27-yasinda-vefat-eden-ogluna-yurek-yakan-veda-mesaji-7683917",
-          "title": "Evlat acısıyla sarsıldı! Cindy Crawford'dan 27 yaşında vefat eden oğluna yürek yakan veda mesajı…"
-        }
-      ],
-      "publisher_domains": [
-        "bbc.com",
-        "sabah.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Usta Aktör Uğur Polat Kaderin Cilvesi Dizisinde! İşte Heyecanlandıran Rolü",
-      "normalized_title": "usta aktor ugur polat kaderin cilvesi dizisinde iste heyecanlandiran rolu",
-      "url": "https://www.gecce.com.tr/haber/usta-aktor-ugur-polat-kaderin-cilvesi-dizisinde-iste-heyecanlandiran-rolu-333095.html",
-      "source": "gecce.com.tr",
-      "source_role": "publisher",
-      "source_domain": "gecce.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.648616+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "gazeteduvar.com.tr",
-          "source_domain": "gazeteduvar.com.tr",
-          "url": "https://www.gazeteduvar.com.tr/ugur-polat-kaderin-cilvesi-dizisinin-kadrosuna-katildi-haber-1766707",
-          "title": "Uğur Polat, Kaderin Cilvesi dizisinin kadrosuna katıldı"
-        },
-        {
-          "source": "gecce.com.tr",
-          "source_domain": "gecce.com.tr",
-          "url": "https://www.gecce.com.tr/haber/usta-aktor-ugur-polat-kaderin-cilvesi-dizisinde-iste-heyecanlandiran-rolu-333095.html",
-          "title": "Usta Aktör Uğur Polat Kaderin Cilvesi Dizisinde! İşte Heyecanlandıran Rolü"
-        }
-      ],
-      "publisher_domains": [
-        "gazeteduvar.com.tr",
-        "gecce.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
       "title": "Can Bonomo'nun kardeşi Funda Bonomo'dan o yorumlara tepki",
       "normalized_title": "can bonomo nun kardesi funda bonomo dan o yorumlara tepki",
       "url": "https://www.haberturk.com/magazin/can-bonomo-nun-kardesi-funda-bonomo-dan-gelen-yahudilik-yorumlara-tepki-3920715",
@@ -415,7 +392,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.648723+00:00",
+      "collected_at": "2026-10-20T17:27:27.758031+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -459,7 +436,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.648854+00:00",
+      "collected_at": "2026-10-20T17:27:27.759120+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -494,131 +471,6 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Selena Gomez'den elektronik sigara itirafı: Sesimi değiştirdiğini düşünüyorum",
-      "normalized_title": "selena gomez den elektronik sigara itirafi sesimi degistirdigini dusunuyorum",
-      "url": "https://t24.com.tr/magazin/selena-gomezden-elektronik-sigara-itirafi-sesimi-degistirdigini-dusunuyorum,1354149",
-      "source": "t24.com.tr",
-      "source_role": "publisher",
-      "source_domain": "t24.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.649411+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/selena-gomez-elektronik-sigara-sesimi-degistirdi/",
-          "title": "Selena Gomez: Elektronik sigara sesimi değiştirdi"
-        },
-        {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/magazin/selena-gomezden-elektronik-sigara-itirafi-sesimi-degistirdigini-dusunuyorum,1354149",
-          "title": "Selena Gomez'den elektronik sigara itirafı: Sesimi değiştirdiğini düşünüyorum"
-        }
-      ],
-      "publisher_domains": [
-        "diken.com.tr",
-        "t24.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Büyük pişmanlığını açıkladı! Selena Gomez’in sesindeki değişimin gerçek sebebi ortaya çıktı",
-      "normalized_title": "buyuk pismanligini acikladi selena gomez in sesindeki degisimin gercek sebebi ortaya cikti",
-      "url": "https://m.sabah.com.tr/trend/galeri/magazin/dunyaca-unlu-isim-pismanligini-acikladi-selena-gomezin-sesindeki-degisimin-gercek-sebebi-ortaya-cikti",
-      "source": "m.sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "m.sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.649370+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "m.sabah.com.tr",
-          "source_domain": "m.sabah.com.tr",
-          "url": "https://m.sabah.com.tr/trend/galeri/magazin/dunyaca-unlu-isim-pismanligini-acikladi-selena-gomezin-sesindeki-degisimin-gercek-sebebi-ortaya-cikti",
-          "title": "Büyük pişmanlığını açıkladı! Selena Gomez’in sesindeki değişimin gerçek sebebi ortaya çıktı"
-        },
-        {
-          "source": "sondakika.com",
-          "source_domain": "sondakika.com",
-          "url": "https://www.sondakika.com/haber/haber-selena-gomezden-elektronik-sigara-itirafi-sesimi-20345004/",
-          "title": "Selena Gomez sesindeki değişimin sebebini açıkladı: Nikotinli e-sigara"
-        }
-      ],
-      "publisher_domains": [
-        "m.sabah.com.tr",
-        "sondakika.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Yönetmenin gururu kadraja sığmadı",
-      "normalized_title": "yonetmenin gururu kadraja sigmadi",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yonetmenin-gururu-kadraja-sigmadi-43346222",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.649548+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yonetmenin-gururu-kadraja-sigmadi-43346222",
-          "title": "Yönetmenin gururu kadraja sığmadı"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 2,
-      "discovery_item_count": 1,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.5,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Kan Verdiği İçin İşten Kovulmuş: Kadir İnanır'ın Şoföründen Jülide Kural ve İrade Tartışması Hakkında İddia!",
       "normalized_title": "kan verdigi icin isten kovulmus kadir inanir in soforunden julide kural ve irade tartismasi hakkinda iddia",
       "url": "https://onedio.com/haber/kan-verdigi-icin-isten-kovulmus-kadir-inanir-in-soforunden-julide-kural-ve-irade-tartismasi-hakkinda-iddia-1389706",
@@ -628,7 +480,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647062+00:00",
+      "collected_at": "2026-10-20T17:27:27.755988+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -665,7 +517,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647143+00:00",
+      "collected_at": "2026-10-20T17:27:27.756092+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -702,7 +554,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647206+00:00",
+      "collected_at": "2026-10-20T17:27:27.756199+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -739,7 +591,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647253+00:00",
+      "collected_at": "2026-10-20T17:27:27.756282+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -776,7 +628,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647292+00:00",
+      "collected_at": "2026-10-20T17:27:27.756380+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -813,7 +665,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647403+00:00",
+      "collected_at": "2026-10-20T17:27:27.756572+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -850,7 +702,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647481+00:00",
+      "collected_at": "2026-10-20T17:27:27.756713+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -878,29 +730,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Rabia Soytürk'ün yeni aşkı ortaya çıktı: Gönlünü Beşiktaş Başkanı'nın oğluna kaptırdı",
-      "normalized_title": "rabia soyturk un yeni aski ortaya cikti gonlunu besiktas baskani nin ogluna kaptirdi",
-      "url": "https://www.sozcu.com.tr/rabia-soyturk-un-yeni-aski-ortaya-cikti-gonlunu-besiktas-baskani-nin-ogluna-kaptirdi-p370816",
-      "source": "sozcu.com.tr",
+      "title": "Bomba aşk ifşası! Rabia Soytürk gönlünü bakın kime kaptırdı",
+      "normalized_title": "bomba ask ifsasi rabia soyturk gonlunu bakin kime kaptirdi",
+      "url": "https://www.internethaber.com/bomba-ask-ifsasi-rabia-soyturk-gonlunu-bakin-kime-kaptirdi-foto-galerisi-2464891.htm",
+      "source": "internethaber.com",
       "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
+      "source_domain": "internethaber.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647529+00:00",
+      "collected_at": "2026-10-20T17:27:27.756944+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/rabia-soyturk-un-yeni-aski-ortaya-cikti-gonlunu-besiktas-baskani-nin-ogluna-kaptirdi-p370816",
-          "title": "Rabia Soytürk'ün yeni aşkı ortaya çıktı: Gönlünü Beşiktaş Başkanı'nın oğluna kaptırdı"
+          "source": "internethaber.com",
+          "source_domain": "internethaber.com",
+          "url": "https://www.internethaber.com/bomba-ask-ifsasi-rabia-soyturk-gonlunu-bakin-kime-kaptirdi-foto-galerisi-2464891.htm",
+          "title": "Bomba aşk ifşası! Rabia Soytürk gönlünü bakın kime kaptırdı"
         }
       ],
       "publisher_domains": [
-        "sozcu.com.tr"
+        "internethaber.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -915,29 +767,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "The Rock'ın yıldızı Dwayne Johnson 1 yılda 22 kilo verdi! - Magazin Haberleri",
-      "normalized_title": "the rock in yildizi dwayne johnson 1 yilda 22 kilo verdi magazin haberleri",
-      "url": "https://www.mynet.com/magazin/the-rock-in-yildizi-dwayne-johnson-1-yilda-22-kilo-verdi-130100604891",
-      "source": "mynet.com",
+      "title": "Ogün Sanlısoy, ABD'de sahne aldı",
+      "normalized_title": "ogun sanlisoy abd de sahne aldi",
+      "url": "https://www.haberturk.com/magazin/ogun-sanlisoy-abd-de-sahne-aldi-3920997",
+      "source": "haberturk.com",
       "source_role": "publisher",
-      "source_domain": "mynet.com",
+      "source_domain": "haberturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647656+00:00",
+      "collected_at": "2026-10-20T17:27:27.757002+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "mynet.com",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/the-rock-in-yildizi-dwayne-johnson-1-yilda-22-kilo-verdi-130100604891",
-          "title": "The Rock'ın yıldızı Dwayne Johnson 1 yılda 22 kilo verdi! - Magazin Haberleri"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/ogun-sanlisoy-abd-de-sahne-aldi-3920997",
+          "title": "Ogün Sanlısoy, ABD'de sahne aldı"
         }
       ],
       "publisher_domains": [
-        "mynet.com"
+        "haberturk.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -961,7 +813,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647722+00:00",
+      "collected_at": "2026-10-20T17:27:27.757062+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -989,6 +841,43 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "Washington'daki Türk Festivali'nde Türkiye-Azerbaycan dostluğu öne çıktı",
+      "normalized_title": "washington daki turk festivali nde turkiye azerbaycan dostlugu one cikti",
+      "url": "https://www.sondakika.com/dunya/haber-washington-daki-turk-festivali-nde-turkiye-azerbay-20348929/",
+      "source": "sondakika.com",
+      "source_role": "publisher",
+      "source_domain": "sondakika.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T17:27:27.757137+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/dunya/haber-washington-daki-turk-festivali-nde-turkiye-azerbay-20348929/",
+          "title": "Washington'daki Türk Festivali'nde Türkiye-Azerbaycan dostluğu öne çıktı"
+        }
+      ],
+      "publisher_domains": [
+        "sondakika.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "ABD'de Türk rüzgarı",
       "normalized_title": "abd de turk ruzgari",
       "url": "https://m.aksam.com.tr/dunya/abdde-turk-ruzgari/haber-1707565",
@@ -998,7 +887,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647751+00:00",
+      "collected_at": "2026-10-20T17:27:27.757190+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1035,7 +924,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647907+00:00",
+      "collected_at": "2026-10-20T17:27:27.757417+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1063,29 +952,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Melike Şahin’den yeni doğan minik oğluyla yeni paylaşım: Sonunda kavuştuk!",
-      "normalized_title": "melike sahin den yeni dogan minik ogluyla yeni paylasim sonunda kavustuk",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/melike-sahinden-yeni-dogan-minik-ogluyla-yeni-paylasim-sonunda-kavustuk",
-      "source": "sabah.com.tr",
+      "title": "Melike Şahin Oğlunun Adını İlk Kez Duyurdu: Minik Bebeğiyle İlk Pozunu Verdi!",
+      "normalized_title": "melike sahin oglunun adini ilk kez duyurdu minik bebegiyle ilk pozunu verdi",
+      "url": "https://onedio.com/haber/melike-sahin-oglunun-adini-ilk-kez-duyurdu-minik-bebegiyle-ilk-pozunu-verdi-1389413",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647950+00:00",
+      "collected_at": "2026-10-20T17:27:27.757498+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/melike-sahinden-yeni-dogan-minik-ogluyla-yeni-paylasim-sonunda-kavustuk",
-          "title": "Melike Şahin’den yeni doğan minik oğluyla yeni paylaşım: Sonunda kavuştuk!"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/melike-sahin-oglunun-adini-ilk-kez-duyurdu-minik-bebegiyle-ilk-pozunu-verdi-1389413",
+          "title": "Melike Şahin Oğlunun Adını İlk Kez Duyurdu: Minik Bebeğiyle İlk Pozunu Verdi!"
         }
       ],
       "publisher_domains": [
-        "sabah.com.tr"
+        "onedio.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1100,127 +989,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Gupse Özay: İçimdeki çocuğu tamamen ortaya çıkardım",
-      "normalized_title": "gupse ozay icimdeki cocugu tamamen ortaya cikardim",
-      "url": "https://www.haberturk.com/magazin/foto/gupse-ozay-icimdeki-cocugu-tamamen-ortaya-cikardim-3920850",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.647985+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/gupse-ozay-icimdeki-cocugu-tamamen-ortaya-cikardim-3920850",
-          "title": "Gupse Özay: İçimdeki çocuğu tamamen ortaya çıkardım"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Gupi ve Gülmeyen Kral'a Festival Gibi Gala: Gupse Özay'ın Yeni Filmi İçin Geri Sayım Başladı!",
-      "normalized_title": "gupi ve gulmeyen kral a festival gibi gala gupse ozay in yeni filmi icin geri sayim basladi",
-      "url": "https://www.gecce.com.tr/haber/gupi-ve-gulmeyen-krala-festival-gibi-gala-gupse-ozayin-yeni-filmi-icin-geri-sayim-basladi-333090.html",
-      "source": "gecce.com.tr",
-      "source_role": "publisher",
-      "source_domain": "gecce.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.648034+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "gecce.com.tr",
-          "source_domain": "gecce.com.tr",
-          "url": "https://www.gecce.com.tr/haber/gupi-ve-gulmeyen-krala-festival-gibi-gala-gupse-ozayin-yeni-filmi-icin-geri-sayim-basladi-333090.html",
-          "title": "Gupi ve Gülmeyen Kral'a Festival Gibi Gala: Gupse Özay'ın Yeni Filmi İçin Geri Sayım Başladı!"
-        }
-      ],
-      "publisher_domains": [
-        "gecce.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Sinemaseverler Bu Haftaya Hazır Olsun! 23 Ekim’de 9 Yeni Film Vizyona Giriyor",
-      "normalized_title": "sinemaseverler bu haftaya hazir olsun 23 ekim de 9 yeni film vizyona giriyor",
-      "url": "https://www.gencgazete.net/sinemaseverler-bu-haftaya-hazir-olsun-23-ekimde-9-yeni-film-vizyona-giriyor",
-      "source": "gencgazete.net",
-      "source_role": "publisher",
-      "source_domain": "gencgazete.net",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.648076+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "gencgazete.net",
-          "source_domain": "gencgazete.net",
-          "url": "https://www.gencgazete.net/sinemaseverler-bu-haftaya-hazir-olsun-23-ekimde-9-yeni-film-vizyona-giriyor",
-          "title": "Sinemaseverler Bu Haftaya Hazır Olsun! 23 Ekim’de 9 Yeni Film Vizyona Giriyor"
-        }
-      ],
-      "publisher_domains": [
-        "gencgazete.net"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Onu dokuz ay karnında taşıdı, doğurup büyüttü... Evlat acısı yaşayan ünlü model sessizliğini bozdu... Tekrar buluşana dek tatlı oğlum!",
-      "normalized_title": "onu dokuz ay karninda tasidi dogurup buyuttu evlat acisi yasayan unlu model sessizligini bozdu tekrar bulusana dek tatli oglum",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/onu-dokuz-ay-karninda-tasidi-dogurup-buyuttu-sadece-27-yil-opup-koklayabildi-evlat-acisi-yasayan-unlu-model-43348251",
+      "title": "Gupse Özay: Eforla güzel olabiliyorum",
+      "normalized_title": "gupse ozay eforla guzel olabiliyorum",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/gupse-ozay-eforla-guzel-olabiliyorum-43348096",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.648171+00:00",
+      "collected_at": "2026-10-20T17:27:27.757559+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1228,8 +1006,8 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/onu-dokuz-ay-karninda-tasidi-dogurup-buyuttu-sadece-27-yil-opup-koklayabildi-evlat-acisi-yasayan-unlu-model-43348251",
-          "title": "Onu dokuz ay karnında taşıdı, doğurup büyüttü... Evlat acısı yaşayan ünlü model sessizliğini bozdu... Tekrar buluşana dek tatlı oğlum!"
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/gupse-ozay-eforla-guzel-olabiliyorum-43348096",
+          "title": "Gupse Özay: Eforla güzel olabiliyorum"
         }
       ],
       "publisher_domains": [
@@ -1248,29 +1026,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Cindy Crawford'dan oğlunun kaybı sonrası açıklama: 'Ölümüyle yıkıldık'",
-      "normalized_title": "cindy crawford dan oglunun kaybi sonrasi aciklama olumuyle yikildik",
-      "url": "https://tr.euronews.com/2026/10/19/cindy-crawforddan-oglunun-kaybi-sonrasi-aciklama-olumuyle-yikildik",
-      "source": "tr.euronews.com",
+      "title": "Gupse Özay güzellik dayatmalarına kahkaha dolu isyan",
+      "normalized_title": "gupse ozay guzellik dayatmalarina kahkaha dolu isyan",
+      "url": "https://www.ahaber.com.tr/galeri/magazin/baris-arducla-kiyaslanan-gupse-ozaydan-dikkat-ceken-itiraf",
+      "source": "ahaber.com.tr",
       "source_role": "publisher",
-      "source_domain": "tr.euronews.com",
+      "source_domain": "ahaber.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.648260+00:00",
+      "collected_at": "2026-10-20T17:27:27.757623+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/10/19/cindy-crawforddan-oglunun-kaybi-sonrasi-aciklama-olumuyle-yikildik",
-          "title": "Cindy Crawford'dan oğlunun kaybı sonrası açıklama: 'Ölümüyle yıkıldık'"
+          "source": "ahaber.com.tr",
+          "source_domain": "ahaber.com.tr",
+          "url": "https://www.ahaber.com.tr/galeri/magazin/baris-arducla-kiyaslanan-gupse-ozaydan-dikkat-ceken-itiraf",
+          "title": "Gupse Özay güzellik dayatmalarına kahkaha dolu isyan"
         }
       ],
       "publisher_domains": [
-        "tr.euronews.com"
+        "ahaber.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1285,16 +1063,164 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Çağatay Ulusoy ve Kıvanç Tatlıtuğ'un 8 Yıllık Değişimi Gündem Oldu: Hangisi Daha Çok Değişmiş?",
-      "normalized_title": "cagatay ulusoy ve kivanc tatlitug un 8 yillik degisimi gundem oldu hangisi daha cok degismis",
-      "url": "https://onedio.com/haber/cagatay-ulusoy-ve-kivanc-tatlitug-un-8-yillik-degisimi-gundem-oldu-hangisi-daha-cok-degismis-1389691",
+      "title": "Gupse Özay’Dan Şoke Eden İtiraf!",
+      "normalized_title": "gupse ozay dan soke eden itiraf",
+      "url": "https://www.memurlar.net/album/28343/gupse-ozay-dan-soke-eden-itiraf.html",
+      "source": "memurlar.net",
+      "source_role": "publisher",
+      "source_domain": "memurlar.net",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T17:27:27.757681+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "memurlar.net",
+          "source_domain": "memurlar.net",
+          "url": "https://www.memurlar.net/album/28343/gupse-ozay-dan-soke-eden-itiraf.html",
+          "title": "Gupse Özay’Dan Şoke Eden İtiraf!"
+        }
+      ],
+      "publisher_domains": [
+        "memurlar.net"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Gupse Özay'ın 'Deliha' için aldığı 23 kilo sağlığını bozdu",
+      "normalized_title": "gupse ozay in deliha icin aldigi 23 kilo sagligini bozdu",
+      "url": "https://www.haberler.com/haberler/gupse-ozayin-deliha-icin-aldigi-23-kilo-sagligini-20343318-haberi/",
+      "source": "haberler.com",
+      "source_role": "publisher",
+      "source_domain": "haberler.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T17:27:27.757751+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/haberler/gupse-ozayin-deliha-icin-aldigi-23-kilo-sagligini-20343318-haberi/",
+          "title": "Gupse Özay'ın 'Deliha' için aldığı 23 kilo sağlığını bozdu"
+        }
+      ],
+      "publisher_domains": [
+        "haberler.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "The Rock'ın yıldızı Dwayne Johnson 1 yılda 22 kilo verdi! - Magazin Haberleri",
+      "normalized_title": "the rock in yildizi dwayne johnson 1 yilda 22 kilo verdi magazin haberleri",
+      "url": "https://www.mynet.com/magazin/the-rock-in-yildizi-dwayne-johnson-1-yilda-22-kilo-verdi-130100604891",
+      "source": "mynet.com",
+      "source_role": "publisher",
+      "source_domain": "mynet.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T17:27:27.757828+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "mynet.com",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/the-rock-in-yildizi-dwayne-johnson-1-yilda-22-kilo-verdi-130100604891",
+          "title": "The Rock'ın yıldızı Dwayne Johnson 1 yılda 22 kilo verdi! - Magazin Haberleri"
+        }
+      ],
+      "publisher_domains": [
+        "mynet.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Can Bonomo babasını son yolculuğuna uğurladı... Yorumlara tepki gösterdi!",
+      "normalized_title": "can bonomo babasini son yolculuguna ugurladi yorumlara tepki gosterdi",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/can-bonomo-babasini-son-yolculuguna-ugurladi-yorumlara-tepki-gosterdi-43347594",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T17:27:27.757965+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/can-bonomo-babasini-son-yolculuguna-ugurladi-yorumlara-tepki-gosterdi-43347594",
+          "title": "Can Bonomo babasını son yolculuğuna uğurladı... Yorumlara tepki gösterdi!"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Babasına Veda Eden Can Bonomo'yla Dalga Geçenlere Murat Dalkılıç'tan Sert Sözler!",
+      "normalized_title": "babasina veda eden can bonomo yla dalga gecenlere murat dalkilic tan sert sozler",
+      "url": "https://onedio.com/haber/babasina-veda-eden-can-bonomo-yla-dalga-gecenlere-murat-dalkilic-tan-sert-sozler-1389719",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T11:55:17.648309+00:00",
+      "collected_at": "2026-10-20T17:27:27.758109+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1302,8 +1228,82 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/cagatay-ulusoy-ve-kivanc-tatlitug-un-8-yillik-degisimi-gundem-oldu-hangisi-daha-cok-degismis-1389691",
-          "title": "Çağatay Ulusoy ve Kıvanç Tatlıtuğ'un 8 Yıllık Değişimi Gündem Oldu: Hangisi Daha Çok Değişmiş?"
+          "url": "https://onedio.com/haber/babasina-veda-eden-can-bonomo-yla-dalga-gecenlere-murat-dalkilic-tan-sert-sozler-1389719",
+          "title": "Babasına Veda Eden Can Bonomo'yla Dalga Geçenlere Murat Dalkılıç'tan Sert Sözler!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Hülya Avşar'ın yürüyüşüyle ilgili yorumu eleştiri toplayan Erkan Petekkaya sessizliğini bozdu",
+      "normalized_title": "hulya avsar in yuruyusuyle ilgili yorumu elestiri toplayan erkan petekkaya sessizligini bozdu",
+      "url": "https://www.cumhuriyet.com.tr/magazin/hulya-avsar-in-yuruyusuyle-ilgili-yorumu-elestiri-toplayan-erkan-petekkaya-sessizligini-bozdu-2548463",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T17:27:27.758327+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/hulya-avsar-in-yuruyusuyle-ilgili-yorumu-elestiri-toplayan-erkan-petekkaya-sessizligini-bozdu-2548463",
+          "title": "Hülya Avşar'ın yürüyüşüyle ilgili yorumu eleştiri toplayan Erkan Petekkaya sessizliğini bozdu"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Deha'nın İskender'iydi: Neslihan Atagül'ün Dönüş Dizisi Kaderin Cilvesi'ne Usta Bir İsim Daha Katıldı!",
+      "normalized_title": "deha nin iskender iydi neslihan atagul un donus dizisi kaderin cilvesi ne usta bir isim daha katildi",
+      "url": "https://onedio.com/haber/deha-nin-iskender-iydi-neslihan-atagul-un-donus-dizisi-kaderin-cilvesi-ne-usta-bir-isim-daha-katildi-1389437",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T17:27:27.758507+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/deha-nin-iskender-iydi-neslihan-atagul-un-donus-dizisi-kaderin-cilvesi-ne-usta-bir-isim-daha-katildi-1389437",
+          "title": "Deha'nın İskender'iydi: Neslihan Atagül'ün Dönüş Dizisi Kaderin Cilvesi'ne Usta Bir İsim Daha Katıldı!"
         }
       ],
       "publisher_domains": [
