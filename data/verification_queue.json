@@ -1,107 +1,9 @@
 {
-  "generated_at": "2026-10-20T07:18:47.880380+00:00",
+  "generated_at": "2026-10-20T11:55:55.295682+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
-    {
-      "title": "Selena Gomez'den elektronik sigara itirafı: Sesimi değiştirdi, geri dönüşü yok",
-      "normalized_title": "selena gomez den elektronik sigara itirafi sesimi degistirdi geri donusu yok",
-      "url": "https://www.haberler.com/haberler/selena-gomezden-elektronik-sigara-itirafi-sesimi-20345003-haberi/",
-      "source": "haberler.com",
-      "source_role": "publisher",
-      "source_domain": "haberler.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.204715+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/selena-gomez-elektronik-sigara-sesimi-degistirdi/",
-          "title": "Selena Gomez: Elektronik sigara sesimi değiştirdi"
-        },
-        {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/magazin/selena-gomezden-elektronik-sigara-itirafi-sesimi-degistirdigini-dusunuyorum,1354149",
-          "title": "Selena Gomez'den elektronik sigara itirafı: Sesimi değiştirdiğini düşünüyorum"
-        },
-        {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/haberler/selena-gomezden-elektronik-sigara-itirafi-sesimi-20345003-haberi/",
-          "title": "Selena Gomez'den elektronik sigara itirafı: Sesimi değiştirdi, geri dönüşü yok"
-        }
-      ],
-      "publisher_domains": [
-        "diken.com.tr",
-        "haberler.com",
-        "t24.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Selena Gomez'den elektronik sigara itirafı: Sesimi değiştirdi, geri dönüşü yok - Haberler",
-        "og_title": "Selena Gomez'den elektronik sigara itirafı: Sesimi değiştirdi, geri dönüşü yok",
-        "description": "Dünyaca ünlü şarkıcı ve oyuncu Selena Gomez, uzun süre nikotinli elektronik sigara kullandığını ve bunun sesini kalıcı olarak değiştirdiğini açıkladı. 34 yaşındaki yıldız, nikotini bıraktığını da duyurdu.",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "title": "Selena Gomez: Elektronik sigara sesimi değiştirdi",
-          "summary": "",
-          "url": "https://www.diken.com.tr/selena-gomez-elektronik-sigara-sesimi-degistirdi/",
-          "match_score": 0.76,
-          "shared_keywords": [
-            "degistirdi",
-            "elektronik",
-            "gomez",
-            "selena",
-            "sesimi",
-            "sigara"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        },
-        {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "title": "Selena Gomez'den elektronik sigara itirafı: Sesimi değiştirdiğini düşünüyorum",
-          "summary": "",
-          "url": "https://t24.com.tr/magazin/selena-gomezden-elektronik-sigara-itirafi-sesimi-degistirdigini-dusunuyorum,1354149",
-          "match_score": 0.77,
-          "shared_keywords": [
-            "elektronik",
-            "gomez",
-            "itiraf",
-            "selena",
-            "sesimi",
-            "sigara"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
     {
       "title": "Yeşilçam'ın 92 Yaşındaki Efsane Jönü İzzet Günay'ın Son Hali Cenazede Ortaya Çıktı!",
       "normalized_title": "yesilcam in 92 yasindaki efsane jonu izzet gunay in son hali cenazede ortaya cikti",
@@ -112,7 +14,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.200839+00:00",
+      "collected_at": "2026-10-20T11:55:17.647354+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -174,16 +76,16 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Beşiktaş Başkanı Serdal Adalı'nın oğlu Serhan Kerim Adalı, oyuncu Rabia Soytürk ile yeni bir ilişkiye yelken açtı",
-      "normalized_title": "besiktas baskani serdal adali nin oglu serhan kerim adali oyuncu rabia soyturk ile yeni bir iliskiye yelken acti",
-      "url": "https://www.patronlardunyasi.com/besiktas-baskani-serdal-adalinin-oglu-serhan-kerim-adali-oyuncu-rabia-soyturk-ile-yeni-bir-iliskiye-yelken-acti",
-      "source": "patronlardunyasi.com",
+      "title": "Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor?",
+      "normalized_title": "serhan kerim adali kimdir kimin oglu rabia soyturk un sevgilisi serhan kerim adali ne is yapiyor",
+      "url": "https://www.cumhuriyet.com.tr/yasam/serhan-kerim-adali-kimdir-kimin-oglu-rabia-soyturk-un-sevgilisi-serhan-kerim-adali-ne-is-yapiyor-2548476",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "patronlardunyasi.com",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.201785+00:00",
+      "collected_at": "2026-10-20T11:55:17.647614+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -195,15 +97,15 @@
           "title": "Rabia Soytürk ile Serhan Kerim Adalı aşk yaşıyor"
         },
         {
-          "source": "patronlardunyasi.com",
-          "source_domain": "patronlardunyasi.com",
-          "url": "https://www.patronlardunyasi.com/besiktas-baskani-serdal-adalinin-oglu-serhan-kerim-adali-oyuncu-rabia-soyturk-ile-yeni-bir-iliskiye-yelken-acti",
-          "title": "Beşiktaş Başkanı Serdal Adalı'nın oğlu Serhan Kerim Adalı, oyuncu Rabia Soytürk ile yeni bir ilişkiye yelken açtı"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/yasam/serhan-kerim-adali-kimdir-kimin-oglu-rabia-soyturk-un-sevgilisi-serhan-kerim-adali-ne-is-yapiyor-2548476",
+          "title": "Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor?"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "patronlardunyasi.com"
+        "cumhuriyet.com.tr",
+        "haberturk.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -219,9 +121,9 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Beşiktaş Başkanı Serdal Adalı'nın oğlu Serhan Kerim Adalı, oyuncu Rabia Soytürk ile yeni bir ilişkiye yelken açtı - Patronlar Dünyası",
-        "og_title": "Beşiktaş Başkanı Serdal Adalı'nın oğlu Serhan Kerim Adalı, oyuncu Rabia Soytürk ile yeni bir ilişkiye yelken açtı - Patronlar Dünyası",
-        "description": "Oyuncu Rabia Soytürk (27), temmuz ayında eşi Aslı Lal'dan tek celsede boşanan Beşiktaş Kulübü Başkanı Serdal Adalı'nın oğlu Serhan Kerim Adalı (32) ile yeni bir ilişkiye başladı.",
+        "page_title": "Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor? - Son Dakika Yaşam Haberleri | Cumhuriyet",
+        "og_title": "Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor?",
+        "description": "Oyuncu Rabia Soytürk ile Serhan Kerim Adalı yeni bir aşka yelken açtı. Peki, Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor?",
         "error": null
       },
       "independent_source_matches": [
@@ -231,13 +133,86 @@
           "title": "Rabia Soytürk ile Serhan Kerim Adalı aşk yaşıyor",
           "summary": "",
           "url": "https://www.haberturk.com/magazin/foto/rabia-soyturk-ile-serhan-kerim-adali-ask-yasiyor-3920982",
-          "match_score": 0.54,
+          "match_score": 0.66,
           "shared_keywords": [
             "adal",
             "kerim",
             "rabia",
             "serhan",
-            "soyturk"
+            "soyturk",
+            "yor"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Ogün Sanlısoy Washington'da sahne aldı! Türk Festivali'nde rock rüzgârı esti",
+      "normalized_title": "ogun sanlisoy washington da sahne aldi turk festivali nde rock ruzgari esti",
+      "url": "https://www.bursadabugun.com/haber/ogun-sanlisoy-washington-da-sahne-aldi-turk-festivali-nde-rock-ruzgari-esti-1957844.html",
+      "source": "bursadabugun.com",
+      "source_role": "publisher",
+      "source_domain": "bursadabugun.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T11:55:17.647794+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/ogun-sanlisoy-abd-de-sahne-aldi-3920997",
+          "title": "Ogün Sanlısoy, ABD'de sahne aldı"
+        },
+        {
+          "source": "bursadabugun.com",
+          "source_domain": "bursadabugun.com",
+          "url": "https://www.bursadabugun.com/haber/ogun-sanlisoy-washington-da-sahne-aldi-turk-festivali-nde-rock-ruzgari-esti-1957844.html",
+          "title": "Ogün Sanlısoy Washington'da sahne aldı! Türk Festivali'nde rock rüzgârı esti"
+        }
+      ],
+      "publisher_domains": [
+        "bursadabugun.com",
+        "haberturk.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Ogün Sanlısoy Washington'da sahne aldı! Türk Festivali'nde rock rüzgârı esti - Magazin Haberleri - Bursadabugun.com",
+        "og_title": "Ogün Sanlısoy Washington'da sahne aldı! Türk Festivali'nde rock rüzg&acirc;rı esti",
+        "description": "Türk rock müziğinin güçlü isimlerinden Ogün Sanlısoy, ABD'nin başkenti Washington'da düzenlenen geleneksel Türk Festivali'nde sahneye çıktı. Yurt dışında yaşayan Türklerle ve müzikseverlerle buluşan sanatçı, festival programında yer alarak Türk müziğinin uluslararası etkinliklerdeki temsilcileri arasında yerini aldı.",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "title": "Ogün Sanlısoy, ABD'de sahne aldı",
+          "summary": "",
+          "url": "https://www.haberturk.com/magazin/ogun-sanlisoy-abd-de-sahne-aldi-3920997",
+          "match_score": 0.62,
+          "shared_keywords": [
+            "ald",
+            "ogun",
+            "sahne",
+            "sanl",
+            "soy"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"

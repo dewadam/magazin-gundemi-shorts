@@ -1,63 +1,12 @@
 {
-  "generated_at": "2026-10-20T07:18:44.954699+00:00",
+  "generated_at": "2026-10-20T11:55:53.723814+00:00",
   "candidate_count": 100,
-  "event_group_count": 48,
-  "multi_publisher_event_count": 11,
+  "event_group_count": 50,
+  "multi_publisher_event_count": 10,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
-    {
-      "title": "Selena Gomez'den elektronik sigara itirafı: Sesimi değiştirdi, geri dönüşü yok",
-      "normalized_title": "selena gomez den elektronik sigara itirafi sesimi degistirdi geri donusu yok",
-      "url": "https://www.haberler.com/haberler/selena-gomezden-elektronik-sigara-itirafi-sesimi-20345003-haberi/",
-      "source": "haberler.com",
-      "source_role": "publisher",
-      "source_domain": "haberler.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.204715+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/selena-gomez-elektronik-sigara-sesimi-degistirdi/",
-          "title": "Selena Gomez: Elektronik sigara sesimi değiştirdi"
-        },
-        {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/magazin/selena-gomezden-elektronik-sigara-itirafi-sesimi-degistirdigini-dusunuyorum,1354149",
-          "title": "Selena Gomez'den elektronik sigara itirafı: Sesimi değiştirdiğini düşünüyorum"
-        },
-        {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/haberler/selena-gomezden-elektronik-sigara-itirafi-sesimi-20345003-haberi/",
-          "title": "Selena Gomez'den elektronik sigara itirafı: Sesimi değiştirdi, geri dönüşü yok"
-        }
-      ],
-      "publisher_domains": [
-        "diken.com.tr",
-        "haberler.com",
-        "t24.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
     {
       "title": "Yeşilçam'ın 92 Yaşındaki Efsane Jönü İzzet Günay'ın Son Hali Cenazede Ortaya Çıktı!",
       "normalized_title": "yesilcam in 92 yasindaki efsane jonu izzet gunay in son hali cenazede ortaya cikti",
@@ -68,7 +17,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.200839+00:00",
+      "collected_at": "2026-10-20T11:55:17.647354+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -103,16 +52,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Beşiktaş Başkanı Serdal Adalı'nın oğlu Serhan Kerim Adalı, oyuncu Rabia Soytürk ile yeni bir ilişkiye yelken açtı",
-      "normalized_title": "besiktas baskani serdal adali nin oglu serhan kerim adali oyuncu rabia soyturk ile yeni bir iliskiye yelken acti",
-      "url": "https://www.patronlardunyasi.com/besiktas-baskani-serdal-adalinin-oglu-serhan-kerim-adali-oyuncu-rabia-soyturk-ile-yeni-bir-iliskiye-yelken-acti",
-      "source": "patronlardunyasi.com",
+      "title": "Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor?",
+      "normalized_title": "serhan kerim adali kimdir kimin oglu rabia soyturk un sevgilisi serhan kerim adali ne is yapiyor",
+      "url": "https://www.cumhuriyet.com.tr/yasam/serhan-kerim-adali-kimdir-kimin-oglu-rabia-soyturk-un-sevgilisi-serhan-kerim-adali-ne-is-yapiyor-2548476",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "patronlardunyasi.com",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.201785+00:00",
+      "collected_at": "2026-10-20T11:55:17.647614+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -124,15 +73,59 @@
           "title": "Rabia Soytürk ile Serhan Kerim Adalı aşk yaşıyor"
         },
         {
-          "source": "patronlardunyasi.com",
-          "source_domain": "patronlardunyasi.com",
-          "url": "https://www.patronlardunyasi.com/besiktas-baskani-serdal-adalinin-oglu-serhan-kerim-adali-oyuncu-rabia-soyturk-ile-yeni-bir-iliskiye-yelken-acti",
-          "title": "Beşiktaş Başkanı Serdal Adalı'nın oğlu Serhan Kerim Adalı, oyuncu Rabia Soytürk ile yeni bir ilişkiye yelken açtı"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/yasam/serhan-kerim-adali-kimdir-kimin-oglu-rabia-soyturk-un-sevgilisi-serhan-kerim-adali-ne-is-yapiyor-2548476",
+          "title": "Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor?"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "patronlardunyasi.com"
+        "cumhuriyet.com.tr",
+        "haberturk.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Ogün Sanlısoy Washington'da sahne aldı! Türk Festivali'nde rock rüzgârı esti",
+      "normalized_title": "ogun sanlisoy washington da sahne aldi turk festivali nde rock ruzgari esti",
+      "url": "https://www.bursadabugun.com/haber/ogun-sanlisoy-washington-da-sahne-aldi-turk-festivali-nde-rock-ruzgari-esti-1957844.html",
+      "source": "bursadabugun.com",
+      "source_role": "publisher",
+      "source_domain": "bursadabugun.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T11:55:17.647794+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/ogun-sanlisoy-abd-de-sahne-aldi-3920997",
+          "title": "Ogün Sanlısoy, ABD'de sahne aldı"
+        },
+        {
+          "source": "bursadabugun.com",
+          "source_domain": "bursadabugun.com",
+          "url": "https://www.bursadabugun.com/haber/ogun-sanlisoy-washington-da-sahne-aldi-turk-festivali-nde-rock-ruzgari-esti-1957844.html",
+          "title": "Ogün Sanlısoy Washington'da sahne aldı! Türk Festivali'nde rock rüzgârı esti"
+        }
+      ],
+      "publisher_domains": [
+        "bursadabugun.com",
+        "haberturk.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -149,57 +142,6 @@
   ],
   "event_groups_preview": [
     {
-      "title": "Selena Gomez'den elektronik sigara itirafı: Sesimi değiştirdi, geri dönüşü yok",
-      "normalized_title": "selena gomez den elektronik sigara itirafi sesimi degistirdi geri donusu yok",
-      "url": "https://www.haberler.com/haberler/selena-gomezden-elektronik-sigara-itirafi-sesimi-20345003-haberi/",
-      "source": "haberler.com",
-      "source_role": "publisher",
-      "source_domain": "haberler.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.204715+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/selena-gomez-elektronik-sigara-sesimi-degistirdi/",
-          "title": "Selena Gomez: Elektronik sigara sesimi değiştirdi"
-        },
-        {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/magazin/selena-gomezden-elektronik-sigara-itirafi-sesimi-degistirdigini-dusunuyorum,1354149",
-          "title": "Selena Gomez'den elektronik sigara itirafı: Sesimi değiştirdiğini düşünüyorum"
-        },
-        {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/haberler/selena-gomezden-elektronik-sigara-itirafi-sesimi-20345003-haberi/",
-          "title": "Selena Gomez'den elektronik sigara itirafı: Sesimi değiştirdi, geri dönüşü yok"
-        }
-      ],
-      "publisher_domains": [
-        "diken.com.tr",
-        "haberler.com",
-        "t24.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
       "title": "Yeşilçam'ın 92 Yaşındaki Efsane Jönü İzzet Günay'ın Son Hali Cenazede Ortaya Çıktı!",
       "normalized_title": "yesilcam in 92 yasindaki efsane jonu izzet gunay in son hali cenazede ortaya cikti",
       "url": "https://onedio.com/haber/yesilcam-in-92-yasindaki-efsane-jonu-izzet-gunay-in-son-hali-cenazede-ortaya-cikti-1389674",
@@ -209,7 +151,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.200839+00:00",
+      "collected_at": "2026-10-20T11:55:17.647354+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -244,16 +186,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Beşiktaş Başkanı Serdal Adalı'nın oğlu Serhan Kerim Adalı, oyuncu Rabia Soytürk ile yeni bir ilişkiye yelken açtı",
-      "normalized_title": "besiktas baskani serdal adali nin oglu serhan kerim adali oyuncu rabia soyturk ile yeni bir iliskiye yelken acti",
-      "url": "https://www.patronlardunyasi.com/besiktas-baskani-serdal-adalinin-oglu-serhan-kerim-adali-oyuncu-rabia-soyturk-ile-yeni-bir-iliskiye-yelken-acti",
-      "source": "patronlardunyasi.com",
+      "title": "Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor?",
+      "normalized_title": "serhan kerim adali kimdir kimin oglu rabia soyturk un sevgilisi serhan kerim adali ne is yapiyor",
+      "url": "https://www.cumhuriyet.com.tr/yasam/serhan-kerim-adali-kimdir-kimin-oglu-rabia-soyturk-un-sevgilisi-serhan-kerim-adali-ne-is-yapiyor-2548476",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "patronlardunyasi.com",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.201785+00:00",
+      "collected_at": "2026-10-20T11:55:17.647614+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -265,15 +207,15 @@
           "title": "Rabia Soytürk ile Serhan Kerim Adalı aşk yaşıyor"
         },
         {
-          "source": "patronlardunyasi.com",
-          "source_domain": "patronlardunyasi.com",
-          "url": "https://www.patronlardunyasi.com/besiktas-baskani-serdal-adalinin-oglu-serhan-kerim-adali-oyuncu-rabia-soyturk-ile-yeni-bir-iliskiye-yelken-acti",
-          "title": "Beşiktaş Başkanı Serdal Adalı'nın oğlu Serhan Kerim Adalı, oyuncu Rabia Soytürk ile yeni bir ilişkiye yelken açtı"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/yasam/serhan-kerim-adali-kimdir-kimin-oglu-rabia-soyturk-un-sevgilisi-serhan-kerim-adali-ne-is-yapiyor-2548476",
+          "title": "Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor?"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "patronlardunyasi.com"
+        "cumhuriyet.com.tr",
+        "haberturk.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -288,60 +230,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Usta Aktör Uğur Polat Kaderin Cilvesi Dizisinde! İşte Heyecanlandıran Rolü",
-      "normalized_title": "usta aktor ugur polat kaderin cilvesi dizisinde iste heyecanlandiran rolu",
-      "url": "https://www.gecce.com.tr/haber/usta-aktor-ugur-polat-kaderin-cilvesi-dizisinde-iste-heyecanlandiran-rolu-333095.html",
-      "source": "gecce.com.tr",
+      "title": "Ogün Sanlısoy Washington'da sahne aldı! Türk Festivali'nde rock rüzgârı esti",
+      "normalized_title": "ogun sanlisoy washington da sahne aldi turk festivali nde rock ruzgari esti",
+      "url": "https://www.bursadabugun.com/haber/ogun-sanlisoy-washington-da-sahne-aldi-turk-festivali-nde-rock-ruzgari-esti-1957844.html",
+      "source": "bursadabugun.com",
       "source_role": "publisher",
-      "source_domain": "gecce.com.tr",
+      "source_domain": "bursadabugun.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.202435+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "gazeteduvar.com.tr",
-          "source_domain": "gazeteduvar.com.tr",
-          "url": "https://www.gazeteduvar.com.tr/ugur-polat-kaderin-cilvesi-dizisinin-kadrosuna-katildi-haber-1766707",
-          "title": "Uğur Polat, Kaderin Cilvesi dizisinin kadrosuna katıldı"
-        },
-        {
-          "source": "gecce.com.tr",
-          "source_domain": "gecce.com.tr",
-          "url": "https://www.gecce.com.tr/haber/usta-aktor-ugur-polat-kaderin-cilvesi-dizisinde-iste-heyecanlandiran-rolu-333095.html",
-          "title": "Usta Aktör Uğur Polat Kaderin Cilvesi Dizisinde! İşte Heyecanlandıran Rolü"
-        }
-      ],
-      "publisher_domains": [
-        "gazeteduvar.com.tr",
-        "gecce.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Hülya Avşar'ın Yürüyüşünü Eleştiren Erkan Petekkaya'dan Beklenmedik Savunma!",
-      "normalized_title": "hulya avsar in yuruyusunu elestiren erkan petekkaya dan beklenmedik savunma",
-      "url": "https://onedio.com/haber/hulya-avsar-in-yuruyusunu-elestiren-erkan-petekkaya-dan-beklenmedik-savunma-1389666",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.202579+00:00",
+      "collected_at": "2026-10-20T11:55:17.647794+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -349,19 +247,63 @@
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/erkan-petekkaya-dan-hulya-avsar-aciklamasi-3920923",
-          "title": "Erkan Petekkaya'dan Hülya Avşar açıklaması"
+          "url": "https://www.haberturk.com/magazin/ogun-sanlisoy-abd-de-sahne-aldi-3920997",
+          "title": "Ogün Sanlısoy, ABD'de sahne aldı"
         },
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/hulya-avsar-in-yuruyusunu-elestiren-erkan-petekkaya-dan-beklenmedik-savunma-1389666",
-          "title": "Hülya Avşar'ın Yürüyüşünü Eleştiren Erkan Petekkaya'dan Beklenmedik Savunma!"
+          "source": "bursadabugun.com",
+          "source_domain": "bursadabugun.com",
+          "url": "https://www.bursadabugun.com/haber/ogun-sanlisoy-washington-da-sahne-aldi-turk-festivali-nde-rock-ruzgari-esti-1957844.html",
+          "title": "Ogün Sanlısoy Washington'da sahne aldı! Türk Festivali'nde rock rüzgârı esti"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "onedio.com"
+        "bursadabugun.com",
+        "haberturk.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Melike Şahin bebeğinin adını açıkladı: Ali Robin",
+      "normalized_title": "melike sahin bebeginin adini acikladi ali robin",
+      "url": "https://www.odatv.com/magazin/melike-sahin-bebeginin-adini-acikladi-ali-robin-120167257",
+      "source": "odatv.com",
+      "source_role": "publisher",
+      "source_domain": "odatv.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T11:55:17.647830+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/melike-sahin-bebeginin-adini-acikladi-ali-robin-120167257",
+          "title": "Melike Şahin bebeğinin adını açıkladı: Ali Robin"
+        },
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/iste-melike-sahinin-oglu-ali-robin-43347299",
+          "title": "İşte Melike Şahin'in oğlu Ali Robin!"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr",
+        "odatv.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -385,7 +327,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.203088+00:00",
+      "collected_at": "2026-10-20T11:55:17.648221+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -420,6 +362,94 @@
       "coverage_label": "multi_publisher"
     },
     {
+      "title": "Usta Aktör Uğur Polat Kaderin Cilvesi Dizisinde! İşte Heyecanlandıran Rolü",
+      "normalized_title": "usta aktor ugur polat kaderin cilvesi dizisinde iste heyecanlandiran rolu",
+      "url": "https://www.gecce.com.tr/haber/usta-aktor-ugur-polat-kaderin-cilvesi-dizisinde-iste-heyecanlandiran-rolu-333095.html",
+      "source": "gecce.com.tr",
+      "source_role": "publisher",
+      "source_domain": "gecce.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T11:55:17.648616+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "gazeteduvar.com.tr",
+          "source_domain": "gazeteduvar.com.tr",
+          "url": "https://www.gazeteduvar.com.tr/ugur-polat-kaderin-cilvesi-dizisinin-kadrosuna-katildi-haber-1766707",
+          "title": "Uğur Polat, Kaderin Cilvesi dizisinin kadrosuna katıldı"
+        },
+        {
+          "source": "gecce.com.tr",
+          "source_domain": "gecce.com.tr",
+          "url": "https://www.gecce.com.tr/haber/usta-aktor-ugur-polat-kaderin-cilvesi-dizisinde-iste-heyecanlandiran-rolu-333095.html",
+          "title": "Usta Aktör Uğur Polat Kaderin Cilvesi Dizisinde! İşte Heyecanlandıran Rolü"
+        }
+      ],
+      "publisher_domains": [
+        "gazeteduvar.com.tr",
+        "gecce.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Can Bonomo'nun kardeşi Funda Bonomo'dan o yorumlara tepki",
+      "normalized_title": "can bonomo nun kardesi funda bonomo dan o yorumlara tepki",
+      "url": "https://www.haberturk.com/magazin/can-bonomo-nun-kardesi-funda-bonomo-dan-gelen-yahudilik-yorumlara-tepki-3920715",
+      "source": "haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T11:55:17.648723+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/can-bonomodan-babasina-son-gorev-120167379",
+          "title": "Can Bonomo'dan babasına son görev"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/can-bonomo-nun-kardesi-funda-bonomo-dan-gelen-yahudilik-yorumlara-tepki-3920715",
+          "title": "Can Bonomo'nun kardeşi Funda Bonomo'dan o yorumlara tepki"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "odatv.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
       "title": "Rusya'nın Ankara Büyükelçisi, oyuncu Halit Ergenç ile bir araya geldi: Türk dizileri Ruslar tarafından beğeniyle takip ediliyor",
       "normalized_title": "rusya nin ankara buyukelcisi oyuncu halit ergenc ile bir araya geldi turk dizileri ruslar tarafindan begeniyle takip ediliyor",
       "url": "https://t24.com.tr/gundem/rusyanin-ankara-buyukelcisi-oyuncu-halit-ergenc-ile-bir-araya-geldi-turk-dizileri-ruslar-tarafindan-begeniyle-takip-ediliyor,1353810",
@@ -429,7 +459,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.203251+00:00",
+      "collected_at": "2026-10-20T11:55:17.648854+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -464,36 +494,80 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Babasına Veda Eden Can Bonomo'yla Dalga Geçenlere Murat Dalkılıç'tan Sert Sözler!",
-      "normalized_title": "babasina veda eden can bonomo yla dalga gecenlere murat dalkilic tan sert sozler",
-      "url": "https://onedio.com/haber/babasina-veda-eden-can-bonomo-yla-dalga-gecenlere-murat-dalkilic-tan-sert-sozler-1389719",
-      "source": "onedio.com",
+      "title": "Selena Gomez'den elektronik sigara itirafı: Sesimi değiştirdiğini düşünüyorum",
+      "normalized_title": "selena gomez den elektronik sigara itirafi sesimi degistirdigini dusunuyorum",
+      "url": "https://t24.com.tr/magazin/selena-gomezden-elektronik-sigara-itirafi-sesimi-degistirdigini-dusunuyorum,1354149",
+      "source": "t24.com.tr",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "t24.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.204263+00:00",
+      "collected_at": "2026-10-20T11:55:17.649411+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/magazin/can-bonomodan-babasina-son-gorev-120167379",
-          "title": "Can Bonomo'dan babasına son görev"
+          "source": "diken.com.tr",
+          "source_domain": "diken.com.tr",
+          "url": "https://www.diken.com.tr/selena-gomez-elektronik-sigara-sesimi-degistirdi/",
+          "title": "Selena Gomez: Elektronik sigara sesimi değiştirdi"
         },
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/babasina-veda-eden-can-bonomo-yla-dalga-gecenlere-murat-dalkilic-tan-sert-sozler-1389719",
-          "title": "Babasına Veda Eden Can Bonomo'yla Dalga Geçenlere Murat Dalkılıç'tan Sert Sözler!"
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/selena-gomezden-elektronik-sigara-itirafi-sesimi-degistirdigini-dusunuyorum,1354149",
+          "title": "Selena Gomez'den elektronik sigara itirafı: Sesimi değiştirdiğini düşünüyorum"
         }
       ],
       "publisher_domains": [
-        "odatv.com",
-        "onedio.com"
+        "diken.com.tr",
+        "t24.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Büyük pişmanlığını açıkladı! Selena Gomez’in sesindeki değişimin gerçek sebebi ortaya çıktı",
+      "normalized_title": "buyuk pismanligini acikladi selena gomez in sesindeki degisimin gercek sebebi ortaya cikti",
+      "url": "https://m.sabah.com.tr/trend/galeri/magazin/dunyaca-unlu-isim-pismanligini-acikladi-selena-gomezin-sesindeki-degisimin-gercek-sebebi-ortaya-cikti",
+      "source": "m.sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "m.sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T11:55:17.649370+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "m.sabah.com.tr",
+          "source_domain": "m.sabah.com.tr",
+          "url": "https://m.sabah.com.tr/trend/galeri/magazin/dunyaca-unlu-isim-pismanligini-acikladi-selena-gomezin-sesindeki-degisimin-gercek-sebebi-ortaya-cikti",
+          "title": "Büyük pişmanlığını açıkladı! Selena Gomez’in sesindeki değişimin gerçek sebebi ortaya çıktı"
+        },
+        {
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/haber/haber-selena-gomezden-elektronik-sigara-itirafi-sesimi-20345004/",
+          "title": "Selena Gomez sesindeki değişimin sebebini açıkladı: Nikotinli e-sigara"
+        }
+      ],
+      "publisher_domains": [
+        "m.sabah.com.tr",
+        "sondakika.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -517,7 +591,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.204912+00:00",
+      "collected_at": "2026-10-20T11:55:17.649548+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -527,142 +601,10 @@
           "source_domain": "hurriyet.com.tr",
           "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yonetmenin-gururu-kadraja-sigmadi-43346222",
           "title": "Yönetmenin gururu kadraja sığmadı"
-        },
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/gururu-kadraja-sigmadi-7682062",
-          "title": "Gururu kadraja sığmadı"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr",
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Canlı müzik anlaşmazlığı mahkemeye taşındı: Oyuncu Celil Nalçakan hakkında uzaklaştırma kararı",
-      "normalized_title": "canli muzik anlasmazligi mahkemeye tasindi oyuncu celil nalcakan hakkinda uzaklastirma karari",
-      "url": "https://t24.com.tr/magazin/canli-muzik-anlasmazligi-mahkemeye-tasindi-oyuncu-celil-nalcakan-hakkinda-uzaklastirma-karari,1354018",
-      "source": "t24.com.tr",
-      "source_role": "publisher",
-      "source_domain": "t24.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.205318+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/magazin/aynil-topaloglundan-celil-nalcakana-tehdit-ve-hakaret-uzaklastirmasi-120167312",
-          "title": "Celil Nalçakan'a mahkemeden uzaklaştırma kararı şoku"
-        },
-        {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/magazin/canli-muzik-anlasmazligi-mahkemeye-tasindi-oyuncu-celil-nalcakan-hakkinda-uzaklastirma-karari,1354018",
-          "title": "Canlı müzik anlaşmazlığı mahkemeye taşındı: Oyuncu Celil Nalçakan hakkında uzaklaştırma kararı"
-        }
-      ],
-      "publisher_domains": [
-        "odatv.com",
-        "t24.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Taşacak Bu Deniz'in Timur Molkov'u Celil Nalçakan'dan şok! Tehdit iddiası gündem oldu...",
-      "normalized_title": "tasacak bu deniz in timur molkov u celil nalcakan dan sok tehdit iddiasi gundem oldu",
-      "url": "https://www.internethaber.com/tasacak-bu-denizin-timur-molkovu-celil-nalcakandan-sok-tehdit-iddiasi-gundem-oldu-foto-galerisi-2464694.htm",
-      "source": "internethaber.com",
-      "source_role": "publisher",
-      "source_domain": "internethaber.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.205400+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/celil-nalcakana-tehdit-suclamasi-7682579",
-          "title": "Celil Nalçakan’a tehdit suçlaması"
-        },
-        {
-          "source": "internethaber.com",
-          "source_domain": "internethaber.com",
-          "url": "https://www.internethaber.com/tasacak-bu-denizin-timur-molkovu-celil-nalcakandan-sok-tehdit-iddiasi-gundem-oldu-foto-galerisi-2464694.htm",
-          "title": "Taşacak Bu Deniz'in Timur Molkov'u Celil Nalçakan'dan şok! Tehdit iddiası gündem oldu..."
-        }
-      ],
-      "publisher_domains": [
-        "internethaber.com",
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Melike Şahin oğluna Ali Robin adını verdi - Magazin Haberleri",
-      "normalized_title": "melike sahin ogluna ali robin adini verdi magazin haberleri",
-      "url": "https://www.mynet.com/magazin/melike-sahin-ogluna-ali-robin-adini-verdi-130100604819",
-      "source": "mynet.com",
-      "source_role": "publisher",
-      "source_domain": "mynet.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.205473+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "mynet.com",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/melike-sahin-ogluna-ali-robin-adini-verdi-130100604819",
-          "title": "Melike Şahin oğluna Ali Robin adını verdi - Magazin Haberleri"
-        }
-      ],
-      "publisher_domains": [
-        "mynet.com"
+        "hurriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -671,6 +613,154 @@
       "latest_published_at": null,
       "age_hours": 48.0,
       "popularity_score": 10.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Kan Verdiği İçin İşten Kovulmuş: Kadir İnanır'ın Şoföründen Jülide Kural ve İrade Tartışması Hakkında İddia!",
+      "normalized_title": "kan verdigi icin isten kovulmus kadir inanir in soforunden julide kural ve irade tartismasi hakkinda iddia",
+      "url": "https://onedio.com/haber/kan-verdigi-icin-isten-kovulmus-kadir-inanir-in-soforunden-julide-kural-ve-irade-tartismasi-hakkinda-iddia-1389706",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T11:55:17.647062+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/kan-verdigi-icin-isten-kovulmus-kadir-inanir-in-soforunden-julide-kural-ve-irade-tartismasi-hakkinda-iddia-1389706",
+          "title": "Kan Verdiği İçin İşten Kovulmuş: Kadir İnanır'ın Şoföründen Jülide Kural ve İrade Tartışması Hakkında İddia!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Kadir İnanır'ın yeğenlerinden vasiyet açıklaması",
+      "normalized_title": "kadir inanir in yegenlerinden vasiyet aciklamasi",
+      "url": "https://www.haberturk.com/magazin/kadir-inanir-in-yegenlerinden-vasiyet-aciklamasi-3920909",
+      "source": "haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T11:55:17.647143+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/kadir-inanir-in-yegenlerinden-vasiyet-aciklamasi-3920909",
+          "title": "Kadir İnanır'ın yeğenlerinden vasiyet açıklaması"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Kadir İnanır’ın şoförü Ali Garga Günaydın’a konuştu! Kadir Abi’ye kan verince işten kovuldum",
+      "normalized_title": "kadir inanir in soforu ali garga gunaydin a konustu kadir abi ye kan verince isten kovuldum",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/kadir-inanirin-soforu-ali-garga-gunaydina-konustu-kadir-abiye-kan-verince-isten-kovuldum",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T11:55:17.647206+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/kadir-inanirin-soforu-ali-garga-gunaydina-konustu-kadir-abiye-kan-verince-isten-kovuldum",
+          "title": "Kadir İnanır’ın şoförü Ali Garga Günaydın’a konuştu! Kadir Abi’ye kan verince işten kovuldum"
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Kadir İnanır'ın mirasıyla ilgili krize son nokta. \"Dayım bu kadar aciz miydi?\"",
+      "normalized_title": "kadir inanir in mirasiyla ilgili krize son nokta dayim bu kadar aciz miydi",
+      "url": "https://www.ntv.com.tr/yasam/galeri-kadir-inanirin-mirasiyla-ilgili-krize-son-nokta-dayim-bu-kadar-aciz-miydi-1747121",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T11:55:17.647253+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-kadir-inanirin-mirasiyla-ilgili-krize-son-nokta-dayim-bu-kadar-aciz-miydi-1747121",
+          "title": "Kadir İnanır'ın mirasıyla ilgili krize son nokta. \"Dayım bu kadar aciz miydi?\""
+        }
+      ],
+      "publisher_domains": [
+        "ntv.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -686,7 +776,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.200702+00:00",
+      "collected_at": "2026-10-20T11:55:17.647292+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -723,7 +813,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.200929+00:00",
+      "collected_at": "2026-10-20T11:55:17.647403+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -751,154 +841,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Kan Verdiği İçin İşten Kovulmuş: Kadir İnanır'ın Şoföründen Jülide Kural ve İrade Tartışması Hakkında İddia!",
-      "normalized_title": "kan verdigi icin isten kovulmus kadir inanir in soforunden julide kural ve irade tartismasi hakkinda iddia",
-      "url": "https://onedio.com/haber/kan-verdigi-icin-isten-kovulmus-kadir-inanir-in-soforunden-julide-kural-ve-irade-tartismasi-hakkinda-iddia-1389706",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.201112+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/kan-verdigi-icin-isten-kovulmus-kadir-inanir-in-soforunden-julide-kural-ve-irade-tartismasi-hakkinda-iddia-1389706",
-          "title": "Kan Verdiği İçin İşten Kovulmuş: Kadir İnanır'ın Şoföründen Jülide Kural ve İrade Tartışması Hakkında İddia!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Kadir İnanır’ın şoförü Ali Garga Günaydın’a konuştu! Kadir Abi’ye kan verince işten kovuldum",
-      "normalized_title": "kadir inanir in soforu ali garga gunaydin a konustu kadir abi ye kan verince isten kovuldum",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/kadir-inanirin-soforu-ali-garga-gunaydina-konustu-kadir-abiye-kan-verince-isten-kovuldum",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.201213+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/kadir-inanirin-soforu-ali-garga-gunaydina-konustu-kadir-abiye-kan-verince-isten-kovuldum",
-          "title": "Kadir İnanır’ın şoförü Ali Garga Günaydın’a konuştu! Kadir Abi’ye kan verince işten kovuldum"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Kadir İnanır’ın yeğeni Gül Bakar’dan vasiyet açıklaması: “Keşke hayattayken yüzüne söyleselerdi!”",
-      "normalized_title": "kadir inanir in yegeni gul bakar dan vasiyet aciklamasi keske hayattayken yuzune soyleselerdi",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/kadir-inanirin-yegeni-gul-bakardan-vasiyet-aciklamasi-keske-hayattayken-yuzune-soyleselerdi-43347033",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.201318+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/kadir-inanirin-yegeni-gul-bakardan-vasiyet-aciklamasi-keske-hayattayken-yuzune-soyleselerdi-43347033",
-          "title": "Kadir İnanır’ın yeğeni Gül Bakar’dan vasiyet açıklaması: “Keşke hayattayken yüzüne söyleselerdi!”"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Kadir İnanır'ın yeğeni Gül Bakar da tartışmaya dahil oldu: Jülide Kural'a ben şahidim",
-      "normalized_title": "kadir inanir in yegeni gul bakar da tartismaya dahil oldu julide kural a ben sahidim",
-      "url": "https://www.milliyet.com.tr/magazin/kadir-inanirin-yegeni-gul-bakar-da-tartismaya-dahil-oldu-julide-kurala-ben-sahidim-7683387",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.201408+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/kadir-inanirin-yegeni-gul-bakar-da-tartismaya-dahil-oldu-julide-kurala-ben-sahidim-7683387",
-          "title": "Kadir İnanır'ın yeğeni Gül Bakar da tartışmaya dahil oldu: Jülide Kural'a ben şahidim"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Yeni aşktan ilk fotoğraf",
       "normalized_title": "yeni asktan ilk fotograf",
       "url": "https://www.hurriyet.com.tr/kelebek/hayat/yeni-asktan-ilk-fotograf-43347936",
@@ -908,7 +850,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.201466+00:00",
+      "collected_at": "2026-10-20T11:55:17.647481+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -945,7 +887,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.201558+00:00",
+      "collected_at": "2026-10-20T11:55:17.647529+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -982,7 +924,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.201871+00:00",
+      "collected_at": "2026-10-20T11:55:17.647656+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1010,6 +952,154 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "Washington sokaklarında Türk rüzgarı",
+      "normalized_title": "washington sokaklarinda turk ruzgari",
+      "url": "https://www.sabah.com.tr/yasam/washington-sokaklarinda-turk-ruzgari-7684101",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T11:55:17.647722+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/yasam/washington-sokaklarinda-turk-ruzgari-7684101",
+          "title": "Washington sokaklarında Türk rüzgarı"
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "ABD'de Türk rüzgarı",
+      "normalized_title": "abd de turk ruzgari",
+      "url": "https://m.aksam.com.tr/dunya/abdde-turk-ruzgari/haber-1707565",
+      "source": "m.aksam.com.tr",
+      "source_role": "publisher",
+      "source_domain": "m.aksam.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T11:55:17.647751+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "m.aksam.com.tr",
+          "source_domain": "m.aksam.com.tr",
+          "url": "https://m.aksam.com.tr/dunya/abdde-turk-ruzgari/haber-1707565",
+          "title": "ABD'de Türk rüzgarı"
+        }
+      ],
+      "publisher_domains": [
+        "m.aksam.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "İlk kez anne olan Melike Şahin bebeğiyle pozlarını paylaştı! İşte oğluna verdiği isim",
+      "normalized_title": "ilk kez anne olan melike sahin bebegiyle pozlarini paylasti iste ogluna verdigi isim",
+      "url": "https://www.milliyet.com.tr/magazin/galeri/ilk-kez-anne-olan-melike-sahin-bebegiyle-pozlarini-paylasti-iste-ogluna-verdigi-isim-7682718",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T11:55:17.647907+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/ilk-kez-anne-olan-melike-sahin-bebegiyle-pozlarini-paylasti-iste-ogluna-verdigi-isim-7682718",
+          "title": "İlk kez anne olan Melike Şahin bebeğiyle pozlarını paylaştı! İşte oğluna verdiği isim"
+        }
+      ],
+      "publisher_domains": [
+        "milliyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Melike Şahin’den yeni doğan minik oğluyla yeni paylaşım: Sonunda kavuştuk!",
+      "normalized_title": "melike sahin den yeni dogan minik ogluyla yeni paylasim sonunda kavustuk",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/melike-sahinden-yeni-dogan-minik-ogluyla-yeni-paylasim-sonunda-kavustuk",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T11:55:17.647950+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/melike-sahinden-yeni-dogan-minik-ogluyla-yeni-paylasim-sonunda-kavustuk",
+          "title": "Melike Şahin’den yeni doğan minik oğluyla yeni paylaşım: Sonunda kavuştuk!"
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Gupse Özay: İçimdeki çocuğu tamamen ortaya çıkardım",
       "normalized_title": "gupse ozay icimdeki cocugu tamamen ortaya cikardim",
       "url": "https://www.haberturk.com/magazin/foto/gupse-ozay-icimdeki-cocugu-tamamen-ortaya-cikardim-3920850",
@@ -1019,7 +1109,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.201941+00:00",
+      "collected_at": "2026-10-20T11:55:17.647985+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1056,7 +1146,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.202033+00:00",
+      "collected_at": "2026-10-20T11:55:17.648034+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1093,7 +1183,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.202112+00:00",
+      "collected_at": "2026-10-20T11:55:17.648076+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1121,164 +1211,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Deha'nın İskender'iydi: Neslihan Atagül'ün Dönüş Dizisi Kaderin Cilvesi'ne Usta Bir İsim Daha Katıldı!",
-      "normalized_title": "deha nin iskender iydi neslihan atagul un donus dizisi kaderin cilvesi ne usta bir isim daha katildi",
-      "url": "https://onedio.com/haber/deha-nin-iskender-iydi-neslihan-atagul-un-donus-dizisi-kaderin-cilvesi-ne-usta-bir-isim-daha-katildi-1389437",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.202204+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/deha-nin-iskender-iydi-neslihan-atagul-un-donus-dizisi-kaderin-cilvesi-ne-usta-bir-isim-daha-katildi-1389437",
-          "title": "Deha'nın İskender'iydi: Neslihan Atagül'ün Dönüş Dizisi Kaderin Cilvesi'ne Usta Bir İsim Daha Katıldı!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Muhamed Salah Etkisi Yeşil Sahaları Aştı! Dizi Sektörünü de Sallayan \"Salah\" Sürprizi",
-      "normalized_title": "muhamed salah etkisi yesil sahalari asti dizi sektorunu de sallayan salah surprizi",
-      "url": "https://www.gunebakis.com.tr/muhamed-salah-etkisi-yesil-sahalari-asti-dizi-sektorunu-de-sallayan-salah-surprizi/29004984",
-      "source": "gunebakis.com.tr",
-      "source_role": "publisher",
-      "source_domain": "gunebakis.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.202358+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "gunebakis.com.tr",
-          "source_domain": "gunebakis.com.tr",
-          "url": "https://www.gunebakis.com.tr/muhamed-salah-etkisi-yesil-sahalari-asti-dizi-sektorunu-de-sallayan-salah-surprizi/29004984",
-          "title": "Muhamed Salah Etkisi Yeşil Sahaları Aştı! Dizi Sektörünü de Sallayan \"Salah\" Sürprizi"
-        }
-      ],
-      "publisher_domains": [
-        "gunebakis.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Erkan Petekkaya, Hülya Avşar’ın yürüyüşüne yaptığı yoruma açıklık getirdi: Espri yaptım",
-      "normalized_title": "erkan petekkaya hulya avsar in yuruyusune yaptigi yoruma aciklik getirdi espri yaptim",
-      "url": "https://www.sondakika.com/magazin/haber-erkan-petekkaya-hulya-avsarin-yuruyusune-yaptigi-20343991/",
-      "source": "sondakika.com",
-      "source_role": "publisher",
-      "source_domain": "sondakika.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.202682+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sondakika.com",
-          "source_domain": "sondakika.com",
-          "url": "https://www.sondakika.com/magazin/haber-erkan-petekkaya-hulya-avsarin-yuruyusune-yaptigi-20343991/",
-          "title": "Erkan Petekkaya, Hülya Avşar’ın yürüyüşüne yaptığı yoruma açıklık getirdi: Espri yaptım"
-        }
-      ],
-      "publisher_domains": [
-        "sondakika.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Hülya Avşar yorumu ile gündemdeydi! Erkan Petekkaya perde arkasını canlı yayında anlattı...",
-      "normalized_title": "hulya avsar yorumu ile gundemdeydi erkan petekkaya perde arkasini canli yayinda anlatti",
-      "url": "https://www.internethaber.com/hulya-avsar-yorumu-ile-gundemdeydi-erkan-petekkaya-perde-arkasini-canli-yayinda-anlatti-foto-galerisi-2464731.htm",
-      "source": "internethaber.com",
-      "source_role": "publisher",
-      "source_domain": "internethaber.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.202771+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "internethaber.com",
-          "source_domain": "internethaber.com",
-          "url": "https://www.internethaber.com/hulya-avsar-yorumu-ile-gundemdeydi-erkan-petekkaya-perde-arkasini-canli-yayinda-anlatti-foto-galerisi-2464731.htm",
-          "title": "Hülya Avşar yorumu ile gündemdeydi! Erkan Petekkaya perde arkasını canlı yayında anlattı..."
-        }
-      ],
-      "publisher_domains": [
-        "internethaber.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Kardeş acısı ünlü modelin içini yakıp kavurdu… ‘Ben seni severek doğdum, seni severek öleceğim’",
-      "normalized_title": "kardes acisi unlu modelin icini yakip kavurdu ben seni severek dogdum seni severek olecegim",
-      "url": "https://www.hurriyet.com.tr/kelebek/magazin/kardes-acisi-unlu-modelin-icini-yakip-kavurdu-ben-seni-severek-dogdum-seni-severek-olecegim-43346934",
+      "title": "Onu dokuz ay karnında taşıdı, doğurup büyüttü... Evlat acısı yaşayan ünlü model sessizliğini bozdu... Tekrar buluşana dek tatlı oğlum!",
+      "normalized_title": "onu dokuz ay karninda tasidi dogurup buyuttu evlat acisi yasayan unlu model sessizligini bozdu tekrar bulusana dek tatli oglum",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/onu-dokuz-ay-karninda-tasidi-dogurup-buyuttu-sadece-27-yil-opup-koklayabildi-evlat-acisi-yasayan-unlu-model-43348251",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.202929+00:00",
+      "collected_at": "2026-10-20T11:55:17.648171+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1286,8 +1228,8 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/magazin/kardes-acisi-unlu-modelin-icini-yakip-kavurdu-ben-seni-severek-dogdum-seni-severek-olecegim-43346934",
-          "title": "Kardeş acısı ünlü modelin içini yakıp kavurdu… ‘Ben seni severek doğdum, seni severek öleceğim’"
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/onu-dokuz-ay-karninda-tasidi-dogurup-buyuttu-sadece-27-yil-opup-koklayabildi-evlat-acisi-yasayan-unlu-model-43348251",
+          "title": "Onu dokuz ay karnında taşıdı, doğurup büyüttü... Evlat acısı yaşayan ünlü model sessizliğini bozdu... Tekrar buluşana dek tatlı oğlum!"
         }
       ],
       "publisher_domains": [
@@ -1306,29 +1248,66 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Evlat acısı yaşayan Cindy Crawford sessizliğini bozdu: Yıkıldık!",
-      "normalized_title": "evlat acisi yasayan cindy crawford sessizligini bozdu yikildik",
-      "url": "https://www.haberturk.com/magazin/evlat-acisi-yasayan-cindy-crawford-sessizligini-bozdu-yikildik-3920783",
-      "source": "haberturk.com",
+      "title": "Cindy Crawford'dan oğlunun kaybı sonrası açıklama: 'Ölümüyle yıkıldık'",
+      "normalized_title": "cindy crawford dan oglunun kaybi sonrasi aciklama olumuyle yikildik",
+      "url": "https://tr.euronews.com/2026/10/19/cindy-crawforddan-oglunun-kaybi-sonrasi-aciklama-olumuyle-yikildik",
+      "source": "tr.euronews.com",
       "source_role": "publisher",
-      "source_domain": "haberturk.com",
+      "source_domain": "tr.euronews.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T07:18:08.202999+00:00",
+      "collected_at": "2026-10-20T11:55:17.648260+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/evlat-acisi-yasayan-cindy-crawford-sessizligini-bozdu-yikildik-3920783",
-          "title": "Evlat acısı yaşayan Cindy Crawford sessizliğini bozdu: Yıkıldık!"
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "url": "https://tr.euronews.com/2026/10/19/cindy-crawforddan-oglunun-kaybi-sonrasi-aciklama-olumuyle-yikildik",
+          "title": "Cindy Crawford'dan oğlunun kaybı sonrası açıklama: 'Ölümüyle yıkıldık'"
         }
       ],
       "publisher_domains": [
-        "haberturk.com"
+        "tr.euronews.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Çağatay Ulusoy ve Kıvanç Tatlıtuğ'un 8 Yıllık Değişimi Gündem Oldu: Hangisi Daha Çok Değişmiş?",
+      "normalized_title": "cagatay ulusoy ve kivanc tatlitug un 8 yillik degisimi gundem oldu hangisi daha cok degismis",
+      "url": "https://onedio.com/haber/cagatay-ulusoy-ve-kivanc-tatlitug-un-8-yillik-degisimi-gundem-oldu-hangisi-daha-cok-degismis-1389691",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-20T11:55:17.648309+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/cagatay-ulusoy-ve-kivanc-tatlitug-un-8-yillik-degisimi-gundem-oldu-hangisi-daha-cok-degismis-1389691",
+          "title": "Çağatay Ulusoy ve Kıvanç Tatlıtuğ'un 8 Yıllık Değişimi Gündem Oldu: Hangisi Daha Çok Değişmiş?"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
