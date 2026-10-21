@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T17:28:06.117824+00:00",
+  "generated_at": "2026-10-21T07:15:51.624908+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
@@ -14,7 +14,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T17:27:27.758244+00:00",
+      "collected_at": "2026-10-21T07:15:10.745690+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -99,16 +99,16 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor?",
-      "normalized_title": "serhan kerim adali kimdir kimin oglu rabia soyturk un sevgilisi serhan kerim adali ne is yapiyor",
-      "url": "https://www.cumhuriyet.com.tr/yasam/serhan-kerim-adali-kimdir-kimin-oglu-rabia-soyturk-un-sevgilisi-serhan-kerim-adali-ne-is-yapiyor-2548476",
-      "source": "cumhuriyet.com.tr",
+      "title": "Zeynep Çamcı anne oldu! Oğlunun adını Can koydu",
+      "normalized_title": "zeynep camci anne oldu oglunun adini can koydu",
+      "url": "https://www.hurriyet.com.tr/galeri-zeynep-camci-anne-oldu-oglunun-adini-can-koydu-43349237",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T17:27:27.756874+00:00",
+      "collected_at": "2026-10-21T07:15:10.746553+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -116,27 +116,34 @@
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/rabia-soyturk-ile-serhan-kerim-adali-ask-yasiyor-3920982",
-          "title": "Rabia Soytürk ile Serhan Kerim Adalı aşk yaşıyor"
+          "url": "https://www.haberturk.com/magazin/foto/zeynep-camci-anne-oldu-3921294",
+          "title": "Zeynep Çamcı anne oldu"
         },
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/serhan-kerim-adali-kimdir-kimin-oglu-rabia-soyturk-un-sevgilisi-serhan-kerim-adali-ne-is-yapiyor-2548476",
-          "title": "Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor?"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/galeri-zeynep-camci-anne-oldu-oglunun-adini-can-koydu-43349237",
+          "title": "Zeynep Çamcı anne oldu! Oğlunun adını Can koydu"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/zeynep-camci-anne-oldu-iste-bebeginin-cinsiyeti-ve-adi-7684072",
+          "title": "Zeynep Çamcı anne oldu! İşte bebeğinin cinsiyeti ve adı"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "haberturk.com"
+        "haberturk.com",
+        "hurriyet.com.tr",
+        "milliyet.com.tr"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 30.0,
       "possible_syndication": false,
       "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
       "publication_approved": false,
@@ -144,26 +151,38 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor? - Son Dakika Yaşam Haberleri | Cumhuriyet",
-        "og_title": "Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor?",
-        "description": "Oyuncu Rabia Soytürk ile Serhan Kerim Adalı yeni bir aşka yelken açtı. Peki, Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor?",
+        "page_title": "Zeynep Çamcı anne oldu! Oğlunun adını Can koydu - Magazin Hayat",
+        "og_title": "Zeynep Çamcı anne oldu! Oğlunun adını Can koydu",
+        "description": "2015 yılında yönetmen Serhat Bayram ile evlenen oyuncu Zeynep Çamcı, ilk kez anne olmanın mutluluğunu yaşadı. Erkek bebek dünyaya getiren 39 yaşındaki oyuncu, oğluna Can adını verdi.",
         "error": null
       },
       "independent_source_matches": [
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "title": "Rabia Soytürk ile Serhan Kerim Adalı aşk yaşıyor",
+          "title": "Zeynep Çamcı anne oldu",
           "summary": "",
-          "url": "https://www.haberturk.com/magazin/foto/rabia-soyturk-ile-serhan-kerim-adali-ask-yasiyor-3920982",
-          "match_score": 0.66,
+          "url": "https://www.haberturk.com/magazin/foto/zeynep-camci-anne-oldu-3921294",
+          "match_score": 0.72,
           "shared_keywords": [
-            "adal",
-            "kerim",
-            "rabia",
-            "serhan",
-            "soyturk",
-            "yor"
+            "anne",
+            "camc",
+            "zeynep"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "title": "Zeynep Çamcı anne oldu! İşte bebeğinin cinsiyeti ve adı",
+          "summary": "",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/zeynep-camci-anne-oldu-iste-bebeginin-cinsiyeti-ve-adi-7684072",
+          "match_score": 0.5,
+          "shared_keywords": [
+            "anne",
+            "camc",
+            "zeynep"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
@@ -172,44 +191,44 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Can Bonomo'nun kardeşi Funda Bonomo'dan o yorumlara tepki",
-      "normalized_title": "can bonomo nun kardesi funda bonomo dan o yorumlara tepki",
-      "url": "https://www.haberturk.com/magazin/can-bonomo-nun-kardesi-funda-bonomo-dan-gelen-yahudilik-yorumlara-tepki-3920715",
+      "title": "Otilia: Serdar Ortaç beni engelledi",
+      "normalized_title": "otilia serdar ortac beni engelledi",
+      "url": "https://www.haberturk.com/magazin/foto/otilia-serdar-ortac-beni-engelledi-3921222",
       "source": "haberturk.com",
       "source_role": "publisher",
       "source_domain": "haberturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-20T17:27:27.758031+00:00",
+      "collected_at": "2026-10-21T07:15:10.747592+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/magazin/can-bonomodan-babasina-son-gorev-120167379",
-          "title": "Can Bonomo'dan babasına son görev"
-        },
-        {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/can-bonomo-nun-kardesi-funda-bonomo-dan-gelen-yahudilik-yorumlara-tepki-3920715",
-          "title": "Can Bonomo'nun kardeşi Funda Bonomo'dan o yorumlara tepki"
+          "url": "https://www.haberturk.com/magazin/foto/otilia-serdar-ortac-beni-engelledi-3921222",
+          "title": "Otilia: Serdar Ortaç beni engelledi"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/serdar-beni-engelledi-7684158",
+          "title": "‘Serdar beni engelledi’"
         }
       ],
       "publisher_domains": [
         "haberturk.com",
-        "odatv.com"
+        "milliyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
+      "event_member_count": 3,
+      "discovery_item_count": 1,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 20.5,
       "possible_syndication": false,
       "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
       "publication_approved": false,
@@ -217,22 +236,23 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Can Bonomo'nun kardeşi Funda Bonomo'dan o yorumlara tepki - Magazin Haber - HT Magazin",
-        "og_title": "Can Bonomo'nun kardeşi Funda Bonomo'dan o yorumlara tepki",
-        "description": "Şarkıcı Can Bonomo, babası Yaşar Bonomo'nun kaybıyla büyük bir acı yaşamıştı. Babalarının vefatıyla sarsılan kardeşlerden Funda Bonomo, yas sürecinde gelen bazı yorumlara sitem ederek, tepki gösterdi",
+        "page_title": "Otilia: Serdar Ortaç beni engelledi - En Son Magazin Haberleri - Habertürk",
+        "og_title": "Otilia: Serdar Ortaç beni engelledi",
+        "description": "Rumen şarkıcı Otilia, Serdar Ortaç ile yeniden düet yapmayı planladıklarını ancak Ortaç'ın kendisini sosyal medyada engellediğini açıkladı. Şarkıcı, \"Beni engelledi. Neden engellediğini hiç bilmiyorum\" dedi",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "title": "Can Bonomo'dan babasına son görev",
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "title": "‘Serdar beni engelledi’",
           "summary": "",
-          "url": "https://www.odatv.com/magazin/can-bonomodan-babasina-son-gorev-120167379",
-          "match_score": 0.38,
+          "url": "https://www.milliyet.com.tr/magazin/serdar-beni-engelledi-7684158",
+          "match_score": 0.72,
           "shared_keywords": [
-            "bonomo",
-            "can"
+            "beni",
+            "engelledi",
+            "serdar"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
