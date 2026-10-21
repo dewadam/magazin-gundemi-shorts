@@ -1,20 +1,142 @@
 {
-  "generated_at": "2026-10-21T12:08:57.475532+00:00",
+  "generated_at": "2026-10-21T17:36:15.817431+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
-      "title": "Ali Ağaoğlu'nun 6. kez baba oluyor! Bebeğinin cinsiyeti belli oldu - Magazin Haberleri",
-      "normalized_title": "ali agaoglu nun 6 kez baba oluyor bebeginin cinsiyeti belli oldu magazin haberleri",
-      "url": "https://www.mynet.com/magazin/ali-agaoglu-nun-6-kez-baba-oluyor-bebeginin-cinsiyeti-belli-oldu-130100604996",
-      "source": "mynet.com",
+      "title": "Rutkay Ailesi'nin acı günü! Rutkay Aziz'in ağabeyi Enver Ural Rutkay hayatını kaybetti",
+      "normalized_title": "rutkay ailesi nin aci gunu rutkay aziz in agabeyi enver ural rutkay hayatini kaybetti",
+      "url": "https://www.milliyet.com.tr/magazin/rutkay-ailesinin-aci-gunu-rutkay-azizin-agabeyi-enver-ural-rutkay-hayatini-kaybetti-7684359",
+      "source": "milliyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "mynet.com",
+      "source_domain": "milliyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-21T12:08:21.012891+00:00",
+      "collected_at": "2026-10-21T17:35:37.596869+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/oyuncu-rutkay-aziz-in-abisi-dr-enver-ural-rutkay-hayatini-kaybetti-1390205",
+          "title": "Oyuncu Rutkay Aziz'in Abisi Dr. Enver Ural Rutkay Hayatını Kaybetti!"
+        },
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/rutkay-azizin-agabeyi-enver-ural-rutkay-hayatini-kaybetti-43349593",
+          "title": "Rutkay Aziz’in ağabeyi Enver Ural Rutkay hayatını kaybetti"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/rutkay-ailesinin-aci-gunu-rutkay-azizin-agabeyi-enver-ural-rutkay-hayatini-kaybetti-7684359",
+          "title": "Rutkay Ailesi'nin acı günü! Rutkay Aziz'in ağabeyi Enver Ural Rutkay hayatını kaybetti"
+        },
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/rutkay-azizin-agabeyi-dr-enver-ural-rutkay-hayatini-kaybetti-cenaze-bilgileri-belli-oldu-3482159",
+          "title": "Rutkay Aziz'in ağabeyi Dr. Enver Ural Rutkay hayatını kaybetti! CENAZE BİLGİLERİ BELLİ OLDU"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com",
+        "hurriyet.com.tr",
+        "milliyet.com.tr",
+        "onedio.com"
+      ],
+      "publisher_count": 4,
+      "direct_article_count": 4,
+      "event_member_count": 4,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 40.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Rutkay Ailesi'nin acı günü! Rutkay Aziz'in ağabeyi Enver Ural Rutkay hayatını kaybetti - Magazin Haberleri - Milliyet",
+        "og_title": "Rutkay Ailesi'nin acı günü! Rutkay Aziz'in ağabeyi Enver Ural Rutkay hayatını kaybetti",
+        "description": "Usta oyuncu Rutkay Aziz'in ağabeyi, Doğa Rutkay Kamal'ın ise amcası olan Dr. Enver Ural Rutkay hayatını kaybetti.",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "title": "Oyuncu Rutkay Aziz'in Abisi Dr. Enver Ural Rutkay Hayatını Kaybetti!",
+          "summary": "",
+          "url": "https://onedio.com/haber/oyuncu-rutkay-aziz-in-abisi-dr-enver-ural-rutkay-hayatini-kaybetti-1390205",
+          "match_score": 0.67,
+          "shared_keywords": [
+            "aziz",
+            "enver",
+            "kaybetti",
+            "rutkay",
+            "ural"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        },
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "title": "Rutkay Aziz’in ağabeyi Enver Ural Rutkay hayatını kaybetti",
+          "summary": "",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/rutkay-azizin-agabeyi-enver-ural-rutkay-hayatini-kaybetti-43349593",
+          "match_score": 0.77,
+          "shared_keywords": [
+            "agabeyi",
+            "aziz",
+            "enver",
+            "kaybetti",
+            "rutkay",
+            "ural"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        },
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "title": "Rutkay Aziz'in ağabeyi Dr. Enver Ural Rutkay hayatını kaybetti! CENAZE BİLGİLERİ BELLİ OLDU",
+          "summary": "",
+          "url": "https://www.cnnturk.com/magazin/galeri/rutkay-azizin-agabeyi-dr-enver-ural-rutkay-hayatini-kaybetti-cenaze-bilgileri-belli-oldu-3482159",
+          "match_score": 0.57,
+          "shared_keywords": [
+            "agabeyi",
+            "aziz",
+            "enver",
+            "kaybetti",
+            "rutkay",
+            "ural"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Ali Ağaoğlu 6. kez baba oluyor! Bige Yıldırımer duyurdu! İşte bebeğin cinsiyeti...",
+      "normalized_title": "ali agaoglu 6 kez baba oluyor bige yildirimer duyurdu iste bebegin cinsiyeti",
+      "url": "https://www.cnnturk.com/magazin/galeri/ali-agaoglu-6-kez-baba-oluyor-bige-yildirimer-duyurdu-iste-bebegin-cinsiyeti-3482692",
+      "source": "cnnturk.com",
+      "source_role": "publisher",
+      "source_domain": "cnnturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-21T17:35:37.598152+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -26,30 +148,37 @@
           "title": "Ali Ağaoğlu 72 Yaşında 6. Kez Baba Oluyordu: Bebeğinin Cinsiyeti Belli Oldu"
         },
         {
-          "source": "mynet.com",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/ali-agaoglu-nun-6-kez-baba-oluyor-bebeginin-cinsiyeti-belli-oldu-130100604996",
-          "title": "Ali Ağaoğlu'nun 6. kez baba oluyor! Bebeğinin cinsiyeti belli oldu - Magazin Haberleri"
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/ali-agaoglu-6-kez-baba-oluyor-bige-yildirimer-duyurdu-iste-bebegin-cinsiyeti-3482692",
+          "title": "Ali Ağaoğlu 6. kez baba oluyor! Bige Yıldırımer duyurdu! İşte bebeğin cinsiyeti..."
         },
         {
-          "source": "egedesonsoz.com",
-          "source_domain": "egedesonsoz.com",
-          "url": "https://www.egedesonsoz.com/72-yasindaki-ali-agaoglunun-bebeginin-cinsiyeti-belli-oldu",
-          "title": "72 yaşındaki Ali Ağaoğlu’nun bebeğinin cinsiyeti belli oldu"
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/magazin/ali-agaoglu-altinci-kez-baba-oluyor-iste-genc-20352794-haberi/",
+          "title": "Ali Ağaoğlu altıncı kez baba oluyor! Cinsiyeti belli oldu"
+        },
+        {
+          "source": "internethaber.com",
+          "source_domain": "internethaber.com",
+          "url": "https://www.internethaber.com/6-kez-baba-oluyor-ali-agaoglunun-bebeginin-cinsiyeti-belli-oldu-foto-galerisi-2465115.htm",
+          "title": "6. kez baba oluyor! Ali Ağaoğlu'nun bebeğinin cinsiyeti belli oldu"
         }
       ],
       "publisher_domains": [
-        "egedesonsoz.com",
-        "mynet.com",
+        "cnnturk.com",
+        "haberler.com",
+        "internethaber.com",
         "onedio.com"
       ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
+      "publisher_count": 4,
+      "direct_article_count": 4,
+      "event_member_count": 4,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 40.0,
       "possible_syndication": false,
       "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
       "publication_approved": false,
@@ -57,9 +186,9 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Ali Ağaoğlu'nun 6. kez baba oluyor! Bebeğinin cinsiyeti belli oldu - Magazin Haberleri",
-        "og_title": "Ali Ağaoğlu'nun 6. kez baba oluyor! Bebeğinin cinsiyeti belli oldu",
-        "description": "Türkiye'nin en çok konuşulan iş insanlarından biri olan Ali Ağaoğlu bir kez daha özel hayatıyla gündeme geldi. Ağaoğlu'nun 15 yıldır birlikte olduğu Bige Yıldırımer'in hamile olduğu öğrenilmişti. Şimdi de Ali Ağaoğlu'nun bebeğinin cinsiyeti belli oldu.",
+        "page_title": "Ali Ağaoğlu 6. kez baba oluyor! Bige Yıldırımer duyurdu! İşte bebeğin cinsiyeti... - Son Dakika Magazin Haberleri",
+        "og_title": "Ali Ağaoğlu 6. kez baba oluyor! Bige Yıldırımer duyurdu! İşte bebeğin cinsiyeti... - Son Dakika Magazin Haberleri",
+        "description": "Magazin Haberleri - Ünlü iş insanı Ali Ağaoğlu'nun 36 yaş küçük eşi Bige Yıldırımer hamile olduğunu açıklamıştı. Baby shower partisi düzenleyen Yıldırmer,...",
         "error": null
       },
       "independent_source_matches": [
@@ -69,13 +198,11 @@
           "title": "Ali Ağaoğlu 72 Yaşında 6. Kez Baba Oluyordu: Bebeğinin Cinsiyeti Belli Oldu",
           "summary": "",
           "url": "https://onedio.com/haber/ali-agaoglu-72-yasinda-6-kez-baba-oluyordu-bebeginin-cinsiyeti-belli-oldu-1390026",
-          "match_score": 0.68,
+          "match_score": 0.56,
           "shared_keywords": [
             "agaoglu",
             "ali",
             "baba",
-            "bebeginin",
-            "belli",
             "cinsiyeti",
             "kez"
           ],
@@ -83,19 +210,35 @@
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
         },
         {
-          "source": "egedesonsoz.com",
-          "source_domain": "egedesonsoz.com",
-          "title": "72 yaşındaki Ali Ağaoğlu’nun bebeğinin cinsiyeti belli oldu",
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "title": "Ali Ağaoğlu altıncı kez baba oluyor! Cinsiyeti belli oldu",
           "summary": "",
-          "url": "https://www.egedesonsoz.com/72-yasindaki-ali-agaoglunun-bebeginin-cinsiyeti-belli-oldu",
-          "match_score": 0.67,
+          "url": "https://www.haberler.com/magazin/ali-agaoglu-altinci-kez-baba-oluyor-iste-genc-20352794-haberi/",
+          "match_score": 0.55,
           "shared_keywords": [
             "agaoglu",
             "ali",
-            "bebeginin",
-            "belli",
+            "baba",
             "cinsiyeti",
-            "nun"
+            "kez"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        },
+        {
+          "source": "internethaber.com",
+          "source_domain": "internethaber.com",
+          "title": "6. kez baba oluyor! Ali Ağaoğlu'nun bebeğinin cinsiyeti belli oldu",
+          "summary": "",
+          "url": "https://www.internethaber.com/6-kez-baba-oluyor-ali-agaoglunun-bebeginin-cinsiyeti-belli-oldu-foto-galerisi-2465115.htm",
+          "match_score": 0.5,
+          "shared_keywords": [
+            "agaoglu",
+            "ali",
+            "baba",
+            "cinsiyeti",
+            "kez"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
@@ -104,110 +247,16 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Hülya Avşar'ın Yürüyüşünü Eleştiren Erkan Petekkaya'dan Beklenmedik Savunma!",
-      "normalized_title": "hulya avsar in yuruyusunu elestiren erkan petekkaya dan beklenmedik savunma",
-      "url": "https://onedio.com/haber/hulya-avsar-in-yuruyusunu-elestiren-erkan-petekkaya-dan-beklenmedik-savunma-1389666",
+      "title": "Manifest'in Kurucusu Tolga Akış Hakkında Yeni Gelişme: İstenen Ceza Belli Oldu!",
+      "normalized_title": "manifest in kurucusu tolga akis hakkinda yeni gelisme istenen ceza belli oldu",
+      "url": "https://onedio.com/haber/manifest-in-kurucusu-tolga-akis-hakkinda-yeni-gelisme-istenen-ceza-belli-oldu-1390265",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-21T12:08:21.013933+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/erkan-petekkaya-dan-hulya-avsar-aciklamasi-3920923",
-          "title": "Erkan Petekkaya'dan Hülya Avşar açıklaması"
-        },
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/hulya-avsar-in-yuruyusunu-elestiren-erkan-petekkaya-dan-beklenmedik-savunma-1389666",
-          "title": "Hülya Avşar'ın Yürüyüşünü Eleştiren Erkan Petekkaya'dan Beklenmedik Savunma!"
-        },
-        {
-          "source": "gecce.com.tr",
-          "source_domain": "gecce.com.tr",
-          "url": "https://www.gecce.com.tr/haber/erkan-petekkayadan-hulya-avsar-itirafi-espri-yaptim-333106.html",
-          "title": "Erkan Petekkaya’dan Hülya Avşar İtirafı! “Espri Yaptım”"
-        }
-      ],
-      "publisher_domains": [
-        "gecce.com.tr",
-        "haberturk.com",
-        "onedio.com"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Erkan Petekkaya'dan Hülya Avşar Açıklaması - Onedio",
-        "og_title": "Hülya Avşar'ın Yürüyüşünü Eleştiren Erkan Petekkaya'dan Beklenmedik Savunma!",
-        "description": "Erkan Petekkaya, Hülya Avşar'ın yürüyüşüne yaptığı yorumun ardından gelen tepkilere yanıt verdi. Ünlü oyuncu sözlerinin espri olduğunu belirterek sitem etti.",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "title": "Erkan Petekkaya'dan Hülya Avşar açıklaması",
-          "summary": "",
-          "url": "https://www.haberturk.com/magazin/foto/erkan-petekkaya-dan-hulya-avsar-aciklamasi-3920923",
-          "match_score": 0.6,
-          "shared_keywords": [
-            "avsar",
-            "erkan",
-            "hulya",
-            "petekkaya"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        },
-        {
-          "source": "gecce.com.tr",
-          "source_domain": "gecce.com.tr",
-          "title": "Erkan Petekkaya’dan Hülya Avşar İtirafı! “Espri Yaptım”",
-          "summary": "",
-          "url": "https://www.gecce.com.tr/haber/erkan-petekkayadan-hulya-avsar-itirafi-espri-yaptim-333106.html",
-          "match_score": 0.44,
-          "shared_keywords": [
-            "avsar",
-            "erkan",
-            "hulya",
-            "petekkaya"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "Orhan Gencebay'dan Yıllar Sonra Gelen Sitem Dolu İtiraf: \"Beni Aşağılamak İçin Söylediler!\"",
-      "normalized_title": "orhan gencebay dan yillar sonra gelen sitem dolu itiraf beni asagilamak icin soylediler",
-      "url": "https://onedio.com/haber/orhan-gencebay-dan-yillar-sonra-gelen-sitem-dolu-itiraf-beni-asagilamak-icin-soylediler-1389981",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-21T12:08:21.014395+00:00",
+      "collected_at": "2026-10-21T17:35:37.595377+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -215,26 +264,26 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/orhan-gencebay-dan-yillar-sonra-gelen-sitem-dolu-itiraf-beni-asagilamak-icin-soylediler-1389981",
-          "title": "Orhan Gencebay'dan Yıllar Sonra Gelen Sitem Dolu İtiraf: \"Beni Aşağılamak İçin Söylediler!\""
+          "url": "https://onedio.com/haber/manifest-in-kurucusu-tolga-akis-hakkinda-yeni-gelisme-istenen-ceza-belli-oldu-1390265",
+          "title": "Manifest'in Kurucusu Tolga Akış Hakkında Yeni Gelişme: İstenen Ceza Belli Oldu!"
         },
         {
-          "source": "yenisafak.com",
-          "source_domain": "yenisafak.com",
-          "url": "https://www.yenisafak.com/galeri/hayat/orhan-gencebay-yillar-sonra-itiraf-etti-beni-asagilamak-icin-soylediler-diyerek-anlatti-4866121",
-          "title": "Orhan Gencebay yıllar sonra itiraf etti: 'Beni aşağılamak için söylediler' diyerek anlattı"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/turkiye/galeri-manifestin-kurucusu-tolga-akis-icin-istenen-ceza-belli-oldu-1747366",
+          "title": "Manifest'in kurucusu Tolga Akış için istenen ceza belli oldu"
         },
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/orhan-gencebayin-yillardir-unutmadigi-kirginlik-beni-asagilamak-icin-soylediler-diyerek-ilk-kez-anlatti",
-          "title": "Orhan Gencebay’ın yıllardır unutmadığı kırgınlık! Beni aşağılamak için söylediler! diyerek ilk kez anlattı!"
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "url": "https://tr.euronews.com/2026/10/21/manifestin-menajeri-tolga-akis-icin-6-aydan-3-yila-kadar-hapis-cezasi-istendi",
+          "title": "Manifest'in menajeri Tolga Akış için istenen ceza belli oldu"
         }
       ],
       "publisher_domains": [
+        "ntv.com.tr",
         "onedio.com",
-        "sabah.com.tr",
-        "yenisafak.com"
+        "tr.euronews.com"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -250,46 +299,43 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Orhan Gencebay'dan Sitem Dolu Arabeskçi Açıklaması - Onedio",
-        "og_title": "Orhan Gencebay'dan Yıllar Sonra Gelen Sitem Dolu İtiraf: \"Beni Aşağılamak İçin Söylediler!\"",
-        "description": "Orhan Gencebay, NTV'deki Zincirleme Reaksiyon programında geçmişte kendisine neden arabeskçi dendiğini anlattı. Ustanın rap müzik açıklaması da dikkat çekti.",
+        "page_title": "Tolga Akış Hakkında 3 Yıla Kadar Hapis Talebi! - Onedio",
+        "og_title": "Manifest'in Kurucusu Tolga Akış Hakkında Yeni Gelişme: İstenen Ceza Belli Oldu!",
+        "description": "Manifest'in kurucusu Tolga Akış hakkında müstehcenlik suçlamasıyla iddianame hazırlandı. Savcılık 3 yıla kadar hapis cezası talep etti. İşte ayrıntılar.",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "yenisafak.com",
-          "source_domain": "yenisafak.com",
-          "title": "Orhan Gencebay yıllar sonra itiraf etti: 'Beni aşağılamak için söylediler' diyerek anlattı",
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "title": "Manifest'in kurucusu Tolga Akış için istenen ceza belli oldu",
           "summary": "",
-          "url": "https://www.yenisafak.com/galeri/hayat/orhan-gencebay-yillar-sonra-itiraf-etti-beni-asagilamak-icin-soylediler-diyerek-anlatti-4866121",
-          "match_score": 0.65,
+          "url": "https://www.ntv.com.tr/turkiye/galeri-manifestin-kurucusu-tolga-akis-icin-istenen-ceza-belli-oldu-1747366",
+          "match_score": 0.77,
           "shared_keywords": [
-            "asag",
-            "beni",
-            "gencebay",
-            "itiraf",
-            "lamak",
-            "llar",
-            "orhan",
-            "soylediler"
+            "belli",
+            "ceza",
+            "istenen",
+            "kurucusu",
+            "manifest",
+            "tolga"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
         },
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "title": "Orhan Gencebay’ın yıllardır unutmadığı kırgınlık! Beni aşağılamak için söylediler! diyerek ilk kez anlattı!",
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "title": "Manifest'in menajeri Tolga Akış için istenen ceza belli oldu",
           "summary": "",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/orhan-gencebayin-yillardir-unutmadigi-kirginlik-beni-asagilamak-icin-soylediler-diyerek-ilk-kez-anlatti",
-          "match_score": 0.56,
+          "url": "https://tr.euronews.com/2026/10/21/manifestin-menajeri-tolga-akis-icin-6-aydan-3-yila-kadar-hapis-cezasi-istendi",
+          "match_score": 0.63,
           "shared_keywords": [
-            "asag",
-            "beni",
-            "gencebay",
-            "lamak",
-            "orhan",
-            "soylediler"
+            "belli",
+            "ceza",
+            "istenen",
+            "manifest",
+            "tolga"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
