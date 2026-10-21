@@ -1,9 +1,108 @@
 {
-  "generated_at": "2026-10-21T08:51:15.923772+00:00",
+  "generated_at": "2026-10-21T12:08:57.475532+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
+    {
+      "title": "Ali Ağaoğlu'nun 6. kez baba oluyor! Bebeğinin cinsiyeti belli oldu - Magazin Haberleri",
+      "normalized_title": "ali agaoglu nun 6 kez baba oluyor bebeginin cinsiyeti belli oldu magazin haberleri",
+      "url": "https://www.mynet.com/magazin/ali-agaoglu-nun-6-kez-baba-oluyor-bebeginin-cinsiyeti-belli-oldu-130100604996",
+      "source": "mynet.com",
+      "source_role": "publisher",
+      "source_domain": "mynet.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-21T12:08:21.012891+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/ali-agaoglu-72-yasinda-6-kez-baba-oluyordu-bebeginin-cinsiyeti-belli-oldu-1390026",
+          "title": "Ali Ağaoğlu 72 Yaşında 6. Kez Baba Oluyordu: Bebeğinin Cinsiyeti Belli Oldu"
+        },
+        {
+          "source": "mynet.com",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/ali-agaoglu-nun-6-kez-baba-oluyor-bebeginin-cinsiyeti-belli-oldu-130100604996",
+          "title": "Ali Ağaoğlu'nun 6. kez baba oluyor! Bebeğinin cinsiyeti belli oldu - Magazin Haberleri"
+        },
+        {
+          "source": "egedesonsoz.com",
+          "source_domain": "egedesonsoz.com",
+          "url": "https://www.egedesonsoz.com/72-yasindaki-ali-agaoglunun-bebeginin-cinsiyeti-belli-oldu",
+          "title": "72 yaşındaki Ali Ağaoğlu’nun bebeğinin cinsiyeti belli oldu"
+        }
+      ],
+      "publisher_domains": [
+        "egedesonsoz.com",
+        "mynet.com",
+        "onedio.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Ali Ağaoğlu'nun 6. kez baba oluyor! Bebeğinin cinsiyeti belli oldu - Magazin Haberleri",
+        "og_title": "Ali Ağaoğlu'nun 6. kez baba oluyor! Bebeğinin cinsiyeti belli oldu",
+        "description": "Türkiye'nin en çok konuşulan iş insanlarından biri olan Ali Ağaoğlu bir kez daha özel hayatıyla gündeme geldi. Ağaoğlu'nun 15 yıldır birlikte olduğu Bige Yıldırımer'in hamile olduğu öğrenilmişti. Şimdi de Ali Ağaoğlu'nun bebeğinin cinsiyeti belli oldu.",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "title": "Ali Ağaoğlu 72 Yaşında 6. Kez Baba Oluyordu: Bebeğinin Cinsiyeti Belli Oldu",
+          "summary": "",
+          "url": "https://onedio.com/haber/ali-agaoglu-72-yasinda-6-kez-baba-oluyordu-bebeginin-cinsiyeti-belli-oldu-1390026",
+          "match_score": 0.68,
+          "shared_keywords": [
+            "agaoglu",
+            "ali",
+            "baba",
+            "bebeginin",
+            "belli",
+            "cinsiyeti",
+            "kez"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        },
+        {
+          "source": "egedesonsoz.com",
+          "source_domain": "egedesonsoz.com",
+          "title": "72 yaşındaki Ali Ağaoğlu’nun bebeğinin cinsiyeti belli oldu",
+          "summary": "",
+          "url": "https://www.egedesonsoz.com/72-yasindaki-ali-agaoglunun-bebeginin-cinsiyeti-belli-oldu",
+          "match_score": 0.67,
+          "shared_keywords": [
+            "agaoglu",
+            "ali",
+            "bebeginin",
+            "belli",
+            "cinsiyeti",
+            "nun"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
     {
       "title": "Hülya Avşar'ın Yürüyüşünü Eleştiren Erkan Petekkaya'dan Beklenmedik Savunma!",
       "normalized_title": "hulya avsar in yuruyusunu elestiren erkan petekkaya dan beklenmedik savunma",
@@ -14,7 +113,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-21T08:50:35.348931+00:00",
+      "collected_at": "2026-10-21T12:08:21.013933+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -99,87 +198,16 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Zerrin Özer'e bir yıl içerisinde ikinci abla acısı: Nilgün Özer hayatını kaybetti",
-      "normalized_title": "zerrin ozer e bir yil icerisinde ikinci abla acisi nilgun ozer hayatini kaybetti",
-      "url": "https://www.haberturk.com/magazin/zerrin-ozer-e-bir-yil-icerisinde-ikinci-abla-acisi-nilgun-ozer-hayatini-kaybetti-3921303",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-21T08:50:35.347451+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/zerrin-ozer-e-bir-yil-icerisinde-ikinci-abla-acisi-nilgun-ozer-hayatini-kaybetti-3921303",
-          "title": "Zerrin Özer'e bir yıl içerisinde ikinci abla acısı: Nilgün Özer hayatını kaybetti"
-        },
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/zerrin-ozer-e-bir-aci-haber-daha-ablasi-nilgun-ozer-hayatini-kaybetti-1389868",
-          "title": "Zerrin Özer'e Bir Acı Haber Daha: Ablası Nilgün Özer Hayatını Kaybetti"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com",
-        "onedio.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Zerrin Özer'e bir yıl içerisinde ikinci abla acısı: Nilgün Özer hayatını kaybetti - Magazin Haber - HT Magazin",
-        "og_title": "Zerrin Özer'e bir yıl içerisinde ikinci abla acısı: Nilgün Özer hayatını kaybetti",
-        "description": "Mayıs ayında ablası Tülay Özer'i kaybeden Zerrin Özer, diğer ablası Nilgün Özeri'in vefatıyla bir kez daha büyük bir acı yaşadı",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "title": "Zerrin Özer'e Bir Acı Haber Daha: Ablası Nilgün Özer Hayatını Kaybetti",
-          "summary": "",
-          "url": "https://onedio.com/haber/zerrin-ozer-e-bir-aci-haber-daha-ablasi-nilgun-ozer-hayatini-kaybetti-1389868",
-          "match_score": 0.67,
-          "shared_keywords": [
-            "kaybetti",
-            "nilgun",
-            "ozer",
-            "zerrin"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "Kan Verdiği İçin İşten Kovulmuş: Kadir İnanır'ın Şoföründen Jülide Kural ve İrade Tartışması Hakkında İddia!",
-      "normalized_title": "kan verdigi icin isten kovulmus kadir inanir in soforunden julide kural ve irade tartismasi hakkinda iddia",
-      "url": "https://onedio.com/haber/kan-verdigi-icin-isten-kovulmus-kadir-inanir-in-soforunden-julide-kural-ve-irade-tartismasi-hakkinda-iddia-1389706",
+      "title": "Orhan Gencebay'dan Yıllar Sonra Gelen Sitem Dolu İtiraf: \"Beni Aşağılamak İçin Söylediler!\"",
+      "normalized_title": "orhan gencebay dan yillar sonra gelen sitem dolu itiraf beni asagilamak icin soylediler",
+      "url": "https://onedio.com/haber/orhan-gencebay-dan-yillar-sonra-gelen-sitem-dolu-itiraf-beni-asagilamak-icin-soylediler-1389981",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-21T08:50:35.348588+00:00",
+      "collected_at": "2026-10-21T12:08:21.014395+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -187,27 +215,34 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/kan-verdigi-icin-isten-kovulmus-kadir-inanir-in-soforunden-julide-kural-ve-irade-tartismasi-hakkinda-iddia-1389706",
-          "title": "Kan Verdiği İçin İşten Kovulmuş: Kadir İnanır'ın Şoföründen Jülide Kural ve İrade Tartışması Hakkında İddia!"
+          "url": "https://onedio.com/haber/orhan-gencebay-dan-yillar-sonra-gelen-sitem-dolu-itiraf-beni-asagilamak-icin-soylediler-1389981",
+          "title": "Orhan Gencebay'dan Yıllar Sonra Gelen Sitem Dolu İtiraf: \"Beni Aşağılamak İçin Söylediler!\""
         },
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/kadir-inanir-in-eski-soforu-konustu-julide-kural-3921013",
-          "title": "Kadir İnanır'ın eski şoförü konuştu: Jülide Kural..."
+          "source": "yenisafak.com",
+          "source_domain": "yenisafak.com",
+          "url": "https://www.yenisafak.com/galeri/hayat/orhan-gencebay-yillar-sonra-itiraf-etti-beni-asagilamak-icin-soylediler-diyerek-anlatti-4866121",
+          "title": "Orhan Gencebay yıllar sonra itiraf etti: 'Beni aşağılamak için söylediler' diyerek anlattı"
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/orhan-gencebayin-yillardir-unutmadigi-kirginlik-beni-asagilamak-icin-soylediler-diyerek-ilk-kez-anlatti",
+          "title": "Orhan Gencebay’ın yıllardır unutmadığı kırgınlık! Beni aşağılamak için söylediler! diyerek ilk kez anlattı!"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "onedio.com"
+        "onedio.com",
+        "sabah.com.tr",
+        "yenisafak.com"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 30.0,
       "possible_syndication": false,
       "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
       "publication_approved": false,
@@ -215,24 +250,46 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Kadir İnanır Vasiyeti: Şoföründen Jülide Kural İddiası - Onedio",
-        "og_title": "Kan Verdiği İçin İşten Kovulmuş: Kadir İnanır'ın Şoföründen Jülide Kural ve İrade Tartışması Hakkında İddia!",
-        "description": "Kadir İnanır'ın 4 yıllık şoförü Ali Garga, kan verdiği için Jülide Kural tarafından kovulduğunu söyledi; vasiyetteki irade tartışmasına da yorum yaptı.",
+        "page_title": "Orhan Gencebay'dan Sitem Dolu Arabeskçi Açıklaması - Onedio",
+        "og_title": "Orhan Gencebay'dan Yıllar Sonra Gelen Sitem Dolu İtiraf: \"Beni Aşağılamak İçin Söylediler!\"",
+        "description": "Orhan Gencebay, NTV'deki Zincirleme Reaksiyon programında geçmişte kendisine neden arabeskçi dendiğini anlattı. Ustanın rap müzik açıklaması da dikkat çekti.",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "title": "Kadir İnanır'ın eski şoförü konuştu: Jülide Kural...",
+          "source": "yenisafak.com",
+          "source_domain": "yenisafak.com",
+          "title": "Orhan Gencebay yıllar sonra itiraf etti: 'Beni aşağılamak için söylediler' diyerek anlattı",
           "summary": "",
-          "url": "https://www.haberturk.com/magazin/foto/kadir-inanir-in-eski-soforu-konustu-julide-kural-3921013",
-          "match_score": 0.49,
+          "url": "https://www.yenisafak.com/galeri/hayat/orhan-gencebay-yillar-sonra-itiraf-etti-beni-asagilamak-icin-soylediler-diyerek-anlatti-4866121",
+          "match_score": 0.65,
           "shared_keywords": [
-            "inan",
-            "julide",
-            "kadir",
-            "kural"
+            "asag",
+            "beni",
+            "gencebay",
+            "itiraf",
+            "lamak",
+            "llar",
+            "orhan",
+            "soylediler"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "title": "Orhan Gencebay’ın yıllardır unutmadığı kırgınlık! Beni aşağılamak için söylediler! diyerek ilk kez anlattı!",
+          "summary": "",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/orhan-gencebayin-yillardir-unutmadigi-kirginlik-beni-asagilamak-icin-soylediler-diyerek-ilk-kez-anlatti",
+          "match_score": 0.56,
+          "shared_keywords": [
+            "asag",
+            "beni",
+            "gencebay",
+            "lamak",
+            "orhan",
+            "soylediler"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
