@@ -9,8 +9,8 @@ from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 from googleapiclient.errors import ResumableUploadError
 ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/"output";HISTORY=ROOT/"data/youtube_upload_history.json";SCOPES=["https://www.googleapis.com/auth/youtube.upload"]
-DAILY_UPLOAD_LIMIT=max(1,int(os.getenv("YOUTUBE_DAILY_UPLOAD_LIMIT","3")))
-PER_RUN_UPLOAD_LIMIT=1
+DAILY_UPLOAD_LIMIT=max(1,int(os.getenv("YOUTUBE_DAILY_UPLOAD_LIMIT","6")))
+PER_RUN_UPLOAD_LIMIT=2
 TURKEY_TZ=ZoneInfo("Europe/Istanbul")
 def norm_title(value):
  value=unicodedata.normalize("NFKD",str(value or "")).encode("ascii","ignore").decode("ascii").lower()
