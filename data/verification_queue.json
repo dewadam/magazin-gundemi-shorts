@@ -1,289 +1,47 @@
 {
-  "generated_at": "2026-10-21T17:36:15.817431+00:00",
+  "generated_at": "2026-10-22T07:19:23.006748+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
-      "title": "Rutkay Ailesi'nin acı günü! Rutkay Aziz'in ağabeyi Enver Ural Rutkay hayatını kaybetti",
-      "normalized_title": "rutkay ailesi nin aci gunu rutkay aziz in agabeyi enver ural rutkay hayatini kaybetti",
-      "url": "https://www.milliyet.com.tr/magazin/rutkay-ailesinin-aci-gunu-rutkay-azizin-agabeyi-enver-ural-rutkay-hayatini-kaybetti-7684359",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-21T17:35:37.596869+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/oyuncu-rutkay-aziz-in-abisi-dr-enver-ural-rutkay-hayatini-kaybetti-1390205",
-          "title": "Oyuncu Rutkay Aziz'in Abisi Dr. Enver Ural Rutkay Hayatını Kaybetti!"
-        },
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/rutkay-azizin-agabeyi-enver-ural-rutkay-hayatini-kaybetti-43349593",
-          "title": "Rutkay Aziz’in ağabeyi Enver Ural Rutkay hayatını kaybetti"
-        },
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/rutkay-ailesinin-aci-gunu-rutkay-azizin-agabeyi-enver-ural-rutkay-hayatini-kaybetti-7684359",
-          "title": "Rutkay Ailesi'nin acı günü! Rutkay Aziz'in ağabeyi Enver Ural Rutkay hayatını kaybetti"
-        },
-        {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/rutkay-azizin-agabeyi-dr-enver-ural-rutkay-hayatini-kaybetti-cenaze-bilgileri-belli-oldu-3482159",
-          "title": "Rutkay Aziz'in ağabeyi Dr. Enver Ural Rutkay hayatını kaybetti! CENAZE BİLGİLERİ BELLİ OLDU"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com",
-        "hurriyet.com.tr",
-        "milliyet.com.tr",
-        "onedio.com"
-      ],
-      "publisher_count": 4,
-      "direct_article_count": 4,
-      "event_member_count": 4,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 40.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Rutkay Ailesi'nin acı günü! Rutkay Aziz'in ağabeyi Enver Ural Rutkay hayatını kaybetti - Magazin Haberleri - Milliyet",
-        "og_title": "Rutkay Ailesi'nin acı günü! Rutkay Aziz'in ağabeyi Enver Ural Rutkay hayatını kaybetti",
-        "description": "Usta oyuncu Rutkay Aziz'in ağabeyi, Doğa Rutkay Kamal'ın ise amcası olan Dr. Enver Ural Rutkay hayatını kaybetti.",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "title": "Oyuncu Rutkay Aziz'in Abisi Dr. Enver Ural Rutkay Hayatını Kaybetti!",
-          "summary": "",
-          "url": "https://onedio.com/haber/oyuncu-rutkay-aziz-in-abisi-dr-enver-ural-rutkay-hayatini-kaybetti-1390205",
-          "match_score": 0.67,
-          "shared_keywords": [
-            "aziz",
-            "enver",
-            "kaybetti",
-            "rutkay",
-            "ural"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        },
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "title": "Rutkay Aziz’in ağabeyi Enver Ural Rutkay hayatını kaybetti",
-          "summary": "",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/rutkay-azizin-agabeyi-enver-ural-rutkay-hayatini-kaybetti-43349593",
-          "match_score": 0.77,
-          "shared_keywords": [
-            "agabeyi",
-            "aziz",
-            "enver",
-            "kaybetti",
-            "rutkay",
-            "ural"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        },
-        {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "title": "Rutkay Aziz'in ağabeyi Dr. Enver Ural Rutkay hayatını kaybetti! CENAZE BİLGİLERİ BELLİ OLDU",
-          "summary": "",
-          "url": "https://www.cnnturk.com/magazin/galeri/rutkay-azizin-agabeyi-dr-enver-ural-rutkay-hayatini-kaybetti-cenaze-bilgileri-belli-oldu-3482159",
-          "match_score": 0.57,
-          "shared_keywords": [
-            "agabeyi",
-            "aziz",
-            "enver",
-            "kaybetti",
-            "rutkay",
-            "ural"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "Ali Ağaoğlu 6. kez baba oluyor! Bige Yıldırımer duyurdu! İşte bebeğin cinsiyeti...",
-      "normalized_title": "ali agaoglu 6 kez baba oluyor bige yildirimer duyurdu iste bebegin cinsiyeti",
-      "url": "https://www.cnnturk.com/magazin/galeri/ali-agaoglu-6-kez-baba-oluyor-bige-yildirimer-duyurdu-iste-bebegin-cinsiyeti-3482692",
-      "source": "cnnturk.com",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-21T17:35:37.598152+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/ali-agaoglu-72-yasinda-6-kez-baba-oluyordu-bebeginin-cinsiyeti-belli-oldu-1390026",
-          "title": "Ali Ağaoğlu 72 Yaşında 6. Kez Baba Oluyordu: Bebeğinin Cinsiyeti Belli Oldu"
-        },
-        {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/ali-agaoglu-6-kez-baba-oluyor-bige-yildirimer-duyurdu-iste-bebegin-cinsiyeti-3482692",
-          "title": "Ali Ağaoğlu 6. kez baba oluyor! Bige Yıldırımer duyurdu! İşte bebeğin cinsiyeti..."
-        },
-        {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/magazin/ali-agaoglu-altinci-kez-baba-oluyor-iste-genc-20352794-haberi/",
-          "title": "Ali Ağaoğlu altıncı kez baba oluyor! Cinsiyeti belli oldu"
-        },
-        {
-          "source": "internethaber.com",
-          "source_domain": "internethaber.com",
-          "url": "https://www.internethaber.com/6-kez-baba-oluyor-ali-agaoglunun-bebeginin-cinsiyeti-belli-oldu-foto-galerisi-2465115.htm",
-          "title": "6. kez baba oluyor! Ali Ağaoğlu'nun bebeğinin cinsiyeti belli oldu"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com",
-        "haberler.com",
-        "internethaber.com",
-        "onedio.com"
-      ],
-      "publisher_count": 4,
-      "direct_article_count": 4,
-      "event_member_count": 4,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 40.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Ali Ağaoğlu 6. kez baba oluyor! Bige Yıldırımer duyurdu! İşte bebeğin cinsiyeti... - Son Dakika Magazin Haberleri",
-        "og_title": "Ali Ağaoğlu 6. kez baba oluyor! Bige Yıldırımer duyurdu! İşte bebeğin cinsiyeti... - Son Dakika Magazin Haberleri",
-        "description": "Magazin Haberleri - Ünlü iş insanı Ali Ağaoğlu'nun 36 yaş küçük eşi Bige Yıldırımer hamile olduğunu açıklamıştı. Baby shower partisi düzenleyen Yıldırmer,...",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "title": "Ali Ağaoğlu 72 Yaşında 6. Kez Baba Oluyordu: Bebeğinin Cinsiyeti Belli Oldu",
-          "summary": "",
-          "url": "https://onedio.com/haber/ali-agaoglu-72-yasinda-6-kez-baba-oluyordu-bebeginin-cinsiyeti-belli-oldu-1390026",
-          "match_score": 0.56,
-          "shared_keywords": [
-            "agaoglu",
-            "ali",
-            "baba",
-            "cinsiyeti",
-            "kez"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        },
-        {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "title": "Ali Ağaoğlu altıncı kez baba oluyor! Cinsiyeti belli oldu",
-          "summary": "",
-          "url": "https://www.haberler.com/magazin/ali-agaoglu-altinci-kez-baba-oluyor-iste-genc-20352794-haberi/",
-          "match_score": 0.55,
-          "shared_keywords": [
-            "agaoglu",
-            "ali",
-            "baba",
-            "cinsiyeti",
-            "kez"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        },
-        {
-          "source": "internethaber.com",
-          "source_domain": "internethaber.com",
-          "title": "6. kez baba oluyor! Ali Ağaoğlu'nun bebeğinin cinsiyeti belli oldu",
-          "summary": "",
-          "url": "https://www.internethaber.com/6-kez-baba-oluyor-ali-agaoglunun-bebeginin-cinsiyeti-belli-oldu-foto-galerisi-2465115.htm",
-          "match_score": 0.5,
-          "shared_keywords": [
-            "agaoglu",
-            "ali",
-            "baba",
-            "cinsiyeti",
-            "kez"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "Manifest'in Kurucusu Tolga Akış Hakkında Yeni Gelişme: İstenen Ceza Belli Oldu!",
-      "normalized_title": "manifest in kurucusu tolga akis hakkinda yeni gelisme istenen ceza belli oldu",
-      "url": "https://onedio.com/haber/manifest-in-kurucusu-tolga-akis-hakkinda-yeni-gelisme-istenen-ceza-belli-oldu-1390265",
+      "title": "İki Hamile Bir Araya Geldi: Gökçe Bahadır ve Merve Dizdar Aynı Kutlamada Buluştu!",
+      "normalized_title": "iki hamile bir araya geldi gokce bahadir ve merve dizdar ayni kutlamada bulustu",
+      "url": "https://onedio.com/haber/iki-hamile-bir-araya-geldi-gokce-bahadir-ve-merve-dizdar-ayni-kutlamada-bulustu-1390288",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-21T17:35:37.595377+00:00",
+      "collected_at": "2026-10-22T07:18:42.769385+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/gokce-bahadir-ve-merve-dizdar-bir-araya-geldi-3921542",
+          "title": "Gökçe Bahadır ve Merve Dizdar bir araya geldi"
+        },
+        {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/manifest-in-kurucusu-tolga-akis-hakkinda-yeni-gelisme-istenen-ceza-belli-oldu-1390265",
-          "title": "Manifest'in Kurucusu Tolga Akış Hakkında Yeni Gelişme: İstenen Ceza Belli Oldu!"
+          "url": "https://onedio.com/haber/iki-hamile-bir-araya-geldi-gokce-bahadir-ve-merve-dizdar-ayni-kutlamada-bulustu-1390288",
+          "title": "İki Hamile Bir Araya Geldi: Gökçe Bahadır ve Merve Dizdar Aynı Kutlamada Buluştu!"
         },
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/turkiye/galeri-manifestin-kurucusu-tolga-akis-icin-istenen-ceza-belli-oldu-1747366",
-          "title": "Manifest'in kurucusu Tolga Akış için istenen ceza belli oldu"
-        },
-        {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/10/21/manifestin-menajeri-tolga-akis-icin-6-aydan-3-yila-kadar-hapis-cezasi-istendi",
-          "title": "Manifest'in menajeri Tolga Akış için istenen ceza belli oldu"
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/anne-olmak-icin-gun-sayiyorlar-gokce-bahadir-ve-merve-dizdar-ayni-karede-7684819",
+          "title": "Anne olmak için gün sayıyorlar! Gökçe Bahadır ve Merve Dizdar aynı karede"
         }
       ],
       "publisher_domains": [
-        "ntv.com.tr",
-        "onedio.com",
-        "tr.euronews.com"
+        "haberturk.com",
+        "milliyet.com.tr",
+        "onedio.com"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -299,43 +57,187 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Tolga Akış Hakkında 3 Yıla Kadar Hapis Talebi! - Onedio",
-        "og_title": "Manifest'in Kurucusu Tolga Akış Hakkında Yeni Gelişme: İstenen Ceza Belli Oldu!",
-        "description": "Manifest'in kurucusu Tolga Akış hakkında müstehcenlik suçlamasıyla iddianame hazırlandı. Savcılık 3 yıla kadar hapis cezası talep etti. İşte ayrıntılar.",
+        "page_title": "Hamile Gökçe Bahadır ve Merve Dizdar Aynı Kutlamada Buluştu - Onedio",
+        "og_title": "İki Hamile Bir Araya Geldi: Gökçe Bahadır ve Merve Dizdar Aynı Kutlamada Buluştu!",
+        "description": "Gökçe Bahadır ve Merve Dizdar, Emir Ersoy'un doğum günü kutlamasında bir araya geldi. İki hamile oyuncunun büyüyen karnı ve son halleri dikkat çekti.",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "title": "Manifest'in kurucusu Tolga Akış için istenen ceza belli oldu",
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "title": "Gökçe Bahadır ve Merve Dizdar bir araya geldi",
           "summary": "",
-          "url": "https://www.ntv.com.tr/turkiye/galeri-manifestin-kurucusu-tolga-akis-icin-istenen-ceza-belli-oldu-1747366",
-          "match_score": 0.77,
+          "url": "https://www.haberturk.com/magazin/foto/gokce-bahadir-ve-merve-dizdar-bir-araya-geldi-3921542",
+          "match_score": 0.76,
           "shared_keywords": [
-            "belli",
-            "ceza",
-            "istenen",
-            "kurucusu",
-            "manifest",
-            "tolga"
+            "araya",
+            "bahad",
+            "dizdar",
+            "geldi",
+            "gokce",
+            "merve"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
         },
         {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "title": "Manifest'in menajeri Tolga Akış için istenen ceza belli oldu",
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "title": "Anne olmak için gün sayıyorlar! Gökçe Bahadır ve Merve Dizdar aynı karede",
           "summary": "",
-          "url": "https://tr.euronews.com/2026/10/21/manifestin-menajeri-tolga-akis-icin-6-aydan-3-yila-kadar-hapis-cezasi-istendi",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/anne-olmak-icin-gun-sayiyorlar-gokce-bahadir-ve-merve-dizdar-ayni-karede-7684819",
+          "match_score": 0.51,
+          "shared_keywords": [
+            "ayn",
+            "bahad",
+            "dizdar",
+            "gokce",
+            "merve"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Çağatay Ulusoy’la küslük sona mı erdi? Kıvanç Tatlıtuğ’dan iddialara alaycı yanıt…",
+      "normalized_title": "cagatay ulusoy la kusluk sona mi erdi kivanc tatlitug dan iddialara alayci yanit",
+      "url": "https://m.sabah.com.tr/trend/galeri/magazin/cagatay-ulusoyla-kusluk-sona-mi-erdi-kivanc-tatlitugdan-iddialara-alayci-yanit",
+      "source": "m.sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "m.sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-22T07:18:42.769748+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/kivanc-tatlitug-dan-cagatay-ulusoy-aciklamasi-hakkimda-yazilanlar-oynadigim-projelerin-3921601",
+          "title": "Kıvanç Tatlıtuğ'dan Çağatay Ulusoy açıklaması"
+        },
+        {
+          "source": "m.sabah.com.tr",
+          "source_domain": "m.sabah.com.tr",
+          "url": "https://m.sabah.com.tr/trend/galeri/magazin/cagatay-ulusoyla-kusluk-sona-mi-erdi-kivanc-tatlitugdan-iddialara-alayci-yanit",
+          "title": "Çağatay Ulusoy’la küslük sona mı erdi? Kıvanç Tatlıtuğ’dan iddialara alaycı yanıt…"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "m.sabah.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Çağatay Ulusoy’la küslük sona mı erdi? Kıvanç Tatlıtuğ’dan iddialara alaycı yanıt… - Galeri - Trend Magazin",
+        "og_title": "Çağatay Ulusoy’la küslük sona mı erdi? Kıvanç Tatlıtuğ’dan iddialara alaycı yanıt…",
+        "description": "Motosiklet tutkularıyla tanınan ünlü oyuncular Kıvanç Tatlıtuğ ve Burak Yamantürk, önceki gün Yeniköy trafiğinde objektiflere takıldı. Özel yapım motosikleti ve tam korumalı profesyonel ekipmanıyla dikkat çeken Tatlıtuğ, uzun süredir aralarının bozuk...",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "title": "Kıvanç Tatlıtuğ'dan Çağatay Ulusoy açıklaması",
+          "summary": "",
+          "url": "https://www.haberturk.com/magazin/foto/kivanc-tatlitug-dan-cagatay-ulusoy-aciklamasi-hakkimda-yazilanlar-oynadigim-projelerin-3921601",
           "match_score": 0.63,
           "shared_keywords": [
-            "belli",
-            "ceza",
-            "istenen",
-            "manifest",
-            "tolga"
+            "cagatay",
+            "tatl",
+            "tug",
+            "ulusoy",
+            "vanc"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Game of Thrones yıldızı Owen Teale İstanbul'a hayran kaldı! Şerefiye Sarnıcı'nda gözleri doldu",
+      "normalized_title": "game of thrones yildizi owen teale istanbul a hayran kaldi serefiye sarnici nda gozleri doldu",
+      "url": "https://www.bursadabugun.com/haber/game-of-thrones-yildizi-owen-teale-istanbul-a-hayran-kaldi-serefiye-sarnici-nda-gozleri-doldu-1958299.html",
+      "source": "bursadabugun.com",
+      "source_role": "publisher",
+      "source_domain": "bursadabugun.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-22T07:18:42.770572+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/game-of-thrones-yildizi-owen-teale-istanbul-da-3921568",
+          "title": "'Game of Thrones' yıldızı Owen Teale İstanbul'da"
+        },
+        {
+          "source": "bursadabugun.com",
+          "source_domain": "bursadabugun.com",
+          "url": "https://www.bursadabugun.com/haber/game-of-thrones-yildizi-owen-teale-istanbul-a-hayran-kaldi-serefiye-sarnici-nda-gozleri-doldu-1958299.html",
+          "title": "Game of Thrones yıldızı Owen Teale İstanbul'a hayran kaldı! Şerefiye Sarnıcı'nda gözleri doldu"
+        }
+      ],
+      "publisher_domains": [
+        "bursadabugun.com",
+        "haberturk.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Game of Thrones yıldızı Owen Teale İstanbul'a hayran kaldı! Şerefiye Sarnıcı'nda gözleri doldu - Magazin Haberleri - Bursadabugun.com",
+        "og_title": "Game of Thrones yıldızı Owen Teale İstanbul'a hayran kaldı! Şerefiye Sarnıcı'nda gözleri doldu",
+        "description": "Dünyaca ünlü \"Game of Thrones\" dizisinde Ser Alliser Thorne karakterini canlandıran İngiliz oyuncu Owen Teale, DFFI 2026 kapsamında Türkiye'ye geldi. Festival programının ardından İstanbul'un tarihi noktalarını keşfe çıkan oyuncu, Şerefiye Sarnıcı'nda dinlediği özel müzik performansından derinden etkilendi. Duygularını gizleyemediğini belirten Teale, \"Gözlerim doldu çünkü hayatımda duyduğum en güzel 'Game of Thrones' tema müziği yorumuydu\" sözleriyle yaşadığı anı anlattı.",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "title": "'Game of Thrones' yıldızı Owen Teale İstanbul'da",
+          "summary": "",
+          "url": "https://www.haberturk.com/magazin/foto/game-of-thrones-yildizi-owen-teale-istanbul-da-3921568",
+          "match_score": 0.73,
+          "shared_keywords": [
+            "game",
+            "istanbul",
+            "owen",
+            "teale",
+            "thrones"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
