@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-23T17:24:02.229301+00:00",
+  "generated_at": "2026-10-24T06:59:59.593264+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
-      "title": "Düğünleri Günlerce Konuşulmuştu! Itır Esen ve Eşi Engin Aykanat'ın Boy Farkı Sosyal Medyada Gündem Oldu",
-      "normalized_title": "dugunleri gunlerce konusulmustu itir esen ve esi engin aykanat in boy farki sosyal medyada gundem oldu",
-      "url": "https://onedio.com/haber/dugunleri-gunlerce-konusulmustu-itir-esen-ve-esi-engin-aykanat-in-boy-farki-sosyal-medyada-gundem-oldu-1390774",
-      "source": "onedio.com",
+      "title": "Hakkı Bulut sahnede fenalaştı: Hastaneye kaldırıldı",
+      "normalized_title": "hakki bulut sahnede fenalasti hastaneye kaldirildi",
+      "url": "https://www.cumhuriyet.com.tr/turkiye/hakki-bulut-sahnede-fenalasti-hastaneye-kaldirildi-2549680",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-23T17:23:24.101280+00:00",
+      "collected_at": "2026-10-24T06:59:22.060202+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/dugunleri-gunlerce-konusulmustu-itir-esen-ve-esi-engin-aykanat-in-boy-farki-sosyal-medyada-gundem-oldu-1390774",
-          "title": "Düğünleri Günlerce Konuşulmuştu! Itır Esen ve Eşi Engin Aykanat'ın Boy Farkı Sosyal Medyada Gündem Oldu"
+          "source": "birgun.net",
+          "source_domain": "birgun.net",
+          "url": "https://www.birgun.net/haber/hakki-bulut-hastaneye-kaldirildi-742172",
+          "title": "Hakkı Bulut hastaneye kaldırıldı"
         },
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/itir-esen-ile-esi-engin-aykanat-arasindaki-boy-farki-dikkat-cekti-3922046",
-          "title": "Itır Esen ile eşi Engin Aykanat arasındaki boy farkı dikkat çekti"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/hakki-bulut-sahnede-fenalasti-hastaneye-kaldirildi-2549680",
+          "title": "Hakkı Bulut sahnede fenalaştı: Hastaneye kaldırıldı"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "onedio.com"
+        "birgun.net",
+        "cumhuriyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -50,95 +50,24 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Itır Esen ve Engin Aykanat'ın Davet Görüntüleri Gündem Oldu - Onedio",
-        "og_title": "Düğünleri Günlerce Konuşulmuştu! Itır Esen ve Eşi Engin Aykanat'ın Boy Farkı  Sosyal Medyada Gündem Oldu",
-        "description": "Itır Esen ve Engin Aykanat, İstanbul'daki düğünlerinin ardından birlikte davete katıldı. Yeni evli çiftin çekilen görüntüleri sosyal medyada gündem oldu.",
+        "page_title": "Hakkı Bulut sahnede fenalaştı: Hastaneye kaldırıldı - Son Dakika Türkiye Haberleri | Cumhuriyet",
+        "og_title": "Hakkı Bulut sahnede fenalaştı: Hastaneye kaldırıldı",
+        "description": "Arabesk müziğin usta isimlerinden Hakkı Bulut, İstanbul’da bir mekanda sahne aldığı sırada rahatsızlandı. Fenalaşan sanatçının hastaneye kaldırıldığı öğrenildi.",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "title": "Itır Esen ile eşi Engin Aykanat arasındaki boy farkı dikkat çekti",
+          "source": "birgun.net",
+          "source_domain": "birgun.net",
+          "title": "Hakkı Bulut hastaneye kaldırıldı",
           "summary": "",
-          "url": "https://www.haberturk.com/magazin/foto/itir-esen-ile-esi-engin-aykanat-arasindaki-boy-farki-dikkat-cekti-3922046",
-          "match_score": 0.46,
+          "url": "https://www.birgun.net/haber/hakki-bulut-hastaneye-kaldirildi-742172",
+          "match_score": 0.74,
           "shared_keywords": [
-            "aykanat",
-            "boy",
-            "engin",
-            "esen",
-            "fark"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "Game of Thrones'un Ser Alliser'ı İstanbul'da: Şerefiye Sarnıcı'nda Karşılaştığı Sürpriz Gözlerini Doldurdu!",
-      "normalized_title": "game of thrones un ser alliser i istanbul da serefiye sarnici nda karsilastigi surpriz gozlerini doldurdu",
-      "url": "https://onedio.com/haber/game-of-thrones-un-ser-alliser-i-istanbul-da-serefiye-sarnici-nda-karsilastigi-surpriz-gozlerini-doldurdu-1390728",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-23T17:23:24.101701+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/stil/game-of-thronesun-yildizi-istanbulda-43351662",
-          "title": "‘Game of Thrones’un yıldızı İstanbul’da"
-        },
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/game-of-thrones-un-ser-alliser-i-istanbul-da-serefiye-sarnici-nda-karsilastigi-surpriz-gozlerini-doldurdu-1390728",
-          "title": "Game of Thrones'un Ser Alliser'ı İstanbul'da: Şerefiye Sarnıcı'nda Karşılaştığı Sürpriz Gözlerini Doldurdu!"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr",
-        "onedio.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Owen Teale İstanbul'da: Game of Thrones'un Ser Alliser'ı - Onedio",
-        "og_title": "Game of Thrones'un Ser Alliser'ı İstanbul'da: Şerefiye Sarnıcı'nda Karşılaştığı Sürpriz Gözlerini Doldurdu!",
-        "description": "Game of Thrones'un Ser Alliser Thorne'u Owen Teale, İstanbul'da Şerefiye Sarnıcı'nda dizinin müziğiyle karşılandı. Galli oyuncunun gözleri doldu.",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "title": "‘Game of Thrones’un yıldızı İstanbul’da",
-          "summary": "",
-          "url": "https://www.hurriyet.com.tr/kelebek/stil/game-of-thronesun-yildizi-istanbulda-43351662",
-          "match_score": 0.7,
-          "shared_keywords": [
-            "game",
-            "istanbul",
-            "thrones"
+            "bulut",
+            "hakk",
+            "hastaneye",
+            "kald"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
@@ -156,7 +85,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-23T17:23:24.102951+00:00",
+      "collected_at": "2026-10-24T06:59:22.060892+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -213,6 +142,78 @@
             "tayfun",
             "terk",
             "villas"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Şarkıcı Nev'in durumu kritik. İkinci kez entübe edildi",
+      "normalized_title": "sarkici nev in durumu kritik ikinci kez entube edildi",
+      "url": "https://www.ntv.com.tr/yasam/galeri-sarkici-nevin-durumu-kritik-ikinci-kez-entube-edildi-1747573",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-24T06:59:22.061778+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/nevden-uzen-haber-ikinci-kez-entube-edildi-43351785",
+          "title": "Nev'den üzen haber: İkinci kez entübe edildi"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-sarkici-nevin-durumu-kritik-ikinci-kez-entube-edildi-1747573",
+          "title": "Şarkıcı Nev'in durumu kritik. İkinci kez entübe edildi"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr",
+        "ntv.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Şarkıcı Nev'in durumu kritik. İkinci kez entübe edildi | NTV Haber",
+        "og_title": "Şarkıcı Nev'in durumu kritik. İkinci kez entübe edildi | NTV Haber",
+        "description": "Bir süredir karaciğer rahatsızlığı sebebiyle hastanede olan Nev'in sağlık durumu iyi gitmiyor. Yeniden entübe edilen şarkıcının durumu kritik.",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "title": "Nev'den üzen haber: İkinci kez entübe edildi",
+          "summary": "",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/nevden-uzen-haber-ikinci-kez-entube-edildi-43351785",
+          "match_score": 0.59,
+          "shared_keywords": [
+            "edildi",
+            "entube",
+            "ikinci",
+            "kez",
+            "nev"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
