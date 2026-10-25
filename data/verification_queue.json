@@ -1,129 +1,9 @@
 {
-  "generated_at": "2026-10-24T16:11:50.472481+00:00",
+  "generated_at": "2026-10-25T07:23:32.420636+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
-    {
-      "title": "Tom Skerritt kimdir, kaç yaşındaydı? Tom Skerritt neden öldü? Alien ve Top Gun'ın yıldızı hayatını kaybetti",
-      "normalized_title": "tom skerritt kimdir kac yasindaydi tom skerritt neden oldu alien ve top gun in yildizi hayatini kaybetti",
-      "url": "https://www.cnnturk.com/magazin/alien-ve-top-gunin-yildizi-tom-skerritt-hayatini-kaybetti-3483751",
-      "source": "cnnturk.com",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-24T16:11:11.967841+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/usta-oyuncu-tom-skerritt-hayatini-kaybetti-3922078",
-          "title": "Usta oyuncu Tom Skerritt hayatını kaybetti"
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/alien-ve-top-gun-ile-taninan-usta-oyuncu-tom-skerritt-93-yasinda-hayatini-kaybetti-2549719",
-          "title": "Alien ve Top Gun ile tanınan usta oyuncu Tom Skerritt 93 yaşında hayatını kaybetti"
-        },
-        {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/alien-ve-top-gunin-yildizi-tom-skerritt-hayatini-kaybetti-3483751",
-          "title": "Tom Skerritt kimdir, kaç yaşındaydı? Tom Skerritt neden öldü? Alien ve Top Gun'ın yıldızı hayatını kaybetti"
-        },
-        {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/10/23/alien-ve-top-gunin-yildizi-tom-skerritt-93-yasinda-hayatini-kaybetti",
-          "title": "Alien ve Top Gun'ın yıldızı Tom Skerritt 93 yaşında hayatını kaybetti"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com",
-        "cumhuriyet.com.tr",
-        "haberturk.com",
-        "tr.euronews.com"
-      ],
-      "publisher_count": 4,
-      "direct_article_count": 4,
-      "event_member_count": 4,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 40.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Tom Skerritt kimdir, kaç yaşındaydı? Tom Skerritt neden öldü? Alien ve Top Gun'ın yıldızı hayatını kaybetti",
-        "og_title": "Tom Skerritt kimdir, kaç yaşındaydı? Tom Skerritt neden öldü? Alien ve Top Gun'ın yıldızı hayatını kaybetti",
-        "description": "Ülkemizde 'Alien' ve 'Top Gun' gibi filmlerle tanınan ABD'li ünlü oyuncu Tom Skerritt hayatını kaybetti. Usta oyuncunun ölümü sevenlerini yasa boğdu. Peki,...",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "title": "Usta oyuncu Tom Skerritt hayatını kaybetti",
-          "summary": "",
-          "url": "https://www.haberturk.com/magazin/usta-oyuncu-tom-skerritt-hayatini-kaybetti-3922078",
-          "match_score": 0.71,
-          "shared_keywords": [
-            "kaybetti",
-            "skerritt",
-            "tom"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "title": "Alien ve Top Gun ile tanınan usta oyuncu Tom Skerritt 93 yaşında hayatını kaybetti",
-          "summary": "",
-          "url": "https://www.cumhuriyet.com.tr/yasam/alien-ve-top-gun-ile-taninan-usta-oyuncu-tom-skerritt-93-yasinda-hayatini-kaybetti-2549719",
-          "match_score": 0.59,
-          "shared_keywords": [
-            "alien",
-            "gun",
-            "kaybetti",
-            "skerritt",
-            "tom",
-            "top"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        },
-        {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "title": "Alien ve Top Gun'ın yıldızı Tom Skerritt 93 yaşında hayatını kaybetti",
-          "summary": "",
-          "url": "https://tr.euronews.com/2026/10/23/alien-ve-top-gunin-yildizi-tom-skerritt-93-yasinda-hayatini-kaybetti",
-          "match_score": 0.66,
-          "shared_keywords": [
-            "alien",
-            "gun",
-            "kaybetti",
-            "skerritt",
-            "tom",
-            "top"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
     {
       "title": "Ünlü oyuncu Engin Altan Düzyatan'ın acı günü: Babası Mevlan Düzyatan hayatını kaybetti",
       "normalized_title": "unlu oyuncu engin altan duzyatan in aci gunu babasi mevlan duzyatan hayatini kaybetti",
@@ -134,7 +14,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-24T16:11:11.964109+00:00",
+      "collected_at": "2026-10-25T07:22:55.539933+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -146,30 +26,37 @@
           "title": "Engin Altan Düzyatan'ın baba acısı"
         },
         {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/engin-altan-duzyatan-in-aci-gunu-p372287",
+          "title": "Engin Altan Düzyatan'ın acı günü"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-engin-altan-duzyatanin-aci-gunu-mevlan-duzyatan-hayatini-kaybetti-1747739",
+          "title": "Engin Altan Düzyatan'ın acı günü. Mevlan Düzyatan hayatını kaybetti"
+        },
+        {
           "source": "cumhuriyet.com.tr",
           "source_domain": "cumhuriyet.com.tr",
           "url": "https://www.cumhuriyet.com.tr/magazin/unlu-oyuncu-engin-altan-duzyatan-in-aci-gunu-babasi-mevlan-duzyatan-hayatini-kaybetti-2549757",
           "title": "Ünlü oyuncu Engin Altan Düzyatan'ın acı günü: Babası Mevlan Düzyatan hayatını kaybetti"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/engin-altan-duzyatan-in-aci-gunu-3922201",
-          "title": "Engin Altan Düzyatan'ın acı günü"
         }
       ],
       "publisher_domains": [
         "cumhuriyet.com.tr",
-        "haberturk.com",
-        "hurriyet.com.tr"
+        "hurriyet.com.tr",
+        "ntv.com.tr",
+        "sozcu.com.tr"
       ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
+      "publisher_count": 4,
+      "direct_article_count": 4,
+      "event_member_count": 4,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 40.0,
       "possible_syndication": false,
       "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
       "publication_approved": false,
@@ -199,11 +86,11 @@
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
         },
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
           "title": "Engin Altan Düzyatan'ın acı günü",
           "summary": "",
-          "url": "https://www.haberturk.com/magazin/engin-altan-duzyatan-in-aci-gunu-3922201",
+          "url": "https://www.sozcu.com.tr/engin-altan-duzyatan-in-aci-gunu-p372287",
           "match_score": 0.74,
           "shared_keywords": [
             "altan",
@@ -213,41 +100,59 @@
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "title": "Engin Altan Düzyatan'ın acı günü. Mevlan Düzyatan hayatını kaybetti",
+          "summary": "",
+          "url": "https://www.ntv.com.tr/yasam/galeri-engin-altan-duzyatanin-aci-gunu-mevlan-duzyatan-hayatini-kaybetti-1747739",
+          "match_score": 0.86,
+          "shared_keywords": [
+            "altan",
+            "duzyatan",
+            "engin",
+            "gunu",
+            "kaybetti",
+            "mevlan"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
         }
       ],
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Meğer Çocukluktan Kalma Bir Numaraymış: Kıvanç Tatlıtuğ Göbeğini Nasıl Şişirdiğini Anlattı",
-      "normalized_title": "meger cocukluktan kalma bir numaraymis kivanc tatlitug gobegini nasil sisirdigini anlatti",
-      "url": "https://onedio.com/haber/bu-oyuncu-mu-olacak-diyorlarmis-kivanc-tatlitug-sari-saruhan-in-gobegini-anlatti-1390826",
-      "source": "onedio.com",
+      "title": "Oyuncu Nilperi Şahinkaya: Yakışıklı olması önemli değil, ses tonu daha önemli",
+      "normalized_title": "oyuncu nilperi sahinkaya yakisikli olmasi onemli degil ses tonu daha onemli",
+      "url": "https://t24.com.tr/magazin/oyuncu-nilperi-sahinkaya-yakisikli-olmasi-onemli-degil-ses-tonu-daha-onemli,1354992",
+      "source": "t24.com.tr",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "t24.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-24T16:11:11.965733+00:00",
+      "collected_at": "2026-10-25T07:22:55.540788+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/bu-oyuncu-mu-olacak-diyorlarmis-kivanc-tatlitug-sari-saruhan-in-gobegini-anlatti-1390826",
-          "title": "Meğer Çocukluktan Kalma Bir Numaraymış: Kıvanç Tatlıtuğ Göbeğini Nasıl Şişirdiğini Anlattı"
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/oyuncu-nilperi-sahinkaya-yakisikli-olmasi-onemli-degil-ses-tonu-daha-onemli,1354992",
+          "title": "Oyuncu Nilperi Şahinkaya: Yakışıklı olması önemli değil, ses tonu daha önemli"
         },
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/kivanc-tatlitug-gobegini-bir-saniyede-nasil-bu-hale-getirdigini-anlatti-p371657",
-          "title": "Kıvanç Tatlıtuğ göbeğini bir saniyede nasıl bu hale getirdiğini anlattı"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/nilperi-sahinkaya-yakisiklilik-degil-ses-tonu-onemli-3921976",
+          "title": "Nilperi Şahinkaya: Yakışıklılık değil, ses tonu önemli"
         }
       ],
       "publisher_domains": [
-        "onedio.com",
-        "sozcu.com.tr"
+        "haberturk.com",
+        "t24.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -263,26 +168,100 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Kıvanç Tatlıtuğ'un Organize İşler Göbeği: Çocukluk Yeteneği - Onedio",
-        "og_title": "Meğer Çocukluktan Kalma Bir Numaraymış: Kıvanç Tatlıtuğ Göbeğini Nasıl Şişirdiğini Anlattı",
-        "description": "Kıvanç Tatlıtuğ, Organize İşler: Karun Hazinesi'ndeki Sarı Saruhan göbeğinin protez olmadığını, çocukluktan beri karnını şişirebildiğini Beyaz'a anlattı.",
+        "page_title": "Oyuncu Nilperi Şahinkaya: Yakışıklı olması önemli değil, ses tonu daha önemli",
+        "og_title": "Oyuncu Nilperi Şahinkaya: Yakışıklı olması önemli değil, ses tonu daha önemli | T24",
+        "description": "Oyuncu Nilperi Şahinkaya: Yakışıklı olması önemli değil, ses tonu daha önemli",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "title": "Kıvanç Tatlıtuğ göbeğini bir saniyede nasıl bu hale getirdiğini anlattı",
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "title": "Nilperi Şahinkaya: Yakışıklılık değil, ses tonu önemli",
           "summary": "",
-          "url": "https://www.sozcu.com.tr/kivanc-tatlitug-gobegini-bir-saniyede-nasil-bu-hale-getirdigini-anlatti-p371657",
-          "match_score": 0.52,
+          "url": "https://www.haberturk.com/magazin/nilperi-sahinkaya-yakisiklilik-degil-ses-tonu-onemli-3921976",
+          "match_score": 0.88,
           "shared_keywords": [
-            "anlatt",
-            "gobegini",
-            "nas",
-            "tatl",
-            "tug",
-            "vanc"
+            "degil",
+            "nilperi",
+            "onemli",
+            "sahinkaya",
+            "ses",
+            "tonu",
+            "yak"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Nilperi Şahinkaya'nın sevgili kriteri şaşırttı: \"Erkeğin ses tonuna bakarım\"",
+      "normalized_title": "nilperi sahinkaya nin sevgili kriteri sasirtti erkegin ses tonuna bakarim",
+      "url": "https://www.bursadabugun.com/haber/nilperi-sahinkaya-nin-sevgili-kriteri-sasirtti-erkegin-ses-tonuna-bakarim-1958543.html",
+      "source": "bursadabugun.com",
+      "source_role": "publisher",
+      "source_domain": "bursadabugun.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-25T07:22:55.540903+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ensonhaber.com",
+          "source_domain": "ensonhaber.com",
+          "url": "https://www.ensonhaber.com/nilperi-sahinkayadan-samimi-aciklamalar-erkegin-ses-tonuna-bakarim-h1576124",
+          "title": "Nilperi Şahinkaya'dan samimi açıklamalar: \"Erkeğin ses tonuna bakarım\""
+        },
+        {
+          "source": "bursadabugun.com",
+          "source_domain": "bursadabugun.com",
+          "url": "https://www.bursadabugun.com/haber/nilperi-sahinkaya-nin-sevgili-kriteri-sasirtti-erkegin-ses-tonuna-bakarim-1958543.html",
+          "title": "Nilperi Şahinkaya'nın sevgili kriteri şaşırttı: \"Erkeğin ses tonuna bakarım\""
+        }
+      ],
+      "publisher_domains": [
+        "bursadabugun.com",
+        "ensonhaber.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Nilperi Şahinkaya'nın sevgili kriteri şaşırttı: \"Erkeğin ses tonuna bakarım\" - Magazin Haberleri - Bursadabugun.com",
+        "og_title": "Nilperi Şahinkaya'nın sevgili kriteri şaşırttı: \"Erkeğin ses tonuna bakarım\"",
+        "description": "Oyunculuğunun yanı sıra özel hayatı ve samimi açıklamalarıyla da gündeme gelen Nilperi Şahinkaya, bu kez ilişkilerde dikkat ettiği ayrıntıyla konuşulmaya başladı. Ünlü oyuncu, bir erkekte kendisini etkileyen özelliklerden söz ederken dış görünüşten çok ses tonuna önem verdiğini dile getirdi. Şahinkaya'nın açıklaması, aşk ve ilişkiler konusundaki tercihlerini merak edenlerin ilgisini çekti.",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "ensonhaber.com",
+          "source_domain": "ensonhaber.com",
+          "title": "Nilperi Şahinkaya'dan samimi açıklamalar: \"Erkeğin ses tonuna bakarım\"",
+          "summary": "",
+          "url": "https://www.ensonhaber.com/nilperi-sahinkayadan-samimi-aciklamalar-erkegin-ses-tonuna-bakarim-h1576124",
+          "match_score": 0.65,
+          "shared_keywords": [
+            "bakar",
+            "erkegin",
+            "nilperi",
+            "sahinkaya",
+            "ses",
+            "tonuna"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
