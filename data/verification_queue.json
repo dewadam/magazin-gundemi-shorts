@@ -1,48 +1,150 @@
 {
-  "generated_at": "2026-10-25T11:53:51.517270+00:00",
+  "generated_at": "2026-10-25T16:43:50.243701+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
-      "title": "Şarkıcı Nev son yolculuğuna uğurlanıyor! Tabutu başında gözyaşları sel oldu...",
-      "normalized_title": "sarkici nev son yolculuguna ugurlaniyor tabutu basinda gozyaslari sel oldu",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/sarkici-nev-son-yolculuguna-ugurlaniyor-tabutu-basinda-gozyaslari-sel-oldu",
+      "title": "Engin Altan Düzyatan babasını son yolculuğuna uğurladı! Cenazeye sanat ve siyaset dünyasından çok sayıda isim katıldı",
+      "normalized_title": "engin altan duzyatan babasini son yolculuguna ugurladi cenazeye sanat ve siyaset dunyasindan cok sayida isim katildi",
+      "url": "https://www.haberler.com/guncel/engin-altan-duzyatan-in-babasi-mevlan-duzyatan-20364353-haberi/",
+      "source": "haberler.com",
+      "source_role": "publisher",
+      "source_domain": "haberler.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-25T16:43:12.272016+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/oyuncu-engin-altan-duzyatanin-babasi-son-yolculuguna-ugurladi-43354435",
+          "title": "Oyuncu Engin Altan Düzyatan'ın babası son yolculuğuna uğurladı"
+        },
+        {
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/guncel/engin-altan-duzyatan-in-babasi-mevlan-duzyatan-20364353-haberi/",
+          "title": "Engin Altan Düzyatan babasını son yolculuğuna uğurladı! Cenazeye sanat ve siyaset dünyasından çok sayıda isim katıldı"
+        },
+        {
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/unlu-oyuncu-engin-altan-duzyatanin-kederli-gunu,1355157",
+          "title": "Ünlü oyuncu Engin Altan Düzyatan'ın kederli günü"
+        }
+      ],
+      "publisher_domains": [
+        "haberler.com",
+        "hurriyet.com.tr",
+        "t24.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Engin Altan Düzyatan babasını son yolculuğuna uğurladı! Cenazeye sanat ve siyaset dünyasından çok sayıda isim katıldı - Haberler",
+        "og_title": "Engin Altan Düzyatan babasını son yolculuğuna uğurladı! Cenazeye sanat ve siyaset dünyasından çok sayıda isim katıldı",
+        "description": "'Diriliş Ertuğrul' dizisiyle tanınan oyuncu Engin Altan Düzyatan'ın, dün yaşlılığa bağlı sağlık sorunları nedeniyle hayatını kaybeden babası Mevlan Düzyatan (87) İzmir'de toprağa verildi. Karşıyaka'daki Beşikçioğlu Camisi'nde kılınan cenaze namazına aile üyelerinin yanı sıra oyuncular Selim Bayraktar, Rıza Kocaoğlu ve Burak Altay ile sanat ve siyaset dünyasından birçok isim katıldı.",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "title": "Oyuncu Engin Altan Düzyatan'ın babası son yolculuğuna uğurladı",
+          "summary": "",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/oyuncu-engin-altan-duzyatanin-babasi-son-yolculuguna-ugurladi-43354435",
+          "match_score": 0.74,
+          "shared_keywords": [
+            "altan",
+            "babas",
+            "duzyatan",
+            "engin",
+            "ugurlad",
+            "yolculuguna"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        },
+        {
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "title": "Ünlü oyuncu Engin Altan Düzyatan'ın kederli günü",
+          "summary": "",
+          "url": "https://t24.com.tr/magazin/unlu-oyuncu-engin-altan-duzyatanin-kederli-gunu,1355157",
+          "match_score": 0.43,
+          "shared_keywords": [
+            "altan",
+            "duzyatan",
+            "engin"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Oyuncu İpek Karapınar anne oldu: Minik oğlunu kucağına aldı! İsim tercihi çok beğenildi...",
+      "normalized_title": "oyuncu ipek karapinar anne oldu minik oglunu kucagina aldi isim tercihi cok begenildi",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/oyuncu-ipek-karapinar-anne-oldu-minik-oglunu-kucagina-aldi-isim-tercihi-cok-begenildi",
       "source": "sabah.com.tr",
       "source_role": "publisher",
       "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.943571+00:00",
+      "collected_at": "2026-10-25T16:43:12.272815+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/sarkici-nev-son-yolculuguna-ugurlaniyor-tabutu-basinda-gozyaslari-sel-oldu",
-          "title": "Şarkıcı Nev son yolculuğuna uğurlanıyor! Tabutu başında gözyaşları sel oldu..."
-        },
-        {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/sarkici-nev-son-yolculuguna-ugurlaniyor-3922387",
-          "title": "Şarkıcı Nev son yolculuğuna uğurlanıyor"
+          "url": "https://www.haberturk.com/magazin/foto/ipek-karapinar-anne-oldu-3922402",
+          "title": "İpek Karapınar anne oldu"
+        },
+        {
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/magazin/haber-ipek-karapinar-anne-oldu-ogluna-verdigi-isim-20363452/",
+          "title": "İpek Karapınar anne oldu! Oğluna verdiği isim belli oldu"
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/oyuncu-ipek-karapinar-anne-oldu-minik-oglunu-kucagina-aldi-isim-tercihi-cok-begenildi",
+          "title": "Oyuncu İpek Karapınar anne oldu: Minik oğlunu kucağına aldı! İsim tercihi çok beğenildi..."
         }
       ],
       "publisher_domains": [
         "haberturk.com",
-        "sabah.com.tr"
+        "sabah.com.tr",
+        "sondakika.com"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 30.0,
       "possible_syndication": false,
       "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
       "publication_approved": false,
@@ -50,165 +152,110 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Şarkıcı Nev son yolculuğuna uğurlanıyor! Tabutu başında gözyaşları sel oldu...  - Galeri - Trend Magazin",
-        "og_title": "Şarkıcı Nev son yolculuğuna uğurlanıyor! Tabutu başında gözyaşları sel oldu…",
-        "description": "Türk rock müziğinin kendine has seslerinden biri olan, unutulmaz eserleriyle bir neslin kalbinde iz bırakan Nev adıyla bilinen sanatçı Nevzat Doğansoy, bugün son yolculuğuna uğurlanıyor. Marmara Üniversitesi İlahiyat Fakültesi Camisi'nde düzenlenen...",
+        "page_title": "Oyuncu İpek Karapınar anne oldu: Minik oğlunu kucağına aldı! İsim tercihi çok beğenildi...  - Galeri - Trend Magazin",
+        "og_title": "Oyuncu İpek Karapınar anne oldu: Minik oğlunu kucağına aldı! İsim tercihi çok beğenildi…",
+        "description": "'Kırgın Çiçekler' dizisinde gösterdiği performansla hafızalara kazınan oyuncu İpek Karapınar, geçtiğimiz aylarda müjdeyi vererek anne olacağını duyurmuştu. Ünlü oyuncunun son olarak minik oğlunu kucağına aldığı öğrenildi. İlk kez anne olmanın...",
         "error": null
       },
       "independent_source_matches": [
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "title": "Şarkıcı Nev son yolculuğuna uğurlanıyor",
+          "title": "İpek Karapınar anne oldu",
           "summary": "",
-          "url": "https://www.haberturk.com/magazin/sarkici-nev-son-yolculuguna-ugurlaniyor-3922387",
-          "match_score": 0.74,
+          "url": "https://www.haberturk.com/magazin/foto/ipek-karapinar-anne-oldu-3922402",
+          "match_score": 0.72,
+          "shared_keywords": [
+            "anne",
+            "ipek",
+            "karap",
+            "nar"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        },
+        {
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "title": "İpek Karapınar anne oldu! Oğluna verdiği isim belli oldu",
+          "summary": "",
+          "url": "https://www.sondakika.com/magazin/haber-ipek-karapinar-anne-oldu-ogluna-verdigi-isim-20363452/",
+          "match_score": 0.55,
+          "shared_keywords": [
+            "anne",
+            "ipek",
+            "isim",
+            "karap",
+            "nar"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Süleyman Soylu arkadaşı Nev'i son yolculuğuna uğurladı",
+      "normalized_title": "suleyman soylu arkadasi nev i son yolculuguna ugurladi",
+      "url": "https://www.sozcu.com.tr/suleyman-soylu-arkadasi-nevi-son-yolculuguna-ugurladi-p372586",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-25T16:43:12.271550+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/suleyman-soylu-arkadasi-nevi-son-yolculuguna-ugurladi-p372586",
+          "title": "Süleyman Soylu arkadaşı Nev'i son yolculuğuna uğurladı"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/unlu-sarkici-nev-son-yolculuguna-ugurlandi-3922387",
+          "title": "Ünlü şarkıcı Nev son yolculuğuna uğurlandı"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Süleyman Soylu arkadaşı Nev'i son yolculuğuna uğurladı - Sözcü",
+        "og_title": "Süleyman Soylu arkadaşı Nev'i son yolculuğuna uğurladı - Sözcü Gazetesi",
+        "description": "Çoklu organ yetmezliği nedeniyle 56 yaşında hayatını kaybeden şarkıcı Nev, İstanbul’da düzenlenen cenaze töreninin ardından Karacaahmet Mezarlığı’nda toprağa verildi. Törene Nev'in üniversite arkadaşı olan eski İçişleri Bakanı Süleyman Soylu da katıldı.",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "title": "Ünlü şarkıcı Nev son yolculuğuna uğurlandı",
+          "summary": "",
+          "url": "https://www.haberturk.com/magazin/unlu-sarkici-nev-son-yolculuguna-ugurlandi-3922387",
+          "match_score": 0.67,
           "shared_keywords": [
             "nev",
-            "sark",
-            "ugurlan",
-            "yolculuguna",
-            "yor"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "Mustafa Sandal'ın eşi Melis Sütşurup'tan fon karları için iade başvurusu",
-      "normalized_title": "mustafa sandal in esi melis sutsurup tan fon karlari icin iade basvurusu",
-      "url": "https://www.ntv.com.tr/turkiye/mustafa-sandalin-esi-melis-sutsuruptan-fon-karlari-icin-iade-basvurusu-1747787",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.943924+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/gundem/sandalin-esi-ve-babasindan-fahis-kazanci-iade-basvurusu-43353969",
-          "title": "Sandal’ın eşi ve babasından ‘fahiş’ kazancı iade başvurusu"
-        },
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/turkiye/mustafa-sandalin-esi-melis-sutsuruptan-fon-karlari-icin-iade-basvurusu-1747787",
-          "title": "Mustafa Sandal'ın eşi Melis Sütşurup'tan fon karları için iade başvurusu"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr",
-        "ntv.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Mustafa Sandal'ın eşi Melis Sütşurup'tan fon karları için iade başvurusu | NTV Haber",
-        "og_title": "Mustafa Sandal'ın eşi Melis Sütşurup'tan fon karları için iade başvurusu | NTV Haber",
-        "description": "Fon soruşturmasında Mustafa Sandal’ın eşi Melis Sütşurup Sandal ve babası Cihan Sütşurup fondan elde edilen karların iadesi için İstanbul Cumhuriyet Başsavcılığı’na başvurdu.",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "title": "Sandal’ın eşi ve babasından ‘fahiş’ kazancı iade başvurusu",
-          "summary": "",
-          "url": "https://www.hurriyet.com.tr/gundem/sandalin-esi-ve-babasindan-fahis-kazanci-iade-basvurusu-43353969",
-          "match_score": 0.55,
-          "shared_keywords": [
-            "basvurusu",
-            "iade",
-            "sandal"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "Engin Altan Düzyatan'ın acı günü. Mevlan Düzyatan hayatını kaybetti",
-      "normalized_title": "engin altan duzyatan in aci gunu mevlan duzyatan hayatini kaybetti",
-      "url": "https://www.ntv.com.tr/yasam/galeri-engin-altan-duzyatanin-aci-gunu-mevlan-duzyatan-hayatini-kaybetti-1747739",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.943967+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-engin-altan-duzyatanin-aci-gunu-mevlan-duzyatan-hayatini-kaybetti-1747739",
-          "title": "Engin Altan Düzyatan'ın acı günü. Mevlan Düzyatan hayatını kaybetti"
-        },
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/engin-altan-duzyatanin-baba-acisi-43353324",
-          "title": "Engin Altan Düzyatan'ın baba acısı"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr",
-        "ntv.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Engin Altan Düzyatan'ın acı günü. Mevlan Düzyatan hayatını kaybetti | NTV Haber",
-        "og_title": "Engin Altan Düzyatan'ın acı günü. Mevlan Düzyatan hayatını kaybetti | NTV Haber",
-        "description": "Bir süredir ekranlardan uzak olan Engin Altan Düzyatan acı haberle sarsıldı. Düzyatan'ın babası Mevlan Düzyatan 88 yaşında hayatını kaybetti.",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "title": "Engin Altan Düzyatan'ın baba acısı",
-          "summary": "",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/engin-altan-duzyatanin-baba-acisi-43353324",
-          "match_score": 0.55,
-          "shared_keywords": [
-            "altan",
-            "duzyatan",
-            "engin"
+            "yolculuguna"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"

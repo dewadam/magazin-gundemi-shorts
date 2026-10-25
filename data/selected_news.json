@@ -1,131 +1,145 @@
 {
-  "generated_at": "2026-10-25T11:53:50.178244+00:00",
+  "generated_at": "2026-10-25T16:43:48.509829+00:00",
   "candidate_count": 100,
-  "event_group_count": 47,
-  "multi_publisher_event_count": 11,
+  "event_group_count": 43,
+  "multi_publisher_event_count": 13,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Şarkıcı Nev son yolculuğuna uğurlanıyor! Tabutu başında gözyaşları sel oldu...",
-      "normalized_title": "sarkici nev son yolculuguna ugurlaniyor tabutu basinda gozyaslari sel oldu",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/sarkici-nev-son-yolculuguna-ugurlaniyor-tabutu-basinda-gozyaslari-sel-oldu",
+      "title": "Engin Altan Düzyatan babasını son yolculuğuna uğurladı! Cenazeye sanat ve siyaset dünyasından çok sayıda isim katıldı",
+      "normalized_title": "engin altan duzyatan babasini son yolculuguna ugurladi cenazeye sanat ve siyaset dunyasindan cok sayida isim katildi",
+      "url": "https://www.haberler.com/guncel/engin-altan-duzyatan-in-babasi-mevlan-duzyatan-20364353-haberi/",
+      "source": "haberler.com",
+      "source_role": "publisher",
+      "source_domain": "haberler.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-25T16:43:12.272016+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/oyuncu-engin-altan-duzyatanin-babasi-son-yolculuguna-ugurladi-43354435",
+          "title": "Oyuncu Engin Altan Düzyatan'ın babası son yolculuğuna uğurladı"
+        },
+        {
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/guncel/engin-altan-duzyatan-in-babasi-mevlan-duzyatan-20364353-haberi/",
+          "title": "Engin Altan Düzyatan babasını son yolculuğuna uğurladı! Cenazeye sanat ve siyaset dünyasından çok sayıda isim katıldı"
+        },
+        {
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/unlu-oyuncu-engin-altan-duzyatanin-kederli-gunu,1355157",
+          "title": "Ünlü oyuncu Engin Altan Düzyatan'ın kederli günü"
+        }
+      ],
+      "publisher_domains": [
+        "haberler.com",
+        "hurriyet.com.tr",
+        "t24.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Oyuncu İpek Karapınar anne oldu: Minik oğlunu kucağına aldı! İsim tercihi çok beğenildi...",
+      "normalized_title": "oyuncu ipek karapinar anne oldu minik oglunu kucagina aldi isim tercihi cok begenildi",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/oyuncu-ipek-karapinar-anne-oldu-minik-oglunu-kucagina-aldi-isim-tercihi-cok-begenildi",
       "source": "sabah.com.tr",
       "source_role": "publisher",
       "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.943571+00:00",
+      "collected_at": "2026-10-25T16:43:12.272815+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/sarkici-nev-son-yolculuguna-ugurlaniyor-tabutu-basinda-gozyaslari-sel-oldu",
-          "title": "Şarkıcı Nev son yolculuğuna uğurlanıyor! Tabutu başında gözyaşları sel oldu..."
-        },
-        {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/sarkici-nev-son-yolculuguna-ugurlaniyor-3922387",
-          "title": "Şarkıcı Nev son yolculuğuna uğurlanıyor"
+          "url": "https://www.haberturk.com/magazin/foto/ipek-karapinar-anne-oldu-3922402",
+          "title": "İpek Karapınar anne oldu"
+        },
+        {
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/magazin/haber-ipek-karapinar-anne-oldu-ogluna-verdigi-isim-20363452/",
+          "title": "İpek Karapınar anne oldu! Oğluna verdiği isim belli oldu"
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/oyuncu-ipek-karapinar-anne-oldu-minik-oglunu-kucagina-aldi-isim-tercihi-cok-begenildi",
+          "title": "Oyuncu İpek Karapınar anne oldu: Minik oğlunu kucağına aldı! İsim tercihi çok beğenildi..."
         }
       ],
       "publisher_domains": [
         "haberturk.com",
-        "sabah.com.tr"
+        "sabah.com.tr",
+        "sondakika.com"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 30.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Mustafa Sandal'ın eşi Melis Sütşurup'tan fon karları için iade başvurusu",
-      "normalized_title": "mustafa sandal in esi melis sutsurup tan fon karlari icin iade basvurusu",
-      "url": "https://www.ntv.com.tr/turkiye/mustafa-sandalin-esi-melis-sutsuruptan-fon-karlari-icin-iade-basvurusu-1747787",
-      "source": "ntv.com.tr",
+      "title": "Süleyman Soylu arkadaşı Nev'i son yolculuğuna uğurladı",
+      "normalized_title": "suleyman soylu arkadasi nev i son yolculuguna ugurladi",
+      "url": "https://www.sozcu.com.tr/suleyman-soylu-arkadasi-nevi-son-yolculuguna-ugurladi-p372586",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.943924+00:00",
+      "collected_at": "2026-10-25T16:43:12.271550+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/gundem/sandalin-esi-ve-babasindan-fahis-kazanci-iade-basvurusu-43353969",
-          "title": "Sandal’ın eşi ve babasından ‘fahiş’ kazancı iade başvurusu"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/suleyman-soylu-arkadasi-nevi-son-yolculuguna-ugurladi-p372586",
+          "title": "Süleyman Soylu arkadaşı Nev'i son yolculuğuna uğurladı"
         },
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/turkiye/mustafa-sandalin-esi-melis-sutsuruptan-fon-karlari-icin-iade-basvurusu-1747787",
-          "title": "Mustafa Sandal'ın eşi Melis Sütşurup'tan fon karları için iade başvurusu"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/unlu-sarkici-nev-son-yolculuguna-ugurlandi-3922387",
+          "title": "Ünlü şarkıcı Nev son yolculuğuna uğurlandı"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr",
-        "ntv.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Engin Altan Düzyatan'ın acı günü. Mevlan Düzyatan hayatını kaybetti",
-      "normalized_title": "engin altan duzyatan in aci gunu mevlan duzyatan hayatini kaybetti",
-      "url": "https://www.ntv.com.tr/yasam/galeri-engin-altan-duzyatanin-aci-gunu-mevlan-duzyatan-hayatini-kaybetti-1747739",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.943967+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-engin-altan-duzyatanin-aci-gunu-mevlan-duzyatan-hayatini-kaybetti-1747739",
-          "title": "Engin Altan Düzyatan'ın acı günü. Mevlan Düzyatan hayatını kaybetti"
-        },
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/engin-altan-duzyatanin-baba-acisi-43353324",
-          "title": "Engin Altan Düzyatan'ın baba acısı"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr",
-        "ntv.com.tr"
+        "haberturk.com",
+        "sozcu.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -151,7 +165,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.945246+00:00",
+      "collected_at": "2026-10-25T16:43:12.274758+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -200,60 +214,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Şarkıcı Nev son yolculuğuna uğurlanıyor! Tabutu başında gözyaşları sel oldu...",
-      "normalized_title": "sarkici nev son yolculuguna ugurlaniyor tabutu basinda gozyaslari sel oldu",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/sarkici-nev-son-yolculuguna-ugurlaniyor-tabutu-basinda-gozyaslari-sel-oldu",
-      "source": "sabah.com.tr",
+      "title": "Engin Altan Düzyatan babasını son yolculuğuna uğurladı! Cenazeye sanat ve siyaset dünyasından çok sayıda isim katıldı",
+      "normalized_title": "engin altan duzyatan babasini son yolculuguna ugurladi cenazeye sanat ve siyaset dunyasindan cok sayida isim katildi",
+      "url": "https://www.haberler.com/guncel/engin-altan-duzyatan-in-babasi-mevlan-duzyatan-20364353-haberi/",
+      "source": "haberler.com",
       "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
+      "source_domain": "haberler.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.943571+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/sarkici-nev-son-yolculuguna-ugurlaniyor-tabutu-basinda-gozyaslari-sel-oldu",
-          "title": "Şarkıcı Nev son yolculuğuna uğurlanıyor! Tabutu başında gözyaşları sel oldu..."
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/sarkici-nev-son-yolculuguna-ugurlaniyor-3922387",
-          "title": "Şarkıcı Nev son yolculuğuna uğurlanıyor"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com",
-        "sabah.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Mustafa Sandal'ın eşi Melis Sütşurup'tan fon karları için iade başvurusu",
-      "normalized_title": "mustafa sandal in esi melis sutsurup tan fon karlari icin iade basvurusu",
-      "url": "https://www.ntv.com.tr/turkiye/mustafa-sandalin-esi-melis-sutsuruptan-fon-karlari-icin-iade-basvurusu-1747787",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.943924+00:00",
+      "collected_at": "2026-10-25T16:43:12.272016+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -261,71 +231,34 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/gundem/sandalin-esi-ve-babasindan-fahis-kazanci-iade-basvurusu-43353969",
-          "title": "Sandal’ın eşi ve babasından ‘fahiş’ kazancı iade başvurusu"
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/oyuncu-engin-altan-duzyatanin-babasi-son-yolculuguna-ugurladi-43354435",
+          "title": "Oyuncu Engin Altan Düzyatan'ın babası son yolculuğuna uğurladı"
         },
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/turkiye/mustafa-sandalin-esi-melis-sutsuruptan-fon-karlari-icin-iade-basvurusu-1747787",
-          "title": "Mustafa Sandal'ın eşi Melis Sütşurup'tan fon karları için iade başvurusu"
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/guncel/engin-altan-duzyatan-in-babasi-mevlan-duzyatan-20364353-haberi/",
+          "title": "Engin Altan Düzyatan babasını son yolculuğuna uğurladı! Cenazeye sanat ve siyaset dünyasından çok sayıda isim katıldı"
+        },
+        {
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/unlu-oyuncu-engin-altan-duzyatanin-kederli-gunu,1355157",
+          "title": "Ünlü oyuncu Engin Altan Düzyatan'ın kederli günü"
         }
       ],
       "publisher_domains": [
+        "haberler.com",
         "hurriyet.com.tr",
-        "ntv.com.tr"
+        "t24.com.tr"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Engin Altan Düzyatan'ın acı günü. Mevlan Düzyatan hayatını kaybetti",
-      "normalized_title": "engin altan duzyatan in aci gunu mevlan duzyatan hayatini kaybetti",
-      "url": "https://www.ntv.com.tr/yasam/galeri-engin-altan-duzyatanin-aci-gunu-mevlan-duzyatan-hayatini-kaybetti-1747739",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.943967+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-engin-altan-duzyatanin-aci-gunu-mevlan-duzyatan-hayatini-kaybetti-1747739",
-          "title": "Engin Altan Düzyatan'ın acı günü. Mevlan Düzyatan hayatını kaybetti"
-        },
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/engin-altan-duzyatanin-baba-acisi-43353324",
-          "title": "Engin Altan Düzyatan'ın baba acısı"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr",
-        "ntv.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 30.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -341,7 +274,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.944160+00:00",
+      "collected_at": "2026-10-25T16:43:12.272815+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -353,6 +286,12 @@
           "title": "İpek Karapınar anne oldu"
         },
         {
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/magazin/haber-ipek-karapinar-anne-oldu-ogluna-verdigi-isim-20363452/",
+          "title": "İpek Karapınar anne oldu! Oğluna verdiği isim belli oldu"
+        },
+        {
           "source": "sabah.com.tr",
           "source_domain": "sabah.com.tr",
           "url": "https://www.sabah.com.tr/trend/galeri/magazin/oyuncu-ipek-karapinar-anne-oldu-minik-oglunu-kucagina-aldi-isim-tercihi-cok-begenildi",
@@ -361,7 +300,228 @@
       ],
       "publisher_domains": [
         "haberturk.com",
-        "sabah.com.tr"
+        "sabah.com.tr",
+        "sondakika.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Süleyman Soylu arkadaşı Nev'i son yolculuğuna uğurladı",
+      "normalized_title": "suleyman soylu arkadasi nev i son yolculuguna ugurladi",
+      "url": "https://www.sozcu.com.tr/suleyman-soylu-arkadasi-nevi-son-yolculuguna-ugurladi-p372586",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-25T16:43:12.271550+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/suleyman-soylu-arkadasi-nevi-son-yolculuguna-ugurladi-p372586",
+          "title": "Süleyman Soylu arkadaşı Nev'i son yolculuğuna uğurladı"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/unlu-sarkici-nev-son-yolculuguna-ugurlandi-3922387",
+          "title": "Ünlü şarkıcı Nev son yolculuğuna uğurlandı"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "12 Yıllık Evliliğini Bitiren Güven Kıraç Kendisinden 35 Yaş Küçük Sevgilisiyle Sessiz Sedasız Evlendi!",
+      "normalized_title": "12 yillik evliligini bitiren guven kirac kendisinden 35 yas kucuk sevgilisiyle sessiz sedasiz evlendi",
+      "url": "https://onedio.com/haber/12-yillik-evliligini-bitiren-guven-kirac-kendisinden-35-yas-kucuk-sevgilisiyle-sessiz-sedasiz-evlendi-1391226",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-25T16:43:12.272305+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/12-yillik-evliligini-bitiren-guven-kirac-kendisinden-35-yas-kucuk-sevgilisiyle-sessiz-sedasiz-evlendi-1391226",
+          "title": "12 Yıllık Evliliğini Bitiren Güven Kıraç Kendisinden 35 Yaş Küçük Sevgilisiyle Sessiz Sedasız Evlendi!"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/ugruna-evliligini-bitirmisti-30-yas-kucuk-sevgilisiyle-evlendi-p372446",
+          "title": "Uğruna evliliğini bitirmişti: 30 yaş küçük sevgilisiyle evlendi"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "12 yıllık evliliğini bitirmişti: Güven Kıraç, sevgilisi Mervenur Topugil sessiz sedasız evlendi",
+      "normalized_title": "12 yillik evliligini bitirmisti guven kirac sevgilisi mervenur topugil sessiz sedasiz evlendi",
+      "url": "https://www.cumhuriyet.com.tr/yasam/12-yillik-evliligini-bitirmisti-guven-kirac-sevgilisi-mervenur-topugil-sessiz-sedasiz-evlendi-2550044",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-25T16:43:12.272460+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/yasam/12-yillik-evliligini-bitirmisti-guven-kirac-sevgilisi-mervenur-topugil-sessiz-sedasiz-evlendi-2550044",
+          "title": "12 yıllık evliliğini bitirmişti: Güven Kıraç, sevgilisi Mervenur Topugil sessiz sedasız evlendi"
+        },
+        {
+          "source": "mynet.com",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/guven-kirac-ve-mervenur-topugil-sessiz-sedasiz-evlendi-130100605350",
+          "title": "Güven Kıraç ve Mervenur Topugil sessiz sedasız evlendi - Magazin Haberleri"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "mynet.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Tuzlu Kahve'de yeni sürpriz. Bu kez Kızılcık Şerbeti'nin aşıkları buluşuyor",
+      "normalized_title": "tuzlu kahve de yeni surpriz bu kez kizilcik serbeti nin asiklari bulusuyor",
+      "url": "https://www.ntv.com.tr/yasam/galeri-tuzlu-kahvede-yeni-surpriz-bu-kez-kizilcik-serbetinin-asiklari-bulusuyor-1747935",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-25T16:43:12.273480+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-tuzlu-kahvede-yeni-surpriz-bu-kez-kizilcik-serbetinin-asiklari-bulusuyor-1747935",
+          "title": "Tuzlu Kahve'de yeni sürpriz. Bu kez Kızılcık Şerbeti'nin aşıkları buluşuyor"
+        },
+        {
+          "source": "istanbulgazetesi.com.tr",
+          "source_domain": "istanbulgazetesi.com.tr",
+          "url": "https://www.istanbulgazetesi.com.tr/tuzlu-kahvede-surpriz-oyuncu",
+          "title": "Tuzlu Kahve'de sürpriz oyuncu"
+        }
+      ],
+      "publisher_domains": [
+        "istanbulgazetesi.com.tr",
+        "ntv.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Survivor'dan sonra Batuhan Karacakaya aile işine döndü! Bakın mesleği neymiş...",
+      "normalized_title": "survivor dan sonra batuhan karacakaya aile isine dondu bakin meslegi neymis",
+      "url": "https://www.internethaber.com/survivordan-sonra-batuhan-karacakaya-aile-isine-dondu-bakin-meslegi-neymis-foto-galerisi-2465680.htm",
+      "source": "internethaber.com",
+      "source_role": "publisher",
+      "source_domain": "internethaber.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-25T16:43:12.273736+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/batuhan-karacakayanin-yeni-meslegi-120168215",
+          "title": "Batuhan Karacakaya'nın yeni mesleği"
+        },
+        {
+          "source": "internethaber.com",
+          "source_domain": "internethaber.com",
+          "url": "https://www.internethaber.com/survivordan-sonra-batuhan-karacakaya-aile-isine-dondu-bakin-meslegi-neymis-foto-galerisi-2465680.htm",
+          "title": "Survivor'dan sonra Batuhan Karacakaya aile işine döndü! Bakın mesleği neymiş..."
+        }
+      ],
+      "publisher_domains": [
+        "internethaber.com",
+        "odatv.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -385,7 +545,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.944527+00:00",
+      "collected_at": "2026-10-25T16:43:12.273956+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -420,94 +580,6 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Düğünleri Günlerce Konuşulmuştu! Itır Esen ve Eşi Engin Aykanat'ın Boy Farkı Sosyal Medyada Gündem Oldu",
-      "normalized_title": "dugunleri gunlerce konusulmustu itir esen ve esi engin aykanat in boy farki sosyal medyada gundem oldu",
-      "url": "https://onedio.com/haber/dugunleri-gunlerce-konusulmustu-itir-esen-ve-esi-engin-aykanat-in-boy-farki-sosyal-medyada-gundem-oldu-1390774",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.944706+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/dugunleri-gunlerce-konusulmustu-itir-esen-ve-esi-engin-aykanat-in-boy-farki-sosyal-medyada-gundem-oldu-1390774",
-          "title": "Düğünleri Günlerce Konuşulmuştu! Itır Esen ve Eşi Engin Aykanat'ın Boy Farkı Sosyal Medyada Gündem Oldu"
-        },
-        {
-          "source": "ahaber.com.tr",
-          "source_domain": "ahaber.com.tr",
-          "url": "https://www.ahaber.com.tr/galeri/magazin/itir-esen-ve-engin-aykanatin-boy-farki-dikkat-cekti",
-          "title": "1,80’lik Itır Esen ile eşi Engin Aykanat arasındaki boy farkı gündem oldu"
-        }
-      ],
-      "publisher_domains": [
-        "ahaber.com.tr",
-        "onedio.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Büşra Develi, Mısır'da Güzelliğiyle Dikkat Çekti! El Gouna Film Festivali'nde Boy Gösterdi",
-      "normalized_title": "busra develi misir da guzelligiyle dikkat cekti el gouna film festivali nde boy gosterdi",
-      "url": "https://onedio.com/haber/busra-develi-misir-da-guzelligiyle-dikkat-cekti-el-gouna-film-festivali-nde-boy-gosterdi-1390885",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.944870+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/busra-develi-misir-da-guzelligiyle-dikkat-cekti-el-gouna-film-festivali-nde-boy-gosterdi-1390885",
-          "title": "Büşra Develi, Mısır'da Güzelliğiyle Dikkat Çekti! El Gouna Film Festivali'nde Boy Gösterdi"
-        },
-        {
-          "source": "haberaktuel.com",
-          "source_domain": "haberaktuel.com",
-          "url": "https://www.haberaktuel.com/busra-develi-el-gouna-film-festivalinde-sahne-aldi-3514985",
-          "title": "Büşra Develi, El Gouna Film Festivali’nde Sahne Aldı"
-        }
-      ],
-      "publisher_domains": [
-        "haberaktuel.com",
-        "onedio.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
       "title": "Oyuncu Nilperi Şahinkaya: Yakışıklı olması önemli değil, ses tonu daha önemli",
       "normalized_title": "oyuncu nilperi sahinkaya yakisikli olmasi onemli degil ses tonu daha onemli",
       "url": "https://t24.com.tr/magazin/oyuncu-nilperi-sahinkaya-yakisikli-olmasi-onemli-degil-ses-tonu-daha-onemli,1354992",
@@ -517,7 +589,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.945015+00:00",
+      "collected_at": "2026-10-25T16:43:12.274319+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -561,7 +633,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.945129+00:00",
+      "collected_at": "2026-10-25T16:43:12.274529+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -596,35 +668,35 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Game of Thrones'un Ser Alliser'ı İstanbul'da: Şerefiye Sarnıcı'nda Karşılaştığı Sürpriz Gözlerini Doldurdu!",
-      "normalized_title": "game of thrones un ser alliser i istanbul da serefiye sarnici nda karsilastigi surpriz gozlerini doldurdu",
-      "url": "https://onedio.com/haber/game-of-thrones-un-ser-alliser-i-istanbul-da-serefiye-sarnici-nda-karsilastigi-surpriz-gozlerini-doldurdu-1390728",
+      "title": "Düğünleri Günlerce Konuşulmuştu! Itır Esen ve Eşi Engin Aykanat'ın Boy Farkı Sosyal Medyada Gündem Oldu",
+      "normalized_title": "dugunleri gunlerce konusulmustu itir esen ve esi engin aykanat in boy farki sosyal medyada gundem oldu",
+      "url": "https://onedio.com/haber/dugunleri-gunlerce-konusulmustu-itir-esen-ve-esi-engin-aykanat-in-boy-farki-sosyal-medyada-gundem-oldu-1390774",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.945888+00:00",
+      "collected_at": "2026-10-25T16:43:12.274920+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/stil/game-of-thronesun-yildizi-istanbulda-43351662",
-          "title": "‘Game of Thrones’un yıldızı İstanbul’da"
-        },
-        {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/game-of-thrones-un-ser-alliser-i-istanbul-da-serefiye-sarnici-nda-karsilastigi-surpriz-gozlerini-doldurdu-1390728",
-          "title": "Game of Thrones'un Ser Alliser'ı İstanbul'da: Şerefiye Sarnıcı'nda Karşılaştığı Sürpriz Gözlerini Doldurdu!"
+          "url": "https://onedio.com/haber/dugunleri-gunlerce-konusulmustu-itir-esen-ve-esi-engin-aykanat-in-boy-farki-sosyal-medyada-gundem-oldu-1390774",
+          "title": "Düğünleri Günlerce Konuşulmuştu! Itır Esen ve Eşi Engin Aykanat'ın Boy Farkı Sosyal Medyada Gündem Oldu"
+        },
+        {
+          "source": "ahaber.com.tr",
+          "source_domain": "ahaber.com.tr",
+          "url": "https://www.ahaber.com.tr/galeri/magazin/itir-esen-ve-engin-aykanatin-boy-farki-dikkat-cekti",
+          "title": "1,80’lik Itır Esen ile eşi Engin Aykanat arasındaki boy farkı gündem oldu"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr",
+        "ahaber.com.tr",
         "onedio.com"
       ],
       "publisher_count": 2,
@@ -640,66 +712,73 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Hasan Gözetlik: Sakiler zirvede bitti",
-      "normalized_title": "hasan gozetlik sakiler zirvede bitti",
-      "url": "https://www.haberturk.com/magazin/hasan-gozetlik-sakiler-zirvede-bitti-3921842",
-      "source": "haberturk.com",
+      "title": "Büşra Develi, Mısır'da Güzelliğiyle Dikkat Çekti! El Gouna Film Festivali'nde Boy Gösterdi",
+      "normalized_title": "busra develi misir da guzelligiyle dikkat cekti el gouna film festivali nde boy gosterdi",
+      "url": "https://onedio.com/haber/busra-develi-misir-da-guzelligiyle-dikkat-cekti-el-gouna-film-festivali-nde-boy-gosterdi-1390885",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "haberturk.com",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.945917+00:00",
+      "collected_at": "2026-10-25T16:43:12.275545+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/hasan-gozetlik-sakiler-zirvede-bitti-3921842",
-          "title": "Hasan Gözetlik: Sakiler zirvede bitti"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/busra-develi-misir-da-guzelligiyle-dikkat-cekti-el-gouna-film-festivali-nde-boy-gosterdi-1390885",
+          "title": "Büşra Develi, Mısır'da Güzelliğiyle Dikkat Çekti! El Gouna Film Festivali'nde Boy Gösterdi"
+        },
+        {
+          "source": "haberaktuel.com",
+          "source_domain": "haberaktuel.com",
+          "url": "https://www.haberaktuel.com/busra-develi-el-gouna-film-festivalinde-sahne-aldi-3514985",
+          "title": "Büşra Develi, El Gouna Film Festivali’nde Sahne Aldı"
         }
       ],
       "publisher_domains": [
-        "haberturk.com"
+        "haberaktuel.com",
+        "onedio.com"
       ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
+      "publisher_count": 2,
+      "direct_article_count": 2,
       "event_member_count": 2,
-      "discovery_item_count": 1,
+      "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 10.5,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "single_publisher"
+      "coverage_label": "multi_publisher"
     },
     {
-      "title": "Şarkıcı Nev neden vefat etti, hastalığı nedir? Nev kimdir, kaç yaşındaydı? İşte hayatı ve biyografisi",
-      "normalized_title": "sarkici nev neden vefat etti hastaligi nedir nev kimdir kac yasindaydi iste hayati ve biyografisi",
-      "url": "https://www.hurriyet.com.tr/bilgi/galeri/nev-kimdir-kac-yasindaydi-sarkici-nev-neden-vefat-etti-hastaligi-neydi-43353654",
-      "source": "hurriyet.com.tr",
+      "title": "Türk Pop-Rock müziğinin acı kaybı: Sanatçı Nev son yolculuğuna uğurlandı İhlas Haber Ajansı",
+      "normalized_title": "turk pop rock muziginin aci kaybi sanatci nev son yolculuguna ugurlandi ihlas haber ajansi",
+      "url": "https://www.iha.com.tr/istanbul-haberleri/turk-pop-rock-muziginin-aci-kaybi-sanatci-nev-son-yolculuguna-ugurlandi-505982135",
+      "source": "iha.com.tr",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "iha.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.943702+00:00",
+      "collected_at": "2026-10-25T16:43:12.271756+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/bilgi/galeri/nev-kimdir-kac-yasindaydi-sarkici-nev-neden-vefat-etti-hastaligi-neydi-43353654",
-          "title": "Şarkıcı Nev neden vefat etti, hastalığı nedir? Nev kimdir, kaç yaşındaydı? İşte hayatı ve biyografisi"
+          "source": "iha.com.tr",
+          "source_domain": "iha.com.tr",
+          "url": "https://www.iha.com.tr/istanbul-haberleri/turk-pop-rock-muziginin-aci-kaybi-sanatci-nev-son-yolculuguna-ugurlandi-505982135",
+          "title": "Türk Pop-Rock müziğinin acı kaybı: Sanatçı Nev son yolculuğuna uğurlandı İhlas Haber Ajansı"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
+        "iha.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -714,29 +793,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Şarkıcı Nev hayatını kaybetti! İkinci kez entübe edilmişti",
-      "normalized_title": "sarkici nev hayatini kaybetti ikinci kez entube edilmisti",
-      "url": "https://www.ahaber.com.tr/magazin/2026/10/24/sarkici-nev-hayatini-kaybetti",
-      "source": "ahaber.com.tr",
+      "title": "Şarkıcı Nev'in son röportajı duygulandırdı. \"Çok yalnızım, tekim\"",
+      "normalized_title": "sarkici nev in son roportaji duygulandirdi cok yalnizim tekim",
+      "url": "https://www.ntv.com.tr/yasam/galeri-olumu-sonrasi-sarkici-nevin-son-roportaji-duygulandirdi-cok-yalnizim-tekim-1747837",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "ahaber.com.tr",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.943742+00:00",
+      "collected_at": "2026-10-25T16:43:12.271835+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ahaber.com.tr",
-          "source_domain": "ahaber.com.tr",
-          "url": "https://www.ahaber.com.tr/magazin/2026/10/24/sarkici-nev-hayatini-kaybetti",
-          "title": "Şarkıcı Nev hayatını kaybetti! İkinci kez entübe edilmişti"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-olumu-sonrasi-sarkici-nevin-son-roportaji-duygulandirdi-cok-yalnizim-tekim-1747837",
+          "title": "Şarkıcı Nev'in son röportajı duygulandırdı. \"Çok yalnızım, tekim\""
         }
       ],
       "publisher_domains": [
-        "ahaber.com.tr"
+        "ntv.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -751,177 +830,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Mustafa Sandal'ın kayınvalidesi Reyhan Sütşurup'un 3 milyon dolarına el konuldu",
-      "normalized_title": "mustafa sandal in kayinvalidesi reyhan sutsurup un 3 milyon dolarina el konuldu",
-      "url": "https://www.cumhuriyet.com.tr/turkiye/mustafa-sandal-in-kayinvalidesi-reyhan-sutsurup-un-3-milyon-dolarina-el-konuldu-2550036",
-      "source": "cumhuriyet.com.tr",
+      "title": "Mevlan Düzyatan kimdir? Neden öldü? Kaç yaşında öldü? Engin Altan Düzyatan'ın babası kimdir?",
+      "normalized_title": "mevlan duzyatan kimdir neden oldu kac yasinda oldu engin altan duzyatan in babasi kimdir",
+      "url": "https://www.hakimiyet.com/mevlan-duzyatan-kimdir-neden-oldu-kac-yasinda-oldu-engin-altan-duzyatan-in-babasi-kimdir/128256/",
+      "source": "hakimiyet.com",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "hakimiyet.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.943787+00:00",
+      "collected_at": "2026-10-25T16:43:12.272113+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/turkiye/mustafa-sandal-in-kayinvalidesi-reyhan-sutsurup-un-3-milyon-dolarina-el-konuldu-2550036",
-          "title": "Mustafa Sandal'ın kayınvalidesi Reyhan Sütşurup'un 3 milyon dolarına el konuldu"
+          "source": "hakimiyet.com",
+          "source_domain": "hakimiyet.com",
+          "url": "https://www.hakimiyet.com/mevlan-duzyatan-kimdir-neden-oldu-kac-yasinda-oldu-engin-altan-duzyatan-in-babasi-kimdir/128256/",
+          "title": "Mevlan Düzyatan kimdir? Neden öldü? Kaç yaşında öldü? Engin Altan Düzyatan'ın babası kimdir?"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Melis Sütşurup'un annesinin banka hesabına el konuldu",
-      "normalized_title": "melis sutsurup un annesinin banka hesabina el konuldu",
-      "url": "https://m.haber7.com/guncel/haber/3671232-melis-sutsurupun-annesinin-banka-hesabina-el-konuldu",
-      "source": "m.haber7.com",
-      "source_role": "publisher",
-      "source_domain": "m.haber7.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.943829+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "m.haber7.com",
-          "source_domain": "m.haber7.com",
-          "url": "https://m.haber7.com/guncel/haber/3671232-melis-sutsurupun-annesinin-banka-hesabina-el-konuldu",
-          "title": "Melis Sütşurup'un annesinin banka hesabına el konuldu"
-        }
-      ],
-      "publisher_domains": [
-        "m.haber7.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Oyuncu Engin Altan Düzyatan'ın babası son yolculuğuna uğurladı",
-      "normalized_title": "oyuncu engin altan duzyatan in babasi son yolculuguna ugurladi",
-      "url": "https://yerel-haberler.haberturk.com/izmir-haberleri/oyuncu-engin-altan-duzyatanin-babasi-son-yolculuguna-ugurladi-119503032",
-      "source": "yerel-haberler.haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "yerel-haberler.haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.944005+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yerel-haberler.haberturk.com",
-          "source_domain": "yerel-haberler.haberturk.com",
-          "url": "https://yerel-haberler.haberturk.com/izmir-haberleri/oyuncu-engin-altan-duzyatanin-babasi-son-yolculuguna-ugurladi-119503032",
-          "title": "Oyuncu Engin Altan Düzyatan'ın babası son yolculuğuna uğurladı"
-        }
-      ],
-      "publisher_domains": [
-        "yerel-haberler.haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Engin Altan Düzyatan’ı kahreden haber: 'Derin üzüntü içerisindeyiz'",
-      "normalized_title": "engin altan duzyatan i kahreden haber derin uzuntu icerisindeyiz",
-      "url": "https://www.ahaber.com.tr/galeri/magazin/engin-altan-duzyatanin-babasi-vefat-etti",
-      "source": "ahaber.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ahaber.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.944075+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ahaber.com.tr",
-          "source_domain": "ahaber.com.tr",
-          "url": "https://www.ahaber.com.tr/galeri/magazin/engin-altan-duzyatanin-babasi-vefat-etti",
-          "title": "Engin Altan Düzyatan’ı kahreden haber: 'Derin üzüntü içerisindeyiz'"
-        }
-      ],
-      "publisher_domains": [
-        "ahaber.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Başarılı oyuncu İpek Karapınar'dan güzel haber! Önce evlilik sonra...",
-      "normalized_title": "basarili oyuncu ipek karapinar dan guzel haber once evlilik sonra",
-      "url": "https://www.internethaber.com/basarili-oyuncu-ipek-karapinardan-guzel-haber-once-evlilik-sonra-foto-galerisi-2465660.htm",
-      "source": "internethaber.com",
-      "source_role": "publisher",
-      "source_domain": "internethaber.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.944199+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "internethaber.com",
-          "source_domain": "internethaber.com",
-          "url": "https://www.internethaber.com/basarili-oyuncu-ipek-karapinardan-guzel-haber-once-evlilik-sonra-foto-galerisi-2465660.htm",
-          "title": "Başarılı oyuncu İpek Karapınar'dan güzel haber! Önce evlilik sonra..."
-        }
-      ],
-      "publisher_domains": [
-        "internethaber.com"
+        "hakimiyet.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -945,7 +876,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.944236+00:00",
+      "collected_at": "2026-10-25T16:43:12.272661+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -982,7 +913,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.944275+00:00",
+      "collected_at": "2026-10-25T16:43:12.272889+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1010,43 +941,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Neslihan Atagül oğlu Aziz ile semt pazarında: Elma seçti, görenleri gülümsetti",
-      "normalized_title": "neslihan atagul oglu aziz ile semt pazarinda elma secti gorenleri gulumsetti",
-      "url": "https://www.sozcu.com.tr/neslihan-atagul-oglu-aziz-ile-semt-pazarinda-elma-secti-gorenleri-gulumsetti-p372545",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.944316+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/neslihan-atagul-oglu-aziz-ile-semt-pazarinda-elma-secti-gorenleri-gulumsetti-p372545",
-          "title": "Neslihan Atagül oğlu Aziz ile semt pazarında: Elma seçti, görenleri gülümsetti"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Boran Kuzum Big Mistakes'in 2. Sezonu İçin Amerika'ya Gitti: Çekimlerin Biteceği Tarih Belli Oldu",
       "normalized_title": "boran kuzum big mistakes in 2 sezonu icin amerika ya gitti cekimlerin bitecegi tarih belli oldu",
       "url": "https://onedio.com/haber/boran-kuzum-big-mistakes-in-2-sezonu-icin-amerika-ya-gitti-cekimlerin-bitecegi-tarih-belli-oldu-1391084",
@@ -1056,7 +950,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.944362+00:00",
+      "collected_at": "2026-10-25T16:43:12.272982+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1084,6 +978,80 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "Neslihan Atagül oğlu Aziz ile semt pazarında: Elma seçti, görenleri gülümsetti",
+      "normalized_title": "neslihan atagul oglu aziz ile semt pazarinda elma secti gorenleri gulumsetti",
+      "url": "https://www.sozcu.com.tr/neslihan-atagul-oglu-aziz-ile-semt-pazarinda-elma-secti-gorenleri-gulumsetti-p372545",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-25T16:43:12.273060+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/neslihan-atagul-oglu-aziz-ile-semt-pazarinda-elma-secti-gorenleri-gulumsetti-p372545",
+          "title": "Neslihan Atagül oğlu Aziz ile semt pazarında: Elma seçti, görenleri gülümsetti"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "AURA Tomorrowland'e göz kırptı: Manifest üyelerinden destek",
+      "normalized_title": "aura tomorrowland e goz kirpti manifest uyelerinden destek",
+      "url": "https://www.sozcu.com.tr/aura-tomorrowland-e-goz-kirpti-manifest-uyelerinden-destek-p372554",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-25T16:43:12.273144+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/aura-tomorrowland-e-goz-kirpti-manifest-uyelerinden-destek-p372554",
+          "title": "AURA Tomorrowland'e göz kırptı: Manifest üyelerinden destek"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Aura’ya Manifest desteği",
       "normalized_title": "aura ya manifest destegi",
       "url": "https://www.hurriyet.com.tr/kelebek/stil/auraya-manifest-destegi-43352781",
@@ -1093,7 +1061,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.944392+00:00",
+      "collected_at": "2026-10-25T16:43:12.273204+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1130,7 +1098,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.944427+00:00",
+      "collected_at": "2026-10-25T16:43:12.273270+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1167,7 +1135,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.944454+00:00",
+      "collected_at": "2026-10-25T16:43:12.273324+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1195,29 +1163,140 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "AURA’NIN YENİ EVRENİ: ELEMENTAL YAYINDA",
-      "normalized_title": "aura nin yeni evreni elemental yayinda",
-      "url": "https://merkezsiyaset.com/auranin-yeni-evreni-elemental-yayinda-h129993.html",
-      "source": "merkezsiyaset.com",
+      "title": "Tuzlu Kahve Bu Kez Kızılcık Şerbeti'ne Göz Kırptı: Eski Aşıklar Yeniden Bir Arada!",
+      "normalized_title": "tuzlu kahve bu kez kizilcik serbeti ne goz kirpti eski asiklar yeniden bir arada",
+      "url": "https://onedio.com/haber/tuzlu-kahve-bu-kez-kizilcik-serbeti-ne-goz-kirpti-eski-asiklar-yeniden-bir-arada-1391229",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "merkezsiyaset.com",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.944483+00:00",
+      "collected_at": "2026-10-25T16:43:12.273405+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "merkezsiyaset.com",
-          "source_domain": "merkezsiyaset.com",
-          "url": "https://merkezsiyaset.com/auranin-yeni-evreni-elemental-yayinda-h129993.html",
-          "title": "AURA’NIN YENİ EVRENİ: ELEMENTAL YAYINDA"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/tuzlu-kahve-bu-kez-kizilcik-serbeti-ne-goz-kirpti-eski-asiklar-yeniden-bir-arada-1391229",
+          "title": "Tuzlu Kahve Bu Kez Kızılcık Şerbeti'ne Göz Kırptı: Eski Aşıklar Yeniden Bir Arada!"
         }
       ],
       "publisher_domains": [
-        "merkezsiyaset.com"
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Settar Tanrıöğen ve Müjde Uzman, Tuzlu Kahve'de buluşuyor",
+      "normalized_title": "settar tanriogen ve mujde uzman tuzlu kahve de bulusuyor",
+      "url": "https://www.egealternatif.com/haber/settar-tanriogen-ve-mujde-uzman-tuzlu-kahve-de-bulusuyor_98878/",
+      "source": "egealternatif.com",
+      "source_role": "publisher",
+      "source_domain": "egealternatif.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-25T16:43:12.273601+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "egealternatif.com",
+          "source_domain": "egealternatif.com",
+          "url": "https://www.egealternatif.com/haber/settar-tanriogen-ve-mujde-uzman-tuzlu-kahve-de-bulusuyor_98878/",
+          "title": "Settar Tanrıöğen ve Müjde Uzman, Tuzlu Kahve'de buluşuyor"
+        }
+      ],
+      "publisher_domains": [
+        "egealternatif.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Oyunculuğa ara verdi: Batuhan Karacakaya'nın yeni mesleği belli oldu",
+      "normalized_title": "oyunculuga ara verdi batuhan karacakaya nin yeni meslegi belli oldu",
+      "url": "https://www.kocaelitv.com.tr/oyunculuga-ara-verdi-batuhan-karacakayanin-yeni-meslegi-belli-oldu",
+      "source": "kocaelitv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "kocaelitv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-25T16:43:12.273807+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "kocaelitv.com.tr",
+          "source_domain": "kocaelitv.com.tr",
+          "url": "https://www.kocaelitv.com.tr/oyunculuga-ara-verdi-batuhan-karacakayanin-yeni-meslegi-belli-oldu",
+          "title": "Oyunculuğa ara verdi: Batuhan Karacakaya'nın yeni mesleği belli oldu"
+        }
+      ],
+      "publisher_domains": [
+        "kocaelitv.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ekranlara ara veren Batuhan Karacakaya aile şirketine döndü",
+      "normalized_title": "ekranlara ara veren batuhan karacakaya aile sirketine dondu",
+      "url": "https://www.yenicaggazetesi.com/ekranlara-ara-veren-batuhan-karacakaya-aile-sirketine-dondu-1084920h.htm",
+      "source": "yenicaggazetesi.com",
+      "source_role": "publisher",
+      "source_domain": "yenicaggazetesi.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-25T16:43:12.273873+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yenicaggazetesi.com",
+          "source_domain": "yenicaggazetesi.com",
+          "url": "https://www.yenicaggazetesi.com/ekranlara-ara-veren-batuhan-karacakaya-aile-sirketine-dondu-1084920h.htm",
+          "title": "Ekranlara ara veren Batuhan Karacakaya aile şirketine döndü"
+        }
+      ],
+      "publisher_domains": [
+        "yenicaggazetesi.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1241,7 +1320,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.944576+00:00",
+      "collected_at": "2026-10-25T16:43:12.274049+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1278,7 +1357,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.944659+00:00",
+      "collected_at": "2026-10-25T16:43:12.274161+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1292,43 +1371,6 @@
       ],
       "publisher_domains": [
         "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Paris'te evlenmişti! Itır Esen gelinlikli yeni pozlarını paylaştı",
-      "normalized_title": "paris te evlenmisti itir esen gelinlikli yeni pozlarini paylasti",
-      "url": "https://www.milliyet.com.tr/magazin/galeri/pariste-evlenmisti-itir-esen-gelinlikli-yeni-pozlarini-paylasti-7686855",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-25T11:53:12.944742+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/pariste-evlenmisti-itir-esen-gelinlikli-yeni-pozlarini-paylasti-7686855",
-          "title": "Paris'te evlenmişti! Itır Esen gelinlikli yeni pozlarını paylaştı"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
