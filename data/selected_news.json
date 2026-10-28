@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-27T18:16:01.123755+00:00",
+  "generated_at": "2026-10-28T08:02:40.839740+00:00",
   "candidate_count": 100,
-  "event_group_count": 42,
-  "multi_publisher_event_count": 14,
+  "event_group_count": 46,
+  "multi_publisher_event_count": 11,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Oğuzhan Koç’la ne zaman evlenecek? Hazal Subaşı’ndan olay ’evlilik’ yanıtı: Biraz fazla yoğunuz",
-      "normalized_title": "oguzhan koc la ne zaman evlenecek hazal subasi ndan olay evlilik yaniti biraz fazla yogunuz",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/oguzhan-kocla-ne-zaman-evlenecek-hazal-subasindan-olay-evlilik-yaniti-biraz-fazla-yogunuz",
+      "title": "Eşini öpmelere doyamadı! Başak Dizer eşi Kıvanç Tatlıtuğ’un doğum gününü kutladı: İyi ki doğdun Aşk!",
+      "normalized_title": "esini opmelere doyamadi basak dizer esi kivanc tatlitug un dogum gununu kutladi iyi ki dogdun ask",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/esini-opmelere-doyamadi-basak-dizer-esi-kivanc-tatlitugun-dogum-gununu-kutladi-iyi-ki-dogdun-ask",
       "source": "sabah.com.tr",
       "source_role": "publisher",
       "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.235358+00:00",
+      "collected_at": "2026-10-28T08:02:04.314639+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -25,195 +25,60 @@
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/hazal-subasi-evlenmek-icin-fazla-yogunuz-3922797",
-          "title": "Hazal Subaşı: Evlenmek için fazla yoğunuz"
+          "url": "https://www.haberturk.com/magazin/foto/basak-dizer-den-kivanc-tatlitug-a-iyi-ki-dogdun-ask-3923044",
+          "title": "Başak Dizer'den Kıvanç Tatlıtuğ'a: İyi ki doğdun aşk"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/basak-dizer-kivanc-tatlitug-u-opmelere-doyamadi-dogum-gununde-aska-geldi-p373481",
+          "title": "Başak Dizer Kıvanç Tatlıtuğ’u öpmelere doyamadı: Doğum gününde aşka geldi"
         },
         {
           "source": "sabah.com.tr",
           "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/oguzhan-kocla-ne-zaman-evlenecek-hazal-subasindan-olay-evlilik-yaniti-biraz-fazla-yogunuz",
-          "title": "Oğuzhan Koç’la ne zaman evlenecek? Hazal Subaşı’ndan olay ’evlilik’ yanıtı: Biraz fazla yoğunuz"
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/esini-opmelere-doyamadi-basak-dizer-esi-kivanc-tatlitugun-dogum-gununu-kutladi-iyi-ki-dogdun-ask",
+          "title": "Eşini öpmelere doyamadı! Başak Dizer eşi Kıvanç Tatlıtuğ’un doğum gününü kutladı: İyi ki doğdun Aşk!"
         }
       ],
       "publisher_domains": [
         "haberturk.com",
-        "sabah.com.tr"
+        "sabah.com.tr",
+        "sozcu.com.tr"
       ],
-      "publisher_count": 2,
+      "publisher_count": 3,
       "direct_article_count": 3,
       "event_member_count": 3,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.5,
+      "popularity_score": 30.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Şöhretin en güzel hali! Şov dünyasını elinin tersiyle itmişti: Gamze Özçelik’in hayatlara dokunan hamlesi",
-      "normalized_title": "sohretin en guzel hali sov dunyasini elinin tersiyle itmisti gamze ozcelik in hayatlara dokunan hamlesi",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/sohretin-en-guzel-hali-sov-dunyasini-elinin-tersiyle-itmisti-gamze-ozcelikin-hayatlara-dokunan-hamlesi",
-      "source": "sabah.com.tr",
+      "title": "Serenay Sarıkaya’dan spor salonunda 'Nasıl başladı, nasıl bitti' paylaşımı",
+      "normalized_title": "serenay sarikaya dan spor salonunda nasil basladi nasil bitti paylasimi",
+      "url": "https://www.patronlardunyasi.com/serenay-sarikayadan-spor-salonunda-nasil-basladi-nasil-bitti-paylasimi",
+      "source": "patronlardunyasi.com",
       "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
+      "source_domain": "patronlardunyasi.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.232879+00:00",
+      "collected_at": "2026-10-28T08:02:04.314681+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/sohretin-en-guzel-hali-sov-dunyasini-elinin-tersiyle-itmisti-gamze-ozcelikin-hayatlara-dokunan-hamlesi",
-          "title": "Şöhretin en güzel hali! Şov dünyasını elinin tersiyle itmişti: Gamze Özçelik’in hayatlara dokunan hamlesi"
+          "source": "patronlardunyasi.com",
+          "source_domain": "patronlardunyasi.com",
+          "url": "https://www.patronlardunyasi.com/serenay-sarikayadan-spor-salonunda-nasil-basladi-nasil-bitti-paylasimi",
+          "title": "Serenay Sarıkaya’dan spor salonunda 'Nasıl başladı, nasıl bitti' paylaşımı"
         },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/gamze-ozcelik-ten-hayatlara-dokunan-destek-3922868",
-          "title": "Gamze Özçelik'ten hayatlara dokunan destek"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com",
-        "sabah.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "9 kez ameliyat olmuştu: Danla Bilic yeniden rahatsızlandı",
-      "normalized_title": "9 kez ameliyat olmustu danla bilic yeniden rahatsizlandi",
-      "url": "https://www.egedesonsoz.com/9-kez-ameliyat-olmustu-danla-bilic-yeniden-rahatsizlandi",
-      "source": "egedesonsoz.com",
-      "source_role": "publisher",
-      "source_domain": "egedesonsoz.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.233614+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "egedesonsoz.com",
-          "source_domain": "egedesonsoz.com",
-          "url": "https://www.egedesonsoz.com/9-kez-ameliyat-olmustu-danla-bilic-yeniden-rahatsizlandi",
-          "title": "9 kez ameliyat olmuştu: Danla Bilic yeniden rahatsızlandı"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/danla-bilic-evinde-rahatsizlandi-3922785",
-          "title": "Danla Bilic, evinde rahatsızlandı"
-        }
-      ],
-      "publisher_domains": [
-        "egedesonsoz.com",
-        "haberturk.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    }
-  ],
-  "event_groups_preview": [
-    {
-      "title": "Oyuncu Engin Altan Düzyatan'ın babası İzmir'de son yolculuğuna uğurlandı",
-      "normalized_title": "oyuncu engin altan duzyatan in babasi izmir de son yolculuguna ugurlandi",
-      "url": "https://yerel-haberler.haberturk.com/izmir-haberleri/oyuncu-engin-altan-duzyatanin-babasi-izmirde-son-yolculuguna-ugurlandi-119503163",
-      "source": "yerel-haberler.haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "yerel-haberler.haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.234123+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ekonomim.com",
-          "source_domain": "ekonomim.com",
-          "url": "https://www.ekonomim.com/gundem/engin-altan-duzyatan-babasi-son-yolculuguna-ugurladi-haberi-926947",
-          "title": "Engin Altan Düzyatan babası son yolculuğuna uğurladı"
-        },
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/oyuncu-engin-altan-duzyatanin-babasi-son-yolculuguna-ugurladi-43354435",
-          "title": "Oyuncu Engin Altan Düzyatan'ın babası son yolculuğuna uğurladı"
-        },
-        {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/magazin/unlu-oyuncu-engin-altan-duzyatanin-kederli-gunu,1355157",
-          "title": "Ünlü oyuncu Engin Altan Düzyatan'ın kederli günü"
-        },
-        {
-          "source": "yerel-haberler.haberturk.com",
-          "source_domain": "yerel-haberler.haberturk.com",
-          "url": "https://yerel-haberler.haberturk.com/izmir-haberleri/oyuncu-engin-altan-duzyatanin-babasi-izmirde-son-yolculuguna-ugurlandi-119503163",
-          "title": "Oyuncu Engin Altan Düzyatan'ın babası İzmir'de son yolculuğuna uğurlandı"
-        }
-      ],
-      "publisher_domains": [
-        "ekonomim.com",
-        "hurriyet.com.tr",
-        "t24.com.tr",
-        "yerel-haberler.haberturk.com"
-      ],
-      "publisher_count": 4,
-      "direct_article_count": 4,
-      "event_member_count": 4,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 40.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Serenay Sarıkaya’dan “Antrenman böyle bitti” pozu",
-      "normalized_title": "serenay sarikaya dan antrenman boyle bitti pozu",
-      "url": "https://www.haberler.com/magazin/serenay-sarikayadan-antrenman-boyle-bitti-pozu-20368917-haberi/",
-      "source": "haberler.com",
-      "source_role": "publisher",
-      "source_domain": "haberler.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.235085+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
@@ -225,18 +90,218 @@
           "source_domain": "haberler.com",
           "url": "https://www.haberler.com/magazin/serenay-sarikayadan-antrenman-boyle-bitti-pozu-20368917-haberi/",
           "title": "Serenay Sarıkaya’dan “Antrenman böyle bitti” pozu"
+        }
+      ],
+      "publisher_domains": [
+        "haberler.com",
+        "hurriyet.com.tr",
+        "patronlardunyasi.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Damla Sönmez'den dikkat çeken itiraf! 20'li yaşlarında aydınlanma yaşadı",
+      "normalized_title": "damla sonmez den dikkat ceken itiraf 20 li yaslarinda aydinlanma yasadi",
+      "url": "https://www.ahaber.com.tr/galeri/magazin/damla-sonmez-kibirli-oldugunu-fark-ettigi-donemi-anlatti",
+      "source": "ahaber.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ahaber.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-28T08:02:04.315398+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/damla-sonmez-den-oyunculuk-itirafi-3923039",
+          "title": "Damla Sönmez'den oyunculuk itirafı"
+        },
+        {
+          "source": "ahaber.com.tr",
+          "source_domain": "ahaber.com.tr",
+          "url": "https://www.ahaber.com.tr/galeri/magazin/damla-sonmez-kibirli-oldugunu-fark-ettigi-donemi-anlatti",
+          "title": "Damla Sönmez'den dikkat çeken itiraf! 20'li yaşlarında aydınlanma yaşadı"
         },
         {
           "source": "ensonhaber.com",
           "source_domain": "ensonhaber.com",
-          "url": "https://www.ensonhaber.com/serenay-sarikayain-antrenman-pozu-h1577309",
-          "title": "Serenay Sarıkaya’ın antrenman pozu"
+          "url": "https://www.ensonhaber.com/damla-sonmezden-yillar-sonra-gelen-itiraf-kibirli-biriyim-h1577502",
+          "title": "Damla Sönmez'den yıllar sonra gelen itiraf: \"Kibirli biriyim\""
         }
       ],
       "publisher_domains": [
+        "ahaber.com.tr",
         "ensonhaber.com",
+        "haberturk.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    }
+  ],
+  "event_groups_preview": [
+    {
+      "title": "Eşini öpmelere doyamadı! Başak Dizer eşi Kıvanç Tatlıtuğ’un doğum gününü kutladı: İyi ki doğdun Aşk!",
+      "normalized_title": "esini opmelere doyamadi basak dizer esi kivanc tatlitug un dogum gununu kutladi iyi ki dogdun ask",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/esini-opmelere-doyamadi-basak-dizer-esi-kivanc-tatlitugun-dogum-gununu-kutladi-iyi-ki-dogdun-ask",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-28T08:02:04.314639+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/basak-dizer-den-kivanc-tatlitug-a-iyi-ki-dogdun-ask-3923044",
+          "title": "Başak Dizer'den Kıvanç Tatlıtuğ'a: İyi ki doğdun aşk"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/basak-dizer-kivanc-tatlitug-u-opmelere-doyamadi-dogum-gununde-aska-geldi-p373481",
+          "title": "Başak Dizer Kıvanç Tatlıtuğ’u öpmelere doyamadı: Doğum gününde aşka geldi"
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/esini-opmelere-doyamadi-basak-dizer-esi-kivanc-tatlitugun-dogum-gununu-kutladi-iyi-ki-dogdun-ask",
+          "title": "Eşini öpmelere doyamadı! Başak Dizer eşi Kıvanç Tatlıtuğ’un doğum gününü kutladı: İyi ki doğdun Aşk!"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "sabah.com.tr",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Serenay Sarıkaya’dan spor salonunda 'Nasıl başladı, nasıl bitti' paylaşımı",
+      "normalized_title": "serenay sarikaya dan spor salonunda nasil basladi nasil bitti paylasimi",
+      "url": "https://www.patronlardunyasi.com/serenay-sarikayadan-spor-salonunda-nasil-basladi-nasil-bitti-paylasimi",
+      "source": "patronlardunyasi.com",
+      "source_role": "publisher",
+      "source_domain": "patronlardunyasi.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-28T08:02:04.314681+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "patronlardunyasi.com",
+          "source_domain": "patronlardunyasi.com",
+          "url": "https://www.patronlardunyasi.com/serenay-sarikayadan-spor-salonunda-nasil-basladi-nasil-bitti-paylasimi",
+          "title": "Serenay Sarıkaya’dan spor salonunda 'Nasıl başladı, nasıl bitti' paylaşımı"
+        },
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/serenay-sarikayadan-yorgunluk-pozu-43356757",
+          "title": "Serenay Sarıkaya’dan yorgunluk pozu!"
+        },
+        {
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/magazin/serenay-sarikayadan-antrenman-boyle-bitti-pozu-20368917-haberi/",
+          "title": "Serenay Sarıkaya’dan “Antrenman böyle bitti” pozu"
+        }
+      ],
+      "publisher_domains": [
         "haberler.com",
-        "hurriyet.com.tr"
+        "hurriyet.com.tr",
+        "patronlardunyasi.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Damla Sönmez'den dikkat çeken itiraf! 20'li yaşlarında aydınlanma yaşadı",
+      "normalized_title": "damla sonmez den dikkat ceken itiraf 20 li yaslarinda aydinlanma yasadi",
+      "url": "https://www.ahaber.com.tr/galeri/magazin/damla-sonmez-kibirli-oldugunu-fark-ettigi-donemi-anlatti",
+      "source": "ahaber.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ahaber.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-28T08:02:04.315398+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/damla-sonmez-den-oyunculuk-itirafi-3923039",
+          "title": "Damla Sönmez'den oyunculuk itirafı"
+        },
+        {
+          "source": "ahaber.com.tr",
+          "source_domain": "ahaber.com.tr",
+          "url": "https://www.ahaber.com.tr/galeri/magazin/damla-sonmez-kibirli-oldugunu-fark-ettigi-donemi-anlatti",
+          "title": "Damla Sönmez'den dikkat çeken itiraf! 20'li yaşlarında aydınlanma yaşadı"
+        },
+        {
+          "source": "ensonhaber.com",
+          "source_domain": "ensonhaber.com",
+          "url": "https://www.ensonhaber.com/damla-sonmezden-yillar-sonra-gelen-itiraf-kibirli-biriyim-h1577502",
+          "title": "Damla Sönmez'den yıllar sonra gelen itiraf: \"Kibirli biriyim\""
+        }
+      ],
+      "publisher_domains": [
+        "ahaber.com.tr",
+        "ensonhaber.com",
+        "haberturk.com"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -260,7 +325,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.235358+00:00",
+      "collected_at": "2026-10-28T08:02:04.313396+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -283,48 +348,136 @@
         "sabah.com.tr"
       ],
       "publisher_count": 2,
-      "direct_article_count": 3,
-      "event_member_count": 3,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.5,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Murat Evgin’den Nev’in ardından dikkat çeken sözler: 'Keşke yaşarken bu değeri görseydi'",
-      "normalized_title": "murat evgin den nev in ardindan dikkat ceken sozler keske yasarken bu degeri gorseydi",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/murat-evginden-nevin-ardindan-dikkat-ceken-sozler-keske-yasarken-bu-degeri-gorseydi-43356701",
-      "source": "hurriyet.com.tr",
+      "title": "Hazal Subaşı'ndan Oğuzhan Koç'la evlilik sorusuna ilginç yanıt",
+      "normalized_title": "hazal subasi ndan oguzhan koc la evlilik sorusuna ilginc yanit",
+      "url": "https://www.milliyet.com.tr/magazin/galeri/hazal-subasindan-oguzhan-kocla-evlilik-sorusuna-ilginc-yanit-7688491",
+      "source": "milliyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "milliyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.232483+00:00",
+      "collected_at": "2026-10-28T08:02:04.313447+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/murat-evginden-nevin-ardindan-dikkat-ceken-sozler-keske-yasarken-bu-degeri-gorseydi-43356701",
-          "title": "Murat Evgin’den Nev’in ardından dikkat çeken sözler: 'Keşke yaşarken bu değeri görseydi'"
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/hazal-subasindan-oguzhan-kocla-evlilik-sorusuna-ilginc-yanit-7688491",
+          "title": "Hazal Subaşı'ndan Oğuzhan Koç'la evlilik sorusuna ilginç yanıt"
         },
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/murat-evgin-keske-yasarken-bu-degeri-gorseydi-3922703",
-          "title": "Murat Evgin: Keşke yaşarken bu değeri görseydi"
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/hazal-subasindan-oguzhan-koc-ile-evlilik-aciklamasi-seneye-belki-3485044",
+          "title": "Hazal Subaşı'ndan Oğuzhan Koç ile evlilik açıklaması: Seneye belki"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "hurriyet.com.tr"
+        "cnnturk.com",
+        "milliyet.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Gupse Özay, ‘Gupi ve Gülmeyen Kral’ ile 29 Ekim’de Forum Gordion’da sinemaseverlerle buluşuyor İhlas Haber Ajansı",
+      "normalized_title": "gupse ozay gupi ve gulmeyen kral ile 29 ekim de forum gordion da sinemaseverlerle bulusuyor ihlas haber ajansi",
+      "url": "https://www.iha.com.tr/ankara-haberleri/gupse-ozay-gupi-ve-gulmeyen-kral-ile-29-ekimde-forum-gordionda-sinemaseverlerle-bulusuyor-507369609",
+      "source": "iha.com.tr",
+      "source_role": "publisher",
+      "source_domain": "iha.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-28T08:02:04.313591+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "iha.com.tr",
+          "source_domain": "iha.com.tr",
+          "url": "https://www.iha.com.tr/ankara-haberleri/gupse-ozay-gupi-ve-gulmeyen-kral-ile-29-ekimde-forum-gordionda-sinemaseverlerle-bulusuyor-507369609",
+          "title": "Gupse Özay, ‘Gupi ve Gülmeyen Kral’ ile 29 Ekim’de Forum Gordion’da sinemaseverlerle buluşuyor İhlas Haber Ajansı"
+        },
+        {
+          "source": "beyazperde.com",
+          "source_domain": "beyazperde.com",
+          "url": "https://www.beyazperde.com/filmler/film-1000044839/kullanici-elestirileri/",
+          "title": "Gupi ve Gülmeyen Kral eleştirileri"
+        }
+      ],
+      "publisher_domains": [
+        "beyazperde.com",
+        "iha.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Antalya Altın Portakal Film Festivali'nde \"Ölü Arının İğnesi\" filminin dünya prömiyeri yapıldı",
+      "normalized_title": "antalya altin portakal film festivali nde olu arinin ignesi filminin dunya promiyeri yapildi",
+      "url": "https://yerel-haberler.haberturk.com/antalya-haberleri/antalya-altin-portakal-film-festivalinde-olu-arinin-ignesi-filminin-dunya-promiyeri-119505370",
+      "source": "yerel-haberler.haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "yerel-haberler.haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-28T08:02:04.314133+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yerel-haberler.haberturk.com",
+          "source_domain": "yerel-haberler.haberturk.com",
+          "url": "https://yerel-haberler.haberturk.com/antalya-haberleri/antalya-altin-portakal-film-festivalinde-olu-arinin-ignesi-filminin-dunya-promiyeri-119505370",
+          "title": "Antalya Altın Portakal Film Festivali'nde \"Ölü Arının İğnesi\" filminin dünya prömiyeri yapıldı"
+        },
+        {
+          "source": "aa.com.tr",
+          "source_domain": "aa.com.tr",
+          "url": "https://www.aa.com.tr/tr/kultur/altin-portakalda-bir-anne-hakkinda-filminin-ilk-gosterimi-yapildi/4102806",
+          "title": "Altın Portakal'da \"Bir Anne Hakkında\" filminin ilk gösterimi yapıldı"
+        }
+      ],
+      "publisher_domains": [
+        "aa.com.tr",
+        "yerel-haberler.haberturk.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -348,22 +501,22 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.232879+00:00",
+      "collected_at": "2026-10-28T08:02:04.314369+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/sohretin-en-guzel-hali-sov-dunyasini-elinin-tersiyle-itmisti-gamze-ozcelikin-hayatlara-dokunan-hamlesi",
-          "title": "Şöhretin en güzel hali! Şov dünyasını elinin tersiyle itmişti: Gamze Özçelik’in hayatlara dokunan hamlesi"
-        },
-        {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
           "url": "https://www.haberturk.com/magazin/foto/gamze-ozcelik-ten-hayatlara-dokunan-destek-3922868",
           "title": "Gamze Özçelik'ten hayatlara dokunan destek"
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/sohretin-en-guzel-hali-sov-dunyasini-elinin-tersiyle-itmisti-gamze-ozcelikin-hayatlara-dokunan-hamlesi",
+          "title": "Şöhretin en güzel hali! Şov dünyasını elinin tersiyle itmişti: Gamze Özçelik’in hayatlara dokunan hamlesi"
         }
       ],
       "publisher_domains": [
@@ -383,36 +536,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "'Çocuklar Duymasın'ın 'Havuç'u Furkan Kızılay, Sakarya'da kaza yapan sürücünün yardımına koştu",
-      "normalized_title": "cocuklar duymasin in havuc u furkan kizilay sakarya da kaza yapan surucunun yardimina kostu",
-      "url": "https://www.haberturk.com/magazin/cocuklar-duymasin-in-havuc-u-furkan-kizilay-sakarya-da-kaza-yapan-surucunun-yardimina-kostu-3922741",
-      "source": "haberturk.com",
+      "title": "Levent İnanır: 'Dayım Kadir İnanır vefat etti, Jülide Kural tatile gitti'",
+      "normalized_title": "levent inanir dayim kadir inanir vefat etti julide kural tatile gitti",
+      "url": "https://www.odatv.com/magazin/levent-inanir-dayim-kadir-inanir-vefat-etti-julide-kural-tatile-gitti-120168288",
+      "source": "odatv.com",
       "source_role": "publisher",
-      "source_domain": "haberturk.com",
+      "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.233120+00:00",
+      "collected_at": "2026-10-28T08:02:04.314823+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/cocuklar-duymasin-in-havuc-u-furkan-kizilay-sakarya-da-kaza-yapan-surucunun-yardimina-kostu-3922741",
-          "title": "'Çocuklar Duymasın'ın 'Havuç'u Furkan Kızılay, Sakarya'da kaza yapan sürücünün yardımına koştu"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/levent-inanir-dayim-kadir-inanir-vefat-etti-julide-kural-tatile-gitti-120168288",
+          "title": "Levent İnanır: 'Dayım Kadir İnanır vefat etti, Jülide Kural tatile gitti'"
         },
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/cocuklar-duymasin-in-havuc-u-furkan-kizilay-sakarya-da-trafik-kazasina-karisti-1391597",
-          "title": "Çocuklar Duymasın'ın Havuç'u Furkan Kızılay Sakarya'da Trafik Kazasına Karıştı!"
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/yazarlar/ali-eyuboglu/levent-inanirin-julide-kural-tepkisi-7688257",
+          "title": "Levent İnanır’ın Jülide Kural tepkisi - Ali Eyüboğlu"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "onedio.com"
+        "milliyet.com.tr",
+        "odatv.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -436,7 +589,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.233614+00:00",
+      "collected_at": "2026-10-28T08:02:04.315005+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -480,7 +633,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.234200+00:00",
+      "collected_at": "2026-10-28T08:02:04.315617+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -515,60 +668,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Vefatının İlk Haftasında Tatile Gitmiş: Levent İnanır'dan Jülide Kural Hakkında Yeni İddialar!",
-      "normalized_title": "vefatinin ilk haftasinda tatile gitmis levent inanir dan julide kural hakkinda yeni iddialar",
-      "url": "https://onedio.com/haber/vefatinin-ilk-haftasinda-tatile-gitmis-levent-inanir-dan-julide-kural-hakkinda-yeni-iddialar-1391292",
-      "source": "onedio.com",
+      "title": "Deniz Baysal: Aşk tek başına yeterli değil",
+      "normalized_title": "deniz baysal ask tek basina yeterli degil",
+      "url": "https://www.haberturk.com/magazin/foto/deniz-baysal-ask-tek-basina-yeterli-degil-3923074",
+      "source": "haberturk.com",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "haberturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.234351+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/vefatinin-ilk-haftasinda-tatile-gitmis-levent-inanir-dan-julide-kural-hakkinda-yeni-iddialar-1391292",
-          "title": "Vefatının İlk Haftasında Tatile Gitmiş: Levent İnanır'dan Jülide Kural Hakkında Yeni İddialar!"
-        },
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/yazarlar/ali-eyuboglu/levent-inanirin-julide-kural-tepkisi-7688257",
-          "title": "Levent İnanır’ın Jülide Kural tepkisi - Ali Eyüboğlu"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr",
-        "onedio.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "İbrahim Tatlıses'in Küçük Kızı Elif Ada Derbide Ortaya Çıktı! Son Haline \"Aynı Babası\" Yorumları Yağdı",
-      "normalized_title": "ibrahim tatlises in kucuk kizi elif ada derbide ortaya cikti son haline ayni babasi yorumlari yagdi",
-      "url": "https://onedio.com/haber/ibrahim-tatlises-in-kucuk-kizi-elif-ada-derbide-ortaya-cikti-son-haline-ayni-babasi-yorumlari-yagdi-1391885",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.234887+00:00",
+      "collected_at": "2026-10-28T08:02:04.313081+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -576,163 +685,172 @@
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/ibrahim-tatlises-ve-kizi-elif-ada-galatasaray-fenerbahce-derbisinde-3922721",
-          "title": "İbrahim Tatlıses ve kızı Elif Ada, Galatasaray-Fenerbahçe derbisinde"
-        },
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/ibrahim-tatlises-in-kucuk-kizi-elif-ada-derbide-ortaya-cikti-son-haline-ayni-babasi-yorumlari-yagdi-1391885",
-          "title": "İbrahim Tatlıses'in Küçük Kızı Elif Ada Derbide Ortaya Çıktı! Son Haline \"Aynı Babası\" Yorumları Yağdı"
+          "url": "https://www.haberturk.com/magazin/foto/deniz-baysal-ask-tek-basina-yeterli-degil-3923074",
+          "title": "Deniz Baysal: Aşk tek başına yeterli değil"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "onedio.com"
+        "haberturk.com"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 10.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "multi_publisher"
+      "coverage_label": "single_publisher"
     },
     {
-      "title": "Ozan Güven: Cenazelerde 'Allah rahmet eylesin' demek zor mu?",
-      "normalized_title": "ozan guven cenazelerde allah rahmet eylesin demek zor mu",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/ozan-guven-cenazelerde-allah-rahmet-eylesin-demek-zor-mu-43355298",
+      "title": "Barış Yurtçu'yla Olaylı Boşanan Deniz Baysal'dan Dikkat Çeken İtiraf: Gönderme mi Yaptı?",
+      "normalized_title": "baris yurtcu yla olayli bosanan deniz baysal dan dikkat ceken itiraf gonderme mi yapti",
+      "url": "https://onedio.com/haber/baris-yurtcu-yla-olayli-bosanmasinin-ardindan-deniz-baysal-dan-dikkat-ceken-itiraf-gonderme-mi-yapti-1391929",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-28T08:02:04.313178+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/baris-yurtcu-yla-olayli-bosanmasinin-ardindan-deniz-baysal-dan-dikkat-ceken-itiraf-gonderme-mi-yapti-1391929",
+          "title": "Barış Yurtçu'yla Olaylı Boşanan Deniz Baysal'dan Dikkat Çeken İtiraf: Gönderme mi Yaptı?"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Deniz Baysal’ın hayatını etkileyen proje belli oldu! Sonrasında tasavvufa yöneldi | Aktüel Haberleri",
+      "normalized_title": "deniz baysal in hayatini etkileyen proje belli oldu sonrasinda tasavvufa yoneldi aktuel haberleri",
+      "url": "https://www.gzt.com/hayat/deniz-baysalin-hayatini-etkileyen-proje-belli-oldu-sonrasinda-tasavvufa-yoneldi-4273418",
+      "source": "gzt.com",
+      "source_role": "publisher",
+      "source_domain": "gzt.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-28T08:02:04.313243+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "gzt.com",
+          "source_domain": "gzt.com",
+          "url": "https://www.gzt.com/hayat/deniz-baysalin-hayatini-etkileyen-proje-belli-oldu-sonrasinda-tasavvufa-yoneldi-4273418",
+          "title": "Deniz Baysal’ın hayatını etkileyen proje belli oldu! Sonrasında tasavvufa yöneldi | Aktüel Haberleri"
+        }
+      ],
+      "publisher_domains": [
+        "gzt.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Deniz Baysal'dan dikkat çeken açıklama: \"İslâm tasavvufunu okumaya başladım\"",
+      "normalized_title": "deniz baysal dan dikkat ceken aciklama islam tasavvufunu okumaya basladim",
+      "url": "https://www.ensonhaber.com/deniz-baysaldan-dikkat-ceken-aciklama-islam-tasavvufunu-okumaya-basladim-h1577507",
+      "source": "ensonhaber.com",
+      "source_role": "publisher",
+      "source_domain": "ensonhaber.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-28T08:02:04.313294+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ensonhaber.com",
+          "source_domain": "ensonhaber.com",
+          "url": "https://www.ensonhaber.com/deniz-baysaldan-dikkat-ceken-aciklama-islam-tasavvufunu-okumaya-basladim-h1577507",
+          "title": "Deniz Baysal'dan dikkat çeken açıklama: \"İslâm tasavvufunu okumaya başladım\""
+        }
+      ],
+      "publisher_domains": [
+        "ensonhaber.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "2026 yılının en iyi açılışını Gupi yaptı",
+      "normalized_title": "2026 yilinin en iyi acilisini gupi yapti",
+      "url": "https://www.hurriyet.com.tr/kelebek/stil/2026-yilinin-en-iyi-acilisini-gupi-yapti-43357441",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.235697+00:00",
+      "collected_at": "2026-10-28T08:02:04.313532+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/cenazelerde-allah-rahmet-eylesin-demek-zor-mu-3922571",
-          "title": "\"Cenazelerde 'Allah rahmet eylesin' demek zor mu?\""
-        },
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/ozan-guven-cenazelerde-allah-rahmet-eylesin-demek-zor-mu-43355298",
-          "title": "Ozan Güven: Cenazelerde 'Allah rahmet eylesin' demek zor mu?"
+          "url": "https://www.hurriyet.com.tr/kelebek/stil/2026-yilinin-en-iyi-acilisini-gupi-yapti-43357441",
+          "title": "2026 yılının en iyi açılışını Gupi yaptı"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
         "hurriyet.com.tr"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 10.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Ozan Güven’den cenazelerdeki “ışıklar içinde uyu” sözüne itiraz: “Bu kadar mı zor?”",
-      "normalized_title": "ozan guven den cenazelerdeki isiklar icinde uyu sozune itiraz bu kadar mi zor",
-      "url": "https://www.sozcu.com.tr/ozan-guven-den-cenazelerdeki-isiklar-icinde-uyu-sozune-itiraz-bu-kadar-mi-zor-p372870",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.235628+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/ozan-guven-den-cenazelerdeki-isiklar-icinde-uyu-sozune-itiraz-bu-kadar-mi-zor-p372870",
-          "title": "Ozan Güven’den cenazelerdeki “ışıklar içinde uyu” sözüne itiraz: “Bu kadar mı zor?”"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/isiklar-icinde-uyu-sozune-cok-takiliyorum-7688754",
-          "title": "‘Işıklar içinde uyu’ sözüne çok takılıyorum’"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Mirgün Cabas'ın 16 Yaşındaki Güzeller Güzeli Kızı Leyla Cabas Altın Portakal'dan Ödülle Döndü!",
-      "normalized_title": "mirgun cabas in 16 yasindaki guzeller guzeli kizi leyla cabas altin portakal dan odulle dondu",
-      "url": "https://onedio.com/haber/mirgun-cabas-in-16-yasindaki-kizi-leyla-cabas-altin-portakal-dan-odulle-dondu-1391603",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.235849+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/mirgun-cabas-in-16-yasindaki-kizi-leyla-cabas-altin-portakal-dan-odulle-dondu-1391603",
-          "title": "Mirgün Cabas'ın 16 Yaşındaki Güzeller Güzeli Kızı Leyla Cabas Altın Portakal'dan Ödülle Döndü!"
-        },
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/cabasa-altin-portakaldan-odul-7687474",
-          "title": "Cabas’a Altın Portakal’dan ödül"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr",
-        "onedio.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
+      "coverage_label": "single_publisher"
     },
     {
       "title": "\"Gupi ve Gülmeyen Kral\" 3 günde 136 bin 539 seyirciye ulaştı",
@@ -744,7 +862,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.236280+00:00",
+      "collected_at": "2026-10-28T08:02:04.313634+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -754,29 +872,318 @@
           "source_domain": "aa.com.tr",
           "url": "https://www.aa.com.tr/tr/kultur/gupi-ve-gulmeyen-kral-3-gunde-136-bin-539-seyirciye-ulasti/4102785",
           "title": "\"Gupi ve Gülmeyen Kral\" 3 günde 136 bin 539 seyirciye ulaştı"
-        },
-        {
-          "source": "beyazperde.com",
-          "source_domain": "beyazperde.com",
-          "url": "https://www.beyazperde.com/filmler/film-1000044839/kullanici-elestirileri/",
-          "title": "Gupi ve Gülmeyen Kral eleştirileri"
         }
       ],
       "publisher_domains": [
-        "aa.com.tr",
-        "beyazperde.com"
+        "aa.com.tr"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 10.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "multi_publisher"
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Furkan Kızılay'dan \"motosiklete çarptı\" iddialarına yanıt",
+      "normalized_title": "furkan kizilay dan motosiklete carpti iddialarina yanit",
+      "url": "https://www.ntv.com.tr/yasam/galeri-furkan-kizilaydan-motosiklete-carpti-iddialarina-yanit-1748207",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-28T08:02:04.313711+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-furkan-kizilaydan-motosiklete-carpti-iddialarina-yanit-1748207",
+          "title": "Furkan Kızılay'dan \"motosiklete çarptı\" iddialarına yanıt"
+        }
+      ],
+      "publisher_domains": [
+        "ntv.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Furkan Kızılay'dan kaza açıklaması: Çarpmadım, yardıma koştum",
+      "normalized_title": "furkan kizilay dan kaza aciklamasi carpmadim yardima kostum",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/furkan-kizilaydan-kaza-aciklamasi-carpmadim-yardima-kostum-43357324",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-28T08:02:04.313751+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/furkan-kizilaydan-kaza-aciklamasi-carpmadim-yardima-kostum-43357324",
+          "title": "Furkan Kızılay'dan kaza açıklaması: Çarpmadım, yardıma koştum"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Çocuklar Duymasın'ın Havuç'u Furkan Kızılay Trafik Kazasında Gence Yardımcı Oldu",
+      "normalized_title": "cocuklar duymasin in havuc u furkan kizilay trafik kazasinda gence yardimci oldu",
+      "url": "https://onedio.com/haber/cocuklar-duymasin-in-havuc-u-furkan-kizilay-trafik-kazasinda-gence-yardimci-oldu-1391597",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-28T08:02:04.313797+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/cocuklar-duymasin-in-havuc-u-furkan-kizilay-trafik-kazasinda-gence-yardimci-oldu-1391597",
+          "title": "Çocuklar Duymasın'ın Havuç'u Furkan Kızılay Trafik Kazasında Gence Yardımcı Oldu"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ünlü oyuncu motosikletli sürücüye çarptı: Yaralı gencin başından bir an ayrılmadı",
+      "normalized_title": "unlu oyuncu motosikletli surucuye carpti yarali gencin basindan bir an ayrilmadi",
+      "url": "https://www.yenisafak.com/gundem/unlu-oyuncu-motosikletli-surucuye-carpti-yarali-gencin-basindan-bir-an-ayrilmadi-4867593",
+      "source": "yenisafak.com",
+      "source_role": "publisher",
+      "source_domain": "yenisafak.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-28T08:02:04.313841+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yenisafak.com",
+          "source_domain": "yenisafak.com",
+          "url": "https://www.yenisafak.com/gundem/unlu-oyuncu-motosikletli-surucuye-carpti-yarali-gencin-basindan-bir-an-ayrilmadi-4867593",
+          "title": "Ünlü oyuncu motosikletli sürücüye çarptı: Yaralı gencin başından bir an ayrılmadı"
+        }
+      ],
+      "publisher_domains": [
+        "yenisafak.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Cenazesinde El Ele Vermişlerdi: Friends Ekibinin Matthew Perry Belgeselinde Neden Yer Almadığı Belli Oldu!",
+      "normalized_title": "cenazesinde el ele vermislerdi friends ekibinin matthew perry belgeselinde neden yer almadigi belli oldu",
+      "url": "https://onedio.com/haber/cenazesinde-el-ele-vermislerdi-friends-ekibinin-matthew-perry-belgeselinde-neden-yer-almadigi-belli-oldu-1391955",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-28T08:02:04.313892+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/cenazesinde-el-ele-vermislerdi-friends-ekibinin-matthew-perry-belgeselinde-neden-yer-almadigi-belli-oldu-1391955",
+          "title": "Cenazesinde El Ele Vermişlerdi: Friends Ekibinin Matthew Perry Belgeselinde Neden Yer Almadığı Belli Oldu!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Yönetmeni yanıtladı: Matthew Perry belgeselinde Friends yıldızları neden yok?",
+      "normalized_title": "yonetmeni yanitladi matthew perry belgeselinde friends yildizlari neden yok",
+      "url": "https://www.indyturk.com/node/784376/k%C3%BClt%C3%BCr/y%C3%B6netmeni-yan%C4%B1tlad%C4%B1-matthew-perry-belgeselinde-friends-y%C4%B1ld%C4%B1zlar%C4%B1-neden-yok",
+      "source": "indyturk.com",
+      "source_role": "publisher",
+      "source_domain": "indyturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-28T08:02:04.313945+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "indyturk.com",
+          "source_domain": "indyturk.com",
+          "url": "https://www.indyturk.com/node/784376/k%C3%BClt%C3%BCr/y%C3%B6netmeni-yan%C4%B1tlad%C4%B1-matthew-perry-belgeselinde-friends-y%C4%B1ld%C4%B1zlar%C4%B1-neden-yok",
+          "title": "Yönetmeni yanıtladı: Matthew Perry belgeselinde Friends yıldızları neden yok?"
+        }
+      ],
+      "publisher_domains": [
+        "indyturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Matthew Perry’nin Son Yılları Netflix’te: Friends kadrosu yok, konuşan kız kardeşi",
+      "normalized_title": "matthew perry nin son yillari netflix te friends kadrosu yok konusan kiz kardesi",
+      "url": "https://tr.martincid.com/tv-shows-tr/matthew-perrynin-son-yillari-netflixte-friends-kadrosu-yok-konusan-kiz-kardesi/",
+      "source": "tr.martincid.com",
+      "source_role": "publisher",
+      "source_domain": "tr.martincid.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-28T08:02:04.313990+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "tr.martincid.com",
+          "source_domain": "tr.martincid.com",
+          "url": "https://tr.martincid.com/tv-shows-tr/matthew-perrynin-son-yillari-netflixte-friends-kadrosu-yok-konusan-kiz-kardesi/",
+          "title": "Matthew Perry’nin Son Yılları Netflix’te: Friends kadrosu yok, konuşan kız kardeşi"
+        }
+      ],
+      "publisher_domains": [
+        "tr.martincid.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ünlü oyuncu beklenmedik anda hayata veda etmişti... Cenaze töreni de benzersiz olmuş... Herkes ağlarken kız kardeşi gülme krizine girdi",
+      "normalized_title": "unlu oyuncu beklenmedik anda hayata veda etmisti cenaze toreni de benzersiz olmus herkes aglarken kiz kardesi gulme krizine girdi",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-oyuncu-beklenmedik-bir-anda-hayata-veda-etmisti-kapali-kapilar-ardindaki-son-veda-da-benzersiz-olmus-kardesi-43351302",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-28T08:02:04.314050+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-oyuncu-beklenmedik-bir-anda-hayata-veda-etmisti-kapali-kapilar-ardindaki-son-veda-da-benzersiz-olmus-kardesi-43351302",
+          "title": "Ünlü oyuncu beklenmedik anda hayata veda etmişti... Cenaze töreni de benzersiz olmuş... Herkes ağlarken kız kardeşi gülme krizine girdi"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
     },
     {
       "title": "Çekimlere Altın Portakal molası",
@@ -788,7 +1195,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.231972+00:00",
+      "collected_at": "2026-10-28T08:02:04.314083+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -816,127 +1223,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Altın Portakal'da \"Bir Anne Hakkında\" filminin ilk gösterimi yapıldı",
-      "normalized_title": "altin portakal da bir anne hakkinda filminin ilk gosterimi yapildi",
-      "url": "https://yerel-haberler.haberturk.com/antalya-haberleri/altin-portakalda-bir-anne-hakkinda-filminin-ilk-gosterimi-yapildi-119505288",
-      "source": "yerel-haberler.haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "yerel-haberler.haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.232113+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yerel-haberler.haberturk.com",
-          "source_domain": "yerel-haberler.haberturk.com",
-          "url": "https://yerel-haberler.haberturk.com/antalya-haberleri/altin-portakalda-bir-anne-hakkinda-filminin-ilk-gosterimi-yapildi-119505288",
-          "title": "Altın Portakal'da \"Bir Anne Hakkında\" filminin ilk gösterimi yapıldı"
-        }
-      ],
-      "publisher_domains": [
-        "yerel-haberler.haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Antalya Altın Portakal Film Festivali heyecanı coşkuyla sürüyor. Jüride sürpriz değişiklik",
-      "normalized_title": "antalya altin portakal film festivali heyecani coskuyla suruyor juride surpriz degisiklik",
-      "url": "https://www.ntv.com.tr/yasam/galeri-antalya-altin-portakal-film-festivali-heyecani-coskuyla-suruyor-juride-surpriz-degisiklik-1748021",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.232212+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-antalya-altin-portakal-film-festivali-heyecani-coskuyla-suruyor-juride-surpriz-degisiklik-1748021",
-          "title": "Antalya Altın Portakal Film Festivali heyecanı coşkuyla sürüyor. Jüride sürpriz değişiklik"
-        }
-      ],
-      "publisher_domains": [
-        "ntv.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Fadik Sevin Atasoy: Biz bir araya gelebiliyorsak herkes bir araya gelebilir",
-      "normalized_title": "fadik sevin atasoy biz bir araya gelebiliyorsak herkes bir araya gelebilir",
-      "url": "https://www.dha.com.tr/yerel-haberler/antalya/fadik-sevin-atasoy-biz-bir-araya-gelebiliyorsa-2970382",
-      "source": "dha.com.tr",
-      "source_role": "publisher",
-      "source_domain": "dha.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.232288+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "dha.com.tr",
-          "source_domain": "dha.com.tr",
-          "url": "https://www.dha.com.tr/yerel-haberler/antalya/fadik-sevin-atasoy-biz-bir-araya-gelebiliyorsa-2970382",
-          "title": "Fadik Sevin Atasoy: Biz bir araya gelebiliyorsak herkes bir araya gelebilir"
-        }
-      ],
-      "publisher_domains": [
-        "dha.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Şarkıcı Nev neden vefat etti, hastalığı nedir? Nev kimdir, kaç yaşındaydı? İşte hayatı ve biyografisi",
-      "normalized_title": "sarkici nev neden vefat etti hastaligi nedir nev kimdir kac yasindaydi iste hayati ve biyografisi",
-      "url": "https://www.hurriyet.com.tr/bilgi/galeri/nev-kimdir-kac-yasindaydi-sarkici-nev-neden-vefat-etti-hastaligi-neydi-43353654/2",
+      "title": "Altın Portakal’da perde sonrası sohbet",
+      "normalized_title": "altin portakal da perde sonrasi sohbet",
+      "url": "https://www.hurriyet.com.tr/kelebek/stil/altin-portakalda-perde-sonrasi-sohbet-43357444",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.232386+00:00",
+      "collected_at": "2026-10-28T08:02:04.314205+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -944,49 +1240,12 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/bilgi/galeri/nev-kimdir-kac-yasindaydi-sarkici-nev-neden-vefat-etti-hastaligi-neydi-43353654/2",
-          "title": "Şarkıcı Nev neden vefat etti, hastalığı nedir? Nev kimdir, kaç yaşındaydı? İşte hayatı ve biyografisi"
+          "url": "https://www.hurriyet.com.tr/kelebek/stil/altin-portakalda-perde-sonrasi-sohbet-43357444",
+          "title": "Altın Portakal’da perde sonrası sohbet"
         }
       ],
       "publisher_domains": [
         "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Şarkıcı Nev hayatını kaybetti! İkinci kez entübe edilmişti",
-      "normalized_title": "sarkici nev hayatini kaybetti ikinci kez entube edilmisti",
-      "url": "https://www.ahaber.com.tr/magazin/2026/10/24/sarkici-nev-hayatini-kaybetti",
-      "source": "ahaber.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ahaber.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.232564+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ahaber.com.tr",
-          "source_domain": "ahaber.com.tr",
-          "url": "https://www.ahaber.com.tr/magazin/2026/10/24/sarkici-nev-hayatini-kaybetti",
-          "title": "Şarkıcı Nev hayatını kaybetti! İkinci kez entübe edilmişti"
-        }
-      ],
-      "publisher_domains": [
-        "ahaber.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1010,7 +1269,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.232701+00:00",
+      "collected_at": "2026-10-28T08:02:04.314241+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1047,7 +1306,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.232783+00:00",
+      "collected_at": "2026-10-28T08:02:04.314284+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1075,275 +1334,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Furkan Kızılay'dan \"motosiklete çarptı\" iddialarına yanıt",
-      "normalized_title": "furkan kizilay dan motosiklete carpti iddialarina yanit",
-      "url": "https://www.ntv.com.tr/yasam/galeri-furkan-kizilaydan-motosiklete-carpti-iddialarina-yanit-1748207",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.233027+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-furkan-kizilaydan-motosiklete-carpti-iddialarina-yanit-1748207",
-          "title": "Furkan Kızılay'dan \"motosiklete çarptı\" iddialarına yanıt"
-        }
-      ],
-      "publisher_domains": [
-        "ntv.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ünlü oyuncu motosikletli sürücüye çarptı: Yaralı gencin başından bir an ayrılmadı",
-      "normalized_title": "unlu oyuncu motosikletli surucuye carpti yarali gencin basindan bir an ayrilmadi",
-      "url": "https://www.yenisafak.com/gundem/unlu-oyuncu-motosikletli-surucuye-carpti-yarali-gencin-basindan-bir-an-ayrilmadi-4867593",
-      "source": "yenisafak.com",
-      "source_role": "publisher",
-      "source_domain": "yenisafak.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.233206+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yenisafak.com",
-          "source_domain": "yenisafak.com",
-          "url": "https://www.yenisafak.com/gundem/unlu-oyuncu-motosikletli-surucuye-carpti-yarali-gencin-basindan-bir-an-ayrilmadi-4867593",
-          "title": "Ünlü oyuncu motosikletli sürücüye çarptı: Yaralı gencin başından bir an ayrılmadı"
-        }
-      ],
-      "publisher_domains": [
-        "yenisafak.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Tiyatro oyununun galasında duyurdu: Oyuncu Güven Kıraç, Merve Topugil ile evlendi",
-      "normalized_title": "tiyatro oyununun galasinda duyurdu oyuncu guven kirac merve topugil ile evlendi",
-      "url": "https://t24.com.tr/magazin/tiyatro-oyunun-galasinda-duyurdu-oyuncu-guven-kirac-merve-topugil-ile-evlendi,1355269",
-      "source": "t24.com.tr",
-      "source_role": "publisher",
-      "source_domain": "t24.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.233365+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/magazin/tiyatro-oyunun-galasinda-duyurdu-oyuncu-guven-kirac-merve-topugil-ile-evlendi,1355269",
-          "title": "Tiyatro oyununun galasında duyurdu: Oyuncu Güven Kıraç, Merve Topugil ile evlendi"
-        }
-      ],
-      "publisher_domains": [
-        "t24.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Gençlik aşısı mı, aşk mı?",
-      "normalized_title": "genclik asisi mi ask mi",
-      "url": "https://www.sabah.com.tr/yazarlar/gunaydin/sb-mevlut_tezel/2026/10/27/genclik-asisi-mi-ask-mi",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.233423+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/yazarlar/gunaydin/sb-mevlut_tezel/2026/10/27/genclik-asisi-mi-ask-mi",
-          "title": "Gençlik aşısı mı, aşk mı?"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Sessiz sedasız evlendiler",
-      "normalized_title": "sessiz sedasiz evlendiler",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/sessiz-sedasiz-evlendiler-43354897",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.233476+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/sessiz-sedasiz-evlendiler-43354897",
-          "title": "Sessiz sedasız evlendiler"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Uğruna evliliğini bitirmişti: 30 yaş küçük sevgilisiyle evlendi",
-      "normalized_title": "ugruna evliligini bitirmisti 30 yas kucuk sevgilisiyle evlendi",
-      "url": "https://www.sozcu.com.tr/ugruna-evliligini-bitirmisti-30-yas-kucuk-sevgilisiyle-evlendi-p372446",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.233546+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/ugruna-evliligini-bitirmisti-30-yas-kucuk-sevgilisiyle-evlendi-p372446",
-          "title": "Uğruna evliliğini bitirmişti: 30 yaş küçük sevgilisiyle evlendi"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Fenomen Danla Bilic evinde rahatsızlandığı anları paylaştı İhlas Haber Ajansı",
-      "normalized_title": "fenomen danla bilic evinde rahatsizlandigi anlari paylasti ihlas haber ajansi",
-      "url": "https://www.iha.com.tr/istanbul-haberleri/fenomen-danla-bilic-evinde-rahatsizlandigi-anlari-paylasti-506850676",
-      "source": "iha.com.tr",
-      "source_role": "publisher",
-      "source_domain": "iha.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.233690+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "iha.com.tr",
-          "source_domain": "iha.com.tr",
-          "url": "https://www.iha.com.tr/istanbul-haberleri/fenomen-danla-bilic-evinde-rahatsizlandigi-anlari-paylasti-506850676",
-          "title": "Fenomen Danla Bilic evinde rahatsızlandığı anları paylaştı İhlas Haber Ajansı"
-        }
-      ],
-      "publisher_domains": [
-        "iha.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Bir Gün Önce \"İyileştim\" Demişti: Danla Bilic Evde Yaşadığı Korkutan Anları Paylaşıp Sitem Etti!",
-      "normalized_title": "bir gun once iyilestim demisti danla bilic evde yasadigi korkutan anlari paylasip sitem etti",
-      "url": "https://onedio.com/haber/bir-gun-once-iyilestim-demisti-danla-bilic-evde-yasadigi-korkutan-anlari-paylasip-sitem-etti-1391618",
+      "title": "Senarist Yazsa Bu Kadar Olmazdı! Devrim Özkan'ın Aşk Tesadüfleri Sever Hikayesi Şaşırttı!",
+      "normalized_title": "senarist yazsa bu kadar olmazdi devrim ozkan in ask tesadufleri sever hikayesi sasirtti",
+      "url": "https://onedio.com/haber/senarist-yazsa-bu-kadar-olmazdi-devrim-ozkan-in-ask-tesadufleri-sever-hikayesi-sasirtti-1391934",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-27T18:15:24.233829+00:00",
+      "collected_at": "2026-10-28T08:02:04.314416+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1351,8 +1351,8 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/bir-gun-once-iyilestim-demisti-danla-bilic-evde-yasadigi-korkutan-anlari-paylasip-sitem-etti-1391618",
-          "title": "Bir Gün Önce \"İyileştim\" Demişti: Danla Bilic Evde Yaşadığı Korkutan Anları Paylaşıp Sitem Etti!"
+          "url": "https://onedio.com/haber/senarist-yazsa-bu-kadar-olmazdi-devrim-ozkan-in-ask-tesadufleri-sever-hikayesi-sasirtti-1391934",
+          "title": "Senarist Yazsa Bu Kadar Olmazdı! Devrim Özkan'ın Aşk Tesadüfleri Sever Hikayesi Şaşırttı!"
         }
       ],
       "publisher_domains": [
