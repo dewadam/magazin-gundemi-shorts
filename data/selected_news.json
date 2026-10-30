@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T08:17:40.264833+00:00",
-  "candidate_count": 100,
+  "generated_at": "2026-10-30T13:17:11.208546+00:00",
+  "candidate_count": 99,
   "event_group_count": 50,
   "multi_publisher_event_count": 6,
   "selection_count": 3,
@@ -8,138 +8,133 @@
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Sinema dünyasından bir yıldız kaydı… Uzay Yolu efsanesi Patrick Stewart hayatını kaybetti",
-      "normalized_title": "sinema dunyasindan bir yildiz kaydi uzay yolu efsanesi patrick stewart hayatini kaybetti",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/sinema-dunyasindan-bir-yildiz-kaydi-uzay-yolu-efsanesi-patrick-stewart-hayatini-kaybetti-43360059",
+      "title": "Murat Yıldırım'ın performansına övgüler yağdı",
+      "normalized_title": "murat yildirim in performansina ovguler yagdi",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/murat-yildirimin-performansina-ovguler-yagdi-43360258",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.707439+00:00",
+      "collected_at": "2026-10-30T13:16:34.351542+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
+      "also_reported_by": [
+        {
+          "source": "milliyet.com.tr",
+          "source_role": "publisher",
+          "source_domain": "milliyet.com.tr",
+          "title": "Murat Yıldırım’ın performansına övgüler yağdı",
+          "url": "https://www.milliyet.com.tr/magazin/murat-yildirimin-performansina-ovguler-yagdi-7690451",
+          "published_at": null
+        }
+      ],
       "source_articles": [
-        {
-          "source": "bbc.com",
-          "source_domain": "bbc.com",
-          "url": "https://www.bbc.com/turkce/articles/c59vzlv9glleo",
-          "title": "Star Trek efsanesi Patrick Stewart 86 yaşında hayatını kaybetti"
-        },
-        {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/oyuncu-patrick-stewart-hayatini-kaybetti/",
-          "title": "Oyuncu Patrick Stewart hayatını kaybetti"
-        },
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/sinema-dunyasindan-bir-yildiz-kaydi-uzay-yolu-efsanesi-patrick-stewart-hayatini-kaybetti-43360059",
-          "title": "Sinema dünyasından bir yıldız kaydı… Uzay Yolu efsanesi Patrick Stewart hayatını kaybetti"
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/murat-yildirimin-performansina-ovguler-yagdi-43360258",
+          "title": "Murat Yıldırım'ın performansına övgüler yağdı"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/murat-yildirimin-performansina-ovguler-yagdi-7690451",
+          "title": "Murat Yıldırım’ın performansına övgüler yağdı"
         }
       ],
       "publisher_domains": [
-        "bbc.com",
-        "diken.com.tr",
-        "hurriyet.com.tr"
+        "hurriyet.com.tr",
+        "milliyet.com.tr"
       ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 20.0,
+      "possible_syndication": true,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Güller ve Günahlar 39.bölümüyle yayınlandı: Kanal D ile Güller ve Günahlar son bölüm izle",
+      "normalized_title": "guller ve gunahlar 39 bolumuyle yayinlandi kanal d ile guller ve gunahlar son bolum izle",
+      "url": "https://www.sabah.com.tr/yasam/guller-ve-gunahlar-39bolum-izle-kanal-d-ile-guller-ve-gunahlar-son-bolum-izle-7687680",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-30T13:16:34.351696+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "diziler.com",
+          "source_domain": "diziler.com",
+          "url": "https://www.diziler.com/fotogaleri/guller-ve-gunahlar-40-bolum-fotograflari",
+          "title": "Güller ve Günahlar 40. Bölüm Fotoğrafları"
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/yasam/guller-ve-gunahlar-39bolum-izle-kanal-d-ile-guller-ve-gunahlar-son-bolum-izle-7687680",
+          "title": "Güller ve Günahlar 39.bölümüyle yayınlandı: Kanal D ile Güller ve Günahlar son bölüm izle"
+        }
+      ],
+      "publisher_domains": [
+        "diziler.com",
+        "sabah.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "'Çukur'un Timsah Celil'i Meli Bendeli tahliye oldu: İlk açıklamasını yaptı",
-      "normalized_title": "cukur un timsah celil i meli bendeli tahliye oldu ilk aciklamasini yapti",
-      "url": "https://www.cumhuriyet.com.tr/yasam/cukur-un-timsah-celil-i-meli-bendeli-tahliye-oldu-ilk-aciklamasini-yapti-2551420",
-      "source": "cumhuriyet.com.tr",
+      "title": "Game of Thrones yıldızı Kiev'de korku dolu anlar yaşadı! Rus saldırısı tehdidiyle metroya sığındı",
+      "normalized_title": "game of thrones yildizi kiev de korku dolu anlar yasadi rus saldirisi tehdidiyle metroya sigindi",
+      "url": "https://www.bursadabugun.com/haber/game-of-thrones-yildizi-kiev-de-korku-dolu-anlar-yasadi-rus-saldirisi-tehdidiyle-metroya-sigindi-1960082.html",
+      "source": "bursadabugun.com",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "bursadabugun.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.709207+00:00",
+      "collected_at": "2026-10-30T13:16:34.352340+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/cukur-un-timsah-celil-i-meli-bendeli-tahliye-oldu-ilk-aciklamasini-yapti-2551420",
-          "title": "'Çukur'un Timsah Celil'i Meli Bendeli tahliye oldu: İlk açıklamasını yaptı"
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/haberler/game-of-thronesun-yildizi-olumle-burun-buruna-20379471-haberi/",
+          "title": "Game of Thrones'un yıldızı ölümle burun buruna! Metroya sığındı"
         },
         {
-          "source": "bianet.org",
-          "source_domain": "bianet.org",
-          "url": "https://bianet.org/haber/meli-bendeli-tahliye-edildi-iyiyim-324916",
-          "title": "Meli Bendeli tahliye edildi: “İyiyim”"
-        },
-        {
-          "source": "birgun.net",
-          "source_domain": "birgun.net",
-          "url": "https://www.birgun.net/haber/oyuncu-meli-bendeli-tahliye-edildi-743415",
-          "title": "Oyuncu Meli Bendeli tahliye edildi"
+          "source": "bursadabugun.com",
+          "source_domain": "bursadabugun.com",
+          "url": "https://www.bursadabugun.com/haber/game-of-thrones-yildizi-kiev-de-korku-dolu-anlar-yasadi-rus-saldirisi-tehdidiyle-metroya-sigindi-1960082.html",
+          "title": "Game of Thrones yıldızı Kiev'de korku dolu anlar yaşadı! Rus saldırısı tehdidiyle metroya sığındı"
         }
       ],
       "publisher_domains": [
-        "bianet.org",
-        "birgun.net",
-        "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Game of Thrones'un Jaime Lannister'ı Hava Saldırısı Alarmında Kiev Metrosundaydı: Sığınaktaki Hali Gündem Oldu",
-      "normalized_title": "game of thrones un jaime lannister i hava saldirisi alarminda kiev metrosundaydi siginaktaki hali gundem oldu",
-      "url": "https://onedio.com/haber/game-of-thrones-un-jaime-lannister-i-hava-saldirisi-alarminda-kiev-metrosundaydi-siginaktaki-hali-gundem-oldu-1392233",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.707619+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/game-of-thrones-un-jaime-lannister-i-hava-saldirisi-alarminda-kiev-metrosundaydi-siginaktaki-hali-gundem-oldu-1392233",
-          "title": "Game of Thrones'un Jaime Lannister'ı Hava Saldırısı Alarmında Kiev Metrosundaydı: Sığınaktaki Hali Gündem Oldu"
-        },
-        {
-          "source": "turkinform.com.tr",
-          "source_domain": "turkinform.com.tr",
-          "url": "https://turkinform.com.tr/game-of-thrones-oyuncusu-kievde-saldiri-alarmina-yakalandi-metrodaki-goruntuleri-gundem-oldu",
-          "title": "Game of Thrones oyuncusu Kiev’de saldırı alarmına yakalandı: Metrodaki görüntüleri gündem oldu"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com",
-        "turkinform.com.tr"
+        "bursadabugun.com",
+        "haberler.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -156,16 +151,16 @@
   ],
   "event_groups_preview": [
     {
-      "title": "Sinema dünyasından bir yıldız kaydı… Uzay Yolu efsanesi Patrick Stewart hayatını kaybetti",
-      "normalized_title": "sinema dunyasindan bir yildiz kaydi uzay yolu efsanesi patrick stewart hayatini kaybetti",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/sinema-dunyasindan-bir-yildiz-kaydi-uzay-yolu-efsanesi-patrick-stewart-hayatini-kaybetti-43360059",
-      "source": "hurriyet.com.tr",
+      "title": "Patrick Stewart kimdir, kaç yaşındaydı? Patrick Stewart neden öldü? Star Trek ve X-Men'in yıldızı hayatını kaybetti",
+      "normalized_title": "patrick stewart kimdir kac yasindaydi patrick stewart neden oldu star trek ve x men in yildizi hayatini kaybetti",
+      "url": "https://www.cnnturk.com/magazin/son-dakika-star-trek-ve-x-menin-yildizi-patrick-stewart-hayatini-kaybetti-3486437",
+      "source": "cnnturk.com",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "cnnturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.707439+00:00",
+      "collected_at": "2026-10-30T13:16:34.351397+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -183,16 +178,16 @@
           "title": "Oyuncu Patrick Stewart hayatını kaybetti"
         },
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/sinema-dunyasindan-bir-yildiz-kaydi-uzay-yolu-efsanesi-patrick-stewart-hayatini-kaybetti-43360059",
-          "title": "Sinema dünyasından bir yıldız kaydı… Uzay Yolu efsanesi Patrick Stewart hayatını kaybetti"
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/son-dakika-star-trek-ve-x-menin-yildizi-patrick-stewart-hayatini-kaybetti-3486437",
+          "title": "Patrick Stewart kimdir, kaç yaşındaydı? Patrick Stewart neden öldü? Star Trek ve X-Men'in yıldızı hayatını kaybetti"
         }
       ],
       "publisher_domains": [
         "bbc.com",
-        "diken.com.tr",
-        "hurriyet.com.tr"
+        "cnnturk.com",
+        "diken.com.tr"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -216,7 +211,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.709207+00:00",
+      "collected_at": "2026-10-30T13:16:34.353728+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -267,7 +262,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.710997+00:00",
+      "collected_at": "2026-10-30T13:16:34.354969+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -309,87 +304,45 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Güzelliği sınırları aştı! Kendall Jenner’ın eski sevgilisi Hande Erçel hayranı çıktı",
-      "normalized_title": "guzelligi sinirlari asti kendall jenner in eski sevgilisi hande ercel hayrani cikti",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/guzelligi-sinirlari-asti-kendall-jennerin-eski-sevgilisi-hande-ercel-hayrani-cikti",
-      "source": "sabah.com.tr",
+      "title": "Murat Yıldırım'ın performansına övgüler yağdı",
+      "normalized_title": "murat yildirim in performansina ovguler yagdi",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/murat-yildirimin-performansina-ovguler-yagdi-43360258",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.711663+00:00",
+      "collected_at": "2026-10-30T13:16:34.351542+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
+      "also_reported_by": [
+        {
+          "source": "milliyet.com.tr",
+          "source_role": "publisher",
+          "source_domain": "milliyet.com.tr",
+          "title": "Murat Yıldırım’ın performansına övgüler yağdı",
+          "url": "https://www.milliyet.com.tr/magazin/murat-yildirimin-performansina-ovguler-yagdi-7690451",
+          "published_at": null
+        }
+      ],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/kendall-jenner-in-eski-sevgilisinden-hande-ercel-e-surpriz-hamle-1392002",
-          "title": "Kendall Jenner’ın Eski Sevgilisinden Hande Erçel’e Sürpriz Hamle!"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/murat-yildirimin-performansina-ovguler-yagdi-43360258",
+          "title": "Murat Yıldırım'ın performansına övgüler yağdı"
         },
         {
           "source": "milliyet.com.tr",
           "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/kendall-jennerin-eski-sevgilisinden-hande-ercel-hamlesi-7689993",
-          "title": "Kendall Jenner'ın eski sevgilisinden Hande Erçel hamlesi"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/guzelligi-sinirlari-asti-kendall-jennerin-eski-sevgilisi-hande-ercel-hayrani-cikti",
-          "title": "Güzelliği sınırları aştı! Kendall Jenner’ın eski sevgilisi Hande Erçel hayranı çıktı"
+          "url": "https://www.milliyet.com.tr/magazin/murat-yildirimin-performansina-ovguler-yagdi-7690451",
+          "title": "Murat Yıldırım’ın performansına övgüler yağdı"
         }
       ],
       "publisher_domains": [
-        "milliyet.com.tr",
-        "onedio.com",
-        "sabah.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Game of Thrones'un Jaime Lannister'ı Hava Saldırısı Alarmında Kiev Metrosundaydı: Sığınaktaki Hali Gündem Oldu",
-      "normalized_title": "game of thrones un jaime lannister i hava saldirisi alarminda kiev metrosundaydi siginaktaki hali gundem oldu",
-      "url": "https://onedio.com/haber/game-of-thrones-un-jaime-lannister-i-hava-saldirisi-alarminda-kiev-metrosundaydi-siginaktaki-hali-gundem-oldu-1392233",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.707619+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/game-of-thrones-un-jaime-lannister-i-hava-saldirisi-alarminda-kiev-metrosundaydi-siginaktaki-hali-gundem-oldu-1392233",
-          "title": "Game of Thrones'un Jaime Lannister'ı Hava Saldırısı Alarmında Kiev Metrosundaydı: Sığınaktaki Hali Gündem Oldu"
-        },
-        {
-          "source": "turkinform.com.tr",
-          "source_domain": "turkinform.com.tr",
-          "url": "https://turkinform.com.tr/game-of-thrones-oyuncusu-kievde-saldiri-alarmina-yakalandi-metrodaki-goruntuleri-gundem-oldu",
-          "title": "Game of Thrones oyuncusu Kiev’de saldırı alarmına yakalandı: Metrodaki görüntüleri gündem oldu"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com",
-        "turkinform.com.tr"
+        "hurriyet.com.tr",
+        "milliyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -398,42 +351,42 @@
       "latest_published_at": null,
       "age_hours": 48.0,
       "popularity_score": 20.0,
-      "possible_syndication": false,
+      "possible_syndication": true,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "İmajını yenileyen Hafsanur Sancaktutan Matrix’teki karaktere benzetildi!",
-      "normalized_title": "imajini yenileyen hafsanur sancaktutan matrix teki karaktere benzetildi",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/imajini-yenileyen-hafsanur-sancaktutan-matrixteki-karaktere-benzetildi",
+      "title": "Güller ve Günahlar 39.bölümüyle yayınlandı: Kanal D ile Güller ve Günahlar son bölüm izle",
+      "normalized_title": "guller ve gunahlar 39 bolumuyle yayinlandi kanal d ile guller ve gunahlar son bolum izle",
+      "url": "https://www.sabah.com.tr/yasam/guller-ve-gunahlar-39bolum-izle-kanal-d-ile-guller-ve-gunahlar-son-bolum-izle-7687680",
       "source": "sabah.com.tr",
       "source_role": "publisher",
       "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.708136+00:00",
+      "collected_at": "2026-10-30T13:16:34.351696+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/imajini-yenileyen-hafsanur-sancaktutan-matrixteki-karaktere-benzetildi",
-          "title": "İmajını yenileyen Hafsanur Sancaktutan Matrix’teki karaktere benzetildi!"
+          "source": "diziler.com",
+          "source_domain": "diziler.com",
+          "url": "https://www.diziler.com/fotogaleri/guller-ve-gunahlar-40-bolum-fotograflari",
+          "title": "Güller ve Günahlar 40. Bölüm Fotoğrafları"
         },
         {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/magazin/unlu-oyuncu-hafsanur-sancaktutan-imajini-degistirdi,1356011",
-          "title": "Ünlü oyuncu Hafsanur Sancaktutan imajını değiştirdi"
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/yasam/guller-ve-gunahlar-39bolum-izle-kanal-d-ile-guller-ve-gunahlar-son-bolum-izle-7687680",
+          "title": "Güller ve Günahlar 39.bölümüyle yayınlandı: Kanal D ile Güller ve Günahlar son bölüm izle"
         }
       ],
       "publisher_domains": [
-        "sabah.com.tr",
-        "t24.com.tr"
+        "diziler.com",
+        "sabah.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -446,117 +399,6 @@
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "\"Friends\" oyuncuları Matthew Perry belgeselinde neden yer almadı?",
-      "normalized_title": "friends oyunculari matthew perry belgeselinde neden yer almadi",
-      "url": "https://gazeteoksijen.com/o2/friends-oyunculari-matthew-perry-belgeselinde-neden-yer-almadi-294192",
-      "source": "gazeteoksijen.com",
-      "source_role": "publisher",
-      "source_domain": "gazeteoksijen.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.711732+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "gazeteoksijen.com",
-          "source_domain": "gazeteoksijen.com",
-          "url": "https://gazeteoksijen.com/o2/friends-oyunculari-matthew-perry-belgeselinde-neden-yer-almadi-294192",
-          "title": "\"Friends\" oyuncuları Matthew Perry belgeselinde neden yer almadı?"
-        }
-      ],
-      "publisher_domains": [
-        "gazeteoksijen.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 2,
-      "discovery_item_count": 1,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.5,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Shakespeare tiyatrosundan bilimkurgulara uzanan kariyer: Patrick Stewart hayatını kaybetti",
-      "normalized_title": "shakespeare tiyatrosundan bilimkurgulara uzanan kariyer patrick stewart hayatini kaybetti",
-      "url": "https://www.evrensel.net/haber/6007195/shakespeare-tiyatrosundan-bilimkurgulara-uzanan-kariyer-patrick-stewart-hayatini-kaybetti",
-      "source": "evrensel.net",
-      "source_role": "publisher",
-      "source_domain": "evrensel.net",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.707521+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "evrensel.net",
-          "source_domain": "evrensel.net",
-          "url": "https://www.evrensel.net/haber/6007195/shakespeare-tiyatrosundan-bilimkurgulara-uzanan-kariyer-patrick-stewart-hayatini-kaybetti",
-          "title": "Shakespeare tiyatrosundan bilimkurgulara uzanan kariyer: Patrick Stewart hayatını kaybetti"
-        }
-      ],
-      "publisher_domains": [
-        "evrensel.net"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Game of Thrones'un yıldızı ölümle burun buruna! Sığınakta görüntülendi",
-      "normalized_title": "game of thrones un yildizi olumle burun buruna siginakta goruntulendi",
-      "url": "https://www.sondakika.com/haber/haber-game-of-thronesun-yildizi-olumle-burun-buruna-20379472/",
-      "source": "sondakika.com",
-      "source_role": "publisher",
-      "source_domain": "sondakika.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.707704+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sondakika.com",
-          "source_domain": "sondakika.com",
-          "url": "https://www.sondakika.com/haber/haber-game-of-thronesun-yildizi-olumle-burun-buruna-20379472/",
-          "title": "Game of Thrones'un yıldızı ölümle burun buruna! Sığınakta görüntülendi"
-        }
-      ],
-      "publisher_domains": [
-        "sondakika.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
     },
     {
       "title": "Game of Thrones yıldızı Kiev'de korku dolu anlar yaşadı! Rus saldırısı tehdidiyle metroya sığındı",
@@ -568,11 +410,17 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.707828+00:00",
+      "collected_at": "2026-10-30T13:16:34.352340+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
+        {
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/haberler/game-of-thronesun-yildizi-olumle-burun-buruna-20379471-haberi/",
+          "title": "Game of Thrones'un yıldızı ölümle burun buruna! Metroya sığındı"
+        },
         {
           "source": "bursadabugun.com",
           "source_domain": "bursadabugun.com",
@@ -581,105 +429,32 @@
         }
       ],
       "publisher_domains": [
-        "bursadabugun.com"
+        "bursadabugun.com",
+        "haberler.com"
       ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 10.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "single_publisher"
+      "coverage_label": "multi_publisher"
     },
     {
-      "title": "Melek Uçan Gökkaya Vefat Etti",
-      "normalized_title": "melek ucan gokkaya vefat etti",
-      "url": "https://www.yesilafsin.com/melek-ucan-gokkaya-vefat-etti",
-      "source": "yesilafsin.com",
-      "source_role": "publisher",
-      "source_domain": "yesilafsin.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.707986+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yesilafsin.com",
-          "source_domain": "yesilafsin.com",
-          "url": "https://www.yesilafsin.com/melek-ucan-gokkaya-vefat-etti",
-          "title": "Melek Uçan Gökkaya Vefat Etti"
-        }
-      ],
-      "publisher_domains": [
-        "yesilafsin.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yeni İmajıyla Sınıfta Kalan Hafsanur Sancaktutan Bakın Kendini Kime Benzetti!",
-      "normalized_title": "yeni imajiyla sinifta kalan hafsanur sancaktutan bakin kendini kime benzetti",
-      "url": "https://onedio.com/haber/yeni-imajiyla-sinifta-kalan-hafsanur-sancaktutan-bakin-kendini-kime-benzetti-1392199",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.708062+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/yeni-imajiyla-sinifta-kalan-hafsanur-sancaktutan-bakin-kendini-kime-benzetti-1392199",
-          "title": "Yeni İmajıyla Sınıfta Kalan Hafsanur Sancaktutan Bakın Kendini Kime Benzetti!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Dizisi biter bitmez imaj değiştirdi! Hafsanur Sancaktutan bu defa şaşırttı",
-      "normalized_title": "dizisi biter bitmez imaj degistirdi hafsanur sancaktutan bu defa sasirtti",
-      "url": "https://www.mynet.com/magazin/dizisi-biter-bitmez-imaj-degistirdi-hafsanur-sancaktutan-bu-defa-sasirtti-130100605716",
+      "title": "Jack Nicholson her şeyi bırakıp sessizliğe gömüldü! Yakın dostu açıkladı",
+      "normalized_title": "jack nicholson her seyi birakip sessizlige gomuldu yakin dostu acikladi",
+      "url": "https://www.mynet.com/magazin/jack-nicholson-her-seyi-birakip-sessizlige-gomuldu-yakin-dostu-acikladi-130100605671",
       "source": "mynet.com",
       "source_role": "publisher",
       "source_domain": "mynet.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.708276+00:00",
+      "collected_at": "2026-10-30T13:16:34.352613+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -687,36 +462,43 @@
         {
           "source": "mynet.com",
           "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/dizisi-biter-bitmez-imaj-degistirdi-hafsanur-sancaktutan-bu-defa-sasirtti-130100605716",
-          "title": "Dizisi biter bitmez imaj değiştirdi! Hafsanur Sancaktutan bu defa şaşırttı"
+          "url": "https://www.mynet.com/magazin/jack-nicholson-her-seyi-birakip-sessizlige-gomuldu-yakin-dostu-acikladi-130100605671",
+          "title": "Jack Nicholson her şeyi bırakıp sessizliğe gömüldü! Yakın dostu açıkladı"
+        },
+        {
+          "source": "gazetegercek.com.tr",
+          "source_domain": "gazetegercek.com.tr",
+          "url": "https://www.gazetegercek.com.tr/jack-nicholson-her-seyi-birakti-dostu-acikladi/242294",
+          "title": "Jack Nicholson her şeyi bıraktı! Dostu açıkladı"
         }
       ],
       "publisher_domains": [
+        "gazetegercek.com.tr",
         "mynet.com"
       ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 10.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "single_publisher"
+      "coverage_label": "multi_publisher"
     },
     {
-      "title": "Murat Yıldırım'dan Tokyo çıkarması",
-      "normalized_title": "murat yildirim dan tokyo cikarmasi",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/murat-yildirimdan-tokyo-cikarmasi-43359860",
+      "title": "Sinema dünyasından bir yıldız kaydı… Uzay Yolu efsanesi Patrick Stewart hayatını kaybetti",
+      "normalized_title": "sinema dunyasindan bir yildiz kaydi uzay yolu efsanesi patrick stewart hayatini kaybetti",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/sinema-dunyasindan-bir-yildiz-kaydi-uzay-yolu-efsanesi-patrick-stewart-hayatini-kaybetti-43360059",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.708335+00:00",
+      "collected_at": "2026-10-30T13:16:34.351480+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -724,123 +506,12 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/murat-yildirimdan-tokyo-cikarmasi-43359860",
-          "title": "Murat Yıldırım'dan Tokyo çıkarması"
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/sinema-dunyasindan-bir-yildiz-kaydi-uzay-yolu-efsanesi-patrick-stewart-hayatini-kaybetti-43360059",
+          "title": "Sinema dünyasından bir yıldız kaydı… Uzay Yolu efsanesi Patrick Stewart hayatını kaybetti"
         }
       ],
       "publisher_domains": [
         "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Tokyo’da yağmura yakalandı",
-      "normalized_title": "tokyo da yagmura yakalandi",
-      "url": "https://www.posta.com.tr/magazin/tokyoda-yagmura-yakalandi-3058461",
-      "source": "posta.com.tr",
-      "source_role": "publisher",
-      "source_domain": "posta.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.708389+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "posta.com.tr",
-          "source_domain": "posta.com.tr",
-          "url": "https://www.posta.com.tr/magazin/tokyoda-yagmura-yakalandi-3058461",
-          "title": "Tokyo’da yağmura yakalandı"
-        }
-      ],
-      "publisher_domains": [
-        "posta.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Tokyo Film Festivali direktörü Takeo Hisamatsu, Japon sineması için daha fazla para ve parti istiyor",
-      "normalized_title": "tokyo film festivali direktoru takeo hisamatsu japon sinemasi icin daha fazla para ve parti istiyor",
-      "url": "https://tr.martincid.com/movies-tr/takeo-hisamatsu-tokyo-film-festivali-daha-fazla-para-parti/",
-      "source": "tr.martincid.com",
-      "source_role": "publisher",
-      "source_domain": "tr.martincid.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.708477+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "tr.martincid.com",
-          "source_domain": "tr.martincid.com",
-          "url": "https://tr.martincid.com/movies-tr/takeo-hisamatsu-tokyo-film-festivali-daha-fazla-para-parti/",
-          "title": "Tokyo Film Festivali direktörü Takeo Hisamatsu, Japon sineması için daha fazla para ve parti istiyor"
-        }
-      ],
-      "publisher_domains": [
-        "tr.martincid.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Dünyada bu hafta birçok etkinlik sanatseverlerle buluşacak",
-      "normalized_title": "dunyada bu hafta bircok etkinlik sanatseverlerle bulusacak",
-      "url": "https://www.aa.com.tr/tr/kultur/dunyada-bu-hafta-bircok-etkinlik-sanatseverlerle-bulusacak/4100926",
-      "source": "aa.com.tr",
-      "source_role": "publisher",
-      "source_domain": "aa.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.708544+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "aa.com.tr",
-          "source_domain": "aa.com.tr",
-          "url": "https://www.aa.com.tr/tr/kultur/dunyada-bu-hafta-bircok-etkinlik-sanatseverlerle-bulusacak/4100926",
-          "title": "Dünyada bu hafta birçok etkinlik sanatseverlerle buluşacak"
-        }
-      ],
-      "publisher_domains": [
-        "aa.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -864,7 +535,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.708611+00:00",
+      "collected_at": "2026-10-30T13:16:34.351823+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -892,29 +563,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Bakanımız Sayın Yusuf Tekin'in 29 Ekim Cumhuriyet Bayramı Mesajı",
-      "normalized_title": "bakanimiz sayin yusuf tekin in 29 ekim cumhuriyet bayrami mesaji",
-      "url": "https://ookgm.meb.gov.tr/www/bakanimiz-sayin-yusuf-tekin039in-29-ekim-cumhuriyet-bayrami-mesaji/icerik/2358/tr",
-      "source": "ookgm.meb.gov.tr",
+      "title": "Derneklerimiz, Cumhuriyet Bayramımızı büyük bir coşkuyla kutladı",
+      "normalized_title": "derneklerimiz cumhuriyet bayramimizi buyuk bir coskuyla kutladi",
+      "url": "https://www.fenerbahce.org/haberler/dernekler/2026/10/derneklerimiz-cumhuriyet-bayramimizi-buyuk-bir-coskuyla-kutladi",
+      "source": "fenerbahce.org",
       "source_role": "publisher",
-      "source_domain": "ookgm.meb.gov.tr",
+      "source_domain": "fenerbahce.org",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.708680+00:00",
+      "collected_at": "2026-10-30T13:16:34.351889+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ookgm.meb.gov.tr",
-          "source_domain": "ookgm.meb.gov.tr",
-          "url": "https://ookgm.meb.gov.tr/www/bakanimiz-sayin-yusuf-tekin039in-29-ekim-cumhuriyet-bayrami-mesaji/icerik/2358/tr",
-          "title": "Bakanımız Sayın Yusuf Tekin'in 29 Ekim Cumhuriyet Bayramı Mesajı"
+          "source": "fenerbahce.org",
+          "source_domain": "fenerbahce.org",
+          "url": "https://www.fenerbahce.org/haberler/dernekler/2026/10/derneklerimiz-cumhuriyet-bayramimizi-buyuk-bir-coskuyla-kutladi",
+          "title": "Derneklerimiz, Cumhuriyet Bayramımızı büyük bir coşkuyla kutladı"
         }
       ],
       "publisher_domains": [
-        "ookgm.meb.gov.tr"
+        "fenerbahce.org"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -929,16 +600,53 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Balıkesir Emir Can İğrek'in şarkılarıyla coştu",
-      "normalized_title": "balikesir emir can igrek in sarkilariyla costu",
-      "url": "https://yerel-haberler.haberturk.com/balikesir-haberleri/balikesir-emir-can-igrekin-sarkilariyla-costu-119507701",
+      "title": "ÜNİFEB Mezunlar Derneği, Cumhuriyet'in 103. yılını Fenerbahçe camiasıyla kutladı",
+      "normalized_title": "unifeb mezunlar dernegi cumhuriyet in 103 yilini fenerbahce camiasiyla kutladi",
+      "url": "https://www.aa.com.tr/tr/spor/unifeb-mezunlar-dernegi-cumhuriyetin-103-yilini-fenerbahce-camiasiyla-kutladi/4105428",
+      "source": "aa.com.tr",
+      "source_role": "publisher",
+      "source_domain": "aa.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-30T13:16:34.351976+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "aa.com.tr",
+          "source_domain": "aa.com.tr",
+          "url": "https://www.aa.com.tr/tr/spor/unifeb-mezunlar-dernegi-cumhuriyetin-103-yilini-fenerbahce-camiasiyla-kutladi/4105428",
+          "title": "ÜNİFEB Mezunlar Derneği, Cumhuriyet'in 103. yılını Fenerbahçe camiasıyla kutladı"
+        }
+      ],
+      "publisher_domains": [
+        "aa.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "1966 Turanspor'dan Cumhuriyet Bayramı'nda anlamlı mesaj",
+      "normalized_title": "1966 turanspor dan cumhuriyet bayrami nda anlamli mesaj",
+      "url": "https://yerel-haberler.haberturk.com/kayseri-haberleri/1966-turanspordan-cumhuriyet-bayraminda-anlamli-mesaj-119507528",
       "source": "yerel-haberler.haberturk.com",
       "source_role": "publisher",
       "source_domain": "yerel-haberler.haberturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.708749+00:00",
+      "collected_at": "2026-10-30T13:16:34.352032+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -946,8 +654,8 @@
         {
           "source": "yerel-haberler.haberturk.com",
           "source_domain": "yerel-haberler.haberturk.com",
-          "url": "https://yerel-haberler.haberturk.com/balikesir-haberleri/balikesir-emir-can-igrekin-sarkilariyla-costu-119507701",
-          "title": "Balıkesir Emir Can İğrek'in şarkılarıyla coştu"
+          "url": "https://yerel-haberler.haberturk.com/kayseri-haberleri/1966-turanspordan-cumhuriyet-bayraminda-anlamli-mesaj-119507528",
+          "title": "1966 Turanspor'dan Cumhuriyet Bayramı'nda anlamlı mesaj"
         }
       ],
       "publisher_domains": [
@@ -966,29 +674,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Başkan Büyükkılıç, Cumhuriyetin 103. Yıl Coşkusunu Resepsiyonda Paylaştı",
-      "normalized_title": "baskan buyukkilic cumhuriyetin 103 yil coskusunu resepsiyonda paylasti",
-      "url": "https://www.kayseri.bel.tr/haberler/baskan-buyukkilic-cumhuriyetin-103-yil-coskusunu-resepsiyonda-paylasti3317133171",
-      "source": "kayseri.bel.tr",
+      "title": "Game of Thrones'un Jaime Lannister'ı Hava Saldırısı Alarmında Kiev Metrosundaydı: Sığınaktaki Hali Gündem Oldu",
+      "normalized_title": "game of thrones un jaime lannister i hava saldirisi alarminda kiev metrosundaydi siginaktaki hali gundem oldu",
+      "url": "https://onedio.com/haber/game-of-thrones-un-jaime-lannister-i-hava-saldirisi-alarminda-kiev-metrosundaydi-siginaktaki-hali-gundem-oldu-1392233",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "kayseri.bel.tr",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.708848+00:00",
+      "collected_at": "2026-10-30T13:16:34.352115+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "kayseri.bel.tr",
-          "source_domain": "kayseri.bel.tr",
-          "url": "https://www.kayseri.bel.tr/haberler/baskan-buyukkilic-cumhuriyetin-103-yil-coskusunu-resepsiyonda-paylasti3317133171",
-          "title": "Başkan Büyükkılıç, Cumhuriyetin 103. Yıl Coşkusunu Resepsiyonda Paylaştı"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/game-of-thrones-un-jaime-lannister-i-hava-saldirisi-alarminda-kiev-metrosundaydi-siginaktaki-hali-gundem-oldu-1392233",
+          "title": "Game of Thrones'un Jaime Lannister'ı Hava Saldırısı Alarmında Kiev Metrosundaydı: Sığınaktaki Hali Gündem Oldu"
         }
       ],
       "publisher_domains": [
-        "kayseri.bel.tr"
+        "onedio.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1003,29 +711,362 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Magazin dünyasında neler oluyor?",
-      "normalized_title": "magazin dunyasinda neler oluyor",
-      "url": "https://www.hurriyet.com.tr/galeri-magazin-dunyasinda-neler-oluyor-43359707",
-      "source": "hurriyet.com.tr",
+      "title": "Game of Thrones yıldızı sirenler çalınca metro istasyonuna sığındı, katlanır yatakta sabahladı",
+      "normalized_title": "game of thrones yildizi sirenler calinca metro istasyonuna sigindi katlanir yatakta sabahladi",
+      "url": "https://www.ntv.com.tr/dunya/galeri-game-of-thrones-yildizi-sirenler-calinca-metro-istasyonuna-sigindi-katlanir-yatakta-sabahladi-1748607",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.708906+00:00",
+      "collected_at": "2026-10-30T13:16:34.352193+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/galeri-magazin-dunyasinda-neler-oluyor-43359707",
-          "title": "Magazin dünyasında neler oluyor?"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/dunya/galeri-game-of-thrones-yildizi-sirenler-calinca-metro-istasyonuna-sigindi-katlanir-yatakta-sabahladi-1748607",
+          "title": "Game of Thrones yıldızı sirenler çalınca metro istasyonuna sığındı, katlanır yatakta sabahladı"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
+        "ntv.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Acun Ilıcalı kızıyla yarıştı: Kazanan şaşırttı",
+      "normalized_title": "acun ilicali kiziyla yaristi kazanan sasirtti",
+      "url": "https://www.odatv.com/magazin/acun-ilicali-kizi-melisayla-yaristi-sarki-yarismasinin-kazanani-belli-oldu-120168912",
+      "source": "odatv.com",
+      "source_role": "publisher",
+      "source_domain": "odatv.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-30T13:16:34.352396+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/acun-ilicali-kizi-melisayla-yaristi-sarki-yarismasinin-kazanani-belli-oldu-120168912",
+          "title": "Acun Ilıcalı kızıyla yarıştı: Kazanan şaşırttı"
+        }
+      ],
+      "publisher_domains": [
+        "odatv.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "89 Yaşındaki Jack Nicholson Gözlerden Uzak Yaşıyor! Yakın Dostu Son Durumunu Anlattı",
+      "normalized_title": "89 yasindaki jack nicholson gozlerden uzak yasiyor yakin dostu son durumunu anlatti",
+      "url": "https://onedio.com/haber/jack-nicholson-artik-calismiyor-mu-yakin-dostu-michael-douglas-son-durumunu-anlatti-1392330",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-30T13:16:34.352467+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/jack-nicholson-artik-calismiyor-mu-yakin-dostu-michael-douglas-son-durumunu-anlatti-1392330",
+          "title": "89 Yaşındaki Jack Nicholson Gözlerden Uzak Yaşıyor! Yakın Dostu Son Durumunu Anlattı"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Milyonların sevgilisiydi, sırra kadem bastı! 89 yaşındaki yıldız bir daha görünmeyecek…",
+      "normalized_title": "milyonlarin sevgilisiydi sirra kadem basti 89 yasindaki yildiz bir daha gorunmeyecek",
+      "url": "https://www.sabah.com.tr/magazin/milyonlarin-sevgilisiydi-sirra-kadem-basti-89-yasindaki-yildiz-bir-daha-gorunmeyecek-7691539",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-30T13:16:34.352548+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/magazin/milyonlarin-sevgilisiydi-sirra-kadem-basti-89-yasindaki-yildiz-bir-daha-gorunmeyecek-7691539",
+          "title": "Milyonların sevgilisiydi, sırra kadem bastı! 89 yaşındaki yıldız bir daha görünmeyecek…"
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "63 Kilo Verip Bambaşka Biri Oldu! Ünlü Oyuncunun Son Hali Şaşırttı",
+      "normalized_title": "63 kilo verip bambaska biri oldu unlu oyuncunun son hali sasirtti",
+      "url": "https://onedio.com/haber/63-kilo-verip-bambaska-biri-oldu-unlu-oyuncunun-son-hali-sasirtti-1392251",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-30T13:16:34.352730+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/63-kilo-verip-bambaska-biri-oldu-unlu-oyuncunun-son-hali-sasirtti-1392251",
+          "title": "63 Kilo Verip Bambaşka Biri Oldu! Ünlü Oyuncunun Son Hali Şaşırttı"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ünlü oyuncu Daisy May Cooper 24 bedenden 10 bedene düştü",
+      "normalized_title": "unlu oyuncu daisy may cooper 24 bedenden 10 bedene dustu",
+      "url": "https://www.sondakika.com/magazin/haber-unlu-oyuncu-daisy-may-cooper-24-bedenden-10-20375481/",
+      "source": "sondakika.com",
+      "source_role": "publisher",
+      "source_domain": "sondakika.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-30T13:16:34.352809+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/magazin/haber-unlu-oyuncu-daisy-may-cooper-24-bedenden-10-20375481/",
+          "title": "Ünlü oyuncu Daisy May Cooper 24 bedenden 10 bedene düştü"
+        }
+      ],
+      "publisher_domains": [
+        "sondakika.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Daisy May Cooper'ın büyük değişimi! 63 kilo verdi, yaşadığı sağlık sorunu şaşırttı",
+      "normalized_title": "daisy may cooper in buyuk degisimi 63 kilo verdi yasadigi saglik sorunu sasirtti",
+      "url": "https://www.bursadabugun.com/haber/daisy-may-cooper-in-buyuk-degisimi-63-kilo-verdi-yasadigi-saglik-sorunu-sasirtti-1959822.html",
+      "source": "bursadabugun.com",
+      "source_role": "publisher",
+      "source_domain": "bursadabugun.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-30T13:16:34.352881+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "bursadabugun.com",
+          "source_domain": "bursadabugun.com",
+          "url": "https://www.bursadabugun.com/haber/daisy-may-cooper-in-buyuk-degisimi-63-kilo-verdi-yasadigi-saglik-sorunu-sasirtti-1959822.html",
+          "title": "Daisy May Cooper'ın büyük değişimi! 63 kilo verdi, yaşadığı sağlık sorunu şaşırttı"
+        }
+      ],
+      "publisher_domains": [
+        "bursadabugun.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "This Country dizisinin yıldızı Daisy May Cooper'ın son hali görenleri şaşkına çevirdi!",
+      "normalized_title": "this country dizisinin yildizi daisy may cooper in son hali gorenleri saskina cevirdi",
+      "url": "https://www.posta.com.tr/galeri/this-country-dizisinin-yildizi-daisy-may-cooperin-son-hali-gorenleri-saskina-cevirdi-3058739",
+      "source": "posta.com.tr",
+      "source_role": "publisher",
+      "source_domain": "posta.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-30T13:16:34.352969+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "posta.com.tr",
+          "source_domain": "posta.com.tr",
+          "url": "https://www.posta.com.tr/galeri/this-country-dizisinin-yildizi-daisy-may-cooperin-son-hali-gorenleri-saskina-cevirdi-3058739",
+          "title": "This Country dizisinin yıldızı Daisy May Cooper'ın son hali görenleri şaşkına çevirdi!"
+        }
+      ],
+      "publisher_domains": [
+        "posta.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Melek Uçan Gökkaya Vefat Etti",
+      "normalized_title": "melek ucan gokkaya vefat etti",
+      "url": "https://www.yesilafsin.com/melek-ucan-gokkaya-vefat-etti",
+      "source": "yesilafsin.com",
+      "source_role": "publisher",
+      "source_domain": "yesilafsin.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-30T13:16:34.353020+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yesilafsin.com",
+          "source_domain": "yesilafsin.com",
+          "url": "https://www.yesilafsin.com/melek-ucan-gokkaya-vefat-etti",
+          "title": "Melek Uçan Gökkaya Vefat Etti"
+        }
+      ],
+      "publisher_domains": [
+        "yesilafsin.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Selçuk Yöntem'in Süper Baba Yıllarındaki Sinema Anısı Gündem Oldu: Hayranına Mahcup Olmuş!",
+      "normalized_title": "selcuk yontem in super baba yillarindaki sinema anisi gundem oldu hayranina mahcup olmus",
+      "url": "https://onedio.com/haber/selcuk-yontem-in-super-baba-yillarindaki-sinema-anisi-gundem-oldu-hayranina-mahcup-olmus-1392302",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-10-30T13:16:34.353096+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/selcuk-yontem-in-super-baba-yillarindaki-sinema-anisi-gundem-oldu-hayranina-mahcup-olmus-1392302",
+          "title": "Selçuk Yöntem'in Süper Baba Yıllarındaki Sinema Anısı Gündem Oldu: Hayranına Mahcup Olmuş!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1049,7 +1090,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.708965+00:00",
+      "collected_at": "2026-10-30T13:16:34.353148+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1077,43 +1118,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Ata Demirer: İnsan gibi olmaz",
-      "normalized_title": "ata demirer insan gibi olmaz",
-      "url": "https://www.haberturk.com/kesfet/ata-demirer-insan-gibi-olmaz-3923518",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.709019+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/kesfet/ata-demirer-insan-gibi-olmaz-3923518",
-          "title": "Ata Demirer: İnsan gibi olmaz"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "‘Hikâye 3-4 yıl sürdü’",
       "normalized_title": "hikaye 3 4 yil surdu",
       "url": "https://www.milliyet.com.tr/magazin/hikaye-3-4-yil-surdu-7690452",
@@ -1123,7 +1127,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.709074+00:00",
+      "collected_at": "2026-10-30T13:16:34.353195+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1151,29 +1155,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "‘Şifanur’la tıpatıp aynıyız’",
-      "normalized_title": "sifanur la tipatip ayniyiz",
-      "url": "https://www.sabah.com.tr/magazin/sifanurla-tipatip-ayniyiz-7691087",
-      "source": "sabah.com.tr",
+      "title": "Ayvalık'ta Sıcak Bir Melodram: Ata Demirer, Dokuzuncu Filmi \"Pervaneler\"in Setinde Basınla Buluştu!",
+      "normalized_title": "ayvalik ta sicak bir melodram ata demirer dokuzuncu filmi pervaneler in setinde basinla bulustu",
+      "url": "https://www.beyazperde.com/galerileri/filmler/galerileri-1000229823/",
+      "source": "beyazperde.com",
       "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
+      "source_domain": "beyazperde.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.709130+00:00",
+      "collected_at": "2026-10-30T13:16:34.353271+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/sifanurla-tipatip-ayniyiz-7691087",
-          "title": "‘Şifanur’la tıpatıp aynıyız’"
+          "source": "beyazperde.com",
+          "source_domain": "beyazperde.com",
+          "url": "https://www.beyazperde.com/galerileri/filmler/galerileri-1000229823/",
+          "title": "Ayvalık'ta Sıcak Bir Melodram: Ata Demirer, Dokuzuncu Filmi \"Pervaneler\"in Setinde Basınla Buluştu!"
         }
       ],
       "publisher_domains": [
-        "sabah.com.tr"
+        "beyazperde.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1188,29 +1192,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Müstehcenlik suçlamasıyla tutuklanmıştı! Meli Bendeli tahliye oldu, ilk paylaşım geldi",
-      "normalized_title": "mustehcenlik suclamasiyla tutuklanmisti meli bendeli tahliye oldu ilk paylasim geldi",
-      "url": "https://www.posta.com.tr/galeri/mustehcenlik-suclamasiyla-tutuklanmisti-meli-bendeli-tahliye-oldu-ilk-paylasim-geldi-3058411",
-      "source": "posta.com.tr",
+      "title": "Ata Demirer: İnsan gibi olmaz",
+      "normalized_title": "ata demirer insan gibi olmaz",
+      "url": "https://www.haberturk.com/kesfet/ata-demirer-insan-gibi-olmaz-3923518",
+      "source": "haberturk.com",
       "source_role": "publisher",
-      "source_domain": "posta.com.tr",
+      "source_domain": "haberturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.709397+00:00",
+      "collected_at": "2026-10-30T13:16:34.353316+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "posta.com.tr",
-          "source_domain": "posta.com.tr",
-          "url": "https://www.posta.com.tr/galeri/mustehcenlik-suclamasiyla-tutuklanmisti-meli-bendeli-tahliye-oldu-ilk-paylasim-geldi-3058411",
-          "title": "Müstehcenlik suçlamasıyla tutuklanmıştı! Meli Bendeli tahliye oldu, ilk paylaşım geldi"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/kesfet/ata-demirer-insan-gibi-olmaz-3923518",
+          "title": "Ata Demirer: İnsan gibi olmaz"
         }
       ],
       "publisher_domains": [
-        "posta.com.tr"
+        "haberturk.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1225,29 +1229,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Javier Bardem: Kendimi sansürleyemem",
-      "normalized_title": "javier bardem kendimi sansurleyemem",
-      "url": "https://gazeteoksijen.com/ekran/javier-bardem-kendimi-sansurleyemem-294351",
-      "source": "gazeteoksijen.com",
+      "title": "Magazin dünyasında neler oluyor?",
+      "normalized_title": "magazin dunyasinda neler oluyor",
+      "url": "https://www.hurriyet.com.tr/galeri-magazin-dunyasinda-neler-oluyor-43359707",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "gazeteoksijen.com",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.709453+00:00",
+      "collected_at": "2026-10-30T13:16:34.353364+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "gazeteoksijen.com",
-          "source_domain": "gazeteoksijen.com",
-          "url": "https://gazeteoksijen.com/ekran/javier-bardem-kendimi-sansurleyemem-294351",
-          "title": "Javier Bardem: Kendimi sansürleyemem"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/galeri-magazin-dunyasinda-neler-oluyor-43359707",
+          "title": "Magazin dünyasında neler oluyor?"
         }
       ],
       "publisher_domains": [
-        "gazeteoksijen.com"
+        "hurriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1262,29 +1266,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Kırmızı Halıya Elbise Değil Sanat Eseriyle Çıktı! McKenna Grace'in Açlık Oyunları Temalı Elbisesi Viral Oldu",
-      "normalized_title": "kirmizi haliya elbise degil sanat eseriyle cikti mckenna grace in aclik oyunlari temali elbisesi viral oldu",
-      "url": "https://onedio.com/haber/kirmizi-haliya-elbise-degil-sanat-eseriyle-cikti-mckenna-grace-in-aclik-oyunlari-temali-elbisesi-viral-oldu-1392192",
-      "source": "onedio.com",
+      "title": "Kadir İnanır’ın hayat arkadaşı Jülide Kural'dan iddialara yanıt",
+      "normalized_title": "kadir inanir in hayat arkadasi julide kural dan iddialara yanit",
+      "url": "https://www.haberturk.com/magazin/foto/kadir-inanirin-hayat-arkadasi-julide-kural-dan-iddialara-yanit-3923246",
+      "source": "haberturk.com",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "haberturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.709544+00:00",
+      "collected_at": "2026-10-30T13:16:34.353428+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/kirmizi-haliya-elbise-degil-sanat-eseriyle-cikti-mckenna-grace-in-aclik-oyunlari-temali-elbisesi-viral-oldu-1392192",
-          "title": "Kırmızı Halıya Elbise Değil Sanat Eseriyle Çıktı! McKenna Grace'in Açlık Oyunları Temalı Elbisesi Viral Oldu"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/kadir-inanirin-hayat-arkadasi-julide-kural-dan-iddialara-yanit-3923246",
+          "title": "Kadir İnanır’ın hayat arkadaşı Jülide Kural'dan iddialara yanıt"
         }
       ],
       "publisher_domains": [
-        "onedio.com"
+        "haberturk.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1299,29 +1303,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "ABD'li oyuncu Hayden Panettiere'nin ölümü 'kaza sonucu'",
-      "normalized_title": "abd li oyuncu hayden panettiere nin olumu kaza sonucu",
-      "url": "https://www.bbc.com/turkce/articles/cm62yl58x6gko",
-      "source": "bbc.com",
+      "title": "Vasiyet, kayıp saatler ve reddedilen evlilik teklifi! Levent İnanır'dan Jülide Kural'a olay sözler",
+      "normalized_title": "vasiyet kayip saatler ve reddedilen evlilik teklifi levent inanir dan julide kural a olay sozler",
+      "url": "https://www.ahaber.com.tr/galeri/magazin/levent-inanirdan-julide-kurala-saat-ve-evlilik-cikisi",
+      "source": "ahaber.com.tr",
       "source_role": "publisher",
-      "source_domain": "bbc.com",
+      "source_domain": "ahaber.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-30T08:17:01.709610+00:00",
+      "collected_at": "2026-10-30T13:16:34.353505+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "bbc.com",
-          "source_domain": "bbc.com",
-          "url": "https://www.bbc.com/turkce/articles/cm62yl58x6gko",
-          "title": "ABD'li oyuncu Hayden Panettiere'nin ölümü 'kaza sonucu'"
+          "source": "ahaber.com.tr",
+          "source_domain": "ahaber.com.tr",
+          "url": "https://www.ahaber.com.tr/galeri/magazin/levent-inanirdan-julide-kurala-saat-ve-evlilik-cikisi",
+          "title": "Vasiyet, kayıp saatler ve reddedilen evlilik teklifi! Levent İnanır'dan Jülide Kural'a olay sözler"
         }
       ],
       "publisher_domains": [
-        "bbc.com"
+        "ahaber.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
