@@ -1,108 +1,50 @@
 {
-  "generated_at": "2026-10-31T17:21:33.446208+00:00",
+  "generated_at": "2026-11-01T08:53:41.616676+00:00",
   "candidate_count": 100,
-  "event_group_count": 50,
-  "multi_publisher_event_count": 7,
+  "event_group_count": 49,
+  "multi_publisher_event_count": 10,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Müstehcenlik suçlamasıyla tutuklanmıştı! Meli Bendeli'den tahliye sonrası ilk paylaşım",
-      "normalized_title": "mustehcenlik suclamasiyla tutuklanmisti meli bendeli den tahliye sonrasi ilk paylasim",
-      "url": "https://www.bursadabugun.com/haber/mustehcenlik-suclamasiyla-tutuklanmisti-meli-bendeli-den-tahliye-sonrasi-ilk-paylasim-1960015.html",
-      "source": "bursadabugun.com",
+      "title": "İbrahim Çelikkol ve oğlu Ali’nin Belek tatili sosyal medyayı salladı!",
+      "normalized_title": "ibrahim celikkol ve oglu ali nin belek tatili sosyal medyayi salladi",
+      "url": "https://www.antalyakorfez.com/ibrahim-celikkol-ve-oglu-alinin-belek-tatili-sosyal-medyayi-salladi",
+      "source": "antalyakorfez.com",
       "source_role": "publisher",
-      "source_domain": "bursadabugun.com",
+      "source_domain": "antalyakorfez.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.196036+00:00",
+      "collected_at": "2026-11-01T08:53:05.702499+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/mustehcenlik-suclamasiyla-tutuklanan-meli-bendeli-tahliye-edildi-merak-etmeyin-iyiyim-1392166",
-          "title": "Müstehcenlik Suçlamasıyla Tutuklanan Meli Bendeli Tahliye Edildi"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/ibrahim-celikkol-dan-oglu-ali-celikkol-ile-spor-keyfi-3924067",
+          "title": "İbrahim Çelikkol'dan oğlu Ali Çelikkol ile spor keyfi"
         },
         {
-          "source": "bianet.org",
-          "source_domain": "bianet.org",
-          "url": "https://bianet.org/haber/meli-bendeli-tahliye-edildi-iyiyim-324916",
-          "title": "Meli Bendeli tahliye edildi: “İyiyim”"
+          "source": "antalyakorfez.com",
+          "source_domain": "antalyakorfez.com",
+          "url": "https://www.antalyakorfez.com/ibrahim-celikkol-ve-oglu-alinin-belek-tatili-sosyal-medyayi-salladi",
+          "title": "İbrahim Çelikkol ve oğlu Ali’nin Belek tatili sosyal medyayı salladı!"
         },
         {
-          "source": "birgun.net",
-          "source_domain": "birgun.net",
-          "url": "https://www.birgun.net/haber/oyuncu-meli-bendeli-tahliye-edildi-743415",
-          "title": "Oyuncu Meli Bendeli tahliye edildi"
-        },
-        {
-          "source": "bursadabugun.com",
-          "source_domain": "bursadabugun.com",
-          "url": "https://www.bursadabugun.com/haber/mustehcenlik-suclamasiyla-tutuklanmisti-meli-bendeli-den-tahliye-sonrasi-ilk-paylasim-1960015.html",
-          "title": "Müstehcenlik suçlamasıyla tutuklanmıştı! Meli Bendeli'den tahliye sonrası ilk paylaşım"
+          "source": "haber.com",
+          "source_domain": "haber.com",
+          "url": "https://www.haber.com/magazin/ibrahim-celikkol-6-yasindaki-oglu-ali-ile-spor-yapti-30434",
+          "title": "İbrahim Çelikkol 6 Yaşındaki Oğlu Ali ile Spor Yaptı"
         }
       ],
       "publisher_domains": [
-        "bianet.org",
-        "birgun.net",
-        "bursadabugun.com",
-        "onedio.com"
-      ],
-      "publisher_count": 4,
-      "direct_article_count": 4,
-      "event_member_count": 4,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 40.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "'Star Trek' ve 'X-Men' filmlerinin yıldızı Patrick Stewart, 86 yaşında hayatını kaybetti",
-      "normalized_title": "star trek ve x men filmlerinin yildizi patrick stewart 86 yasinda hayatini kaybetti",
-      "url": "https://www.cumhuriyet.com.tr/yasam/star-trek-ve-x-men-filmlerinin-yildizi-patrick-stewart-86-yasinda-hayatini-kaybetti-2551588",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.195306+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/star-trek-ve-x-men-filmlerinin-yildizi-patrick-stewart-86-yasinda-hayatini-kaybetti-2551588",
-          "title": "'Star Trek' ve 'X-Men' filmlerinin yıldızı Patrick Stewart, 86 yaşında hayatını kaybetti"
-        },
-        {
-          "source": "bbc.com",
-          "source_domain": "bbc.com",
-          "url": "https://www.bbc.com/turkce/articles/c59vzlv9glleo",
-          "title": "Star Trek efsanesi Patrick Stewart hayatını kaybetti"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/x-men-ve-star-trekin-efsane-ismi-hayatini-kaybetti-7691453",
-          "title": "X-Men ve Star Trek'in efsane ismi hayatını kaybetti!"
-        }
-      ],
-      "publisher_domains": [
-        "bbc.com",
-        "cumhuriyet.com.tr",
-        "sabah.com.tr"
+        "antalyakorfez.com",
+        "haber.com",
+        "haberturk.com"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -117,36 +59,80 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Orhan Gencebay ve Tarkan düeti sosyal medyayı salladı",
-      "normalized_title": "orhan gencebay ve tarkan dueti sosyal medyayi salladi",
-      "url": "https://www.milliyet.com.tr/magazin/orhan-gencebay-ve-tarkan-dueti-sosyal-medyayi-salladi-7691601",
-      "source": "milliyet.com.tr",
+      "title": "\"Bazı Yaptırımlara Gelemem\": Erman Toroğlu Sözcü TV'deki Canlı Yayında İstifa Ettiğini Duyurdu",
+      "normalized_title": "bazi yaptirimlara gelemem erman toroglu sozcu tv deki canli yayinda istifa ettigini duyurdu",
+      "url": "https://onedio.com/haber/eski-hakem-erman-toroglu-sozcu-tv-deki-canli-yayinda-gazete-ve-televizyondan-ayrildigini-duyurdu-1392710",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.194674+00:00",
+      "collected_at": "2026-11-01T08:53:05.701704+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/orhan-gencebay-caldi-tarkan-soyledi-3923957",
-          "title": "Orhan Gencebay çaldı, Tarkan söyledi"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/eski-hakem-erman-toroglu-sozcu-tv-deki-canli-yayinda-gazete-ve-televizyondan-ayrildigini-duyurdu-1392710",
+          "title": "\"Bazı Yaptırımlara Gelemem\": Erman Toroğlu Sözcü TV'deki Canlı Yayında İstifa Ettiğini Duyurdu"
         },
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/orhan-gencebay-ve-tarkan-dueti-sosyal-medyayi-salladi-7691601",
-          "title": "Orhan Gencebay ve Tarkan düeti sosyal medyayı salladı"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/erman-toroglu-ndan-canli-yayinda-istifa-2552087",
+          "title": "Erman Toroğlu'ndan canlı yayında istifa"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "milliyet.com.tr"
+        "cumhuriyet.com.tr",
+        "onedio.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Erman Toroğlu canlı yayında Sözcü'den istifa etti: \"Ben İsmail Kartal değilim\"",
+      "normalized_title": "erman toroglu canli yayinda sozcu den istifa etti ben ismail kartal degilim",
+      "url": "https://www.yenisafak.com/galeri/spor/erman-toroglu-canli-yayinda-sozcuden-istifa-etti-ben-ismail-kartal-degilim-4868816",
+      "source": "yenisafak.com",
+      "source_role": "publisher",
+      "source_domain": "yenisafak.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-01T08:53:05.701868+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yenisafak.com",
+          "source_domain": "yenisafak.com",
+          "url": "https://www.yenisafak.com/galeri/spor/erman-toroglu-canli-yayinda-sozcuden-istifa-etti-ben-ismail-kartal-degilim-4868816",
+          "title": "Erman Toroğlu canlı yayında Sözcü'den istifa etti: \"Ben İsmail Kartal değilim\""
+        },
+        {
+          "source": "ekonomim.com",
+          "source_domain": "ekonomim.com",
+          "url": "https://www.ekonomim.com/gundem/erman-toroglu-canli-yayinda-sozcu-tvden-istifa-etti-istemedigim-durumlar-yasandi-haberi-928313",
+          "title": "Erman Toroğlu canlı yayında Sözcü TV'den istifa etti: İstemediğim durumlar yaşandı"
+        }
+      ],
+      "publisher_domains": [
+        "ekonomim.com",
+        "yenisafak.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -163,16 +149,67 @@
   ],
   "event_groups_preview": [
     {
-      "title": "Müstehcenlik suçlamasıyla tutuklanmıştı! Meli Bendeli'den tahliye sonrası ilk paylaşım",
-      "normalized_title": "mustehcenlik suclamasiyla tutuklanmisti meli bendeli den tahliye sonrasi ilk paylasim",
-      "url": "https://www.bursadabugun.com/haber/mustehcenlik-suclamasiyla-tutuklanmisti-meli-bendeli-den-tahliye-sonrasi-ilk-paylasim-1960015.html",
-      "source": "bursadabugun.com",
+      "title": "İbrahim Çelikkol ve oğlu Ali’nin Belek tatili sosyal medyayı salladı!",
+      "normalized_title": "ibrahim celikkol ve oglu ali nin belek tatili sosyal medyayi salladi",
+      "url": "https://www.antalyakorfez.com/ibrahim-celikkol-ve-oglu-alinin-belek-tatili-sosyal-medyayi-salladi",
+      "source": "antalyakorfez.com",
       "source_role": "publisher",
-      "source_domain": "bursadabugun.com",
+      "source_domain": "antalyakorfez.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.196036+00:00",
+      "collected_at": "2026-11-01T08:53:05.702499+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/ibrahim-celikkol-dan-oglu-ali-celikkol-ile-spor-keyfi-3924067",
+          "title": "İbrahim Çelikkol'dan oğlu Ali Çelikkol ile spor keyfi"
+        },
+        {
+          "source": "antalyakorfez.com",
+          "source_domain": "antalyakorfez.com",
+          "url": "https://www.antalyakorfez.com/ibrahim-celikkol-ve-oglu-alinin-belek-tatili-sosyal-medyayi-salladi",
+          "title": "İbrahim Çelikkol ve oğlu Ali’nin Belek tatili sosyal medyayı salladı!"
+        },
+        {
+          "source": "haber.com",
+          "source_domain": "haber.com",
+          "url": "https://www.haber.com/magazin/ibrahim-celikkol-6-yasindaki-oglu-ali-ile-spor-yapti-30434",
+          "title": "İbrahim Çelikkol 6 Yaşındaki Oğlu Ali ile Spor Yaptı"
+        }
+      ],
+      "publisher_domains": [
+        "antalyakorfez.com",
+        "haber.com",
+        "haberturk.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "\"Bazı Yaptırımlara Gelemem\": Erman Toroğlu Sözcü TV'deki Canlı Yayında İstifa Ettiğini Duyurdu",
+      "normalized_title": "bazi yaptirimlara gelemem erman toroglu sozcu tv deki canli yayinda istifa ettigini duyurdu",
+      "url": "https://onedio.com/haber/eski-hakem-erman-toroglu-sozcu-tv-deki-canli-yayinda-gazete-ve-televizyondan-ayrildigini-duyurdu-1392710",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-01T08:53:05.701704+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -180,41 +217,291 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/mustehcenlik-suclamasiyla-tutuklanan-meli-bendeli-tahliye-edildi-merak-etmeyin-iyiyim-1392166",
-          "title": "Müstehcenlik Suçlamasıyla Tutuklanan Meli Bendeli Tahliye Edildi"
+          "url": "https://onedio.com/haber/eski-hakem-erman-toroglu-sozcu-tv-deki-canli-yayinda-gazete-ve-televizyondan-ayrildigini-duyurdu-1392710",
+          "title": "\"Bazı Yaptırımlara Gelemem\": Erman Toroğlu Sözcü TV'deki Canlı Yayında İstifa Ettiğini Duyurdu"
         },
         {
-          "source": "bianet.org",
-          "source_domain": "bianet.org",
-          "url": "https://bianet.org/haber/meli-bendeli-tahliye-edildi-iyiyim-324916",
-          "title": "Meli Bendeli tahliye edildi: “İyiyim”"
-        },
-        {
-          "source": "birgun.net",
-          "source_domain": "birgun.net",
-          "url": "https://www.birgun.net/haber/oyuncu-meli-bendeli-tahliye-edildi-743415",
-          "title": "Oyuncu Meli Bendeli tahliye edildi"
-        },
-        {
-          "source": "bursadabugun.com",
-          "source_domain": "bursadabugun.com",
-          "url": "https://www.bursadabugun.com/haber/mustehcenlik-suclamasiyla-tutuklanmisti-meli-bendeli-den-tahliye-sonrasi-ilk-paylasim-1960015.html",
-          "title": "Müstehcenlik suçlamasıyla tutuklanmıştı! Meli Bendeli'den tahliye sonrası ilk paylaşım"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/erman-toroglu-ndan-canli-yayinda-istifa-2552087",
+          "title": "Erman Toroğlu'ndan canlı yayında istifa"
         }
       ],
       "publisher_domains": [
-        "bianet.org",
-        "birgun.net",
-        "bursadabugun.com",
+        "cumhuriyet.com.tr",
         "onedio.com"
       ],
-      "publisher_count": 4,
-      "direct_article_count": 4,
-      "event_member_count": 4,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 40.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Erman Toroğlu canlı yayında Sözcü'den istifa etti: \"Ben İsmail Kartal değilim\"",
+      "normalized_title": "erman toroglu canli yayinda sozcu den istifa etti ben ismail kartal degilim",
+      "url": "https://www.yenisafak.com/galeri/spor/erman-toroglu-canli-yayinda-sozcuden-istifa-etti-ben-ismail-kartal-degilim-4868816",
+      "source": "yenisafak.com",
+      "source_role": "publisher",
+      "source_domain": "yenisafak.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-01T08:53:05.701868+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yenisafak.com",
+          "source_domain": "yenisafak.com",
+          "url": "https://www.yenisafak.com/galeri/spor/erman-toroglu-canli-yayinda-sozcuden-istifa-etti-ben-ismail-kartal-degilim-4868816",
+          "title": "Erman Toroğlu canlı yayında Sözcü'den istifa etti: \"Ben İsmail Kartal değilim\""
+        },
+        {
+          "source": "ekonomim.com",
+          "source_domain": "ekonomim.com",
+          "url": "https://www.ekonomim.com/gundem/erman-toroglu-canli-yayinda-sozcu-tvden-istifa-etti-istemedigim-durumlar-yasandi-haberi-928313",
+          "title": "Erman Toroğlu canlı yayında Sözcü TV'den istifa etti: İstemediğim durumlar yaşandı"
+        }
+      ],
+      "publisher_domains": [
+        "ekonomim.com",
+        "yenisafak.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Altın Portakal Film Festivali'ne 'Taş ve Tüy' damgası: Geceden 6 ödülle ayrıldı",
+      "normalized_title": "altin portakal film festivali ne tas ve tuy damgasi geceden 6 odulle ayrildi",
+      "url": "https://gazeteoksijen.com/sinema/altin-portakal-film-festivaline-tas-ve-tuy-damgasi-geceden-6-odulle-ayrildi-294568",
+      "source": "gazeteoksijen.com",
+      "source_role": "publisher",
+      "source_domain": "gazeteoksijen.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-01T08:53:05.702051+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "gazeteoksijen.com",
+          "source_domain": "gazeteoksijen.com",
+          "url": "https://gazeteoksijen.com/sinema/altin-portakal-film-festivaline-tas-ve-tuy-damgasi-geceden-6-odulle-ayrildi-294568",
+          "title": "Altın Portakal Film Festivali'ne 'Taş ve Tüy' damgası: Geceden 6 ödülle ayrıldı"
+        },
+        {
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "url": "https://tr.euronews.com/2026/11/01/63-altin-portakalda-en-iyi-film-tas-ve-tuy-secildi",
+          "title": "63. Altın Portakal’da En İyi Film 'Taş ve Tüy' seçildi"
+        }
+      ],
+      "publisher_domains": [
+        "gazeteoksijen.com",
+        "tr.euronews.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Mahsun Kırmızıgül'den Harbiye'de sanatçılar için yeşil pasaport çağrısı",
+      "normalized_title": "mahsun kirmizigul den harbiye de sanatcilar icin yesil pasaport cagrisi",
+      "url": "https://www.odatv.com/magazin/mahsun-kirmizigul-sanatcilar-icin-yesil-pasaport-cagrisi-yapti-120169140",
+      "source": "odatv.com",
+      "source_role": "publisher",
+      "source_domain": "odatv.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-01T08:53:05.702824+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/mahsun-kirmizigul-sanatcilar-icin-yesil-pasaport-cagrisi-yapti-120169140",
+          "title": "Mahsun Kırmızıgül'den Harbiye'de sanatçılar için yeşil pasaport çağrısı"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/mahsun-kirmizigul-den-muzisyenlere-yesil-pasaport-cagrisi-3923811",
+          "title": "Mahsun Kırmızıgül'den müzisyenlere yeşil pasaport çağrısı"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "odatv.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Hastalığına meydan okuyup sahneye döndü, konserlerden 125 milyon dolar kazandı",
+      "normalized_title": "hastaligina meydan okuyup sahneye dondu konserlerden 125 milyon dolar kazandi",
+      "url": "https://www.hurriyet.com.tr/kelebek/magazin/hastaligina-meydan-okuyup-sahneye-dondu-konserlerden-125-milyon-dolar-kazandi-43362200",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-01T08:53:05.702960+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/magazin/hastaligina-meydan-okuyup-sahneye-dondu-konserlerden-125-milyon-dolar-kazandi-43362200",
+          "title": "Hastalığına meydan okuyup sahneye döndü, konserlerden 125 milyon dolar kazandı"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/celine-dion-sahneye-donus-konserlerinden-125-milyon-dolar-kazandi-3923645",
+          "title": "Celine Dion sahneye dönüş konserlerinden 125 milyon dolar kazandı"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Céline Dion, Paris'te verdiği sadece 16 konserden 125 milyon dolar kazandı.",
+      "normalized_title": "celine dion paris te verdigi sadece 16 konserden 125 milyon dolar kazandi",
+      "url": "https://www.vietnam.vn/tr/celine-dion-thu-125-trieu-usd-chi-sau-16-buoi-hoa-nhac-tai-paris",
+      "source": "vietnam.vn",
+      "source_role": "publisher",
+      "source_domain": "vietnam.vn",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-01T08:53:05.703058+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "vietnam.vn",
+          "source_domain": "vietnam.vn",
+          "url": "https://www.vietnam.vn/tr/celine-dion-thu-125-trieu-usd-chi-sau-16-buoi-hoa-nhac-tai-paris",
+          "title": "Céline Dion, Paris'te verdiği sadece 16 konserden 125 milyon dolar kazandı."
+        },
+        {
+          "source": "slobodenpecat.mk",
+          "source_domain": "slobodenpecat.mk",
+          "url": "https://www.slobodenpecat.mk/tr/po-16-te-odrzhani-koncerti-vo-pariz-selin-dion-zavrshi-so-zarabotka-od-1255-milioni-dolari/",
+          "title": "Celine Dion, Paris'te verdiği 16 konserden sonra toplamda 125,5 milyon dolar kazandı."
+        }
+      ],
+      "publisher_domains": [
+        "slobodenpecat.mk",
+        "vietnam.vn"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Orhan Gencebay bağlamayı eline aldı, Tarkan dayanamadı: O şarkıya eşlik etti",
+      "normalized_title": "orhan gencebay baglamayi eline aldi tarkan dayanamadi o sarkiya eslik etti",
+      "url": "https://www.sozcu.com.tr/orhan-gencebay-baglamayi-eline-aldi-tarkan-dayanamadi-o-sarkiya-eslik-etti-p374795",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-01T08:53:05.703252+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/orhan-gencebay-caldi-tarkan-soyledi-3923957",
+          "title": "Orhan Gencebay çaldı, Tarkan söyledi"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/orhan-gencebay-baglamayi-eline-aldi-tarkan-dayanamadi-o-sarkiya-eslik-etti-p374795",
+          "title": "Orhan Gencebay bağlamayı eline aldı, Tarkan dayanamadı: O şarkıya eşlik etti"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -230,7 +517,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.195306+00:00",
+      "collected_at": "2026-11-01T08:53:05.703406+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -242,12 +529,6 @@
           "title": "'Star Trek' ve 'X-Men' filmlerinin yıldızı Patrick Stewart, 86 yaşında hayatını kaybetti"
         },
         {
-          "source": "bbc.com",
-          "source_domain": "bbc.com",
-          "url": "https://www.bbc.com/turkce/articles/c59vzlv9glleo",
-          "title": "Star Trek efsanesi Patrick Stewart hayatını kaybetti"
-        },
-        {
           "source": "sabah.com.tr",
           "source_domain": "sabah.com.tr",
           "url": "https://www.sabah.com.tr/magazin/x-men-ve-star-trekin-efsane-ismi-hayatini-kaybetti-7691453",
@@ -255,53 +536,8 @@
         }
       ],
       "publisher_domains": [
-        "bbc.com",
         "cumhuriyet.com.tr",
         "sabah.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Orhan Gencebay ve Tarkan düeti sosyal medyayı salladı",
-      "normalized_title": "orhan gencebay ve tarkan dueti sosyal medyayi salladi",
-      "url": "https://www.milliyet.com.tr/magazin/orhan-gencebay-ve-tarkan-dueti-sosyal-medyayi-salladi-7691601",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.194674+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/orhan-gencebay-caldi-tarkan-soyledi-3923957",
-          "title": "Orhan Gencebay çaldı, Tarkan söyledi"
-        },
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/orhan-gencebay-ve-tarkan-dueti-sosyal-medyayi-salladi-7691601",
-          "title": "Orhan Gencebay ve Tarkan düeti sosyal medyayı salladı"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com",
-        "milliyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -325,115 +561,27 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.195143+00:00",
+      "collected_at": "2026-11-01T08:53:05.703657+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/stil/yesilcam-artik-bitti-43361270",
-          "title": "'Yeşilçam artık bitti'"
-        },
         {
           "source": "sabah.com.tr",
           "source_domain": "sabah.com.tr",
           "url": "https://www.sabah.com.tr/trend/galeri/magazin/yesilcamin-sevilen-aktoru-ediz-hundan-aci-sozler-yesilcam-artik-bitti",
           "title": "Yeşilçam’ın sevilen aktörü Ediz Hun’dan acı sözler: Yeşilçam artık bitti!"
+        },
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/stil/yesilcam-artik-bitti-43361270",
+          "title": "'Yeşilçam artık bitti'"
         }
       ],
       "publisher_domains": [
         "hurriyet.com.tr",
         "sabah.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "\"Cinlerin Düğünü\" filminin Türkiye'deki ilk gösterimi yapıldı Altın Portakal'da Ulusal Uzun Metraj Film kategorisinde yarışan \"Cinlerin Düğünü\" oyuncuları seyirciyle buluştu",
-      "normalized_title": "cinlerin dugunu filminin turkiye deki ilk gosterimi yapildi altin portakal da ulusal uzun metraj film kategorisinde yarisan cinlerin dugunu oyunculari seyirciyle bulustu",
-      "url": "https://yerel-haberler.haberturk.com/antalya-haberleri/cinlerin-dugunu-filminin-turkiyedeki-ilk-gosterimi-yapildi-altin-portakalda-ulusal-uzun-119507369",
-      "source": "yerel-haberler.haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "yerel-haberler.haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.195771+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yerel-haberler.haberturk.com",
-          "source_domain": "yerel-haberler.haberturk.com",
-          "url": "https://yerel-haberler.haberturk.com/antalya-haberleri/cinlerin-dugunu-filminin-turkiyedeki-ilk-gosterimi-yapildi-altin-portakalda-ulusal-uzun-119507369",
-          "title": "\"Cinlerin Düğünü\" filminin Türkiye'deki ilk gösterimi yapıldı Altın Portakal'da Ulusal Uzun Metraj Film kategorisinde yarışan \"Cinlerin Düğünü\" oyuncuları seyirciyle buluştu"
-        },
-        {
-          "source": "gazeteoksijen.com",
-          "source_domain": "gazeteoksijen.com",
-          "url": "https://gazeteoksijen.com/yazarlar/burak-goral/cinlerin-dugunu-ve-selma-filmleri-altin-portakalda-izlendi-294436",
-          "title": "Cinlerin Düğünü ve Selma filmleri Altın Portakal’da izlendi"
-        }
-      ],
-      "publisher_domains": [
-        "gazeteoksijen.com",
-        "yerel-haberler.haberturk.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Murat Yıldırım ve Iman Elbani, Tokyo Film Festivali'nin Kırmızı Halısında Boy Gösterdi",
-      "normalized_title": "murat yildirim ve iman elbani tokyo film festivali nin kirmizi halisinda boy gosterdi",
-      "url": "https://onedio.com/haber/murat-yildirim-ve-iman-elbani-tokyo-film-festivali-nin-kirmizi-halisinda-boy-gosterdi-1392295",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.196395+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/murat-yildirim-ve-iman-elbani-tokyo-film-festivali-nin-kirmizi-halisinda-boy-gosterdi-1392295",
-          "title": "Murat Yıldırım ve Iman Elbani, Tokyo Film Festivali'nin Kırmızı Halısında Boy Gösterdi"
-        },
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/murat-yildirimdan-tokyo-cikarmasi-43359860",
-          "title": "Murat Yıldırım'dan Tokyo çıkarması"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr",
-        "onedio.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -457,7 +605,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.197378+00:00",
+      "collected_at": "2026-11-01T08:53:05.704745+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -467,54 +615,47 @@
           "source_domain": "gazeteoksijen.com",
           "url": "https://gazeteoksijen.com/o2/dua-lipa-edebiyat-dunyasinda-nasil-yukseldi-294170",
           "title": "Pop yıldızlığından edebiyat küratörlüğüne: Dua Lipa’nın edebiyat dünyasındaki yükselişinin arkasında ne var?"
-        },
-        {
-          "source": "vogue.com.tr",
-          "source_domain": "vogue.com.tr",
-          "url": "https://vogue.com.tr/unlu-stili/dua-lipanin-londra-edebiyat-festivali-stili",
-          "title": "Dua Lipa’nın Londra Edebiyat Festivali Stili"
         }
       ],
       "publisher_domains": [
-        "gazeteoksijen.com",
-        "vogue.com.tr"
+        "gazeteoksijen.com"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
+      "publisher_count": 1,
+      "direct_article_count": 1,
       "event_member_count": 2,
-      "discovery_item_count": 0,
+      "discovery_item_count": 1,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 10.5,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "multi_publisher"
+      "coverage_label": "single_publisher"
     },
     {
-      "title": "Sevim Emre'den olay paylaşım! Orhan Gencebay çaldı, Tarkan söyledi: ‘Hatasız Kul Olmaz’",
-      "normalized_title": "sevim emre den olay paylasim orhan gencebay caldi tarkan soyledi hatasiz kul olmaz",
-      "url": "https://www.cnnturk.com/magazin/sevim-emreden-olay-paylasim-orhan-gencebay-caldi-tarkan-soyledi-hatasiz-kul-olmaz-3487163",
-      "source": "cnnturk.com",
+      "title": "En İyi Film, En İyi Kadın ve Erkek Oyuncu belli oldu",
+      "normalized_title": "en iyi film en iyi kadin ve erkek oyuncu belli oldu",
+      "url": "https://www.memurlar.net/haber/1182712/en-iyi-film-en-iyi-kadin-ve-erkek-oyuncu-belli-oldu.html",
+      "source": "memurlar.net",
       "source_role": "publisher",
-      "source_domain": "cnnturk.com",
+      "source_domain": "memurlar.net",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.194738+00:00",
+      "collected_at": "2026-11-01T08:53:05.701987+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/sevim-emreden-olay-paylasim-orhan-gencebay-caldi-tarkan-soyledi-hatasiz-kul-olmaz-3487163",
-          "title": "Sevim Emre'den olay paylaşım! Orhan Gencebay çaldı, Tarkan söyledi: ‘Hatasız Kul Olmaz’"
+          "source": "memurlar.net",
+          "source_domain": "memurlar.net",
+          "url": "https://www.memurlar.net/haber/1182712/en-iyi-film-en-iyi-kadin-ve-erkek-oyuncu-belli-oldu.html",
+          "title": "En İyi Film, En İyi Kadın ve Erkek Oyuncu belli oldu"
         }
       ],
       "publisher_domains": [
-        "cnnturk.com"
+        "memurlar.net"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -529,29 +670,177 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Orhan Gencebay ve Megastar Tarkan Hatasız Kul Olmaz şarkısını söyledi: İki sanatçı bir araya geldi",
-      "normalized_title": "orhan gencebay ve megastar tarkan hatasiz kul olmaz sarkisini soyledi iki sanatci bir araya geldi",
-      "url": "https://www.yenicaggazetesi.com/orhan-gencebay-ve-megastar-tarkan-hatasiz-kul-olmaz-sarkisini-soyledi-iki-sanatci-bir-araya-geldi-1086744h.htm",
-      "source": "yenicaggazetesi.com",
+      "title": "Altın Portakal’da ödüller sahiplerini buldu: Altın Portakal’da 'Taş ve Tüy' zaferi",
+      "normalized_title": "altin portakal da oduller sahiplerini buldu altin portakal da tas ve tuy zaferi",
+      "url": "https://www.odatv.com/guncel/altin-portakalda-oduller-sahiplerini-buldu-altin-portakalda-tas-ve-tuy-zaferi-120169121",
+      "source": "odatv.com",
       "source_role": "publisher",
-      "source_domain": "yenicaggazetesi.com",
+      "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.194797+00:00",
+      "collected_at": "2026-11-01T08:53:05.702173+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "yenicaggazetesi.com",
-          "source_domain": "yenicaggazetesi.com",
-          "url": "https://www.yenicaggazetesi.com/orhan-gencebay-ve-megastar-tarkan-hatasiz-kul-olmaz-sarkisini-soyledi-iki-sanatci-bir-araya-geldi-1086744h.htm",
-          "title": "Orhan Gencebay ve Megastar Tarkan Hatasız Kul Olmaz şarkısını söyledi: İki sanatçı bir araya geldi"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/guncel/altin-portakalda-oduller-sahiplerini-buldu-altin-portakalda-tas-ve-tuy-zaferi-120169121",
+          "title": "Altın Portakal’da ödüller sahiplerini buldu: Altın Portakal’da 'Taş ve Tüy' zaferi"
         }
       ],
       "publisher_domains": [
-        "yenicaggazetesi.com"
+        "odatv.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Colin Farrell bakım merkezinde kalan engelli oğluyla belgeselde yer aldı",
+      "normalized_title": "colin farrell bakim merkezinde kalan engelli ogluyla belgeselde yer aldi",
+      "url": "https://www.haberturk.com/magazin/collin-farrell-bakim-merkezinde-kalan-engelli-ogluyla-belgeselde-yer-aldi-3924052",
+      "source": "haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-01T08:53:05.702229+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/collin-farrell-bakim-merkezinde-kalan-engelli-ogluyla-belgeselde-yer-aldi-3924052",
+          "title": "Colin Farrell bakım merkezinde kalan engelli oğluyla belgeselde yer aldı"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ünlü oyuncu Colin Farrell, Angelman sendromlu oğlu James ile ilk kez bir belgeselde kamera karşısına geçti",
+      "normalized_title": "unlu oyuncu colin farrell angelman sendromlu oglu james ile ilk kez bir belgeselde kamera karsisina gecti",
+      "url": "https://www.cumhuriyet.com.tr/yasam/unlu-oyuncu-colin-farrell-angelman-sendromlu-oglu-james-ile-ilk-kez-bir-belgeselde-kamera-karsisina-gecti-2552148",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-01T08:53:05.702298+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/yasam/unlu-oyuncu-colin-farrell-angelman-sendromlu-oglu-james-ile-ilk-kez-bir-belgeselde-kamera-karsisina-gecti-2552148",
+          "title": "Ünlü oyuncu Colin Farrell, Angelman sendromlu oğlu James ile ilk kez bir belgeselde kamera karşısına geçti"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "HBO Max'te Kelebek Derisi: Emma Fogarty ve Colin Farrell Dublin Maratonu'nda",
+      "normalized_title": "hbo max te kelebek derisi emma fogarty ve colin farrell dublin maratonu nda",
+      "url": "https://www.sortiraparis.com/tr/hobiler/sinema-serisi-festival/articles/356442-hbo-max-te-kelebek-hastaligi-emma-fogarty-ve-colin-farrell-dublin-maratonu-nda",
+      "source": "sortiraparis.com",
+      "source_role": "publisher",
+      "source_domain": "sortiraparis.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-01T08:53:05.702348+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sortiraparis.com",
+          "source_domain": "sortiraparis.com",
+          "url": "https://www.sortiraparis.com/tr/hobiler/sinema-serisi-festival/articles/356442-hbo-max-te-kelebek-hastaligi-emma-fogarty-ve-colin-farrell-dublin-maratonu-nda",
+          "title": "HBO Max'te Kelebek Derisi: Emma Fogarty ve Colin Farrell Dublin Maratonu'nda"
+        }
+      ],
+      "publisher_domains": [
+        "sortiraparis.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Colin Farrell Başrollü The Slightest Touch Belgeselinden İlk Fragman Geldi",
+      "normalized_title": "colin farrell basrollu the slightest touch belgeselinden ilk fragman geldi",
+      "url": "https://fanzade.com/colin-farrell-basrollu-the-slightest-touch-belgeselinden-ilk-fragman-geldi/",
+      "source": "fanzade.com",
+      "source_role": "publisher",
+      "source_domain": "fanzade.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-01T08:53:05.702401+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "fanzade.com",
+          "source_domain": "fanzade.com",
+          "url": "https://fanzade.com/colin-farrell-basrollu-the-slightest-touch-belgeselinden-ilk-fragman-geldi/",
+          "title": "Colin Farrell Başrollü The Slightest Touch Belgeselinden İlk Fragman Geldi"
+        }
+      ],
+      "publisher_domains": [
+        "fanzade.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -575,7 +864,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.194839+00:00",
+      "collected_at": "2026-11-01T08:53:05.702584+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -603,29 +892,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Nev'in küs olduğu abisinden miras hamlesi: Malların tespiti için evine gitti",
-      "normalized_title": "nev in kus oldugu abisinden miras hamlesi mallarin tespiti icin evine gitti",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/nevin-kus-oldugu-abisinden-miras-hamlesi-mallarin-tespiti-icin-evine-gitti-43361265",
-      "source": "hurriyet.com.tr",
+      "title": "Nev’den geriye kalan miras gündem oldu: Ağabeyinin ilk işi veraset işlemleri oldu",
+      "normalized_title": "nev den geriye kalan miras gundem oldu agabeyinin ilk isi veraset islemleri oldu",
+      "url": "https://www.sozcu.com.tr/nev-den-geriye-kalan-miras-gundem-oldu-agabeyinin-ilk-isi-veraset-islemleri-oldu-p374770",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.194892+00:00",
+      "collected_at": "2026-11-01T08:53:05.702645+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/nevin-kus-oldugu-abisinden-miras-hamlesi-mallarin-tespiti-icin-evine-gitti-43361265",
-          "title": "Nev'in küs olduğu abisinden miras hamlesi: Malların tespiti için evine gitti"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/nev-den-geriye-kalan-miras-gundem-oldu-agabeyinin-ilk-isi-veraset-islemleri-oldu-p374770",
+          "title": "Nev’den geriye kalan miras gündem oldu: Ağabeyinin ilk işi veraset işlemleri oldu"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
+        "sozcu.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -649,7 +938,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.194939+00:00",
+      "collected_at": "2026-11-01T08:53:05.702707+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -677,29 +966,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Nev'in vefatının ardından miras hamlesi! Görüşmediği abisi harekete geçti",
-      "normalized_title": "nev in vefatinin ardindan miras hamlesi gorusmedigi abisi harekete gecti",
-      "url": "https://www.ahaber.com.tr/galeri/magazin/sarkici-nevin-mirasiyla-ilgili-dikkat-ceken-iddialar",
-      "source": "ahaber.com.tr",
+      "title": "Nev'in toprağı kurumadan harekete geçti! Ünlü şarkıcının ağabeyinden pes dedirten hareket",
+      "normalized_title": "nev in topragi kurumadan harekete gecti unlu sarkicinin agabeyinden pes dedirten hareket",
+      "url": "https://www.internethaber.com/nevin-topragi-kurumadan-harekete-gecti-unlu-sarkicinin-agabeyinden-pes-dedirten-hareket-foto-galerisi-2466488.htm",
+      "source": "internethaber.com",
       "source_role": "publisher",
-      "source_domain": "ahaber.com.tr",
+      "source_domain": "internethaber.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.194988+00:00",
+      "collected_at": "2026-11-01T08:53:05.702773+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ahaber.com.tr",
-          "source_domain": "ahaber.com.tr",
-          "url": "https://www.ahaber.com.tr/galeri/magazin/sarkici-nevin-mirasiyla-ilgili-dikkat-ceken-iddialar",
-          "title": "Nev'in vefatının ardından miras hamlesi! Görüşmediği abisi harekete geçti"
+          "source": "internethaber.com",
+          "source_domain": "internethaber.com",
+          "url": "https://www.internethaber.com/nevin-topragi-kurumadan-harekete-gecti-unlu-sarkicinin-agabeyinden-pes-dedirten-hareket-foto-galerisi-2466488.htm",
+          "title": "Nev'in toprağı kurumadan harekete geçti! Ünlü şarkıcının ağabeyinden pes dedirten hareket"
         }
       ],
       "publisher_domains": [
-        "ahaber.com.tr"
+        "internethaber.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -714,29 +1003,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Tuba Ünsal çocuklarının eğitimi için Paris’e taşındı Sare konservatuvara başladı",
-      "normalized_title": "tuba unsal cocuklarinin egitimi icin paris e tasindi sare konservatuvara basladi",
-      "url": "https://www.patronlardunyasi.com/tuba-unsal-cocuklarinin-egitimi-icin-parise-tasindi-sare-konservatuvara-basladi",
-      "source": "patronlardunyasi.com",
+      "title": "Binlerce kişi alanı terk etmedi",
+      "normalized_title": "binlerce kisi alani terk etmedi",
+      "url": "https://www.milliyet.com.tr/magazin/binlerce-kisi-alani-terk-etmedi-7691157",
+      "source": "milliyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "patronlardunyasi.com",
+      "source_domain": "milliyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.195040+00:00",
+      "collected_at": "2026-11-01T08:53:05.702908+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "patronlardunyasi.com",
-          "source_domain": "patronlardunyasi.com",
-          "url": "https://www.patronlardunyasi.com/tuba-unsal-cocuklarinin-egitimi-icin-parise-tasindi-sare-konservatuvara-basladi",
-          "title": "Tuba Ünsal çocuklarının eğitimi için Paris’e taşındı Sare konservatuvara başladı"
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/binlerce-kisi-alani-terk-etmedi-7691157",
+          "title": "Binlerce kişi alanı terk etmedi"
         }
       ],
       "publisher_domains": [
-        "patronlardunyasi.com"
+        "milliyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -751,29 +1040,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Yeşilçam'ın Efsane Jönüydü: Ediz Hun Son Haliyle Görüntülendi, Yeşilçam İçin Söyledikleri Gündem Oldu!",
-      "normalized_title": "yesilcam in efsane jonuydu ediz hun son haliyle goruntulendi yesilcam icin soyledikleri gundem oldu",
-      "url": "https://onedio.com/haber/yesilcam-in-efsane-jonuydu-ediz-hun-son-haliyle-goruntulendi-yesilcam-icin-soyledikleri-gundem-oldu-1392219",
-      "source": "onedio.com",
+      "title": "‘Oynadığım bütün karakterlere yüzde yüz hak veririm’",
+      "normalized_title": "oynadigim butun karakterlere yuzde yuz hak veririm",
+      "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/oynadigim-butun-karakterlere-yuzde-yuz-hak-veririm-43361998",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.195203+00:00",
+      "collected_at": "2026-11-01T08:53:05.703158+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/yesilcam-in-efsane-jonuydu-ediz-hun-son-haliyle-goruntulendi-yesilcam-icin-soyledikleri-gundem-oldu-1392219",
-          "title": "Yeşilçam'ın Efsane Jönüydü: Ediz Hun Son Haliyle Görüntülendi, Yeşilçam İçin Söyledikleri Gündem Oldu!"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/oynadigim-butun-karakterlere-yuzde-yuz-hak-veririm-43361998",
+          "title": "‘Oynadığım bütün karakterlere yüzde yüz hak veririm’"
         }
       ],
       "publisher_domains": [
-        "onedio.com"
+        "hurriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -788,29 +1077,103 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "\"Yeşilçam artık bitti\" diyen Ediz Hun'un son hali konuşuldu - Magazin Haberleri",
-      "normalized_title": "yesilcam artik bitti diyen ediz hun un son hali konusuldu magazin haberleri",
-      "url": "https://www.mynet.com/magazin/yesilcam-artik-bitti-diyen-ediz-hun-un-son-hali-konusuldu-130100605785",
-      "source": "mynet.com",
+      "title": "Tarkan ve Orhan Gencebay’dan sürpriz düet",
+      "normalized_title": "tarkan ve orhan gencebay dan surpriz duet",
+      "url": "https://www.odatv.com/kultur-sanat/tarkan-ve-orhan-gencebaydan-surpriz-duet-120169120",
+      "source": "odatv.com",
       "source_role": "publisher",
-      "source_domain": "mynet.com",
+      "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.195253+00:00",
+      "collected_at": "2026-11-01T08:53:05.703292+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "mynet.com",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/yesilcam-artik-bitti-diyen-ediz-hun-un-son-hali-konusuldu-130100605785",
-          "title": "\"Yeşilçam artık bitti\" diyen Ediz Hun'un son hali konuşuldu - Magazin Haberleri"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/kultur-sanat/tarkan-ve-orhan-gencebaydan-surpriz-duet-120169120",
+          "title": "Tarkan ve Orhan Gencebay’dan sürpriz düet"
         }
       ],
       "publisher_domains": [
-        "mynet.com"
+        "odatv.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Türk müziğinin iki dev ismi bir arada: Orhan Gencebay bağlama çaldı, Tarkan söyledi",
+      "normalized_title": "turk muziginin iki dev ismi bir arada orhan gencebay baglama caldi tarkan soyledi",
+      "url": "https://www.cumhuriyet.com.tr/magazin/turk-muziginin-iki-dev-ismi-bir-arada-orhan-gencebay-baglama-caldi-tarkan-soyledi-2552122",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-01T08:53:05.703348+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/turk-muziginin-iki-dev-ismi-bir-arada-orhan-gencebay-baglama-caldi-tarkan-soyledi-2552122",
+          "title": "Türk müziğinin iki dev ismi bir arada: Orhan Gencebay bağlama çaldı, Tarkan söyledi"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Sinema dünyasından bir yıldız kaydı… Uzay Yolu efsanesi Patrick Stewart hayatını kaybetti",
+      "normalized_title": "sinema dunyasindan bir yildiz kaydi uzay yolu efsanesi patrick stewart hayatini kaybetti",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/sinema-dunyasindan-bir-yildiz-kaydi-uzay-yolu-efsanesi-patrick-stewart-hayatini-kaybetti-43360059",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-01T08:53:05.703464+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/sinema-dunyasindan-bir-yildiz-kaydi-uzay-yolu-efsanesi-patrick-stewart-hayatini-kaybetti-43360059",
+          "title": "Sinema dünyasından bir yıldız kaydı… Uzay Yolu efsanesi Patrick Stewart hayatını kaybetti"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -834,7 +1197,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.195428+00:00",
+      "collected_at": "2026-11-01T08:53:05.703517+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -862,164 +1225,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Murat Yıldırım'ın performansına övgüler yağdı",
-      "normalized_title": "murat yildirim in performansina ovguler yagdi",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/murat-yildirimin-performansina-ovguler-yagdi-43360258",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.195519+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/murat-yildirimin-performansina-ovguler-yagdi-43360258",
-          "title": "Murat Yıldırım'ın performansına övgüler yağdı"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Güller ve Günahlar 40. Bölüm Fotoğrafları",
-      "normalized_title": "guller ve gunahlar 40 bolum fotograflari",
-      "url": "https://www.kanald.com.tr/guller-ve-gunahlar/foto-galeri/guller-ve-gunahlar-40-bolum-fotograflari",
-      "source": "kanald.com.tr",
-      "source_role": "publisher",
-      "source_domain": "kanald.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.195557+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "kanald.com.tr",
-          "source_domain": "kanald.com.tr",
-          "url": "https://www.kanald.com.tr/guller-ve-gunahlar/foto-galeri/guller-ve-gunahlar-40-bolum-fotograflari",
-          "title": "Güller ve Günahlar 40. Bölüm Fotoğrafları"
-        }
-      ],
-      "publisher_domains": [
-        "kanald.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "31 Ekim Güller ve Günahlar bu akşam var mı, yok mu? Güller ve Günahlar yeni bölümü ne zaman yayınlanacak, neden yok, hangi gün? Kanal D yayın akışı 31 Ekim 2026",
-      "normalized_title": "31 ekim guller ve gunahlar bu aksam var mi yok mu guller ve gunahlar yeni bolumu ne zaman yayinlanacak neden yok hangi gun kanal d yayin akisi 31 ekim 2026",
-      "url": "https://www.hurriyet.com.tr/galeri-guller-ve-gunahlar-bu-aksam-var-mi-yok-mu-guller-ve-gunahlar-yeni-bolumu-ne-zaman-yayinlanacak-kanal-d-yayin-akisi-31-43361793",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.195635+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/galeri-guller-ve-gunahlar-bu-aksam-var-mi-yok-mu-guller-ve-gunahlar-yeni-bolumu-ne-zaman-yayinlanacak-kanal-d-yayin-akisi-31-43361793",
-          "title": "31 Ekim Güller ve Günahlar bu akşam var mı, yok mu? Güller ve Günahlar yeni bölümü ne zaman yayınlanacak, neden yok, hangi gün? Kanal D yayın akışı 31 Ekim 2026"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "İptal Sayısı 6'ya Çıktı! Kanal D Dizisi de Ertelendi, Cumartesi Ekranda Sadece TRT 1 Kaldı",
-      "normalized_title": "iptal sayisi 6 ya cikti kanal d dizisi de ertelendi cumartesi ekranda sadece trt 1 kaldi",
-      "url": "https://onedio.com/haber/iptal-sayisi-6-ya-cikti-kanal-d-dizisi-de-ertelendi-cumartesi-ekranda-sadece-trt-1-kaldi-1392418",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.195694+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/iptal-sayisi-6-ya-cikti-kanal-d-dizisi-de-ertelendi-cumartesi-ekranda-sadece-trt-1-kaldi-1392418",
-          "title": "İptal Sayısı 6'ya Çıktı! Kanal D Dizisi de Ertelendi, Cumartesi Ekranda Sadece TRT 1 Kaldı"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "“Gerçekliği anlatmak için gerçeküstü öğeler kullanıyoruz”",
-      "normalized_title": "gercekligi anlatmak icin gercekustu ogeler kullaniyoruz",
-      "url": "https://www.birgun.net/haber/gercekligi-anlatmak-icin-gercekustu-ogeler-kullaniyoruz-743591",
+      "title": "Ediz Hun: Türk sineması önemli bir sinemadır",
+      "normalized_title": "ediz hun turk sinemasi onemli bir sinemadir",
+      "url": "https://www.birgun.net/haber/ediz-hun-turk-sinemasi-onemli-bir-sinemadir-743589",
       "source": "birgun.net",
       "source_role": "publisher",
       "source_domain": "birgun.net",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.195814+00:00",
+      "collected_at": "2026-11-01T08:53:05.703602+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1027,8 +1242,8 @@
         {
           "source": "birgun.net",
           "source_domain": "birgun.net",
-          "url": "https://www.birgun.net/haber/gercekligi-anlatmak-icin-gercekustu-ogeler-kullaniyoruz-743591",
-          "title": "“Gerçekliği anlatmak için gerçeküstü öğeler kullanıyoruz”"
+          "url": "https://www.birgun.net/haber/ediz-hun-turk-sinemasi-onemli-bir-sinemadir-743589",
+          "title": "Ediz Hun: Türk sineması önemli bir sinemadır"
         }
       ],
       "publisher_domains": [
@@ -1047,16 +1262,53 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Acun Ilıcalı kızıyla yarıştı: Kazanan şaşırttı",
-      "normalized_title": "acun ilicali kiziyla yaristi kazanan sasirtti",
-      "url": "https://www.odatv.com/magazin/acun-ilicali-kizi-melisayla-yaristi-sarki-yarismasinin-kazanani-belli-oldu-120168912",
+      "title": "Yeşilçam'ın Efsane Jönüydü: Ediz Hun Son Haliyle Görüntülendi, Yeşilçam İçin Söyledikleri Gündem Oldu!",
+      "normalized_title": "yesilcam in efsane jonuydu ediz hun son haliyle goruntulendi yesilcam icin soyledikleri gundem oldu",
+      "url": "https://onedio.com/haber/yesilcam-in-efsane-jonuydu-ediz-hun-son-haliyle-goruntulendi-yesilcam-icin-soyledikleri-gundem-oldu-1392219",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-01T08:53:05.703761+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/yesilcam-in-efsane-jonuydu-ediz-hun-son-haliyle-goruntulendi-yesilcam-icin-soyledikleri-gundem-oldu-1392219",
+          "title": "Yeşilçam'ın Efsane Jönüydü: Ediz Hun Son Haliyle Görüntülendi, Yeşilçam İçin Söyledikleri Gündem Oldu!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Özcan Deniz karar aldı: 'Artık hayatımda olmayacak'",
+      "normalized_title": "ozcan deniz karar aldi artik hayatimda olmayacak",
+      "url": "https://www.odatv.com/magazin/ozcan-deniz-karar-aldi-artik-hayatimda-olmayacak-120169000",
       "source": "odatv.com",
       "source_role": "publisher",
       "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.196075+00:00",
+      "collected_at": "2026-11-01T08:53:05.703804+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1064,271 +1316,12 @@
         {
           "source": "odatv.com",
           "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/magazin/acun-ilicali-kizi-melisayla-yaristi-sarki-yarismasinin-kazanani-belli-oldu-120168912",
-          "title": "Acun Ilıcalı kızıyla yarıştı: Kazanan şaşırttı"
+          "url": "https://www.odatv.com/magazin/ozcan-deniz-karar-aldi-artik-hayatimda-olmayacak-120169000",
+          "title": "Özcan Deniz karar aldı: 'Artık hayatımda olmayacak'"
         }
       ],
       "publisher_domains": [
         "odatv.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ünlülerden 29 Ekim Cumhuriyet Bayramı paylaşımları",
-      "normalized_title": "unlulerden 29 ekim cumhuriyet bayrami paylasimlari",
-      "url": "https://www.haberturk.com/magazin/foto/unlulerde-29-ekim-cumhuriyet-bayrami-paylasimlari-3923311",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.196131+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/unlulerde-29-ekim-cumhuriyet-bayrami-paylasimlari-3923311",
-          "title": "Ünlülerden 29 Ekim Cumhuriyet Bayramı paylaşımları"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Fenerbahçe tribünlerinden Cumhuriyet Bayramı'na özel koreografi!",
-      "normalized_title": "fenerbahce tribunlerinden cumhuriyet bayrami na ozel koreografi",
-      "url": "https://www.aspor.com.tr/fenerbahce/2026/10/31/fenerbahce-tribunlerinden-cumhuriyet-bayramina-ozel-koreografi",
-      "source": "aspor.com.tr",
-      "source_role": "publisher",
-      "source_domain": "aspor.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.196176+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "aspor.com.tr",
-          "source_domain": "aspor.com.tr",
-          "url": "https://www.aspor.com.tr/fenerbahce/2026/10/31/fenerbahce-tribunlerinden-cumhuriyet-bayramina-ozel-koreografi",
-          "title": "Fenerbahçe tribünlerinden Cumhuriyet Bayramı'na özel koreografi!"
-        }
-      ],
-      "publisher_domains": [
-        "aspor.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Cumhuriyetimizin ışıltısı, yarınlarımızın sesiyle yankılandı: Çocuk ve Gençlik Korosu’ndan unutulmaz 29 Ekim klibi",
-      "normalized_title": "cumhuriyetimizin isiltisi yarinlarimizin sesiyle yankilandi cocuk ve genclik korosu ndan unutulmaz 29 ekim klibi",
-      "url": "https://www.fenerbahce.org/haberler/cocuk-ve-genclik-komitesi/2026/10/cumhuriyetimizin-isiltisi-yarinlarimizin-sesiyle-yankilandi-cocuk-ve-genclik-korosu-ndan-unutulmaz",
-      "source": "fenerbahce.org",
-      "source_role": "publisher",
-      "source_domain": "fenerbahce.org",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.196239+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "fenerbahce.org",
-          "source_domain": "fenerbahce.org",
-          "url": "https://www.fenerbahce.org/haberler/cocuk-ve-genclik-komitesi/2026/10/cumhuriyetimizin-isiltisi-yarinlarimizin-sesiyle-yankilandi-cocuk-ve-genclik-korosu-ndan-unutulmaz",
-          "title": "Cumhuriyetimizin ışıltısı, yarınlarımızın sesiyle yankılandı: Çocuk ve Gençlik Korosu’ndan unutulmaz 29 Ekim klibi"
-        }
-      ],
-      "publisher_domains": [
-        "fenerbahce.org"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "1966 Turanspor'dan Cumhuriyet Bayramı'nda anlamlı mesaj",
-      "normalized_title": "1966 turanspor dan cumhuriyet bayrami nda anlamli mesaj",
-      "url": "https://yerel-haberler.haberturk.com/kayseri-haberleri/1966-turanspordan-cumhuriyet-bayraminda-anlamli-mesaj-119507528",
-      "source": "yerel-haberler.haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "yerel-haberler.haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.196278+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yerel-haberler.haberturk.com",
-          "source_domain": "yerel-haberler.haberturk.com",
-          "url": "https://yerel-haberler.haberturk.com/kayseri-haberleri/1966-turanspordan-cumhuriyet-bayraminda-anlamli-mesaj-119507528",
-          "title": "1966 Turanspor'dan Cumhuriyet Bayramı'nda anlamlı mesaj"
-        }
-      ],
-      "publisher_domains": [
-        "yerel-haberler.haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Sürpriz aşk evlilik yolunda",
-      "normalized_title": "surpriz ask evlilik yolunda",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/surpriz-ask-evlilik-yolunda-43359105",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.196311+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/surpriz-ask-evlilik-yolunda-43359105",
-          "title": "Sürpriz aşk evlilik yolunda"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Kubilay Aka ile Bir Yolculuğun İçinde",
-      "normalized_title": "kubilay aka ile bir yolculugun icinde",
-      "url": "https://vogue.com.tr/gundem/kubilay-aka-vogue-turkiye-roportaji",
-      "source": "vogue.com.tr",
-      "source_role": "publisher",
-      "source_domain": "vogue.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.196346+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "vogue.com.tr",
-          "source_domain": "vogue.com.tr",
-          "url": "https://vogue.com.tr/gundem/kubilay-aka-vogue-turkiye-roportaji",
-          "title": "Kubilay Aka ile Bir Yolculuğun İçinde"
-        }
-      ],
-      "publisher_domains": [
-        "vogue.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Murat Yıldırım'dan muhteşem gecede samimi kareler! Eşi ile katıldı...",
-      "normalized_title": "murat yildirim dan muhtesem gecede samimi kareler esi ile katildi",
-      "url": "https://www.internethaber.com/murat-yildirimdan-muhtesem-gecede-samimi-kareler-esi-ile-katildi-foto-galerisi-2466400.htm",
-      "source": "internethaber.com",
-      "source_role": "publisher",
-      "source_domain": "internethaber.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-10-31T17:20:57.196470+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "internethaber.com",
-          "source_domain": "internethaber.com",
-          "url": "https://www.internethaber.com/murat-yildirimdan-muhtesem-gecede-samimi-kareler-esi-ile-katildi-foto-galerisi-2466400.htm",
-          "title": "Murat Yıldırım'dan muhteşem gecede samimi kareler! Eşi ile katıldı..."
-        }
-      ],
-      "publisher_domains": [
-        "internethaber.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
