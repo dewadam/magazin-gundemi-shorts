@@ -1,95 +1,58 @@
 {
-  "generated_at": "2026-11-02T16:25:28.457837+00:00",
+  "generated_at": "2026-11-02T21:53:43.176775+00:00",
   "candidate_count": 100,
-  "event_group_count": 46,
+  "event_group_count": 44,
   "multi_publisher_event_count": 11,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Hakkı Bulut'un şaşırtan vasiyet kararı: Çocukları için dikkat çeken sözler",
-      "normalized_title": "hakki bulut un sasirtan vasiyet karari cocuklari icin dikkat ceken sozler",
-      "url": "https://www.sozcu.com.tr/hakki-bulut-un-sasirtan-vasiyet-karari-cocuklari-icin-dikkat-ceken-sozler-p375318",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.614245+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/hakki-bulut-un-sasirtan-vasiyet-karari-cocuklari-icin-dikkat-ceken-sozler-p375318",
-          "title": "Hakkı Bulut'un şaşırtan vasiyet kararı: Çocukları için dikkat çeken sözler"
-        },
-        {
-          "source": "yenisafak.com",
-          "source_domain": "yenisafak.com",
-          "url": "https://www.yenisafak.com/galeri/hayat/hakki-bulutun-sasirtan-miras-karari-cocuklari-icin-dikkat-ceken-sozler-4869156",
-          "title": "Hakkı Bulut'un şaşırtan miras kararı: Çocukları için dikkat çeken sözler"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr",
-        "yenisafak.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Nev’in ardından miras tartışması başlamıştı: Ağabeyi hakkındaki iddialara yanıt verdi!",
-      "normalized_title": "nev in ardindan miras tartismasi baslamisti agabeyi hakkindaki iddialara yanit verdi",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/nevin-ardindan-miras-tartismasi-baslamisti-agabeyi-hakkindaki-iddialara-yanit-verdi",
+      "title": "Rapçi Killa Hakan’dan üzen haber! Yoğun bakıma kaldırıldı - Galeri - Trend Magazin",
+      "normalized_title": "rapci killa hakan dan uzen haber yogun bakima kaldirildi galeri trend magazin",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/rapci-killa-hakandan-uzen-haber-yogun-bakima-kaldirildi",
       "source": "sabah.com.tr",
       "source_role": "publisher",
       "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.614676+00:00",
+      "collected_at": "2026-11-02T21:53:07.044824+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/nev-in-agabeyi-zeyyat-dogansoy-dan-iddialara-yanit-3923941",
-          "title": "Nev'in ağabeyi Zeyyat Doğansoy'dan iddialara yanıt"
+          "source": "mynet.com",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/avukati-duyurdu-killa-hakan-yogun-bakima-kaldirildi-130100605959",
+          "title": "Avukatı duyurdu: Killa Hakan yoğun bakıma kaldırıldı - Magazin Haberleri"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/unlu-rapci-killa-hakan-yogun-bakima-kaldirildi-p375353",
+          "title": "Ünlü Rapçi Killa Hakan yoğun bakıma kaldırıldı"
         },
         {
           "source": "sabah.com.tr",
           "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/nevin-ardindan-miras-tartismasi-baslamisti-agabeyi-hakkindaki-iddialara-yanit-verdi",
-          "title": "Nev’in ardından miras tartışması başlamıştı: Ağabeyi hakkındaki iddialara yanıt verdi!"
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/rapci-killa-hakandan-uzen-haber-yogun-bakima-kaldirildi",
+          "title": "Rapçi Killa Hakan’dan üzen haber! Yoğun bakıma kaldırıldı - Galeri - Trend Magazin"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "sabah.com.tr"
+        "mynet.com",
+        "sabah.com.tr",
+        "sozcu.com.tr"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 30.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -105,7 +68,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.615219+00:00",
+      "collected_at": "2026-11-02T21:53:07.046416+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -138,6 +101,50 @@
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Bu Sefer Saklayamadı: Yeraltı'nın Sultan'ı Sümeyye Aydoğan Yeni Sevgilisiyle Görüntülendi!",
+      "normalized_title": "bu sefer saklayamadi yeralti nin sultan i sumeyye aydogan yeni sevgilisiyle goruntulendi",
+      "url": "https://onedio.com/haber/bu-sefer-saklayamadi-yeralti-nin-sultan-i-sumeyye-aydogan-in-yeni-sevgilisi-ilk-kez-ortaya-cikti-1392798",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-02T21:53:07.046665+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/sumeyye-aydogan-erdem-atalmis-ile-goruntulendi-3924200",
+          "title": "Sümeyye Aydoğan, Erdem Atalmış ile görüntülendi"
+        },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/bu-sefer-saklayamadi-yeralti-nin-sultan-i-sumeyye-aydogan-in-yeni-sevgilisi-ilk-kez-ortaya-cikti-1392798",
+          "title": "Bu Sefer Saklayamadı: Yeraltı'nın Sultan'ı Sümeyye Aydoğan Yeni Sevgilisiyle Görüntülendi!"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "onedio.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
     }
   ],
   "event_groups_preview": [
@@ -151,16 +158,16 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.616075+00:00",
+      "collected_at": "2026-11-02T21:53:07.045290+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/engin-altan-duzyatan-urdun-de-mike-tyson-ve-ronaldinho-ile-bir-araya-geldi-2552234",
-          "title": "Engin Altan Düzyatan, Ürdün'de Mike Tyson ve Ronaldinho ile bir araya geldi"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/engin-altan-duzyatan-mike-tyson-ve-ronaldinho-ile-urdun-de-bir-arada-3924112",
+          "title": "Engin Altan Düzyatan, Mike Tyson ve Ronaldinho ile Ürdün'de bir arada"
         },
         {
           "source": "sabah.com.tr",
@@ -169,23 +176,23 @@
           "title": "Tarihi kent Petra’da sürpriz buluşma: Engin Altan Düzyatan ve Mike Tyson bir araya geldi..."
         },
         {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/engin-altan-duzyatan-urdun-de-mike-tyson-ve-ronaldinho-ile-bir-araya-geldi-2552234",
+          "title": "Engin Altan Düzyatan, Ürdün'de Mike Tyson ve Ronaldinho ile bir araya geldi"
+        },
+        {
           "source": "mynet.com",
           "source_domain": "mynet.com",
           "url": "https://www.mynet.com/magazin/engin-altan-duzyatan-mike-tyson-ve-ronaldinho-ile-bulustu-130100605917",
           "title": "Engin Altan Düzyatan, Mike Tyson ve Ronaldinho ile buluştu - Magazin Haberleri"
-        },
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/engin-altan-duzyatan-ve-mike-tyson-urdun-de-bulustu-o-anlari-paylasti-p374866",
-          "title": "Engin Altan Düzyatan ve Mike Tyson Ürdün'de buluştu: O anları paylaştı"
         }
       ],
       "publisher_domains": [
         "cumhuriyet.com.tr",
+        "haberturk.com",
         "mynet.com",
-        "sabah.com.tr",
-        "sozcu.com.tr"
+        "sabah.com.tr"
       ],
       "publisher_count": 4,
       "direct_article_count": 4,
@@ -194,6 +201,108 @@
       "latest_published_at": null,
       "age_hours": 48.0,
       "popularity_score": 40.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Rapçi Killa Hakan’dan üzen haber! Yoğun bakıma kaldırıldı - Galeri - Trend Magazin",
+      "normalized_title": "rapci killa hakan dan uzen haber yogun bakima kaldirildi galeri trend magazin",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/rapci-killa-hakandan-uzen-haber-yogun-bakima-kaldirildi",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-02T21:53:07.044824+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "mynet.com",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/avukati-duyurdu-killa-hakan-yogun-bakima-kaldirildi-130100605959",
+          "title": "Avukatı duyurdu: Killa Hakan yoğun bakıma kaldırıldı - Magazin Haberleri"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/unlu-rapci-killa-hakan-yogun-bakima-kaldirildi-p375353",
+          "title": "Ünlü Rapçi Killa Hakan yoğun bakıma kaldırıldı"
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/rapci-killa-hakandan-uzen-haber-yogun-bakima-kaldirildi",
+          "title": "Rapçi Killa Hakan’dan üzen haber! Yoğun bakıma kaldırıldı - Galeri - Trend Magazin"
+        }
+      ],
+      "publisher_domains": [
+        "mynet.com",
+        "sabah.com.tr",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Yeşilçam'ın Bahar'ıydı: Hülya Koçyiğit, 'İlk Aşkım' Dediği Susuz Yaz'ın Yeni Dizi Uyarlaması İçin Ne Dedi?",
+      "normalized_title": "yesilcam in bahar iydi hulya kocyigit ilk askim dedigi susuz yaz in yeni dizi uyarlamasi icin ne dedi",
+      "url": "https://onedio.com/haber/yesilcam-in-bahar-iydi-hulya-kocyigit-ilk-askim-dedigi-susuz-yaz-in-yeni-dizi-uyarlamasi-icin-ne-dedi-1392827",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-02T21:53:07.046063+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/susuz-yaz-ilk-askim-43362192",
+          "title": "Susuz Yaz ilk aşkım"
+        },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/yesilcam-in-bahar-iydi-hulya-kocyigit-ilk-askim-dedigi-susuz-yaz-in-yeni-dizi-uyarlamasi-icin-ne-dedi-1392827",
+          "title": "Yeşilçam'ın Bahar'ıydı: Hülya Koçyiğit, 'İlk Aşkım' Dediği Susuz Yaz'ın Yeni Dizi Uyarlaması İçin Ne Dedi?"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/susuz-yaz-benim-ilk-askim-7691783",
+          "title": "‘Susuz Yaz’ benim ilk aşkım!’"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr",
+        "milliyet.com.tr",
+        "onedio.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -209,7 +318,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.617624+00:00",
+      "collected_at": "2026-11-02T21:53:07.047563+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -251,50 +360,6 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Hakkı Bulut'un şaşırtan vasiyet kararı: Çocukları için dikkat çeken sözler",
-      "normalized_title": "hakki bulut un sasirtan vasiyet karari cocuklari icin dikkat ceken sozler",
-      "url": "https://www.sozcu.com.tr/hakki-bulut-un-sasirtan-vasiyet-karari-cocuklari-icin-dikkat-ceken-sozler-p375318",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.614245+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/hakki-bulut-un-sasirtan-vasiyet-karari-cocuklari-icin-dikkat-ceken-sozler-p375318",
-          "title": "Hakkı Bulut'un şaşırtan vasiyet kararı: Çocukları için dikkat çeken sözler"
-        },
-        {
-          "source": "yenisafak.com",
-          "source_domain": "yenisafak.com",
-          "url": "https://www.yenisafak.com/galeri/hayat/hakki-bulutun-sasirtan-miras-karari-cocuklari-icin-dikkat-ceken-sozler-4869156",
-          "title": "Hakkı Bulut'un şaşırtan miras kararı: Çocukları için dikkat çeken sözler"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr",
-        "yenisafak.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
       "title": "Nev’in ardından miras tartışması başlamıştı: Ağabeyi hakkındaki iddialara yanıt verdi!",
       "normalized_title": "nev in ardindan miras tartismasi baslamisti agabeyi hakkindaki iddialara yanit verdi",
       "url": "https://www.sabah.com.tr/trend/galeri/magazin/nevin-ardindan-miras-tartismasi-baslamisti-agabeyi-hakkindaki-iddialara-yanit-verdi",
@@ -304,16 +369,16 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.614676+00:00",
+      "collected_at": "2026-11-02T21:53:07.045568+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/nev-in-agabeyi-zeyyat-dogansoy-dan-iddialara-yanit-3923941",
-          "title": "Nev'in ağabeyi Zeyyat Doğansoy'dan iddialara yanıt"
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/foto-haber/nevin-agabeyinden-miras-iddialarina-yanit,42857",
+          "title": "Nev’in ağabeyinden miras iddialarına yanıt"
         },
         {
           "source": "sabah.com.tr",
@@ -323,8 +388,8 @@
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "sabah.com.tr"
+        "sabah.com.tr",
+        "t24.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -348,7 +413,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.615219+00:00",
+      "collected_at": "2026-11-02T21:53:07.046416+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -383,80 +448,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Paris Hilton Kimdir, Kaç Yaşında, Nereli? Ünlü İş İnsanı ve Şarkıcı Paris Hilton'un Hayatı",
-      "normalized_title": "paris hilton kimdir kac yasinda nereli unlu is insani ve sarkici paris hilton un hayati",
-      "url": "https://onedio.com/haber/paris-hilton-kimdir-kac-yasinda-nereli-unlu-is-insani-ve-sarkici-paris-hilton-un-hayati-1392741",
+      "title": "Bu Sefer Saklayamadı: Yeraltı'nın Sultan'ı Sümeyye Aydoğan Yeni Sevgilisiyle Görüntülendi!",
+      "normalized_title": "bu sefer saklayamadi yeralti nin sultan i sumeyye aydogan yeni sevgilisiyle goruntulendi",
+      "url": "https://onedio.com/haber/bu-sefer-saklayamadi-yeralti-nin-sultan-i-sumeyye-aydogan-in-yeni-sevgilisi-ilk-kez-ortaya-cikti-1392798",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.615494+00:00",
+      "collected_at": "2026-11-02T21:53:07.046665+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/sumeyye-aydogan-erdem-atalmis-ile-goruntulendi-3924200",
+          "title": "Sümeyye Aydoğan, Erdem Atalmış ile görüntülendi"
+        },
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/paris-hilton-kimdir-kac-yasinda-nereli-unlu-is-insani-ve-sarkici-paris-hilton-un-hayati-1392741",
-          "title": "Paris Hilton Kimdir, Kaç Yaşında, Nereli? Ünlü İş İnsanı ve Şarkıcı Paris Hilton'un Hayatı"
-        },
-        {
-          "source": "alanyapostasi.com.tr",
-          "source_domain": "alanyapostasi.com.tr",
-          "url": "https://www.alanyapostasi.com.tr/paris-hilton-kimdir-kac-yasinda",
-          "title": "Paris Hilton kimdir, kaç yaşında?"
+          "url": "https://onedio.com/haber/bu-sefer-saklayamadi-yeralti-nin-sultan-i-sumeyye-aydogan-in-yeni-sevgilisi-ilk-kez-ortaya-cikti-1392798",
+          "title": "Bu Sefer Saklayamadı: Yeraltı'nın Sultan'ı Sümeyye Aydoğan Yeni Sevgilisiyle Görüntülendi!"
         }
       ],
       "publisher_domains": [
-        "alanyapostasi.com.tr",
+        "haberturk.com",
         "onedio.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "‘Susuz Yaz’ benim ilk aşkım!’",
-      "normalized_title": "susuz yaz benim ilk askim",
-      "url": "https://www.milliyet.com.tr/magazin/susuz-yaz-benim-ilk-askim-7691783",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.616450+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/susuz-yaz-ilk-askim-43362192",
-          "title": "Susuz Yaz ilk aşkım"
-        },
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/susuz-yaz-benim-ilk-askim-7691783",
-          "title": "‘Susuz Yaz’ benim ilk aşkım!’"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr",
-        "milliyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -480,7 +501,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.616608+00:00",
+      "collected_at": "2026-11-02T21:53:07.046873+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -524,7 +545,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.616786+00:00",
+      "collected_at": "2026-11-02T21:53:07.046995+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -568,7 +589,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.617228+00:00",
+      "collected_at": "2026-11-02T21:53:07.047308+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -612,7 +633,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.617324+00:00",
+      "collected_at": "2026-11-02T21:53:07.047361+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -647,6 +668,80 @@
       "coverage_label": "multi_publisher"
     },
     {
+      "title": "Bursa’da ‘Alaturka’nın Yıldızları’ sahne aldı - Olay Gazetesi Bursa",
+      "normalized_title": "bursa da alaturka nin yildizlari sahne aldi olay gazetesi bursa",
+      "url": "https://www.olay.com.tr/bursada-alaturkanin-yildizlari-sahne-aldi-1797536",
+      "source": "olay.com.tr",
+      "source_role": "publisher",
+      "source_domain": "olay.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-02T21:53:07.047858+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "olay.com.tr",
+          "source_domain": "olay.com.tr",
+          "url": "https://www.olay.com.tr/bursada-alaturkanin-yildizlari-sahne-aldi-1797536",
+          "title": "Bursa’da ‘Alaturka’nın Yıldızları’ sahne aldı - Olay Gazetesi Bursa"
+        }
+      ],
+      "publisher_domains": [
+        "olay.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 2,
+      "discovery_item_count": 1,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Rap Müziğin Efsane İsimlerinden Killa Hakan Yoğun Bakımda: Avukatı Şükrü Sarıdere İlk Açıklamayı Yaptı",
+      "normalized_title": "rap muzigin efsane isimlerinden killa hakan yogun bakimda avukati sukru saridere ilk aciklamayi yapti",
+      "url": "https://onedio.com/haber/killa-hakan-yogun-bakima-kaldirildi-avukati-sukru-saridere-ilk-aciklamayi-yapti-1393060",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-02T21:53:07.044897+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/killa-hakan-yogun-bakima-kaldirildi-avukati-sukru-saridere-ilk-aciklamayi-yapti-1393060",
+          "title": "Rap Müziğin Efsane İsimlerinden Killa Hakan Yoğun Bakımda: Avukatı Şükrü Sarıdere İlk Açıklamayı Yaptı"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Sinem Kobal aile düzenini anlattı: Setlere dönüş sürecini ve çocuklarıyla kurdukları yaşamı paylaştı",
       "normalized_title": "sinem kobal aile duzenini anlatti setlere donus surecini ve cocuklariyla kurduklari yasami paylasti",
       "url": "https://www.cumhuriyet.com.tr/magazin/sinem-kobal-aile-duzenini-anlatti-setlere-donus-surecini-ve-cocuklariyla-kurduklari-yasami-paylasti-2552567",
@@ -656,7 +751,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.613335+00:00",
+      "collected_at": "2026-11-02T21:53:07.044965+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -693,7 +788,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.613479+00:00",
+      "collected_at": "2026-11-02T21:53:07.045042+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -721,29 +816,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Sinem Kobal anlattı! Kızlarını bu kurallarla büyütüyorlar",
-      "normalized_title": "sinem kobal anlatti kizlarini bu kurallarla buyutuyorlar",
-      "url": "https://www.posta.com.tr/galeri/sinem-kobal-anlatti-kizlarini-bu-kurallarla-buyutuyorlar-3059763",
-      "source": "posta.com.tr",
+      "title": "Sinem Kobal aile yaşantısını anlattı: Kenan mutfakta benden daha becerikli, kızlara ekran izletmiyoruz",
+      "normalized_title": "sinem kobal aile yasantisini anlatti kenan mutfakta benden daha becerikli kizlara ekran izletmiyoruz",
+      "url": "https://t24.com.tr/magazin/sinem-kobal-aile-yasantisini-anlatti-kenan-mutfakta-benden-daha-becerikli-kizlara-ekran-izletmiyoruz,1356675",
+      "source": "t24.com.tr",
       "source_role": "publisher",
-      "source_domain": "posta.com.tr",
+      "source_domain": "t24.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.613565+00:00",
+      "collected_at": "2026-11-02T21:53:07.045116+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "posta.com.tr",
-          "source_domain": "posta.com.tr",
-          "url": "https://www.posta.com.tr/galeri/sinem-kobal-anlatti-kizlarini-bu-kurallarla-buyutuyorlar-3059763",
-          "title": "Sinem Kobal anlattı! Kızlarını bu kurallarla büyütüyorlar"
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/sinem-kobal-aile-yasantisini-anlatti-kenan-mutfakta-benden-daha-becerikli-kizlara-ekran-izletmiyoruz,1356675",
+          "title": "Sinem Kobal aile yaşantısını anlattı: Kenan mutfakta benden daha becerikli, kızlara ekran izletmiyoruz"
         }
       ],
       "publisher_domains": [
-        "posta.com.tr"
+        "t24.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -758,288 +853,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Sinem Kobal paylaştı! İşte kızları Lalin ve Leyla'nın son hali",
-      "normalized_title": "sinem kobal paylasti iste kizlari lalin ve leyla nin son hali",
-      "url": "https://www.milliyet.com.tr/magazin/galeri/sinem-kobal-paylasti-iste-kizlari-lalin-ve-leylanin-son-hali-7691030",
-      "source": "milliyet.com.tr",
+      "title": "Sinem Kobal: Hiçbir zaman bir engel olarak görmedim",
+      "normalized_title": "sinem kobal hicbir zaman bir engel olarak gormedim",
+      "url": "https://www.haberturk.com/magazin/foto/sinem-kobal-hicbir-zaman-bir-engel-olarak-gormedim-3924405",
+      "source": "haberturk.com",
       "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
+      "source_domain": "haberturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.613646+00:00",
+      "collected_at": "2026-11-02T21:53:07.045168+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/sinem-kobal-paylasti-iste-kizlari-lalin-ve-leylanin-son-hali-7691030",
-          "title": "Sinem Kobal paylaştı! İşte kızları Lalin ve Leyla'nın son hali"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/sinem-kobal-hicbir-zaman-bir-engel-olarak-gormedim-3924405",
+          "title": "Sinem Kobal: Hiçbir zaman bir engel olarak görmedim"
         }
       ],
       "publisher_domains": [
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "17 yaş küçük sevgilisiyle huzuru buldu: Bülent Şakrak evlilik yolunda",
-      "normalized_title": "17 yas kucuk sevgilisiyle huzuru buldu bulent sakrak evlilik yolunda",
-      "url": "https://www.sozcu.com.tr/17-yas-kucuk-sevgilisiyle-huzuru-buldu-bulent-sakrak-evlilik-karari-aldi-p375198",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.613728+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/17-yas-kucuk-sevgilisiyle-huzuru-buldu-bulent-sakrak-evlilik-karari-aldi-p375198",
-          "title": "17 yaş küçük sevgilisiyle huzuru buldu: Bülent Şakrak evlilik yolunda"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Her fırsatta aşkını haykırıyor! Bülent Şakrak’tan samimi itiraf: Evlenmek istiyorum!",
-      "normalized_title": "her firsatta askini haykiriyor bulent sakrak tan samimi itiraf evlenmek istiyorum",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/her-firsatta-askini-haykiriyor-bulent-sakraktan-samimi-itiraf-evlenmek-istiyorum",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.613820+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/her-firsatta-askini-haykiriyor-bulent-sakraktan-samimi-itiraf-evlenmek-istiyorum",
-          "title": "Her fırsatta aşkını haykırıyor! Bülent Şakrak’tan samimi itiraf: Evlenmek istiyorum!"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Bülent Şakrak aşka geldi: ‘Seviyorum’",
-      "normalized_title": "bulent sakrak aska geldi seviyorum",
-      "url": "https://www.cnnturk.com/magazin/galeri/bulent-sakrak-aska-geldi-seviyorum-3487182",
-      "source": "cnnturk.com",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.613892+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/bulent-sakrak-aska-geldi-seviyorum-3487182",
-          "title": "Bülent Şakrak aşka geldi: ‘Seviyorum’"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yaş farkı çok konuşulmuştu! Bülent Şakrak sevgilisi Duygu Arabacıoğlu'na aşkını ilan etti",
-      "normalized_title": "yas farki cok konusulmustu bulent sakrak sevgilisi duygu arabacioglu na askini ilan etti",
-      "url": "https://www.milliyet.com.tr/magazin/galeri/yas-farki-cok-konusulmustu-bulent-sakrak-sevgilisi-duygu-arabaciogluna-askini-ilan-etti-7691592",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.613983+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/yas-farki-cok-konusulmustu-bulent-sakrak-sevgilisi-duygu-arabaciogluna-askini-ilan-etti-7691592",
-          "title": "Yaş farkı çok konuşulmuştu! Bülent Şakrak sevgilisi Duygu Arabacıoğlu'na aşkını ilan etti"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Güldür Güldür Oyuncusu Olan Merve Dizdar'ın Eski Eşi, Serenay Sarıkaya'nın Yeni Filmine Dahil Oldu!",
-      "normalized_title": "guldur guldur oyuncusu olan merve dizdar in eski esi serenay sarikaya nin yeni filmine dahil oldu",
-      "url": "https://onedio.com/haber/guldur-guldur-oyuncusu-olan-merve-dizdar-in-eski-esi-serenay-sarikaya-nin-yeni-filmine-dahil-oldu-1392986",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.614076+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/guldur-guldur-oyuncusu-olan-merve-dizdar-in-eski-esi-serenay-sarikaya-nin-yeni-filmine-dahil-oldu-1392986",
-          "title": "Güldür Güldür Oyuncusu Olan Merve Dizdar'ın Eski Eşi, Serenay Sarıkaya'nın Yeni Filmine Dahil Oldu!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yıllar Önce Canlı Yayında Oğluyla Kapışmıştı: Hakkı Bulut'un Miras ve Vasiyet Kararı Gündem Oldu!",
-      "normalized_title": "yillar once canli yayinda ogluyla kapismisti hakki bulut un miras ve vasiyet karari gundem oldu",
-      "url": "https://onedio.com/haber/yillar-once-canli-yayinda-ogluyla-kapismisti-hakki-bulut-un-miras-ve-vasiyet-karari-gundem-oldu-1392985",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.614166+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/yillar-once-canli-yayinda-ogluyla-kapismisti-hakki-bulut-un-miras-ve-vasiyet-karari-gundem-oldu-1392985",
-          "title": "Yıllar Önce Canlı Yayında Oğluyla Kapışmıştı: Hakkı Bulut'un Miras ve Vasiyet Kararı Gündem Oldu!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Sahnede fenalaşıp hastanelik olmuştu! Hakkı Bulut'tan vasiyet açıklaması: Mirası hakkında o kararı verdi…",
-      "normalized_title": "sahnede fenalasip hastanelik olmustu hakki bulut tan vasiyet aciklamasi mirasi hakkinda o karari verdi",
-      "url": "https://www.sabah.com.tr/magazin/sahnede-fenalasip-hastanelik-olmustu-hakki-buluttan-vasiyet-aciklamasi-mirasi-hakkinda-o-karari-verdi-7693470",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.614361+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/sahnede-fenalasip-hastanelik-olmustu-hakki-buluttan-vasiyet-aciklamasi-mirasi-hakkinda-o-karari-verdi-7693470",
-          "title": "Sahnede fenalaşıp hastanelik olmuştu! Hakkı Bulut'tan vasiyet açıklaması: Mirası hakkında o kararı verdi…"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
+        "haberturk.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1063,7 +899,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.614593+00:00",
+      "collected_at": "2026-11-02T21:53:07.045508+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1100,7 +936,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.614767+00:00",
+      "collected_at": "2026-11-02T21:53:07.045626+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1128,6 +964,191 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "Güldür Güldür Oyuncusu Olan Merve Dizdar'ın Eski Eşi, Serenay Sarıkaya'nın Yeni Filmine Dahil Oldu!",
+      "normalized_title": "guldur guldur oyuncusu olan merve dizdar in eski esi serenay sarikaya nin yeni filmine dahil oldu",
+      "url": "https://onedio.com/haber/guldur-guldur-oyuncusu-olan-merve-dizdar-in-eski-esi-serenay-sarikaya-nin-yeni-filmine-dahil-oldu-1392986",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-02T21:53:07.045698+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/guldur-guldur-oyuncusu-olan-merve-dizdar-in-eski-esi-serenay-sarikaya-nin-yeni-filmine-dahil-oldu-1392986",
+          "title": "Güldür Güldür Oyuncusu Olan Merve Dizdar'ın Eski Eşi, Serenay Sarıkaya'nın Yeni Filmine Dahil Oldu!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "17 yaş küçük sevgilisiyle huzuru buldu: Bülent Şakrak evlilik yolunda",
+      "normalized_title": "17 yas kucuk sevgilisiyle huzuru buldu bulent sakrak evlilik yolunda",
+      "url": "https://www.sozcu.com.tr/17-yas-kucuk-sevgilisiyle-huzuru-buldu-bulent-sakrak-evlilik-karari-aldi-p375198",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-02T21:53:07.045758+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/17-yas-kucuk-sevgilisiyle-huzuru-buldu-bulent-sakrak-evlilik-karari-aldi-p375198",
+          "title": "17 yaş küçük sevgilisiyle huzuru buldu: Bülent Şakrak evlilik yolunda"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Her fırsatta aşkını haykırıyor! Bülent Şakrak’tan samimi itiraf: Evlenmek istiyorum!",
+      "normalized_title": "her firsatta askini haykiriyor bulent sakrak tan samimi itiraf evlenmek istiyorum",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/her-firsatta-askini-haykiriyor-bulent-sakraktan-samimi-itiraf-evlenmek-istiyorum",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-02T21:53:07.045819+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/her-firsatta-askini-haykiriyor-bulent-sakraktan-samimi-itiraf-evlenmek-istiyorum",
+          "title": "Her fırsatta aşkını haykırıyor! Bülent Şakrak’tan samimi itiraf: Evlenmek istiyorum!"
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Bülent Şakrak'tan evlilik müjdesi! 17 yaş küçük sevgilisi hakkında konuştu",
+      "normalized_title": "bulent sakrak tan evlilik mujdesi 17 yas kucuk sevgilisi hakkinda konustu",
+      "url": "https://www.sondakika.com/magazin/haber-bulent-sakraktan-evlilik-mujdesi-17-yas-kucuk-20388836/",
+      "source": "sondakika.com",
+      "source_role": "publisher",
+      "source_domain": "sondakika.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-02T21:53:07.045875+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/magazin/haber-bulent-sakraktan-evlilik-mujdesi-17-yas-kucuk-20388836/",
+          "title": "Bülent Şakrak'tan evlilik müjdesi! 17 yaş küçük sevgilisi hakkında konuştu"
+        }
+      ],
+      "publisher_domains": [
+        "sondakika.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Bülent Şakrak aşka geldi: ‘Seviyorum’",
+      "normalized_title": "bulent sakrak aska geldi seviyorum",
+      "url": "https://www.cnnturk.com/magazin/galeri/bulent-sakrak-aska-geldi-seviyorum-3487182",
+      "source": "cnnturk.com",
+      "source_role": "publisher",
+      "source_domain": "cnnturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-02T21:53:07.045917+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/bulent-sakrak-aska-geldi-seviyorum-3487182",
+          "title": "Bülent Şakrak aşka geldi: ‘Seviyorum’"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Magazin dünyasında neler oluyor?",
       "normalized_title": "magazin dunyasinda neler oluyor",
       "url": "https://www.hurriyet.com.tr/galeri-magazin-dunyasinda-neler-oluyor-43362982",
@@ -1137,7 +1158,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.614827+00:00",
+      "collected_at": "2026-11-02T21:53:07.045956+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1165,6 +1186,43 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "‘Susuz Yaz’ için geri sayım başladı",
+      "normalized_title": "susuz yaz icin geri sayim basladi",
+      "url": "https://www.yenicaggazetesi.com/yenicag-yazari-mehmet-sahincileroglu-yazdi-susuz-yaz-icin-geri-sayim-basladi-1087203h.htm",
+      "source": "yenicaggazetesi.com",
+      "source_role": "publisher",
+      "source_domain": "yenicaggazetesi.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-02T21:53:07.046151+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yenicaggazetesi.com",
+          "source_domain": "yenicaggazetesi.com",
+          "url": "https://www.yenicaggazetesi.com/yenicag-yazari-mehmet-sahincileroglu-yazdi-susuz-yaz-icin-geri-sayim-basladi-1087203h.htm",
+          "title": "‘Susuz Yaz’ için geri sayım başladı"
+        }
+      ],
+      "publisher_domains": [
+        "yenicaggazetesi.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Tanıdık hikayeler yeni isimler kazanıyor | Kültür Sanat Haberleri",
       "normalized_title": "tanidik hikayeler yeni isimler kazaniyor kultur sanat haberleri",
       "url": "https://www.yenisafak.com/hayat/tanidik-hikayeler-yeni-isimler-kazaniyor-4868998",
@@ -1174,7 +1232,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.614900+00:00",
+      "collected_at": "2026-11-02T21:53:07.046202+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1202,66 +1260,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Uluslararası Antalya Altın Portakal Film Festivali sona erdi",
-      "normalized_title": "uluslararasi antalya altin portakal film festivali sona erdi",
-      "url": "https://www.cumhuriyet.com.tr/kultur-sanat/uluslararasi-antalya-altin-portakal-film-festivali-sona-erdi-2552355",
-      "source": "cumhuriyet.com.tr",
+      "title": "Altın Portakal’da her film bir hikâye | Sayım Çınar Köşe Yazısı",
+      "normalized_title": "altin portakal da her film bir hikaye sayim cinar kose yazisi",
+      "url": "https://www.hurriyet.com.tr/yazarlar/sayim-cinar/altin-portakalda-her-film-bir-hikaye-43362862",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.614967+00:00",
+      "collected_at": "2026-11-02T21:53:07.046256+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/uluslararasi-antalya-altin-portakal-film-festivali-sona-erdi-2552355",
-          "title": "Uluslararası Antalya Altın Portakal Film Festivali sona erdi"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/yazarlar/sayim-cinar/altin-portakalda-her-film-bir-hikaye-43362862",
+          "title": "Altın Portakal’da her film bir hikâye | Sayım Çınar Köşe Yazısı"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Altın Portakaldan artakalanlar",
-      "normalized_title": "altin portakaldan artakalanlar",
-      "url": "https://www.birgun.net/makale/altin-portakaldan-artakalanlar-743764",
-      "source": "birgun.net",
-      "source_role": "publisher",
-      "source_domain": "birgun.net",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.615021+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "birgun.net",
-          "source_domain": "birgun.net",
-          "url": "https://www.birgun.net/makale/altin-portakaldan-artakalanlar-743764",
-          "title": "Altın Portakaldan artakalanlar"
-        }
-      ],
-      "publisher_domains": [
-        "birgun.net"
+        "hurriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1285,7 +1306,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.615083+00:00",
+      "collected_at": "2026-11-02T21:53:07.046299+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1322,7 +1343,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T16:23:59.615144+00:00",
+      "collected_at": "2026-11-02T21:53:07.046340+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
