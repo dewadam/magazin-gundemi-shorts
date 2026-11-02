@@ -1,275 +1,124 @@
 {
-  "generated_at": "2026-11-02T09:01:16.151216+00:00",
+  "generated_at": "2026-11-02T16:25:30.427432+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
-      "title": "Tarihi kent Petra’da sürpriz buluşma: Engin Altan Düzyatan ve Mike Tyson bir araya geldi...",
-      "normalized_title": "tarihi kent petra da surpriz bulusma engin altan duzyatan ve mike tyson bir araya geldi",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/tarihi-kent-petrada-surpriz-bulusma-engin-altan-duzyatan-ve-mike-tyson-bir-araya-geldi",
+      "title": "Hakkı Bulut'un şaşırtan vasiyet kararı: Çocukları için dikkat çeken sözler",
+      "normalized_title": "hakki bulut un sasirtan vasiyet karari cocuklari icin dikkat ceken sozler",
+      "url": "https://www.sozcu.com.tr/hakki-bulut-un-sasirtan-vasiyet-karari-cocuklari-icin-dikkat-ceken-sozler-p375318",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-02T16:23:59.614245+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/hakki-bulut-un-sasirtan-vasiyet-karari-cocuklari-icin-dikkat-ceken-sozler-p375318",
+          "title": "Hakkı Bulut'un şaşırtan vasiyet kararı: Çocukları için dikkat çeken sözler"
+        },
+        {
+          "source": "yenisafak.com",
+          "source_domain": "yenisafak.com",
+          "url": "https://www.yenisafak.com/galeri/hayat/hakki-bulutun-sasirtan-miras-karari-cocuklari-icin-dikkat-ceken-sozler-4869156",
+          "title": "Hakkı Bulut'un şaşırtan miras kararı: Çocukları için dikkat çeken sözler"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr",
+        "yenisafak.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Hakkı Bulut'un şaşırtan vasiyet kararı: Çocukları için dikkat çeken sözler - Sözcü",
+        "og_title": "Hakkı Bulut'un şaşırtan vasiyet kararı: Çocukları için dikkat çeken sözler - Sözcü Gazetesi",
+        "description": "Sahnede yaşadığı rahatsızlık nedeniyle sevenlerini korkutan 81 yaşındaki sanatçı Hakkı Bulut, bu kez miras ve vasiyet açıklamalarıyla gündeme geldi. Vasiyet hazırlamayı düşünmediğini söyleyen usta sanatçı, çocuklarının miras nedeniyle anlaşmazlık yaşamayacağını belirtti. Bulut, yıllar önce oğlu Özbey",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "yenisafak.com",
+          "source_domain": "yenisafak.com",
+          "title": "Hakkı Bulut'un şaşırtan miras kararı: Çocukları için dikkat çeken sözler",
+          "summary": "",
+          "url": "https://www.yenisafak.com/galeri/hayat/hakki-bulutun-sasirtan-miras-karari-cocuklari-icin-dikkat-ceken-sozler-4869156",
+          "match_score": 0.82,
+          "shared_keywords": [
+            "bulut",
+            "ceken",
+            "cocuklar",
+            "dikkat",
+            "hakk",
+            "karar",
+            "rtan",
+            "sas",
+            "sozler"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Nev’in ardından miras tartışması başlamıştı: Ağabeyi hakkındaki iddialara yanıt verdi!",
+      "normalized_title": "nev in ardindan miras tartismasi baslamisti agabeyi hakkindaki iddialara yanit verdi",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/nevin-ardindan-miras-tartismasi-baslamisti-agabeyi-hakkindaki-iddialara-yanit-verdi",
       "source": "sabah.com.tr",
       "source_role": "publisher",
       "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-02T09:00:38.674131+00:00",
+      "collected_at": "2026-11-02T16:23:59.614676+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "mynet.com",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/engin-altan-duzyatan-mike-tyson-ve-ronaldinho-ile-bulustu-130100605917",
-          "title": "Engin Altan Düzyatan, Mike Tyson ve Ronaldinho ile buluştu - Magazin Haberleri"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/nev-in-agabeyi-zeyyat-dogansoy-dan-iddialara-yanit-3923941",
+          "title": "Nev'in ağabeyi Zeyyat Doğansoy'dan iddialara yanıt"
         },
         {
           "source": "sabah.com.tr",
           "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/tarihi-kent-petrada-surpriz-bulusma-engin-altan-duzyatan-ve-mike-tyson-bir-araya-geldi",
-          "title": "Tarihi kent Petra’da sürpriz buluşma: Engin Altan Düzyatan ve Mike Tyson bir araya geldi..."
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/engin-altan-duzyatan-urdun-de-mike-tyson-ve-ronaldinho-ile-bir-araya-geldi-2552234",
-          "title": "Engin Altan Düzyatan, Ürdün'de Mike Tyson ve Ronaldinho ile bir araya geldi"
-        },
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/engin-altan-duzyatan-ve-mike-tyson-urdun-de-bulustu-o-anlari-paylasti-p374866",
-          "title": "Engin Altan Düzyatan ve Mike Tyson Ürdün'de buluştu: O anları paylaştı"
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/nevin-ardindan-miras-tartismasi-baslamisti-agabeyi-hakkindaki-iddialara-yanit-verdi",
+          "title": "Nev’in ardından miras tartışması başlamıştı: Ağabeyi hakkındaki iddialara yanıt verdi!"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "mynet.com",
-        "sabah.com.tr",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 4,
-      "direct_article_count": 4,
-      "event_member_count": 4,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 40.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Tarihi kent Petra'da sürpriz buluşma: Engin Altan Düzyatan ve Mike Tyson bir araya geldi... - Galeri - Trend Magazin",
-        "og_title": "Tarihi kent Petra'da sürpriz buluşma: Engin Altan Düzyatan ve Mike Tyson bir araya geldi…",
-        "description": "Ürdün'ün büyüleyici atmosferine adımı atan Engin Altan Düzyatan, tarihi Petra antik kentinden yaptığı paylaşımlarla sosyal medyada büyük ses getirdi. Katıldığı uluslararası organizasyon kapsamında ülkenin simge noktalarını gezen ünlü oyuncunun,...",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "mynet.com",
-          "source_domain": "mynet.com",
-          "title": "Engin Altan Düzyatan, Mike Tyson ve Ronaldinho ile buluştu - Magazin Haberleri",
-          "summary": "",
-          "url": "https://www.mynet.com/magazin/engin-altan-duzyatan-mike-tyson-ve-ronaldinho-ile-bulustu-130100605917",
-          "match_score": 0.48,
-          "shared_keywords": [
-            "altan",
-            "duzyatan",
-            "engin",
-            "mike",
-            "tyson"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "title": "Engin Altan Düzyatan, Ürdün'de Mike Tyson ve Ronaldinho ile bir araya geldi",
-          "summary": "",
-          "url": "https://www.cumhuriyet.com.tr/magazin/engin-altan-duzyatan-urdun-de-mike-tyson-ve-ronaldinho-ile-bir-araya-geldi-2552234",
-          "match_score": 0.61,
-          "shared_keywords": [
-            "altan",
-            "araya",
-            "duzyatan",
-            "engin",
-            "geldi",
-            "mike",
-            "tyson"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        },
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "title": "Engin Altan Düzyatan ve Mike Tyson Ürdün'de buluştu: O anları paylaştı",
-          "summary": "",
-          "url": "https://www.sozcu.com.tr/engin-altan-duzyatan-ve-mike-tyson-urdun-de-bulustu-o-anlari-paylasti-p374866",
-          "match_score": 0.45,
-          "shared_keywords": [
-            "altan",
-            "duzyatan",
-            "engin",
-            "mike",
-            "tyson"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "Şevket Çoruh'tan Altın Portakal'da olay yaratan hareket! Pınar Altuğ'u pas geçti, Tamer Karadağlı'ya göndermesi alkış aldı",
-      "normalized_title": "sevket coruh tan altin portakal da olay yaratan hareket pinar altug u pas gecti tamer karadagli ya gondermesi alkis aldi",
-      "url": "https://www.bursadabugun.com/haber/sevket-coruh-tan-altin-portakal-da-olay-yaratan-hareket-pinar-altug-u-pas-gecti-tamer-karadagli-ya-gondermesi-alkis-aldi-1960548.html",
-      "source": "bursadabugun.com",
-      "source_role": "publisher",
-      "source_domain": "bursadabugun.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-02T09:00:38.672852+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/sevket-coruh-pinar-altug-un-elini-sikmadi-tamer-karadagli-ya-gonderme-yapti-p374912",
-          "title": "Şevket Çoruh, Pınar Altuğ’un elini sıkmadı: Tamer Karadağlı’ya gönderme yaptı"
-        },
-        {
-          "source": "mynet.com",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/sevket-coruh-once-pinar-altug-u-opmedi-sonra-tamer-karadagli-ya-gonderme-yapti-130100605902",
-          "title": "Şevket Çoruh önce Pınar Altuğ'u öpmedi sonra Tamer Karadağlı'ya gönderme yaptı - Magazin Haberleri"
-        },
-        {
-          "source": "bursadabugun.com",
-          "source_domain": "bursadabugun.com",
-          "url": "https://www.bursadabugun.com/haber/sevket-coruh-tan-altin-portakal-da-olay-yaratan-hareket-pinar-altug-u-pas-gecti-tamer-karadagli-ya-gondermesi-alkis-aldi-1960548.html",
-          "title": "Şevket Çoruh'tan Altın Portakal'da olay yaratan hareket! Pınar Altuğ'u pas geçti, Tamer Karadağlı'ya göndermesi alkış aldı"
-        }
-      ],
-      "publisher_domains": [
-        "bursadabugun.com",
-        "mynet.com",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Şevket Çoruh'tan Altın Portakal'da olay yaratan hareket! Pınar Altuğ'u pas geçti, Tamer Karadağlı'ya göndermesi alkış aldı - Magazin Haberleri - Bursadabugun.com",
-        "og_title": "Şevket Çoruh'tan Altın Portakal'da olay yaratan hareket! Pınar Altuğ'u pas geçti, Tamer Karadağlı'ya göndermesi alkış aldı",
-        "description": "Antalya Altın Portakal Film Festivali'nin kapanış gecesinde yaşananlar, ödül töreninin ardından magazin gündeminin en çok konuşulan konuları arasına girdi. Törene katılan oyuncu Şevket Çoruh'un sahnedeki tavırları ve yaptığı esprili konuşma dikkat çekti. Önce Emre Kınay ile samimi şekilde kucaklaşan Çoruh'un, hemen yanında bulunan Pınar Altuğ'u selamlamadan geçmesi gözlerden kaçmadı. Ünlü oyuncunun daha sonra Tamer Karadağlı'ya yönelik sözleri ise salonda kahkahalara ve alkışlara neden oldu.",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "title": "Şevket Çoruh, Pınar Altuğ’un elini sıkmadı: Tamer Karadağlı’ya gönderme yaptı",
-          "summary": "",
-          "url": "https://www.sozcu.com.tr/sevket-coruh-pinar-altug-un-elini-sikmadi-tamer-karadagli-ya-gonderme-yapti-p374912",
-          "match_score": 0.52,
-          "shared_keywords": [
-            "altug",
-            "coruh",
-            "karadagl",
-            "nar",
-            "sevket",
-            "tamer"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        },
-        {
-          "source": "mynet.com",
-          "source_domain": "mynet.com",
-          "title": "Şevket Çoruh önce Pınar Altuğ'u öpmedi sonra Tamer Karadağlı'ya gönderme yaptı - Magazin Haberleri",
-          "summary": "",
-          "url": "https://www.mynet.com/magazin/sevket-coruh-once-pinar-altug-u-opmedi-sonra-tamer-karadagli-ya-gonderme-yapti-130100605902",
-          "match_score": 0.51,
-          "shared_keywords": [
-            "altug",
-            "coruh",
-            "karadagl",
-            "nar",
-            "sevket",
-            "tamer"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "Türk müziğinin iki dev ismi bir arada: Orhan Gencebay bağlama çaldı, Tarkan söyledi",
-      "normalized_title": "turk muziginin iki dev ismi bir arada orhan gencebay baglama caldi tarkan soyledi",
-      "url": "https://www.cumhuriyet.com.tr/magazin/turk-muziginin-iki-dev-ismi-bir-arada-orhan-gencebay-baglama-caldi-tarkan-soyledi-2552122",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-02T09:00:38.673161+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/gencebay-caldi-tarkan-soyledi-7692260",
-          "title": "Gencebay çaldı, Tarkan söyledi"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/orhan-gencebay-caldi-tarkan-soyledi-3923957",
-          "title": "Orhan Gencebay çaldı, Tarkan söyledi"
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/turk-muziginin-iki-dev-ismi-bir-arada-orhan-gencebay-baglama-caldi-tarkan-soyledi-2552122",
-          "title": "Türk müziğinin iki dev ismi bir arada: Orhan Gencebay bağlama çaldı, Tarkan söyledi"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr",
         "haberturk.com",
-        "milliyet.com.tr"
+        "sabah.com.tr"
       ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
       "publication_approved": false,
@@ -277,41 +126,100 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Türk müziğinin iki dev ismi bir arada: Orhan Gencebay bağlama çaldı, Tarkan söyledi - Son Dakika Magazin Haberleri | Cumhuriyet",
-        "og_title": "Türk müziğinin iki dev ismi bir arada: Orhan Gencebay bağlama çaldı, Tarkan söyledi",
-        "description": "Türk müziğinin iki usta ismi Tarkan ve Orhan Gencebay, bir araya geldikleri buluşmada 'Hatasız Kul Olmaz' şarkısını birlikte seslendirdi. O anlara ilişkin görüntüler Sevim Emre tarafından sosyal medyada paylaşılarak müzikseverlerden büyük ilgi gördü.",
+        "page_title": "Nev’in ardından miras tartışması başlamıştı: Ağabeyi hakkındaki iddialara yanıt verdi! - Galeri - Trend Magazin",
+        "og_title": "Nev’in ardından miras tartışması başlamıştı: Ağabeyi hakkındaki iddialara yanıt verdi!",
+        "description": "Geçtiğimiz günlerde 57 yaşında hayatını kaybeden müzisyen Nev'in vefatının ardından, annesinin hastalık döneminden beri küs olduğu öne sürülen ağabeyi Mehmed Zeyyad Doğansoy'un miras ve mal varlığı tespiti için harekete geçtiği iddia edildi....",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "title": "Gencebay çaldı, Tarkan söyledi",
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "title": "Nev'in ağabeyi Zeyyat Doğansoy'dan iddialara yanıt",
           "summary": "",
-          "url": "https://www.milliyet.com.tr/magazin/gencebay-caldi-tarkan-soyledi-7692260",
-          "match_score": 0.72,
+          "url": "https://www.haberturk.com/magazin/foto/nev-in-agabeyi-zeyyat-dogansoy-dan-iddialara-yanit-3923941",
+          "match_score": 0.49,
           "shared_keywords": [
-            "cald",
-            "gencebay",
-            "soyledi",
-            "tarkan"
+            "agabeyi",
+            "iddialara",
+            "nev",
+            "yan"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Seren Serengil mirasını kime bırakacağını açıkladı! “Tek bir şartım var”",
+      "normalized_title": "seren serengil mirasini kime birakacagini acikladi tek bir sartim var",
+      "url": "https://www.cnnturk.com/magazin/galeri/seren-serengil-mirasini-kime-birakacagini-acikladi-tek-bir-sartim-var-3487840",
+      "source": "cnnturk.com",
+      "source_role": "publisher",
+      "source_domain": "cnnturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-02T16:23:59.615219+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/seren-serengil-mirasini-kime-birakacagini-acikladi-tek-bir-sartim-var-3487840",
+          "title": "Seren Serengil mirasını kime bırakacağını açıkladı! “Tek bir şartım var”"
         },
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "title": "Orhan Gencebay çaldı, Tarkan söyledi",
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/magazin/haber-seren-serengil-mirasini-kime-birakacagini-20387234/",
+          "title": "Seren Serengil mirasını kime bırakacağını açıkladı! Tek bir şartı var"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com",
+        "sondakika.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Seren Serengil mirasını kime bırakacağını açıkladı! Tek bir şartım var - Magazin Haberleri",
+        "og_title": "Seren Serengil mirasını kime bırakacağını açıkladı! Tek bir şartım var - Magazin Haberleri",
+        "description": "Magazin Haberleri - Seren Serengil, özel hayatına ilişkin yaptığı açıklamalarla yeniden gündeme geldi. Uzun süredir Mustafa Rahman Tohma ile birlikte olan...",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "title": "Seren Serengil mirasını kime bırakacağını açıkladı! Tek bir şartı var",
           "summary": "",
-          "url": "https://www.haberturk.com/magazin/orhan-gencebay-caldi-tarkan-soyledi-3923957",
-          "match_score": 0.73,
+          "url": "https://www.sondakika.com/magazin/haber-seren-serengil-mirasini-kime-birakacagini-20387234/",
+          "match_score": 1.0,
           "shared_keywords": [
-            "cald",
-            "gencebay",
-            "orhan",
-            "soyledi",
-            "tarkan"
+            "kime",
+            "klad",
+            "miras",
+            "rakacag",
+            "sart",
+            "seren",
+            "serengil",
+            "tek",
+            "var"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
