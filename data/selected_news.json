@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T09:10:34.160468+00:00",
+  "generated_at": "2026-11-03T14:31:14.190946+00:00",
   "candidate_count": 100,
   "event_group_count": 43,
   "multi_publisher_event_count": 11,
@@ -8,93 +8,100 @@
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "\"Afife\" oyunu, İstanbul ve Ankara'da yeniden tiyatroseverlerle buluşacak",
-      "normalized_title": "afife oyunu istanbul ve ankara da yeniden tiyatroseverlerle bulusacak",
-      "url": "https://www.aa.com.tr/tr/kultur/afife-oyunu-istanbul-ve-ankarada-yeniden-tiyatroseverlerle-bulusacak/4108861",
-      "source": "aa.com.tr",
+      "title": "Ebru Gündeş Havalimanında Hayranıyla İkinci Kez Buluştu! O Fotoğraf Yeniden Gündem Oldu",
+      "normalized_title": "ebru gundes havalimaninda hayraniyla ikinci kez bulustu o fotograf yeniden gundem oldu",
+      "url": "https://www.yesilafsin.com/ebru-gundes-havalimaninda-hayraniyla-ikinci-kez-bulustu-o-fotograf-yeniden-gundem-oldu",
+      "source": "yesilafsin.com",
       "source_role": "publisher",
-      "source_domain": "aa.com.tr",
+      "source_domain": "yesilafsin.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.675852+00:00",
+      "collected_at": "2026-11-03T14:30:37.514554+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "aa.com.tr",
-          "source_domain": "aa.com.tr",
-          "url": "https://www.aa.com.tr/tr/kultur/afife-oyunu-istanbul-ve-ankarada-yeniden-tiyatroseverlerle-bulusacak/4108861",
-          "title": "\"Afife\" oyunu, İstanbul ve Ankara'da yeniden tiyatroseverlerle buluşacak"
-        },
-        {
-          "source": "gunes.com",
-          "source_domain": "gunes.com",
-          "url": "https://www.gunes.com/sanat/afife-oyunu-istanbul-ve-ankarada-sahnelenecek-1230598",
-          "title": "\"Afife\" oyunu, İstanbul ve Ankara'da sahnelenecek!"
-        },
-        {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/kultur-sanat/afife-istanbul-ve-ankara-sahnelerinde-3924309",
-          "title": "'Afife' İstanbul ve Ankara sahnelerinde"
+          "url": "https://www.haberturk.com/magazin/foto/ebru-gundes-le-havalimaninda-ikinci-bulusma-3924425",
+          "title": "Ebru Gündeş'le havalimanında ikinci buluşma"
+        },
+        {
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/havalimaninda-ebru-gundes-surprizi-ikinci-kez-bulustular,1356693",
+          "title": "Havalimanında Ebru Gündeş sürprizi: İkinci kez buluştular!"
+        },
+        {
+          "source": "gokyuzuhaberci.com",
+          "source_domain": "gokyuzuhaberci.com",
+          "url": "https://www.gokyuzuhaberci.com/ebru-gundes-hayraniyla-havalimaninda-ikinci-kez-bulustu/",
+          "title": "Ebru Gündeş Hayranıyla Havalimanında İkinci Kez Buluştu!"
+        },
+        {
+          "source": "yesilafsin.com",
+          "source_domain": "yesilafsin.com",
+          "url": "https://www.yesilafsin.com/ebru-gundes-havalimaninda-hayraniyla-ikinci-kez-bulustu-o-fotograf-yeniden-gundem-oldu",
+          "title": "Ebru Gündeş Havalimanında Hayranıyla İkinci Kez Buluştu! O Fotoğraf Yeniden Gündem Oldu"
         }
       ],
       "publisher_domains": [
-        "aa.com.tr",
-        "gunes.com",
-        "haberturk.com"
+        "gokyuzuhaberci.com",
+        "haberturk.com",
+        "t24.com.tr",
+        "yesilafsin.com"
       ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
+      "publisher_count": 4,
+      "direct_article_count": 4,
+      "event_member_count": 4,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 40.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Murat Boz'un Fon ve Hisselerde Battığı İddia Edildi: Şarkıcıdan \"Hadi Ya? Benim Niye Haberim Yok\" Yanıtı",
-      "normalized_title": "murat boz un fon ve hisselerde battigi iddia edildi sarkicidan hadi ya benim niye haberim yok yaniti",
-      "url": "https://onedio.com/haber/murat-boz-un-fon-ve-hisselerde-battigi-iddia-edildi-sarkicidan-hadi-ya-benim-niye-haberim-yok-yaniti-1393017",
-      "source": "onedio.com",
+      "title": "İlyas Yalçıntaş hakkında tahliye kararı! Duruşma 15 Aralıka ertelendi - Magazin Haberleri",
+      "normalized_title": "ilyas yalcintas hakkinda tahliye karari durusma 15 aralika ertelendi magazin haberleri",
+      "url": "https://www.cnnturk.com/magazin/ilyas-yalcintas-hakkinda-tahliye-karari-durusma-15-aralika-ertelendi-3488468",
+      "source": "cnnturk.com",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "cnnturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.677174+00:00",
+      "collected_at": "2026-11-03T14:30:37.513153+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/murat-boz-dan-fon-aciklamasi-3924232",
-          "title": "Murat Boz'dan 'fon' açıklaması"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/turkiye/sarkici-ilyas-yalcintasa-ilk-durusmada-tahliye-1749248",
+          "title": "Şarkıcı İlyas Yalçıntaş'a ilk duruşmada tahliye"
         },
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/murat-boz-un-fon-ve-hisselerde-battigi-iddia-edildi-sarkicidan-hadi-ya-benim-niye-haberim-yok-yaniti-1393017",
-          "title": "Murat Boz'un Fon ve Hisselerde Battığı İddia Edildi: Şarkıcıdan \"Hadi Ya? Benim Niye Haberim Yok\" Yanıtı"
+          "url": "https://onedio.com/haber/ilyas-yalcintas-hakkinda-tahliye-karari-verildi-1393201",
+          "title": "İlyas Yalçıntaş Hakkında Tahliye Kararı Verildi"
         },
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/murat-boz-dan-fon-ve-hisselerden-batti-iddialarina-esprili-yanit-benim-niye-haberim-yok-2552421",
-          "title": "Murat Boz'dan 'fon ve hisselerden battı' iddialarına esprili yanıt: 'Benim niye haberim yok?'"
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/ilyas-yalcintas-hakkinda-tahliye-karari-durusma-15-aralika-ertelendi-3488468",
+          "title": "İlyas Yalçıntaş hakkında tahliye kararı! Duruşma 15 Aralıka ertelendi - Magazin Haberleri"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "haberturk.com",
+        "cnnturk.com",
+        "ntv.com.tr",
         "onedio.com"
       ],
       "publisher_count": 3,
@@ -110,36 +117,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Bu Sefer Saklayamadı: Yeraltı'nın Sultan'ı Sümeyye Aydoğan Yeni Sevgilisiyle Görüntülendi!",
-      "normalized_title": "bu sefer saklayamadi yeralti nin sultan i sumeyye aydogan yeni sevgilisiyle goruntulendi",
-      "url": "https://onedio.com/haber/bu-sefer-saklayamadi-yeralti-nin-sultan-i-sumeyye-aydogan-in-yeni-sevgilisi-ilk-kez-ortaya-cikti-1392798",
+      "title": "Mali Krizdeki Serhat Ardahanspor, Ardahanlı Hülya Avşar'a Kulüp Başkanlığı Teklif Edecek!",
+      "normalized_title": "mali krizdeki serhat ardahanspor ardahanli hulya avsar a kulup baskanligi teklif edecek",
+      "url": "https://onedio.com/haber/mali-krizdeki-serhat-ardahanspor-ardahanli-hulya-avsar-a-kulup-baskanligi-teklif-edecek-1393154",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.680916+00:00",
+      "collected_at": "2026-11-03T14:30:37.513415+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/sumeyye-aydogan-erdem-atalmis-ile-goruntulendi-3924200",
-          "title": "Sümeyye Aydoğan, Erdem Atalmış ile görüntülendi"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/mali-krizdeki-ardahanspor-careyi-hulya-avsarda-buldu-p375569",
+          "title": "Mali krizdeki kulüp çareyi Hülya Avşar'da buldu"
         },
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/bu-sefer-saklayamadi-yeralti-nin-sultan-i-sumeyye-aydogan-in-yeni-sevgilisi-ilk-kez-ortaya-cikti-1392798",
-          "title": "Bu Sefer Saklayamadı: Yeraltı'nın Sultan'ı Sümeyye Aydoğan Yeni Sevgilisiyle Görüntülendi!"
+          "url": "https://onedio.com/haber/mali-krizdeki-serhat-ardahanspor-ardahanli-hulya-avsar-a-kulup-baskanligi-teklif-edecek-1393154",
+          "title": "Mali Krizdeki Serhat Ardahanspor, Ardahanlı Hülya Avşar'a Kulüp Başkanlığı Teklif Edecek!"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "onedio.com"
+        "onedio.com",
+        "sozcu.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -156,50 +163,50 @@
   ],
   "event_groups_preview": [
     {
-      "title": "Rapçi Killa Hakan’dan üzen haber! Yoğun bakıma kaldırıldı",
-      "normalized_title": "rapci killa hakan dan uzen haber yogun bakima kaldirildi",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/rapci-killa-hakandan-uzen-haber-yogun-bakima-kaldirildi",
-      "source": "sabah.com.tr",
+      "title": "Ebru Gündeş Havalimanında Hayranıyla İkinci Kez Buluştu! O Fotoğraf Yeniden Gündem Oldu",
+      "normalized_title": "ebru gundes havalimaninda hayraniyla ikinci kez bulustu o fotograf yeniden gundem oldu",
+      "url": "https://www.yesilafsin.com/ebru-gundes-havalimaninda-hayraniyla-ikinci-kez-bulustu-o-fotograf-yeniden-gundem-oldu",
+      "source": "yesilafsin.com",
       "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
+      "source_domain": "yesilafsin.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.674675+00:00",
+      "collected_at": "2026-11-03T14:30:37.514554+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/unlu-rapci-killa-hakan-yogun-bakima-kaldirildi-p375353",
-          "title": "Ünlü Rapçi Killa Hakan yoğun bakıma kaldırıldı"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/rapci-killa-hakandan-uzen-haber-yogun-bakima-kaldirildi",
-          "title": "Rapçi Killa Hakan’dan üzen haber! Yoğun bakıma kaldırıldı"
-        },
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/killa-hakan-yogun-bakima-kaldirildi-iste-son-saglik-durumu-7693118",
-          "title": "Killa Hakan yoğun bakıma kaldırıldı! İşte son sağlık durumu"
-        },
-        {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/killa-hakan-yogun-bakima-kaldirildi-3924432",
-          "title": "Killa Hakan, yoğun bakıma kaldırıldı"
+          "url": "https://www.haberturk.com/magazin/foto/ebru-gundes-le-havalimaninda-ikinci-bulusma-3924425",
+          "title": "Ebru Gündeş'le havalimanında ikinci buluşma"
+        },
+        {
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/havalimaninda-ebru-gundes-surprizi-ikinci-kez-bulustular,1356693",
+          "title": "Havalimanında Ebru Gündeş sürprizi: İkinci kez buluştular!"
+        },
+        {
+          "source": "gokyuzuhaberci.com",
+          "source_domain": "gokyuzuhaberci.com",
+          "url": "https://www.gokyuzuhaberci.com/ebru-gundes-hayraniyla-havalimaninda-ikinci-kez-bulustu/",
+          "title": "Ebru Gündeş Hayranıyla Havalimanında İkinci Kez Buluştu!"
+        },
+        {
+          "source": "yesilafsin.com",
+          "source_domain": "yesilafsin.com",
+          "url": "https://www.yesilafsin.com/ebru-gundes-havalimaninda-hayraniyla-ikinci-kez-bulustu-o-fotograf-yeniden-gundem-oldu",
+          "title": "Ebru Gündeş Havalimanında Hayranıyla İkinci Kez Buluştu! O Fotoğraf Yeniden Gündem Oldu"
         }
       ],
       "publisher_domains": [
+        "gokyuzuhaberci.com",
         "haberturk.com",
-        "milliyet.com.tr",
-        "sabah.com.tr",
-        "sozcu.com.tr"
+        "t24.com.tr",
+        "yesilafsin.com"
       ],
       "publisher_count": 4,
       "direct_article_count": 4,
@@ -214,58 +221,102 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Tarihi kent Petra’da sürpriz buluşma: Engin Altan Düzyatan ve Mike Tyson bir araya geldi...",
-      "normalized_title": "tarihi kent petra da surpriz bulusma engin altan duzyatan ve mike tyson bir araya geldi",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/tarihi-kent-petrada-surpriz-bulusma-engin-altan-duzyatan-ve-mike-tyson-bir-araya-geldi",
-      "source": "sabah.com.tr",
+      "title": "Rapçi Killa Hakan yoğun bakıma alındı: Avukatından açıklama",
+      "normalized_title": "rapci killa hakan yogun bakima alindi avukatindan aciklama",
+      "url": "https://www.birgun.net/haber/rapci-killa-hakan-yogun-bakima-alindi-avukatindan-aciklama-744160",
+      "source": "birgun.net",
       "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
+      "source_domain": "birgun.net",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.678881+00:00",
+      "collected_at": "2026-11-03T14:30:37.512765+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "mynet.com",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/engin-altan-duzyatan-mike-tyson-ve-ronaldinho-ile-bulustu-130100605917",
-          "title": "Engin Altan Düzyatan, Mike Tyson ve Ronaldinho ile buluştu - Magazin Haberleri"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/tarihi-kent-petrada-surpriz-bulusma-engin-altan-duzyatan-ve-mike-tyson-bir-araya-geldi",
-          "title": "Tarihi kent Petra’da sürpriz buluşma: Engin Altan Düzyatan ve Mike Tyson bir araya geldi..."
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/engin-altan-duzyatan-urdun-de-mike-tyson-ve-ronaldinho-ile-bir-araya-geldi-2552234",
-          "title": "Engin Altan Düzyatan, Ürdün'de Mike Tyson ve Ronaldinho ile bir araya geldi"
+          "source": "birgun.net",
+          "source_domain": "birgun.net",
+          "url": "https://www.birgun.net/haber/rapci-killa-hakan-yogun-bakima-alindi-avukatindan-aciklama-744160",
+          "title": "Rapçi Killa Hakan yoğun bakıma alındı: Avukatından açıklama"
         },
         {
           "source": "sozcu.com.tr",
           "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/engin-altan-duzyatan-ve-mike-tyson-urdun-de-bulustu-o-anlari-paylasti-p374866",
-          "title": "Engin Altan Düzyatan ve Mike Tyson Ürdün'de buluştu: O anları paylaştı"
+          "url": "https://www.sozcu.com.tr/unlu-rapci-killa-hakan-yogun-bakima-kaldirildi-p375353",
+          "title": "Ünlü Rapçi Killa Hakan yoğun bakıma kaldırıldı"
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/rapci-killa-hakandan-uzen-haber-yogun-bakima-kaldirildi",
+          "title": "Rapçi Killa Hakan’dan üzen haber! Yoğun bakıma kaldırıldı"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "mynet.com",
+        "birgun.net",
         "sabah.com.tr",
         "sozcu.com.tr"
       ],
-      "publisher_count": 4,
-      "direct_article_count": 4,
-      "event_member_count": 4,
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 40.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "İlyas Yalçıntaş hakkında tahliye kararı! Duruşma 15 Aralıka ertelendi - Magazin Haberleri",
+      "normalized_title": "ilyas yalcintas hakkinda tahliye karari durusma 15 aralika ertelendi magazin haberleri",
+      "url": "https://www.cnnturk.com/magazin/ilyas-yalcintas-hakkinda-tahliye-karari-durusma-15-aralika-ertelendi-3488468",
+      "source": "cnnturk.com",
+      "source_role": "publisher",
+      "source_domain": "cnnturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-03T14:30:37.513153+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/turkiye/sarkici-ilyas-yalcintasa-ilk-durusmada-tahliye-1749248",
+          "title": "Şarkıcı İlyas Yalçıntaş'a ilk duruşmada tahliye"
+        },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/ilyas-yalcintas-hakkinda-tahliye-karari-verildi-1393201",
+          "title": "İlyas Yalçıntaş Hakkında Tahliye Kararı Verildi"
+        },
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/ilyas-yalcintas-hakkinda-tahliye-karari-durusma-15-aralika-ertelendi-3488468",
+          "title": "İlyas Yalçıntaş hakkında tahliye kararı! Duruşma 15 Aralıka ertelendi - Magazin Haberleri"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com",
+        "ntv.com.tr",
+        "onedio.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -281,7 +332,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.675852+00:00",
+      "collected_at": "2026-11-03T14:30:37.513619+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -293,16 +344,16 @@
           "title": "\"Afife\" oyunu, İstanbul ve Ankara'da yeniden tiyatroseverlerle buluşacak"
         },
         {
-          "source": "gunes.com",
-          "source_domain": "gunes.com",
-          "url": "https://www.gunes.com/sanat/afife-oyunu-istanbul-ve-ankarada-sahnelenecek-1230598",
-          "title": "\"Afife\" oyunu, İstanbul ve Ankara'da sahnelenecek!"
-        },
-        {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
           "url": "https://www.haberturk.com/kultur-sanat/afife-istanbul-ve-ankara-sahnelerinde-3924309",
           "title": "'Afife' İstanbul ve Ankara sahnelerinde"
+        },
+        {
+          "source": "gunes.com",
+          "source_domain": "gunes.com",
+          "url": "https://www.gunes.com/sanat/afife-oyunu-istanbul-ve-ankarada-sahnelenecek-1230598",
+          "title": "\"Afife\" oyunu, İstanbul ve Ankara'da sahnelenecek!"
         }
       ],
       "publisher_domains": [
@@ -332,7 +383,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.677174+00:00",
+      "collected_at": "2026-11-03T14:30:37.514896+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -374,16 +425,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Şevket Çoruh, Pınar Altuğ’un elini sıkmadı: Tamer Karadağlı’ya gönderme yaptı",
-      "normalized_title": "sevket coruh pinar altug un elini sikmadi tamer karadagli ya gonderme yapti",
-      "url": "https://www.sozcu.com.tr/sevket-coruh-pinar-altug-un-elini-sikmadi-tamer-karadagli-ya-gonderme-yapti-p374912",
-      "source": "sozcu.com.tr",
+      "title": "Mali Krizdeki Serhat Ardahanspor, Ardahanlı Hülya Avşar'a Kulüp Başkanlığı Teklif Edecek!",
+      "normalized_title": "mali krizdeki serhat ardahanspor ardahanli hulya avsar a kulup baskanligi teklif edecek",
+      "url": "https://onedio.com/haber/mali-krizdeki-serhat-ardahanspor-ardahanli-hulya-avsar-a-kulup-baskanligi-teklif-edecek-1393154",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.679462+00:00",
+      "collected_at": "2026-11-03T14:30:37.513415+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -391,14 +442,146 @@
         {
           "source": "sozcu.com.tr",
           "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/sevket-coruh-pinar-altug-un-elini-sikmadi-tamer-karadagli-ya-gonderme-yapti-p374912",
-          "title": "Şevket Çoruh, Pınar Altuğ’un elini sıkmadı: Tamer Karadağlı’ya gönderme yaptı"
+          "url": "https://www.sozcu.com.tr/mali-krizdeki-ardahanspor-careyi-hulya-avsarda-buldu-p375569",
+          "title": "Mali krizdeki kulüp çareyi Hülya Avşar'da buldu"
         },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/mali-krizdeki-serhat-ardahanspor-ardahanli-hulya-avsar-a-kulup-baskanligi-teklif-edecek-1393154",
+          "title": "Mali Krizdeki Serhat Ardahanspor, Ardahanlı Hülya Avşar'a Kulüp Başkanlığı Teklif Edecek!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Vücudundaki dolguları temizletmek için 9 kez ameliyat olan Danla Biliç, estetiğe harcadığı parayı açıkladı!",
+      "normalized_title": "vucudundaki dolgulari temizletmek icin 9 kez ameliyat olan danla bilic estetige harcadigi parayi acikladi",
+      "url": "https://t24.com.tr/magazin/9-kez-ameliyat-olan-danla-bilic-estetige-harcadigi-parayi-acikladi,1356791",
+      "source": "t24.com.tr",
+      "source_role": "publisher",
+      "source_domain": "t24.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-03T14:30:37.513983+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "birgun.net",
+          "source_domain": "birgun.net",
+          "url": "https://www.birgun.net/haber/danla-bilic-estetige-harcadigi-parayi-acikladi-744321",
+          "title": "Danla Bilic, estetiğe harcadığı parayı açıkladı"
+        },
+        {
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/9-kez-ameliyat-olan-danla-bilic-estetige-harcadigi-parayi-acikladi,1356791",
+          "title": "Vücudundaki dolguları temizletmek için 9 kez ameliyat olan Danla Biliç, estetiğe harcadığı parayı açıkladı!"
+        }
+      ],
+      "publisher_domains": [
+        "birgun.net",
+        "t24.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Şebnem Ferah 7 yıl sonra 16 bin kişiyle düet yaptı: Adana'da izdiham",
+      "normalized_title": "sebnem ferah 7 yil sonra 16 bin kisiyle duet yapti adana da izdiham",
+      "url": "https://www.sozcu.com.tr/sebnem-ferah-7-yil-sonra-16-bin-kisiyle-duet-yapti-adana-da-izdiham-p375573",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-03T14:30:37.514251+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/sebnem-ferah-7-yil-sonra-16-bin-kisiyle-duet-yapti-adana-da-izdiham-p375573",
+          "title": "Şebnem Ferah 7 yıl sonra 16 bin kişiyle düet yaptı: Adana'da izdiham"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/yedi-yil-sonra-16-binle-duet-yapti-7692265",
+          "title": "Yedi yıl sonra 16 binle düet yaptı"
+        }
+      ],
+      "publisher_domains": [
+        "milliyet.com.tr",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Şevket Çoruh önce Pınar Altuğ'u öpmedi sonra Tamer Karadağlı'ya gönderme yaptı - Magazin Haberleri",
+      "normalized_title": "sevket coruh once pinar altug u opmedi sonra tamer karadagli ya gonderme yapti magazin haberleri",
+      "url": "https://www.mynet.com/magazin/sevket-coruh-once-pinar-altug-u-opmedi-sonra-tamer-karadagli-ya-gonderme-yapti-130100605902",
+      "source": "mynet.com",
+      "source_role": "publisher",
+      "source_domain": "mynet.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-03T14:30:37.515361+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
         {
           "source": "mynet.com",
           "source_domain": "mynet.com",
           "url": "https://www.mynet.com/magazin/sevket-coruh-once-pinar-altug-u-opmedi-sonra-tamer-karadagli-ya-gonderme-yapti-130100605902",
           "title": "Şevket Çoruh önce Pınar Altuğ'u öpmedi sonra Tamer Karadağlı'ya gönderme yaptı - Magazin Haberleri"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/sevket-coruh-pinar-altug-un-elini-sikmadi-tamer-karadagli-ya-gonderme-yapti-p374912",
+          "title": "Şevket Çoruh, Pınar Altuğ’un elini sıkmadı: Tamer Karadağlı’ya gönderme yaptı"
         }
       ],
       "publisher_domains": [
@@ -427,7 +610,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.680031+00:00",
+      "collected_at": "2026-11-03T14:30:37.515541+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -471,7 +654,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.680189+00:00",
+      "collected_at": "2026-11-03T14:30:37.515592+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -506,104 +689,53 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Bu Sefer Saklayamadı: Yeraltı'nın Sultan'ı Sümeyye Aydoğan Yeni Sevgilisiyle Görüntülendi!",
-      "normalized_title": "bu sefer saklayamadi yeralti nin sultan i sumeyye aydogan yeni sevgilisiyle goruntulendi",
-      "url": "https://onedio.com/haber/bu-sefer-saklayamadi-yeralti-nin-sultan-i-sumeyye-aydogan-in-yeni-sevgilisi-ilk-kez-ortaya-cikti-1392798",
-      "source": "onedio.com",
+      "title": "RAPÇİ KİLLA HAKAN KİMDİR, KAÇ YAŞINDA? Killa Hakan yoğun bakımda mı, sağlık durumu nasıl?",
+      "normalized_title": "rapci killa hakan kimdir kac yasinda killa hakan yogun bakimda mi saglik durumu nasil",
+      "url": "https://www.milliyet.com.tr/galeri/killa-hakan-kimdir-kac-yasinda-killa-hakan-yogun-bakimda-mi-saglik-durumu-nasil-7693227",
+      "source": "milliyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "milliyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.680916+00:00",
+      "collected_at": "2026-11-03T14:30:37.512990+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/sumeyye-aydogan-erdem-atalmis-ile-goruntulendi-3924200",
-          "title": "Sümeyye Aydoğan, Erdem Atalmış ile görüntülendi"
-        },
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/bu-sefer-saklayamadi-yeralti-nin-sultan-i-sumeyye-aydogan-in-yeni-sevgilisi-ilk-kez-ortaya-cikti-1392798",
-          "title": "Bu Sefer Saklayamadı: Yeraltı'nın Sultan'ı Sümeyye Aydoğan Yeni Sevgilisiyle Görüntülendi!"
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/galeri/killa-hakan-kimdir-kac-yasinda-killa-hakan-yogun-bakimda-mi-saglik-durumu-nasil-7693227",
+          "title": "RAPÇİ KİLLA HAKAN KİMDİR, KAÇ YAŞINDA? Killa Hakan yoğun bakımda mı, sağlık durumu nasıl?"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "onedio.com"
+        "milliyet.com.tr"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 10.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "multi_publisher"
+      "coverage_label": "single_publisher"
     },
     {
-      "title": "Bursa’da ‘Alaturka’nın Yıldızları’ sahne aldı - Olay Gazetesi Bursa",
-      "normalized_title": "bursa da alaturka nin yildizlari sahne aldi olay gazetesi bursa",
-      "url": "https://www.olay.com.tr/bursada-alaturkanin-yildizlari-sahne-aldi-1797536",
-      "source": "olay.com.tr",
-      "source_role": "publisher",
-      "source_domain": "olay.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.681378+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "olay.com.tr",
-          "source_domain": "olay.com.tr",
-          "url": "https://www.olay.com.tr/bursada-alaturkanin-yildizlari-sahne-aldi-1797536",
-          "title": "Bursa’da ‘Alaturka’nın Yıldızları’ sahne aldı - Olay Gazetesi Bursa"
-        },
-        {
-          "source": "yerel-haberler.haberturk.com",
-          "source_domain": "yerel-haberler.haberturk.com",
-          "url": "https://yerel-haberler.haberturk.com/bursa-haberleri/alaturkanin-yildizlari-bursada-sahne-aldi-119508801",
-          "title": "Alaturka'nın Yıldızları' Bursa'da sahne aldı"
-        }
-      ],
-      "publisher_domains": [
-        "olay.com.tr",
-        "yerel-haberler.haberturk.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Mehmet Günsür'den eşiyle ilgili olumsuz yorumlara yanıt: 'Onunla her gün 10 kez evlenebilirim'",
-      "normalized_title": "mehmet gunsur den esiyle ilgili olumsuz yorumlara yanit onunla her gun 10 kez evlenebilirim",
-      "url": "https://www.sozcu.com.tr/mehmet-gunsur-den-esiyle-ilgili-olumsuz-yorumlara-yanit-onunla-her-gun-10-kez-evlenebilirim-p375487",
+      "title": "Uyuşturucu soruşturmasında tutuklanmıştı: Ünlü şarkıcı İlyas Yalçıntaş hakkında yeni gelişme!",
+      "normalized_title": "uyusturucu sorusturmasinda tutuklanmisti unlu sarkici ilyas yalcintas hakkinda yeni gelisme",
+      "url": "https://www.sozcu.com.tr/uyusturucu-sorusturmasinda-tutuklanmisti-unlu-sarkici-ilyas-yalcintas-hakkinda-yeni-gelisme-p375683",
       "source": "sozcu.com.tr",
       "source_role": "publisher",
       "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.681730+00:00",
+      "collected_at": "2026-11-03T14:30:37.513216+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -611,43 +743,110 @@
         {
           "source": "sozcu.com.tr",
           "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/mehmet-gunsur-den-esiyle-ilgili-olumsuz-yorumlara-yanit-onunla-her-gun-10-kez-evlenebilirim-p375487",
-          "title": "Mehmet Günsür'den eşiyle ilgili olumsuz yorumlara yanıt: 'Onunla her gün 10 kez evlenebilirim'"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/mehmet-gunsur-den-esi-katerina-mongio-ile-ilgili-olumsuz-yorumlara-yanit-3924466",
-          "title": "Mehmet Günsür'den eşi Katerina Mongio ile ilgili olumsuz yorumlara yanıt"
+          "url": "https://www.sozcu.com.tr/uyusturucu-sorusturmasinda-tutuklanmisti-unlu-sarkici-ilyas-yalcintas-hakkinda-yeni-gelisme-p375683",
+          "title": "Uyuşturucu soruşturmasında tutuklanmıştı: Ünlü şarkıcı İlyas Yalçıntaş hakkında yeni gelişme!"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
         "sozcu.com.tr"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 10.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "multi_publisher"
+      "coverage_label": "single_publisher"
     },
     {
-      "title": "‘Susuz Yaz’ benim ilk aşkım!’",
-      "normalized_title": "susuz yaz benim ilk askim",
-      "url": "https://www.milliyet.com.tr/magazin/susuz-yaz-benim-ilk-askim-7691783",
-      "source": "milliyet.com.tr",
+      "title": "Futbol kulübünden Hülya Avşar'a başkanlık teklifi",
+      "normalized_title": "futbol kulubunden hulya avsar a baskanlik teklifi",
+      "url": "https://www.odatv.com/spor/ardahandan-hulya-avsara-baskanlik-teklifi-120169491",
+      "source": "odatv.com",
       "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
+      "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.681985+00:00",
+      "collected_at": "2026-11-03T14:30:37.513262+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/spor/ardahandan-hulya-avsara-baskanlik-teklifi-120169491",
+          "title": "Futbol kulübünden Hülya Avşar'a başkanlık teklifi"
+        }
+      ],
+      "publisher_domains": [
+        "odatv.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Koca kentin tek umudu Hülya Avşar: Bizi bir tek o kurtarır",
+      "normalized_title": "koca kentin tek umudu hulya avsar bizi bir tek o kurtarir",
+      "url": "https://www.haberler.com/spor/serhat-ardahanspor-yonetimi-hulya-avsara-20390062-haberi/",
+      "source": "haberler.com",
+      "source_role": "publisher",
+      "source_domain": "haberler.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-03T14:30:37.513357+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/spor/serhat-ardahanspor-yonetimi-hulya-avsara-20390062-haberi/",
+          "title": "Koca kentin tek umudu Hülya Avşar: Bizi bir tek o kurtarır"
+        }
+      ],
+      "publisher_domains": [
+        "haberler.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Hekimliği ağlaya ağlaya bıraktım",
+      "normalized_title": "hekimligi aglaya aglaya biraktim",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/hekimligi-aglaya-aglaya-biraktim-43364615",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-03T14:30:37.513453+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -655,43 +854,73 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/susuz-yaz-ilk-askim-43362192",
-          "title": "Susuz Yaz ilk aşkım"
-        },
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/susuz-yaz-benim-ilk-askim-7691783",
-          "title": "‘Susuz Yaz’ benim ilk aşkım!’"
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/hekimligi-aglaya-aglaya-biraktim-43364615",
+          "title": "Hekimliği ağlaya ağlaya bıraktım"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr",
-        "milliyet.com.tr"
+        "hurriyet.com.tr"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 10.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "multi_publisher"
+      "coverage_label": "single_publisher"
     },
     {
-      "title": "Sinem Kobal aile düzenini anlattı: Setlere dönüş sürecini ve çocuklarıyla kurdukları yaşamı paylaştı",
-      "normalized_title": "sinem kobal aile duzenini anlatti setlere donus surecini ve cocuklariyla kurduklari yasami paylasti",
-      "url": "https://www.cumhuriyet.com.tr/magazin/sinem-kobal-aile-duzenini-anlatti-setlere-donus-surecini-ve-cocuklariyla-kurduklari-yasami-paylasti-2552567",
+      "title": "'All's Fair'in yıldızları ikinci sezon galasında bir araya geldi: Kim Kardashian'ın gala şıklığı",
+      "normalized_title": "all s fair in yildizlari ikinci sezon galasinda bir araya geldi kim kardashian in gala sikligi",
+      "url": "https://www.haberturk.com/magazin/foto/all-s-fair-in-yildizlari-ikinci-sezon-galasinda-bir-araya-geldi-kim-kardashian-in-gala-sikligi-3924623",
+      "source": "haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-03T14:30:37.513516+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/all-s-fair-in-yildizlari-ikinci-sezon-galasinda-bir-araya-geldi-kim-kardashian-in-gala-sikligi-3924623",
+          "title": "'All's Fair'in yıldızları ikinci sezon galasında bir araya geldi: Kim Kardashian'ın gala şıklığı"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Demet Evgar’ın başrolünü üstlendiği 'Afife'den kapsamlı turne programı...",
+      "normalized_title": "demet evgar in basrolunu ustlendigi afife den kapsamli turne programi",
+      "url": "https://www.cumhuriyet.com.tr/kultur-sanat/demet-evgar-in-basrolunu-ustlendigi-afife-den-kapsamli-turne-programi-2552766",
       "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.675186+00:00",
+      "collected_at": "2026-11-03T14:30:37.513568+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -699,12 +928,197 @@
         {
           "source": "cumhuriyet.com.tr",
           "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/sinem-kobal-aile-duzenini-anlatti-setlere-donus-surecini-ve-cocuklariyla-kurduklari-yasami-paylasti-2552567",
-          "title": "Sinem Kobal aile düzenini anlattı: Setlere dönüş sürecini ve çocuklarıyla kurdukları yaşamı paylaştı"
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/demet-evgar-in-basrolunu-ustlendigi-afife-den-kapsamli-turne-programi-2552766",
+          "title": "Demet Evgar’ın başrolünü üstlendiği 'Afife'den kapsamlı turne programı..."
         }
       ],
       "publisher_domains": [
         "cumhuriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ünlü oyuncu yanında çalışan genç kadına bile lüks hayat yaşatmış: Özel jetler, pahalı restoranlar, markalı kıyafetler",
+      "normalized_title": "unlu oyuncu yaninda calisan genc kadina bile luks hayat yasatmis ozel jetler pahali restoranlar markali kiyafetler",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-oyuncu-yaninda-calisan-genc-kadina-bile-luks-hayat-yasatmis-ozel-jetler-pahali-restoranlar-markali-kiyafetler-43363599",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-03T14:30:37.513772+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-oyuncu-yaninda-calisan-genc-kadina-bile-luks-hayat-yasatmis-ozel-jetler-pahali-restoranlar-markali-kiyafetler-43363599",
+          "title": "Ünlü oyuncu yanında çalışan genç kadına bile lüks hayat yaşatmış: Özel jetler, pahalı restoranlar, markalı kıyafetler"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Bülent İnal'dan set itirafı. \"Yemek yapmayı çok sevdiğim için fırın aldım\"",
+      "normalized_title": "bulent inal dan set itirafi yemek yapmayi cok sevdigim icin firin aldim",
+      "url": "https://www.ntv.com.tr/yasam/galeri-bulent-inaldan-set-itirafi-yemek-yapmayi-cok-sevdigim-icin-firin-aldim-1749151",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-03T14:30:37.513835+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-bulent-inaldan-set-itirafi-yemek-yapmayi-cok-sevdigim-icin-firin-aldim-1749151",
+          "title": "Bülent İnal'dan set itirafı. \"Yemek yapmayı çok sevdiğim için fırın aldım\""
+        }
+      ],
+      "publisher_domains": [
+        "ntv.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Danla Bilic'ten 30 milyon TL'lik estetik pişmanlığı",
+      "normalized_title": "danla bilic ten 30 milyon tl lik estetik pismanligi",
+      "url": "https://www.sozcu.com.tr/danla-bilicten-30-milyon-tllik-estetik-pismanligi-p375417",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-03T14:30:37.513880+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/danla-bilicten-30-milyon-tllik-estetik-pismanligi-p375417",
+          "title": "Danla Bilic'ten 30 milyon TL'lik estetik pişmanlığı"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Danla Bilic estetik için servet harcamış: Suadiye'den daire daha alabilirdi",
+      "normalized_title": "danla bilic estetik icin servet harcamis suadiye den daire daha alabilirdi",
+      "url": "https://www.ahaber.com.tr/galeri/magazin/danla-bilicten-30-milyon-tllik-estetik-itirafi",
+      "source": "ahaber.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ahaber.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-03T14:30:37.514032+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ahaber.com.tr",
+          "source_domain": "ahaber.com.tr",
+          "url": "https://www.ahaber.com.tr/galeri/magazin/danla-bilicten-30-milyon-tllik-estetik-itirafi",
+          "title": "Danla Bilic estetik için servet harcamış: Suadiye'den daire daha alabilirdi"
+        }
+      ],
+      "publisher_domains": [
+        "ahaber.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Sinem Kobal evlerindeki kuralı açıkladı",
+      "normalized_title": "sinem kobal evlerindeki kurali acikladi",
+      "url": "https://www.odatv.com/magazin/sinem-kobal-evlerindeki-kurali-acikladi-120169357",
+      "source": "odatv.com",
+      "source_role": "publisher",
+      "source_domain": "odatv.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-03T14:30:37.514072+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/sinem-kobal-evlerindeki-kurali-acikladi-120169357",
+          "title": "Sinem Kobal evlerindeki kuralı açıkladı"
+        }
+      ],
+      "publisher_domains": [
+        "odatv.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -728,7 +1142,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.675325+00:00",
+      "collected_at": "2026-11-03T14:30:37.514134+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -765,7 +1179,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.675550+00:00",
+      "collected_at": "2026-11-03T14:30:37.514200+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -793,29 +1207,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Demet Evgar’ın başrolünü üstlendiği 'Afife'den kapsamlı turne programı...",
-      "normalized_title": "demet evgar in basrolunu ustlendigi afife den kapsamli turne programi",
-      "url": "https://www.cumhuriyet.com.tr/kultur-sanat/demet-evgar-in-basrolunu-ustlendigi-afife-den-kapsamli-turne-programi-2552766",
-      "source": "cumhuriyet.com.tr",
+      "title": "Şebnem Ferah Adana'da konser verdi",
+      "normalized_title": "sebnem ferah adana da konser verdi",
+      "url": "https://yerel-haberler.haberturk.com/adana-haberleri/sebnem-ferah-adanada-konser-verdi-119509121",
+      "source": "yerel-haberler.haberturk.com",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "yerel-haberler.haberturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.675706+00:00",
+      "collected_at": "2026-11-03T14:30:37.514327+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/demet-evgar-in-basrolunu-ustlendigi-afife-den-kapsamli-turne-programi-2552766",
-          "title": "Demet Evgar’ın başrolünü üstlendiği 'Afife'den kapsamlı turne programı..."
+          "source": "yerel-haberler.haberturk.com",
+          "source_domain": "yerel-haberler.haberturk.com",
+          "url": "https://yerel-haberler.haberturk.com/adana-haberleri/sebnem-ferah-adanada-konser-verdi-119509121",
+          "title": "Şebnem Ferah Adana'da konser verdi"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr"
+        "yerel-haberler.haberturk.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -830,177 +1244,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Ebru Gündeş'le havalimanında ikinci buluşma",
-      "normalized_title": "ebru gundes le havalimaninda ikinci bulusma",
-      "url": "https://www.haberturk.com/magazin/foto/ebru-gundes-le-havalimaninda-ikinci-bulusma-3924425",
-      "source": "haberturk.com",
+      "title": "Şebnem Ferah hayranına takıldı: Bir kez daha derseniz...",
+      "normalized_title": "sebnem ferah hayranina takildi bir kez daha derseniz",
+      "url": "https://www.odatv.com/kultur-sanat/sebnem-ferah-hayranina-takildi-bir-kez-daha-derseniz-120169502",
+      "source": "odatv.com",
       "source_role": "publisher",
-      "source_domain": "haberturk.com",
+      "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.676259+00:00",
+      "collected_at": "2026-11-03T14:30:37.514370+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/ebru-gundes-le-havalimaninda-ikinci-bulusma-3924425",
-          "title": "Ebru Gündeş'le havalimanında ikinci buluşma"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/kultur-sanat/sebnem-ferah-hayranina-takildi-bir-kez-daha-derseniz-120169502",
+          "title": "Şebnem Ferah hayranına takıldı: Bir kez daha derseniz..."
         }
       ],
       "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Tanıdık hikayeler yeni isimler kazanıyor | Kültür Sanat Haberleri",
-      "normalized_title": "tanidik hikayeler yeni isimler kazaniyor kultur sanat haberleri",
-      "url": "https://www.yenisafak.com/hayat/tanidik-hikayeler-yeni-isimler-kazaniyor-4868998",
-      "source": "yenisafak.com",
-      "source_role": "publisher",
-      "source_domain": "yenisafak.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.676443+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yenisafak.com",
-          "source_domain": "yenisafak.com",
-          "url": "https://www.yenisafak.com/hayat/tanidik-hikayeler-yeni-isimler-kazaniyor-4868998",
-          "title": "Tanıdık hikayeler yeni isimler kazanıyor | Kültür Sanat Haberleri"
-        }
-      ],
-      "publisher_domains": [
-        "yenisafak.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Altın Portakal’da her film bir hikâye",
-      "normalized_title": "altin portakal da her film bir hikaye",
-      "url": "https://www.hurriyet.com.tr/yazarlar/sayim-cinar/altin-portakalda-her-film-bir-hikaye-43362862",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.676580+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/yazarlar/sayim-cinar/altin-portakalda-her-film-bir-hikaye-43362862",
-          "title": "Altın Portakal’da her film bir hikâye"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Taş gibi sert, tüy gibi narin - Asu Maro",
-      "normalized_title": "tas gibi sert tuy gibi narin asu maro",
-      "url": "https://www.milliyet.com.tr/yazarlar/asu-maro/tas-gibi-sert-tuy-gibi-narin-7692280",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.676723+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/yazarlar/asu-maro/tas-gibi-sert-tuy-gibi-narin-7692280",
-          "title": "Taş gibi sert, tüy gibi narin - Asu Maro"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Şarkıcı Murat Boz’un fondan battığı iddia edildi! Hemen yanıt geldi",
-      "normalized_title": "sarkici murat boz un fondan battigi iddia edildi hemen yanit geldi",
-      "url": "https://www.sozcu.com.tr/sarkici-murat-boz-un-fondan-battigi-iddia-edildi-hemen-yanit-geldi-p375313",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.676994+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/sarkici-murat-boz-un-fondan-battigi-iddia-edildi-hemen-yanit-geldi-p375313",
-          "title": "Şarkıcı Murat Boz’un fondan battığı iddia edildi! Hemen yanıt geldi"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr"
+        "odatv.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1024,7 +1290,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.677504+00:00",
+      "collected_at": "2026-11-03T14:30:37.514603+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1061,7 +1327,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.677611+00:00",
+      "collected_at": "2026-11-03T14:30:37.514640+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1089,43 +1355,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Bülent Şakrak'tan güzel haber! Ceyda Düvenci'den sonra...",
-      "normalized_title": "bulent sakrak tan guzel haber ceyda duvenci den sonra",
-      "url": "https://www.internethaber.com/bulent-sakraktan-guzel-haber-ceyda-duvenciden-sonra-foto-galerisi-2466653.htm",
-      "source": "internethaber.com",
-      "source_role": "publisher",
-      "source_domain": "internethaber.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.677736+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "internethaber.com",
-          "source_domain": "internethaber.com",
-          "url": "https://www.internethaber.com/bulent-sakraktan-guzel-haber-ceyda-duvenciden-sonra-foto-galerisi-2466653.htm",
-          "title": "Bülent Şakrak'tan güzel haber! Ceyda Düvenci'den sonra..."
-        }
-      ],
-      "publisher_domains": [
-        "internethaber.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Bülent Şakrak'tan evlilik müjdesi! 17 yaş küçük sevgilisi hakkında konuştu",
       "normalized_title": "bulent sakrak tan evlilik mujdesi 17 yas kucuk sevgilisi hakkinda konustu",
       "url": "https://www.sondakika.com/magazin/haber-bulent-sakraktan-evlilik-mujdesi-17-yas-kucuk-20388836/",
@@ -1135,7 +1364,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.677880+00:00",
+      "collected_at": "2026-11-03T14:30:37.514692+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1149,228 +1378,6 @@
       ],
       "publisher_domains": [
         "sondakika.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Pınar Altuğ - Yağmur Atacan çifti: Yakın akrabaya borç verilmez",
-      "normalized_title": "pinar altug yagmur atacan cifti yakin akrabaya borc verilmez",
-      "url": "https://www.haberturk.com/magazin/foto/pinar-altug-borc-para-arkadaslik-iliskilerini-etkileyebilir-3924282",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.678023+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/pinar-altug-borc-para-arkadaslik-iliskilerini-etkileyebilir-3924282",
-          "title": "Pınar Altuğ - Yağmur Atacan çifti: Yakın akrabaya borç verilmez"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ünlü çiftten borç itirafı! Pınar Altuğ’un eşi Yağmur Atacan’dan dikkat çeken sitem...",
-      "normalized_title": "unlu ciftten borc itirafi pinar altug un esi yagmur atacan dan dikkat ceken sitem",
-      "url": "https://www.sabah.com.tr/trend/galeri/yasam/unlu-ciftten-borc-itirafi-pinar-altugun-esi-yagmur-atacandan-dikkat-ceken-sitem",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.678188+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/yasam/unlu-ciftten-borc-itirafi-pinar-altugun-esi-yagmur-atacandan-dikkat-ceken-sitem",
-          "title": "Ünlü çiftten borç itirafı! Pınar Altuğ’un eşi Yağmur Atacan’dan dikkat çeken sitem..."
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "'Yakın akrabaya borç para verilmez, benden 100 Pınar'dan 500 bin istiyorsunuz'",
-      "normalized_title": "yakin akrabaya borc para verilmez benden 100 pinar dan 500 bin istiyorsunuz",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/yakin-akrabaya-borc-verilmez-benden-100-pinardan-500-bin-istiyorsunuz-43363132",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.678346+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/yakin-akrabaya-borc-verilmez-benden-100-pinardan-500-bin-istiyorsunuz-43363132",
-          "title": "'Yakın akrabaya borç para verilmez, benden 100 Pınar'dan 500 bin istiyorsunuz'"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yağmur Atacan ve Pınar Altuğ'dan çok konuşulacak sözler! Akrabalık bağlarını düşündürdü...",
-      "normalized_title": "yagmur atacan ve pinar altug dan cok konusulacak sozler akrabalik baglarini dusundurdu",
-      "url": "https://www.internethaber.com/yagmur-atacan-ve-pinar-altugdan-cok-konusulacak-sozler-akrabalik-baglarini-dusundurdu-foto-galerisi-2466750.htm",
-      "source": "internethaber.com",
-      "source_role": "publisher",
-      "source_domain": "internethaber.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.678550+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "internethaber.com",
-          "source_domain": "internethaber.com",
-          "url": "https://www.internethaber.com/yagmur-atacan-ve-pinar-altugdan-cok-konusulacak-sozler-akrabalik-baglarini-dusundurdu-foto-galerisi-2466750.htm",
-          "title": "Yağmur Atacan ve Pınar Altuğ'dan çok konuşulacak sözler! Akrabalık bağlarını düşündürdü..."
-        }
-      ],
-      "publisher_domains": [
-        "internethaber.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Dion’un dönüşü rekor getirdi",
-      "normalized_title": "dion un donusu rekor getirdi",
-      "url": "https://www.milliyet.com.tr/kultur-sanat/dionun-donusu-rekor-getirdi-7692907",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.680307+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/kultur-sanat/dionun-donusu-rekor-getirdi-7692907",
-          "title": "Dion’un dönüşü rekor getirdi"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Céline Dion, Paris'te verdiği sadece 16 konserden 125 milyon dolar kazandı.",
-      "normalized_title": "celine dion paris te verdigi sadece 16 konserden 125 milyon dolar kazandi",
-      "url": "https://www.vietnam.vn/tr/celine-dion-thu-125-trieu-usd-chi-sau-16-buoi-hoa-nhac-tai-paris",
-      "source": "vietnam.vn",
-      "source_role": "publisher",
-      "source_domain": "vietnam.vn",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T09:09:57.680527+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "vietnam.vn",
-          "source_domain": "vietnam.vn",
-          "url": "https://www.vietnam.vn/tr/celine-dion-thu-125-trieu-usd-chi-sau-16-buoi-hoa-nhac-tai-paris",
-          "title": "Céline Dion, Paris'te verdiği sadece 16 konserden 125 milyon dolar kazandı."
-        }
-      ],
-      "publisher_domains": [
-        "vietnam.vn"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
