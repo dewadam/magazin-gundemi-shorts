@@ -1,108 +1,50 @@
 {
-  "generated_at": "2026-11-04T14:45:49.267067+00:00",
-  "candidate_count": 99,
-  "event_group_count": 43,
-  "multi_publisher_event_count": 10,
+  "generated_at": "2026-11-04T19:59:38.465493+00:00",
+  "candidate_count": 100,
+  "event_group_count": 48,
+  "multi_publisher_event_count": 8,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Uyuşturucu davasında 2. duruşma görüldü: Spiker Ela Rümeysa Cebeci, Sadettin Saran ile mesajlaşmalarını savundu",
-      "normalized_title": "uyusturucu davasinda 2 durusma goruldu spiker ela rumeysa cebeci sadettin saran ile mesajlasmalarini savundu",
-      "url": "https://www.odatv.com/guncel/uyusturucu-davasinda-2-durusma-goruldu-spiker-ela-rumeysa-cebeci-sadettin-saran-ile-mesajlasmalarini-savundu-120169680",
-      "source": "odatv.com",
+      "title": "Fon soruşturması. Fatma Betül Sayan Kaya, İlyas Kaya ve İbrahim Ömer Gönül ifadeye çağrıldı",
+      "normalized_title": "fon sorusturmasi fatma betul sayan kaya ilyas kaya ve ibrahim omer gonul ifadeye cagrildi",
+      "url": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-fatma-betul-sayan-kaya-ilyas-kaya-ve-ibrahim-omer-gonul-ifadeye-cagrildi-1749399",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "odatv.com",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.863383+00:00",
+      "collected_at": "2026-11-04T19:58:57.614334+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/fatma-betul-sayan-kaya-dahil-uc-isim-ifadeye-cagrildi-1393364",
+          "title": "Fatma Betül Sayan Kaya Dahil Üç İsim İfadeye Çağrıldı"
+        },
+        {
           "source": "sozcu.com.tr",
           "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/sadettin-saran-ve-ela-rumeysa-cebeci-hakkinda-karar-verildi-p375992",
-          "title": "Sadettin Saran ve Ela Rümeysa Cebeci hakkında karar verildi"
+          "url": "https://www.sozcu.com.tr/fatma-betul-sayan-kaya-ve-esi-ifadeye-cagrildi-p376021",
+          "title": "Fatma Betül Sayan Kaya ve eşi ifadeye çağrıldı"
         },
         {
           "source": "ntv.com.tr",
           "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/turkiye/galeri-sadettin-saran-ve-ela-rumeysa-cebeci-hakkinda-beraat-karari-1749378",
-          "title": "Sadettin Saran ve Ela Rümeysa Cebeci hakkında beraat kararı"
-        },
-        {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/guncel/uyusturucu-davasinda-2-durusma-goruldu-spiker-ela-rumeysa-cebeci-sadettin-saran-ile-mesajlasmalarini-savundu-120169680",
-          "title": "Uyuşturucu davasında 2. duruşma görüldü: Spiker Ela Rümeysa Cebeci, Sadettin Saran ile mesajlaşmalarını savundu"
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/turkiye/sadettin-saran-ve-ela-rumeysa-cebeci-ye-hapis-istemi-2553284",
-          "title": "Sadettin Saran ve Ela Rümeysa Cebeci’ye hapis istemi"
+          "url": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-fatma-betul-sayan-kaya-ilyas-kaya-ve-ibrahim-omer-gonul-ifadeye-cagrildi-1749399",
+          "title": "Fon soruşturması. Fatma Betül Sayan Kaya, İlyas Kaya ve İbrahim Ömer Gönül ifadeye çağrıldı"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
         "ntv.com.tr",
-        "odatv.com",
+        "onedio.com",
         "sozcu.com.tr"
-      ],
-      "publisher_count": 4,
-      "direct_article_count": 4,
-      "event_member_count": 4,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 40.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Ekranların Yıldızı Demet Özdemir, Prime Video Dizisi \"Grand Maison İstanbul\"un Başrolünde!",
-      "normalized_title": "ekranlarin yildizi demet ozdemir prime video dizisi grand maison istanbul un basrolunde",
-      "url": "https://www.beyazperde.com/haberler/diziler/haberler-1000230565/",
-      "source": "beyazperde.com",
-      "source_role": "publisher",
-      "source_domain": "beyazperde.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.863698+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "beyazperde.com",
-          "source_domain": "beyazperde.com",
-          "url": "https://www.beyazperde.com/haberler/diziler/haberler-1000230565/",
-          "title": "Ekranların Yıldızı Demet Özdemir, Prime Video Dizisi \"Grand Maison İstanbul\"un Başrolünde!"
-        },
-        {
-          "source": "birsenaltuntas.com",
-          "source_domain": "birsenaltuntas.com",
-          "url": "https://www.birsenaltuntas.com/dizi/bomba-transfer-grand-maison-istanbulun-defnesi-demet-ozdemir-oldu/79010/",
-          "title": "Bomba transfer! “Grand Maison İstanbul”un Defne’si Demet Özdemir oldu!"
-        },
-        {
-          "source": "gecce.com.tr",
-          "source_domain": "gecce.com.tr",
-          "url": "https://www.gecce.com.tr/haber/bomba-transfer-grand-maison-istanbulun-defnesi-demet-ozdemir-oldu-333492.html",
-          "title": "Bomba Transfer! Grand Maison İstanbul'un Defne'si Demet Özdemir Oldu"
-        }
-      ],
-      "publisher_domains": [
-        "beyazperde.com",
-        "birsenaltuntas.com",
-        "gecce.com.tr"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -117,16 +59,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Yeşilçam yıldızı sanayide esnaf lokantası açtı: 300 liraya kebap satıyor, masalar dolup taşıyor",
-      "normalized_title": "yesilcam yildizi sanayide esnaf lokantasi acti 300 liraya kebap satiyor masalar dolup tasiyor",
-      "url": "https://www.sozcu.com.tr/yesilcam-yildizi-sanayide-esnaf-lokantasi-acti-300-liraya-kebap-satiyor-masalar-dolup-tasiyor-p375527",
+      "title": "Mehmet Günsür'den eşiyle ilgili olumsuz yorumlara yanıt: 'Onunla her gün 10 kez evlenebilirim'",
+      "normalized_title": "mehmet gunsur den esiyle ilgili olumsuz yorumlara yanit onunla her gun 10 kez evlenebilirim",
+      "url": "https://www.sozcu.com.tr/mehmet-gunsur-den-esiyle-ilgili-olumsuz-yorumlara-yanit-onunla-her-gun-10-kez-evlenebilirim-p375487",
       "source": "sozcu.com.tr",
       "source_role": "publisher",
       "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.864499+00:00",
+      "collected_at": "2026-11-04T19:58:57.614482+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -134,18 +76,62 @@
         {
           "source": "sozcu.com.tr",
           "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/yesilcam-yildizi-sanayide-esnaf-lokantasi-acti-300-liraya-kebap-satiyor-masalar-dolup-tasiyor-p375527",
-          "title": "Yeşilçam yıldızı sanayide esnaf lokantası açtı: 300 liraya kebap satıyor, masalar dolup taşıyor"
+          "url": "https://www.sozcu.com.tr/mehmet-gunsur-den-esiyle-ilgili-olumsuz-yorumlara-yanit-onunla-her-gun-10-kez-evlenebilirim-p375487",
+          "title": "Mehmet Günsür'den eşiyle ilgili olumsuz yorumlara yanıt: 'Onunla her gün 10 kez evlenebilirim'"
         },
         {
-          "source": "10haber.net",
-          "source_domain": "10haber.net",
-          "url": "https://10haber.net/populer/yesilcam-yildizi-sanayide-esnaf-lokantasi-acti-masalar-dolup-tasiyor-751461/",
-          "title": "» Yeşilçam yıldızı sanayide esnaf lokantası açtı: Masalar dolup taşıyor"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/mehmet-gunsur-den-esi-katerina-mongio-ile-ilgili-olumsuz-yorumlara-yanit-3924466",
+          "title": "Mehmet Günsür'den eşi Katerina Mongio ile ilgili olumsuz yorumlara yanıt"
         }
       ],
       "publisher_domains": [
-        "10haber.net",
+        "haberturk.com",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Uyuşturucu soruşturmasında tutuklanmıştı: Ünlü şarkıcı İlyas Yalçıntaş hakkında yeni gelişme!",
+      "normalized_title": "uyusturucu sorusturmasinda tutuklanmisti unlu sarkici ilyas yalcintas hakkinda yeni gelisme",
+      "url": "https://www.sozcu.com.tr/uyusturucu-sorusturmasinda-tutuklanmisti-unlu-sarkici-ilyas-yalcintas-hakkinda-yeni-gelisme-p375683",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T19:58:57.615582+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/uyusturucu-sorusturmasinda-tutuklanmisti-unlu-sarkici-ilyas-yalcintas-hakkinda-yeni-gelisme-p375683",
+          "title": "Uyuşturucu soruşturmasında tutuklanmıştı: Ünlü şarkıcı İlyas Yalçıntaş hakkında yeni gelişme!"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/turkiye/sarkici-ilyas-yalcintasa-ilk-durusmada-tahliye-1749248",
+          "title": "Şarkıcı İlyas Yalçıntaş hakkında tahliye kararı"
+        }
+      ],
+      "publisher_domains": [
+        "ntv.com.tr",
         "sozcu.com.tr"
       ],
       "publisher_count": 2,
@@ -163,16 +149,16 @@
   ],
   "event_groups_preview": [
     {
-      "title": "Uyuşturucu davasında 2. duruşma görüldü: Spiker Ela Rümeysa Cebeci, Sadettin Saran ile mesajlaşmalarını savundu",
-      "normalized_title": "uyusturucu davasinda 2 durusma goruldu spiker ela rumeysa cebeci sadettin saran ile mesajlasmalarini savundu",
-      "url": "https://www.odatv.com/guncel/uyusturucu-davasinda-2-durusma-goruldu-spiker-ela-rumeysa-cebeci-sadettin-saran-ile-mesajlasmalarini-savundu-120169680",
-      "source": "odatv.com",
+      "title": "Uyuşturucu davasında yeni gelişme: Sadettin Saran ve Ela Rümeysa Cebeci hakkında karar verildi",
+      "normalized_title": "uyusturucu davasinda yeni gelisme sadettin saran ve ela rumeysa cebeci hakkinda karar verildi",
+      "url": "https://www.hurriyet.com.tr/gundem/uyusturucu-davasinda-ikinci-celse-ela-rumeysa-cebeci-hakim-karsisinda-43365815",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "odatv.com",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.863383+00:00",
+      "collected_at": "2026-11-04T19:58:57.614096+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -184,138 +170,73 @@
           "title": "Sadettin Saran ve Ela Rümeysa Cebeci hakkında karar verildi"
         },
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/turkiye/galeri-sadettin-saran-ve-ela-rumeysa-cebeci-hakkinda-beraat-karari-1749378",
-          "title": "Sadettin Saran ve Ela Rümeysa Cebeci hakkında beraat kararı"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/gundem/uyusturucu-davasinda-ikinci-celse-ela-rumeysa-cebeci-hakim-karsisinda-43365815",
+          "title": "Uyuşturucu davasında yeni gelişme: Sadettin Saran ve Ela Rümeysa Cebeci hakkında karar verildi"
         },
         {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/guncel/uyusturucu-davasinda-2-durusma-goruldu-spiker-ela-rumeysa-cebeci-sadettin-saran-ile-mesajlasmalarini-savundu-120169680",
-          "title": "Uyuşturucu davasında 2. duruşma görüldü: Spiker Ela Rümeysa Cebeci, Sadettin Saran ile mesajlaşmalarını savundu"
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/turkiye/sadettin-saran-ve-ela-rumeysa-cebeci-ye-hapis-istemi-2553284",
-          "title": "Sadettin Saran ve Ela Rümeysa Cebeci’ye hapis istemi"
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/gundem/son-dakika-ela-rumeysa-cebeci-ve-sadettin-saran-hakkinda-karar-mesajlar-film-replikleri-7694179",
+          "title": "Son dakika... Ela Rümeysa Cebeci ve Sadettin Saran hakkında karar! 'Mesajlar film replikleri'"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "ntv.com.tr",
-        "odatv.com",
+        "hurriyet.com.tr",
+        "milliyet.com.tr",
         "sozcu.com.tr"
       ],
-      "publisher_count": 4,
-      "direct_article_count": 4,
-      "event_member_count": 4,
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 40.0,
+      "popularity_score": 30.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Ebru Gündeş Havalimanında Hayranıyla İkinci Kez Buluştu! O Fotoğraf Yeniden Gündem Oldu",
-      "normalized_title": "ebru gundes havalimaninda hayraniyla ikinci kez bulustu o fotograf yeniden gundem oldu",
-      "url": "https://www.yesilafsin.com/ebru-gundes-havalimaninda-hayraniyla-ikinci-kez-bulustu-o-fotograf-yeniden-gundem-oldu",
-      "source": "yesilafsin.com",
+      "title": "Fon soruşturması. Fatma Betül Sayan Kaya, İlyas Kaya ve İbrahim Ömer Gönül ifadeye çağrıldı",
+      "normalized_title": "fon sorusturmasi fatma betul sayan kaya ilyas kaya ve ibrahim omer gonul ifadeye cagrildi",
+      "url": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-fatma-betul-sayan-kaya-ilyas-kaya-ve-ibrahim-omer-gonul-ifadeye-cagrildi-1749399",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "yesilafsin.com",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.865302+00:00",
+      "collected_at": "2026-11-04T19:58:57.614334+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/ebru-gundes-le-havalimaninda-ikinci-bulusma-3924425",
-          "title": "Ebru Gündeş'le havalimanında ikinci buluşma"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/fatma-betul-sayan-kaya-dahil-uc-isim-ifadeye-cagrildi-1393364",
+          "title": "Fatma Betül Sayan Kaya Dahil Üç İsim İfadeye Çağrıldı"
         },
         {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/magazin/havalimaninda-ebru-gundes-surprizi-ikinci-kez-bulustular,1356693",
-          "title": "Havalimanında Ebru Gündeş sürprizi: İkinci kez buluştular!"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/fatma-betul-sayan-kaya-ve-esi-ifadeye-cagrildi-p376021",
+          "title": "Fatma Betül Sayan Kaya ve eşi ifadeye çağrıldı"
         },
         {
-          "source": "gokyuzuhaberci.com",
-          "source_domain": "gokyuzuhaberci.com",
-          "url": "https://www.gokyuzuhaberci.com/ebru-gundes-hayraniyla-havalimaninda-ikinci-kez-bulustu/",
-          "title": "Ebru Gündeş Hayranıyla Havalimanında İkinci Kez Buluştu!"
-        },
-        {
-          "source": "yesilafsin.com",
-          "source_domain": "yesilafsin.com",
-          "url": "https://www.yesilafsin.com/ebru-gundes-havalimaninda-hayraniyla-ikinci-kez-bulustu-o-fotograf-yeniden-gundem-oldu",
-          "title": "Ebru Gündeş Havalimanında Hayranıyla İkinci Kez Buluştu! O Fotoğraf Yeniden Gündem Oldu"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-fatma-betul-sayan-kaya-ilyas-kaya-ve-ibrahim-omer-gonul-ifadeye-cagrildi-1749399",
+          "title": "Fon soruşturması. Fatma Betül Sayan Kaya, İlyas Kaya ve İbrahim Ömer Gönül ifadeye çağrıldı"
         }
       ],
       "publisher_domains": [
-        "gokyuzuhaberci.com",
-        "haberturk.com",
-        "t24.com.tr",
-        "yesilafsin.com"
-      ],
-      "publisher_count": 4,
-      "direct_article_count": 4,
-      "event_member_count": 4,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 40.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Ekranların Yıldızı Demet Özdemir, Prime Video Dizisi \"Grand Maison İstanbul\"un Başrolünde!",
-      "normalized_title": "ekranlarin yildizi demet ozdemir prime video dizisi grand maison istanbul un basrolunde",
-      "url": "https://www.beyazperde.com/haberler/diziler/haberler-1000230565/",
-      "source": "beyazperde.com",
-      "source_role": "publisher",
-      "source_domain": "beyazperde.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.863698+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "beyazperde.com",
-          "source_domain": "beyazperde.com",
-          "url": "https://www.beyazperde.com/haberler/diziler/haberler-1000230565/",
-          "title": "Ekranların Yıldızı Demet Özdemir, Prime Video Dizisi \"Grand Maison İstanbul\"un Başrolünde!"
-        },
-        {
-          "source": "birsenaltuntas.com",
-          "source_domain": "birsenaltuntas.com",
-          "url": "https://www.birsenaltuntas.com/dizi/bomba-transfer-grand-maison-istanbulun-defnesi-demet-ozdemir-oldu/79010/",
-          "title": "Bomba transfer! “Grand Maison İstanbul”un Defne’si Demet Özdemir oldu!"
-        },
-        {
-          "source": "gecce.com.tr",
-          "source_domain": "gecce.com.tr",
-          "url": "https://www.gecce.com.tr/haber/bomba-transfer-grand-maison-istanbulun-defnesi-demet-ozdemir-oldu-333492.html",
-          "title": "Bomba Transfer! Grand Maison İstanbul'un Defne'si Demet Özdemir Oldu"
-        }
-      ],
-      "publisher_domains": [
-        "beyazperde.com",
-        "birsenaltuntas.com",
-        "gecce.com.tr"
+        "ntv.com.tr",
+        "onedio.com",
+        "sozcu.com.tr"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -339,7 +260,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.864049+00:00",
+      "collected_at": "2026-11-04T19:58:57.615064+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -381,43 +302,43 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "RAPÇİ KİLLA HAKAN KİMDİR, KAÇ YAŞINDA? Killa Hakan yoğun bakımda mı, sağlık durumu nasıl?",
-      "normalized_title": "rapci killa hakan kimdir kac yasinda killa hakan yogun bakimda mi saglik durumu nasil",
-      "url": "https://www.milliyet.com.tr/galeri/killa-hakan-kimdir-kac-yasinda-killa-hakan-yogun-bakimda-mi-saglik-durumu-nasil-7693227",
-      "source": "milliyet.com.tr",
+      "title": "Demet Özdemir, Prime Video'nun Grand Maison İstanbul dizisinde kadın başrolü üstlendi",
+      "normalized_title": "demet ozdemir prime video nun grand maison istanbul dizisinde kadin basrolu ustlendi",
+      "url": "https://sinetopya.com/club/gundem/01a1a6b7-afad-750f-b465-b5d78a05dfae-demet-ozdemir-prime-video-nun-grand-maison-istanbul-dizisinde-kadin-basrolu-ustl",
+      "source": "sinetopya.com",
       "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
+      "source_domain": "sinetopya.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.864377+00:00",
+      "collected_at": "2026-11-04T19:58:57.615221+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "birgun.net",
-          "source_domain": "birgun.net",
-          "url": "https://www.birgun.net/haber/rapci-killa-hakan-yogun-bakima-alindi-avukatindan-aciklama-744160",
-          "title": "Rapçi Killa Hakan yoğun bakıma alındı: Avukatından açıklama"
+          "source": "beyazperde.com",
+          "source_domain": "beyazperde.com",
+          "url": "https://www.beyazperde.com/haberler/diziler/haberler-1000230565/",
+          "title": "Ekranların Yıldızı Demet Özdemir, Prime Video Dizisi \"Grand Maison İstanbul\"un Başrolünde!"
         },
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/unlu-rapci-killa-hakan-yogun-bakima-kaldirildi-p375353",
-          "title": "Ünlü Rapçi Killa Hakan yoğun bakıma kaldırıldı"
+          "source": "birsenaltuntas.com",
+          "source_domain": "birsenaltuntas.com",
+          "url": "https://www.birsenaltuntas.com/dizi/bomba-transfer-grand-maison-istanbulun-defnesi-demet-ozdemir-oldu/79010/",
+          "title": "Bomba transfer! “Grand Maison İstanbul”un Defne’si Demet Özdemir oldu!"
         },
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/galeri/killa-hakan-kimdir-kac-yasinda-killa-hakan-yogun-bakimda-mi-saglik-durumu-nasil-7693227",
-          "title": "RAPÇİ KİLLA HAKAN KİMDİR, KAÇ YAŞINDA? Killa Hakan yoğun bakımda mı, sağlık durumu nasıl?"
+          "source": "sinetopya.com",
+          "source_domain": "sinetopya.com",
+          "url": "https://sinetopya.com/club/gundem/01a1a6b7-afad-750f-b465-b5d78a05dfae-demet-ozdemir-prime-video-nun-grand-maison-istanbul-dizisinde-kadin-basrolu-ustl",
+          "title": "Demet Özdemir, Prime Video'nun Grand Maison İstanbul dizisinde kadın başrolü üstlendi"
         }
       ],
       "publisher_domains": [
-        "birgun.net",
-        "milliyet.com.tr",
-        "sozcu.com.tr"
+        "beyazperde.com",
+        "birsenaltuntas.com",
+        "sinetopya.com"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -432,16 +353,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Yeşilçam yıldızı sanayide esnaf lokantası açtı: 300 liraya kebap satıyor, masalar dolup taşıyor",
-      "normalized_title": "yesilcam yildizi sanayide esnaf lokantasi acti 300 liraya kebap satiyor masalar dolup tasiyor",
-      "url": "https://www.sozcu.com.tr/yesilcam-yildizi-sanayide-esnaf-lokantasi-acti-300-liraya-kebap-satiyor-masalar-dolup-tasiyor-p375527",
+      "title": "Mehmet Günsür'den eşiyle ilgili olumsuz yorumlara yanıt: 'Onunla her gün 10 kez evlenebilirim'",
+      "normalized_title": "mehmet gunsur den esiyle ilgili olumsuz yorumlara yanit onunla her gun 10 kez evlenebilirim",
+      "url": "https://www.sozcu.com.tr/mehmet-gunsur-den-esiyle-ilgili-olumsuz-yorumlara-yanit-onunla-her-gun-10-kez-evlenebilirim-p375487",
       "source": "sozcu.com.tr",
       "source_role": "publisher",
       "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.864499+00:00",
+      "collected_at": "2026-11-04T19:58:57.614482+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -449,62 +370,18 @@
         {
           "source": "sozcu.com.tr",
           "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/yesilcam-yildizi-sanayide-esnaf-lokantasi-acti-300-liraya-kebap-satiyor-masalar-dolup-tasiyor-p375527",
-          "title": "Yeşilçam yıldızı sanayide esnaf lokantası açtı: 300 liraya kebap satıyor, masalar dolup taşıyor"
+          "url": "https://www.sozcu.com.tr/mehmet-gunsur-den-esiyle-ilgili-olumsuz-yorumlara-yanit-onunla-her-gun-10-kez-evlenebilirim-p375487",
+          "title": "Mehmet Günsür'den eşiyle ilgili olumsuz yorumlara yanıt: 'Onunla her gün 10 kez evlenebilirim'"
         },
         {
-          "source": "10haber.net",
-          "source_domain": "10haber.net",
-          "url": "https://10haber.net/populer/yesilcam-yildizi-sanayide-esnaf-lokantasi-acti-masalar-dolup-tasiyor-751461/",
-          "title": "» Yeşilçam yıldızı sanayide esnaf lokantası açtı: Masalar dolup taşıyor"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/mehmet-gunsur-den-esi-katerina-mongio-ile-ilgili-olumsuz-yorumlara-yanit-3924466",
+          "title": "Mehmet Günsür'den eşi Katerina Mongio ile ilgili olumsuz yorumlara yanıt"
         }
       ],
       "publisher_domains": [
-        "10haber.net",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Mali Krizdeki Serhat Ardahanspor, Ardahanlı Hülya Avşar'a Kulüp Başkanlığı Teklif Edecek!",
-      "normalized_title": "mali krizdeki serhat ardahanspor ardahanli hulya avsar a kulup baskanligi teklif edecek",
-      "url": "https://onedio.com/haber/mali-krizdeki-serhat-ardahanspor-ardahanli-hulya-avsar-a-kulup-baskanligi-teklif-edecek-1393154",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.864736+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/mali-krizdeki-ardahanspor-careyi-hulya-avsarda-buldu-p375569",
-          "title": "Mali krizdeki kulüp çareyi Hülya Avşar'da buldu"
-        },
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/mali-krizdeki-serhat-ardahanspor-ardahanli-hulya-avsar-a-kulup-baskanligi-teklif-edecek-1393154",
-          "title": "Mali Krizdeki Serhat Ardahanspor, Ardahanlı Hülya Avşar'a Kulüp Başkanlığı Teklif Edecek!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com",
+        "haberturk.com",
         "sozcu.com.tr"
       ],
       "publisher_count": 2,
@@ -529,7 +406,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.864780+00:00",
+      "collected_at": "2026-11-04T19:58:57.615582+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -564,6 +441,50 @@
       "coverage_label": "multi_publisher"
     },
     {
+      "title": "Mali Krizdeki Serhat Ardahanspor, Ardahanlı Hülya Avşar'a Kulüp Başkanlığı Teklif Edecek!",
+      "normalized_title": "mali krizdeki serhat ardahanspor ardahanli hulya avsar a kulup baskanligi teklif edecek",
+      "url": "https://onedio.com/haber/mali-krizdeki-serhat-ardahanspor-ardahanli-hulya-avsar-a-kulup-baskanligi-teklif-edecek-1393154",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T19:58:57.615854+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/mali-krizdeki-ardahanspor-careyi-hulya-avsarda-buldu-p375569",
+          "title": "Mali krizdeki kulüp çareyi Hülya Avşar'da buldu"
+        },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/mali-krizdeki-serhat-ardahanspor-ardahanli-hulya-avsar-a-kulup-baskanligi-teklif-edecek-1393154",
+          "title": "Mali Krizdeki Serhat Ardahanspor, Ardahanlı Hülya Avşar'a Kulüp Başkanlığı Teklif Edecek!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
       "title": "Hülya Avşar: Çocuklar beni rahatsız etmeyin",
       "normalized_title": "hulya avsar cocuklar beni rahatsiz etmeyin",
       "url": "https://www.haberturk.com/magazin/foto/hulya-avsar-cocuklar-beni-rahatsiz-etmeyin-3924483",
@@ -573,7 +494,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.864933+00:00",
+      "collected_at": "2026-11-04T19:58:57.616173+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -608,50 +529,6 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Yayında Hakan Çelebi'ye Başsağlığı Dilemediği İçin Tepki Çeken Ecem Dinçkal Sessizliğini Bozdu",
-      "normalized_title": "yayinda hakan celebi ye bassagligi dilemedigi icin tepki ceken ecem dinckal sessizligini bozdu",
-      "url": "https://onedio.com/haber/hakan-celebi-nin-bassagligi-sitemi-sonrasi-ecem-dinckal-sessizligini-bozdu-1393027",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.865348+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/hakan-celebi-nin-bassagligi-sitemi-sonrasi-ecem-dinckal-sessizligini-bozdu-1393027",
-          "title": "Yayında Hakan Çelebi'ye Başsağlığı Dilemediği İçin Tepki Çeken Ecem Dinçkal Sessizliğini Bozdu"
-        },
-        {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/magazin/yayinda-rahmet-okumayan-ecem-dinckal-sessizligini-20390209-haberi/",
-          "title": "Yayında \"Rahmet okumayan\" Ecem Dinçkal sessizliğini bozdu"
-        }
-      ],
-      "publisher_domains": [
-        "haberler.com",
-        "onedio.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
       "title": "\"Çiğdem\" Büşra Develi, Eşref Tek'te Yer Alıp Almayacağı Sorusuna Yanıt Verdi",
       "normalized_title": "cigdem busra develi esref tek te yer alip almayacagi sorusuna yanit verdi",
       "url": "https://onedio.com/haber/cigdem-busra-develi-esref-tek-te-yer-alip-almayacagi-sorusuna-yanit-verdi-1393262",
@@ -661,7 +538,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.863040+00:00",
+      "collected_at": "2026-11-04T19:58:57.613820+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -698,7 +575,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.863128+00:00",
+      "collected_at": "2026-11-04T19:58:57.613905+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -735,7 +612,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.863185+00:00",
+      "collected_at": "2026-11-04T19:58:57.613958+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -772,7 +649,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.863231+00:00",
+      "collected_at": "2026-11-04T19:58:57.614003+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -800,29 +677,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Pierce Brosnan'dan Callum Turner'a James Bond onayı geldi: \"Gerçekten çok yetenekli\"",
-      "normalized_title": "pierce brosnan dan callum turner a james bond onayi geldi gercekten cok yetenekli",
-      "url": "https://gazeteoksijen.com/o2/pierce-brosnandan-callum-turnera-james-bond-onayi-geldi-gercekten-cok-yetenekli-294865",
-      "source": "gazeteoksijen.com",
+      "title": "SON DAKİKA… Ela Rümeysa Cebeci hakim karşısında! Dikkat çeken ‘cilveleşiyorduk’ savunması: Mahkeme kararını açıkladı!",
+      "normalized_title": "son dakika ela rumeysa cebeci hakim karsisinda dikkat ceken cilvelesiyorduk savunmasi mahkeme kararini acikladi",
+      "url": "https://www.sabah.com.tr/trend/galeri/yasam/son-dakika-ela-rumeysa-cebeci-hakim-karsisinda-dikkat-ceken-cilvelesiyorduk-savunmasi-mahkeme-kararini-acikladi",
+      "source": "sabah.com.tr",
       "source_role": "publisher",
-      "source_domain": "gazeteoksijen.com",
+      "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.863473+00:00",
+      "collected_at": "2026-11-04T19:58:57.614161+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "gazeteoksijen.com",
-          "source_domain": "gazeteoksijen.com",
-          "url": "https://gazeteoksijen.com/o2/pierce-brosnandan-callum-turnera-james-bond-onayi-geldi-gercekten-cok-yetenekli-294865",
-          "title": "Pierce Brosnan'dan Callum Turner'a James Bond onayı geldi: \"Gerçekten çok yetenekli\""
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/yasam/son-dakika-ela-rumeysa-cebeci-hakim-karsisinda-dikkat-ceken-cilvelesiyorduk-savunmasi-mahkeme-kararini-acikladi",
+          "title": "SON DAKİKA… Ela Rümeysa Cebeci hakim karşısında! Dikkat çeken ‘cilveleşiyorduk’ savunması: Mahkeme kararını açıkladı!"
         }
       ],
       "publisher_domains": [
-        "gazeteoksijen.com"
+        "sabah.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -837,29 +714,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Kristin Scott Thomas, Jack Lowden’ın yeni James Bond olma ihtimalini yorumladı",
-      "normalized_title": "kristin scott thomas jack lowden in yeni james bond olma ihtimalini yorumladi",
-      "url": "https://tr.euronews.com/2026/11/03/kristin-scott-thomas-jack-lowdenin-yeni-james-bond-olma-ihtimalini-yorumladi",
-      "source": "tr.euronews.com",
+      "title": "Eski SPK Başkanı Gönül ve Kaya Çifti yeniden ifadeye çağrıldı",
+      "normalized_title": "eski spk baskani gonul ve kaya cifti yeniden ifadeye cagrildi",
+      "url": "https://www.memurlar.net/haber/1183096/eski-spk-baskani-gonul-ve-kaya-cifti-yeniden-ifadeye-cagrildi.html",
+      "source": "memurlar.net",
       "source_role": "publisher",
-      "source_domain": "tr.euronews.com",
+      "source_domain": "memurlar.net",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.863517+00:00",
+      "collected_at": "2026-11-04T19:58:57.614372+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/03/kristin-scott-thomas-jack-lowdenin-yeni-james-bond-olma-ihtimalini-yorumladi",
-          "title": "Kristin Scott Thomas, Jack Lowden’ın yeni James Bond olma ihtimalini yorumladı"
+          "source": "memurlar.net",
+          "source_domain": "memurlar.net",
+          "url": "https://www.memurlar.net/haber/1183096/eski-spk-baskani-gonul-ve-kaya-cifti-yeniden-ifadeye-cagrildi.html",
+          "title": "Eski SPK Başkanı Gönül ve Kaya Çifti yeniden ifadeye çağrıldı"
         }
       ],
       "publisher_domains": [
-        "tr.euronews.com"
+        "memurlar.net"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -874,29 +751,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Eski James Bond Yıldızına Göre Yeni 007’nin Kim Olması Gerektiği Belli",
-      "normalized_title": "eski james bond yildizina gore yeni 007 nin kim olmasi gerektigi belli",
-      "url": "https://kayiprihtim.com/haber/pierce-brosnan-yeni-james-bond-aciklama/",
-      "source": "kayiprihtim.com",
+      "title": "Ünlü adamın 'yanındaki' kadın",
+      "normalized_title": "unlu adamin yanindaki kadin",
+      "url": "https://www.diken.com.tr/unlu-adamin-yanindaki-kadin/",
+      "source": "diken.com.tr",
       "source_role": "publisher",
-      "source_domain": "kayiprihtim.com",
+      "source_domain": "diken.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.863560+00:00",
+      "collected_at": "2026-11-04T19:58:57.614402+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "kayiprihtim.com",
-          "source_domain": "kayiprihtim.com",
-          "url": "https://kayiprihtim.com/haber/pierce-brosnan-yeni-james-bond-aciklama/",
-          "title": "Eski James Bond Yıldızına Göre Yeni 007’nin Kim Olması Gerektiği Belli"
+          "source": "diken.com.tr",
+          "source_domain": "diken.com.tr",
+          "url": "https://www.diken.com.tr/unlu-adamin-yanindaki-kadin/",
+          "title": "Ünlü adamın 'yanındaki' kadın"
         }
       ],
       "publisher_domains": [
-        "kayiprihtim.com"
+        "diken.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -911,29 +788,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Slow Horses yıldızından James Bond söylentilerine yanıt",
-      "normalized_title": "slow horses yildizindan james bond soylentilerine yanit",
-      "url": "https://turkish.aawsat.com/ya%C5%9Fam/5337222-slow-horses-y%C4%B1ld%C4%B1z%C4%B1ndan-james-bond-s%C3%B6ylentilerine-yan%C4%B1t",
-      "source": "turkish.aawsat.com",
+      "title": "Mehmet Günsür: Yorumlar umurumda değil!",
+      "normalized_title": "mehmet gunsur yorumlar umurumda degil",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/mehmet-gunsur-yorumlar-umurumda-degil-43365233",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "turkish.aawsat.com",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.863610+00:00",
+      "collected_at": "2026-11-04T19:58:57.614435+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "turkish.aawsat.com",
-          "source_domain": "turkish.aawsat.com",
-          "url": "https://turkish.aawsat.com/ya%C5%9Fam/5337222-slow-horses-y%C4%B1ld%C4%B1z%C4%B1ndan-james-bond-s%C3%B6ylentilerine-yan%C4%B1t",
-          "title": "Slow Horses yıldızından James Bond söylentilerine yanıt"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/mehmet-gunsur-yorumlar-umurumda-degil-43365233",
+          "title": "Mehmet Günsür: Yorumlar umurumda değil!"
         }
       ],
       "publisher_domains": [
-        "turkish.aawsat.com"
+        "hurriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -948,16 +825,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Eşref Rüya'nın Yıldızı, Kerem Bürsin'in Yeni Dizisinde Partneri Oldu",
-      "normalized_title": "esref ruya nin yildizi kerem bursin in yeni dizisinde partneri oldu",
-      "url": "https://onedio.com/haber/esref-ruya-nin-yildizi-kerem-bursin-in-yeni-dizisinde-partneri-oldu-1393258",
+      "title": "\"Bırakıp Gitti Beni\" Diyen Zülal Zorlu, Eşi Ahmet Nazif Zorlu'nun Tabutuna Sarıldı",
+      "normalized_title": "birakip gitti beni diyen zulal zorlu esi ahmet nazif zorlu nun tabutuna sarildi",
+      "url": "https://onedio.com/haber/birakip-gitti-beni-diyen-zulal-zorlu-esi-ahmet-nazif-zorlu-nun-tabutuna-sarildi-1393311",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.863651+00:00",
+      "collected_at": "2026-11-04T19:58:57.614563+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -965,12 +842,197 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/esref-ruya-nin-yildizi-kerem-bursin-in-yeni-dizisinde-partneri-oldu-1393258",
-          "title": "Eşref Rüya'nın Yıldızı, Kerem Bürsin'in Yeni Dizisinde Partneri Oldu"
+          "url": "https://onedio.com/haber/birakip-gitti-beni-diyen-zulal-zorlu-esi-ahmet-nazif-zorlu-nun-tabutuna-sarildi-1393311",
+          "title": "\"Bırakıp Gitti Beni\" Diyen Zülal Zorlu, Eşi Ahmet Nazif Zorlu'nun Tabutuna Sarıldı"
         }
       ],
       "publisher_domains": [
         "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ahmet Nazif Zorlu son yolculuğuna uğurlanıyor: Eşinin sözleri yürek burktu",
+      "normalized_title": "ahmet nazif zorlu son yolculuguna ugurlaniyor esinin sozleri yurek burktu",
+      "url": "https://www.sozcu.com.tr/ahmet-nazif-zorlu-son-yolculuguna-ugurlaniyor-esinin-sozleri-yurek-burktu-p375949",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T19:58:57.614603+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/ahmet-nazif-zorlu-son-yolculuguna-ugurlaniyor-esinin-sozleri-yurek-burktu-p375949",
+          "title": "Ahmet Nazif Zorlu son yolculuğuna uğurlanıyor: Eşinin sözleri yürek burktu"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Zorlu Holding Yönetim Kurulu Başkanı Zorlu için Manisa'da gıyabi cenaze namazı",
+      "normalized_title": "zorlu holding yonetim kurulu baskani zorlu icin manisa da giyabi cenaze namazi",
+      "url": "https://yerel-haberler.haberturk.com/manisa-haberleri/zorlu-holding-yonetim-kurulu-baskani-zorlu-icin-manisada-giyabi-cenaze-namazi-119512299",
+      "source": "yerel-haberler.haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "yerel-haberler.haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T19:58:57.614646+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yerel-haberler.haberturk.com",
+          "source_domain": "yerel-haberler.haberturk.com",
+          "url": "https://yerel-haberler.haberturk.com/manisa-haberleri/zorlu-holding-yonetim-kurulu-baskani-zorlu-icin-manisada-giyabi-cenaze-namazi-119512299",
+          "title": "Zorlu Holding Yönetim Kurulu Başkanı Zorlu için Manisa'da gıyabi cenaze namazı"
+        }
+      ],
+      "publisher_domains": [
+        "yerel-haberler.haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ahmet Nazif Zorlu'nun Vasiyetine Rağmen Cenaze Törenine 2 Bine Yakın Çelenk Gönderildi",
+      "normalized_title": "ahmet nazif zorlu nun vasiyetine ragmen cenaze torenine 2 bine yakin celenk gonderildi",
+      "url": "https://onedio.com/haber/ahmet-nazif-zorlu-nun-vasiyetine-ragmen-cenaze-torenine-2-bine-yakin-celenk-gonderildi-1393318",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T19:58:57.614697+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/ahmet-nazif-zorlu-nun-vasiyetine-ragmen-cenaze-torenine-2-bine-yakin-celenk-gonderildi-1393318",
+          "title": "Ahmet Nazif Zorlu'nun Vasiyetine Rağmen Cenaze Törenine 2 Bine Yakın Çelenk Gönderildi"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Erotik filmlerin efsanesi Tinto Brass hayatını kaybetti",
+      "normalized_title": "erotik filmlerin efsanesi tinto brass hayatini kaybetti",
+      "url": "https://www.odatv.com/guncel/erotik-filmlerin-efsanesi-tinto-brass-hayatini-kaybetti-120169715",
+      "source": "odatv.com",
+      "source_role": "publisher",
+      "source_domain": "odatv.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T19:58:57.614732+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/guncel/erotik-filmlerin-efsanesi-tinto-brass-hayatini-kaybetti-120169715",
+          "title": "Erotik filmlerin efsanesi Tinto Brass hayatını kaybetti"
+        }
+      ],
+      "publisher_domains": [
+        "odatv.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "'Tepkiler nedeniyle sosyal medyaya bakmayı bıraktım'",
+      "normalized_title": "tepkiler nedeniyle sosyal medyaya bakmayi biraktim",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/tepkiler-nedeniyle-sosyal-medyaya-bakmayi-biraktim-43366051",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T19:58:57.614763+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/tepkiler-nedeniyle-sosyal-medyaya-bakmayi-biraktim-43366051",
+          "title": "'Tepkiler nedeniyle sosyal medyaya bakmayı bıraktım'"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -994,7 +1056,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.863820+00:00",
+      "collected_at": "2026-11-04T19:58:57.614800+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1022,80 +1084,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Ecem Çalhan “Yörük Kızı” dizisinde",
-      "normalized_title": "ecem calhan yoruk kizi dizisinde",
-      "url": "https://www.birsenaltuntas.com/dizi/ecem-calhan-yoruk-kizi-dizisinde/79028/",
-      "source": "birsenaltuntas.com",
-      "source_role": "publisher",
-      "source_domain": "birsenaltuntas.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.863851+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "birsenaltuntas.com",
-          "source_domain": "birsenaltuntas.com",
-          "url": "https://www.birsenaltuntas.com/dizi/ecem-calhan-yoruk-kizi-dizisinde/79028/",
-          "title": "Ecem Çalhan “Yörük Kızı” dizisinde"
-        }
-      ],
-      "publisher_domains": [
-        "birsenaltuntas.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Reytingleri yükseldikçe yükseldi! Altı Üstü İstanbul'a bomba bir isim daha - Magazin Haberleri",
-      "normalized_title": "reytingleri yukseldikce yukseldi alti ustu istanbul a bomba bir isim daha magazin haberleri",
-      "url": "https://www.mynet.com/magazin/reytingleri-yukseldikce-yukseldi-alti-ustu-istanbul-a-bomba-bir-isim-daha-130100606127",
-      "source": "mynet.com",
-      "source_role": "publisher",
-      "source_domain": "mynet.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.863900+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "mynet.com",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/reytingleri-yukseldikce-yukseldi-alti-ustu-istanbul-a-bomba-bir-isim-daha-130100606127",
-          "title": "Reytingleri yükseldikçe yükseldi! Altı Üstü İstanbul'a bomba bir isim daha - Magazin Haberleri"
-        }
-      ],
-      "publisher_domains": [
-        "mynet.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Kuruluş Osman’ın Selcan Hatun’u Altı Üstü İstanbul kadrosunda | Aktüel Haberleri",
       "normalized_title": "kurulus osman in selcan hatun u alti ustu istanbul kadrosunda aktuel haberleri",
       "url": "https://www.gzt.com/hayat/kurulus-osmanin-selcan-hatunu-alti-ustu-istanbul-kadrosunda-4275523",
@@ -1105,7 +1093,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.863942+00:00",
+      "collected_at": "2026-11-04T19:58:57.614842+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1133,6 +1121,80 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "Reytingleri yükseldikçe yükseldi! Altı Üstü İstanbul'a bomba bir isim daha - Magazin Haberleri",
+      "normalized_title": "reytingleri yukseldikce yukseldi alti ustu istanbul a bomba bir isim daha magazin haberleri",
+      "url": "https://www.mynet.com/magazin/reytingleri-yukseldikce-yukseldi-alti-ustu-istanbul-a-bomba-bir-isim-daha-130100606127",
+      "source": "mynet.com",
+      "source_role": "publisher",
+      "source_domain": "mynet.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T19:58:57.614888+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "mynet.com",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/reytingleri-yukseldikce-yukseldi-alti-ustu-istanbul-a-bomba-bir-isim-daha-130100606127",
+          "title": "Reytingleri yükseldikçe yükseldi! Altı Üstü İstanbul'a bomba bir isim daha - Magazin Haberleri"
+        }
+      ],
+      "publisher_domains": [
+        "mynet.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ecem Çalhan “Yörük Kızı” dizisinde",
+      "normalized_title": "ecem calhan yoruk kizi dizisinde",
+      "url": "https://www.birsenaltuntas.com/dizi/ecem-calhan-yoruk-kizi-dizisinde/79028/",
+      "source": "birsenaltuntas.com",
+      "source_role": "publisher",
+      "source_domain": "birsenaltuntas.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T19:58:57.614918+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "birsenaltuntas.com",
+          "source_domain": "birsenaltuntas.com",
+          "url": "https://www.birsenaltuntas.com/dizi/ecem-calhan-yoruk-kizi-dizisinde/79028/",
+          "title": "Ecem Çalhan “Yörük Kızı” dizisinde"
+        }
+      ],
+      "publisher_domains": [
+        "birsenaltuntas.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Yılmaz Erdoğan'dan 'kam davulu' sahnesi için özür: 'Bilgi eksikliğine dayalı bir özensizlik oldu'",
       "normalized_title": "yilmaz erdogan dan kam davulu sahnesi icin ozur bilgi eksikligine dayali bir ozensizlik oldu",
       "url": "https://www.cumhuriyet.com.tr/magazin/yilmaz-erdogan-dan-kam-davulu-sahnesi-icin-ozur-bilgi-eksikligine-dayali-bir-ozensizlik-oldu-2552935",
@@ -1142,7 +1204,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.864095+00:00",
+      "collected_at": "2026-11-04T19:58:57.615025+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1170,6 +1232,43 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "Eşref Rüya'nın Yıldızı, Kerem Bürsin'in Yeni Dizisinde Partneri Oldu",
+      "normalized_title": "esref ruya nin yildizi kerem bursin in yeni dizisinde partneri oldu",
+      "url": "https://onedio.com/haber/esref-ruya-nin-yildizi-kerem-bursin-in-yeni-dizisinde-partneri-oldu-1393258",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T19:58:57.615101+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/esref-ruya-nin-yildizi-kerem-bursin-in-yeni-dizisinde-partneri-oldu-1393258",
+          "title": "Eşref Rüya'nın Yıldızı, Kerem Bürsin'in Yeni Dizisinde Partneri Oldu"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Seren Serengil: 42 kiloda kemiklerim adeta eridi",
       "normalized_title": "seren serengil 42 kiloda kemiklerim adeta eridi",
       "url": "https://www.hurriyet.com.tr/kelebek/hayat/seren-serengil-42-kiloda-kemiklerim-adeta-eridi-43365318",
@@ -1179,7 +1278,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.864125+00:00",
+      "collected_at": "2026-11-04T19:58:57.615252+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1216,7 +1315,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.864173+00:00",
+      "collected_at": "2026-11-04T19:58:57.615298+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1230,154 +1329,6 @@
       ],
       "publisher_domains": [
         "takvim.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Şarkıcı ve sunucu Seren Serengil, Ayşe Arman'ın programında zayıflamak için geçirdiği ameliyatların",
-      "normalized_title": "sarkici ve sunucu seren serengil ayse arman in programinda zayiflamak icin gecirdigi ameliyatlarin",
-      "url": "https://www.yenialanya.com/sarkici-ve-sunucu-seren-serengil-ayse-armanin-programinda-zayiflamak-icin-gecirdigi-ameliy",
-      "source": "yenialanya.com",
-      "source_role": "publisher",
-      "source_domain": "yenialanya.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.864218+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yenialanya.com",
-          "source_domain": "yenialanya.com",
-          "url": "https://www.yenialanya.com/sarkici-ve-sunucu-seren-serengil-ayse-armanin-programinda-zayiflamak-icin-gecirdigi-ameliy",
-          "title": "Şarkıcı ve sunucu Seren Serengil, Ayşe Arman'ın programında zayıflamak için geçirdiği ameliyatların"
-        }
-      ],
-      "publisher_domains": [
-        "yenialanya.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "90'lardan Bugüne Bambaşka Bir Tarz: Seren Serengil'in Yıllar İçindeki Değişimi Dikkat Çekti!",
-      "normalized_title": "90 lardan bugune bambaska bir tarz seren serengil in yillar icindeki degisimi dikkat cekti",
-      "url": "https://onedio.com/haber/90-lardan-bugune-bambaska-bir-tarz-seren-serengil-in-yillar-icindeki-degisimi-dikkat-cekti-1393133",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.864263+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/90-lardan-bugune-bambaska-bir-tarz-seren-serengil-in-yillar-icindeki-degisimi-dikkat-cekti-1393133",
-          "title": "90'lardan Bugüne Bambaşka Bir Tarz: Seren Serengil'in Yıllar İçindeki Değişimi Dikkat Çekti!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Rapçi Killa Hakan’dan üzen haber! Yoğun bakıma kaldırıldı",
-      "normalized_title": "rapci killa hakan dan uzen haber yogun bakima kaldirildi",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/rapci-killa-hakandan-uzen-haber-yogun-bakima-kaldirildi",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.864413+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/rapci-killa-hakandan-uzen-haber-yogun-bakima-kaldirildi",
-          "title": "Rapçi Killa Hakan’dan üzen haber! Yoğun bakıma kaldırıldı"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yeşilçam Yıldızı Sibel Turnagöl’ün Sanayideki Lokantasının Fiyatları Şaşırttı!",
-      "normalized_title": "yesilcam yildizi sibel turnagol un sanayideki lokantasinin fiyatlari sasirtti",
-      "url": "https://onedio.com/haber/yesilcam-yildizi-sibel-turnagol-un-sanayideki-lokantasinda-yarim-porsiyon-orman-kebabi-300-tl-1393145",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-04T14:45:12.864454+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/yesilcam-yildizi-sibel-turnagol-un-sanayideki-lokantasinda-yarim-porsiyon-orman-kebabi-300-tl-1393145",
-          "title": "Yeşilçam Yıldızı Sibel Turnagöl’ün Sanayideki Lokantasının Fiyatları Şaşırttı!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
