@@ -1,33 +1,27 @@
 {
-  "generated_at": "2026-11-03T19:45:08.272839+00:00",
+  "generated_at": "2026-11-04T08:46:28.037064+00:00",
   "candidate_count": 100,
-  "event_group_count": 44,
-  "multi_publisher_event_count": 9,
+  "event_group_count": 43,
+  "multi_publisher_event_count": 12,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Organize İşler’deki Kam Davulu Sahnesiyle Tepki Toplayan Yılmaz Erdoğan Özür Diledi",
-      "normalized_title": "organize isler deki kam davulu sahnesiyle tepki toplayan yilmaz erdogan ozur diledi",
-      "url": "https://onedio.com/haber/organize-isler-deki-kam-davulu-sahnesiyle-tepki-toplayan-yilmaz-erdogan-ozur-diledi-1393203",
-      "source": "onedio.com",
+      "title": "Yılmaz Erdoğan, 'Organize İşler'deki kam davulu sahnesi nedeniyle özür diledi",
+      "normalized_title": "yilmaz erdogan organize isler deki kam davulu sahnesi nedeniyle ozur diledi",
+      "url": "https://www.haberturk.com/magazin/yilmaz-erdogan-organize-isler-deki-sahne-nedeniyle-ozur-diledi-3924648",
+      "source": "haberturk.com",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "haberturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.653851+00:00",
+      "collected_at": "2026-11-04T08:45:52.159058+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/yilmaz-erdogan-ozur-diledi-3924648",
-          "title": "Yılmaz Erdoğan özür diledi"
-        },
         {
           "source": "evrensel.net",
           "source_domain": "evrensel.net",
@@ -35,67 +29,80 @@
           "title": "Yılmaz Erdoğan 'Organize İşler'deki sahne nedeniyle özür diledi"
         },
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/organize-isler-deki-kam-davulu-sahnesiyle-tepki-toplayan-yilmaz-erdogan-ozur-diledi-1393203",
-          "title": "Organize İşler’deki Kam Davulu Sahnesiyle Tepki Toplayan Yılmaz Erdoğan Özür Diledi"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/kam-davulu-tartismasinda-yilmaz-erdogan-ozur-diledi-1749259",
+          "title": "'Kam davulu' tartışmasında Yılmaz Erdoğan özür diledi"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/yilmaz-erdogan-ozur-diledi-p375912",
+          "title": "Yılmaz Erdoğan özür diledi"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/yilmaz-erdogan-organize-isler-deki-sahne-nedeniyle-ozur-diledi-3924648",
+          "title": "Yılmaz Erdoğan, 'Organize İşler'deki kam davulu sahnesi nedeniyle özür diledi"
         }
       ],
       "publisher_domains": [
         "evrensel.net",
         "haberturk.com",
-        "onedio.com"
+        "ntv.com.tr",
+        "sozcu.com.tr"
       ],
-      "publisher_count": 3,
+      "publisher_count": 4,
       "direct_article_count": 4,
       "event_member_count": 4,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.5,
+      "popularity_score": 40.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Bir çocuğu daha onu reddetti! Brad Pitt’in kızı Vivienne babasının soyadını sildi",
-      "normalized_title": "bir cocugu daha onu reddetti brad pitt in kizi vivienne babasinin soyadini sildi",
-      "url": "https://www.sabah.com.tr/magazin/bir-cocugu-daha-onu-reddetti-brad-pittin-kizi-vivienne-babasinin-soyadini-sildi-7693977",
-      "source": "sabah.com.tr",
+      "title": "RAPÇİ KİLLA HAKAN KİMDİR, KAÇ YAŞINDA? Killa Hakan yoğun bakımda mı, sağlık durumu nasıl?",
+      "normalized_title": "rapci killa hakan kimdir kac yasinda killa hakan yogun bakimda mi saglik durumu nasil",
+      "url": "https://www.milliyet.com.tr/galeri/killa-hakan-kimdir-kac-yasinda-killa-hakan-yogun-bakimda-mi-saglik-durumu-nasil-7693227",
+      "source": "milliyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
+      "source_domain": "milliyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.654804+00:00",
+      "collected_at": "2026-11-04T08:45:52.159695+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/angelina-jolie-ve-brad-pitt-in-kizi-vivienne-mahkeme-karariyla-soyadindaki-pitt-i-resmen-birakti-1393125",
-          "title": "Angelina Jolie ve Brad Pitt'in Kızı Vivienne, Babasının Soyadını Resmen Bıraktı!"
+          "source": "birgun.net",
+          "source_domain": "birgun.net",
+          "url": "https://www.birgun.net/haber/rapci-killa-hakan-yogun-bakima-alindi-avukatindan-aciklama-744160",
+          "title": "Rapçi Killa Hakan yoğun bakıma alındı: Avukatından açıklama"
         },
         {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/03/angelina-jolie-ve-brad-pittin-kizi-vivienne-soyadindan-pitti-resmen-sildirdi",
-          "title": "Angelina Jolie ve Brad Pitt'in kızı Vivienne, soyadından Pitt'i resmen sildirdi"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/unlu-rapci-killa-hakan-yogun-bakima-kaldirildi-p375353",
+          "title": "Ünlü Rapçi Killa Hakan yoğun bakıma kaldırıldı"
         },
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/bir-cocugu-daha-onu-reddetti-brad-pittin-kizi-vivienne-babasinin-soyadini-sildi-7693977",
-          "title": "Bir çocuğu daha onu reddetti! Brad Pitt’in kızı Vivienne babasının soyadını sildi"
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/galeri/killa-hakan-kimdir-kac-yasinda-killa-hakan-yogun-bakimda-mi-saglik-durumu-nasil-7693227",
+          "title": "RAPÇİ KİLLA HAKAN KİMDİR, KAÇ YAŞINDA? Killa Hakan yoğun bakımda mı, sağlık durumu nasıl?"
         }
       ],
       "publisher_domains": [
-        "onedio.com",
-        "sabah.com.tr",
-        "tr.euronews.com"
+        "birgun.net",
+        "milliyet.com.tr",
+        "sozcu.com.tr"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -110,36 +117,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Ferhat Göçer'den bomba itiraf: 'Ağlaya ağlaya bıraktım'",
-      "normalized_title": "ferhat gocer den bomba itiraf aglaya aglaya biraktim",
-      "url": "https://www.cnnturk.com/magazin/galeri/ferhat-gocerden-bomba-itiraf-aglaya-aglaya-biraktim-3488513",
-      "source": "cnnturk.com",
+      "title": "Pierce Brosnan'dan Callum Turner'a James Bond onayı geldi: \"Gerçekten çok yetenekli\"",
+      "normalized_title": "pierce brosnan dan callum turner a james bond onayi geldi gercekten cok yetenekli",
+      "url": "https://gazeteoksijen.com/o2/pierce-brosnandan-callum-turnera-james-bond-onayi-geldi-gercekten-cok-yetenekli-294865",
+      "source": "gazeteoksijen.com",
       "source_role": "publisher",
-      "source_domain": "cnnturk.com",
+      "source_domain": "gazeteoksijen.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.654256+00:00",
+      "collected_at": "2026-11-04T08:45:52.158704+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/ferhat-gocer-cerrahligi-aglaya-aglaya-biraktim-3924646",
-          "title": "Ferhat Göçer: Cerrahlığı ağlaya ağlaya bıraktım"
+          "source": "gazeteoksijen.com",
+          "source_domain": "gazeteoksijen.com",
+          "url": "https://gazeteoksijen.com/o2/pierce-brosnandan-callum-turnera-james-bond-onayi-geldi-gercekten-cok-yetenekli-294865",
+          "title": "Pierce Brosnan'dan Callum Turner'a James Bond onayı geldi: \"Gerçekten çok yetenekli\""
         },
         {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/ferhat-gocerden-bomba-itiraf-aglaya-aglaya-biraktim-3488513",
-          "title": "Ferhat Göçer'den bomba itiraf: 'Ağlaya ağlaya bıraktım'"
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "url": "https://tr.euronews.com/2026/11/04/pierce-brosnandan-yeni-james-bond-icin-favori-callum-turner",
+          "title": "Pierce Brosnan’dan yeni James Bond için favori: Callum Turner"
         }
       ],
       "publisher_domains": [
-        "cnnturk.com",
-        "haberturk.com"
+        "gazeteoksijen.com",
+        "tr.euronews.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -156,6 +163,64 @@
   ],
   "event_groups_preview": [
     {
+      "title": "Yılmaz Erdoğan, 'Organize İşler'deki kam davulu sahnesi nedeniyle özür diledi",
+      "normalized_title": "yilmaz erdogan organize isler deki kam davulu sahnesi nedeniyle ozur diledi",
+      "url": "https://www.haberturk.com/magazin/yilmaz-erdogan-organize-isler-deki-sahne-nedeniyle-ozur-diledi-3924648",
+      "source": "haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T08:45:52.159058+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "evrensel.net",
+          "source_domain": "evrensel.net",
+          "url": "https://www.evrensel.net/haber/6007858/yilmaz-erdogan-organize-isler-deki-sahne-nedeniyle-ozur-diledi",
+          "title": "Yılmaz Erdoğan 'Organize İşler'deki sahne nedeniyle özür diledi"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/kam-davulu-tartismasinda-yilmaz-erdogan-ozur-diledi-1749259",
+          "title": "'Kam davulu' tartışmasında Yılmaz Erdoğan özür diledi"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/yilmaz-erdogan-ozur-diledi-p375912",
+          "title": "Yılmaz Erdoğan özür diledi"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/yilmaz-erdogan-organize-isler-deki-sahne-nedeniyle-ozur-diledi-3924648",
+          "title": "Yılmaz Erdoğan, 'Organize İşler'deki kam davulu sahnesi nedeniyle özür diledi"
+        }
+      ],
+      "publisher_domains": [
+        "evrensel.net",
+        "haberturk.com",
+        "ntv.com.tr",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 4,
+      "direct_article_count": 4,
+      "event_member_count": 4,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 40.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
       "title": "Ebru Gündeş Havalimanında Hayranıyla İkinci Kez Buluştu! O Fotoğraf Yeniden Gündem Oldu",
       "normalized_title": "ebru gundes havalimaninda hayraniyla ikinci kez bulustu o fotograf yeniden gundem oldu",
       "url": "https://www.yesilafsin.com/ebru-gundes-havalimaninda-hayraniyla-ikinci-kez-bulustu-o-fotograf-yeniden-gundem-oldu",
@@ -165,7 +230,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.656481+00:00",
+      "collected_at": "2026-11-04T08:45:52.160609+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -214,67 +279,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Organize İşler’deki Kam Davulu Sahnesiyle Tepki Toplayan Yılmaz Erdoğan Özür Diledi",
-      "normalized_title": "organize isler deki kam davulu sahnesiyle tepki toplayan yilmaz erdogan ozur diledi",
-      "url": "https://onedio.com/haber/organize-isler-deki-kam-davulu-sahnesiyle-tepki-toplayan-yilmaz-erdogan-ozur-diledi-1393203",
-      "source": "onedio.com",
+      "title": "RAPÇİ KİLLA HAKAN KİMDİR, KAÇ YAŞINDA? Killa Hakan yoğun bakımda mı, sağlık durumu nasıl?",
+      "normalized_title": "rapci killa hakan kimdir kac yasinda killa hakan yogun bakimda mi saglik durumu nasil",
+      "url": "https://www.milliyet.com.tr/galeri/killa-hakan-kimdir-kac-yasinda-killa-hakan-yogun-bakimda-mi-saglik-durumu-nasil-7693227",
+      "source": "milliyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "milliyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.653851+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/yilmaz-erdogan-ozur-diledi-3924648",
-          "title": "Yılmaz Erdoğan özür diledi"
-        },
-        {
-          "source": "evrensel.net",
-          "source_domain": "evrensel.net",
-          "url": "https://www.evrensel.net/haber/6007858/yilmaz-erdogan-organize-isler-deki-sahne-nedeniyle-ozur-diledi",
-          "title": "Yılmaz Erdoğan 'Organize İşler'deki sahne nedeniyle özür diledi"
-        },
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/organize-isler-deki-kam-davulu-sahnesiyle-tepki-toplayan-yilmaz-erdogan-ozur-diledi-1393203",
-          "title": "Organize İşler’deki Kam Davulu Sahnesiyle Tepki Toplayan Yılmaz Erdoğan Özür Diledi"
-        }
-      ],
-      "publisher_domains": [
-        "evrensel.net",
-        "haberturk.com",
-        "onedio.com"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 4,
-      "event_member_count": 4,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.5,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Rapçi Killa Hakan yoğun bakıma alındı: Avukatından açıklama",
-      "normalized_title": "rapci killa hakan yogun bakima alindi avukatindan aciklama",
-      "url": "https://www.birgun.net/haber/rapci-killa-hakan-yogun-bakima-alindi-avukatindan-aciklama-744160",
-      "source": "birgun.net",
-      "source_role": "publisher",
-      "source_domain": "birgun.net",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.653416+00:00",
+      "collected_at": "2026-11-04T08:45:52.159695+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -292,15 +306,15 @@
           "title": "Ünlü Rapçi Killa Hakan yoğun bakıma kaldırıldı"
         },
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/rapci-killa-hakandan-uzen-haber-yogun-bakima-kaldirildi",
-          "title": "Rapçi Killa Hakan’dan üzen haber! Yoğun bakıma kaldırıldı"
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/galeri/killa-hakan-kimdir-kac-yasinda-killa-hakan-yogun-bakimda-mi-saglik-durumu-nasil-7693227",
+          "title": "RAPÇİ KİLLA HAKAN KİMDİR, KAÇ YAŞINDA? Killa Hakan yoğun bakımda mı, sağlık durumu nasıl?"
         }
       ],
       "publisher_domains": [
         "birgun.net",
-        "sabah.com.tr",
+        "milliyet.com.tr",
         "sozcu.com.tr"
       ],
       "publisher_count": 3,
@@ -316,16 +330,324 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Bir çocuğu daha onu reddetti! Brad Pitt’in kızı Vivienne babasının soyadını sildi",
-      "normalized_title": "bir cocugu daha onu reddetti brad pitt in kizi vivienne babasinin soyadini sildi",
-      "url": "https://www.sabah.com.tr/magazin/bir-cocugu-daha-onu-reddetti-brad-pittin-kizi-vivienne-babasinin-soyadini-sildi-7693977",
-      "source": "sabah.com.tr",
+      "title": "Pierce Brosnan'dan Callum Turner'a James Bond onayı geldi: \"Gerçekten çok yetenekli\"",
+      "normalized_title": "pierce brosnan dan callum turner a james bond onayi geldi gercekten cok yetenekli",
+      "url": "https://gazeteoksijen.com/o2/pierce-brosnandan-callum-turnera-james-bond-onayi-geldi-gercekten-cok-yetenekli-294865",
+      "source": "gazeteoksijen.com",
       "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
+      "source_domain": "gazeteoksijen.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.654804+00:00",
+      "collected_at": "2026-11-04T08:45:52.158704+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "gazeteoksijen.com",
+          "source_domain": "gazeteoksijen.com",
+          "url": "https://gazeteoksijen.com/o2/pierce-brosnandan-callum-turnera-james-bond-onayi-geldi-gercekten-cok-yetenekli-294865",
+          "title": "Pierce Brosnan'dan Callum Turner'a James Bond onayı geldi: \"Gerçekten çok yetenekli\""
+        },
+        {
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "url": "https://tr.euronews.com/2026/11/04/pierce-brosnandan-yeni-james-bond-icin-favori-callum-turner",
+          "title": "Pierce Brosnan’dan yeni James Bond için favori: Callum Turner"
+        }
+      ],
+      "publisher_domains": [
+        "gazeteoksijen.com",
+        "tr.euronews.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Seren Serengil kilo vermek uğruna zor günler geçirdi! 'Kemiklerim eridi, boyum kısaldı' - Magazin Haberleri",
+      "normalized_title": "seren serengil kilo vermek ugruna zor gunler gecirdi kemiklerim eridi boyum kisaldi magazin haberleri",
+      "url": "https://www.mynet.com/magazin/seren-serengil-kilo-vermek-ugruna-zor-gunler-gecirdi-kemiklerim-eridi-boyum-kisaldi-130100605833",
+      "source": "mynet.com",
+      "source_role": "publisher",
+      "source_domain": "mynet.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T08:45:52.159247+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/seren-serengil-42-kiloda-kemiklerim-adeta-eridi-43365318",
+          "title": "Seren Serengil: 42 kiloda kemiklerim adeta eridi"
+        },
+        {
+          "source": "mynet.com",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/seren-serengil-kilo-vermek-ugruna-zor-gunler-gecirdi-kemiklerim-eridi-boyum-kisaldi-130100605833",
+          "title": "Seren Serengil kilo vermek uğruna zor günler geçirdi! 'Kemiklerim eridi, boyum kısaldı' - Magazin Haberleri"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr",
+        "mynet.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Ferhat Göçer'den yıllar sonra gelen itiraf: Cerrahlığı ağlayarak bıraktım",
+      "normalized_title": "ferhat gocer den yillar sonra gelen itiraf cerrahligi aglayarak biraktim",
+      "url": "https://www.sondakika.com/magazin/haber-ferhat-gocerden-yillar-sonra-gelen-itiraf-20393747/",
+      "source": "sondakika.com",
+      "source_role": "publisher",
+      "source_domain": "sondakika.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T08:45:52.159403+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/ferhat-gocer-cerrahligi-aglaya-aglaya-biraktim-3924646",
+          "title": "Ferhat Göçer: Cerrahlığı ağlaya ağlaya bıraktım"
+        },
+        {
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/magazin/haber-ferhat-gocerden-yillar-sonra-gelen-itiraf-20393747/",
+          "title": "Ferhat Göçer'den yıllar sonra gelen itiraf: Cerrahlığı ağlayarak bıraktım"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "sondakika.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Mehmet Günsür'den eşiyle ilgili olumsuz yorumlara yanıt: 'Onunla her gün 10 kez evlenebilirim'",
+      "normalized_title": "mehmet gunsur den esiyle ilgili olumsuz yorumlara yanit onunla her gun 10 kez evlenebilirim",
+      "url": "https://www.sozcu.com.tr/mehmet-gunsur-den-esiyle-ilgili-olumsuz-yorumlara-yanit-onunla-her-gun-10-kez-evlenebilirim-p375487",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T08:45:52.159854+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/mehmet-gunsur-den-esi-katerina-mongio-ile-ilgili-olumsuz-yorumlara-yanit-3924466",
+          "title": "Mehmet Günsür'den eşi Katerina Mongio ile ilgili olumsuz yorumlara yanıt"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/mehmet-gunsur-den-esiyle-ilgili-olumsuz-yorumlara-yanit-onunla-her-gun-10-kez-evlenebilirim-p375487",
+          "title": "Mehmet Günsür'den eşiyle ilgili olumsuz yorumlara yanıt: 'Onunla her gün 10 kez evlenebilirim'"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Uyuşturucu soruşturmasında tutuklanmıştı! Şarkıcı İlyas Yalçıntaş'ın tahliyesine karar verildi",
+      "normalized_title": "uyusturucu sorusturmasinda tutuklanmisti sarkici ilyas yalcintas in tahliyesine karar verildi",
+      "url": "https://www.hurriyet.com.tr/gundem/uyusturucu-sorusturmasinda-tutuklanmisti-sarkici-ilyas-yalcintasin-tahliyesine-karar-verildi-43364822",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T08:45:52.159975+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "medyascope.tv",
+          "source_domain": "medyascope.tv",
+          "url": "https://medyascope.tv/2026/11/03/sarkici-ilyas-yalcintas-tahliye-edildi/",
+          "title": "Şarkıcı İlyas Yalçıntaş tahliye edildi"
+        },
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/gundem/uyusturucu-sorusturmasinda-tutuklanmisti-sarkici-ilyas-yalcintasin-tahliyesine-karar-verildi-43364822",
+          "title": "Uyuşturucu soruşturmasında tutuklanmıştı! Şarkıcı İlyas Yalçıntaş'ın tahliyesine karar verildi"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr",
+        "medyascope.tv"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Şarkıcı İlyas Yalçıntaş hakkında tahliye kararı",
+      "normalized_title": "sarkici ilyas yalcintas hakkinda tahliye karari",
+      "url": "https://www.ntv.com.tr/turkiye/sarkici-ilyas-yalcintasa-ilk-durusmada-tahliye-1749248",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T08:45:52.160009+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/turkiye/sarkici-ilyas-yalcintasa-ilk-durusmada-tahliye-1749248",
+          "title": "Şarkıcı İlyas Yalçıntaş hakkında tahliye kararı"
+        },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/ilyas-yalcintas-hakkinda-tahliye-karari-verildi-1393201",
+          "title": "İlyas Yalçıntaş Hakkında Tahliye Kararı Verildi"
+        }
+      ],
+      "publisher_domains": [
+        "ntv.com.tr",
+        "onedio.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Hülya Avşar: Çocuklar beni rahatsız etmeyin",
+      "normalized_title": "hulya avsar cocuklar beni rahatsiz etmeyin",
+      "url": "https://www.haberturk.com/magazin/foto/hulya-avsar-cocuklar-beni-rahatsiz-etmeyin-3924483",
+      "source": "haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T08:45:52.160356+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/hulya-avsar-cocuklar-beni-rahatsiz-etmeyin-3924483",
+          "title": "Hülya Avşar: Çocuklar beni rahatsız etmeyin"
+        },
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/beni-rahatsiz-etmeyin-43363897",
+          "title": "Beni rahatsız etmeyin"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Yayında Hakan Çelebi'ye Başsağlığı Dilemediği İçin Tepki Çeken Ecem Dinçkal Sessizliğini Bozdu",
+      "normalized_title": "yayinda hakan celebi ye bassagligi dilemedigi icin tepki ceken ecem dinckal sessizligini bozdu",
+      "url": "https://onedio.com/haber/hakan-celebi-nin-bassagligi-sitemi-sonrasi-ecem-dinckal-sessizligini-bozdu-1393027",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T08:45:52.160827+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -333,34 +655,27 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/angelina-jolie-ve-brad-pitt-in-kizi-vivienne-mahkeme-karariyla-soyadindaki-pitt-i-resmen-birakti-1393125",
-          "title": "Angelina Jolie ve Brad Pitt'in Kızı Vivienne, Babasının Soyadını Resmen Bıraktı!"
+          "url": "https://onedio.com/haber/hakan-celebi-nin-bassagligi-sitemi-sonrasi-ecem-dinckal-sessizligini-bozdu-1393027",
+          "title": "Yayında Hakan Çelebi'ye Başsağlığı Dilemediği İçin Tepki Çeken Ecem Dinçkal Sessizliğini Bozdu"
         },
         {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/03/angelina-jolie-ve-brad-pittin-kizi-vivienne-soyadindan-pitti-resmen-sildirdi",
-          "title": "Angelina Jolie ve Brad Pitt'in kızı Vivienne, soyadından Pitt'i resmen sildirdi"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/bir-cocugu-daha-onu-reddetti-brad-pittin-kizi-vivienne-babasinin-soyadini-sildi-7693977",
-          "title": "Bir çocuğu daha onu reddetti! Brad Pitt’in kızı Vivienne babasının soyadını sildi"
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/magazin/yayinda-rahmet-okumayan-ecem-dinckal-sessizligini-20390209-haberi/",
+          "title": "Yayında \"Rahmet okumayan\" Ecem Dinçkal sessizliğini bozdu"
         }
       ],
       "publisher_domains": [
-        "onedio.com",
-        "sabah.com.tr",
-        "tr.euronews.com"
+        "haberler.com",
+        "onedio.com"
       ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -376,7 +691,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.655123+00:00",
+      "collected_at": "2026-11-04T08:45:52.161051+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -388,66 +703,15 @@
           "title": "\"Afife\" oyunu, İstanbul ve Ankara'da yeniden tiyatroseverlerle buluşacak"
         },
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/kultur-sanat/afife-istanbul-ve-ankara-sahnelerinde-3924309",
-          "title": "'Afife' İstanbul ve Ankara sahnelerinde"
-        },
-        {
-          "source": "gunes.com",
-          "source_domain": "gunes.com",
-          "url": "https://www.gunes.com/sanat/afife-oyunu-istanbul-ve-ankarada-sahnelenecek-1230598",
-          "title": "\"Afife\" oyunu, İstanbul ve Ankara'da sahnelenecek!"
+          "source": "birgun.net",
+          "source_domain": "birgun.net",
+          "url": "https://www.birgun.net/haber/afife-istanbul-ve-ankarada-sahnelenecek-744374",
+          "title": "Afife, İstanbul ve Ankara’da sahnelenecek"
         }
       ],
       "publisher_domains": [
         "aa.com.tr",
-        "gunes.com",
-        "haberturk.com"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Ferhat Göçer'den bomba itiraf: 'Ağlaya ağlaya bıraktım'",
-      "normalized_title": "ferhat gocer den bomba itiraf aglaya aglaya biraktim",
-      "url": "https://www.cnnturk.com/magazin/galeri/ferhat-gocerden-bomba-itiraf-aglaya-aglaya-biraktim-3488513",
-      "source": "cnnturk.com",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.654256+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/ferhat-gocer-cerrahligi-aglaya-aglaya-biraktim-3924646",
-          "title": "Ferhat Göçer: Cerrahlığı ağlaya ağlaya bıraktım"
-        },
-        {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/ferhat-gocerden-bomba-itiraf-aglaya-aglaya-biraktim-3488513",
-          "title": "Ferhat Göçer'den bomba itiraf: 'Ağlaya ağlaya bıraktım'"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com",
-        "haberturk.com"
+        "birgun.net"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -460,323 +724,6 @@
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Mali Krizdeki Serhat Ardahanspor, Ardahanlı Hülya Avşar'a Kulüp Başkanlığı Teklif Edecek!",
-      "normalized_title": "mali krizdeki serhat ardahanspor ardahanli hulya avsar a kulup baskanligi teklif edecek",
-      "url": "https://onedio.com/haber/mali-krizdeki-serhat-ardahanspor-ardahanli-hulya-avsar-a-kulup-baskanligi-teklif-edecek-1393154",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.654456+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/mali-krizdeki-ardahanspor-careyi-hulya-avsarda-buldu-p375569",
-          "title": "Mali krizdeki kulüp çareyi Hülya Avşar'da buldu"
-        },
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/mali-krizdeki-serhat-ardahanspor-ardahanli-hulya-avsar-a-kulup-baskanligi-teklif-edecek-1393154",
-          "title": "Mali Krizdeki Serhat Ardahanspor, Ardahanlı Hülya Avşar'a Kulüp Başkanlığı Teklif Edecek!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Erkan Kolçak Köstendil’den oğlu Marsel’e özel sözler: “Ona vakit ayırdığım bir dönemdeyim”",
-      "normalized_title": "erkan kolcak kostendil den oglu marsel e ozel sozler ona vakit ayirdigim bir donemdeyim",
-      "url": "https://www.cnnturk.com/magazin/galeri/erkan-kolcak-kostendilden-oglu-marsele-ozel-sozler-ona-vakit-ayirdigim-bir-donemdeyim-3488230",
-      "source": "cnnturk.com",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.655431+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/ogluma-vakit-ayirdigim-bir-donemdeyim-43363896",
-          "title": "Oğluma vakit ayırdığım bir dönemdeyim"
-        },
-        {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/erkan-kolcak-kostendilden-oglu-marsele-ozel-sozler-ona-vakit-ayirdigim-bir-donemdeyim-3488230",
-          "title": "Erkan Kolçak Köstendil’den oğlu Marsel’e özel sözler: “Ona vakit ayırdığım bir dönemdeyim”"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com",
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Şebnem Ferah 7 yıl sonra 16 bin kişiyle düet yaptı: Adana'da izdiham",
-      "normalized_title": "sebnem ferah 7 yil sonra 16 bin kisiyle duet yapti adana da izdiham",
-      "url": "https://www.sozcu.com.tr/sebnem-ferah-7-yil-sonra-16-bin-kisiyle-duet-yapti-adana-da-izdiham-p375573",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.655979+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/sebnem-ferah-7-yil-sonra-16-bin-kisiyle-duet-yapti-adana-da-izdiham-p375573",
-          "title": "Şebnem Ferah 7 yıl sonra 16 bin kişiyle düet yaptı: Adana'da izdiham"
-        },
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/yedi-yil-sonra-16-binle-duet-yapti-7692265",
-          "title": "Yedi yıl sonra 16 binle düet yaptı"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Şarkıcı İlyas Yalçıntaş tahliye edildi",
-      "normalized_title": "sarkici ilyas yalcintas tahliye edildi",
-      "url": "https://medyascope.tv/2026/11/03/sarkici-ilyas-yalcintas-tahliye-edildi/",
-      "source": "medyascope.tv",
-      "source_role": "publisher",
-      "source_domain": "medyascope.tv",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.653325+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "medyascope.tv",
-          "source_domain": "medyascope.tv",
-          "url": "https://medyascope.tv/2026/11/03/sarkici-ilyas-yalcintas-tahliye-edildi/",
-          "title": "Şarkıcı İlyas Yalçıntaş tahliye edildi"
-        }
-      ],
-      "publisher_domains": [
-        "medyascope.tv"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "RAPÇİ KİLLA HAKAN KİMDİR, KAÇ YAŞINDA? Killa Hakan yoğun bakımda mı, sağlık durumu nasıl?",
-      "normalized_title": "rapci killa hakan kimdir kac yasinda killa hakan yogun bakimda mi saglik durumu nasil",
-      "url": "https://www.milliyet.com.tr/galeri/killa-hakan-kimdir-kac-yasinda-killa-hakan-yogun-bakimda-mi-saglik-durumu-nasil-7693227",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.653602+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/galeri/killa-hakan-kimdir-kac-yasinda-killa-hakan-yogun-bakimda-mi-saglik-durumu-nasil-7693227",
-          "title": "RAPÇİ KİLLA HAKAN KİMDİR, KAÇ YAŞINDA? Killa Hakan yoğun bakımda mı, sağlık durumu nasıl?"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yeni James Bond belli oldu. \"Callum Turner ile anlaşma sağlandı\" iddiası",
-      "normalized_title": "yeni james bond belli oldu callum turner ile anlasma saglandi iddiasi",
-      "url": "https://www.ntv.com.tr/yasam/galeri-yeni-james-bond-belli-oldu-callum-turner-ile-anlasma-saglandi-iddiasi-1749238",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.653908+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-yeni-james-bond-belli-oldu-callum-turner-ile-anlasma-saglandi-iddiasi-1749238",
-          "title": "Yeni James Bond belli oldu. \"Callum Turner ile anlaşma sağlandı\" iddiası"
-        }
-      ],
-      "publisher_domains": [
-        "ntv.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Kristin Scott Thomas, Jack Lowden’ın yeni James Bond olma ihtimalini yorumladı",
-      "normalized_title": "kristin scott thomas jack lowden in yeni james bond olma ihtimalini yorumladi",
-      "url": "https://tr.euronews.com/2026/11/03/kristin-scott-thomas-jack-lowdenin-yeni-james-bond-olma-ihtimalini-yorumladi",
-      "source": "tr.euronews.com",
-      "source_role": "publisher",
-      "source_domain": "tr.euronews.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.653966+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/03/kristin-scott-thomas-jack-lowdenin-yeni-james-bond-olma-ihtimalini-yorumladi",
-          "title": "Kristin Scott Thomas, Jack Lowden’ın yeni James Bond olma ihtimalini yorumladı"
-        }
-      ],
-      "publisher_domains": [
-        "tr.euronews.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "‘Bond, James Bond’ kim olacak?",
-      "normalized_title": "bond james bond kim olacak",
-      "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/bond-james-bond-kim-olacak-43361799",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.654008+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/bond-james-bond-kim-olacak-43361799",
-          "title": "‘Bond, James Bond’ kim olacak?"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
     },
     {
       "title": "Slow Horses yıldızından James Bond söylentilerine yanıt",
@@ -788,7 +735,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.654056+00:00",
+      "collected_at": "2026-11-04T08:45:52.158831+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -816,29 +763,103 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "'All's Fair'in yıldızları ikinci sezon galasında bir araya geldi: Kim Kardashian'ın gala şıklığı",
-      "normalized_title": "all s fair in yildizlari ikinci sezon galasinda bir araya geldi kim kardashian in gala sikligi",
-      "url": "https://www.haberturk.com/magazin/foto/all-s-fair-in-yildizlari-ikinci-sezon-galasinda-bir-araya-geldi-kim-kardashian-in-gala-sikligi-3924623",
-      "source": "haberturk.com",
+      "title": "Eski James Bond Yıldızına Göre Yeni 007’nin Kim Olması Gerektiği Belli",
+      "normalized_title": "eski james bond yildizina gore yeni 007 nin kim olmasi gerektigi belli",
+      "url": "https://kayiprihtim.com/haber/pierce-brosnan-yeni-james-bond-aciklama/",
+      "source": "kayiprihtim.com",
       "source_role": "publisher",
-      "source_domain": "haberturk.com",
+      "source_domain": "kayiprihtim.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.654122+00:00",
+      "collected_at": "2026-11-04T08:45:52.158881+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/all-s-fair-in-yildizlari-ikinci-sezon-galasinda-bir-araya-geldi-kim-kardashian-in-gala-sikligi-3924623",
-          "title": "'All's Fair'in yıldızları ikinci sezon galasında bir araya geldi: Kim Kardashian'ın gala şıklığı"
+          "source": "kayiprihtim.com",
+          "source_domain": "kayiprihtim.com",
+          "url": "https://kayiprihtim.com/haber/pierce-brosnan-yeni-james-bond-aciklama/",
+          "title": "Eski James Bond Yıldızına Göre Yeni 007’nin Kim Olması Gerektiği Belli"
         }
       ],
       "publisher_domains": [
-        "haberturk.com"
+        "kayiprihtim.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Gastrik bypass ameliyatı hayatını kabusa çevirdi! 42 kiloya düşen Seren Serengil’den sarsıcı itiraflar",
+      "normalized_title": "gastrik bypass ameliyati hayatini kabusa cevirdi 42 kiloya dusen seren serengil den sarsici itiraflar",
+      "url": "https://www.takvim.com.tr/magazin/2026/11/01/seren-serengilden-kilo-ve-ameliyat-itiraflari-oluyordum",
+      "source": "takvim.com.tr",
+      "source_role": "publisher",
+      "source_domain": "takvim.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T08:45:52.159145+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "takvim.com.tr",
+          "source_domain": "takvim.com.tr",
+          "url": "https://www.takvim.com.tr/magazin/2026/11/01/seren-serengilden-kilo-ve-ameliyat-itiraflari-oluyordum",
+          "title": "Gastrik bypass ameliyatı hayatını kabusa çevirdi! 42 kiloya düşen Seren Serengil’den sarsıcı itiraflar"
+        }
+      ],
+      "publisher_domains": [
+        "takvim.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Şarkıcı ve sunucu Seren Serengil, Ayşe Arman'ın programında zayıflamak için geçirdiği ameliyatların",
+      "normalized_title": "sarkici ve sunucu seren serengil ayse arman in programinda zayiflamak icin gecirdigi ameliyatlarin",
+      "url": "https://www.yenialanya.com/sarkici-ve-sunucu-seren-serengil-ayse-armanin-programinda-zayiflamak-icin-gecirdigi-ameliy",
+      "source": "yenialanya.com",
+      "source_role": "publisher",
+      "source_domain": "yenialanya.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T08:45:52.159195+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yenialanya.com",
+          "source_domain": "yenialanya.com",
+          "url": "https://www.yenialanya.com/sarkici-ve-sunucu-seren-serengil-ayse-armanin-programinda-zayiflamak-icin-gecirdigi-ameliy",
+          "title": "Şarkıcı ve sunucu Seren Serengil, Ayşe Arman'ın programında zayıflamak için geçirdiği ameliyatların"
+        }
+      ],
+      "publisher_domains": [
+        "yenialanya.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -862,7 +883,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.654163+00:00",
+      "collected_at": "2026-11-04T08:45:52.159279+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -899,7 +920,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.654304+00:00",
+      "collected_at": "2026-11-04T08:45:52.159315+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -927,29 +948,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Futbol kulübünden Hülya Avşar'a başkanlık teklifi",
-      "normalized_title": "futbol kulubunden hulya avsar a baskanlik teklifi",
-      "url": "https://www.odatv.com/spor/ardahandan-hulya-avsara-baskanlik-teklifi-120169491",
-      "source": "odatv.com",
+      "title": "Eşref Tek dizisinde Çağatay Ulusoy'un partneri Aybüke Pusat oldu - Magazin Haberleri",
+      "normalized_title": "esref tek dizisinde cagatay ulusoy un partneri aybuke pusat oldu magazin haberleri",
+      "url": "https://www.mynet.com/magazin/esref-tek-dizisinde-cagatay-ulusoy-un-partneri-aybuke-pusat-oldu-130100606076",
+      "source": "mynet.com",
       "source_role": "publisher",
-      "source_domain": "odatv.com",
+      "source_domain": "mynet.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.654351+00:00",
+      "collected_at": "2026-11-04T08:45:52.159450+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/spor/ardahandan-hulya-avsara-baskanlik-teklifi-120169491",
-          "title": "Futbol kulübünden Hülya Avşar'a başkanlık teklifi"
+          "source": "mynet.com",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/esref-tek-dizisinde-cagatay-ulusoy-un-partneri-aybuke-pusat-oldu-130100606076",
+          "title": "Eşref Tek dizisinde Çağatay Ulusoy'un partneri Aybüke Pusat oldu - Magazin Haberleri"
         }
       ],
       "publisher_domains": [
-        "odatv.com"
+        "mynet.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -964,16 +985,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Serhat Ardahanspor yönetimi, Hülya Avşar'a başkanlık teklif edecek",
-      "normalized_title": "serhat ardahanspor yonetimi hulya avsar a baskanlik teklif edecek",
-      "url": "https://www.sondakika.com/spor/haber-serhat-ardahanspor-yonetimi-hulya-avsara-20390063/",
+      "title": "Çağatay Ulusoy'un yeni partneri belli oldu: Aybüke Pusat aksiyon dolu rolle geliyor",
+      "normalized_title": "cagatay ulusoy un yeni partneri belli oldu aybuke pusat aksiyon dolu rolle geliyor",
+      "url": "https://www.sondakika.com/haber/haber-cagatay-ulusoyun-yeni-partneri-belli-oldu-aybuke-20392676/",
       "source": "sondakika.com",
       "source_role": "publisher",
       "source_domain": "sondakika.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.654509+00:00",
+      "collected_at": "2026-11-04T08:45:52.159495+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -981,8 +1002,8 @@
         {
           "source": "sondakika.com",
           "source_domain": "sondakika.com",
-          "url": "https://www.sondakika.com/spor/haber-serhat-ardahanspor-yonetimi-hulya-avsara-20390063/",
-          "title": "Serhat Ardahanspor yönetimi, Hülya Avşar'a başkanlık teklif edecek"
+          "url": "https://www.sondakika.com/haber/haber-cagatay-ulusoyun-yeni-partneri-belli-oldu-aybuke-20392676/",
+          "title": "Çağatay Ulusoy'un yeni partneri belli oldu: Aybüke Pusat aksiyon dolu rolle geliyor"
         }
       ],
       "publisher_domains": [
@@ -1001,16 +1022,127 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Ünlü oyuncu yanında çalışan genç kadına bile lüks hayat yaşatmış: Özel jetler, pahalı restoranlar, markalı kıyafetler",
-      "normalized_title": "unlu oyuncu yaninda calisan genc kadina bile luks hayat yasatmis ozel jetler pahali restoranlar markali kiyafetler",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-oyuncu-yaninda-calisan-genc-kadina-bile-luks-hayat-yasatmis-ozel-jetler-pahali-restoranlar-markali-kiyafetler-43363599",
+      "title": "\"Çiğdem\" Büşra Develi, Eşref Tek'te Yer Alıp Almayacağı Sorusuna Yanıt Verdi",
+      "normalized_title": "cigdem busra develi esref tek te yer alip almayacagi sorusuna yanit verdi",
+      "url": "https://onedio.com/haber/cigdem-busra-develi-esref-tek-te-yer-alip-almayacagi-sorusuna-yanit-verdi-1393262",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T08:45:52.159538+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/cigdem-busra-develi-esref-tek-te-yer-alip-almayacagi-sorusuna-yanit-verdi-1393262",
+          "title": "\"Çiğdem\" Büşra Develi, Eşref Tek'te Yer Alıp Almayacağı Sorusuna Yanıt Verdi"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Eşref Tek dizisinin kadın başrol oyuncusu Aybüke Pusat oldu",
+      "normalized_title": "esref tek dizisinin kadin basrol oyuncusu aybuke pusat oldu",
+      "url": "https://www.birsenaltuntas.com/dizi/esref-tek-dizisinin-kadin-basrol-oyuncusu-aybuke-pusat-oldu/78998/",
+      "source": "birsenaltuntas.com",
+      "source_role": "publisher",
+      "source_domain": "birsenaltuntas.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T08:45:52.159575+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "birsenaltuntas.com",
+          "source_domain": "birsenaltuntas.com",
+          "url": "https://www.birsenaltuntas.com/dizi/esref-tek-dizisinin-kadin-basrol-oyuncusu-aybuke-pusat-oldu/78998/",
+          "title": "Eşref Tek dizisinin kadın başrol oyuncusu Aybüke Pusat oldu"
+        }
+      ],
+      "publisher_domains": [
+        "birsenaltuntas.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Rapçi Killa Hakan’dan üzen haber! Yoğun bakıma kaldırıldı",
+      "normalized_title": "rapci killa hakan dan uzen haber yogun bakima kaldirildi",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/rapci-killa-hakandan-uzen-haber-yogun-bakima-kaldirildi",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T08:45:52.159733+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/rapci-killa-hakandan-uzen-haber-yogun-bakima-kaldirildi",
+          "title": "Rapçi Killa Hakan’dan üzen haber! Yoğun bakıma kaldırıldı"
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Mehmet Günsür: Yorumlar umurumda değil!",
+      "normalized_title": "mehmet gunsur yorumlar umurumda degil",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/mehmet-gunsur-yorumlar-umurumda-degil-43365233",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.654580+00:00",
+      "collected_at": "2026-11-04T08:45:52.159807+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1018,8 +1150,8 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-oyuncu-yaninda-calisan-genc-kadina-bile-luks-hayat-yasatmis-ozel-jetler-pahali-restoranlar-markali-kiyafetler-43363599",
-          "title": "Ünlü oyuncu yanında çalışan genç kadına bile lüks hayat yaşatmış: Özel jetler, pahalı restoranlar, markalı kıyafetler"
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/mehmet-gunsur-yorumlar-umurumda-degil-43365233",
+          "title": "Mehmet Günsür: Yorumlar umurumda değil!"
         }
       ],
       "publisher_domains": [
@@ -1038,29 +1170,140 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Brad Pitt, bir çocuğunu daha 'kaybetti'",
-      "normalized_title": "brad pitt bir cocugunu daha kaybetti",
-      "url": "https://www.hurriyet.com.tr/kelebek/stil/brad-pitt-bir-cocugunu-daha-kaybetti-43364534",
-      "source": "hurriyet.com.tr",
+      "title": "Altın Portakal'da eşiyle el ele poz veren Mehmet Günsür'den çirkin yorumlara yanıt gecikmedi!",
+      "normalized_title": "altin portakal da esiyle el ele poz veren mehmet gunsur den cirkin yorumlara yanit gecikmedi",
+      "url": "https://www.yasemin.com/magazin/haber/3064016-altin-portakalda-esiyle-el-ele-poz-veren-mehmet-gunsurden-cirkin-yorumlara-yanit-gecikmedi",
+      "source": "yasemin.com",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "yasemin.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.654690+00:00",
+      "collected_at": "2026-11-04T08:45:52.159900+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/stil/brad-pitt-bir-cocugunu-daha-kaybetti-43364534",
-          "title": "Brad Pitt, bir çocuğunu daha 'kaybetti'"
+          "source": "yasemin.com",
+          "source_domain": "yasemin.com",
+          "url": "https://www.yasemin.com/magazin/haber/3064016-altin-portakalda-esiyle-el-ele-poz-veren-mehmet-gunsurden-cirkin-yorumlara-yanit-gecikmedi",
+          "title": "Altın Portakal'da eşiyle el ele poz veren Mehmet Günsür'den çirkin yorumlara yanıt gecikmedi!"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
+        "yasemin.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Sinem Kobal aile düzenini anlattı: Setlere dönüş sürecini ve çocuklarıyla kurdukları yaşamı paylaştı",
+      "normalized_title": "sinem kobal aile duzenini anlatti setlere donus surecini ve cocuklariyla kurduklari yasami paylasti",
+      "url": "https://www.cumhuriyet.com.tr/magazin/sinem-kobal-aile-duzenini-anlatti-setlere-donus-surecini-ve-cocuklariyla-kurduklari-yasami-paylasti-2552567",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T08:45:52.160090+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/sinem-kobal-aile-duzenini-anlatti-setlere-donus-surecini-ve-cocuklariyla-kurduklari-yasami-paylasti-2552567",
+          "title": "Sinem Kobal aile düzenini anlattı: Setlere dönüş sürecini ve çocuklarıyla kurdukları yaşamı paylaştı"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ünlü çiftin ebeveynlik kuralları şaşırttı! Kenan İmirzalıoğlu’nun eşi Sinem Kobal’dan özel itiraflar...",
+      "normalized_title": "unlu ciftin ebeveynlik kurallari sasirtti kenan imirzalioglu nun esi sinem kobal dan ozel itiraflar",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/unlu-ciftin-ebeveynlik-kurallari-sasirtti-kenan-imirzalioglunun-esi-sinem-kobaldan-ozel-itiraflar",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T08:45:52.160141+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/unlu-ciftin-ebeveynlik-kurallari-sasirtti-kenan-imirzalioglunun-esi-sinem-kobaldan-ozel-itiraflar",
+          "title": "Ünlü çiftin ebeveynlik kuralları şaşırttı! Kenan İmirzalıoğlu’nun eşi Sinem Kobal’dan özel itiraflar..."
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Sinem Kobal: Hiçbir zaman bir engel olarak görmedim",
+      "normalized_title": "sinem kobal hicbir zaman bir engel olarak gormedim",
+      "url": "https://www.haberturk.com/magazin/foto/sinem-kobal-hicbir-zaman-bir-engel-olarak-gormedim-3924405",
+      "source": "haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-04T08:45:52.160176+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/sinem-kobal-hicbir-zaman-bir-engel-olarak-gormedim-3924405",
+          "title": "Sinem Kobal: Hiçbir zaman bir engel olarak görmedim"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1084,7 +1327,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.654845+00:00",
+      "collected_at": "2026-11-04T08:45:52.160207+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1121,7 +1364,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.654899+00:00",
+      "collected_at": "2026-11-04T08:45:52.160244+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1135,228 +1378,6 @@
       ],
       "publisher_domains": [
         "vogue.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ralph Lauren'dan Rachel Scott'a: 2026 CFDA Awards'ta Kuşaklar Arası Amerikan Modası",
-      "normalized_title": "ralph lauren dan rachel scott a 2026 cfda awards ta kusaklar arasi amerikan modasi",
-      "url": "https://www.elle.com.tr/moda/moda-haberleri/ralph-laurendan-rachel-scotta-2026-cfda-awardsta-kusaklar-arasi-amerikan-modasi",
-      "source": "elle.com.tr",
-      "source_role": "publisher",
-      "source_domain": "elle.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.654965+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "elle.com.tr",
-          "source_domain": "elle.com.tr",
-          "url": "https://www.elle.com.tr/moda/moda-haberleri/ralph-laurendan-rachel-scotta-2026-cfda-awardsta-kusaklar-arasi-amerikan-modasi",
-          "title": "Ralph Lauren'dan Rachel Scott'a: 2026 CFDA Awards'ta Kuşaklar Arası Amerikan Modası"
-        }
-      ],
-      "publisher_domains": [
-        "elle.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Bir Bakışta: CFDA Fashion Awards 2026",
-      "normalized_title": "bir bakista cfda fashion awards 2026",
-      "url": "https://www.oggusto.com/moda/cfda-fashion-awards",
-      "source": "oggusto.com",
-      "source_role": "publisher",
-      "source_domain": "oggusto.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.655010+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "oggusto.com",
-          "source_domain": "oggusto.com",
-          "url": "https://www.oggusto.com/moda/cfda-fashion-awards",
-          "title": "Bir Bakışta: CFDA Fashion Awards 2026"
-        }
-      ],
-      "publisher_domains": [
-        "oggusto.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Demet Evgar’ın başrolünü üstlendiği 'Afife'den kapsamlı turne programı...",
-      "normalized_title": "demet evgar in basrolunu ustlendigi afife den kapsamli turne programi",
-      "url": "https://www.cumhuriyet.com.tr/kultur-sanat/demet-evgar-in-basrolunu-ustlendigi-afife-den-kapsamli-turne-programi-2552766",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.655069+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/demet-evgar-in-basrolunu-ustlendigi-afife-den-kapsamli-turne-programi-2552766",
-          "title": "Demet Evgar’ın başrolünü üstlendiği 'Afife'den kapsamlı turne programı..."
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Erkan Kolçak Köstendil: Rıza Kocaoğlu sayesinde forma girdim",
-      "normalized_title": "erkan kolcak kostendil riza kocaoglu sayesinde forma girdim",
-      "url": "https://www.haberturk.com/magazin/erkan-kolcak-kostendil-riza-kocaoglu-sayesinde-forma-girdim-3924494",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.655261+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/erkan-kolcak-kostendil-riza-kocaoglu-sayesinde-forma-girdim-3924494",
-          "title": "Erkan Kolçak Köstendil: Rıza Kocaoğlu sayesinde forma girdim"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Oğluyla baş başa... Ünlü oyuncu Erkan Kolçak Köstendil’den vakit açıklaması!",
-      "normalized_title": "ogluyla bas basa unlu oyuncu erkan kolcak kostendil den vakit aciklamasi",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/ogluyla-bas-basa-unlu-oyuncu-erkan-kolcak-kostendilden-vakit-aciklamasi",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.655365+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/ogluyla-bas-basa-unlu-oyuncu-erkan-kolcak-kostendilden-vakit-aciklamasi",
-          "title": "Oğluyla baş başa... Ünlü oyuncu Erkan Kolçak Köstendil’den vakit açıklaması!"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Bülent İnal'dan set itirafı. \"Yemek yapmayı çok sevdiğim için fırın aldım\"",
-      "normalized_title": "bulent inal dan set itirafi yemek yapmayi cok sevdigim icin firin aldim",
-      "url": "https://www.ntv.com.tr/yasam/galeri-bulent-inaldan-set-itirafi-yemek-yapmayi-cok-sevdigim-icin-firin-aldim-1749151",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-03T19:44:31.655491+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-bulent-inaldan-set-itirafi-yemek-yapmayi-cok-sevdigim-icin-firin-aldim-1749151",
-          "title": "Bülent İnal'dan set itirafı. \"Yemek yapmayı çok sevdiğim için fırın aldım\""
-        }
-      ],
-      "publisher_domains": [
-        "ntv.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
