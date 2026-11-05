@@ -1,166 +1,50 @@
 {
-  "generated_at": "2026-11-05T09:09:42.137914+00:00",
+  "generated_at": "2026-11-05T20:14:33.903504+00:00",
   "candidate_count": 100,
-  "event_group_count": 41,
-  "multi_publisher_event_count": 12,
+  "event_group_count": 43,
+  "multi_publisher_event_count": 15,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Mahkeme heyeti Ela Rümeysa Cebeci ile Sadettin Saran hakkında \"uyuşturucu veya uyarıcı madde ticareti yapma veya sağlama\" suçundan beraatlerine karar verdi. İhlas Haber Ajansı",
-      "normalized_title": "mahkeme heyeti ela rumeysa cebeci ile sadettin saran hakkinda uyusturucu veya uyarici madde ticareti yapma veya saglama sucundan beraatlerine karar verdi ihlas haber ajansi",
-      "url": "https://www.iha.com.tr/istanbul-haberleri/mahkeme-heyeti-ela-rumeysa-cebeci-ile-sadettin-saran-hakkinda-uyusturucu-veya-uyarici-madde-ticareti-yapma-veya-saglama-sucundan-beraatlerine-karar-verdi-510995430",
-      "source": "iha.com.tr",
+      "title": "Cüneyt Arkın'ın ailesi harekete geçti... Altı film şirketine telif davası... Odatv araştırdı: Günde üç film",
+      "normalized_title": "cuneyt arkin in ailesi harekete gecti alti film sirketine telif davasi odatv arastirdi gunde uc film",
+      "url": "https://www.odatv.com/kultur-sanat/cuneyt-arkinin-ailesi-harekete-gecti-alti-film-sirketine-telif-davasi-odatv-arastirdi-gunde-uc-film-120169761",
+      "source": "odatv.com",
       "source_role": "publisher",
-      "source_domain": "iha.com.tr",
+      "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.264416+00:00",
+      "collected_at": "2026-11-05T20:13:55.107757+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/ela-rumeysa-cebeci-den-sadettin-saran-sozleri-1393344",
-          "title": "Ela Rümeysa Cebeci'den Sadettin Saran Sözleri"
-        },
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/gundem/uyusturucu-davasinda-ikinci-celse-ela-rumeysa-cebeci-hakim-karsisinda-43365815",
-          "title": "Uyuşturucu davasında yeni gelişme: Sadettin Saran ve Ela Rümeysa Cebeci hakkında karar verildi"
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/arkin-ailesinden-telif-davasi-43366419",
+          "title": "Arkın Ailesi’nden telif davası"
         },
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/turkiye/galeri-sadettin-saran-ve-ela-rumeysa-cebeci-hakkinda-beraat-karari-1749378",
-          "title": "Sadettin Saran ve Ela Rümeysa Cebeci hakkında beraat kararı"
-        },
-        {
-          "source": "iha.com.tr",
-          "source_domain": "iha.com.tr",
-          "url": "https://www.iha.com.tr/istanbul-haberleri/mahkeme-heyeti-ela-rumeysa-cebeci-ile-sadettin-saran-hakkinda-uyusturucu-veya-uyarici-madde-ticareti-yapma-veya-saglama-sucundan-beraatlerine-karar-verdi-510995430",
-          "title": "Mahkeme heyeti Ela Rümeysa Cebeci ile Sadettin Saran hakkında \"uyuşturucu veya uyarıcı madde ticareti yapma veya sağlama\" suçundan beraatlerine karar verdi. İhlas Haber Ajansı"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr",
-        "iha.com.tr",
-        "ntv.com.tr",
-        "onedio.com"
-      ],
-      "publisher_count": 4,
-      "direct_article_count": 4,
-      "event_member_count": 4,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 40.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Şarkıcı Derya Uluğ ile Asil Gök'ün düğün tarihi belli oldu: Nikah masasına oturuyorlar",
-      "normalized_title": "sarkici derya ulug ile asil gok un dugun tarihi belli oldu nikah masasina oturuyorlar",
-      "url": "https://www.cumhuriyet.com.tr/magazin/sarkici-derya-ulug-ile-asil-gok-un-dugun-tarihi-belli-oldu-nikah-masasina-oturuyorlar-2552704",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.267879+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/derya-ulug-ile-asil-gok-un-dugun-tarihi-belli-oldu-3924467",
-          "title": "Derya Uluğ ile Asil Gök'ün düğün tarihi belli oldu"
-        },
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/derya-ulug-ve-asil-gokun-dugun-tarihi-belli-oldu-43364353",
-          "title": "Derya Uluğ ve Asil Gök’ün düğün tarihi belli oldu!"
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/sarkici-derya-ulug-ile-asil-gok-un-dugun-tarihi-belli-oldu-nikah-masasina-oturuyorlar-2552704",
-          "title": "Şarkıcı Derya Uluğ ile Asil Gök'ün düğün tarihi belli oldu: Nikah masasına oturuyorlar"
-        },
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/dugun-tarihi-belli-oldu-derya-ulug-ile-asil-gok-evleniyor-7693690",
-          "title": "Düğün tarihi belli oldu! Derya Uluğ ile Asil Gök evleniyor"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "haberturk.com",
-        "hurriyet.com.tr",
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 4,
-      "direct_article_count": 4,
-      "event_member_count": 4,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 40.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Yetişkin filmlerinin dünyaca ünlü yönetmeni Tinto Brass hayatını kaybetti",
-      "normalized_title": "yetiskin filmlerinin dunyaca unlu yonetmeni tinto brass hayatini kaybetti",
-      "url": "https://www.sondakika.com/haber/haber-yetiskin-filmlerinin-dunyaca-unlu-yonetmeni-tinto-20396589/",
-      "source": "sondakika.com",
-      "source_role": "publisher",
-      "source_domain": "sondakika.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.265195+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/04/italyan-erotik-sinemasinin-ustasi-tinto-brass-romada-93-yasinda-oldu",
-          "title": "İtalyan yönetmen Tinto Brass 93 yaşında hayatını kaybetti"
-        },
-        {
-          "source": "sondakika.com",
-          "source_domain": "sondakika.com",
-          "url": "https://www.sondakika.com/haber/haber-yetiskin-filmlerinin-dunyaca-unlu-yonetmeni-tinto-20396589/",
-          "title": "Yetişkin filmlerinin dünyaca ünlü yönetmeni Tinto Brass hayatını kaybetti"
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/usta-oyuncu-cuneyt-arkinin-ailesinden-6-film-sirketine-telif-davasi,1357197",
+          "title": "Usta oyuncu Cüneyt Arkın'ın ailesinden 6 film şirketine telif davası"
         },
         {
           "source": "odatv.com",
           "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/guncel/erotik-filmlerin-efsanesi-tinto-brass-hayatini-kaybetti-120169715",
-          "title": "Erotik filmlerin efsanesi Tinto Brass hayatını kaybetti"
+          "url": "https://www.odatv.com/kultur-sanat/cuneyt-arkinin-ailesi-harekete-gecti-alti-film-sirketine-telif-davasi-odatv-arastirdi-gunde-uc-film-120169761",
+          "title": "Cüneyt Arkın'ın ailesi harekete geçti... Altı film şirketine telif davası... Odatv araştırdı: Günde üç film"
         }
       ],
       "publisher_domains": [
+        "hurriyet.com.tr",
         "odatv.com",
-        "sondakika.com",
-        "tr.euronews.com"
+        "t24.com.tr"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -173,229 +57,46 @@
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
-    }
-  ],
-  "event_groups_preview": [
+    },
     {
-      "title": "Mahkeme heyeti Ela Rümeysa Cebeci ile Sadettin Saran hakkında \"uyuşturucu veya uyarıcı madde ticareti yapma veya sağlama\" suçundan beraatlerine karar verdi. İhlas Haber Ajansı",
-      "normalized_title": "mahkeme heyeti ela rumeysa cebeci ile sadettin saran hakkinda uyusturucu veya uyarici madde ticareti yapma veya saglama sucundan beraatlerine karar verdi ihlas haber ajansi",
-      "url": "https://www.iha.com.tr/istanbul-haberleri/mahkeme-heyeti-ela-rumeysa-cebeci-ile-sadettin-saran-hakkinda-uyusturucu-veya-uyarici-madde-ticareti-yapma-veya-saglama-sucundan-beraatlerine-karar-verdi-510995430",
-      "source": "iha.com.tr",
+      "title": "Şarkıcı Sinan Özen trafik kazası geçirdi",
+      "normalized_title": "sarkici sinan ozen trafik kazasi gecirdi",
+      "url": "https://www.ntv.com.tr/turkiye/sarkici-sinan-ozen-trafik-kazasi-gecirdi-1749475",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "iha.com.tr",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.264416+00:00",
+      "collected_at": "2026-11-05T20:13:55.107818+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/ela-rumeysa-cebeci-den-sadettin-saran-sozleri-1393344",
-          "title": "Ela Rümeysa Cebeci'den Sadettin Saran Sözleri"
-        },
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/gundem/uyusturucu-davasinda-ikinci-celse-ela-rumeysa-cebeci-hakim-karsisinda-43365815",
-          "title": "Uyuşturucu davasında yeni gelişme: Sadettin Saran ve Ela Rümeysa Cebeci hakkında karar verildi"
-        },
         {
           "source": "ntv.com.tr",
           "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/turkiye/galeri-sadettin-saran-ve-ela-rumeysa-cebeci-hakkinda-beraat-karari-1749378",
-          "title": "Sadettin Saran ve Ela Rümeysa Cebeci hakkında beraat kararı"
+          "url": "https://www.ntv.com.tr/turkiye/sarkici-sinan-ozen-trafik-kazasi-gecirdi-1749475",
+          "title": "Şarkıcı Sinan Özen trafik kazası geçirdi"
         },
-        {
-          "source": "iha.com.tr",
-          "source_domain": "iha.com.tr",
-          "url": "https://www.iha.com.tr/istanbul-haberleri/mahkeme-heyeti-ela-rumeysa-cebeci-ile-sadettin-saran-hakkinda-uyusturucu-veya-uyarici-madde-ticareti-yapma-veya-saglama-sucundan-beraatlerine-karar-verdi-510995430",
-          "title": "Mahkeme heyeti Ela Rümeysa Cebeci ile Sadettin Saran hakkında \"uyuşturucu veya uyarıcı madde ticareti yapma veya sağlama\" suçundan beraatlerine karar verdi. İhlas Haber Ajansı"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr",
-        "iha.com.tr",
-        "ntv.com.tr",
-        "onedio.com"
-      ],
-      "publisher_count": 4,
-      "direct_article_count": 4,
-      "event_member_count": 4,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 40.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Yılmaz Erdoğan 'Organize İşler'deki sahne nedeniyle özür diledi",
-      "normalized_title": "yilmaz erdogan organize isler deki sahne nedeniyle ozur diledi",
-      "url": "https://www.evrensel.net/haber/6007858/yilmaz-erdogan-organize-isler-deki-sahne-nedeniyle-ozur-diledi",
-      "source": "evrensel.net",
-      "source_role": "publisher",
-      "source_domain": "evrensel.net",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.267042+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "evrensel.net",
-          "source_domain": "evrensel.net",
-          "url": "https://www.evrensel.net/haber/6007858/yilmaz-erdogan-organize-isler-deki-sahne-nedeniyle-ozur-diledi",
-          "title": "Yılmaz Erdoğan 'Organize İşler'deki sahne nedeniyle özür diledi"
-        },
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/yilmaz-erdogan-ozur-diledi-p375912",
-          "title": "Yılmaz Erdoğan özür diledi"
-        },
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/kam-davulu-tartismasinda-yilmaz-erdogan-ozur-diledi-1749259",
-          "title": "'Kam davulu' tartışmasında Yılmaz Erdoğan özür diledi"
-        },
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/yilmaz-erdogan-kam-davulu-sahnesi-icin-ozur-diledi-7693583",
-          "title": "Yılmaz Erdoğan ‘kam davulu’ sahnesi için özür diledi"
-        }
-      ],
-      "publisher_domains": [
-        "evrensel.net",
-        "milliyet.com.tr",
-        "ntv.com.tr",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 4,
-      "direct_article_count": 4,
-      "event_member_count": 4,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 40.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Şarkıcı Derya Uluğ ile Asil Gök'ün düğün tarihi belli oldu: Nikah masasına oturuyorlar",
-      "normalized_title": "sarkici derya ulug ile asil gok un dugun tarihi belli oldu nikah masasina oturuyorlar",
-      "url": "https://www.cumhuriyet.com.tr/magazin/sarkici-derya-ulug-ile-asil-gok-un-dugun-tarihi-belli-oldu-nikah-masasina-oturuyorlar-2552704",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.267879+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/derya-ulug-ile-asil-gok-un-dugun-tarihi-belli-oldu-3924467",
-          "title": "Derya Uluğ ile Asil Gök'ün düğün tarihi belli oldu"
-        },
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/derya-ulug-ve-asil-gokun-dugun-tarihi-belli-oldu-43364353",
-          "title": "Derya Uluğ ve Asil Gök’ün düğün tarihi belli oldu!"
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/sarkici-derya-ulug-ile-asil-gok-un-dugun-tarihi-belli-oldu-nikah-masasina-oturuyorlar-2552704",
-          "title": "Şarkıcı Derya Uluğ ile Asil Gök'ün düğün tarihi belli oldu: Nikah masasına oturuyorlar"
-        },
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/dugun-tarihi-belli-oldu-derya-ulug-ile-asil-gok-evleniyor-7693690",
-          "title": "Düğün tarihi belli oldu! Derya Uluğ ile Asil Gök evleniyor"
+          "url": "https://www.haberturk.com/magazin/sinan-ozen-trafik-kazasi-gecirdi-3925051",
+          "title": "Sinan Özen trafik kazası geçirdi"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
         "haberturk.com",
-        "hurriyet.com.tr",
-        "milliyet.com.tr"
+        "ntv.com.tr"
       ],
-      "publisher_count": 4,
-      "direct_article_count": 4,
-      "event_member_count": 4,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 40.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Yetişkin filmlerinin dünyaca ünlü yönetmeni Tinto Brass hayatını kaybetti",
-      "normalized_title": "yetiskin filmlerinin dunyaca unlu yonetmeni tinto brass hayatini kaybetti",
-      "url": "https://www.sondakika.com/haber/haber-yetiskin-filmlerinin-dunyaca-unlu-yonetmeni-tinto-20396589/",
-      "source": "sondakika.com",
-      "source_role": "publisher",
-      "source_domain": "sondakika.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.265195+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/04/italyan-erotik-sinemasinin-ustasi-tinto-brass-romada-93-yasinda-oldu",
-          "title": "İtalyan yönetmen Tinto Brass 93 yaşında hayatını kaybetti"
-        },
-        {
-          "source": "sondakika.com",
-          "source_domain": "sondakika.com",
-          "url": "https://www.sondakika.com/haber/haber-yetiskin-filmlerinin-dunyaca-unlu-yonetmeni-tinto-20396589/",
-          "title": "Yetişkin filmlerinin dünyaca ünlü yönetmeni Tinto Brass hayatını kaybetti"
-        },
-        {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/guncel/erotik-filmlerin-efsanesi-tinto-brass-hayatini-kaybetti-120169715",
-          "title": "Erotik filmlerin efsanesi Tinto Brass hayatını kaybetti"
-        }
-      ],
-      "publisher_domains": [
-        "odatv.com",
-        "sondakika.com",
-        "tr.euronews.com"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -411,7 +112,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.263872+00:00",
+      "collected_at": "2026-11-05T20:13:55.107900+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -423,14 +124,206 @@
           "title": "Ünlü şarkıcı Sinan Özen konser dönüşü kaza yaptı! Son sağlık durumunu açıkladı"
         },
         {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/guncel/konser-donusu-feci-kaza-sarkici-sinan-ozen-ve-kardesi-olumden-dondu-120169792",
-          "title": "Konser dönüşü feci kaza: Şarkıcı Sinan Özen ve kardeşi ölümden döndü"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/sinan-ozen-konser-donusu-otoyolda-kaza-gecirdi-kardesi-son-durumu-paylasti-1393504",
+          "title": "Sinan Özen Konser Dönüşü Otoyolda Kaza Geçirdi: Kardeşi Son Durumu Paylaştı"
         }
       ],
       "publisher_domains": [
+        "onedio.com",
+        "sabah.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    }
+  ],
+  "event_groups_preview": [
+    {
+      "title": "Cüneyt Arkın'ın ailesi harekete geçti... Altı film şirketine telif davası... Odatv araştırdı: Günde üç film",
+      "normalized_title": "cuneyt arkin in ailesi harekete gecti alti film sirketine telif davasi odatv arastirdi gunde uc film",
+      "url": "https://www.odatv.com/kultur-sanat/cuneyt-arkinin-ailesi-harekete-gecti-alti-film-sirketine-telif-davasi-odatv-arastirdi-gunde-uc-film-120169761",
+      "source": "odatv.com",
+      "source_role": "publisher",
+      "source_domain": "odatv.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-05T20:13:55.107757+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/arkin-ailesinden-telif-davasi-43366419",
+          "title": "Arkın Ailesi’nden telif davası"
+        },
+        {
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/usta-oyuncu-cuneyt-arkinin-ailesinden-6-film-sirketine-telif-davasi,1357197",
+          "title": "Usta oyuncu Cüneyt Arkın'ın ailesinden 6 film şirketine telif davası"
+        },
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/kultur-sanat/cuneyt-arkinin-ailesi-harekete-gecti-alti-film-sirketine-telif-davasi-odatv-arastirdi-gunde-uc-film-120169761",
+          "title": "Cüneyt Arkın'ın ailesi harekete geçti... Altı film şirketine telif davası... Odatv araştırdı: Günde üç film"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr",
         "odatv.com",
+        "t24.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Yılmaz Erdoğan'dan kam davulu sahnesi için özür",
+      "normalized_title": "yilmaz erdogan dan kam davulu sahnesi icin ozur",
+      "url": "https://haberglobal.com/magazin/yilmaz-erdogandan-kam-davulu-sahnesi-icin-ozur-551747",
+      "source": "haberglobal.com",
+      "source_role": "publisher",
+      "source_domain": "haberglobal.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-05T20:13:55.110979+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberglobal.com",
+          "source_domain": "haberglobal.com",
+          "url": "https://haberglobal.com/magazin/yilmaz-erdogandan-kam-davulu-sahnesi-icin-ozur-551747",
+          "title": "Yılmaz Erdoğan'dan kam davulu sahnesi için özür"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/yilmaz-erdogan-ozur-diledi-p375912",
+          "title": "Yılmaz Erdoğan özür diledi"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/kam-davulu-tartismasinda-yilmaz-erdogan-ozur-diledi-1749259",
+          "title": "'Kam davulu' tartışmasında Yılmaz Erdoğan özür diledi"
+        }
+      ],
+      "publisher_domains": [
+        "haberglobal.com",
+        "ntv.com.tr",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Şarkıcı Sinan Özen trafik kazası geçirdi",
+      "normalized_title": "sarkici sinan ozen trafik kazasi gecirdi",
+      "url": "https://www.ntv.com.tr/turkiye/sarkici-sinan-ozen-trafik-kazasi-gecirdi-1749475",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-05T20:13:55.107818+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/turkiye/sarkici-sinan-ozen-trafik-kazasi-gecirdi-1749475",
+          "title": "Şarkıcı Sinan Özen trafik kazası geçirdi"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/sinan-ozen-trafik-kazasi-gecirdi-3925051",
+          "title": "Sinan Özen trafik kazası geçirdi"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "ntv.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Ünlü şarkıcı Sinan Özen konser dönüşü kaza yaptı! Son sağlık durumunu açıkladı",
+      "normalized_title": "unlu sarkici sinan ozen konser donusu kaza yapti son saglik durumunu acikladi",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/unlu-sarkici-sinan-ozen-konser-donusu-kaza-yapti-son-saglik-durumunu-acikladi",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-05T20:13:55.107900+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/unlu-sarkici-sinan-ozen-konser-donusu-kaza-yapti-son-saglik-durumunu-acikladi",
+          "title": "Ünlü şarkıcı Sinan Özen konser dönüşü kaza yaptı! Son sağlık durumunu açıkladı"
+        },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/sinan-ozen-konser-donusu-otoyolda-kaza-gecirdi-kardesi-son-durumu-paylasti-1393504",
+          "title": "Sinan Özen Konser Dönüşü Otoyolda Kaza Geçirdi: Kardeşi Son Durumu Paylaştı"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com",
         "sabah.com.tr"
       ],
       "publisher_count": 2,
@@ -446,148 +339,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Cüneyt Arkın'ın ailesi harekete geçti... Altı film şirketine telif davası",
-      "normalized_title": "cuneyt arkin in ailesi harekete gecti alti film sirketine telif davasi",
-      "url": "https://www.odatv.com/kultur-sanat/cuneyt-arkinin-ailesi-harekete-gecti-alti-film-sirketine-telif-davasi-120169761",
-      "source": "odatv.com",
-      "source_role": "publisher",
-      "source_domain": "odatv.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.264711+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/arkin-ailesinden-telif-davasi-43366419",
-          "title": "Arkın Ailesi’nden telif davası"
-        },
-        {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/kultur-sanat/cuneyt-arkinin-ailesi-harekete-gecti-alti-film-sirketine-telif-davasi-120169761",
-          "title": "Cüneyt Arkın'ın ailesi harekete geçti... Altı film şirketine telif davası"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr",
-        "odatv.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Usta oyuncu Cüneyt Arkın'ın ailesinden 6 film şirketine telif davası",
-      "normalized_title": "usta oyuncu cuneyt arkin in ailesinden 6 film sirketine telif davasi",
-      "url": "https://t24.com.tr/magazin/usta-oyuncu-cuneyt-arkinin-ailesinden-6-film-sirketine-telif-davasi,1357197",
-      "source": "t24.com.tr",
-      "source_role": "publisher",
-      "source_domain": "t24.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.264634+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/alti-film-sirketine-telif-davasi-7694564",
-          "title": "Altı film şirketine telif davası"
-        },
-        {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/magazin/usta-oyuncu-cuneyt-arkinin-ailesinden-6-film-sirketine-telif-davasi,1357197",
-          "title": "Usta oyuncu Cüneyt Arkın'ın ailesinden 6 film şirketine telif davası"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr",
-        "t24.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Bob Dylan Papa'nın karşısına kapüşonuyla çıktı! Vatikan'daki buluşmada kıyafeti konuşuldu",
-      "normalized_title": "bob dylan papa nin karsisina kapusonuyla cikti vatikan daki bulusmada kiyafeti konusuldu",
-      "url": "https://www.haberler.com/haberler/bob-dylan-papanin-karsisina-kapusonuyla-cikti-20396556-haberi/",
-      "source": "haberler.com",
-      "source_role": "publisher",
-      "source_domain": "haberler.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.265050+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/siyah-ile-beyaz-bob-dylan-papanin-huzurunda/",
-          "title": "Siyah ile beyaz: Bob Dylan Papa'nın huzurunda"
-        },
-        {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/haberler/bob-dylan-papanin-karsisina-kapusonuyla-cikti-20396556-haberi/",
-          "title": "Bob Dylan Papa'nın karşısına kapüşonuyla çıktı! Vatikan'daki buluşmada kıyafeti konuşuldu"
-        }
-      ],
-      "publisher_domains": [
-        "diken.com.tr",
-        "haberler.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Mehmet Günsür'den eşiyle ilgili olumsuz yorumlara yanıt: 'Onunla her gün 10 kez evlenebilirim'",
-      "normalized_title": "mehmet gunsur den esiyle ilgili olumsuz yorumlara yanit onunla her gun 10 kez evlenebilirim",
-      "url": "https://www.sozcu.com.tr/mehmet-gunsur-den-esiyle-ilgili-olumsuz-yorumlara-yanit-onunla-her-gun-10-kez-evlenebilirim-p375487",
+      "title": "Evlendiklerini aylarca gizlediler: Ünlü çift Yılmaz Bayraktar ve Sıla Özlem Önemli mutluluğunu fotoğraflarla duyurdu",
+      "normalized_title": "evlendiklerini aylarca gizlediler unlu cift yilmaz bayraktar ve sila ozlem onemli mutlulugunu fotograflarla duyurdu",
+      "url": "https://www.sozcu.com.tr/evlendiklerini-aylarca-gizlediler-unlu-cift-yilmaz-bayraktar-ve-sila-ozlem-onemli-mutlulugunu-p376163",
       "source": "sozcu.com.tr",
       "source_role": "publisher",
       "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.266216+00:00",
+      "collected_at": "2026-11-05T20:13:55.108200+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -595,14 +356,14 @@
         {
           "source": "sozcu.com.tr",
           "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/mehmet-gunsur-den-esiyle-ilgili-olumsuz-yorumlara-yanit-onunla-her-gun-10-kez-evlenebilirim-p375487",
-          "title": "Mehmet Günsür'den eşiyle ilgili olumsuz yorumlara yanıt: 'Onunla her gün 10 kez evlenebilirim'"
+          "url": "https://www.sozcu.com.tr/evlendiklerini-aylarca-gizlediler-unlu-cift-yilmaz-bayraktar-ve-sila-ozlem-onemli-mutlulugunu-p376163",
+          "title": "Evlendiklerini aylarca gizlediler: Ünlü çift Yılmaz Bayraktar ve Sıla Özlem Önemli mutluluğunu fotoğraflarla duyurdu"
         },
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/mehmet-gunsur-den-esi-katerina-mongio-ile-ilgili-olumsuz-yorumlara-yanit-3924466",
-          "title": "Mehmet Günsür'den eşi Katerina Mongio ile ilgili olumsuz yorumlara yanıt"
+          "url": "https://www.haberturk.com/magazin/foto/yilmaz-bayraktar-ile-sila-ozlem-onemli-evlendi-3925023",
+          "title": "Yılmaz Bayraktar ile Sıla Özlem Önemli evlendi"
         }
       ],
       "publisher_domains": [
@@ -622,16 +383,368 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Ferhat Göçer: Cerrahlığı ağlaya ağlaya bıraktım",
-      "normalized_title": "ferhat gocer cerrahligi aglaya aglaya biraktim",
-      "url": "https://www.haberturk.com/magazin/foto/ferhat-gocer-cerrahligi-aglaya-aglaya-biraktim-3924646",
-      "source": "haberturk.com",
+      "title": "Aslıhan Doğan Turan'dan Arda Turan itirafı: Site güvenliğini arayıp ‘Arda giremez’ demiştim; böyle olmasa belki evliliğe gitmezdi",
+      "normalized_title": "aslihan dogan turan dan arda turan itirafi site guvenligini arayip arda giremez demistim boyle olmasa belki evlilige gitmezdi",
+      "url": "https://t24.com.tr/magazin/aslihan-dogan-turandan-arda-turan-itirafi-site-guvenligini-arayip-arda-giremez-demistim-boyle-olmasa-belki-evlilige-gitmezdi,1357284",
+      "source": "t24.com.tr",
       "source_role": "publisher",
-      "source_domain": "haberturk.com",
+      "source_domain": "t24.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.266427+00:00",
+      "collected_at": "2026-11-05T20:13:55.108596+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/aslihan-dogan-turan-dan-itiraf-site-guvenligini-arayip-arda-giremez-demistim-p376383",
+          "title": "Aslıhan Doğan Turan'dan itiraf: ''Site güvenliğini arayıp 'Arda giremez' demiştim ''"
+        },
+        {
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/aslihan-dogan-turandan-arda-turan-itirafi-site-guvenligini-arayip-arda-giremez-demistim-boyle-olmasa-belki-evlilige-gitmezdi,1357284",
+          "title": "Aslıhan Doğan Turan'dan Arda Turan itirafı: Site güvenliğini arayıp ‘Arda giremez’ demiştim; böyle olmasa belki evliliğe gitmezdi"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr",
+        "t24.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "İtalyan yönetmen Tinto Brass 93 yaşında hayatını kaybetti",
+      "normalized_title": "italyan yonetmen tinto brass 93 yasinda hayatini kaybetti",
+      "url": "https://tr.euronews.com/2026/11/04/italyan-erotik-sinemasinin-ustasi-tinto-brass-romada-93-yasinda-oldu",
+      "source": "tr.euronews.com",
+      "source_role": "publisher",
+      "source_domain": "tr.euronews.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-05T20:13:55.108665+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "url": "https://tr.euronews.com/2026/11/04/italyan-erotik-sinemasinin-ustasi-tinto-brass-romada-93-yasinda-oldu",
+          "title": "İtalyan yönetmen Tinto Brass 93 yaşında hayatını kaybetti"
+        },
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/guncel/erotik-filmlerin-efsanesi-tinto-brass-hayatini-kaybetti-120169715",
+          "title": "Erotik filmlerin efsanesi Tinto Brass hayatını kaybetti"
+        }
+      ],
+      "publisher_domains": [
+        "odatv.com",
+        "tr.euronews.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Yetişkin filmlerinin dünyaca ünlü yönetmeni hayatını kaybetti!",
+      "normalized_title": "yetiskin filmlerinin dunyaca unlu yonetmeni hayatini kaybetti",
+      "url": "https://www.yenialanya.com/yetiskin-filmlerinin-dunyaca-unlu-yonetmeni-hayatini-kaybetti",
+      "source": "yenialanya.com",
+      "source_role": "publisher",
+      "source_domain": "yenialanya.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-05T20:13:55.108784+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yenialanya.com",
+          "source_domain": "yenialanya.com",
+          "url": "https://www.yenialanya.com/yetiskin-filmlerinin-dunyaca-unlu-yonetmeni-hayatini-kaybetti",
+          "title": "Yetişkin filmlerinin dünyaca ünlü yönetmeni hayatını kaybetti!"
+        },
+        {
+          "source": "haber3.com",
+          "source_domain": "haber3.com",
+          "url": "https://www.haber3.com/magazin/yetiskin-filmlerinin-efsane-ismi-hayatini-kaybetti-haberi-6268630",
+          "title": "Yetişkin filmlerinin efsane ismi hayatını kaybetti"
+        }
+      ],
+      "publisher_domains": [
+        "haber3.com",
+        "yenialanya.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Bob Dylan Vatikan’da Papa Leone XIV ile buluştu: rock, inanç ve barış için müzik",
+      "normalized_title": "bob dylan vatikan da papa leone xiv ile bulustu rock inanc ve baris icin muzik",
+      "url": "https://tr.euronews.com/2026/11/04/bob-dylan-vatikanda-papa-leone-xiv-ile-bulustu-rock-inanc-ve-baris-icin-muzik",
+      "source": "tr.euronews.com",
+      "source_role": "publisher",
+      "source_domain": "tr.euronews.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-05T20:13:55.109635+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/dunya/galeri-bob-dylan-papa-ile-bulustu-dunya-dylanin-kapusonunu-konustu-1749549",
+          "title": "Bob Dylan, Papa ile buluştu. Dünya Dylan'ın kapüşonunu konuştu"
+        },
+        {
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "url": "https://tr.euronews.com/2026/11/04/bob-dylan-vatikanda-papa-leone-xiv-ile-bulustu-rock-inanc-ve-baris-icin-muzik",
+          "title": "Bob Dylan Vatikan’da Papa Leone XIV ile buluştu: rock, inanç ve barış için müzik"
+        }
+      ],
+      "publisher_domains": [
+        "ntv.com.tr",
+        "tr.euronews.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Mahkeme heyeti Ela Rümeysa Cebeci ile Sadettin Saran hakkında \"uyuşturucu veya uyarıcı madde ticareti yapma veya sağlama\" suçundan beraatlerine karar verdi. İhlas Haber Ajansı",
+      "normalized_title": "mahkeme heyeti ela rumeysa cebeci ile sadettin saran hakkinda uyusturucu veya uyarici madde ticareti yapma veya saglama sucundan beraatlerine karar verdi ihlas haber ajansi",
+      "url": "https://www.iha.com.tr/istanbul-haberleri/mahkeme-heyeti-ela-rumeysa-cebeci-ile-sadettin-saran-hakkinda-uyusturucu-veya-uyarici-madde-ticareti-yapma-veya-saglama-sucundan-beraatlerine-karar-verdi-510995430",
+      "source": "iha.com.tr",
+      "source_role": "publisher",
+      "source_domain": "iha.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-05T20:13:55.109893+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "memurlar.net",
+          "source_domain": "memurlar.net",
+          "url": "https://www.memurlar.net/haber/1183089/sadettin-saran-ve-ela-rumeysa-cebeci-davasinda-karar.html",
+          "title": "Ela Rümeysa Cebeci beraat etti"
+        },
+        {
+          "source": "iha.com.tr",
+          "source_domain": "iha.com.tr",
+          "url": "https://www.iha.com.tr/istanbul-haberleri/mahkeme-heyeti-ela-rumeysa-cebeci-ile-sadettin-saran-hakkinda-uyusturucu-veya-uyarici-madde-ticareti-yapma-veya-saglama-sucundan-beraatlerine-karar-verdi-510995430",
+          "title": "Mahkeme heyeti Ela Rümeysa Cebeci ile Sadettin Saran hakkında \"uyuşturucu veya uyarıcı madde ticareti yapma veya sağlama\" suçundan beraatlerine karar verdi. İhlas Haber Ajansı"
+        }
+      ],
+      "publisher_domains": [
+        "iha.com.tr",
+        "memurlar.net"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Sadettin Saran ve Ela Rümeysa Cebeci hakkında beraat kararı",
+      "normalized_title": "sadettin saran ve ela rumeysa cebeci hakkinda beraat karari",
+      "url": "https://www.ntv.com.tr/turkiye/galeri-ela-rumeysa-cebeci-hakim-karsisinda-ifadesi-ortaya-cikti-1749378",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-05T20:13:55.109952+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/gundem/saran-ve-cebeci-beraat-etti-43366350",
+          "title": "Saran ve Cebeci beraat etti"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/turkiye/galeri-ela-rumeysa-cebeci-hakim-karsisinda-ifadesi-ortaya-cikti-1749378",
+          "title": "Sadettin Saran ve Ela Rümeysa Cebeci hakkında beraat kararı"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr",
+        "ntv.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Oyuncu Burak Çelik'ten aile açıklaması: 'Oyunculuk mesleğim ama ailem birinci sırada'",
+      "normalized_title": "oyuncu burak celik ten aile aciklamasi oyunculuk meslegim ama ailem birinci sirada",
+      "url": "https://www.cumhuriyet.com.tr/yasam/oyuncu-burak-celik-ten-aile-aciklamasi-oyunculuk-meslegim-ama-ailem-birinci-sirada-2553525",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-05T20:13:55.110127+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-oyuncu-burak-celik-ailem-her-zaman-birinci-sirada-1749443",
+          "title": "Oyuncu Burak Çelik: \"Ailem her zaman birinci sırada\""
+        },
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/yasam/oyuncu-burak-celik-ten-aile-aciklamasi-oyunculuk-meslegim-ama-ailem-birinci-sirada-2553525",
+          "title": "Oyuncu Burak Çelik'ten aile açıklaması: 'Oyunculuk mesleğim ama ailem birinci sırada'"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "ntv.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Burak Çelik'in Babası Kimdir? Burak Çelik Aslen Nereli ve Kaç Yaşında? Oyuncu Burak Çelik'in Annesi Sema Çelik Kimdir?",
+      "normalized_title": "burak celik in babasi kimdir burak celik aslen nereli ve kac yasinda oyuncu burak celik in annesi sema celik kimdir",
+      "url": "https://www.batmanpusula.com/burak-celikin-babasi-kimdir-burak-celik-aslen-nereli-ve-kac-yasinda-oyuncu-burak-celikin-annesi-sema-celik-kimdir",
+      "source": "batmanpusula.com",
+      "source_role": "publisher",
+      "source_domain": "batmanpusula.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-05T20:13:55.110210+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "nigdeanadoluhaber.com.tr",
+          "source_domain": "nigdeanadoluhaber.com.tr",
+          "url": "https://nigdeanadoluhaber.com.tr/burak-celik-kimdir-burak-celik-babasi-annesi-kimdir",
+          "title": "Burak Çelik kimdir? Burak Çelik babası, annesi kimdir?"
+        },
+        {
+          "source": "batmanpusula.com",
+          "source_domain": "batmanpusula.com",
+          "url": "https://www.batmanpusula.com/burak-celikin-babasi-kimdir-burak-celik-aslen-nereli-ve-kac-yasinda-oyuncu-burak-celikin-annesi-sema-celik-kimdir",
+          "title": "Burak Çelik'in Babası Kimdir? Burak Çelik Aslen Nereli ve Kaç Yaşında? Oyuncu Burak Çelik'in Annesi Sema Çelik Kimdir?"
+        }
+      ],
+      "publisher_domains": [
+        "batmanpusula.com",
+        "nigdeanadoluhaber.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Ünlü şarkıcı Ferhat Göçer’in cerrahlığı bırakma sebebi meğer çok başkaymış: En ufak bir hata...",
+      "normalized_title": "unlu sarkici ferhat gocer in cerrahligi birakma sebebi meger cok baskaymis en ufak bir hata",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/en-ufak-bir-hata-unlu-sarkici-ferhat-gocerin-cerrahligi-birakma-sebebi-meger-cok-baskaymis",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-05T20:13:55.110816+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -643,15 +756,15 @@
           "title": "Ferhat Göçer: Cerrahlığı ağlaya ağlaya bıraktım"
         },
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/hekimligi-aglaya-aglaya-biraktim-43364615",
-          "title": "Hekimliği ağlaya ağlaya bıraktım"
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/en-ufak-bir-hata-unlu-sarkici-ferhat-gocerin-cerrahligi-birakma-sebebi-meger-cok-baskaymis",
+          "title": "Ünlü şarkıcı Ferhat Göçer’in cerrahlığı bırakma sebebi meğer çok başkaymış: En ufak bir hata..."
         }
       ],
       "publisher_domains": [
         "haberturk.com",
-        "hurriyet.com.tr"
+        "sabah.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -666,60 +779,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Altı Üstü İstanbul'a sürpriz transfer: Ziyankar Mahallesi'ne yeni isim geliyor",
-      "normalized_title": "alti ustu istanbul a surpriz transfer ziyankar mahallesi ne yeni isim geliyor",
-      "url": "https://www.ensonhaber.com/alti-ustu-istanbula-surpriz-transfer-ziyankar-mahallesine-yeni-isim-geliyor-h1579856",
-      "source": "ensonhaber.com",
-      "source_role": "publisher",
-      "source_domain": "ensonhaber.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.266970+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/flas-transfer-unlu-oyuncu-alti-ustu-istanbul-un-kadrosuna-dahil-oldu-1393317",
-          "title": "Flaş Transfer: Ünlü Oyuncu Altı Üstü İstanbul'un Kadrosuna Dahil Oldu"
-        },
-        {
-          "source": "ensonhaber.com",
-          "source_domain": "ensonhaber.com",
-          "url": "https://www.ensonhaber.com/alti-ustu-istanbula-surpriz-transfer-ziyankar-mahallesine-yeni-isim-geliyor-h1579856",
-          "title": "Altı Üstü İstanbul'a sürpriz transfer: Ziyankar Mahallesi'ne yeni isim geliyor"
-        }
-      ],
-      "publisher_domains": [
-        "ensonhaber.com",
-        "onedio.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Uzak Şehir'e Veda Eden \"Boran\" Burç Kümbetlioğlu, Sette Unutamadığı Anı İtiraf Etti",
-      "normalized_title": "uzak sehir e veda eden boran burc kumbetlioglu sette unutamadigi ani itiraf etti",
-      "url": "https://onedio.com/haber/uzak-sehir-e-veda-eden-boran-burc-kumbetlioglu-sette-unutamadigi-ani-itiraf-etti-1393263",
+      "title": "\"Bırakıp Gitti Beni\" Diyen Zülal Zorlu, Eşi Ahmet Nazif Zorlu'nun Tabutuna Sarıldı",
+      "normalized_title": "birakip gitti beni diyen zulal zorlu esi ahmet nazif zorlu nun tabutuna sarildi",
+      "url": "https://onedio.com/haber/birakip-gitti-beni-diyen-zulal-zorlu-esi-ahmet-nazif-zorlu-nun-tabutuna-sarildi-1393311",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.267371+00:00",
+      "collected_at": "2026-11-05T20:13:55.111202+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -727,18 +796,18 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/uzak-sehir-e-veda-eden-boran-burc-kumbetlioglu-sette-unutamadigi-ani-itiraf-etti-1393263",
-          "title": "Uzak Şehir'e Veda Eden \"Boran\" Burç Kümbetlioğlu, Sette Unutamadığı Anı İtiraf Etti"
+          "url": "https://onedio.com/haber/birakip-gitti-beni-diyen-zulal-zorlu-esi-ahmet-nazif-zorlu-nun-tabutuna-sarildi-1393311",
+          "title": "\"Bırakıp Gitti Beni\" Diyen Zülal Zorlu, Eşi Ahmet Nazif Zorlu'nun Tabutuna Sarıldı"
         },
         {
-          "source": "gecce.com.tr",
-          "source_domain": "gecce.com.tr",
-          "url": "https://www.gecce.com.tr/haber/uzak-sehirin-borani-isyan-etti-burc-kumbetlioglundan-sasirtan-itiraf-333514.html",
-          "title": "Uzak Şehir’in Boran’ı İsyan Etti! Burç Kümbetlioğlu’ndan Şaşırtan İtiraf"
+          "source": "evrensel.net",
+          "source_domain": "evrensel.net",
+          "url": "https://www.evrensel.net/haber/6008049/ahmet-nazif-zorlu-yu-iyi-bilmezdik",
+          "title": "‘Ahmet Nazif Zorlu’yu iyi bilmezdik’"
         }
       ],
       "publisher_domains": [
-        "gecce.com.tr",
+        "evrensel.net",
         "onedio.com"
       ],
       "publisher_count": 2,
@@ -754,16 +823,127 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Sinan Özen trafik kazası geçirdi",
-      "normalized_title": "sinan ozen trafik kazasi gecirdi",
-      "url": "https://www.haberturk.com/magazin/sinan-ozen-trafik-kazasi-gecirdi-3925051",
+      "title": "Cüneyt Arkın'ın Ailesi Filmleri İçin 6 Şirkete Dava Açtı: Dilekçede Gelir İddiası Var",
+      "normalized_title": "cuneyt arkin in ailesi filmleri icin 6 sirkete dava acti dilekcede gelir iddiasi var",
+      "url": "https://onedio.com/haber/cuneyt-arkin-in-ailesi-filmleri-icin-6-sirkete-dava-acti-dilekcede-gelir-iddiasi-var-1393536",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-05T20:13:55.107572+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/cuneyt-arkin-in-ailesi-filmleri-icin-6-sirkete-dava-acti-dilekcede-gelir-iddiasi-var-1393536",
+          "title": "Cüneyt Arkın'ın Ailesi Filmleri İçin 6 Şirkete Dava Açtı: Dilekçede Gelir İddiası Var"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Yılmaz Bayraktar kimdir? Oyuncu Yılmaz Bayraktar'ın eşi kim? Yılmaz Bayraktar dizi ve filmleri",
+      "normalized_title": "yilmaz bayraktar kimdir oyuncu yilmaz bayraktar in esi kim yilmaz bayraktar dizi ve filmleri",
+      "url": "https://www.cumhuriyet.com.tr/yasam/yilmaz-bayraktar-kimdir-oyuncu-yilmaz-bayraktar-in-esi-kim-yilmaz-bayraktar-dizi-ve-filmleri-2553674",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-05T20:13:55.108116+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/yasam/yilmaz-bayraktar-kimdir-oyuncu-yilmaz-bayraktar-in-esi-kim-yilmaz-bayraktar-dizi-ve-filmleri-2553674",
+          "title": "Yılmaz Bayraktar kimdir? Oyuncu Yılmaz Bayraktar'ın eşi kim? Yılmaz Bayraktar dizi ve filmleri"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Duyurmak için zaman geldi: Biz evlendik!",
+      "normalized_title": "duyurmak icin zaman geldi biz evlendik",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/duyurmak-icin-zaman-geldi-biz-evlendik-43366942",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-05T20:13:55.108254+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/duyurmak-icin-zaman-geldi-biz-evlendik-43366942",
+          "title": "Duyurmak için zaman geldi: Biz evlendik!"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Aslıhan Doğan Turan: Arda'nın sinir olacağı bir fotoğrafı paylaşmam",
+      "normalized_title": "aslihan dogan turan arda nin sinir olacagi bir fotografi paylasmam",
+      "url": "https://www.haberturk.com/magazin/foto/aslihan-dogan-turan-arda-nin-sinir-olacagi-bir-fotografi-paylasmam-3925210",
       "source": "haberturk.com",
       "source_role": "publisher",
       "source_domain": "haberturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.263726+00:00",
+      "collected_at": "2026-11-05T20:13:55.108373+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -771,8 +951,8 @@
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/sinan-ozen-trafik-kazasi-gecirdi-3925051",
-          "title": "Sinan Özen trafik kazası geçirdi"
+          "url": "https://www.haberturk.com/magazin/foto/aslihan-dogan-turan-arda-nin-sinir-olacagi-bir-fotografi-paylasmam-3925210",
+          "title": "Aslıhan Doğan Turan: Arda'nın sinir olacağı bir fotoğrafı paylaşmam"
         }
       ],
       "publisher_domains": [
@@ -791,288 +971,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Konser dönüşü gişelerde kaza: Sinan Özen ve kardeşi ucuz atlattı",
-      "normalized_title": "konser donusu giselerde kaza sinan ozen ve kardesi ucuz atlatti",
-      "url": "https://www.hurriyet.com.tr/gundem/konser-donusu-giselerde-kaza-sinan-ozen-ve-kardesi-ucuz-atlatti-43366533",
-      "source": "hurriyet.com.tr",
+      "title": "Aslıhan Doğan Turan'dan Arda Turan'la evliliğine dair çarpıcı sözler",
+      "normalized_title": "aslihan dogan turan dan arda turan la evliligine dair carpici sozler",
+      "url": "https://www.ahaber.com.tr/galeri/magazin/aslihan-turan-arda-turan-ile-mutlu-evliliginin-sirrini-anlatti",
+      "source": "ahaber.com.tr",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "ahaber.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.264044+00:00",
+      "collected_at": "2026-11-05T20:13:55.108504+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/gundem/konser-donusu-giselerde-kaza-sinan-ozen-ve-kardesi-ucuz-atlatti-43366533",
-          "title": "Konser dönüşü gişelerde kaza: Sinan Özen ve kardeşi ucuz atlattı"
+          "source": "ahaber.com.tr",
+          "source_domain": "ahaber.com.tr",
+          "url": "https://www.ahaber.com.tr/galeri/magazin/aslihan-turan-arda-turan-ile-mutlu-evliliginin-sirrini-anlatti",
+          "title": "Aslıhan Doğan Turan'dan Arda Turan'la evliliğine dair çarpıcı sözler"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Bob Dylan Vatikan’da Papa Leone XIV ile buluştu: rock, inanç ve barış için müzik",
-      "normalized_title": "bob dylan vatikan da papa leone xiv ile bulustu rock inanc ve baris icin muzik",
-      "url": "https://tr.euronews.com/2026/11/04/bob-dylan-vatikanda-papa-leone-xiv-ile-bulustu-rock-inanc-ve-baris-icin-muzik",
-      "source": "tr.euronews.com",
-      "source_role": "publisher",
-      "source_domain": "tr.euronews.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.264884+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/04/bob-dylan-vatikanda-papa-leone-xiv-ile-bulustu-rock-inanc-ve-baris-icin-muzik",
-          "title": "Bob Dylan Vatikan’da Papa Leone XIV ile buluştu: rock, inanç ve barış için müzik"
-        }
-      ],
-      "publisher_domains": [
-        "tr.euronews.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Bob Dylan, Papa ile Vatikan'da görüştü... Vatikan'daki görüşmede hediyeler verildi",
-      "normalized_title": "bob dylan papa ile vatikan da gorustu vatikan daki gorusmede hediyeler verildi",
-      "url": "https://www.odatv.com/kultur-sanat/bob-dylan-papa-14-leo-ile-vatikanda-gorustu-120169802",
-      "source": "odatv.com",
-      "source_role": "publisher",
-      "source_domain": "odatv.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.264969+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/kultur-sanat/bob-dylan-papa-14-leo-ile-vatikanda-gorustu-120169802",
-          "title": "Bob Dylan, Papa ile Vatikan'da görüştü... Vatikan'daki görüşmede hediyeler verildi"
-        }
-      ],
-      "publisher_domains": [
-        "odatv.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yetişkin filmlerinin dünyaca ünlü yönetmeni hayatını kaybetti!",
-      "normalized_title": "yetiskin filmlerinin dunyaca unlu yonetmeni hayatini kaybetti",
-      "url": "https://www.yenialanya.com/yetiskin-filmlerinin-dunyaca-unlu-yonetmeni-hayatini-kaybetti",
-      "source": "yenialanya.com",
-      "source_role": "publisher",
-      "source_domain": "yenialanya.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.265326+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yenialanya.com",
-          "source_domain": "yenialanya.com",
-          "url": "https://www.yenialanya.com/yetiskin-filmlerinin-dunyaca-unlu-yonetmeni-hayatini-kaybetti",
-          "title": "Yetişkin filmlerinin dünyaca ünlü yönetmeni hayatını kaybetti!"
-        }
-      ],
-      "publisher_domains": [
-        "yenialanya.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Merve Dizdar'ın Eski Eşinden Sonra Serenay Sarıkaya'nın Yeni Filmine Bu Kez Usta Bir Tiyatrocu Katıldı!",
-      "normalized_title": "merve dizdar in eski esinden sonra serenay sarikaya nin yeni filmine bu kez usta bir tiyatrocu katildi",
-      "url": "https://onedio.com/haber/merve-dizdar-in-eski-esinden-sonra-serenay-sarikaya-nin-yeni-filmine-bu-kez-usta-bir-tiyatrocu-katildi-1393417",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.265425+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/merve-dizdar-in-eski-esinden-sonra-serenay-sarikaya-nin-yeni-filmine-bu-kez-usta-bir-tiyatrocu-katildi-1393417",
-          "title": "Merve Dizdar'ın Eski Eşinden Sonra Serenay Sarıkaya'nın Yeni Filmine Bu Kez Usta Bir Tiyatrocu Katıldı!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yeni Projesi Belli Oldu: Serenay Sarıkaya \"Sevdiğim İnsanlar\" ile Sinemaya Geri Dönüyor",
-      "normalized_title": "yeni projesi belli oldu serenay sarikaya sevdigim insanlar ile sinemaya geri donuyor",
-      "url": "https://www.beyazperde.com/haberler/filmler/haberler-1000230450/",
-      "source": "beyazperde.com",
-      "source_role": "publisher",
-      "source_domain": "beyazperde.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.265507+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "beyazperde.com",
-          "source_domain": "beyazperde.com",
-          "url": "https://www.beyazperde.com/haberler/filmler/haberler-1000230450/",
-          "title": "Yeni Projesi Belli Oldu: Serenay Sarıkaya \"Sevdiğim İnsanlar\" ile Sinemaya Geri Dönüyor"
-        }
-      ],
-      "publisher_domains": [
-        "beyazperde.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Merakla Beklenen Sevdiğim İnsanlar Filminin Kadrosu Tamamlandı: İşte Sete Çıkacak Dev Kadro!",
-      "normalized_title": "merakla beklenen sevdigim insanlar filminin kadrosu tamamlandi iste sete cikacak dev kadro",
-      "url": "https://www.gecce.com.tr/haber/merakla-beklenen-sevdigim-insanlar-filminin-kadrosu-tamamlandi-iste-sete-cikacak-dev-kadro-333525.html",
-      "source": "gecce.com.tr",
-      "source_role": "publisher",
-      "source_domain": "gecce.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.265591+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "gecce.com.tr",
-          "source_domain": "gecce.com.tr",
-          "url": "https://www.gecce.com.tr/haber/merakla-beklenen-sevdigim-insanlar-filminin-kadrosu-tamamlandi-iste-sete-cikacak-dev-kadro-333525.html",
-          "title": "Merakla Beklenen Sevdiğim İnsanlar Filminin Kadrosu Tamamlandı: İşte Sete Çıkacak Dev Kadro!"
-        }
-      ],
-      "publisher_domains": [
-        "gecce.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Serenay Sarıkaya'nın yeni filmi merak uyandırdı! Sevdiğim İnsanlar'ın kadrosuna 5 oyuncu daha katıldı",
-      "normalized_title": "serenay sarikaya nin yeni filmi merak uyandirdi sevdigim insanlar in kadrosuna 5 oyuncu daha katildi",
-      "url": "https://m.bursadabugun.com/haber/serenay-sarikaya-nin-yeni-filmi-merak-uyandirdi-sevdigim-insanlar-in-kadrosuna-5-oyuncu-daha-katildi-1961251.html",
-      "source": "m.bursadabugun.com",
-      "source_role": "publisher",
-      "source_domain": "m.bursadabugun.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.265678+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "m.bursadabugun.com",
-          "source_domain": "m.bursadabugun.com",
-          "url": "https://m.bursadabugun.com/haber/serenay-sarikaya-nin-yeni-filmi-merak-uyandirdi-sevdigim-insanlar-in-kadrosuna-5-oyuncu-daha-katildi-1961251.html",
-          "title": "Serenay Sarıkaya'nın yeni filmi merak uyandırdı! Sevdiğim İnsanlar'ın kadrosuna 5 oyuncu daha katıldı"
-        }
-      ],
-      "publisher_domains": [
-        "m.bursadabugun.com"
+        "ahaber.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1096,7 +1017,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.265774+00:00",
+      "collected_at": "2026-11-05T20:13:55.108906+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1133,7 +1054,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.265860+00:00",
+      "collected_at": "2026-11-05T20:13:55.108977+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1170,7 +1091,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.265936+00:00",
+      "collected_at": "2026-11-05T20:13:55.109043+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1198,29 +1119,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Çağatay Ulusoy'un yeni partneri belli oldu: Aybüke Pusat aksiyon dolu rolle geliyor",
+      "title": "Çağatay Ulusoy'un yeni partneri belli oldu! Aybüke Pusat aksiyon dolu rolle geliyor",
       "normalized_title": "cagatay ulusoy un yeni partneri belli oldu aybuke pusat aksiyon dolu rolle geliyor",
-      "url": "https://www.haberler.com/haberler/cagatay-ulusoyun-yeni-partneri-belli-oldu-aybuke-20392675-haberi/",
-      "source": "haberler.com",
+      "url": "https://m.bursadabugun.com/haber/cagatay-ulusoy-un-yeni-partneri-belli-oldu-aybuke-pusat-aksiyon-dolu-rolle-geliyor-1961015.html",
+      "source": "m.bursadabugun.com",
       "source_role": "publisher",
-      "source_domain": "haberler.com",
+      "source_domain": "m.bursadabugun.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.266016+00:00",
+      "collected_at": "2026-11-05T20:13:55.109114+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/haberler/cagatay-ulusoyun-yeni-partneri-belli-oldu-aybuke-20392675-haberi/",
-          "title": "Çağatay Ulusoy'un yeni partneri belli oldu: Aybüke Pusat aksiyon dolu rolle geliyor"
+          "source": "m.bursadabugun.com",
+          "source_domain": "m.bursadabugun.com",
+          "url": "https://m.bursadabugun.com/haber/cagatay-ulusoy-un-yeni-partneri-belli-oldu-aybuke-pusat-aksiyon-dolu-rolle-geliyor-1961015.html",
+          "title": "Çağatay Ulusoy'un yeni partneri belli oldu! Aybüke Pusat aksiyon dolu rolle geliyor"
         }
       ],
       "publisher_domains": [
-        "haberler.com"
+        "m.bursadabugun.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1235,29 +1156,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Ünlü adamın 'yanındaki' kadın",
-      "normalized_title": "unlu adamin yanindaki kadin",
-      "url": "https://www.diken.com.tr/unlu-adamin-yanindaki-kadin/",
-      "source": "diken.com.tr",
+      "title": "Bono: \"Hamilton, dünyadaki en iyi kalpli insanlardan biri\"",
+      "normalized_title": "bono hamilton dunyadaki en iyi kalpli insanlardan biri",
+      "url": "https://tr.motorsport.com/f1/news/bono-hamilton-dunyadaki-en-iyi-kalpli-insanlardan-biri/10871619/",
+      "source": "tr.motorsport.com",
       "source_role": "publisher",
-      "source_domain": "diken.com.tr",
+      "source_domain": "tr.motorsport.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.266072+00:00",
+      "collected_at": "2026-11-05T20:13:55.109170+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/unlu-adamin-yanindaki-kadin/",
-          "title": "Ünlü adamın 'yanındaki' kadın"
+          "source": "tr.motorsport.com",
+          "source_domain": "tr.motorsport.com",
+          "url": "https://tr.motorsport.com/f1/news/bono-hamilton-dunyadaki-en-iyi-kalpli-insanlardan-biri/10871619/",
+          "title": "Bono: \"Hamilton, dünyadaki en iyi kalpli insanlardan biri\""
         }
       ],
       "publisher_domains": [
-        "diken.com.tr"
+        "tr.motorsport.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1272,90 +1193,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Mehmet Günsür: Yorumlar umurumda değil!",
-      "normalized_title": "mehmet gunsur yorumlar umurumda degil",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/mehmet-gunsur-yorumlar-umurumda-degil-43365233",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.266131+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/mehmet-gunsur-yorumlar-umurumda-degil-43365233",
-          "title": "Mehmet Günsür: Yorumlar umurumda değil!"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Şükrü Özyıldız: 'Yanlışı Gördüğüm Noktada O İnsana İkinci Şansı Vermem'",
-      "normalized_title": "sukru ozyildiz yanlisi gordugum noktada o insana ikinci sansi vermem",
-      "url": "https://onedio.com/haber/sukru-ozyildiz-yanlisi-gordugum-noktada-o-insana-ikinci-sansi-vermem-1393386",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.266365+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/sukru-ozyildiz-yanlisi-gordugum-noktada-o-insana-ikinci-sansi-vermem-1393386",
-          "title": "Şükrü Özyıldız: 'Yanlışı Gördüğüm Noktada O İnsana İkinci Şansı Vermem'"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ferhat Göçer'in en zor kararı: Ağlaya ağlaya bıraktım",
-      "normalized_title": "ferhat gocer in en zor karari aglaya aglaya biraktim",
-      "url": "https://www.odatv.com/magazin/ferhat-gocerin-en-zor-karari-aglaya-aglaya-biraktim-120169623",
+      "title": "Dizi oyuncularına indirim.. 6 milyonluk kaşe... Tartışmaya sektör temsilcileri katıldı: 'Kabul etmeyenle çalışmayabiliriz'",
+      "normalized_title": "dizi oyuncularina indirim 6 milyonluk kase tartismaya sektor temsilcileri katildi kabul etmeyenle calismayabiliriz",
+      "url": "https://www.odatv.com/magazin/dizi-oyuncularina-indirim-hazar-erguclu-ozge-ozpirincci-ne-dedi-tartismaya-sektor-temsilcileri-katildi-kabul-etmeyenle-calismayabiliriz-120169776",
       "source": "odatv.com",
       "source_role": "publisher",
       "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.266549+00:00",
+      "collected_at": "2026-11-05T20:13:55.109252+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1363,8 +1210,8 @@
         {
           "source": "odatv.com",
           "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/magazin/ferhat-gocerin-en-zor-karari-aglaya-aglaya-biraktim-120169623",
-          "title": "Ferhat Göçer'in en zor kararı: Ağlaya ağlaya bıraktım"
+          "url": "https://www.odatv.com/magazin/dizi-oyuncularina-indirim-hazar-erguclu-ozge-ozpirincci-ne-dedi-tartismaya-sektor-temsilcileri-katildi-kabul-etmeyenle-calismayabiliriz-120169776",
+          "title": "Dizi oyuncularına indirim.. 6 milyonluk kaşe... Tartışmaya sektör temsilcileri katıldı: 'Kabul etmeyenle çalışmayabiliriz'"
         }
       ],
       "publisher_domains": [
@@ -1383,16 +1230,90 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Ferhat Göçer'den yıllar sonra gelen itiraf: Cerrahlığı ağlayarak bıraktım",
-      "normalized_title": "ferhat gocer den yillar sonra gelen itiraf cerrahligi aglayarak biraktim",
-      "url": "https://www.sondakika.com/magazin/haber-ferhat-gocerden-yillar-sonra-gelen-itiraf-20393747/",
+      "title": "Sektör bunu konuşuyor... Taşın altına elini kim koyacak?",
+      "normalized_title": "sektor bunu konusuyor tasin altina elini kim koyacak",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/sektor-bunu-konusuyor-tasin-altina-elini-kim-koyacak-43366423",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-05T20:13:55.109308+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/sektor-bunu-konusuyor-tasin-altina-elini-kim-koyacak-43366423",
+          "title": "Sektör bunu konuşuyor... Taşın altına elini kim koyacak?"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Kanallar Yüzde 25 İndirim İstedi: Bölümler Kısalabilir, Milyonluk Oyuncu Ücretleri Düşebilir!",
+      "normalized_title": "kanallar yuzde 25 indirim istedi bolumler kisalabilir milyonluk oyuncu ucretleri dusebilir",
+      "url": "https://onedio.com/haber/kanallar-yuzde-25-indirim-istedi-bolumler-kisalabilir-milyonluk-oyuncu-ucretleri-dusebilir-1393591",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-05T20:13:55.109383+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/kanallar-yuzde-25-indirim-istedi-bolumler-kisalabilir-milyonluk-oyuncu-ucretleri-dusebilir-1393591",
+          "title": "Kanallar Yüzde 25 İndirim İstedi: Bölümler Kısalabilir, Milyonluk Oyuncu Ücretleri Düşebilir!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Dizi sektöründe yeni dönem: Ücretini düşürmeyen oyuncuyla çalışılmayacak",
+      "normalized_title": "dizi sektorunde yeni donem ucretini dusurmeyen oyuncuyla calisilmayacak",
+      "url": "https://www.sondakika.com/haber/haber-dizi-sektorunde-yeni-donem-ucretini-dusurmeyen-20399974/",
       "source": "sondakika.com",
       "source_role": "publisher",
       "source_domain": "sondakika.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-05T09:09:05.266623+00:00",
+      "collected_at": "2026-11-05T20:13:55.109448+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1400,12 +1321,49 @@
         {
           "source": "sondakika.com",
           "source_domain": "sondakika.com",
-          "url": "https://www.sondakika.com/magazin/haber-ferhat-gocerden-yillar-sonra-gelen-itiraf-20393747/",
-          "title": "Ferhat Göçer'den yıllar sonra gelen itiraf: Cerrahlığı ağlayarak bıraktım"
+          "url": "https://www.sondakika.com/haber/haber-dizi-sektorunde-yeni-donem-ucretini-dusurmeyen-20399974/",
+          "title": "Dizi sektöründe yeni dönem: Ücretini düşürmeyen oyuncuyla çalışılmayacak"
         }
       ],
       "publisher_domains": [
         "sondakika.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Siyah ile beyaz: Bob Dylan Papa'nın huzurunda",
+      "normalized_title": "siyah ile beyaz bob dylan papa nin huzurunda",
+      "url": "https://www.diken.com.tr/siyah-ile-beyaz-bob-dylan-papanin-huzurunda/",
+      "source": "diken.com.tr",
+      "source_role": "publisher",
+      "source_domain": "diken.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-05T20:13:55.109501+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "diken.com.tr",
+          "source_domain": "diken.com.tr",
+          "url": "https://www.diken.com.tr/siyah-ile-beyaz-bob-dylan-papanin-huzurunda/",
+          "title": "Siyah ile beyaz: Bob Dylan Papa'nın huzurunda"
+        }
+      ],
+      "publisher_domains": [
+        "diken.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
