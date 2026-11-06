@@ -1,40 +1,138 @@
 {
-  "generated_at": "2026-11-06T14:29:19.249658+00:00",
+  "generated_at": "2026-11-06T19:39:32.889664+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
-      "title": "76 yaşındaki Morgan Fairchild bir yetişkin içerik platformunda hesap açtı",
-      "normalized_title": "76 yasindaki morgan fairchild bir yetiskin icerik platformunda hesap acti",
-      "url": "https://www.odatv.com/dunya/76-yasindaki-morgan-fairchild-bir-yetiskin-icerik-platformunda-hesap-acti-120169947",
+      "title": "Seren Serengil yaşadığı sağlık sorunlarını anlattı: 42 kiloda kemiklerim adeta eridi",
+      "normalized_title": "seren serengil yasadigi saglik sorunlarini anlatti 42 kiloda kemiklerim adeta eridi",
+      "url": "https://t24.com.tr/magazin/seren-serengil-yasadigi-saglik-sorunlarini-anlatti-42-kiloda-kemiklerim-adeta-eridi,1357194",
+      "source": "t24.com.tr",
+      "source_role": "publisher",
+      "source_domain": "t24.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-06T19:38:55.592907+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/seren-serengil-42-kiloda-kemiklerim-adeta-eridi-43365318",
+          "title": "Seren Serengil: 42 kiloda kemiklerim adeta eridi"
+        },
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/seren-serengilden-carpici-itiraf-42-kiloda-kemiklerim-adeta-eridi-3488977",
+          "title": "Seren Serengil'den çarpıcı itiraf: “42 kiloda kemiklerim adeta eridi”"
+        },
+        {
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/seren-serengil-yasadigi-saglik-sorunlarini-anlatti-42-kiloda-kemiklerim-adeta-eridi,1357194",
+          "title": "Seren Serengil yaşadığı sağlık sorunlarını anlattı: 42 kiloda kemiklerim adeta eridi"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com",
+        "hurriyet.com.tr",
+        "t24.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Seren Serengil yaşadığı sağlık sorunlarını anlattı: 42 kiloda kemiklerim adeta eridi",
+        "og_title": "Seren Serengil yaşadığı sağlık sorunlarını anlattı: 42 kiloda kemiklerim adeta eridi | T24",
+        "description": "Ayşe Arman'ın YouTube programına konuk olan Seren Serengil, sevgilisi Mustafa Tohma'nın altı ay boyunca hastanede kendisinin yanında kaldığını söyledi. Serengil",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "title": "Seren Serengil: 42 kiloda kemiklerim adeta eridi",
+          "summary": "",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/seren-serengil-42-kiloda-kemiklerim-adeta-eridi-43365318",
+          "match_score": 0.76,
+          "shared_keywords": [
+            "adeta",
+            "eridi",
+            "kemiklerim",
+            "kiloda",
+            "seren",
+            "serengil"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        },
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "title": "Seren Serengil'den çarpıcı itiraf: “42 kiloda kemiklerim adeta eridi”",
+          "summary": "",
+          "url": "https://www.cnnturk.com/magazin/galeri/seren-serengilden-carpici-itiraf-42-kiloda-kemiklerim-adeta-eridi-3488977",
+          "match_score": 0.64,
+          "shared_keywords": [
+            "adeta",
+            "eridi",
+            "kemiklerim",
+            "kiloda",
+            "seren",
+            "serengil"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Muhteşem Yüzyıl'ın Hatice Sultan'ı ve Pargalı İbrahim'i yıllar sonra aynı karede",
+      "normalized_title": "muhtesem yuzyil in hatice sultan i ve pargali ibrahim i yillar sonra ayni karede",
+      "url": "https://www.odatv.com/magazin/muhtesem-yuzyilin-hatice-sultani-ve-pargali-ibrahimi-yillar-sonra-ayni-karede-120170035",
       "source": "odatv.com",
       "source_role": "publisher",
       "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-06T14:28:41.617036+00:00",
+      "collected_at": "2026-11-06T19:38:55.589349+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/76-yasindaki-usta-oyuncu-onlyfans-hesabi-acti-p376562",
-          "title": "76 yaşındaki usta oyuncu yetişkin içerik üreticisi oldu"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/muhtesem-yuzyil-in-hatice-si-ve-pargali-si-yillar-sonra-bulustu-o-kare-gundem-oldu-1393783",
+          "title": "Muhteşem Yüzyıl'ın Hatice'si ve Pargalı'sı Yıllar Sonra Buluştu: O Kare Gündem Oldu!"
         },
         {
           "source": "odatv.com",
           "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/dunya/76-yasindaki-morgan-fairchild-bir-yetiskin-icerik-platformunda-hesap-acti-120169947",
-          "title": "76 yaşındaki Morgan Fairchild bir yetişkin içerik platformunda hesap açtı"
+          "url": "https://www.odatv.com/magazin/muhtesem-yuzyilin-hatice-sultani-ve-pargali-ibrahimi-yillar-sonra-ayni-karede-120170035",
+          "title": "Muhteşem Yüzyıl'ın Hatice Sultan'ı ve Pargalı İbrahim'i yıllar sonra aynı karede"
         }
       ],
       "publisher_domains": [
         "odatv.com",
-        "sozcu.com.tr"
+        "onedio.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -57,16 +155,18 @@
       },
       "independent_source_matches": [
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "title": "76 yaşındaki usta oyuncu yetişkin içerik üreticisi oldu",
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "title": "Muhteşem Yüzyıl'ın Hatice'si ve Pargalı'sı Yıllar Sonra Buluştu: O Kare Gündem Oldu!",
           "summary": "",
-          "url": "https://www.sozcu.com.tr/76-yasindaki-usta-oyuncu-onlyfans-hesabi-acti-p376562",
-          "match_score": 0.55,
+          "url": "https://onedio.com/haber/muhtesem-yuzyil-in-hatice-si-ve-pargali-si-yillar-sonra-bulustu-o-kare-gundem-oldu-1393783",
+          "match_score": 0.64,
           "shared_keywords": [
-            "icerik",
-            "ndaki",
-            "yetiskin"
+            "hatice",
+            "llar",
+            "muhtesem",
+            "pargal",
+            "yuzy"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
@@ -75,35 +175,35 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Cem Yılmaz'dan aşk hayatıyla ilgili şaşırtan açıklama: Doktor yasakladı",
-      "normalized_title": "cem yilmaz dan ask hayatiyla ilgili sasirtan aciklama doktor yasakladi",
-      "url": "https://www.sondakika.com/magazin/haber-cem-yilmazdan-ask-hayatiyla-ilgili-sasirtan-20400805/",
-      "source": "sondakika.com",
+      "title": "Ünlü Oyuncunun Çikolata Markasının Fiyatları Dikkat Çekti: Bir Kutusu 4 Bin 125 TL!",
+      "normalized_title": "unlu oyuncunun cikolata markasinin fiyatlari dikkat cekti bir kutusu 4 bin 125 tl",
+      "url": "https://onedio.com/haber/unlu-oyuncunun-cikolata-markasinin-fiyatlari-dikkat-cekti-bir-kutusu-4-bin-125-tl-1393742",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "sondakika.com",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-06T14:28:41.617269+00:00",
+      "collected_at": "2026-11-06T19:38:55.589900+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/magazin/komedyen-cem-yilmazdan-ask-yaniti-doktorum-yasakladi-120169972",
-          "title": "Komedyen Cem Yılmaz'dan aşk yanıtı: Doktorum yasakladı"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/unlu-oyuncunun-cikolata-markasinin-fiyatlari-dikkat-cekti-bir-kutusu-4-bin-125-tl-1393742",
+          "title": "Ünlü Oyuncunun Çikolata Markasının Fiyatları Dikkat Çekti: Bir Kutusu 4 Bin 125 TL!"
         },
         {
           "source": "sondakika.com",
           "source_domain": "sondakika.com",
-          "url": "https://www.sondakika.com/magazin/haber-cem-yilmazdan-ask-hayatiyla-ilgili-sasirtan-20400805/",
-          "title": "Cem Yılmaz'dan aşk hayatıyla ilgili şaşırtan açıklama: Doktor yasakladı"
+          "url": "https://www.sondakika.com/haber/haber-rojda-demirerin-cikolata-isi-sasirtti-bir-kutusu-20402972/",
+          "title": "Rojda Demirer'in çikolata işi şaşırttı! Bir kutusu 4 bin 125 TL"
         }
       ],
       "publisher_domains": [
-        "odatv.com",
+        "onedio.com",
         "sondakika.com"
       ],
       "publisher_count": 2,
@@ -120,94 +220,24 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Cem Yılmaz'dan aşk hayatıyla ilgili şaşırtan açıklama: Doktor yasakladı - Son Dakika",
-        "og_title": "Cem Yılmaz'dan aşk hayatıyla ilgili şaşırtan açıklama: Doktor yasakladı",
-        "description": "Geçtiğimiz aylarda geçirdiği kalp krizi nedeniyle hastaneye kaldırılan ünlü komedyen Cem Yılmaz, katıldığı davette özel hayatına ilişkin dikkat çeken bir açıklama yaptı. Sağlık durumunun iyi olduğunu belirten Yılmaz, hayatında biri olup olmadığı sorusuna 'Bir ilişkim yok, doktorum yasakladı' yanıtını verdi.",
+        "page_title": "Ünlü Oyuncunun Çikolata Markasının Fiyatları Dikkat Çekti - Onedio",
+        "og_title": "Ünlü Oyuncunun Çikolata Markasının Fiyatları Dikkat Çekti: Bir Kutusu 4 Bin 125 TL!",
+        "description": "Rojda Demirer'in kardeşi Ruken Demirer ile kurduğu çikolata markasının fiyatları dikkat çekti. Özel tasarımlı Royal Box, 4 bin 125 TL'den satılıyor.",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "title": "Komedyen Cem Yılmaz'dan aşk yanıtı: Doktorum yasakladı",
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "title": "Rojda Demirer'in çikolata işi şaşırttı! Bir kutusu 4 bin 125 TL",
           "summary": "",
-          "url": "https://www.odatv.com/magazin/komedyen-cem-yilmazdan-ask-yaniti-doktorum-yasakladi-120169972",
-          "match_score": 0.55,
+          "url": "https://www.sondakika.com/haber/haber-rojda-demirerin-cikolata-isi-sasirtti-bir-kutusu-20402972/",
+          "match_score": 0.49,
           "shared_keywords": [
-            "ask",
-            "cem",
-            "lmaz",
-            "yasaklad"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "Caligula'nın yönetmeni Tinto Brass hayatını kaybetti! Ünlü sinemacı 93 yaşındaydı",
-      "normalized_title": "caligula nin yonetmeni tinto brass hayatini kaybetti unlu sinemaci 93 yasindaydi",
-      "url": "https://www.bursadabugun.com/haber/caligula-nin-yonetmeni-tinto-brass-hayatini-kaybetti-unlu-sinemaci-93-yasindaydi-1961276.html",
-      "source": "bursadabugun.com",
-      "source_role": "publisher",
-      "source_domain": "bursadabugun.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-06T14:28:41.617565+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/guncel/erotik-filmlerin-efsanesi-tinto-brass-hayatini-kaybetti-120169715",
-          "title": "Erotik filmlerin efsanesi Tinto Brass hayatını kaybetti"
-        },
-        {
-          "source": "bursadabugun.com",
-          "source_domain": "bursadabugun.com",
-          "url": "https://www.bursadabugun.com/haber/caligula-nin-yonetmeni-tinto-brass-hayatini-kaybetti-unlu-sinemaci-93-yasindaydi-1961276.html",
-          "title": "Caligula'nın yönetmeni Tinto Brass hayatını kaybetti! Ünlü sinemacı 93 yaşındaydı"
-        }
-      ],
-      "publisher_domains": [
-        "bursadabugun.com",
-        "odatv.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Caligula'nın yönetmeni Tinto Brass hayatını kaybetti! Ünlü sinemacı 93 yaşındaydı - Magazin Haberleri - Bursadabugun.com",
-        "og_title": "Caligula'nın yönetmeni Tinto Brass hayatını kaybetti! Ünlü sinemacı 93 yaşındaydı",
-        "description": "Dünya sineması, kendine özgü anlatım dili ve tartışma yaratan yapımlarıyla tanınan önemli bir yönetmenini kaybetti. İtalyan sinemasının dikkat çeken isimlerinden Tinto Brass, 93 yaşında Roma'da yaşamını yitirdi. Özellikle Caligula, Paprika ve La chiave filmleriyle uluslararası alanda tanınan yönetmenin ölüm haberi, sinema dünyasında üzüntüyle karşılandı. Brass'ın cenaze töreninin ise ailesinin isteği doğrultusunda yakın çevresinin katılımıyla gerçekleştirileceği bildirildi.",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "title": "Erotik filmlerin efsanesi Tinto Brass hayatını kaybetti",
-          "summary": "",
-          "url": "https://www.odatv.com/guncel/erotik-filmlerin-efsanesi-tinto-brass-hayatini-kaybetti-120169715",
-          "match_score": 0.47,
-          "shared_keywords": [
-            "brass",
-            "kaybetti",
-            "tinto"
+            "125",
+            "bin",
+            "cikolata",
+            "kutusu"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
