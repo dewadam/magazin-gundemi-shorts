@@ -1,94 +1,43 @@
 {
-  "generated_at": "2026-11-06T09:02:00.934046+00:00",
+  "generated_at": "2026-11-06T14:29:18.209100+00:00",
   "candidate_count": 100,
-  "event_group_count": 48,
-  "multi_publisher_event_count": 11,
+  "event_group_count": 49,
+  "multi_publisher_event_count": 8,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Ünlüleri buluşturan davet. Serenay Sarıkaya ve Ajda Pekkan düeti geceye damga vurdu",
-      "normalized_title": "unluleri bulusturan davet serenay sarikaya ve ajda pekkan dueti geceye damga vurdu",
-      "url": "https://www.ntv.com.tr/yasam/galeri-unluleri-bulusturan-davet-serenay-sarikaya-ve-ajda-pekkan-dueti-geceye-damga-vurdu-1749622",
-      "source": "ntv.com.tr",
+      "title": "76 yaşındaki Morgan Fairchild bir yetişkin içerik platformunda hesap açtı",
+      "normalized_title": "76 yasindaki morgan fairchild bir yetiskin icerik platformunda hesap acti",
+      "url": "https://www.odatv.com/dunya/76-yasindaki-morgan-fairchild-bir-yetiskin-icerik-platformunda-hesap-acti-120169947",
+      "source": "odatv.com",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.338800+00:00",
+      "collected_at": "2026-11-06T14:28:41.617036+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/serenay-sarikaya-ile-ajda-pekkan-netflix-gecesinde-mikrofonlari-birlikte-tuttu-1393621",
-          "title": "Serenay Sarıkaya ile Ajda Pekkan Netflix Gecesinde Düet Yaptı"
-        },
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-unluleri-bulusturan-davet-serenay-sarikaya-ve-ajda-pekkan-dueti-geceye-damga-vurdu-1749622",
-          "title": "Ünlüleri buluşturan davet. Serenay Sarıkaya ve Ajda Pekkan düeti geceye damga vurdu"
-        },
-        {
           "source": "sozcu.com.tr",
           "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/serenay-sarikaya-ile-ajda-pekkan-dan-surpriz-duet-geceye-damga-vurdular-p376549?utm_source=haberdetay_1&utm_medium=free&utm_campaign=oneriHaber",
-          "title": "Serenay Sarıkaya ile Ajda Pekkan'dan sürpriz düet: Geceye damga vurdular"
+          "url": "https://www.sozcu.com.tr/76-yasindaki-usta-oyuncu-onlyfans-hesabi-acti-p376562",
+          "title": "76 yaşındaki usta oyuncu yetişkin içerik üreticisi oldu"
+        },
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/dunya/76-yasindaki-morgan-fairchild-bir-yetiskin-icerik-platformunda-hesap-acti-120169947",
+          "title": "76 yaşındaki Morgan Fairchild bir yetişkin içerik platformunda hesap açtı"
         }
       ],
       "publisher_domains": [
-        "ntv.com.tr",
-        "onedio.com",
+        "odatv.com",
         "sozcu.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "İtalyan yönetmen Tinto Brass 93 yaşında hayatını kaybetti",
-      "normalized_title": "italyan yonetmen tinto brass 93 yasinda hayatini kaybetti",
-      "url": "https://tr.euronews.com/2026/11/04/italyan-erotik-sinemasinin-ustasi-tinto-brass-romada-93-yasinda-oldu",
-      "source": "tr.euronews.com",
-      "source_role": "publisher",
-      "source_domain": "tr.euronews.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.340013+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/04/italyan-erotik-sinemasinin-ustasi-tinto-brass-romada-93-yasinda-oldu",
-          "title": "İtalyan yönetmen Tinto Brass 93 yaşında hayatını kaybetti"
-        },
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/tinto-brass-hayatini-kaybetti-p376100",
-          "title": "Dünyaca ünlü İtalyan yönetmen Tinto Brass yaşamını yitirdi"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr",
-        "tr.euronews.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -103,36 +52,80 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Yoğun Bakımdan Çıkan Murat Cemcir Aylar Sonra Kameralar Karşısında Sağlık Durumunu Anlattı",
-      "normalized_title": "yogun bakimdan cikan murat cemcir aylar sonra kameralar karsisinda saglik durumunu anlatti",
-      "url": "https://onedio.com/haber/yogun-bakimdan-cikan-murat-cemcir-aylar-sonra-kameralar-karsisinda-saglik-durumunu-anlatti-1393603",
-      "source": "onedio.com",
+      "title": "Cem Yılmaz'dan aşk hayatıyla ilgili şaşırtan açıklama: Doktor yasakladı",
+      "normalized_title": "cem yilmaz dan ask hayatiyla ilgili sasirtan aciklama doktor yasakladi",
+      "url": "https://www.sondakika.com/magazin/haber-cem-yilmazdan-ask-hayatiyla-ilgili-sasirtan-20400805/",
+      "source": "sondakika.com",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "sondakika.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.340409+00:00",
+      "collected_at": "2026-11-06T14:28:41.617269+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/yogun-bakimdan-cikan-murat-cemcir-aylar-sonra-kameralar-karsisinda-saglik-durumunu-anlatti-1393603",
-          "title": "Yoğun Bakımdan Çıkan Murat Cemcir Aylar Sonra Kameralar Karşısında Sağlık Durumunu Anlattı"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/komedyen-cem-yilmazdan-ask-yaniti-doktorum-yasakladi-120169972",
+          "title": "Komedyen Cem Yılmaz'dan aşk yanıtı: Doktorum yasakladı"
         },
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/murat-cemcir-in-saglik-durumuna-iliskin-yeni-aciklama-p376436",
-          "title": "Murat Cemcir'in sağlık durumuna ilişkin yeni açıklama"
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/magazin/haber-cem-yilmazdan-ask-hayatiyla-ilgili-sasirtan-20400805/",
+          "title": "Cem Yılmaz'dan aşk hayatıyla ilgili şaşırtan açıklama: Doktor yasakladı"
         }
       ],
       "publisher_domains": [
-        "onedio.com",
-        "sozcu.com.tr"
+        "odatv.com",
+        "sondakika.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Caligula'nın yönetmeni Tinto Brass hayatını kaybetti! Ünlü sinemacı 93 yaşındaydı",
+      "normalized_title": "caligula nin yonetmeni tinto brass hayatini kaybetti unlu sinemaci 93 yasindaydi",
+      "url": "https://www.bursadabugun.com/haber/caligula-nin-yonetmeni-tinto-brass-hayatini-kaybetti-unlu-sinemaci-93-yasindaydi-1961276.html",
+      "source": "bursadabugun.com",
+      "source_role": "publisher",
+      "source_domain": "bursadabugun.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-06T14:28:41.617565+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/guncel/erotik-filmlerin-efsanesi-tinto-brass-hayatini-kaybetti-120169715",
+          "title": "Erotik filmlerin efsanesi Tinto Brass hayatını kaybetti"
+        },
+        {
+          "source": "bursadabugun.com",
+          "source_domain": "bursadabugun.com",
+          "url": "https://www.bursadabugun.com/haber/caligula-nin-yonetmeni-tinto-brass-hayatini-kaybetti-unlu-sinemaci-93-yasindaydi-1961276.html",
+          "title": "Caligula'nın yönetmeni Tinto Brass hayatını kaybetti! Ünlü sinemacı 93 yaşındaydı"
+        }
+      ],
+      "publisher_domains": [
+        "bursadabugun.com",
+        "odatv.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -149,43 +142,43 @@
   ],
   "event_groups_preview": [
     {
-      "title": "Ünlüleri buluşturan davet. Serenay Sarıkaya ve Ajda Pekkan düeti geceye damga vurdu",
-      "normalized_title": "unluleri bulusturan davet serenay sarikaya ve ajda pekkan dueti geceye damga vurdu",
-      "url": "https://www.ntv.com.tr/yasam/galeri-unluleri-bulusturan-davet-serenay-sarikaya-ve-ajda-pekkan-dueti-geceye-damga-vurdu-1749622",
-      "source": "ntv.com.tr",
+      "title": "Cüneyt Arkın'ın ailesi harekete geçti... Altı film şirketine telif davası... Odatv araştırdı: Günde üç film",
+      "normalized_title": "cuneyt arkin in ailesi harekete gecti alti film sirketine telif davasi odatv arastirdi gunde uc film",
+      "url": "https://www.odatv.com/kultur-sanat/cuneyt-arkinin-ailesi-harekete-gecti-alti-film-sirketine-telif-davasi-odatv-arastirdi-gunde-uc-film-120169761",
+      "source": "odatv.com",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.338800+00:00",
+      "collected_at": "2026-11-06T14:28:41.616747+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/serenay-sarikaya-ile-ajda-pekkan-netflix-gecesinde-mikrofonlari-birlikte-tuttu-1393621",
-          "title": "Serenay Sarıkaya ile Ajda Pekkan Netflix Gecesinde Düet Yaptı"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/arkin-ailesinden-telif-davasi-43366419",
+          "title": "Arkın Ailesi’nden telif davası"
         },
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-unluleri-bulusturan-davet-serenay-sarikaya-ve-ajda-pekkan-dueti-geceye-damga-vurdu-1749622",
-          "title": "Ünlüleri buluşturan davet. Serenay Sarıkaya ve Ajda Pekkan düeti geceye damga vurdu"
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/usta-oyuncu-cuneyt-arkinin-ailesinden-6-film-sirketine-telif-davasi,1357197",
+          "title": "Usta oyuncu Cüneyt Arkın'ın ailesinden 6 film şirketine telif davası"
         },
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/serenay-sarikaya-ile-ajda-pekkan-dan-surpriz-duet-geceye-damga-vurdular-p376549?utm_source=haberdetay_1&utm_medium=free&utm_campaign=oneriHaber",
-          "title": "Serenay Sarıkaya ile Ajda Pekkan'dan sürpriz düet: Geceye damga vurdular"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/kultur-sanat/cuneyt-arkinin-ailesi-harekete-gecti-alti-film-sirketine-telif-davasi-odatv-arastirdi-gunde-uc-film-120169761",
+          "title": "Cüneyt Arkın'ın ailesi harekete geçti... Altı film şirketine telif davası... Odatv araştırdı: Günde üç film"
         }
       ],
       "publisher_domains": [
-        "ntv.com.tr",
-        "onedio.com",
-        "sozcu.com.tr"
+        "hurriyet.com.tr",
+        "odatv.com",
+        "t24.com.tr"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -194,182 +187,6 @@
       "latest_published_at": null,
       "age_hours": 48.0,
       "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Usta oyuncu Cüneyt Arkın'ın ailesinden 6 film şirketine telif davası",
-      "normalized_title": "usta oyuncu cuneyt arkin in ailesinden 6 film sirketine telif davasi",
-      "url": "https://t24.com.tr/magazin/usta-oyuncu-cuneyt-arkinin-ailesinden-6-film-sirketine-telif-davasi,1357197",
-      "source": "t24.com.tr",
-      "source_role": "publisher",
-      "source_domain": "t24.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.339187+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/alti-film-sirketine-telif-davasi-7694564",
-          "title": "Altı film şirketine telif davası"
-        },
-        {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/magazin/usta-oyuncu-cuneyt-arkinin-ailesinden-6-film-sirketine-telif-davasi,1357197",
-          "title": "Usta oyuncu Cüneyt Arkın'ın ailesinden 6 film şirketine telif davası"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr",
-        "t24.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "İtalyan yönetmen Tinto Brass 93 yaşında hayatını kaybetti",
-      "normalized_title": "italyan yonetmen tinto brass 93 yasinda hayatini kaybetti",
-      "url": "https://tr.euronews.com/2026/11/04/italyan-erotik-sinemasinin-ustasi-tinto-brass-romada-93-yasinda-oldu",
-      "source": "tr.euronews.com",
-      "source_role": "publisher",
-      "source_domain": "tr.euronews.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.340013+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/04/italyan-erotik-sinemasinin-ustasi-tinto-brass-romada-93-yasinda-oldu",
-          "title": "İtalyan yönetmen Tinto Brass 93 yaşında hayatını kaybetti"
-        },
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/tinto-brass-hayatini-kaybetti-p376100",
-          "title": "Dünyaca ünlü İtalyan yönetmen Tinto Brass yaşamını yitirdi"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr",
-        "tr.euronews.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Yoğun Bakımdan Çıkan Murat Cemcir Aylar Sonra Kameralar Karşısında Sağlık Durumunu Anlattı",
-      "normalized_title": "yogun bakimdan cikan murat cemcir aylar sonra kameralar karsisinda saglik durumunu anlatti",
-      "url": "https://onedio.com/haber/yogun-bakimdan-cikan-murat-cemcir-aylar-sonra-kameralar-karsisinda-saglik-durumunu-anlatti-1393603",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.340409+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/yogun-bakimdan-cikan-murat-cemcir-aylar-sonra-kameralar-karsisinda-saglik-durumunu-anlatti-1393603",
-          "title": "Yoğun Bakımdan Çıkan Murat Cemcir Aylar Sonra Kameralar Karşısında Sağlık Durumunu Anlattı"
-        },
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/murat-cemcir-in-saglik-durumuna-iliskin-yeni-aciklama-p376436",
-          "title": "Murat Cemcir'in sağlık durumuna ilişkin yeni açıklama"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "İç kanama geçirmişti: Murat Cemcir aylar sonra ortaya çıktı iflas sürecini açıkladı",
-      "normalized_title": "ic kanama gecirmisti murat cemcir aylar sonra ortaya cikti iflas surecini acikladi",
-      "url": "https://www.yenisafak.com/galeri/hayat/ic-kanama-gecirmisti-murat-cemcir-aylar-sonra-ortaya-cikti-iflas-surecini-acikladi-4870051",
-      "source": "yenisafak.com",
-      "source_role": "publisher",
-      "source_domain": "yenisafak.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.340553+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/murat-cemcir-den-iflas-aciklamasi-3925303",
-          "title": "Murat Cemcir'den 'iflas' açıklaması"
-        },
-        {
-          "source": "yenisafak.com",
-          "source_domain": "yenisafak.com",
-          "url": "https://www.yenisafak.com/galeri/hayat/ic-kanama-gecirmisti-murat-cemcir-aylar-sonra-ortaya-cikti-iflas-surecini-acikladi-4870051",
-          "title": "İç kanama geçirmişti: Murat Cemcir aylar sonra ortaya çıktı iflas sürecini açıkladı"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com",
-        "yenisafak.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -385,7 +202,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.341135+00:00",
+      "collected_at": "2026-11-06T14:28:41.617881+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -397,6 +214,12 @@
           "title": "Ela Rümeysa Cebeci beraat etti"
         },
         {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/turkiye/galeri-sadettin-saran-ve-ela-rumeysa-cebeci-hakkinda-beraat-karari-1749378",
+          "title": "Sadettin Saran ve Ela Rümeysa Cebeci hakkında beraat kararı"
+        },
+        {
           "source": "iha.com.tr",
           "source_domain": "iha.com.tr",
           "url": "https://www.iha.com.tr/istanbul-haberleri/mahkeme-heyeti-ela-rumeysa-cebeci-ile-sadettin-saran-hakkinda-uyusturucu-veya-uyarici-madde-ticareti-yapma-veya-saglama-sucundan-beraatlerine-karar-verdi-510995430",
@@ -405,7 +228,52 @@
       ],
       "publisher_domains": [
         "iha.com.tr",
-        "memurlar.net"
+        "memurlar.net",
+        "ntv.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Ünlüleri buluşturan davet. Serenay Sarıkaya ve Ajda Pekkan düeti geceye damga vurdu",
+      "normalized_title": "unluleri bulusturan davet serenay sarikaya ve ajda pekkan dueti geceye damga vurdu",
+      "url": "https://www.ntv.com.tr/yasam/galeri-unluleri-bulusturan-davet-serenay-sarikaya-ve-ajda-pekkan-dueti-geceye-damga-vurdu-1749622",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-06T14:28:41.616385+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/serenay-sarikaya-ile-ajda-pekkan-dan-surpriz-duet-geceye-damga-vurdular-p376549",
+          "title": "Serenay Sarıkaya ile Ajda Pekkan'dan sürpriz düet: Geceye damga vurdular"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-unluleri-bulusturan-davet-serenay-sarikaya-ve-ajda-pekkan-dueti-geceye-damga-vurdu-1749622",
+          "title": "Ünlüleri buluşturan davet. Serenay Sarıkaya ve Ajda Pekkan düeti geceye damga vurdu"
+        }
+      ],
+      "publisher_domains": [
+        "ntv.com.tr",
+        "sozcu.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -420,35 +288,35 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Sadettin Saran ve Ela Rümeysa Cebeci hakkında beraat kararı",
-      "normalized_title": "sadettin saran ve ela rumeysa cebeci hakkinda beraat karari",
-      "url": "https://www.ntv.com.tr/turkiye/galeri-ela-rumeysa-cebeci-hakim-karsisinda-ifadesi-ortaya-cikti-1749378",
-      "source": "ntv.com.tr",
+      "title": "Yoğun bakıma kaldırılan Killa Hakan'ın sağlık durumu hakkında açıklama",
+      "normalized_title": "yogun bakima kaldirilan killa hakan in saglik durumu hakkinda aciklama",
+      "url": "https://www.birgun.net/haber/yogun-bakima-kaldirilan-killa-hakan-in-saglik-durumu-hakkinda-aciklama-744952",
+      "source": "birgun.net",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "birgun.net",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.341207+00:00",
+      "collected_at": "2026-11-06T14:28:41.616430+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/gundem/saran-ve-cebeci-beraat-etti-43366350",
-          "title": "Saran ve Cebeci beraat etti"
+          "source": "birgun.net",
+          "source_domain": "birgun.net",
+          "url": "https://www.birgun.net/haber/yogun-bakima-kaldirilan-killa-hakan-in-saglik-durumu-hakkinda-aciklama-744952",
+          "title": "Yoğun bakıma kaldırılan Killa Hakan'ın sağlık durumu hakkında açıklama"
         },
         {
           "source": "ntv.com.tr",
           "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/turkiye/galeri-ela-rumeysa-cebeci-hakim-karsisinda-ifadesi-ortaya-cikti-1749378",
-          "title": "Sadettin Saran ve Ela Rümeysa Cebeci hakkında beraat kararı"
+          "url": "https://www.ntv.com.tr/yasam/galeri-yogun-bakimdaki-killa-hakanin-son-durumu-avukatindan-yeni-aciklama-1749610",
+          "title": "Yoğun bakımdaki Killa Hakan'ın son durumu. Avukatından yeni açıklama"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr",
+        "birgun.net",
         "ntv.com.tr"
       ],
       "publisher_count": 2,
@@ -464,36 +332,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Pınar Deniz'den Kaan Yıldırım'a babalık övgüsü: “Maalesef harika bir baba”",
-      "normalized_title": "pinar deniz den kaan yildirim a babalik ovgusu maalesef harika bir baba",
-      "url": "https://www.cnnturk.com/magazin/galeri/pinar-denizden-kaan-yildirima-babalik-ovgusu-maalesef-harika-bir-baba-3489759",
-      "source": "cnnturk.com",
+      "title": "76 yaşındaki Morgan Fairchild bir yetişkin içerik platformunda hesap açtı",
+      "normalized_title": "76 yasindaki morgan fairchild bir yetiskin icerik platformunda hesap acti",
+      "url": "https://www.odatv.com/dunya/76-yasindaki-morgan-fairchild-bir-yetiskin-icerik-platformunda-hesap-acti-120169947",
+      "source": "odatv.com",
       "source_role": "publisher",
-      "source_domain": "cnnturk.com",
+      "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.341289+00:00",
+      "collected_at": "2026-11-06T14:28:41.617036+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/pinar-denizden-kaan-yildirima-babalik-ovgusu-maalesef-harika-bir-baba-3489759",
-          "title": "Pınar Deniz'den Kaan Yıldırım'a babalık övgüsü: “Maalesef harika bir baba”"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/76-yasindaki-usta-oyuncu-onlyfans-hesabi-acti-p376562",
+          "title": "76 yaşındaki usta oyuncu yetişkin içerik üreticisi oldu"
         },
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/kaan-maalesef-harika-bir-baba-43367773",
-          "title": "Kaan maalesef harika bir baba"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/dunya/76-yasindaki-morgan-fairchild-bir-yetiskin-icerik-platformunda-hesap-acti-120169947",
+          "title": "76 yaşındaki Morgan Fairchild bir yetişkin içerik platformunda hesap açtı"
         }
       ],
       "publisher_domains": [
-        "cnnturk.com",
-        "hurriyet.com.tr"
+        "odatv.com",
+        "sozcu.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -508,16 +376,104 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "\"Bırakıp Gitti Beni\" Diyen Zülal Zorlu, Eşi Ahmet Nazif Zorlu'nun Tabutuna Sarıldı",
-      "normalized_title": "birakip gitti beni diyen zulal zorlu esi ahmet nazif zorlu nun tabutuna sarildi",
-      "url": "https://onedio.com/haber/birakip-gitti-beni-diyen-zulal-zorlu-esi-ahmet-nazif-zorlu-nun-tabutuna-sarildi-1393311",
+      "title": "Cem Yılmaz'dan aşk hayatıyla ilgili şaşırtan açıklama: Doktor yasakladı",
+      "normalized_title": "cem yilmaz dan ask hayatiyla ilgili sasirtan aciklama doktor yasakladi",
+      "url": "https://www.sondakika.com/magazin/haber-cem-yilmazdan-ask-hayatiyla-ilgili-sasirtan-20400805/",
+      "source": "sondakika.com",
+      "source_role": "publisher",
+      "source_domain": "sondakika.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-06T14:28:41.617269+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/komedyen-cem-yilmazdan-ask-yaniti-doktorum-yasakladi-120169972",
+          "title": "Komedyen Cem Yılmaz'dan aşk yanıtı: Doktorum yasakladı"
+        },
+        {
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/magazin/haber-cem-yilmazdan-ask-hayatiyla-ilgili-sasirtan-20400805/",
+          "title": "Cem Yılmaz'dan aşk hayatıyla ilgili şaşırtan açıklama: Doktor yasakladı"
+        }
+      ],
+      "publisher_domains": [
+        "odatv.com",
+        "sondakika.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Caligula'nın yönetmeni Tinto Brass hayatını kaybetti! Ünlü sinemacı 93 yaşındaydı",
+      "normalized_title": "caligula nin yonetmeni tinto brass hayatini kaybetti unlu sinemaci 93 yasindaydi",
+      "url": "https://www.bursadabugun.com/haber/caligula-nin-yonetmeni-tinto-brass-hayatini-kaybetti-unlu-sinemaci-93-yasindaydi-1961276.html",
+      "source": "bursadabugun.com",
+      "source_role": "publisher",
+      "source_domain": "bursadabugun.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-06T14:28:41.617565+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/guncel/erotik-filmlerin-efsanesi-tinto-brass-hayatini-kaybetti-120169715",
+          "title": "Erotik filmlerin efsanesi Tinto Brass hayatını kaybetti"
+        },
+        {
+          "source": "bursadabugun.com",
+          "source_domain": "bursadabugun.com",
+          "url": "https://www.bursadabugun.com/haber/caligula-nin-yonetmeni-tinto-brass-hayatini-kaybetti-unlu-sinemaci-93-yasindaydi-1961276.html",
+          "title": "Caligula'nın yönetmeni Tinto Brass hayatını kaybetti! Ünlü sinemacı 93 yaşındaydı"
+        }
+      ],
+      "publisher_domains": [
+        "bursadabugun.com",
+        "odatv.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Uzak Şehir'e Veda Eden \"Boran\" Burç Kümbetlioğlu, Sette Unutamadığı Anı İtiraf Etti",
+      "normalized_title": "uzak sehir e veda eden boran burc kumbetlioglu sette unutamadigi ani itiraf etti",
+      "url": "https://onedio.com/haber/uzak-sehir-e-veda-eden-boran-burc-kumbetlioglu-sette-unutamadigi-ani-itiraf-etti-1393263",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.341571+00:00",
+      "collected_at": "2026-11-06T14:28:41.618451+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -525,18 +481,18 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/birakip-gitti-beni-diyen-zulal-zorlu-esi-ahmet-nazif-zorlu-nun-tabutuna-sarildi-1393311",
-          "title": "\"Bırakıp Gitti Beni\" Diyen Zülal Zorlu, Eşi Ahmet Nazif Zorlu'nun Tabutuna Sarıldı"
+          "url": "https://onedio.com/haber/uzak-sehir-e-veda-eden-boran-burc-kumbetlioglu-sette-unutamadigi-ani-itiraf-etti-1393263",
+          "title": "Uzak Şehir'e Veda Eden \"Boran\" Burç Kümbetlioğlu, Sette Unutamadığı Anı İtiraf Etti"
         },
         {
-          "source": "evrensel.net",
-          "source_domain": "evrensel.net",
-          "url": "https://www.evrensel.net/haber/6008049/ahmet-nazif-zorlu-yu-iyi-bilmezdik",
-          "title": "‘Ahmet Nazif Zorlu’yu iyi bilmezdik’"
+          "source": "gecce.com.tr",
+          "source_domain": "gecce.com.tr",
+          "url": "https://www.gecce.com.tr/haber/uzak-sehirin-borani-isyan-etti-burc-kumbetlioglundan-sasirtan-itiraf-333514.html",
+          "title": "Uzak Şehir’in Boran’ı İsyan Etti! Burç Kümbetlioğlu’ndan Şaşırtan İtiraf"
         }
       ],
       "publisher_domains": [
-        "evrensel.net",
+        "gecce.com.tr",
         "onedio.com"
       ],
       "publisher_count": 2,
@@ -552,92 +508,41 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Aslıhan Doğan Turan'dan Arda Turan itirafı: Site güvenliğini arayıp ‘Arda giremez’ demiştim; böyle olmasa belki evliliğe gitmezdi",
-      "normalized_title": "aslihan dogan turan dan arda turan itirafi site guvenligini arayip arda giremez demistim boyle olmasa belki evlilige gitmezdi",
-      "url": "https://t24.com.tr/magazin/aslihan-dogan-turandan-arda-turan-itirafi-site-guvenligini-arayip-arda-giremez-demistim-boyle-olmasa-belki-evlilige-gitmezdi,1357284",
-      "source": "t24.com.tr",
+      "title": "Halef'ten Ayrılan Aybüke Pusat, Çağatay Ulusoy'un Eşref Tek Dizisinde Kadın Başrol Oldu",
+      "normalized_title": "halef ten ayrilan aybuke pusat cagatay ulusoy un esref tek dizisinde kadin basrol oldu",
+      "url": "https://onedio.com/haber/halef-ten-ayrilan-aybuke-pusat-cagatay-ulusoy-un-esref-tek-dizisinde-kadin-basrol-oldu-1393207",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "t24.com.tr",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.342073+00:00",
+      "collected_at": "2026-11-06T14:28:41.617653+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/aslihan-dogan-turan-dan-itiraf-site-guvenligini-arayip-arda-giremez-demistim-p376383",
-          "title": "Aslıhan Doğan Turan'dan itiraf: ''Site güvenliğini arayıp 'Arda giremez' demiştim ''"
-        },
-        {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/magazin/aslihan-dogan-turandan-arda-turan-itirafi-site-guvenligini-arayip-arda-giremez-demistim-boyle-olmasa-belki-evlilige-gitmezdi,1357284",
-          "title": "Aslıhan Doğan Turan'dan Arda Turan itirafı: Site güvenliğini arayıp ‘Arda giremez’ demiştim; böyle olmasa belki evliliğe gitmezdi"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/esref-tek-te-cagatay-ulusoy-un-partneri-olan-aybuke-pusat-projeyle-ilgili-ilk-kez-konustu-1393685",
+          "title": "Eşref Tek'te Çağatay Ulusoy'un Partneri Olan Aybüke Pusat, Projeyle İlgili İlk Kez Konuştu"
         }
       ],
       "publisher_domains": [
-        "sozcu.com.tr",
-        "t24.com.tr"
+        "onedio.com"
       ],
-      "publisher_count": 2,
+      "publisher_count": 1,
       "direct_article_count": 2,
       "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 10.5,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Ünlü şarkıcı Ferhat Göçer’in cerrahlığı bırakma sebebi meğer çok başkaymış: En ufak bir hata...",
-      "normalized_title": "unlu sarkici ferhat gocer in cerrahligi birakma sebebi meger cok baskaymis en ufak bir hata",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/en-ufak-bir-hata-unlu-sarkici-ferhat-gocerin-cerrahligi-birakma-sebebi-meger-cok-baskaymis",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.342524+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/ferhat-gocer-cerrahligi-aglaya-aglaya-biraktim-3924646",
-          "title": "Ferhat Göçer: Cerrahlığı ağlaya ağlaya bıraktım"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/en-ufak-bir-hata-unlu-sarkici-ferhat-gocerin-cerrahligi-birakma-sebebi-meger-cok-baskaymis",
-          "title": "Ünlü şarkıcı Ferhat Göçer’in cerrahlığı bırakma sebebi meğer çok başkaymış: En ufak bir hata..."
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com",
-        "sabah.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
+      "coverage_label": "single_publisher"
     },
     {
       "title": "Serenay Sarıkaya Netflix'in 10. Yıl Davetinde Manifest Kızlarının Peşine Düştü: Hayran Modunda Ortaya Çıktı",
@@ -649,7 +554,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.338589+00:00",
+      "collected_at": "2026-11-06T14:28:41.616193+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -677,238 +582,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Cüneyt Arkın'ın ailesinden telif mücadelesi: 6 yapım şirketine dava açıldı",
-      "normalized_title": "cuneyt arkin in ailesinden telif mucadelesi 6 yapim sirketine dava acildi",
-      "url": "https://www.cumhuriyet.com.tr/magazin/cuneyt-arkin-in-ailesinden-telif-mucadelesi-6-yapim-sirketine-dava-acildi-2553472",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.338970+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/cuneyt-arkin-in-ailesinden-telif-mucadelesi-6-yapim-sirketine-dava-acildi-2553472",
-          "title": "Cüneyt Arkın'ın ailesinden telif mücadelesi: 6 yapım şirketine dava açıldı"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Arkın Ailesi’nden telif davası",
-      "normalized_title": "arkin ailesi nden telif davasi",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/arkin-ailesinden-telif-davasi-43366419",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.339037+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/arkin-ailesinden-telif-davasi-43366419",
-          "title": "Arkın Ailesi’nden telif davası"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ünlü isimler Netflix davetinde buluştu",
-      "normalized_title": "unlu isimler netflix davetinde bulustu",
-      "url": "https://www.haberturk.com/magazin/foto/unlu-isimler-netflix-davetinde-bulustu-3925316",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.339253+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/unlu-isimler-netflix-davetinde-bulustu-3925316",
-          "title": "Ünlü isimler Netflix davetinde buluştu"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Bahar Candan ünlülerin akın ettiği gecede kapıda kaldı",
-      "normalized_title": "bahar candan unlulerin akin ettigi gecede kapida kaldi",
-      "url": "https://www.sozcu.com.tr/bahar-candan-unlulerin-akin-ettigi-gecede-kapida-kaldi-p376544",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.339341+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/bahar-candan-unlulerin-akin-ettigi-gecede-kapida-kaldi-p376544",
-          "title": "Bahar Candan ünlülerin akın ettiği gecede kapıda kaldı"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Netflix'in 10. yıl daveti: Ünlüler geçidi yaşandı! Bahar Candan detayı olay...",
-      "normalized_title": "netflix in 10 yil daveti unluler gecidi yasandi bahar candan detayi olay",
-      "url": "https://www.internethaber.com/netflixin-10-yil-daveti-unluler-gecidi-yasandi-bahar-candan-detayi-olay-foto-galerisi-2467334.htm",
-      "source": "internethaber.com",
-      "source_role": "publisher",
-      "source_domain": "internethaber.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.339434+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "internethaber.com",
-          "source_domain": "internethaber.com",
-          "url": "https://www.internethaber.com/netflixin-10-yil-daveti-unluler-gecidi-yasandi-bahar-candan-detayi-olay-foto-galerisi-2467334.htm",
-          "title": "Netflix'in 10. yıl daveti: Ünlüler geçidi yaşandı! Bahar Candan detayı olay..."
-        }
-      ],
-      "publisher_domains": [
-        "internethaber.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Bahar Candan hazırlanıp geldi ama davete alınmadı! Kapıda kaldı - Magazin Haberleri",
-      "normalized_title": "bahar candan hazirlanip geldi ama davete alinmadi kapida kaldi magazin haberleri",
-      "url": "https://www.mynet.com/magazin/bahar-candan-hazirlanip-geldi-ama-davete-alinmadi-kapida-kaldi-130100606235",
-      "source": "mynet.com",
-      "source_role": "publisher",
-      "source_domain": "mynet.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.339518+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "mynet.com",
-          "source_domain": "mynet.com",
-          "url": "https://www.mynet.com/magazin/bahar-candan-hazirlanip-geldi-ama-davete-alinmadi-kapida-kaldi-130100606235",
-          "title": "Bahar Candan hazırlanıp geldi ama davete alınmadı! Kapıda kaldı - Magazin Haberleri"
-        }
-      ],
-      "publisher_domains": [
-        "mynet.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Dizi oyuncularına indirim.. 6 milyonluk kaşe... Tartışmaya sektör temsilcileri katıldı: 'Kabul etmeyenle çalışmayabiliriz'",
-      "normalized_title": "dizi oyuncularina indirim 6 milyonluk kase tartismaya sektor temsilcileri katildi kabul etmeyenle calismayabiliriz",
-      "url": "https://www.odatv.com/magazin/dizi-oyuncularina-indirim-hazar-erguclu-ozge-ozpirincci-ne-dedi-tartismaya-sektor-temsilcileri-katildi-kabul-etmeyenle-calismayabiliriz-120169776",
+      "title": "Netflix gecesinde ünlüler geçidi: Ajda ve Serenay'dan düet.. Fatih Terim ve Özcan Deniz ne konuştu",
+      "normalized_title": "netflix gecesinde unluler gecidi ajda ve serenay dan duet fatih terim ve ozcan deniz ne konustu",
+      "url": "https://www.odatv.com/magazin/netflix-gecesinde-unluler-gecidi-kimler-katildi-ajda-pekkan-ve-serenay-sarikayadan-duet-fatih-terim-ve-ozcan-deniz-ne-konustu-120169948",
       "source": "odatv.com",
       "source_role": "publisher",
       "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.339617+00:00",
+      "collected_at": "2026-11-06T14:28:41.616337+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -916,8 +599,8 @@
         {
           "source": "odatv.com",
           "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/magazin/dizi-oyuncularina-indirim-hazar-erguclu-ozge-ozpirincci-ne-dedi-tartismaya-sektor-temsilcileri-katildi-kabul-etmeyenle-calismayabiliriz-120169776",
-          "title": "Dizi oyuncularına indirim.. 6 milyonluk kaşe... Tartışmaya sektör temsilcileri katıldı: 'Kabul etmeyenle çalışmayabiliriz'"
+          "url": "https://www.odatv.com/magazin/netflix-gecesinde-unluler-gecidi-kimler-katildi-ajda-pekkan-ve-serenay-sarikayadan-duet-fatih-terim-ve-ozcan-deniz-ne-konustu-120169948",
+          "title": "Netflix gecesinde ünlüler geçidi: Ajda ve Serenay'dan düet.. Fatih Terim ve Özcan Deniz ne konuştu"
         }
       ],
       "publisher_domains": [
@@ -936,16 +619,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Sektör bunu konuşuyor... Taşın altına elini kim koyacak?",
-      "normalized_title": "sektor bunu konusuyor tasin altina elini kim koyacak",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/sektor-bunu-konusuyor-tasin-altina-elini-kim-koyacak-43366423",
+      "title": "Killa Hakan yoğun bakımda... 'Uyutuluyor, onun için dua edin'",
+      "normalized_title": "killa hakan yogun bakimda uyutuluyor onun icin dua edin",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/killa-hakan-yogun-bakimda-uyutuluyor-onun-icin-dua-edin-43368041",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.339694+00:00",
+      "collected_at": "2026-11-06T14:28:41.616474+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -953,8 +636,8 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/sektor-bunu-konusuyor-tasin-altina-elini-kim-koyacak-43366423",
-          "title": "Sektör bunu konuşuyor... Taşın altına elini kim koyacak?"
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/killa-hakan-yogun-bakimda-uyutuluyor-onun-icin-dua-edin-43368041",
+          "title": "Killa Hakan yoğun bakımda... 'Uyutuluyor, onun için dua edin'"
         }
       ],
       "publisher_domains": [
@@ -973,53 +656,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Dizi sektöründe kriz büyüyor: Kimi indirime karşı çıktı, kimi çözümü sorguladı",
-      "normalized_title": "dizi sektorunde kriz buyuyor kimi indirime karsi cikti kimi cozumu sorguladi",
-      "url": "https://www.sozcu.com.tr/milyonlari-kazanan-oyuncular-ucret-indirimine-karsi-cikti-p375975",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.339777+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/milyonlari-kazanan-oyuncular-ucret-indirimine-karsi-cikti-p375975",
-          "title": "Dizi sektöründe kriz büyüyor: Kimi indirime karşı çıktı, kimi çözümü sorguladı"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Dizi Sektöründe Kriz Büyüyor: Sence Asıl Sorun Ne, Nasıl Çözülür?",
-      "normalized_title": "dizi sektorunde kriz buyuyor sence asil sorun ne nasil cozulur",
-      "url": "https://onedio.com/haber/dizi-sektorunde-kriz-buyuyor-sence-asil-sorun-ne-nasil-cozulur-1393534",
+      "title": "Doktorlar Tarafından Bilinçli Olarak Uyutuluyor: Killa Hakan'ın Avukatından Umutlandıran Son Durum Açıklaması!",
+      "normalized_title": "doktorlar tarafindan bilincli olarak uyutuluyor killa hakan in avukatindan umutlandiran son durum aciklamasi",
+      "url": "https://onedio.com/haber/doktorlar-tarafindan-bilincli-olarak-uyutuluyor-killa-hakan-in-ekibinden-son-durumuna-dair-aciklama-1393636",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.339853+00:00",
+      "collected_at": "2026-11-06T14:28:41.616531+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1027,8 +673,8 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/dizi-sektorunde-kriz-buyuyor-sence-asil-sorun-ne-nasil-cozulur-1393534",
-          "title": "Dizi Sektöründe Kriz Büyüyor: Sence Asıl Sorun Ne, Nasıl Çözülür?"
+          "url": "https://onedio.com/haber/doktorlar-tarafindan-bilincli-olarak-uyutuluyor-killa-hakan-in-ekibinden-son-durumuna-dair-aciklama-1393636",
+          "title": "Doktorlar Tarafından Bilinçli Olarak Uyutuluyor: Killa Hakan'ın Avukatından Umutlandıran Son Durum Açıklaması!"
         }
       ],
       "publisher_domains": [
@@ -1047,103 +693,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Zülfü Livaneli bahçesindeki ağaçları tanıttı... Hepsine bir şair adı verdi",
-      "normalized_title": "zulfu livaneli bahcesindeki agaclari tanitti hepsine bir sair adi verdi",
-      "url": "https://www.odatv.com/kultur-sanat/zulfu-livaneli-bahcesindeki-agaclari-tanitti-hepsine-bir-sair-adi-verdi-120169929",
-      "source": "odatv.com",
+      "title": "Cüneyt Arkın'ın Ailesi Filmleri İçin 6 Şirkete Dava Açtı: Dilekçede Gelir İddiası Var",
+      "normalized_title": "cuneyt arkin in ailesi filmleri icin 6 sirkete dava acti dilekcede gelir iddiasi var",
+      "url": "https://onedio.com/haber/cuneyt-arkin-in-ailesi-filmleri-icin-6-sirkete-dava-acti-dilekcede-gelir-iddiasi-var-1393536",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "odatv.com",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.339939+00:00",
+      "collected_at": "2026-11-06T14:28:41.616656+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/kultur-sanat/zulfu-livaneli-bahcesindeki-agaclari-tanitti-hepsine-bir-sair-adi-verdi-120169929",
-          "title": "Zülfü Livaneli bahçesindeki ağaçları tanıttı... Hepsine bir şair adı verdi"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/cuneyt-arkin-in-ailesi-filmleri-icin-6-sirkete-dava-acti-dilekcede-gelir-iddiasi-var-1393536",
+          "title": "Cüneyt Arkın'ın Ailesi Filmleri İçin 6 Şirkete Dava Açtı: Dilekçede Gelir İddiası Var"
         }
       ],
       "publisher_domains": [
-        "odatv.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yetişkin filmlerinin dünyaca ünlü yönetmeni hayatını kaybetti!",
-      "normalized_title": "yetiskin filmlerinin dunyaca unlu yonetmeni hayatini kaybetti",
-      "url": "https://www.yenialanya.com/yetiskin-filmlerinin-dunyaca-unlu-yonetmeni-hayatini-kaybetti",
-      "source": "yenialanya.com",
-      "source_role": "publisher",
-      "source_domain": "yenialanya.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.340156+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yenialanya.com",
-          "source_domain": "yenialanya.com",
-          "url": "https://www.yenialanya.com/yetiskin-filmlerinin-dunyaca-unlu-yonetmeni-hayatini-kaybetti",
-          "title": "Yetişkin filmlerinin dünyaca ünlü yönetmeni hayatını kaybetti!"
-        }
-      ],
-      "publisher_domains": [
-        "yenialanya.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Caligula'nın yönetmeni Tinto Brass hayatını kaybetti! Ünlü sinemacı 93 yaşındaydı",
-      "normalized_title": "caligula nin yonetmeni tinto brass hayatini kaybetti unlu sinemaci 93 yasindaydi",
-      "url": "https://www.bursadabugun.com/haber/caligula-nin-yonetmeni-tinto-brass-hayatini-kaybetti-unlu-sinemaci-93-yasindaydi-1961276.html",
-      "source": "bursadabugun.com",
-      "source_role": "publisher",
-      "source_domain": "bursadabugun.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.340239+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "bursadabugun.com",
-          "source_domain": "bursadabugun.com",
-          "url": "https://www.bursadabugun.com/haber/caligula-nin-yonetmeni-tinto-brass-hayatini-kaybetti-unlu-sinemaci-93-yasindaydi-1961276.html",
-          "title": "Caligula'nın yönetmeni Tinto Brass hayatını kaybetti! Ünlü sinemacı 93 yaşındaydı"
-        }
-      ],
-      "publisher_domains": [
-        "bursadabugun.com"
+        "onedio.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1167,7 +739,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.340304+00:00",
+      "collected_at": "2026-11-06T14:28:41.616790+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1195,53 +767,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Killa Hakan'ın sağlık durumuyla ilgili açıklama",
-      "normalized_title": "killa hakan in saglik durumuyla ilgili aciklama",
-      "url": "https://www.haberturk.com/magazin/killa-hakan-in-saglik-durumuyla-ilgili-aciklama-3925241",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.340684+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/killa-hakan-in-saglik-durumuyla-ilgili-aciklama-3925241",
-          "title": "Killa Hakan'ın sağlık durumuyla ilgili açıklama"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Doktorlar Tarafından Bilinçli Olarak Uyutuluyor: Killa Hakan'ın Ekibinden Son Durumuna Dair Açıklama!",
-      "normalized_title": "doktorlar tarafindan bilincli olarak uyutuluyor killa hakan in ekibinden son durumuna dair aciklama",
-      "url": "https://onedio.com/haber/doktorlar-tarafindan-bilincli-olarak-uyutuluyor-killa-hakan-in-ekibinden-son-durumuna-dair-aciklama-1393636",
+      "title": "Ünlü Oyuncunun Çikolata Markasının Fiyatları Dikkat Çekti: Bir Kutusu 4 Bin 125 TL!",
+      "normalized_title": "unlu oyuncunun cikolata markasinin fiyatlari dikkat cekti bir kutusu 4 bin 125 tl",
+      "url": "https://onedio.com/haber/unlu-oyuncunun-cikolata-markasinin-fiyatlari-dikkat-cekti-bir-kutusu-4-bin-125-tl-1393742",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.340774+00:00",
+      "collected_at": "2026-11-06T14:28:41.616834+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1249,8 +784,8 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/doktorlar-tarafindan-bilincli-olarak-uyutuluyor-killa-hakan-in-ekibinden-son-durumuna-dair-aciklama-1393636",
-          "title": "Doktorlar Tarafından Bilinçli Olarak Uyutuluyor: Killa Hakan'ın Ekibinden Son Durumuna Dair Açıklama!"
+          "url": "https://onedio.com/haber/unlu-oyuncunun-cikolata-markasinin-fiyatlari-dikkat-cekti-bir-kutusu-4-bin-125-tl-1393742",
+          "title": "Ünlü Oyuncunun Çikolata Markasının Fiyatları Dikkat Çekti: Bir Kutusu 4 Bin 125 TL!"
         }
       ],
       "publisher_domains": [
@@ -1269,29 +804,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Dostları dua istedi",
-      "normalized_title": "dostlari dua istedi",
-      "url": "https://www.sabah.com.tr/magazin/dostlari-dua-istedi-7695057",
-      "source": "sabah.com.tr",
+      "title": "Ünlü oyuncu çikolata dükkanı açtı: Bir kutusunu 4 bin 125 liradan satıyor",
+      "normalized_title": "unlu oyuncu cikolata dukkani acti bir kutusunu 4 bin 125 liradan satiyor",
+      "url": "https://www.sozcu.com.tr/unlu-oyuncu-cikolataci-oldu-bir-kutusunu-4-bin-125-liradan-satiyor-p376633",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.340826+00:00",
+      "collected_at": "2026-11-06T14:28:41.616877+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/dostlari-dua-istedi-7695057",
-          "title": "Dostları dua istedi"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/unlu-oyuncu-cikolataci-oldu-bir-kutusunu-4-bin-125-liradan-satiyor-p376633",
+          "title": "Ünlü oyuncu çikolata dükkanı açtı: Bir kutusunu 4 bin 125 liradan satıyor"
         }
       ],
       "publisher_domains": [
-        "sabah.com.tr"
+        "sozcu.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1306,29 +841,473 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Yoğun bakımdaki Killa Hakan'ın son durumu. Avukatından yeni açıklama",
-      "normalized_title": "yogun bakimdaki killa hakan in son durumu avukatindan yeni aciklama",
-      "url": "https://www.ntv.com.tr/yasam/galeri-yogun-bakimdaki-killa-hakanin-son-durumu-avukatindan-yeni-aciklama-1749610",
-      "source": "ntv.com.tr",
+      "title": "Rojda Demirer'in yeni mesleği şaşırttı! Bir çikolatanın fiyatı dudak uçuklattı!",
+      "normalized_title": "rojda demirer in yeni meslegi sasirtti bir cikolatanin fiyati dudak ucuklatti",
+      "url": "https://www.yasemin.com/foto-galeri/83992-rojda-demirerin-yeni-meslegi-sasirtti-bir-cikolatanin-fiyati-dudak-ucuklatti",
+      "source": "yasemin.com",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "yasemin.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-06T09:01:22.340900+00:00",
+      "collected_at": "2026-11-06T14:28:41.616919+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-yogun-bakimdaki-killa-hakanin-son-durumu-avukatindan-yeni-aciklama-1749610",
-          "title": "Yoğun bakımdaki Killa Hakan'ın son durumu. Avukatından yeni açıklama"
+          "source": "yasemin.com",
+          "source_domain": "yasemin.com",
+          "url": "https://www.yasemin.com/foto-galeri/83992-rojda-demirerin-yeni-meslegi-sasirtti-bir-cikolatanin-fiyati-dudak-ucuklatti",
+          "title": "Rojda Demirer'in yeni mesleği şaşırttı! Bir çikolatanın fiyatı dudak uçuklattı!"
         }
       ],
       "publisher_domains": [
-        "ntv.com.tr"
+        "yasemin.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ünlü oyuncu Rojda Demirer'in çikolata mağazasındaki tek bir çikolata 85 TL",
+      "normalized_title": "unlu oyuncu rojda demirer in cikolata magazasindaki tek bir cikolata 85 tl",
+      "url": "https://www.yenicaggazetesi.com/unlu-oyuncu-rojda-demirerin-cikolata-magazasindaki-tek-bir-cikolata-85-tl-1088689h.htm",
+      "source": "yenicaggazetesi.com",
+      "source_role": "publisher",
+      "source_domain": "yenicaggazetesi.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-06T14:28:41.616960+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yenicaggazetesi.com",
+          "source_domain": "yenicaggazetesi.com",
+          "url": "https://www.yenicaggazetesi.com/unlu-oyuncu-rojda-demirerin-cikolata-magazasindaki-tek-bir-cikolata-85-tl-1088689h.htm",
+          "title": "Ünlü oyuncu Rojda Demirer'in çikolata mağazasındaki tek bir çikolata 85 TL"
+        }
+      ],
+      "publisher_domains": [
+        "yenicaggazetesi.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "76 yaşındaki oyuncu Morgan Fairchild OnlyFans hesabı açtı",
+      "normalized_title": "76 yasindaki oyuncu morgan fairchild onlyfans hesabi acti",
+      "url": "https://www.milliyet.com.tr/magazin/galeri/76-yasindaki-oyuncu-morgan-fairchild-onlyfans-hesabi-acti-7695578",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-06T14:28:41.617070+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/76-yasindaki-oyuncu-morgan-fairchild-onlyfans-hesabi-acti-7695578",
+          "title": "76 yaşındaki oyuncu Morgan Fairchild OnlyFans hesabı açtı"
+        }
+      ],
+      "publisher_domains": [
+        "milliyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Morgan Fairchild kimdir? Friends'teki Chandler'ın annesi 76 yaşında OnlyFans'a katıldı",
+      "normalized_title": "morgan fairchild kimdir friends teki chandler in annesi 76 yasinda onlyfans a katildi",
+      "url": "https://www.haberler.com/haber/morgan-fairchild-kimdir-friendsteki-chandlerin-20402030-haberi/",
+      "source": "haberler.com",
+      "source_role": "publisher",
+      "source_domain": "haberler.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-06T14:28:41.617113+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/haber/morgan-fairchild-kimdir-friendsteki-chandlerin-20402030-haberi/",
+          "title": "Morgan Fairchild kimdir? Friends'teki Chandler'ın annesi 76 yaşında OnlyFans'a katıldı"
+        }
+      ],
+      "publisher_domains": [
+        "haberler.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Cem Yılmaz'a Gizemli Sarışın Soruldu: Özel Hayat Sorusunda Muhabiri Tek Cümleyle Ters Köşe Yaptı!",
+      "normalized_title": "cem yilmaz a gizemli sarisin soruldu ozel hayat sorusunda muhabiri tek cumleyle ters kose yapti",
+      "url": "https://onedio.com/haber/cem-yilmaz-a-gizemli-sarisin-soruldu-ozel-hayat-sorusunda-muhabiri-tek-cumleyle-ters-kose-yapti-1393638",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-06T14:28:41.617159+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/cem-yilmaz-a-gizemli-sarisin-soruldu-ozel-hayat-sorusunda-muhabiri-tek-cumleyle-ters-kose-yapti-1393638",
+          "title": "Cem Yılmaz'a Gizemli Sarışın Soruldu: Özel Hayat Sorusunda Muhabiri Tek Cümleyle Ters Köşe Yaptı!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Cem Yılmaz'ın aşk açıklaması güldürdü: Doktorunu işin içine kattı!",
+      "normalized_title": "cem yilmaz in ask aciklamasi guldurdu doktorunu isin icine katti",
+      "url": "https://www.ahaber.com.tr/galeri/magazin/cem-yilmazdan-gulduren-iliski-aciklamasi",
+      "source": "ahaber.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ahaber.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-06T14:28:41.617197+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ahaber.com.tr",
+          "source_domain": "ahaber.com.tr",
+          "url": "https://www.ahaber.com.tr/galeri/magazin/cem-yilmazdan-gulduren-iliski-aciklamasi",
+          "title": "Cem Yılmaz'ın aşk açıklaması güldürdü: Doktorunu işin içine kattı!"
+        }
+      ],
+      "publisher_domains": [
+        "ahaber.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ünlü isimler Netflix davetinde buluştu",
+      "normalized_title": "unlu isimler netflix davetinde bulustu",
+      "url": "https://www.haberturk.com/magazin/foto/unlu-isimler-netflix-davetinde-bulustu-3925316",
+      "source": "haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-06T14:28:41.617301+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/unlu-isimler-netflix-davetinde-bulustu-3925316",
+          "title": "Ünlü isimler Netflix davetinde buluştu"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Kırmızı Halı Alarmı: Netflix'in 10. Yıl Gecesine Katılan Ünlülerin Şık ve Rüküşlerini Seçiyoruz!",
+      "normalized_title": "kirmizi hali alarmi netflix in 10 yil gecesine katilan unlulerin sik ve rukuslerini seciyoruz",
+      "url": "https://onedio.com/haber/kirmizi-hali-alarmi-netflix-in-10-yil-gecesine-katilan-unlulerin-sik-ve-rukuslerini-seciyoruz-1393681",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-06T14:28:41.617347+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/kirmizi-hali-alarmi-netflix-in-10-yil-gecesine-katilan-unlulerin-sik-ve-rukuslerini-seciyoruz-1393681",
+          "title": "Kırmızı Halı Alarmı: Netflix'in 10. Yıl Gecesine Katılan Ünlülerin Şık ve Rüküşlerini Seçiyoruz!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Bahar Candan ünlülerin akın ettiği gecede kapıda kaldı",
+      "normalized_title": "bahar candan unlulerin akin ettigi gecede kapida kaldi",
+      "url": "https://www.sozcu.com.tr/bahar-candan-unlulerin-akin-ettigi-gecede-kapida-kaldi-p376544",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-06T14:28:41.617381+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/bahar-candan-unlulerin-akin-ettigi-gecede-kapida-kaldi-p376544",
+          "title": "Bahar Candan ünlülerin akın ettiği gecede kapıda kaldı"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Bahar Candan'a soğuk duş! 'İçeride arkadaşlarım var' dedi, kapıda kaldı",
+      "normalized_title": "bahar candan a soguk dus iceride arkadaslarim var dedi kapida kaldi",
+      "url": "https://www.milliyet.com.tr/magazin/galeri/bahar-candana-soguk-dus-iceride-arkadaslarim-var-dedi-kapida-kaldi-7695481",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-06T14:28:41.617420+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/bahar-candana-soguk-dus-iceride-arkadaslarim-var-dedi-kapida-kaldi-7695481",
+          "title": "Bahar Candan'a soğuk duş! 'İçeride arkadaşlarım var' dedi, kapıda kaldı"
+        }
+      ],
+      "publisher_domains": [
+        "milliyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Dünyaca ünlü İtalyan yönetmen Tinto Brass yaşamını yitirdi",
+      "normalized_title": "dunyaca unlu italyan yonetmen tinto brass yasamini yitirdi",
+      "url": "https://www.sozcu.com.tr/tinto-brass-hayatini-kaybetti-p376100",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-06T14:28:41.617488+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/tinto-brass-hayatini-kaybetti-p376100",
+          "title": "Dünyaca ünlü İtalyan yönetmen Tinto Brass yaşamını yitirdi"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Yetişkin filmlerinin dünyaca ünlü yönetmeni hayatını kaybetti!",
+      "normalized_title": "yetiskin filmlerinin dunyaca unlu yonetmeni hayatini kaybetti",
+      "url": "https://www.yenialanya.com/yetiskin-filmlerinin-dunyaca-unlu-yonetmeni-hayatini-kaybetti",
+      "source": "yenialanya.com",
+      "source_role": "publisher",
+      "source_domain": "yenialanya.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-06T14:28:41.617522+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yenialanya.com",
+          "source_domain": "yenialanya.com",
+          "url": "https://www.yenialanya.com/yetiskin-filmlerinin-dunyaca-unlu-yonetmeni-hayatini-kaybetti",
+          "title": "Yetişkin filmlerinin dünyaca ünlü yönetmeni hayatını kaybetti!"
+        }
+      ],
+      "publisher_domains": [
+        "yenialanya.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Herkes Demet Özdemir'i bekliyordu: Eşref Tek'te Çağatay Ulusoy'un partneri belli oldu",
+      "normalized_title": "herkes demet ozdemir i bekliyordu esref tek te cagatay ulusoy un partneri belli oldu",
+      "url": "https://www.sozcu.com.tr/herkes-demet-ozdemir-i-bekliyordu-esref-tek-te-cagatay-ulusoy-un-partneri-belli-oldu-p376002",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-06T14:28:41.617694+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/herkes-demet-ozdemir-i-bekliyordu-esref-tek-te-cagatay-ulusoy-un-partneri-belli-oldu-p376002",
+          "title": "Herkes Demet Özdemir'i bekliyordu: Eşref Tek'te Çağatay Ulusoy'un partneri belli oldu"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
