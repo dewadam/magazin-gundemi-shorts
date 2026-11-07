@@ -1,39 +1,133 @@
 {
-  "generated_at": "2026-11-07T08:30:20.147820+00:00",
+  "generated_at": "2026-11-07T13:23:37.643758+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
-      "title": "Beraat sonrası sessizliğini bozdu: Ela Rümeysa Cebeci’den Mehmet Akif Ersoy açıklaması",
-      "normalized_title": "beraat sonrasi sessizligini bozdu ela rumeysa cebeci den mehmet akif ersoy aciklamasi",
-      "url": "https://www.cumhuriyet.com.tr/turkiye/beraat-sonrasi-sessizligini-bozdu-ela-rumeysa-cebeci-den-mehmet-akif-ersoy-aciklamasi-2554073",
-      "source": "cumhuriyet.com.tr",
+      "title": "Melisa Döngel hayalini açıkladı: Artık aşık olmak ve evlenmek istiyorum",
+      "normalized_title": "melisa dongel hayalini acikladi artik asik olmak ve evlenmek istiyorum",
+      "url": "https://www.odatv.com/magazin/melisa-dongel-hayalini-acikladi-artik-asik-olmak-ve-evlenmek-istiyorum-120170125",
+      "source": "odatv.com",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-07T08:29:42.531835+00:00",
+      "collected_at": "2026-11-07T13:22:59.640141+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/ela-rumeysa-cebeci-mehmet-akif-ersoy-iddialarina-ates-puskurdu-1393838",
-          "title": "Ela Rümeysa Cebeci, Mehmet Akif Ersoy İddialarına Ateş Püskürdü"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/melisa-dongel-evlenmek-ve-anne-olmak-istiyorum-3925553",
+          "title": "Melisa Döngel: Evlenmek ve anne olmak istiyorum"
         },
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/turkiye/beraat-sonrasi-sessizligini-bozdu-ela-rumeysa-cebeci-den-mehmet-akif-ersoy-aciklamasi-2554073",
-          "title": "Beraat sonrası sessizliğini bozdu: Ela Rümeysa Cebeci’den Mehmet Akif Ersoy açıklaması"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/melisa-dongel-hayalini-acikladi-artik-asik-olmak-ve-evlenmek-istiyorum-120170125",
+          "title": "Melisa Döngel hayalini açıkladı: Artık aşık olmak ve evlenmek istiyorum"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/evlenmek-ve-anne-olmak-istiyorum-7696068",
+          "title": "‘Evlenmek ve anne olmak istiyorum’"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
+        "haberturk.com",
+        "milliyet.com.tr",
+        "odatv.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": false,
+        "http_status": 403,
+        "page_title": "",
+        "og_title": "",
+        "description": "",
+        "error": "HTTP 403"
+      },
+      "independent_source_matches": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "title": "Melisa Döngel: Evlenmek ve anne olmak istiyorum",
+          "summary": "",
+          "url": "https://www.haberturk.com/magazin/melisa-dongel-evlenmek-ve-anne-olmak-istiyorum-3925553",
+          "match_score": 0.64,
+          "shared_keywords": [
+            "dongel",
+            "evlenmek",
+            "istiyorum",
+            "melisa",
+            "olmak"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "title": "‘Evlenmek ve anne olmak istiyorum’",
+          "summary": "",
+          "url": "https://www.milliyet.com.tr/magazin/evlenmek-ve-anne-olmak-istiyorum-7696068",
+          "match_score": 0.55,
+          "shared_keywords": [
+            "evlenmek",
+            "istiyorum",
+            "olmak"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Friends'in Yıldızı Morgan Fairchild 76 Yaşında OnlyFans Hesabı Açtı!",
+      "normalized_title": "friends in yildizi morgan fairchild 76 yasinda onlyfans hesabi acti",
+      "url": "https://onedio.com/haber/friends-in-yildizi-morgan-fairchild-76-yasinda-onlyfans-hesabi-acti-1393735",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-07T13:22:59.642272+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/76-yasindaki-oyuncu-morgan-fairchild-onlyfans-hesabi-acti-7695578",
+          "title": "76 yaşındaki oyuncu Morgan Fairchild OnlyFans hesabı açtı"
+        },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/friends-in-yildizi-morgan-fairchild-76-yasinda-onlyfans-hesabi-acti-1393735",
+          "title": "Friends'in Yıldızı Morgan Fairchild 76 Yaşında OnlyFans Hesabı Açtı!"
+        }
+      ],
+      "publisher_domains": [
+        "milliyet.com.tr",
         "onedio.com"
       ],
       "publisher_count": 2,
@@ -50,26 +144,25 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Beraat sonrası sessizliğini bozdu: Ela Rümeysa Cebeci’den Mehmet Akif Ersoy açıklaması - Son Dakika Türkiye Haberleri | Cumhuriyet",
-        "og_title": "Beraat sonrası sessizliğini bozdu: Ela Rümeysa Cebeci’den Mehmet Akif Ersoy açıklaması",
-        "description": "Sadettin Saran ile birlikte yargılandığı davada beraat eden spiker Ela Rümeysa Cebeci, Mehmet Akif Ersoy ile arasında yakınlık bulunduğu yönündeki iddiaları reddetti. Ersoy’la yalnızca aynı iş yerinde çalıştığını belirten Cebeci, hakkında gerçeğe aykırı haber yapan yayıncılar hakkında hukuki yollara başvuracağını duyurdu.",
+        "page_title": "Morgan Fairchild 76 Yaşında OnlyFans Hesabı Açtı - Onedio",
+        "og_title": "Friends'in Yıldızı Morgan Fairchild 76 Yaşında OnlyFans Hesabı Açtı!",
+        "description": "Friends'te Chandler'ın annesini canlandıran Morgan Fairchild, 76 yaşında OnlyFans'e katıldı. Ünlü oyuncu paylaşacağı içerikleri de açıkladı.",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "title": "Ela Rümeysa Cebeci, Mehmet Akif Ersoy İddialarına Ateş Püskürdü",
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "title": "76 yaşındaki oyuncu Morgan Fairchild OnlyFans hesabı açtı",
           "summary": "",
-          "url": "https://onedio.com/haber/ela-rumeysa-cebeci-mehmet-akif-ersoy-iddialarina-ates-puskurdu-1393838",
-          "match_score": 0.52,
+          "url": "https://www.milliyet.com.tr/magazin/galeri/76-yasindaki-oyuncu-morgan-fairchild-onlyfans-hesabi-acti-7695578",
+          "match_score": 0.64,
           "shared_keywords": [
-            "akif",
-            "cebeci",
-            "ela",
-            "ersoy",
-            "mehmet",
-            "rumeysa"
+            "act",
+            "fairchild",
+            "hesab",
+            "morgan",
+            "onlyfans"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
@@ -78,146 +171,50 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Oyuncu Yeşim Gül'ün acı günü: Hayat arkadaşı Gökhan Suar yaşamını yitirdi",
-      "normalized_title": "oyuncu yesim gul un aci gunu hayat arkadasi gokhan suar yasamini yitirdi",
-      "url": "https://www.cumhuriyet.com.tr/magazin/oyuncu-yesim-gul-un-aci-gunu-hayat-arkadasi-gokhan-suar-yasamini-yitirdi-2554080",
-      "source": "cumhuriyet.com.tr",
+      "title": "Ünlü yönetmen evinde ölü bulundu",
+      "normalized_title": "unlu yonetmen evinde olu bulundu",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-yonetmen-evinde-olu-bulundu-43369554",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-07T08:29:42.531998+00:00",
+      "collected_at": "2026-11-07T13:22:59.638679+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/oyuncu-yesim-gul-un-aci-gunu-hayat-arkadasi-gokhan-suar-yasamini-yitirdi-2554080",
-          "title": "Oyuncu Yeşim Gül'ün acı günü: Hayat arkadaşı Gökhan Suar yaşamını yitirdi"
-        },
-        {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/yesim-gulun-aci-gunu-hayat-arkadasini-kaybetti-43369081",
-          "title": "Yeşim Gül'ün acı günü... Hayat arkadaşını kaybetti"
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-yonetmen-evinde-olu-bulundu-43369554",
+          "title": "Ünlü yönetmen evinde ölü bulundu"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
         "hurriyet.com.tr"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 10.0,
       "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "verification_status": "source_page_reachable_no_second_source_match",
       "publication_approved": false,
-      "coverage_label": "multi_publisher",
+      "coverage_label": "single_publisher",
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Oyuncu Yeşim Gül'ün acı günü: Hayat arkadaşı Gökhan Suar yaşamını yitirdi - Son Dakika Magazin Haberleri | Cumhuriyet",
-        "og_title": "Oyuncu Yeşim Gül'ün acı günü: Hayat arkadaşı Gökhan Suar yaşamını yitirdi",
-        "description": "Bir süredir hastanede tedavi gören ve entübe edildiği bilinen oyuncu Yeşim Gül’ün hayat arkadaşı Gökhan Suar, doktorların tüm müdahalelerine rağmen kurtarılamadı. Suar, bugün ikindi namazına müteakip Ankara Karşıyaka Mezarlığı'nda son yolculuğuna uğurlanacak.",
+        "page_title": "Ünlü yönetmen evinde ölü bulundu - Televizyon Haberleri",
+        "og_title": "Ünlü yönetmen evinde ölü bulundu",
+        "description": "Sinema dünyasından acı bir haber geldi...",
         "error": null
       },
-      "independent_source_matches": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "title": "Yeşim Gül'ün acı günü... Hayat arkadaşını kaybetti",
-          "summary": "",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/yesim-gulun-aci-gunu-hayat-arkadasini-kaybetti-43369081",
-          "match_score": 0.61,
-          "shared_keywords": [
-            "arkadas",
-            "gul",
-            "gunu",
-            "yesim"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "'‘Bir ayağı çukurda’ deyip sonra bastonla yürüyorlar!'' Cem Yılmaz'dan Nurgül Yeşilçay'ın gündem olan sözlerine yanıt!",
-      "normalized_title": "bir ayagi cukurda deyip sonra bastonla yuruyorlar cem yilmaz dan nurgul yesilcay in gundem olan sozlerine yanit",
-      "url": "https://www.cnnturk.com/magazin/galeri/bir-ayagi-cukurda-deyip-sonra-bastonla-yuruyorlar-cem-yilmazdan-nurgul-yesilcayin-gundem-olan-sozlerine-yanit-3490053",
-      "source": "cnnturk.com",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-07T08:29:42.532407+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/nurgul-yesilcay-in-baston-gondermesine-cem-yilmaz-dan-yanit-geldi-1393789",
-          "title": "Nurgül Yeşilçay'ın “Baston” Göndermesine Cem Yılmaz'dan Yanıt Geldi!"
-        },
-        {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/bir-ayagi-cukurda-deyip-sonra-bastonla-yuruyorlar-cem-yilmazdan-nurgul-yesilcayin-gundem-olan-sozlerine-yanit-3490053",
-          "title": "'‘Bir ayağı çukurda’ deyip sonra bastonla yürüyorlar!'' Cem Yılmaz'dan Nurgül Yeşilçay'ın gündem olan sözlerine yanıt!"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com",
-        "onedio.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "'Bir ayağı çukurda deyip sonra bastonla yürüyorlar!'' Cem Yılmaz'dan Nurgül Yeşilçay'ın gündem olan sözlerine yanıt! - Magazin Haberleri",
-        "og_title": "'Bir ayağı çukurda deyip sonra bastonla yürüyorlar!'' Cem Yılmaz'dan Nurgül Yeşilçay'ın gündem olan sözlerine yanıt! - Son Dakika Magazin Haberleri",
-        "description": "Magazin Haberleri - Nurgül Yeşilçay, Hakan Gencenin YouTube programında dikkat çeken bir açıklamada bulunmuştu. Orta yaştaki erkek oyuncuların genç...",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "title": "Nurgül Yeşilçay'ın “Baston” Göndermesine Cem Yılmaz'dan Yanıt Geldi!",
-          "summary": "",
-          "url": "https://onedio.com/haber/nurgul-yesilcay-in-baston-gondermesine-cem-yilmaz-dan-yanit-geldi-1393789",
-          "match_score": 0.48,
-          "shared_keywords": [
-            "cem",
-            "lmaz",
-            "nurgul",
-            "yan",
-            "yesilcay"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
+      "independent_source_matches": [],
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     }
   ]
