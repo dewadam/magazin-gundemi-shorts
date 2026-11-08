@@ -1,12 +1,167 @@
 {
-  "generated_at": "2026-11-08T08:44:06.264184+00:00",
+  "generated_at": "2026-11-08T13:43:59.593004+00:00",
   "candidate_count": 100,
-  "event_group_count": 48,
-  "multi_publisher_event_count": 9,
+  "event_group_count": 42,
+  "multi_publisher_event_count": 13,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
+    {
+      "title": "\"Bence 1 Numara Benim\" Diyen Serdar Ortaç, Tarkan'ı Kendinden Sonra Sıraladı",
+      "normalized_title": "bence 1 numara benim diyen serdar ortac tarkan i kendinden sonra siraladi",
+      "url": "https://onedio.com/haber/bence-1-numara-benim-diyen-serdar-ortac-tarkan-i-kendinden-sonra-siraladi-1393927",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-08T13:43:24.157023+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/bence-1-numara-benim-diyen-serdar-ortac-tarkan-i-kendinden-sonra-siraladi-1393927",
+          "title": "\"Bence 1 Numara Benim\" Diyen Serdar Ortaç, Tarkan'ı Kendinden Sonra Sıraladı"
+        },
+        {
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/magazin/haber-serdar-ortactan-tarkana-olay-sozler-bir-numara-20406934/",
+          "title": "Serdar Ortaç'tan Tarkan'a olay sözler: Bir numara benim!"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/serdar-ortactan-tarkana-olay-gonderme-bence-1-numara-benim-7696586",
+          "title": "Serdar Ortaç'tan Tarkan'a olay gönderme! ‘Bence 1 numara benim’"
+        }
+      ],
+      "publisher_domains": [
+        "milliyet.com.tr",
+        "onedio.com",
+        "sondakika.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Ahmet Selçuk İlkan'dan Coşkun Sabah'ın 'Emek hırsızı' iddiasına yanıt: Ben şiirle o polemiklerle anılıyor",
+      "normalized_title": "ahmet selcuk ilkan dan coskun sabah in emek hirsizi iddiasina yanit ben siirle o polemiklerle aniliyor",
+      "url": "https://www.milliyet.com.tr/magazin/ahmet-selcuk-ilkandan-coskun-sabahin-emek-hirsizi-iddiasina-yanit-ben-siirle-o-polemiklerle-aniliyor-7692641",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-08T13:43:24.159060+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/ahmet-selcuk-ilkandan-coskun-sabaha-onu-meshur-eden-sarkilarini-ben-yaptim-3487865",
+          "title": "Ahmet Selçuk İlkan'dan Coşkun Sabah'a: Onu Meşhur Eden Şarkılarını Ben Yaptım"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/ahmet-selcuk-ilkandan-coskun-sabahin-emek-hirsizi-iddiasina-yanit-ben-siirle-o-polemiklerle-aniliyor-7692641",
+          "title": "Ahmet Selçuk İlkan'dan Coşkun Sabah'ın 'Emek hırsızı' iddiasına yanıt: Ben şiirle o polemiklerle anılıyor"
+        },
+        {
+          "source": "yeniakit.com.tr",
+          "source_domain": "yeniakit.com.tr",
+          "url": "https://www.yeniakit.com.tr/foto-galeri/ahmet-selcuk-ilkandan-coskun-sabaha-yanit-emek-hirsizi-acti-agzini-yumdu-gozunu-182867",
+          "title": "Ahmet Selçuk İlkan'dan Coşkun Sabah'a yanıt: Emek hırsızı... Açtı ağzını yumdu gözünü"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com",
+        "milliyet.com.tr",
+        "yeniakit.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Türkan Şoray’a Trabzon Altın Taka Film Festivali’nde Onur Ödülü",
+      "normalized_title": "turkan soray a trabzon altin taka film festivali nde onur odulu",
+      "url": "https://www.evrensel.net/haber/6008550/turkan-soraya-trabzon-altin-taka-film-festivalinde-onur-odulu",
+      "source": "evrensel.net",
+      "source_role": "publisher",
+      "source_domain": "evrensel.net",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-08T13:43:24.159249+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/trabzondan-turkan-sultana-onur-odulu-43367835",
+          "title": "Trabzon’dan Türkan Sultan’a onur ödülü"
+        },
+        {
+          "source": "evrensel.net",
+          "source_domain": "evrensel.net",
+          "url": "https://www.evrensel.net/haber/6008550/turkan-soraya-trabzon-altin-taka-film-festivalinde-onur-odulu",
+          "title": "Türkan Şoray’a Trabzon Altın Taka Film Festivali’nde Onur Ödülü"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/onur-odulu-turkan-sorayin-7694560",
+          "title": "‘Onur Ödülü’ Türkan Şoray’ın"
+        }
+      ],
+      "publisher_domains": [
+        "evrensel.net",
+        "hurriyet.com.tr",
+        "milliyet.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    }
+  ],
+  "event_groups_preview": [
     {
       "title": "'Vizontele' müjdesi! Yılmaz Erdoğan tarih vererek duyurdu",
       "normalized_title": "vizontele mujdesi yilmaz erdogan tarih vererek duyurdu",
@@ -17,7 +172,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.647927+00:00",
+      "collected_at": "2026-11-08T13:43:24.156906+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -59,133 +214,43 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Oscar ödüllü yönetmen Sebastian Lelio hayatını kaybetti",
-      "normalized_title": "oscar odullu yonetmen sebastian lelio hayatini kaybetti",
-      "url": "https://www.haberler.com/magazin/oscar-odullu-yonetmen-sebastian-lelio-hayatini-20406297-haberi/",
-      "source": "haberler.com",
+      "title": "\"Bence 1 Numara Benim\" Diyen Serdar Ortaç, Tarkan'ı Kendinden Sonra Sıraladı",
+      "normalized_title": "bence 1 numara benim diyen serdar ortac tarkan i kendinden sonra siraladi",
+      "url": "https://onedio.com/haber/bence-1-numara-benim-diyen-serdar-ortac-tarkan-i-kendinden-sonra-siraladi-1393927",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "haberler.com",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648062+00:00",
+      "collected_at": "2026-11-08T13:43:24.157023+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/magazin/oscar-odullu-yonetmen-sebastian-lelio-hayatini-20406297-haberi/",
-          "title": "Oscar ödüllü yönetmen Sebastian Lelio hayatını kaybetti"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/bence-1-numara-benim-diyen-serdar-ortac-tarkan-i-kendinden-sonra-siraladi-1393927",
+          "title": "\"Bence 1 Numara Benim\" Diyen Serdar Ortaç, Tarkan'ı Kendinden Sonra Sıraladı"
         },
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/sebastin-lelio-hayatini-kaybetti-3925637",
-          "title": "Sebastián Lelio hayatını kaybetti"
-        }
-      ],
-      "publisher_domains": [
-        "haberler.com",
-        "haberturk.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "İsmail Balaban ve İlayda Şeker çiftinin mutluluğu ikiye katlandı! İkinci bebekleri dünyaya geldi",
-      "normalized_title": "ismail balaban ve ilayda seker ciftinin mutlulugu ikiye katlandi ikinci bebekleri dunyaya geldi",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/ismail-balaban-ve-ilayda-seker-ciftinin-mutlulugu-ikiye-katlandi-ikinci-bebekleri-dunyaya-geldi",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648359+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yenisafak.com",
-          "source_domain": "yenisafak.com",
-          "url": "https://www.yenisafak.com/galeri/hayat/ismail-balaban-ve-ilayda-sekerin-ikinci-cocuklarina-koyduklari-isim-gundem-oldu-4870672",
-          "title": "İsmail Balaban ve İlayda Şeker'in ikinci çocuklarına koydukları isim gündem oldu"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/ismail-balaban-ve-ilayda-seker-ciftinin-mutlulugu-ikiye-katlandi-ikinci-bebekleri-dunyaya-geldi",
-          "title": "İsmail Balaban ve İlayda Şeker çiftinin mutluluğu ikiye katlandı! İkinci bebekleri dünyaya geldi"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr",
-        "yenisafak.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    }
-  ],
-  "event_groups_preview": [
-    {
-      "title": "'Vizontele' müjdesi! Yılmaz Erdoğan tarih vererek duyurdu",
-      "normalized_title": "vizontele mujdesi yilmaz erdogan tarih vererek duyurdu",
-      "url": "https://www.milliyet.com.tr/magazin/vizontele-mujdesi-yilmaz-erdogan-tarih-vererek-duyurdu-7696351",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.647927+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-vizontele-3-geliyor-yilmaz-erdogan-tarih-verdi-1749827",
-          "title": "Vizontele 3 geliyor. Yılmaz Erdoğan tarih verdi"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/yilmaz-erdogan-dan-vizontele-mujdesi-3925656",
-          "title": "Yılmaz Erdoğan'dan 'Vizontele' müjdesi"
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/magazin/haber-serdar-ortactan-tarkana-olay-sozler-bir-numara-20406934/",
+          "title": "Serdar Ortaç'tan Tarkan'a olay sözler: Bir numara benim!"
         },
         {
           "source": "milliyet.com.tr",
           "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/vizontele-mujdesi-yilmaz-erdogan-tarih-vererek-duyurdu-7696351",
-          "title": "'Vizontele' müjdesi! Yılmaz Erdoğan tarih vererek duyurdu"
+          "url": "https://www.milliyet.com.tr/magazin/galeri/serdar-ortactan-tarkana-olay-gonderme-bence-1-numara-benim-7696586",
+          "title": "Serdar Ortaç'tan Tarkan'a olay gönderme! ‘Bence 1 numara benim’"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
         "milliyet.com.tr",
-        "ntv.com.tr"
+        "onedio.com",
+        "sondakika.com"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -209,7 +274,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.649172+00:00",
+      "collected_at": "2026-11-08T13:43:24.158502+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -251,43 +316,94 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Muhteşem Yüzyıl’ın unutulmaz ikilisi yıllar sonra bir arada: Selma Ergeç ve Okan Yalabık’tan yeni kare",
-      "normalized_title": "muhtesem yuzyil in unutulmaz ikilisi yillar sonra bir arada selma ergec ve okan yalabik tan yeni kare",
-      "url": "https://www.cumhuriyet.com.tr/magazin/muhtesem-yuzyil-in-unutulmaz-ikilisi-yillar-sonra-bir-arada-selma-ergec-ve-okan-yalabik-tan-yeni-kare-2554206",
-      "source": "cumhuriyet.com.tr",
+      "title": "Ahmet Selçuk İlkan'dan Coşkun Sabah'ın 'Emek hırsızı' iddiasına yanıt: Ben şiirle o polemiklerle anılıyor",
+      "normalized_title": "ahmet selcuk ilkan dan coskun sabah in emek hirsizi iddiasina yanit ben siirle o polemiklerle aniliyor",
+      "url": "https://www.milliyet.com.tr/magazin/ahmet-selcuk-ilkandan-coskun-sabahin-emek-hirsizi-iddiasina-yanit-ben-siirle-o-polemiklerle-aniliyor-7692641",
+      "source": "milliyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "milliyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.649982+00:00",
+      "collected_at": "2026-11-08T13:43:24.159060+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/muhtesem-yuzyil-in-unutulmaz-ikilisi-yillar-sonra-bir-arada-selma-ergec-ve-okan-yalabik-tan-yeni-kare-2554206",
-          "title": "Muhteşem Yüzyıl’ın unutulmaz ikilisi yıllar sonra bir arada: Selma Ergeç ve Okan Yalabık’tan yeni kare"
-        },
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/muhtesem-yuzyil-in-hatice-si-selma-ergec-ve-pargali-si-okan-yalabik-yillar-sonra-bulustu-p376921",
-          "title": "Muhteşem Yüzyıl'ın Hatice'si Selma Ergeç ve Pargalı'sı Okan Yalabık yıllar sonra buluştu"
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/ahmet-selcuk-ilkandan-coskun-sabaha-onu-meshur-eden-sarkilarini-ben-yaptim-3487865",
+          "title": "Ahmet Selçuk İlkan'dan Coşkun Sabah'a: Onu Meşhur Eden Şarkılarını Ben Yaptım"
         },
         {
           "source": "milliyet.com.tr",
           "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/selma-ergec-ile-okan-yalabik-yillar-sonra-ayni-karede-7696144",
-          "title": "Selma Ergeç ile Okan Yalabık yıllar sonra aynı karede"
+          "url": "https://www.milliyet.com.tr/magazin/ahmet-selcuk-ilkandan-coskun-sabahin-emek-hirsizi-iddiasina-yanit-ben-siirle-o-polemiklerle-aniliyor-7692641",
+          "title": "Ahmet Selçuk İlkan'dan Coşkun Sabah'ın 'Emek hırsızı' iddiasına yanıt: Ben şiirle o polemiklerle anılıyor"
+        },
+        {
+          "source": "yeniakit.com.tr",
+          "source_domain": "yeniakit.com.tr",
+          "url": "https://www.yeniakit.com.tr/foto-galeri/ahmet-selcuk-ilkandan-coskun-sabaha-yanit-emek-hirsizi-acti-agzini-yumdu-gozunu-182867",
+          "title": "Ahmet Selçuk İlkan'dan Coşkun Sabah'a yanıt: Emek hırsızı... Açtı ağzını yumdu gözünü"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
+        "cnnturk.com",
         "milliyet.com.tr",
-        "sozcu.com.tr"
+        "yeniakit.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Türkan Şoray’a Trabzon Altın Taka Film Festivali’nde Onur Ödülü",
+      "normalized_title": "turkan soray a trabzon altin taka film festivali nde onur odulu",
+      "url": "https://www.evrensel.net/haber/6008550/turkan-soraya-trabzon-altin-taka-film-festivalinde-onur-odulu",
+      "source": "evrensel.net",
+      "source_role": "publisher",
+      "source_domain": "evrensel.net",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-08T13:43:24.159249+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/trabzondan-turkan-sultana-onur-odulu-43367835",
+          "title": "Trabzon’dan Türkan Sultan’a onur ödülü"
+        },
+        {
+          "source": "evrensel.net",
+          "source_domain": "evrensel.net",
+          "url": "https://www.evrensel.net/haber/6008550/turkan-soraya-trabzon-altin-taka-film-festivalinde-onur-odulu",
+          "title": "Türkan Şoray’a Trabzon Altın Taka Film Festivali’nde Onur Ödülü"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/onur-odulu-turkan-sorayin-7694560",
+          "title": "‘Onur Ödülü’ Türkan Şoray’ın"
+        }
+      ],
+      "publisher_domains": [
+        "evrensel.net",
+        "hurriyet.com.tr",
+        "milliyet.com.tr"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -311,7 +427,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648062+00:00",
+      "collected_at": "2026-11-08T13:43:24.156425+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -346,36 +462,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "İsmail Balaban ve İlayda Şeker çiftinin mutluluğu ikiye katlandı! İkinci bebekleri dünyaya geldi",
-      "normalized_title": "ismail balaban ve ilayda seker ciftinin mutlulugu ikiye katlandi ikinci bebekleri dunyaya geldi",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/ismail-balaban-ve-ilayda-seker-ciftinin-mutlulugu-ikiye-katlandi-ikinci-bebekleri-dunyaya-geldi",
-      "source": "sabah.com.tr",
+      "title": "Ağabeyi ile fotoğrafını paylaşan Hakan Peker'den yıllara meydan okuyan poz!",
+      "normalized_title": "agabeyi ile fotografini paylasan hakan peker den yillara meydan okuyan poz",
+      "url": "https://www.posta.com.tr/galeri/agabeyi-ile-fotografini-paylasan-hakan-pekerden-yillara-meydan-okuyan-poz-3062257",
+      "source": "posta.com.tr",
       "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
+      "source_domain": "posta.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648359+00:00",
+      "collected_at": "2026-11-08T13:43:24.156716+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "yenisafak.com",
-          "source_domain": "yenisafak.com",
-          "url": "https://www.yenisafak.com/galeri/hayat/ismail-balaban-ve-ilayda-sekerin-ikinci-cocuklarina-koyduklari-isim-gundem-oldu-4870672",
-          "title": "İsmail Balaban ve İlayda Şeker'in ikinci çocuklarına koydukları isim gündem oldu"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/hakan-ve-zafer-peker-kardesler-yillara-meydan-okuyor-3925681",
+          "title": "Hakan ve Zafer Peker kardeşler yıllara meydan okuyor"
         },
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/ismail-balaban-ve-ilayda-seker-ciftinin-mutlulugu-ikiye-katlandi-ikinci-bebekleri-dunyaya-geldi",
-          "title": "İsmail Balaban ve İlayda Şeker çiftinin mutluluğu ikiye katlandı! İkinci bebekleri dünyaya geldi"
+          "source": "posta.com.tr",
+          "source_domain": "posta.com.tr",
+          "url": "https://www.posta.com.tr/galeri/agabeyi-ile-fotografini-paylasan-hakan-pekerden-yillara-meydan-okuyan-poz-3062257",
+          "title": "Ağabeyi ile fotoğrafını paylaşan Hakan Peker'den yıllara meydan okuyan poz!"
         }
       ],
       "publisher_domains": [
-        "sabah.com.tr",
-        "yenisafak.com"
+        "haberturk.com",
+        "posta.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -390,16 +506,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Eda Ece'nin babası hastaneye kaldırıldı! Ünlü oyuncudan duygulandıran paylaşım",
-      "normalized_title": "eda ece nin babasi hastaneye kaldirildi unlu oyuncudan duygulandiran paylasim",
-      "url": "https://www.milliyet.com.tr/magazin/eda-ecenin-babasi-hastaneye-kaldirildi-unlu-oyuncudan-duygulandiran-paylasim-7696423",
-      "source": "milliyet.com.tr",
+      "title": "Eda Eceden hastane odasından endişelendiren paylaşım: Babası hastaneye kaldırıldı - Son Dakika Magazin Haberleri",
+      "normalized_title": "eda eceden hastane odasindan endiselendiren paylasim babasi hastaneye kaldirildi son dakika magazin haberleri",
+      "url": "https://www.cnnturk.com/magazin/galeri/eda-eceden-hastane-odasindan-endiselendiren-paylasim-babasi-hastaneye-kaldirildi-3490441",
+      "source": "cnnturk.com",
       "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
+      "source_domain": "cnnturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648607+00:00",
+      "collected_at": "2026-11-08T13:43:24.157374+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -411,15 +527,15 @@
           "title": "Eda Ece'nin babası hastaneye kaldırıldı: Ünlü oyuncudan ilk paylaşım"
         },
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/eda-ecenin-babasi-hastaneye-kaldirildi-unlu-oyuncudan-duygulandiran-paylasim-7696423",
-          "title": "Eda Ece'nin babası hastaneye kaldırıldı! Ünlü oyuncudan duygulandıran paylaşım"
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/eda-eceden-hastane-odasindan-endiselendiren-paylasim-babasi-hastaneye-kaldirildi-3490441",
+          "title": "Eda Eceden hastane odasından endişelendiren paylaşım: Babası hastaneye kaldırıldı - Son Dakika Magazin Haberleri"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "milliyet.com.tr"
+        "cnnturk.com",
+        "cumhuriyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -434,36 +550,80 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Deli Yürek ve Yabancı Damat'ın senaristi Güliz Kucur yaşamını yitirdi",
-      "normalized_title": "deli yurek ve yabanci damat in senaristi guliz kucur yasamini yitirdi",
-      "url": "https://www.sozcu.com.tr/deli-yurek-ve-yabanci-damatin-senaristi-guliz-kucur-yasamini-yitirdi-p376888",
-      "source": "sozcu.com.tr",
+      "title": "Saba Tümer'den dikkat çeken açıklamalar: Bir erkekte aradığı kriterleri sıraladı",
+      "normalized_title": "saba tumer den dikkat ceken aciklamalar bir erkekte aradigi kriterleri siraladi",
+      "url": "https://www.cumhuriyet.com.tr/magazin/saba-tumer-den-dikkat-ceken-aciklamalar-bir-erkekte-aradigi-kriterleri-siraladi-2554115",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648726+00:00",
+      "collected_at": "2026-11-08T13:43:24.157907+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/yabanci-damatin-senaristi-guliz-kucur-son-yolculuguna-ugurlandi-3490306",
-          "title": "Yabancı Damat'ın senaristi Güliz Kucur son yolculuğuna uğurlandı"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/saba-tumer-aradigi-erkegin-ozelliklerini-siraladi-3925499",
+          "title": "Saba Tümer, aradığı erkeğin özelliklerini sıraladı"
         },
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/deli-yurek-ve-yabanci-damatin-senaristi-guliz-kucur-yasamini-yitirdi-p376888",
-          "title": "Deli Yürek ve Yabancı Damat'ın senaristi Güliz Kucur yaşamını yitirdi"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/saba-tumer-den-dikkat-ceken-aciklamalar-bir-erkekte-aradigi-kriterleri-siraladi-2554115",
+          "title": "Saba Tümer'den dikkat çeken açıklamalar: Bir erkekte aradığı kriterleri sıraladı"
         }
       ],
       "publisher_domains": [
-        "cnnturk.com",
-        "sozcu.com.tr"
+        "cumhuriyet.com.tr",
+        "haberturk.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Saba Tümer bir erkekte aradığı özellikleri açıkladı! Yengeç burcu erkeklerine tövbe etti - Magazin Haberleri",
+      "normalized_title": "saba tumer bir erkekte aradigi ozellikleri acikladi yengec burcu erkeklerine tovbe etti magazin haberleri",
+      "url": "https://www.mynet.com/magazin/saba-tumer-bir-erkekte-aradigi-ozellikleri-acikladi-yengec-burcu-erkeklerine-tovbe-etti-130100606394",
+      "source": "mynet.com",
+      "source_role": "publisher",
+      "source_domain": "mynet.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-08T13:43:24.158019+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "internethaber.com",
+          "source_domain": "internethaber.com",
+          "url": "https://www.internethaber.com/saba-tumer-itiraf-etti-1-erkekte-aradigi-5-ozellik-sasirtti-foto-galerisi-2467634.htm",
+          "title": "Saba Tümer itiraf etti! 1 erkekte aradığı 5 özellik şaşırttı"
+        },
+        {
+          "source": "mynet.com",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/saba-tumer-bir-erkekte-aradigi-ozellikleri-acikladi-yengec-burcu-erkeklerine-tovbe-etti-130100606394",
+          "title": "Saba Tümer bir erkekte aradığı özellikleri açıkladı! Yengeç burcu erkeklerine tövbe etti - Magazin Haberleri"
+        }
+      ],
+      "publisher_domains": [
+        "internethaber.com",
+        "mynet.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -487,7 +647,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.649068+00:00",
+      "collected_at": "2026-11-08T13:43:24.158171+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -522,36 +682,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Altın Taka Film Festivali Onur Ödülü Türkan Şoray'a verilecek",
-      "normalized_title": "altin taka film festivali onur odulu turkan soray a verilecek",
-      "url": "https://yerel-haberler.haberturk.com/trabzon-haberleri/altin-taka-film-festivali-onur-odulu-turkan-soraya-verilecek-119512048",
-      "source": "yerel-haberler.haberturk.com",
+      "title": "Deli Yürek ve Yabancı Damat'ın senaristi Güliz Kucur yaşamını yitirdi",
+      "normalized_title": "deli yurek ve yabanci damat in senaristi guliz kucur yasamini yitirdi",
+      "url": "https://www.sozcu.com.tr/deli-yurek-ve-yabanci-damatin-senaristi-guliz-kucur-yasamini-yitirdi-p376888",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "yerel-haberler.haberturk.com",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.649604+00:00",
+      "collected_at": "2026-11-08T13:43:24.158316+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "yerel-haberler.haberturk.com",
-          "source_domain": "yerel-haberler.haberturk.com",
-          "url": "https://yerel-haberler.haberturk.com/trabzon-haberleri/altin-taka-film-festivali-onur-odulu-turkan-soraya-verilecek-119512048",
-          "title": "Altın Taka Film Festivali Onur Ödülü Türkan Şoray'a verilecek"
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/yabanci-damatin-senaristi-guliz-kucur-son-yolculuguna-ugurlandi-3490306",
+          "title": "Yabancı Damat'ın senaristi Güliz Kucur son yolculuğuna uğurlandı"
         },
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/onur-odulu-turkan-sorayin-7694560",
-          "title": "‘Onur Ödülü’ Türkan Şoray’ın"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/deli-yurek-ve-yabanci-damatin-senaristi-guliz-kucur-yasamini-yitirdi-p376888",
+          "title": "Deli Yürek ve Yabancı Damat'ın senaristi Güliz Kucur yaşamını yitirdi"
         }
       ],
       "publisher_domains": [
-        "milliyet.com.tr",
-        "yerel-haberler.haberturk.com"
+        "cnnturk.com",
+        "sozcu.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -566,41 +726,48 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Vizontele hayranlarına hem müjde hem kötü haber! Yılmaz Erdoğan açıkladı",
-      "normalized_title": "vizontele hayranlarina hem mujde hem kotu haber yilmaz erdogan acikladi",
-      "url": "https://www.sondakika.com/haber/haber-vizontele-hayranlarina-hem-mujde-hem-kotu-haber-20406697/",
-      "source": "sondakika.com",
+      "title": "‘Aliye’ ve ‘Yabancı Damat’ın senaristi Güliz Kucur hayatını kaybetti",
+      "normalized_title": "aliye ve yabanci damat in senaristi guliz kucur hayatini kaybetti",
+      "url": "https://www.milliyet.com.tr/magazin/aliye-ve-yabanci-damatin-senaristi-guliz-kucur-hayatini-kaybetti-7696106",
+      "source": "milliyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "sondakika.com",
+      "source_domain": "milliyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.647843+00:00",
+      "collected_at": "2026-11-08T13:43:24.158406+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sondakika.com",
-          "source_domain": "sondakika.com",
-          "url": "https://www.sondakika.com/haber/haber-vizontele-hayranlarina-hem-mujde-hem-kotu-haber-20406697/",
-          "title": "Vizontele hayranlarına hem müjde hem kötü haber! Yılmaz Erdoğan açıkladı"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/senarist-guliz-kucur-hayatini-kaybetti-3925566",
+          "title": "Senarist Güliz Kucur hayatını kaybetti"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/aliye-ve-yabanci-damatin-senaristi-guliz-kucur-hayatini-kaybetti-7696106",
+          "title": "‘Aliye’ ve ‘Yabancı Damat’ın senaristi Güliz Kucur hayatını kaybetti"
         }
       ],
       "publisher_domains": [
-        "sondakika.com"
+        "haberturk.com",
+        "milliyet.com.tr"
       ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 10.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "single_publisher"
+      "coverage_label": "multi_publisher"
     },
     {
       "title": "Ünlü yönetmen evinde ölü bulundu",
@@ -612,7 +779,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.647962+00:00",
+      "collected_at": "2026-11-08T13:43:24.156257+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -649,7 +816,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648015+00:00",
+      "collected_at": "2026-11-08T13:43:24.156362+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -686,7 +853,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648144+00:00",
+      "collected_at": "2026-11-08T13:43:24.156533+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -723,7 +890,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648184+00:00",
+      "collected_at": "2026-11-08T13:43:24.156592+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -751,29 +918,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Hakan ve Zafer Peker kardeşler yıllara meydan okuyor",
-      "normalized_title": "hakan ve zafer peker kardesler yillara meydan okuyor",
-      "url": "https://www.haberturk.com/magazin/hakan-ve-zafer-peker-kardesler-yillara-meydan-okuyor-3925681",
-      "source": "haberturk.com",
+      "title": "Vizontele hayranlarına hem müjde hem kötü haber! Yılmaz Erdoğan açıkladı",
+      "normalized_title": "vizontele hayranlarina hem mujde hem kotu haber yilmaz erdogan acikladi",
+      "url": "https://www.sondakika.com/haber/haber-vizontele-hayranlarina-hem-mujde-hem-kotu-haber-20406697/",
+      "source": "sondakika.com",
       "source_role": "publisher",
-      "source_domain": "haberturk.com",
+      "source_domain": "sondakika.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648221+00:00",
+      "collected_at": "2026-11-08T13:43:24.156860+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/hakan-ve-zafer-peker-kardesler-yillara-meydan-okuyor-3925681",
-          "title": "Hakan ve Zafer Peker kardeşler yıllara meydan okuyor"
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/haber/haber-vizontele-hayranlarina-hem-mujde-hem-kotu-haber-20406697/",
+          "title": "Vizontele hayranlarına hem müjde hem kötü haber! Yılmaz Erdoğan açıkladı"
         }
       ],
       "publisher_domains": [
-        "haberturk.com"
+        "sondakika.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -788,127 +955,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Yıllar onlara işlemiyor! Hakan Peker ve kardeşinin yaşını duyanlar kulaklarına inanamadı",
-      "normalized_title": "yillar onlara islemiyor hakan peker ve kardesinin yasini duyanlar kulaklarina inanamadi",
-      "url": "https://www.haberler.com/magazin/yillar-onlara-islemiyor-hakan-peker-ve-kardesi-20406311-haberi/",
-      "source": "haberler.com",
-      "source_role": "publisher",
-      "source_domain": "haberler.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648265+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/magazin/yillar-onlara-islemiyor-hakan-peker-ve-kardesi-20406311-haberi/",
-          "title": "Yıllar onlara işlemiyor! Hakan Peker ve kardeşinin yaşını duyanlar kulaklarına inanamadı"
-        }
-      ],
-      "publisher_domains": [
-        "haberler.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Survivor aşıkları ikinci kez anne baba oldu: Kızlarının ismindeki sır çözüldü",
-      "normalized_title": "survivor asiklari ikinci kez anne baba oldu kizlarinin ismindeki sir cozuldu",
-      "url": "https://www.sozcu.com.tr/survivor-asiklari-ikinci-kez-anne-baba-oldu-kizlarinin-ismindeki-sir-cozuldu-p377087",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648401+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/survivor-asiklari-ikinci-kez-anne-baba-oldu-kizlarinin-ismindeki-sir-cozuldu-p377087",
-          "title": "Survivor aşıkları ikinci kez anne baba oldu: Kızlarının ismindeki sır çözüldü"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Survivor aşkında mutlu haber! İsmail Balaban ve İlayda Şeker'den ikinci bebekleriyle ilk poz",
-      "normalized_title": "survivor askinda mutlu haber ismail balaban ve ilayda seker den ikinci bebekleriyle ilk poz",
-      "url": "https://www.ahaber.com.tr/magazin/2026/11/07/ismail-balaban-ikinci-kez-baba-oldu",
-      "source": "ahaber.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ahaber.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648446+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ahaber.com.tr",
-          "source_domain": "ahaber.com.tr",
-          "url": "https://www.ahaber.com.tr/magazin/2026/11/07/ismail-balaban-ikinci-kez-baba-oldu",
-          "title": "Survivor aşkında mutlu haber! İsmail Balaban ve İlayda Şeker'den ikinci bebekleriyle ilk poz"
-        }
-      ],
-      "publisher_domains": [
-        "ahaber.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "\"Bence 1 Numara Benim\" Diyen Serdar Ortaç, Tarkan'ı Kendinden Sonra Sıraladı",
-      "normalized_title": "bence 1 numara benim diyen serdar ortac tarkan i kendinden sonra siraladi",
-      "url": "https://onedio.com/haber/bence-1-numara-benim-diyen-serdar-ortac-tarkan-i-kendinden-sonra-siraladi-1393927",
+      "title": "Ameliyatta Bağırsağı Yanlışlıkla Kesilen Aslı Bekiroğlu 10 Saat Süren Operasyonu Anlattı",
+      "normalized_title": "ameliyatta bagirsagi yanlislikla kesilen asli bekiroglu 10 saat suren operasyonu anlatti",
+      "url": "https://onedio.com/haber/ameliyatta-bagirsagi-yanlislikla-kesilen-asli-bekiroglu-10-saat-suren-operasyonu-anlatti-1393977",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648498+00:00",
+      "collected_at": "2026-11-08T13:43:24.156968+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -916,12 +972,86 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/bence-1-numara-benim-diyen-serdar-ortac-tarkan-i-kendinden-sonra-siraladi-1393927",
-          "title": "\"Bence 1 Numara Benim\" Diyen Serdar Ortaç, Tarkan'ı Kendinden Sonra Sıraladı"
+          "url": "https://onedio.com/haber/ameliyatta-bagirsagi-yanlislikla-kesilen-asli-bekiroglu-10-saat-suren-operasyonu-anlatti-1393977",
+          "title": "Ameliyatta Bağırsağı Yanlışlıkla Kesilen Aslı Bekiroğlu 10 Saat Süren Operasyonu Anlattı"
         }
       ],
       "publisher_domains": [
         "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Kendini zirveye koyup Tarkan'ı ikinci yaptı: 'Aman duymasın' yorumları havada uçuştu",
+      "normalized_title": "kendini zirveye koyup tarkan i ikinci yapti aman duymasin yorumlari havada ucustu",
+      "url": "https://www.gzt.com/hayat/serdar-ortactan-cok-konusulacak-popcu-siralamasi-tarkani-ikinci-siraya-koyup-zirveye-kendisini-yerlestirdi-4276628",
+      "source": "gzt.com",
+      "source_role": "publisher",
+      "source_domain": "gzt.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-08T13:43:24.157079+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "gzt.com",
+          "source_domain": "gzt.com",
+          "url": "https://www.gzt.com/hayat/serdar-ortactan-cok-konusulacak-popcu-siralamasi-tarkani-ikinci-siraya-koyup-zirveye-kendisini-yerlestirdi-4276628",
+          "title": "Kendini zirveye koyup Tarkan'ı ikinci yaptı: 'Aman duymasın' yorumları havada uçuştu"
+        }
+      ],
+      "publisher_domains": [
+        "gzt.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Torreira-Batrakov izlerken gelen Okan-Emre-Suat hissi!",
+      "normalized_title": "torreira batrakov izlerken gelen okan emre suat hissi",
+      "url": "https://www.gazeteoku.com/yazar/ugur-meleke/torreira-batrakov-izlerken-gelen-okan-emre-suat-hissi/1303893",
+      "source": "gazeteoku.com",
+      "source_role": "publisher",
+      "source_domain": "gazeteoku.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-08T13:43:24.157220+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "gazeteoku.com",
+          "source_domain": "gazeteoku.com",
+          "url": "https://www.gazeteoku.com/yazar/ugur-meleke/torreira-batrakov-izlerken-gelen-okan-emre-suat-hissi/1303893",
+          "title": "Torreira-Batrakov izlerken gelen Okan-Emre-Suat hissi!"
+        }
+      ],
+      "publisher_domains": [
+        "gazeteoku.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -945,7 +1075,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648569+00:00",
+      "collected_at": "2026-11-08T13:43:24.157311+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -973,29 +1103,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Eda Eceden hastane odasından endişelendiren paylaşım: Babası hastaneye kaldırıldı - Magazin Haberleri",
-      "normalized_title": "eda eceden hastane odasindan endiselendiren paylasim babasi hastaneye kaldirildi magazin haberleri",
-      "url": "https://www.cnnturk.com/magazin/galeri/eda-eceden-hastane-odasindan-endiselendiren-paylasim-babasi-hastaneye-kaldirildi-3490441",
-      "source": "cnnturk.com",
+      "title": "Eda Ece'nin kabus gecesi! Babası hastaneye kaldırıldı",
+      "normalized_title": "eda ece nin kabus gecesi babasi hastaneye kaldirildi",
+      "url": "https://www.ahaber.com.tr/magazin/2026/11/08/eda-ecenin-kabus-gecesi-hastaneye-kosup-babam-notuyla-duyurdu",
+      "source": "ahaber.com.tr",
       "source_role": "publisher",
-      "source_domain": "cnnturk.com",
+      "source_domain": "ahaber.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648651+00:00",
+      "collected_at": "2026-11-08T13:43:24.157415+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/eda-eceden-hastane-odasindan-endiselendiren-paylasim-babasi-hastaneye-kaldirildi-3490441",
-          "title": "Eda Eceden hastane odasından endişelendiren paylaşım: Babası hastaneye kaldırıldı - Magazin Haberleri"
+          "source": "ahaber.com.tr",
+          "source_domain": "ahaber.com.tr",
+          "url": "https://www.ahaber.com.tr/magazin/2026/11/08/eda-ecenin-kabus-gecesi-hastaneye-kosup-babam-notuyla-duyurdu",
+          "title": "Eda Ece'nin kabus gecesi! Babası hastaneye kaldırıldı"
         }
       ],
       "publisher_domains": [
-        "cnnturk.com"
+        "ahaber.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1010,29 +1140,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Senarist Güliz Kucur hayatını kaybetti",
-      "normalized_title": "senarist guliz kucur hayatini kaybetti",
-      "url": "https://www.haberturk.com/magazin/senarist-guliz-kucur-hayatini-kaybetti-3925566",
-      "source": "haberturk.com",
+      "title": "Çukur'da \"Metin\"i Oynayan Oyuncu, Eşref Tek Kadrosuna Dahil Oldu",
+      "normalized_title": "cukur da metin i oynayan oyuncu esref tek kadrosuna dahil oldu",
+      "url": "https://onedio.com/haber/cukur-da-metin-i-oynayan-oyuncu-esref-tek-kadrosuna-dahil-oldu-1393941",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "haberturk.com",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648755+00:00",
+      "collected_at": "2026-11-08T13:43:24.157463+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/senarist-guliz-kucur-hayatini-kaybetti-3925566",
-          "title": "Senarist Güliz Kucur hayatını kaybetti"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/cukur-da-metin-i-oynayan-oyuncu-esref-tek-kadrosuna-dahil-oldu-1393941",
+          "title": "Çukur'da \"Metin\"i Oynayan Oyuncu, Eşref Tek Kadrosuna Dahil Oldu"
         }
       ],
       "publisher_domains": [
-        "haberturk.com"
+        "onedio.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1047,29 +1177,103 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Güliz Kucur kimdir, kaç yaşındaydı? Güliz Kucur neden öldü? Yabancı Damat'ın senaristinden acı haber!",
-      "normalized_title": "guliz kucur kimdir kac yasindaydi guliz kucur neden oldu yabanci damat in senaristinden aci haber",
-      "url": "https://www.cnnturk.com/magazin/yabanci-damatin-senaristi-guliz-kucur-hayatini-kaybetti-3490114",
-      "source": "cnnturk.com",
+      "title": "Final Yapan Halef'in Oyuncusu Eşref Tek Dizisinde Rol Alacak",
+      "normalized_title": "final yapan halef in oyuncusu esref tek dizisinde rol alacak",
+      "url": "https://onedio.com/haber/final-yapan-halef-in-oyuncusu-esref-tek-dizisinde-rol-alacak-1393928",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "cnnturk.com",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648801+00:00",
+      "collected_at": "2026-11-08T13:43:24.157508+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/yabanci-damatin-senaristi-guliz-kucur-hayatini-kaybetti-3490114",
-          "title": "Güliz Kucur kimdir, kaç yaşındaydı? Güliz Kucur neden öldü? Yabancı Damat'ın senaristinden acı haber!"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/final-yapan-halef-in-oyuncusu-esref-tek-dizisinde-rol-alacak-1393928",
+          "title": "Final Yapan Halef'in Oyuncusu Eşref Tek Dizisinde Rol Alacak"
         }
       ],
       "publisher_domains": [
-        "cnnturk.com"
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Halef'in Ziyan Ağa’sı Mazlum Çimen Eşref Tek ile anlaştı - Dizi Haberleri",
+      "normalized_title": "halef in ziyan aga si mazlum cimen esref tek ile anlasti dizi haberleri",
+      "url": "https://www.mynet.com/magazin/halef-in-ziyan-aga-si-mazlum-cimen-esref-tek-ile-anlasti-130100606367",
+      "source": "mynet.com",
+      "source_role": "publisher",
+      "source_domain": "mynet.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-08T13:43:24.157563+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "mynet.com",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/halef-in-ziyan-aga-si-mazlum-cimen-esref-tek-ile-anlasti-130100606367",
+          "title": "Halef'in Ziyan Ağa’sı Mazlum Çimen Eşref Tek ile anlaştı - Dizi Haberleri"
+        }
+      ],
+      "publisher_domains": [
+        "mynet.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Halef'ten Eşref Tek'e transfer oldu: \"Arap ihsan\"ı canlandıracak",
+      "normalized_title": "halef ten esref tek e transfer oldu arap ihsan i canlandiracak",
+      "url": "https://www.ensonhaber.com/haleften-esref-teke-transfer-oldu-arap-ihsani-canlandiracak-h1580717",
+      "source": "ensonhaber.com",
+      "source_role": "publisher",
+      "source_domain": "ensonhaber.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-08T13:43:24.157610+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ensonhaber.com",
+          "source_domain": "ensonhaber.com",
+          "url": "https://www.ensonhaber.com/haleften-esref-teke-transfer-oldu-arap-ihsani-canlandiracak-h1580717",
+          "title": "Halef'ten Eşref Tek'e transfer oldu: \"Arap ihsan\"ı canlandıracak"
+        }
+      ],
+      "publisher_domains": [
+        "ensonhaber.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1093,7 +1297,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648834+00:00",
+      "collected_at": "2026-11-08T13:43:24.157652+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1130,7 +1334,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648868+00:00",
+      "collected_at": "2026-11-08T13:43:24.157706+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1158,8 +1362,8 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Ekranların sevilen oyuncusu çiftçi olmuştu: Filiz Taçbaş sır gibi sakladığı hastalığını açıkladı",
-      "normalized_title": "ekranlarin sevilen oyuncusu ciftci olmustu filiz tacbas sir gibi sakladigi hastaligini acikladi",
+      "title": "Beyin tümörü tespit edildi, kendine yeni hayat kurdu: Oyunculuğa ara verip çiftçi oldu",
+      "normalized_title": "beyin tumoru tespit edildi kendine yeni hayat kurdu oyunculuga ara verip ciftci oldu",
       "url": "https://www.sozcu.com.tr/ekranlarin-sevilen-oyuncusu-ciftci-olmustu-filiz-tacbas-sir-gibi-sakladigi-hastaligini-acikladi-p377139",
       "source": "sozcu.com.tr",
       "source_role": "publisher",
@@ -1167,7 +1371,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648913+00:00",
+      "collected_at": "2026-11-08T13:43:24.157763+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1176,159 +1380,11 @@
           "source": "sozcu.com.tr",
           "source_domain": "sozcu.com.tr",
           "url": "https://www.sozcu.com.tr/ekranlarin-sevilen-oyuncusu-ciftci-olmustu-filiz-tacbas-sir-gibi-sakladigi-hastaligini-acikladi-p377139",
-          "title": "Ekranların sevilen oyuncusu çiftçi olmuştu: Filiz Taçbaş sır gibi sakladığı hastalığını açıkladı"
+          "title": "Beyin tümörü tespit edildi, kendine yeni hayat kurdu: Oyunculuğa ara verip çiftçi oldu"
         }
       ],
       "publisher_domains": [
         "sozcu.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Beyninde Tümör Tespit Edilen Filiz Taçbaş Ameliyat Sonrası Hafızasını Kaybettiğini Açıkladı",
-      "normalized_title": "beyninde tumor tespit edilen filiz tacbas ameliyat sonrasi hafizasini kaybettigini acikladi",
-      "url": "https://onedio.com/haber/filiz-tacbas-beyin-ameliyati-gecirdigini-acikladi-adim-filiz-bir-kizim-var-1393867",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.648955+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/filiz-tacbas-beyin-ameliyati-gecirdigini-acikladi-adim-filiz-bir-kizim-var-1393867",
-          "title": "Beyninde Tümör Tespit Edilen Filiz Taçbaş Ameliyat Sonrası Hafızasını Kaybettiğini Açıkladı"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ela Rümeysa Cebeci'den Sadettin Saran Sözleri",
-      "normalized_title": "ela rumeysa cebeci den sadettin saran sozleri",
-      "url": "https://onedio.com/haber/ela-rumeysa-cebeci-den-sadettin-saran-sozleri-1393344",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.649025+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/ela-rumeysa-cebeci-den-sadettin-saran-sozleri-1393344",
-          "title": "Ela Rümeysa Cebeci'den Sadettin Saran Sözleri"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ela Rümeysa Cebeci sessizliğini bozdu: 'İftira, itibar suikastı'",
-      "normalized_title": "ela rumeysa cebeci sessizligini bozdu iftira itibar suikasti",
-      "url": "https://www.odatv.com/guncel/ela-rumeysa-cebeci-sessizligini-bozdu-iftira-itibar-suikasti-120170113",
-      "source": "odatv.com",
-      "source_role": "publisher",
-      "source_domain": "odatv.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.649103+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/guncel/ela-rumeysa-cebeci-sessizligini-bozdu-iftira-itibar-suikasti-120170113",
-          "title": "Ela Rümeysa Cebeci sessizliğini bozdu: 'İftira, itibar suikastı'"
-        }
-      ],
-      "publisher_domains": [
-        "odatv.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Serenay Sarıkaya Netflix'in 10. Yıl Davetinde Manifest Kızlarının Peşine Düştü: Hayran Modunda Ortaya Çıktı",
-      "normalized_title": "serenay sarikaya netflix in 10 yil davetinde manifest kizlarinin pesine dustu hayran modunda ortaya cikti",
-      "url": "https://onedio.com/haber/serenay-sarikaya-netflix-in-10-yil-davetinde-manifest-kizlarinin-pesine-dustu-hayran-modunda-ortaya-cikti-1393616",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-08T08:43:30.649253+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/serenay-sarikaya-netflix-in-10-yil-davetinde-manifest-kizlarinin-pesine-dustu-hayran-modunda-ortaya-cikti-1393616",
-          "title": "Serenay Sarıkaya Netflix'in 10. Yıl Davetinde Manifest Kızlarının Peşine Düştü: Hayran Modunda Ortaya Çıktı"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
