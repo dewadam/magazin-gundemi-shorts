@@ -1,111 +1,23 @@
 {
-  "generated_at": "2026-11-09T09:23:28.962616+00:00",
-  "candidate_count": 100,
-  "event_group_count": 44,
-  "multi_publisher_event_count": 13,
+  "generated_at": "2026-11-09T16:52:55.674740+00:00",
+  "candidate_count": 99,
+  "event_group_count": 42,
+  "multi_publisher_event_count": 14,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Eda Eceden hastane odasından endişelendiren paylaşım: Babası hastaneye kaldırıldı - Son Dakika Magazin Haberleri",
-      "normalized_title": "eda eceden hastane odasindan endiselendiren paylasim babasi hastaneye kaldirildi son dakika magazin haberleri",
-      "url": "https://www.cnnturk.com/magazin/galeri/eda-eceden-hastane-odasindan-endiselendiren-paylasim-babasi-hastaneye-kaldirildi-3490441",
-      "source": "cnnturk.com",
+      "title": "Arnold Schwarzenegger'in oğlu Joseph Baena profesyonel vücut geliştirmeci oldu: İlk yarışmasında dereceye girdi",
+      "normalized_title": "arnold schwarzenegger in oglu joseph baena profesyonel vucut gelistirmeci oldu ilk yarismasinda dereceye girdi",
+      "url": "https://www.cumhuriyet.com.tr/magazin/arnold-schwarzenegger-in-oglu-joseph-baena-profesyonel-vucut-gelistirmeci-oldu-ilk-yarismasinda-dereceye-girdi-2554696",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "cnnturk.com",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.594967+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/eda-ece-nin-babasi-hastaneye-kaldirildi-unlu-oyuncudan-ilk-paylasim-2554348",
-          "title": "Eda Ece'nin babası hastaneye kaldırıldı: Ünlü oyuncudan ilk paylaşım"
-        },
-        {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/eda-eceden-hastane-odasindan-endiselendiren-paylasim-babasi-hastaneye-kaldirildi-3490441",
-          "title": "Eda Eceden hastane odasından endişelendiren paylaşım: Babası hastaneye kaldırıldı - Son Dakika Magazin Haberleri"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com",
-        "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Biri 65 Diğeri 67 Yaşında: Hakan Peker ve Abisi Zafer Peker Gençlere Taş Çıkarıyor",
-      "normalized_title": "biri 65 digeri 67 yasinda hakan peker ve abisi zafer peker genclere tas cikariyor",
-      "url": "https://onedio.com/haber/biri-65-digeri-67-yasinda-hakan-peker-ve-abisi-zafer-peker-genclere-tas-cikariyor-1393942",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.595518+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/biri-65-digeri-67-yasinda-hakan-peker-ve-abisi-zafer-peker-genclere-tas-cikariyor-1393942",
-          "title": "Biri 65 Diğeri 67 Yaşında: Hakan Peker ve Abisi Zafer Peker Gençlere Taş Çıkarıyor"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/genclere-tas-cikariyorlar-iste-hakan-peker-ve-kardesi-zafer-pekerin-son-hali",
-          "title": "Gençlere taş çıkarıyorlar! İşte Hakan Peker ve kardeşi Zafer Peker’in son hali!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com",
-        "sabah.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Ağabeyi ile fotoğrafını paylaşan Hakan Peker'den yıllara meydan okuyan poz!",
-      "normalized_title": "agabeyi ile fotografini paylasan hakan peker den yillara meydan okuyan poz",
-      "url": "https://www.posta.com.tr/galeri/agabeyi-ile-fotografini-paylasan-hakan-pekerden-yillara-meydan-okuyan-poz-3062257",
-      "source": "posta.com.tr",
-      "source_role": "publisher",
-      "source_domain": "posta.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.595762+00:00",
+      "collected_at": "2026-11-09T16:52:18.741898+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -113,19 +25,128 @@
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/hakan-ve-zafer-peker-kardesler-yillara-meydan-okuyor-3925681",
-          "title": "Hakan ve Zafer Peker kardeşler yıllara meydan okuyor"
+          "url": "https://www.haberturk.com/magazin/arnold-schwarzeneggerin-gayrimesru-oglu-vucut-gelistirmede-profesyonel-oldu-3925952",
+          "title": "Arnold Schwarzenegger’in gayrimeşru oğlu vücut geliştirmede profesyonel oldu"
         },
         {
-          "source": "posta.com.tr",
-          "source_domain": "posta.com.tr",
-          "url": "https://www.posta.com.tr/galeri/agabeyi-ile-fotografini-paylasan-hakan-pekerden-yillara-meydan-okuyan-poz-3062257",
-          "title": "Ağabeyi ile fotoğrafını paylaşan Hakan Peker'den yıllara meydan okuyan poz!"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/arnold-schwarzenegger-in-oglu-joseph-baena-profesyonel-vucut-gelistirmeci-oldu-ilk-yarismasinda-dereceye-girdi-2554696",
+          "title": "Arnold Schwarzenegger'in oğlu Joseph Baena profesyonel vücut geliştirmeci oldu: İlk yarışmasında dereceye girdi"
+        },
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/arnold-schwarzeneggerin-oglu-joseph-baena-terminator-oldu-120170399",
+          "title": "Arnold Schwarzenegger'in oğlu Terminatör oldu"
+        },
+        {
+          "source": "yenicaggazetesi.com",
+          "source_domain": "yenicaggazetesi.com",
+          "url": "https://www.yenicaggazetesi.com/arnold-schwarzeneggerin-oglu-joseph-baena-profesyonel-vucut-gelistirme-yarismasinda-5inci-oldu-1089675h.htm",
+          "title": "Arnold Schwarzenegger'in oğlu Joseph Baena profesyonel vücut geliştirme yarışmasında 5'inci oldu"
         }
       ],
       "publisher_domains": [
+        "cumhuriyet.com.tr",
         "haberturk.com",
-        "posta.com.tr"
+        "odatv.com",
+        "yenicaggazetesi.com"
+      ],
+      "publisher_count": 4,
+      "direct_article_count": 4,
+      "event_member_count": 4,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 40.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Kurtlar Vadisi'nin Memati'si Gürkan Uygun'un acı günü! Babası son yolculuğuna uğurlandı",
+      "normalized_title": "kurtlar vadisi nin memati si gurkan uygun un aci gunu babasi son yolculuguna ugurlandi",
+      "url": "https://www.milliyet.com.tr/gundem/kurtlar-vadisinin-mematisi-gurkan-uygunun-aci-gunu-babasi-son-yolculuguna-ugurlandi-7697471",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-09T16:52:18.741748+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "mynet.com",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/unlu-oyuncu-gurkan-uygun-un-aci-gunu-130100606490",
+          "title": "Ünlü oyuncu Gürkan Uygun'un acı günü - Magazin Haberleri"
+        },
+        {
+          "source": "m.sabah.com.tr",
+          "source_domain": "m.sabah.com.tr",
+          "url": "https://m.sabah.com.tr/trend/galeri/magazin/babaya-en-aci-veda-unlu-oyuncu-gurkan-uygunun-aci-gunu",
+          "title": "Babaya en acı veda! Ünlü oyuncu Gürkan Uygun’un acı günü"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/gundem/kurtlar-vadisinin-mematisi-gurkan-uygunun-aci-gunu-babasi-son-yolculuguna-ugurlandi-7697471",
+          "title": "Kurtlar Vadisi'nin Memati'si Gürkan Uygun'un acı günü! Babası son yolculuğuna uğurlandı"
+        }
+      ],
+      "publisher_domains": [
+        "m.sabah.com.tr",
+        "milliyet.com.tr",
+        "mynet.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Şafak Karali hayatını kaybetti: Şafak Karali kimdir? | Aktüel Haberleri",
+      "normalized_title": "safak karali hayatini kaybetti safak karali kimdir aktuel haberleri",
+      "url": "https://www.yenisafak.com/galeri/hayat/safak-karali-hayatini-kaybetti-safak-karali-kimdir-4870885",
+      "source": "yenisafak.com",
+      "source_role": "publisher",
+      "source_domain": "yenisafak.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-09T16:52:18.740607+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yenisafak.com",
+          "source_domain": "yenisafak.com",
+          "url": "https://www.yenisafak.com/galeri/hayat/safak-karali-hayatini-kaybetti-safak-karali-kimdir-4870885",
+          "title": "Şafak Karali hayatını kaybetti: Şafak Karali kimdir? | Aktüel Haberleri"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/tiyatrocu-safak-karali-hayatini-kaybetti-p377286",
+          "title": "Usta tiyatrocu Şafak Karali 57 yaşında hayatını kaybetti"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr",
+        "yenisafak.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -142,50 +163,50 @@
   ],
   "event_groups_preview": [
     {
-      "title": "Usta tiyatrocu Şafak Karali 57 yaşında hayatını kaybetti",
-      "normalized_title": "usta tiyatrocu safak karali 57 yasinda hayatini kaybetti",
-      "url": "https://www.sozcu.com.tr/tiyatrocu-safak-karali-hayatini-kaybetti-p377286",
-      "source": "sozcu.com.tr",
+      "title": "Arnold Schwarzenegger'in oğlu Joseph Baena profesyonel vücut geliştirmeci oldu: İlk yarışmasında dereceye girdi",
+      "normalized_title": "arnold schwarzenegger in oglu joseph baena profesyonel vucut gelistirmeci oldu ilk yarismasinda dereceye girdi",
+      "url": "https://www.cumhuriyet.com.tr/magazin/arnold-schwarzenegger-in-oglu-joseph-baena-profesyonel-vucut-gelistirmeci-oldu-ilk-yarismasinda-dereceye-girdi-2554696",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.594238+00:00",
+      "collected_at": "2026-11-09T16:52:18.741898+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/tiyatrocu-safak-karali-hayatini-kaybetti-p377286",
-          "title": "Usta tiyatrocu Şafak Karali 57 yaşında hayatını kaybetti"
-        },
-        {
-          "source": "birgun.net",
-          "source_domain": "birgun.net",
-          "url": "https://www.birgun.net/haber/oyuncu-safak-karali-hayatini-kaybetti-745354",
-          "title": "Oyuncu Şafak Karali hayatını kaybetti"
-        },
-        {
-          "source": "yenisafak.com",
-          "source_domain": "yenisafak.com",
-          "url": "https://www.yenisafak.com/galeri/hayat/safak-karali-hayatini-kaybetti-safak-karali-kimdir-4870885",
-          "title": "Şafak Karali hayatını kaybetti: Şafak Karali kimdir? | Aktüel Haberleri"
-        },
-        {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/safak-karali-hayatini-kaybetti-3925889",
-          "title": "Şafak Karali hayatını kaybetti"
+          "url": "https://www.haberturk.com/magazin/arnold-schwarzeneggerin-gayrimesru-oglu-vucut-gelistirmede-profesyonel-oldu-3925952",
+          "title": "Arnold Schwarzenegger’in gayrimeşru oğlu vücut geliştirmede profesyonel oldu"
+        },
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/arnold-schwarzenegger-in-oglu-joseph-baena-profesyonel-vucut-gelistirmeci-oldu-ilk-yarismasinda-dereceye-girdi-2554696",
+          "title": "Arnold Schwarzenegger'in oğlu Joseph Baena profesyonel vücut geliştirmeci oldu: İlk yarışmasında dereceye girdi"
+        },
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/arnold-schwarzeneggerin-oglu-joseph-baena-terminator-oldu-120170399",
+          "title": "Arnold Schwarzenegger'in oğlu Terminatör oldu"
+        },
+        {
+          "source": "yenicaggazetesi.com",
+          "source_domain": "yenicaggazetesi.com",
+          "url": "https://www.yenicaggazetesi.com/arnold-schwarzeneggerin-oglu-joseph-baena-profesyonel-vucut-gelistirme-yarismasinda-5inci-oldu-1089675h.htm",
+          "title": "Arnold Schwarzenegger'in oğlu Joseph Baena profesyonel vücut geliştirme yarışmasında 5'inci oldu"
         }
       ],
       "publisher_domains": [
-        "birgun.net",
+        "cumhuriyet.com.tr",
         "haberturk.com",
-        "sozcu.com.tr",
-        "yenisafak.com"
+        "odatv.com",
+        "yenicaggazetesi.com"
       ],
       "publisher_count": 4,
       "direct_article_count": 4,
@@ -194,6 +215,108 @@
       "latest_published_at": null,
       "age_hours": 48.0,
       "popularity_score": 40.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Serdar Ortaç'tan olay açıklama: 'Bence bir numara benim, sonra Tarkan'",
+      "normalized_title": "serdar ortac tan olay aciklama bence bir numara benim sonra tarkan",
+      "url": "https://www.cumhuriyet.com.tr/magazin/serdar-ortac-tan-olay-aciklama-bence-bir-numara-benim-sonra-tarkan-2554683",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-09T16:52:18.741260+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/serdar-ortac-tan-olay-aciklama-bence-bir-numara-benim-sonra-tarkan-2554683",
+          "title": "Serdar Ortaç'tan olay açıklama: 'Bence bir numara benim, sonra Tarkan'"
+        },
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/serdar-ortactan-tarkan-gondermesi-bir-numara-benim-120170407",
+          "title": "Serdar Ortaç'tan Tarkan göndermesi: Bir numara benim"
+        },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/bence-1-numara-benim-diyen-serdar-ortac-tarkan-i-kendinden-sonra-siraladi-1393927",
+          "title": "\"Bence 1 Numara Benim\" Diyen Serdar Ortaç, Tarkan'ı Kendinden Sonra Sıraladı"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "odatv.com",
+        "onedio.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Kurtlar Vadisi'nin Memati'si Gürkan Uygun'un acı günü! Babası son yolculuğuna uğurlandı",
+      "normalized_title": "kurtlar vadisi nin memati si gurkan uygun un aci gunu babasi son yolculuguna ugurlandi",
+      "url": "https://www.milliyet.com.tr/gundem/kurtlar-vadisinin-mematisi-gurkan-uygunun-aci-gunu-babasi-son-yolculuguna-ugurlandi-7697471",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-09T16:52:18.741748+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "mynet.com",
+          "source_domain": "mynet.com",
+          "url": "https://www.mynet.com/magazin/unlu-oyuncu-gurkan-uygun-un-aci-gunu-130100606490",
+          "title": "Ünlü oyuncu Gürkan Uygun'un acı günü - Magazin Haberleri"
+        },
+        {
+          "source": "m.sabah.com.tr",
+          "source_domain": "m.sabah.com.tr",
+          "url": "https://m.sabah.com.tr/trend/galeri/magazin/babaya-en-aci-veda-unlu-oyuncu-gurkan-uygunun-aci-gunu",
+          "title": "Babaya en acı veda! Ünlü oyuncu Gürkan Uygun’un acı günü"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/gundem/kurtlar-vadisinin-mematisi-gurkan-uygunun-aci-gunu-babasi-son-yolculuguna-ugurlandi-7697471",
+          "title": "Kurtlar Vadisi'nin Memati'si Gürkan Uygun'un acı günü! Babası son yolculuğuna uğurlandı"
+        }
+      ],
+      "publisher_domains": [
+        "m.sabah.com.tr",
+        "milliyet.com.tr",
+        "mynet.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -209,22 +332,22 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.597070+00:00",
+      "collected_at": "2026-11-09T16:52:18.744035+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-vizontele-3-geliyor-yilmaz-erdogan-tarih-verdi-1749827",
-          "title": "Vizontele 3 geliyor. Yılmaz Erdoğan tarih verdi"
-        },
-        {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
           "url": "https://www.haberturk.com/magazin/yilmaz-erdogan-dan-vizontele-mujdesi-3925656",
           "title": "Yılmaz Erdoğan'dan 'Vizontele' müjdesi"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-vizontele-3-geliyor-yilmaz-erdogan-tarih-verdi-1749827",
+          "title": "Vizontele 3 geliyor. Yılmaz Erdoğan tarih verdi"
         },
         {
           "source": "onedio.com",
@@ -251,36 +374,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Oscar ödüllü Şilili yönetmen Sebastián Lelio 52 yaşında hayatını kaybetti",
-      "normalized_title": "oscar odullu silili yonetmen sebastian lelio 52 yasinda hayatini kaybetti",
-      "url": "https://tr.euronews.com/2026/11/09/oscar-odullu-silili-yonetmen-sebastian-lelio-52-yasinda-hayatini-kaybetti",
-      "source": "tr.euronews.com",
+      "title": "Şafak Karali hayatını kaybetti: Şafak Karali kimdir? | Aktüel Haberleri",
+      "normalized_title": "safak karali hayatini kaybetti safak karali kimdir aktuel haberleri",
+      "url": "https://www.yenisafak.com/galeri/hayat/safak-karali-hayatini-kaybetti-safak-karali-kimdir-4870885",
+      "source": "yenisafak.com",
       "source_role": "publisher",
-      "source_domain": "tr.euronews.com",
+      "source_domain": "yenisafak.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.594639+00:00",
+      "collected_at": "2026-11-09T16:52:18.740607+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "patronlardunyasi.com",
-          "source_domain": "patronlardunyasi.com",
-          "url": "https://www.patronlardunyasi.com/oscarli-yonetmen-sebastian-lelio-evinde-olu-bulundu",
-          "title": "Oscar'lı yönetmen Sebastián Lelio evinde ölü bulundu"
+          "source": "yenisafak.com",
+          "source_domain": "yenisafak.com",
+          "url": "https://www.yenisafak.com/galeri/hayat/safak-karali-hayatini-kaybetti-safak-karali-kimdir-4870885",
+          "title": "Şafak Karali hayatını kaybetti: Şafak Karali kimdir? | Aktüel Haberleri"
         },
         {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/09/oscar-odullu-silili-yonetmen-sebastian-lelio-52-yasinda-hayatini-kaybetti",
-          "title": "Oscar ödüllü Şilili yönetmen Sebastián Lelio 52 yaşında hayatını kaybetti"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/tiyatrocu-safak-karali-hayatini-kaybetti-p377286",
+          "title": "Usta tiyatrocu Şafak Karali 57 yaşında hayatını kaybetti"
         }
       ],
       "publisher_domains": [
-        "patronlardunyasi.com",
-        "tr.euronews.com"
+        "sozcu.com.tr",
+        "yenisafak.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -295,36 +418,80 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Eda Eceden hastane odasından endişelendiren paylaşım: Babası hastaneye kaldırıldı - Son Dakika Magazin Haberleri",
-      "normalized_title": "eda eceden hastane odasindan endiselendiren paylasim babasi hastaneye kaldirildi son dakika magazin haberleri",
-      "url": "https://www.cnnturk.com/magazin/galeri/eda-eceden-hastane-odasindan-endiselendiren-paylasim-babasi-hastaneye-kaldirildi-3490441",
-      "source": "cnnturk.com",
+      "title": "Kızılcık Şerbeti'nin Salkım'ı Özge Borak, \"Ayıp Olmasın Diye Evlendim\" Sözünün Aslını Anlattı",
+      "normalized_title": "kizilcik serbeti nin salkim i ozge borak ayip olmasin diye evlendim sozunun aslini anlatti",
+      "url": "https://onedio.com/haber/kizilcik-serbeti-nin-salkim-i-ozge-borak-ayip-olmasin-diye-evlendim-sozunun-aslini-anlatti-1394193",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "cnnturk.com",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.594967+00:00",
+      "collected_at": "2026-11-09T16:52:18.741028+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/eda-ece-nin-babasi-hastaneye-kaldirildi-unlu-oyuncudan-ilk-paylasim-2554348",
-          "title": "Eda Ece'nin babası hastaneye kaldırıldı: Ünlü oyuncudan ilk paylaşım"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/kizilcik-serbeti-nin-salkim-i-ozge-borak-ayip-olmasin-diye-evlendim-sozunun-aslini-anlatti-1394193",
+          "title": "Kızılcık Şerbeti'nin Salkım'ı Özge Borak, \"Ayıp Olmasın Diye Evlendim\" Sözünün Aslını Anlattı"
         },
         {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/eda-eceden-hastane-odasindan-endiselendiren-paylasim-babasi-hastaneye-kaldirildi-3490441",
-          "title": "Eda Eceden hastane odasından endişelendiren paylaşım: Babası hastaneye kaldırıldı - Son Dakika Magazin Haberleri"
+          "source": "yenisafak.com",
+          "source_domain": "yenisafak.com",
+          "url": "https://www.yenisafak.com/hayat/ayip-olmasin-diye-evlendim-demisti-ozge-borak-yillar-sonra-gercegi-anlatti-4871001",
+          "title": "'Ayıp olmasın diye evlendim' demişti: Özge Borak yıllar sonra gerçeği anlattı"
         }
       ],
       "publisher_domains": [
-        "cnnturk.com",
-        "cumhuriyet.com.tr"
+        "onedio.com",
+        "yenisafak.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Ünlü yönetmen evinde ölü bulundu, sevgilisi haber verdi",
+      "normalized_title": "unlu yonetmen evinde olu bulundu sevgilisi haber verdi",
+      "url": "https://www.dunya.com/kultur-sanat/unlu-yonetmen-evinde-olu-bulundu-sevgilisi-haber-verdi-haberi-846800",
+      "source": "dunya.com",
+      "source_role": "publisher",
+      "source_domain": "dunya.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-09T16:52:18.742091+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "dunya.com",
+          "source_domain": "dunya.com",
+          "url": "https://www.dunya.com/kultur-sanat/unlu-yonetmen-evinde-olu-bulundu-sevgilisi-haber-verdi-haberi-846800",
+          "title": "Ünlü yönetmen evinde ölü bulundu, sevgilisi haber verdi"
+        },
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-yonetmen-evinde-olu-bulundu-43369554",
+          "title": "Ünlü yönetmen evinde ölü bulundu"
+        }
+      ],
+      "publisher_domains": [
+        "dunya.com",
+        "hurriyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -348,7 +515,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.595518+00:00",
+      "collected_at": "2026-11-09T16:52:18.742601+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -392,7 +559,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.595762+00:00",
+      "collected_at": "2026-11-09T16:52:18.742803+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -436,7 +603,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.595930+00:00",
+      "collected_at": "2026-11-09T16:52:18.742951+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -480,7 +647,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.596165+00:00",
+      "collected_at": "2026-11-09T16:52:18.743153+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -515,16 +682,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Muhteşem Yüzyıl’ın unutulmaz ikilisi yıllar sonra bir arada: Selma Ergeç ve Okan Yalabık’tan yeni kare",
-      "normalized_title": "muhtesem yuzyil in unutulmaz ikilisi yillar sonra bir arada selma ergec ve okan yalabik tan yeni kare",
-      "url": "https://www.cumhuriyet.com.tr/magazin/muhtesem-yuzyil-in-unutulmaz-ikilisi-yillar-sonra-bir-arada-selma-ergec-ve-okan-yalabik-tan-yeni-kare-2554206",
-      "source": "cumhuriyet.com.tr",
+      "title": "Eda Eceden hastane odasından endişelendiren paylaşım: Babası hastaneye kaldırıldı - Son Dakika Magazin Haberleri",
+      "normalized_title": "eda eceden hastane odasindan endiselendiren paylasim babasi hastaneye kaldirildi son dakika magazin haberleri",
+      "url": "https://www.cnnturk.com/magazin/galeri/eda-eceden-hastane-odasindan-endiselendiren-paylasim-babasi-hastaneye-kaldirildi-3490441",
+      "source": "cnnturk.com",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "cnnturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.596259+00:00",
+      "collected_at": "2026-11-09T16:52:18.743693+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -532,19 +699,19 @@
         {
           "source": "cumhuriyet.com.tr",
           "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/muhtesem-yuzyil-in-unutulmaz-ikilisi-yillar-sonra-bir-arada-selma-ergec-ve-okan-yalabik-tan-yeni-kare-2554206",
-          "title": "Muhteşem Yüzyıl’ın unutulmaz ikilisi yıllar sonra bir arada: Selma Ergeç ve Okan Yalabık’tan yeni kare"
+          "url": "https://www.cumhuriyet.com.tr/yasam/eda-ece-nin-babasi-hastaneye-kaldirildi-unlu-oyuncudan-ilk-paylasim-2554348",
+          "title": "Eda Ece'nin babası hastaneye kaldırıldı: Ünlü oyuncudan ilk paylaşım"
         },
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/okan-yalabik-ile-selma-ergec-yillar-sonra-bir-araya-geldi-3925642",
-          "title": "Okan Yalabık ile Selma Ergeç, yıllar sonra bir araya geldi"
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/eda-eceden-hastane-odasindan-endiselendiren-paylasim-babasi-hastaneye-kaldirildi-3490441",
+          "title": "Eda Eceden hastane odasından endişelendiren paylaşım: Babası hastaneye kaldırıldı - Son Dakika Magazin Haberleri"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "haberturk.com"
+        "cnnturk.com",
+        "cumhuriyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -559,16 +726,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Melisa Döngel: Evlenmek ve anne olmak istiyorum",
-      "normalized_title": "melisa dongel evlenmek ve anne olmak istiyorum",
-      "url": "https://www.haberturk.com/magazin/melisa-dongel-evlenmek-ve-anne-olmak-istiyorum-3925553",
-      "source": "haberturk.com",
+      "title": "Şafak Sezer, Bülent Ersoy'un makyaj sürecini anlattı: Normal makyajı 10 saat, zombi makyajı 15 dakika sürdü",
+      "normalized_title": "safak sezer bulent ersoy un makyaj surecini anlatti normal makyaji 10 saat zombi makyaji 15 dakika surdu",
+      "url": "https://t24.com.tr/magazin/safak-sezer-bulent-ersoyun-makyaj-surecini-anlatti-normal-makyaji-10-saat-zombi-makyaji-15-dakika-surdu,1357680",
+      "source": "t24.com.tr",
       "source_role": "publisher",
-      "source_domain": "haberturk.com",
+      "source_domain": "t24.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.596565+00:00",
+      "collected_at": "2026-11-09T16:52:18.744287+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -576,63 +743,19 @@
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/melisa-dongel-evlenmek-ve-anne-olmak-istiyorum-3925553",
-          "title": "Melisa Döngel: Evlenmek ve anne olmak istiyorum"
+          "url": "https://www.haberturk.com/magazin/foto/safak-sezer-makyaji-yaklasik-10-saat-surdu-3925524",
+          "title": "Şafak Sezer: Makyajı yaklaşık 10 saat sürdü"
         },
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/evlenmek-ve-anne-olmak-istiyorum-7696068",
-          "title": "‘Evlenmek ve anne olmak istiyorum’"
+          "source": "t24.com.tr",
+          "source_domain": "t24.com.tr",
+          "url": "https://t24.com.tr/magazin/safak-sezer-bulent-ersoyun-makyaj-surecini-anlatti-normal-makyaji-10-saat-zombi-makyaji-15-dakika-surdu,1357680",
+          "title": "Şafak Sezer, Bülent Ersoy'un makyaj sürecini anlattı: Normal makyajı 10 saat, zombi makyajı 15 dakika sürdü"
         }
       ],
       "publisher_domains": [
         "haberturk.com",
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Ela Rümeysa Cebeci, Mehmet Akif Ersoy ile yakınlık iddialarına sert çıktı",
-      "normalized_title": "ela rumeysa cebeci mehmet akif ersoy ile yakinlik iddialarina sert cikti",
-      "url": "https://www.sozcu.com.tr/ela-rumeysa-cebeci-mehmet-akif-ersoy-aciklamasi-p376784",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.597150+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/ela-rumeysa-cebeci-mehmet-akif-ersoy-aciklamasi-p376784",
-          "title": "Ela Rümeysa Cebeci, Mehmet Akif Ersoy ile yakınlık iddialarına sert çıktı"
-        },
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/ela-rumeysa-cebeci-mehmet-akif-ersoy-iddialarina-ates-puskurdu-1393838",
-          "title": "Ela Rümeysa Cebeci, Mehmet Akif Ersoy İddialarına Ateş Püskürdü"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com",
-        "sozcu.com.tr"
+        "t24.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -656,7 +779,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.597899+00:00",
+      "collected_at": "2026-11-09T16:52:18.744699+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -700,7 +823,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.597996+00:00",
+      "collected_at": "2026-11-09T16:52:18.744781+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -710,54 +833,10 @@
           "source_domain": "mynet.com",
           "url": "https://www.mynet.com/magazin/saba-tumer-bir-erkekte-aradigi-ozellikleri-acikladi-yengec-burcu-erkeklerine-tovbe-etti-130100606394",
           "title": "Saba Tümer bir erkekte aradığı özellikleri açıkladı! Yengeç burcu erkeklerine tövbe etti - Magazin Haberleri"
-        },
-        {
-          "source": "internethaber.com",
-          "source_domain": "internethaber.com",
-          "url": "https://www.internethaber.com/saba-tumer-itiraf-etti-1-erkekte-aradigi-5-ozellik-sasirtti-foto-galerisi-2467634.htm",
-          "title": "Saba Tümer itiraf etti! 1 erkekte aradığı 5 özellik şaşırttı"
         }
       ],
       "publisher_domains": [
-        "internethaber.com",
         "mynet.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "\"Bence 1 Numara Benim\" Diyen Serdar Ortaç, Tarkan'ı Kendinden Sonra Sıraladı",
-      "normalized_title": "bence 1 numara benim diyen serdar ortac tarkan i kendinden sonra siraladi",
-      "url": "https://onedio.com/haber/bence-1-numara-benim-diyen-serdar-ortac-tarkan-i-kendinden-sonra-siraladi-1393927",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.598453+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/bence-1-numara-benim-diyen-serdar-ortac-tarkan-i-kendinden-sonra-siraladi-1393927",
-          "title": "\"Bence 1 Numara Benim\" Diyen Serdar Ortaç, Tarkan'ı Kendinden Sonra Sıraladı"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -766,6 +845,126 @@
       "latest_published_at": null,
       "age_hours": 48.0,
       "popularity_score": 10.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Bakan Kurum, Sertab Erener'in COP31 için hazırladığı 'One Home' şarkısını paylaştı",
+      "normalized_title": "bakan kurum sertab erener in cop31 icin hazirladigi one home sarkisini paylasti",
+      "url": "https://news.google.com/read/CBMi2wFBVV95cUxNdElzRmZtai1NbWtsX0g0NlBobFlPdm8tUXNtN3FXZlZFTUZiTnA2N3F3Z3lKX25Fb0kyLUI2ck1HbW1EY1J0Tm5Zd0VpTHJvSkYtZndLSlFmY3BIM2JmZFBxaE1sR1A1QzQ0eW9zNjVtZFJUYzdQU3lKc2s5TU9MeWFtY0lsOEhLc19wMDdMcnhXdDB6Umxib25rbnJGYWZ2Y2NnYi1kWUlhTEdINUhVOXMzVDBuYnl6UkJ6SGMxOTU0Q3hJWklKOHBsd2cwNFlnRXRoNHR1NUEzNFU?hl=tr&gl=TR&ceid=TR%3Atr",
+      "source": "Google News sonucu",
+      "source_role": "publisher",
+      "source_domain": "google-news-cluster:bakan-kurum-sertab-erener-in-cop31-icin-hazirladigi-one-home-sarkisini",
+      "published_at": null,
+      "summary": "Google News konu akışından bulunan haber kümesi. Kaynak sayısı ilgili /read/ veya /stories/ sayfasından çıkarılmalıdır.",
+      "image_url": null,
+      "collected_at": "2026-11-09T16:52:18.745873+00:00",
+      "status": "google_news_discovered_not_verified",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [
+        {
+          "source": "Google News sonucu",
+          "source_role": "publisher",
+          "source_domain": "google-news-cluster:bakan-kurum-sertab-erener-in-cop31-icin-hazirladigi-one-home-sarkisini",
+          "title": "Bakan Kurum, Sertab Erener'in COP31 için hazırladığı 'One Home' şarkısını paylaştı",
+          "url": "https://news.google.com/read/CBMi2wFBVV95cUxNdElzRmZtai1NbWtsX0g0NlBobFlPdm8tUXNtN3FXZlZFTUZiTnA2N3F3Z3lKX25Fb0kyLUI2ck1HbW1EY1J0Tm5Zd0VpTHJvSkYtZndLSlFmY3BIM2JmZFBxaE1sR1A1QzQ0eW9zNjVtZFJUYzdQU3lKc2s5TU9MeWFtY0lsOEhLc19wMDdMcnhXdDB6Umxib25rbnJGYWZ2Y2NnYi1kWUlhTEdINUhVOXMzVDBuYnl6UkJ6SGMxOTU0Q3hJWklKOHBsd2cwNFlnRXRoNHR1NUEzNFU?hl=tr&gl=TR&ceid=TR%3Atr",
+          "published_at": null
+        }
+      ],
+      "source_articles": [
+        {
+          "source": "Google News sonucu",
+          "source_domain": "google-news-cluster:bakan-kurum-sertab-erener-in-cop31-icin-hazirladigi-one-home-sarkisini",
+          "url": "https://news.google.com/read/CBMi2wFBVV95cUxNdElzRmZtai1NbWtsX0g0NlBobFlPdm8tUXNtN3FXZlZFTUZiTnA2N3F3Z3lKX25Fb0kyLUI2ck1HbW1EY1J0Tm5Zd0VpTHJvSkYtZndLSlFmY3BIM2JmZFBxaE1sR1A1QzQ0eW9zNjVtZFJUYzdQU3lKc2s5TU9MeWFtY0lsOEhLc19wMDdMcnhXdDB6Umxib25rbnJGYWZ2Y2NnYi1kWUlhTEdINUhVOXMzVDBuYnl6UkJ6SGMxOTU0Q3hJWklKOHBsd2cwNFlnRXRoNHR1NUEzNFU?hl=tr&gl=TR&ceid=TR%3Atr",
+          "title": "Bakan Kurum, Sertab Erener'in COP31 için hazırladığı 'One Home' şarkısını paylaştı"
+        }
+      ],
+      "publisher_domains": [
+        "google-news-cluster:bakan-kurum-sertab-erener-in-cop31-icin-hazirladigi-one-home-sarkisini"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 2,
+      "discovery_item_count": 1,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Tiyatro ve dizi oyuncusu Şafak Karali, Kocaeli'de son yolculuğuna uğurlandı",
+      "normalized_title": "tiyatro ve dizi oyuncusu safak karali kocaeli de son yolculuguna ugurlandi",
+      "url": "https://yerel-haberler.haberturk.com/kocaeli-haberleri/tiyatro-ve-dizi-oyuncusu-safak-karali-kocaelide-son-yolculuguna-ugurlandi-119516873",
+      "source": "yerel-haberler.haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "yerel-haberler.haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-09T16:52:18.740790+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yerel-haberler.haberturk.com",
+          "source_domain": "yerel-haberler.haberturk.com",
+          "url": "https://yerel-haberler.haberturk.com/kocaeli-haberleri/tiyatro-ve-dizi-oyuncusu-safak-karali-kocaelide-son-yolculuguna-ugurlandi-119516873",
+          "title": "Tiyatro ve dizi oyuncusu Şafak Karali, Kocaeli'de son yolculuğuna uğurlandı"
+        }
+      ],
+      "publisher_domains": [
+        "yerel-haberler.haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Avrupa Yakası ve Karadayı'da rol almıştı! Ünlü oyuncu Şafak Karali'ye veda: O benimle yaşayacak",
+      "normalized_title": "avrupa yakasi ve karadayi da rol almisti unlu oyuncu safak karali ye veda o benimle yasayacak",
+      "url": "https://www.milliyet.com.tr/magazin/avrupa-yakasi-ve-karadayida-rol-almisti-unlu-oyuncu-safak-karaliye-veda-o-benimle-yasayacak-7697389",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-09T16:52:18.740875+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/avrupa-yakasi-ve-karadayida-rol-almisti-unlu-oyuncu-safak-karaliye-veda-o-benimle-yasayacak-7697389",
+          "title": "Avrupa Yakası ve Karadayı'da rol almıştı! Ünlü oyuncu Şafak Karali'ye veda: O benimle yaşayacak"
+        }
+      ],
+      "publisher_domains": [
+        "milliyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -781,7 +980,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.593791+00:00",
+      "collected_at": "2026-11-09T16:52:18.740943+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -818,7 +1017,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.593925+00:00",
+      "collected_at": "2026-11-09T16:52:18.741115+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -846,29 +1045,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Özge Borak’tan Yıllar Sonra Ata Demirer Açıklaması! “Ayıp Olmasın Diye Evlendim” Sözü Olay Olmuştu! Perde Arkasını Anlattı",
-      "normalized_title": "ozge borak tan yillar sonra ata demirer aciklamasi ayip olmasin diye evlendim sozu olay olmustu perde arkasini anlatti",
-      "url": "https://www.cnnturk.com/magazin/galeri/ozge-boraktan-yillar-sonra-ata-demirer-aciklamasi-ayip-olmasin-diye-evlendim-sozu-olay-olmustu-perde-arkasini-anlatti-3490789",
-      "source": "cnnturk.com",
+      "title": "Uzun zamandır kalbi boş! Serdar Ortaç’tan olay ’aşk’ açıklaması!",
+      "normalized_title": "uzun zamandir kalbi bos serdar ortac tan olay ask aciklamasi",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/uzun-zamandir-kalbi-bos-serdar-ortactan-olay-ask-aciklamasi",
+      "source": "sabah.com.tr",
       "source_role": "publisher",
-      "source_domain": "cnnturk.com",
+      "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.594060+00:00",
+      "collected_at": "2026-11-09T16:52:18.741472+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/ozge-boraktan-yillar-sonra-ata-demirer-aciklamasi-ayip-olmasin-diye-evlendim-sozu-olay-olmustu-perde-arkasini-anlatti-3490789",
-          "title": "Özge Borak’tan Yıllar Sonra Ata Demirer Açıklaması! “Ayıp Olmasın Diye Evlendim” Sözü Olay Olmuştu! Perde Arkasını Anlattı"
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/uzun-zamandir-kalbi-bos-serdar-ortactan-olay-ask-aciklamasi",
+          "title": "Uzun zamandır kalbi boş! Serdar Ortaç’tan olay ’aşk’ açıklaması!"
         }
       ],
       "publisher_domains": [
-        "cnnturk.com"
+        "sabah.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -883,29 +1082,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Kavgalarla Anılan Sete Sonradan Katılmıştı: Kızılcık Şerbeti'nin Salkım'ı Özge Borak Sette Olanları Açıkladı!",
-      "normalized_title": "kavgalarla anilan sete sonradan katilmisti kizilcik serbeti nin salkim i ozge borak sette olanlari acikladi",
-      "url": "https://onedio.com/haber/kavgalarla-anilan-sete-sonradan-katilmisti-kizilcik-serbeti-nin-salkim-i-ozge-borak-sette-olanlari-acikladi-1393617",
-      "source": "onedio.com",
+      "title": "Oyuncular Gürkan ve Volkan Uygun'un babası Kocaeli'de toprağa verildi",
+      "normalized_title": "oyuncular gurkan ve volkan uygun un babasi kocaeli de topraga verildi",
+      "url": "https://yerel-haberler.haberturk.com/kocaeli-haberleri/oyuncular-gurkan-ve-volkan-uygunun-babasi-kocaelide-topraga-verildi-119517079",
+      "source": "yerel-haberler.haberturk.com",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "yerel-haberler.haberturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.594162+00:00",
+      "collected_at": "2026-11-09T16:52:18.741675+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/kavgalarla-anilan-sete-sonradan-katilmisti-kizilcik-serbeti-nin-salkim-i-ozge-borak-sette-olanlari-acikladi-1393617",
-          "title": "Kavgalarla Anılan Sete Sonradan Katılmıştı: Kızılcık Şerbeti'nin Salkım'ı Özge Borak Sette Olanları Açıkladı!"
+          "source": "yerel-haberler.haberturk.com",
+          "source_domain": "yerel-haberler.haberturk.com",
+          "url": "https://yerel-haberler.haberturk.com/kocaeli-haberleri/oyuncular-gurkan-ve-volkan-uygunun-babasi-kocaelide-topraga-verildi-119517079",
+          "title": "Oyuncular Gürkan ve Volkan Uygun'un babası Kocaeli'de toprağa verildi"
         }
       ],
       "publisher_domains": [
-        "onedio.com"
+        "yerel-haberler.haberturk.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -920,29 +1119,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Ünlü yönetmen evinde ölü bulundu",
-      "normalized_title": "unlu yonetmen evinde olu bulundu",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-yonetmen-evinde-olu-bulundu-43369554",
-      "source": "hurriyet.com.tr",
+      "title": "Oscar ödüllü Şilili yönetmen Sebastián Lelio 52 yaşında hayatını kaybetti",
+      "normalized_title": "oscar odullu silili yonetmen sebastian lelio 52 yasinda hayatini kaybetti",
+      "url": "https://tr.euronews.com/2026/11/09/oscar-odullu-silili-yonetmen-sebastian-lelio-52-yasinda-hayatini-kaybetti",
+      "source": "tr.euronews.com",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "tr.euronews.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.594701+00:00",
+      "collected_at": "2026-11-09T16:52:18.742158+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/unlu-yonetmen-evinde-olu-bulundu-43369554",
-          "title": "Ünlü yönetmen evinde ölü bulundu"
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "url": "https://tr.euronews.com/2026/11/09/oscar-odullu-silili-yonetmen-sebastian-lelio-52-yasinda-hayatini-kaybetti",
+          "title": "Oscar ödüllü Şilili yönetmen Sebastián Lelio 52 yaşında hayatını kaybetti"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
+        "tr.euronews.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -966,7 +1165,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.594796+00:00",
+      "collected_at": "2026-11-09T16:52:18.742282+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -994,127 +1193,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Eda Ece haberi alır almaz hastaneye koştu",
-      "normalized_title": "eda ece haberi alir almaz hastaneye kostu",
-      "url": "https://www.sozcu.com.tr/eda-ece-haberi-alir-almaz-hastaneye-kostu-p377029",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.595031+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/eda-ece-haberi-alir-almaz-hastaneye-kostu-p377029",
-          "title": "Eda Ece haberi alır almaz hastaneye koştu"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Eda Ece'nin kabus gecesi! Babası hastaneye kaldırıldı",
-      "normalized_title": "eda ece nin kabus gecesi babasi hastaneye kaldirildi",
-      "url": "https://www.ahaber.com.tr/magazin/2026/11/08/eda-ecenin-kabus-gecesi-hastaneye-kosup-babam-notuyla-duyurdu",
-      "source": "ahaber.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ahaber.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.595096+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ahaber.com.tr",
-          "source_domain": "ahaber.com.tr",
-          "url": "https://www.ahaber.com.tr/magazin/2026/11/08/eda-ecenin-kabus-gecesi-hastaneye-kosup-babam-notuyla-duyurdu",
-          "title": "Eda Ece'nin kabus gecesi! Babası hastaneye kaldırıldı"
-        }
-      ],
-      "publisher_domains": [
-        "ahaber.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Arnold Schwarzenegger’in gayrimeşru oğlu vücut geliştirmede profesyonel oldu",
-      "normalized_title": "arnold schwarzenegger in gayrimesru oglu vucut gelistirmede profesyonel oldu",
-      "url": "https://www.haberturk.com/magazin/arnold-schwarzeneggerin-gayrimesru-oglu-vucut-gelistirmede-profesyonel-oldu-3925952",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.595173+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/arnold-schwarzeneggerin-gayrimesru-oglu-vucut-gelistirmede-profesyonel-oldu-3925952",
-          "title": "Arnold Schwarzenegger’in gayrimeşru oğlu vücut geliştirmede profesyonel oldu"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Dubai'ye Taşınan Kendine Müzisyen Yeni Evini ve Garajını Gösterdi: \"Bu Hayatı Yaşıyorsun\"",
-      "normalized_title": "dubai ye tasinan kendine muzisyen yeni evini ve garajini gosterdi bu hayati yasiyorsun",
-      "url": "https://onedio.com/haber/dubai-ye-tasinan-kendine-muzisyen-yeni-evini-ve-garajini-gosterdi-bu-hayati-yasiyorsun-1394075",
+      "title": "Farah Zeynep'in Adı Geçmişti, Kürk Mantolu Madonna'nın Maria Puder'i Meryem Uzerli Oldu",
+      "normalized_title": "farah zeynep in adi gecmisti kurk mantolu madonna nin maria puder i meryem uzerli oldu",
+      "url": "https://onedio.com/haber/farah-zeynep-in-adi-gecmisti-kurk-mantolu-madonna-nin-maria-puder-i-meryem-uzerli-oldu-1394243",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.595259+00:00",
+      "collected_at": "2026-11-09T16:52:18.742355+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1122,8 +1210,8 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/dubai-ye-tasinan-kendine-muzisyen-yeni-evini-ve-garajini-gosterdi-bu-hayati-yasiyorsun-1394075",
-          "title": "Dubai'ye Taşınan Kendine Müzisyen Yeni Evini ve Garajını Gösterdi: \"Bu Hayatı Yaşıyorsun\""
+          "url": "https://onedio.com/haber/farah-zeynep-in-adi-gecmisti-kurk-mantolu-madonna-nin-maria-puder-i-meryem-uzerli-oldu-1394243",
+          "title": "Farah Zeynep'in Adı Geçmişti, Kürk Mantolu Madonna'nın Maria Puder'i Meryem Uzerli Oldu"
         }
       ],
       "publisher_domains": [
@@ -1142,16 +1230,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Bez Bebek'te Nana'nın Düşmanı Şoker'di: Mehmet Usta'nın Son Hali ve Geçmişe Dair Sözleri Gündem Oldu!",
-      "normalized_title": "bez bebek te nana nin dusmani soker di mehmet usta nin son hali ve gecmise dair sozleri gundem oldu",
-      "url": "https://onedio.com/haber/bez-bebek-te-nana-nin-dusmani-soker-di-mehmet-usta-nin-son-hali-ve-gecmise-dair-sozleri-gundem-oldu-1394079",
+      "title": "Ameliyat İzinin Sebebi Buymuş: Manifest'in Lidya Pınar'ının 19 Yaşında Verdiği Kararla Başlayan Hayat Hikayesi",
+      "normalized_title": "ameliyat izinin sebebi buymus manifest in lidya pinar inin 19 yasinda verdigi kararla baslayan hayat hikayesi",
+      "url": "https://onedio.com/haber/ameliyat-izinin-sebebi-buymus-manifest-in-lidya-pinar-inin-19-yasinda-verdigi-kararla-baslayan-hayat-hikayesi-1394140",
       "source": "onedio.com",
       "source_role": "publisher",
       "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.595353+00:00",
+      "collected_at": "2026-11-09T16:52:18.742449+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1159,8 +1247,8 @@
         {
           "source": "onedio.com",
           "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/bez-bebek-te-nana-nin-dusmani-soker-di-mehmet-usta-nin-son-hali-ve-gecmise-dair-sozleri-gundem-oldu-1394079",
-          "title": "Bez Bebek'te Nana'nın Düşmanı Şoker'di: Mehmet Usta'nın Son Hali ve Geçmişe Dair Sözleri Gündem Oldu!"
+          "url": "https://onedio.com/haber/ameliyat-izinin-sebebi-buymus-manifest-in-lidya-pinar-inin-19-yasinda-verdigi-kararla-baslayan-hayat-hikayesi-1394140",
+          "title": "Ameliyat İzinin Sebebi Buymuş: Manifest'in Lidya Pınar'ının 19 Yaşında Verdiği Kararla Başlayan Hayat Hikayesi"
         }
       ],
       "publisher_domains": [
@@ -1179,29 +1267,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Mustafa Mert Koç: İnsan kendini yenilemeli",
-      "normalized_title": "mustafa mert koc insan kendini yenilemeli",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/mustafa-mert-koc-insan-kendini-yenilemeli-43370968",
-      "source": "hurriyet.com.tr",
+      "title": "Tokatlı Oyuncu Murat Cemcir’den Hamam Paylaşımı: “Bütün Tokatlılar Gibi Hamam Kırmızı Çizgimiz”",
+      "normalized_title": "tokatli oyuncu murat cemcir den hamam paylasimi butun tokatlilar gibi hamam kirmizi cizgimiz",
+      "url": "https://www.tokathaber.com.tr/tokatli-oyuncu-murat-cemcirden-hamam-paylasimi-butun-tokatlilar-gibi-hamam-kirmizi-cizgimiz",
+      "source": "tokathaber.com.tr",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "tokathaber.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.595415+00:00",
+      "collected_at": "2026-11-09T16:52:18.742528+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/mustafa-mert-koc-insan-kendini-yenilemeli-43370968",
-          "title": "Mustafa Mert Koç: İnsan kendini yenilemeli"
+          "source": "tokathaber.com.tr",
+          "source_domain": "tokathaber.com.tr",
+          "url": "https://www.tokathaber.com.tr/tokatli-oyuncu-murat-cemcirden-hamam-paylasimi-butun-tokatlilar-gibi-hamam-kirmizi-cizgimiz",
+          "title": "Tokatlı Oyuncu Murat Cemcir’den Hamam Paylaşımı: “Bütün Tokatlılar Gibi Hamam Kırmızı Çizgimiz”"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
+        "tokathaber.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1225,7 +1313,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.595834+00:00",
+      "collected_at": "2026-11-09T16:52:18.742866+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1253,29 +1341,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Hatice Sultan ve Pargalı İbrahim’i görenler geçmişe döndü! Muhteşem Yüzyıl yıldızları yıllar sonra buluştu...",
-      "normalized_title": "hatice sultan ve pargali ibrahim i gorenler gecmise dondu muhtesem yuzyil yildizlari yillar sonra bulustu",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/hatice-sultan-ve-pargali-ibrahimi-gorenler-gecmise-dondu-muhtesem-yuzyil-yildizlari-yillar-sonra-bulustu",
-      "source": "sabah.com.tr",
+      "title": "Dubai'ye Taşınan Kendine Müzisyen Yeni Evini ve Garajını Gösterdi: \"Bu Hayatı Yaşıyorsun\"",
+      "normalized_title": "dubai ye tasinan kendine muzisyen yeni evini ve garajini gosterdi bu hayati yasiyorsun",
+      "url": "https://onedio.com/haber/dubai-ye-tasinan-kendine-muzisyen-yeni-evini-ve-garajini-gosterdi-bu-hayati-yasiyorsun-1394075",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.596356+00:00",
+      "collected_at": "2026-11-09T16:52:18.743227+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/hatice-sultan-ve-pargali-ibrahimi-gorenler-gecmise-dondu-muhtesem-yuzyil-yildizlari-yillar-sonra-bulustu",
-          "title": "Hatice Sultan ve Pargalı İbrahim’i görenler geçmişe döndü! Muhteşem Yüzyıl yıldızları yıllar sonra buluştu..."
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/dubai-ye-tasinan-kendine-muzisyen-yeni-evini-ve-garajini-gosterdi-bu-hayati-yasiyorsun-1394075",
+          "title": "Dubai'ye Taşınan Kendine Müzisyen Yeni Evini ve Garajını Gösterdi: \"Bu Hayatı Yaşıyorsun\""
         }
       ],
       "publisher_domains": [
-        "sabah.com.tr"
+        "onedio.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1290,66 +1378,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Yıllar Hiç Acımamış!",
-      "normalized_title": "yillar hic acimamis",
-      "url": "https://www.memurlar.net/album/28405/yillar-hic-acimamis.html",
-      "source": "memurlar.net",
+      "title": "Daha 17'deki Müdür Rolüne Veda Etmişti: Usta Oyuncu Eşref Tek'te Çağatay Ulusoy'un Karşısına Çıkıyor!",
+      "normalized_title": "daha 17 deki mudur rolune veda etmisti usta oyuncu esref tek te cagatay ulusoy un karsisina cikiyor",
+      "url": "https://onedio.com/haber/daha-17-deki-mudur-rolune-veda-etmisti-usta-oyuncu-esref-tek-te-cagatay-ulusoy-un-karsisina-cikiyor-1394165",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "memurlar.net",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.596479+00:00",
+      "collected_at": "2026-11-09T16:52:18.743308+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "memurlar.net",
-          "source_domain": "memurlar.net",
-          "url": "https://www.memurlar.net/album/28405/yillar-hic-acimamis.html",
-          "title": "Yıllar Hiç Acımamış!"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/daha-17-deki-mudur-rolune-veda-etmisti-usta-oyuncu-esref-tek-te-cagatay-ulusoy-un-karsisina-cikiyor-1394165",
+          "title": "Daha 17'deki Müdür Rolüne Veda Etmişti: Usta Oyuncu Eşref Tek'te Çağatay Ulusoy'un Karşısına Çıkıyor!"
         }
       ],
       "publisher_domains": [
-        "memurlar.net"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Oyuncu Melisa Döngel: Adam gibi biri çıksın, ben de onu adam gibi seveyim; kas değil maneviyat önemli",
-      "normalized_title": "oyuncu melisa dongel adam gibi biri ciksin ben de onu adam gibi seveyim kas degil maneviyat onemli",
-      "url": "https://t24.com.tr/magazin/oyuncu-melisa-dongel-adam-gibi-biri-ciksin-ben-de-onu-adam-gibi-seveyim-kas-degil-maneviyat-onemli,1357667",
-      "source": "t24.com.tr",
-      "source_role": "publisher",
-      "source_domain": "t24.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-09T09:22:52.596721+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/magazin/oyuncu-melisa-dongel-adam-gibi-biri-ciksin-ben-de-onu-adam-gibi-seveyim-kas-degil-maneviyat-onemli,1357667",
-          "title": "Oyuncu Melisa Döngel: Adam gibi biri çıksın, ben de onu adam gibi seveyim; kas değil maneviyat önemli"
-        }
-      ],
-      "publisher_domains": [
-        "t24.com.tr"
+        "onedio.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
