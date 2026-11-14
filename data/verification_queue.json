@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-13T19:58:47.267067+00:00",
+  "generated_at": "2026-11-14T08:45:25.410101+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
-      "title": "Jessica Chastain, Lost Lear ile Broadway'e dönüyor: 29 Mart 2027'de Booth Theatre'da",
-      "normalized_title": "jessica chastain lost lear ile broadway e donuyor 29 mart 2027 de booth theatre da",
-      "url": "https://sinetopya.com/club/gundem/01a1ccc0-d92d-78f4-880f-fe2330d7eae6-jessica-chastain-lost-lear-ile-broadway-e-donuyor-29-mart-2027-de-booth-theatre",
-      "source": "sinetopya.com",
+      "title": "Semiramis Pekkan'dan yıllar sonra gelen itiraf: 'Müziği bırakmam için Ajda ricacı olmadı ama...'",
+      "normalized_title": "semiramis pekkan dan yillar sonra gelen itiraf muzigi birakmam icin ajda ricaci olmadi ama",
+      "url": "https://www.cumhuriyet.com.tr/yasam/semiramis-pekkan-dan-yillar-sonra-gelen-itiraf-muzigi-birakmam-icin-ajda-ricaci-olmadi-ama-2555901",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "sinetopya.com",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-13T19:58:13.106400+00:00",
+      "collected_at": "2026-11-14T08:44:48.911529+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/jessica-chastain-tiyatro-sahnesine-donuyor-3926824",
-          "title": "Jessica Chastain tiyatro sahnesine dönüyor"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/yasam/semiramis-pekkan-dan-yillar-sonra-gelen-itiraf-muzigi-birakmam-icin-ajda-ricaci-olmadi-ama-2555901",
+          "title": "Semiramis Pekkan'dan yıllar sonra gelen itiraf: 'Müziği bırakmam için Ajda ricacı olmadı ama...'"
         },
         {
-          "source": "sinetopya.com",
-          "source_domain": "sinetopya.com",
-          "url": "https://sinetopya.com/club/gundem/01a1ccc0-d92d-78f4-880f-fe2330d7eae6-jessica-chastain-lost-lear-ile-broadway-e-donuyor-29-mart-2027-de-booth-theatre",
-          "title": "Jessica Chastain, Lost Lear ile Broadway'e dönüyor: 29 Mart 2027'de Booth Theatre'da"
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/yillar-sonra-gelen-aciklama-semiramis-pekkanndan-olay-ajda-pekkan-itirafi-3492954",
+          "title": "Yıllar sonra gelen açıklama! Semiramis Pekkan'dan olay Ajda Pekkan itirafı!"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "sinetopya.com"
+        "cnnturk.com",
+        "cumhuriyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -48,25 +48,28 @@
       "publication_approved": false,
       "coverage_label": "multi_publisher",
       "source_page_check": {
-        "reachable": false,
-        "http_status": 403,
-        "page_title": "",
-        "og_title": "",
-        "description": "",
-        "error": "HTTP 403"
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Semiramis Pekkan'dan yıllar sonra gelen itiraf: 'Müziği bırakmam için Ajda ricacı olmadı ama...' - Son Dakika Yaşam Haberleri | Cumhuriyet",
+        "og_title": "Semiramis Pekkan'dan yıllar sonra gelen itiraf: 'Müziği bırakmam için Ajda ricacı olmadı ama...'",
+        "description": "Semiramis Pekkan, müzik kariyerini bırakmasında ablası Ajda Pekkan’ın doğrudan bir talebi olmadığını ancak ilk tepkilerinden etkilendiğini söyledi. Pekkan, “Benim Ajda’yla baş etmem mümkün mü müzikte?” diyerek rekabet düşünmediğini, ablasının ise durumu farklı algıladığını ifade etti.",
+        "error": null
       },
       "independent_source_matches": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "title": "Jessica Chastain tiyatro sahnesine dönüyor",
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "title": "Yıllar sonra gelen açıklama! Semiramis Pekkan'dan olay Ajda Pekkan itirafı!",
           "summary": "",
-          "url": "https://www.haberturk.com/magazin/jessica-chastain-tiyatro-sahnesine-donuyor-3926824",
-          "match_score": 0.44,
+          "url": "https://www.cnnturk.com/magazin/galeri/yillar-sonra-gelen-aciklama-semiramis-pekkanndan-olay-ajda-pekkan-itirafi-3492954",
+          "match_score": 0.59,
           "shared_keywords": [
-            "chastain",
-            "donuyor",
-            "jessica"
+            "ajda",
+            "gelen",
+            "itiraf",
+            "llar",
+            "pekkan",
+            "semiramis"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
@@ -75,97 +78,147 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Semiramis Pekkan yıllar sonra anlattı. \"Babam beni evlatlık vermeye kalkmış\"",
-      "normalized_title": "semiramis pekkan yillar sonra anlatti babam beni evlatlik vermeye kalkmis",
-      "url": "https://www.ntv.com.tr/yasam/galeri-semiramis-pekkan-yillar-sonra-anlatti-babam-beni-evlatlik-vermeye-kalkmis-1750673",
-      "source": "ntv.com.tr",
+      "title": "Gökberk Yıldırım'dan Aşk İtirafı: \"Bünyemin Aşka İhtiyacı Var\"",
+      "normalized_title": "gokberk yildirim dan ask itirafi bunyemin aska ihtiyaci var",
+      "url": "https://www.medyatilkisi.com.tr/gokberk-yildirimdan-ask-itirafi-bunyemin-aska-ihtiyaci-var",
+      "source": "medyatilkisi.com.tr",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "medyatilkisi.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-13T19:58:13.104797+00:00",
+      "collected_at": "2026-11-14T08:44:48.912082+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-semiramis-pekkan-yillar-sonra-anlatti-babam-beni-evlatlik-vermeye-kalkmis-1750673",
-          "title": "Semiramis Pekkan yıllar sonra anlattı. \"Babam beni evlatlık vermeye kalkmış\""
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/artik-bunyemin-aska-ihtiyaci-var-43377592",
+          "title": "‘Artık bünyemin aşka ihtiyacı var’"
+        },
+        {
+          "source": "medyatilkisi.com.tr",
+          "source_domain": "medyatilkisi.com.tr",
+          "url": "https://www.medyatilkisi.com.tr/gokberk-yildirimdan-ask-itirafi-bunyemin-aska-ihtiyaci-var",
+          "title": "Gökberk Yıldırım'dan Aşk İtirafı: \"Bünyemin Aşka İhtiyacı Var\""
         }
       ],
       "publisher_domains": [
-        "ntv.com.tr"
+        "hurriyet.com.tr",
+        "medyatilkisi.com.tr"
       ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 10.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
-      "verification_status": "source_page_reachable_no_second_source_match",
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
       "publication_approved": false,
-      "coverage_label": "single_publisher",
+      "coverage_label": "multi_publisher",
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Semiramis Pekkan yıllar sonra anlattı. \"Babam beni evlatlık vermeye kalkmış\" | NTV Haber",
-        "og_title": "Semiramis Pekkan yıllar sonra anlattı. \"Babam beni evlatlık vermeye kalkmış\" | NTV Haber",
-        "description": "Semiramis Pekkan, çocukluğuna ve ablası Ajda Pekkan'a dair açıklamalar yaptı. Babasıyla ilgili konuşan Pekkan, \"Beni evlatlık vermeye kalkışmış dedem engel olmuş\" dedi.",
+        "page_title": "Gökberk Yıldırım'dan Aşk İtirafı: \"Bünyemin Aşka İhtiyacı Var\" - Medya Tilkisi - Magazin ve Dizi Haberleri",
+        "og_title": "Gökberk Yıldırım'dan Aşk İtirafı: \"Bünyemin Aşka İhtiyacı Var\"",
+        "description": "Kanal D'nin Haysiyet dizisinde Tufan karakterine hayat veren Gökberk Yıldırım, katıldığı programda hem oyunculuk yolculuğunu hem de özel hayatına dair…",
         "error": null
       },
-      "independent_source_matches": [],
+      "independent_source_matches": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "title": "‘Artık bünyemin aşka ihtiyacı var’",
+          "summary": "",
+          "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/artik-bunyemin-aska-ihtiyaci-var-43377592",
+          "match_score": 0.6,
+          "shared_keywords": [
+            "aska",
+            "bunyemin",
+            "ihtiyac",
+            "var"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Babası istemedi, dedesi engel oldu! Semiramis Pekkan'ın yıllardır sakladığı aile gerçeği ortaya çıktı",
-      "normalized_title": "babasi istemedi dedesi engel oldu semiramis pekkan in yillardir sakladigi aile gercegi ortaya cikti",
-      "url": "https://www.ahaber.com.tr/galeri/magazin/semiramis-pekkan-cocukluguna-dair-bilinmeyenleri-anlatti",
-      "source": "ahaber.com.tr",
+      "title": "Sosyal medyada gözden kaçmayan detay! Ekin Koç paylaştığı fotoğraflardan Alp Navruz’u tek tek sildi",
+      "normalized_title": "sosyal medyada gozden kacmayan detay ekin koc paylastigi fotograflardan alp navruz u tek tek sildi",
+      "url": "https://www.takvim.com.tr/magazin/2026/11/13/ekin-kocun-alp-navruz-hamlesi-dikkat-cekti-fotograflardan-sildi",
+      "source": "takvim.com.tr",
       "source_role": "publisher",
-      "source_domain": "ahaber.com.tr",
+      "source_domain": "takvim.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-13T19:58:13.104888+00:00",
+      "collected_at": "2026-11-14T08:44:48.913296+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ahaber.com.tr",
-          "source_domain": "ahaber.com.tr",
-          "url": "https://www.ahaber.com.tr/galeri/magazin/semiramis-pekkan-cocukluguna-dair-bilinmeyenleri-anlatti",
-          "title": "Babası istemedi, dedesi engel oldu! Semiramis Pekkan'ın yıllardır sakladığı aile gerçeği ortaya çıktı"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/ekin-koc-fotograflardan-alp-navruz-u-sildi-nedeni-merak-konusu-oldu-p380931",
+          "title": "Ekin Koç fotoğraflardan Alp Navruz'u sildi: Nedeni merak konusu oldu"
+        },
+        {
+          "source": "takvim.com.tr",
+          "source_domain": "takvim.com.tr",
+          "url": "https://www.takvim.com.tr/magazin/2026/11/13/ekin-kocun-alp-navruz-hamlesi-dikkat-cekti-fotograflardan-sildi",
+          "title": "Sosyal medyada gözden kaçmayan detay! Ekin Koç paylaştığı fotoğraflardan Alp Navruz’u tek tek sildi"
         }
       ],
       "publisher_domains": [
-        "ahaber.com.tr"
+        "sozcu.com.tr",
+        "takvim.com.tr"
       ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 10.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
-      "verification_status": "source_page_reachable_no_second_source_match",
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
       "publication_approved": false,
-      "coverage_label": "single_publisher",
+      "coverage_label": "multi_publisher",
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Babası istemedi, dedesi engel oldu! Semiramis Pekkan'ın yıllardır sakladığı aile gerçeği ortaya çıktı",
-        "og_title": "Babası istemedi, dedesi engel oldu! Semiramis Pekkan'ın yıllardır sakladığı aile gerçeği ortaya çıktı",
-        "description": "Ajda Pekkan'ın kız kardeşi Semiramis Pekkan, Katarsis programında çocukluk yıllarından ablasıyla ilişkisine, müzik kariyerinden akciğer kanseri tedavisine kadar...",
+        "page_title": "Sosyal medyada gözden kaçmayan detay! Ekin Koç paylaştığı fotoğraflardan Alp Navruz’u tek tek sildi",
+        "og_title": "Sosyal medyada gözden kaçmayan detay! Ekin Koç paylaştığı fotoğraflardan Alp Navruz’u tek tek sildi",
+        "description": "Antalya’da düzenlenen COP31 etkinliğine katılan oyuncu Ekin Koç’un sosyal medya hesabından paylaştığı fotoğraflarda Alp Navruz’u çıkardığı fark edildi.",
         "error": null
       },
-      "independent_source_matches": [],
+      "independent_source_matches": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "title": "Ekin Koç fotoğraflardan Alp Navruz'u sildi: Nedeni merak konusu oldu",
+          "summary": "",
+          "url": "https://www.sozcu.com.tr/ekin-koc-fotograflardan-alp-navruz-u-sildi-nedeni-merak-konusu-oldu-p380931",
+          "match_score": 0.52,
+          "shared_keywords": [
+            "alp",
+            "ekin",
+            "fotograflardan",
+            "koc",
+            "navruz",
+            "sildi"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     }
   ]
