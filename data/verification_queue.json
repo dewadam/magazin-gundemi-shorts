@@ -1,134 +1,40 @@
 {
-  "generated_at": "2026-11-14T13:43:27.456888+00:00",
+  "generated_at": "2026-11-14T18:26:28.386266+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
-      "title": "Bir döneme damga vurmuştu! Avril Lavigne ilk kez anne oldu",
-      "normalized_title": "bir doneme damga vurmustu avril lavigne ilk kez anne oldu",
-      "url": "https://www.milliyet.com.tr/magazin/galeri/bir-doneme-damga-vurmustu-avril-lavigne-ilk-kez-anne-oldu-7700559",
-      "source": "milliyet.com.tr",
+      "title": "Ata Demirer’in \"Pervaneler\" filminden Ayvalık’a anlamlı hediye İhlas Haber Ajansı",
+      "normalized_title": "ata demirer in pervaneler filminden ayvalik a anlamli hediye ihlas haber ajansi",
+      "url": "https://www.iha.com.tr/balikesir-haberleri/ata-demirerin-pervaneler-filminden-ayvalika-anlamli-hediye-515673480",
+      "source": "iha.com.tr",
       "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
+      "source_domain": "iha.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T13:42:50.478202+00:00",
+      "collected_at": "2026-11-14T18:25:50.679871+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-avril-lavigne-ilk-kez-anne-oldu-1750800",
-          "title": "Avril Lavigne ilk kez anne oldu"
+          "source": "habercigazetesi.net",
+          "source_domain": "habercigazetesi.net",
+          "url": "https://www.habercigazetesi.net/magazin/ata-demirerin-pervaneler-filminden-ayvalika-anlamli-hediye.html",
+          "title": "Ata Demirer’in “Pervaneler” filminden Ayvalık’a anlamlı hediye"
         },
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/bir-doneme-damga-vurmustu-avril-lavigne-ilk-kez-anne-oldu-7700559",
-          "title": "Bir döneme damga vurmuştu! Avril Lavigne ilk kez anne oldu"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/avril-lavigne-anne-oldu-3927346",
-          "title": "Avril Lavigne anne oldu"
+          "source": "iha.com.tr",
+          "source_domain": "iha.com.tr",
+          "url": "https://www.iha.com.tr/balikesir-haberleri/ata-demirerin-pervaneler-filminden-ayvalika-anlamli-hediye-515673480",
+          "title": "Ata Demirer’in \"Pervaneler\" filminden Ayvalık’a anlamlı hediye İhlas Haber Ajansı"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "milliyet.com.tr",
-        "ntv.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Bir döneme damga vurmuştu! Avril Lavigne ilk kez anne oldu - Magazin Haberleri - Milliyet",
-        "og_title": "Bir döneme damga vurmuştu! Avril Lavigne ilk kez anne oldu",
-        "description": "Dünyaca ünlü şarkıcı Avril Lavigne, 42 yaşında ilk kez anne oldu. Bir kız bebek dünyaya getiren sanatçı, müjdeli haberi “Bizim minik prensesimiz geldi” sözleriyle duyurdu.",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "title": "Avril Lavigne ilk kez anne oldu",
-          "summary": "",
-          "url": "https://www.ntv.com.tr/yasam/galeri-avril-lavigne-ilk-kez-anne-oldu-1750800",
-          "match_score": 0.75,
-          "shared_keywords": [
-            "anne",
-            "avril",
-            "ilk",
-            "kez",
-            "lavigne"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "title": "Avril Lavigne anne oldu",
-          "summary": "",
-          "url": "https://www.haberturk.com/magazin/avril-lavigne-anne-oldu-3927346",
-          "match_score": 0.71,
-          "shared_keywords": [
-            "anne",
-            "avril",
-            "lavigne"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "Sosyal medyada gözden kaçmayan detay! Ekin Koç paylaştığı fotoğraflardan Alp Navruz’u tek tek sildi",
-      "normalized_title": "sosyal medyada gozden kacmayan detay ekin koc paylastigi fotograflardan alp navruz u tek tek sildi",
-      "url": "https://www.takvim.com.tr/magazin/2026/11/13/ekin-kocun-alp-navruz-hamlesi-dikkat-cekti-fotograflardan-sildi",
-      "source": "takvim.com.tr",
-      "source_role": "publisher",
-      "source_domain": "takvim.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-14T13:42:50.479197+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/magazin/ekin-kocun-paylasimindaki-alp-navruz-detayi-sosyal-medyada-tartisma-yaratti,1358843",
-          "title": "Ekin Koç'un paylaşımındaki Alp Navruz detayı sosyal medyada tartışma yarattı"
-        },
-        {
-          "source": "takvim.com.tr",
-          "source_domain": "takvim.com.tr",
-          "url": "https://www.takvim.com.tr/magazin/2026/11/13/ekin-kocun-alp-navruz-hamlesi-dikkat-cekti-fotograflardan-sildi",
-          "title": "Sosyal medyada gözden kaçmayan detay! Ekin Koç paylaştığı fotoğraflardan Alp Navruz’u tek tek sildi"
-        }
-      ],
-      "publisher_domains": [
-        "t24.com.tr",
-        "takvim.com.tr"
+        "habercigazetesi.net",
+        "iha.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -144,27 +50,96 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Sosyal medyada gözden kaçmayan detay! Ekin Koç paylaştığı fotoğraflardan Alp Navruz’u tek tek sildi",
-        "og_title": "Sosyal medyada gözden kaçmayan detay! Ekin Koç paylaştığı fotoğraflardan Alp Navruz’u tek tek sildi",
-        "description": "Antalya’da düzenlenen COP31 etkinliğine katılan oyuncu Ekin Koç’un sosyal medya hesabından paylaştığı fotoğraflarda Alp Navruz’u çıkardığı fark edildi.",
+        "page_title": "Ata Demirer’in \"Pervaneler\" filminden Ayvalık’a anlamlı hediye İhlas Haber Ajansı",
+        "og_title": "Ata Demirer’in \"Pervaneler\" filminden Ayvalık’a anlamlı hediye İhlas Haber Ajansı",
+        "description": "Ünlü komedyen ve oyuncu Ata Demirer’in hem senaryosunu kaleme aldığı hem de başrolünü üstlendiği, çekimlerinin tamamı Balıkesir’in Ayvalık ilçesinde gerçek",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "title": "Ekin Koç'un paylaşımındaki Alp Navruz detayı sosyal medyada tartışma yarattı",
+          "source": "habercigazetesi.net",
+          "source_domain": "habercigazetesi.net",
+          "title": "Ata Demirer’in “Pervaneler” filminden Ayvalık’a anlamlı hediye",
           "summary": "",
-          "url": "https://t24.com.tr/magazin/ekin-kocun-paylasimindaki-alp-navruz-detayi-sosyal-medyada-tartisma-yaratti,1358843",
-          "match_score": 0.47,
+          "url": "https://www.habercigazetesi.net/magazin/ata-demirerin-pervaneler-filminden-ayvalika-anlamli-hediye.html",
+          "match_score": 0.78,
           "shared_keywords": [
-            "alp",
-            "detay",
-            "ekin",
-            "koc",
-            "medyada",
-            "navruz",
-            "sosyal"
+            "anlaml",
+            "ata",
+            "ayval",
+            "demirer",
+            "filminden",
+            "hediye",
+            "pervaneler"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Film çekimleri tamamlandı",
+      "normalized_title": "film cekimleri tamamlandi",
+      "url": "https://www.hurriyet.com.tr/kelebek/stil/film-cekimleri-tamamlandi-43376629",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-14T18:25:50.679832+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/stil/film-cekimleri-tamamlandi-43376629",
+          "title": "Film çekimleri tamamlandı"
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/magazin/pervanelerin-cekimleri-tamamlandi-7700438",
+          "title": "‘Pervaneler’in çekimleri tamamlandı"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr",
+        "sabah.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Film çekimleri tamamlandı - Stil Haberleri",
+        "og_title": "Film çekimleri tamamlandı",
+        "description": "ATA Demirer’in senaryosunu yazdığı ve başrolünde yer aldığı, yönetmenliğini Hakan Algül’ün üstlendiği BKM yapımı ‘Pervaneler’in çekimleri tamamlandı.",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "title": "‘Pervaneler’in çekimleri tamamlandı",
+          "summary": "",
+          "url": "https://www.sabah.com.tr/magazin/pervanelerin-cekimleri-tamamlandi-7700438",
+          "match_score": 0.63,
+          "shared_keywords": [
+            "cekimleri",
+            "tamamland"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
@@ -182,16 +157,16 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T13:42:50.481497+00:00",
+      "collected_at": "2026-11-14T18:25:50.680877+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/asena-ile-kani-kudu-evlendi-3927355",
-          "title": "Asena ile Kani Kudu evlendi"
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "url": "https://www.sondakika.com/haber/haber-asena-kani-kudu-ile-evlendigini-acikladi-benim-20427334/",
+          "title": "Asena, Kani Kudu ile evlendiğini açıkladı: Benim kocam kadından anlıyor"
         },
         {
           "source": "takvim.com.tr",
@@ -201,7 +176,7 @@
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
+        "sondakika.com",
         "takvim.com.tr"
       ],
       "publisher_count": 2,
@@ -225,17 +200,22 @@
       },
       "independent_source_matches": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "title": "Asena ile Kani Kudu evlendi",
+          "source": "sondakika.com",
+          "source_domain": "sondakika.com",
+          "title": "Asena, Kani Kudu ile evlendiğini açıkladı: Benim kocam kadından anlıyor",
           "summary": "",
-          "url": "https://www.haberturk.com/magazin/foto/asena-ile-kani-kudu-evlendi-3927355",
-          "match_score": 0.71,
+          "url": "https://www.sondakika.com/haber/haber-asena-kani-kudu-ile-evlendigini-acikladi-benim-20427334/",
+          "match_score": 0.66,
           "shared_keywords": [
+            "anl",
             "asena",
-            "evlendi",
+            "benim",
+            "kad",
             "kani",
-            "kudu"
+            "kocam",
+            "kudu",
+            "ndan",
+            "yor"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
