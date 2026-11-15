@@ -1,157 +1,23 @@
 {
-  "generated_at": "2026-11-14T18:26:26.335653+00:00",
-  "candidate_count": 73,
-  "event_group_count": 52,
-  "multi_publisher_event_count": 7,
+  "generated_at": "2026-11-15T08:56:42.028950+00:00",
+  "candidate_count": 61,
+  "event_group_count": 54,
+  "multi_publisher_event_count": 6,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Ata Demirer’in \"Pervaneler\" filminden Ayvalık’a anlamlı hediye İhlas Haber Ajansı",
-      "normalized_title": "ata demirer in pervaneler filminden ayvalik a anlamli hediye ihlas haber ajansi",
-      "url": "https://www.iha.com.tr/balikesir-haberleri/ata-demirerin-pervaneler-filminden-ayvalika-anlamli-hediye-515673480",
-      "source": "iha.com.tr",
+      "title": "Zeynep Casalini eski eşiyle evlendi. Seneler sonra ikinci nikah",
+      "normalized_title": "zeynep casalini eski esiyle evlendi seneler sonra ikinci nikah",
+      "url": "https://www.ntv.com.tr/yasam/galeri-zeynep-casalini-eski-esiyle-evlendi-seneler-sonra-ikinci-nikah-1750787",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "iha.com.tr",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.679871+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "habercigazetesi.net",
-          "source_domain": "habercigazetesi.net",
-          "url": "https://www.habercigazetesi.net/magazin/ata-demirerin-pervaneler-filminden-ayvalika-anlamli-hediye.html",
-          "title": "Ata Demirer’in “Pervaneler” filminden Ayvalık’a anlamlı hediye"
-        },
-        {
-          "source": "iha.com.tr",
-          "source_domain": "iha.com.tr",
-          "url": "https://www.iha.com.tr/balikesir-haberleri/ata-demirerin-pervaneler-filminden-ayvalika-anlamli-hediye-515673480",
-          "title": "Ata Demirer’in \"Pervaneler\" filminden Ayvalık’a anlamlı hediye İhlas Haber Ajansı"
-        }
-      ],
-      "publisher_domains": [
-        "habercigazetesi.net",
-        "iha.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Film çekimleri tamamlandı",
-      "normalized_title": "film cekimleri tamamlandi",
-      "url": "https://www.hurriyet.com.tr/kelebek/stil/film-cekimleri-tamamlandi-43376629",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.679832+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/stil/film-cekimleri-tamamlandi-43376629",
-          "title": "Film çekimleri tamamlandı"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/pervanelerin-cekimleri-tamamlandi-7700438",
-          "title": "‘Pervaneler’in çekimleri tamamlandı"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr",
-        "sabah.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "\"Benim kocam kadından anlıyor\" deyip itiraf etti! Asena ile Kani Kudu sessiz sedasız evlendi",
-      "normalized_title": "benim kocam kadindan anliyor deyip itiraf etti asena ile kani kudu sessiz sedasiz evlendi",
-      "url": "https://www.takvim.com.tr/galeri/magazin/asena-ile-is-insani-kani-kudu-sessiz-sedasiz-evlendi",
-      "source": "takvim.com.tr",
-      "source_role": "publisher",
-      "source_domain": "takvim.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.680877+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sondakika.com",
-          "source_domain": "sondakika.com",
-          "url": "https://www.sondakika.com/haber/haber-asena-kani-kudu-ile-evlendigini-acikladi-benim-20427334/",
-          "title": "Asena, Kani Kudu ile evlendiğini açıkladı: Benim kocam kadından anlıyor"
-        },
-        {
-          "source": "takvim.com.tr",
-          "source_domain": "takvim.com.tr",
-          "url": "https://www.takvim.com.tr/galeri/magazin/asena-ile-is-insani-kani-kudu-sessiz-sedasiz-evlendi",
-          "title": "\"Benim kocam kadından anlıyor\" deyip itiraf etti! Asena ile Kani Kudu sessiz sedasız evlendi"
-        }
-      ],
-      "publisher_domains": [
-        "sondakika.com",
-        "takvim.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    }
-  ],
-  "event_groups_preview": [
-    {
-      "title": "Bir döneme damga vurmuştu! Avril Lavigne ilk kez anne oldu",
-      "normalized_title": "bir doneme damga vurmustu avril lavigne ilk kez anne oldu",
-      "url": "https://www.milliyet.com.tr/magazin/galeri/bir-doneme-damga-vurmustu-avril-lavigne-ilk-kez-anne-oldu-7700559",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.679723+00:00",
+      "collected_at": "2026-11-15T08:56:06.740395+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -159,70 +25,190 @@
         {
           "source": "ntv.com.tr",
           "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-avril-lavigne-ilk-kez-anne-oldu-1750800",
-          "title": "Avril Lavigne ilk kez anne oldu"
+          "url": "https://www.ntv.com.tr/yasam/galeri-zeynep-casalini-eski-esiyle-evlendi-seneler-sonra-ikinci-nikah-1750787",
+          "title": "Zeynep Casalini eski eşiyle evlendi. Seneler sonra ikinci nikah"
         },
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/bir-doneme-damga-vurmustu-avril-lavigne-ilk-kez-anne-oldu-7700559",
-          "title": "Bir döneme damga vurmuştu! Avril Lavigne ilk kez anne oldu"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/avril-lavigne-anne-oldu-3927346",
-          "title": "Avril Lavigne anne oldu"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/stil/eski-esiyle-yeniden-evlendi-43378782",
+          "title": "Eski eşiyle yeniden evlendi"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "milliyet.com.tr",
+        "hurriyet.com.tr",
         "ntv.com.tr"
       ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Ata Demirer’in \"Pervaneler\" filminden Ayvalık’a anlamlı hediye İhlas Haber Ajansı",
-      "normalized_title": "ata demirer in pervaneler filminden ayvalik a anlamli hediye ihlas haber ajansi",
-      "url": "https://www.iha.com.tr/balikesir-haberleri/ata-demirerin-pervaneler-filminden-ayvalika-anlamli-hediye-515673480",
-      "source": "iha.com.tr",
+      "title": "56 yaşındaki Zeynep Casalini 10 yıl önce boşandığı eşiyle yeniden evlendi",
+      "normalized_title": "56 yasindaki zeynep casalini 10 yil once bosandigi esiyle yeniden evlendi",
+      "url": "https://www.sozcu.com.tr/56-yasindaki-zeynep-casalini-10-yil-once-bosandigi-esiyle-yeniden-evlendi-p381429",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "iha.com.tr",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.679871+00:00",
+      "collected_at": "2026-11-15T08:56:06.740492+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "habercigazetesi.net",
-          "source_domain": "habercigazetesi.net",
-          "url": "https://www.habercigazetesi.net/magazin/ata-demirerin-pervaneler-filminden-ayvalika-anlamli-hediye.html",
-          "title": "Ata Demirer’in “Pervaneler” filminden Ayvalık’a anlamlı hediye"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/56-yasindaki-zeynep-casalini-10-yil-once-bosandigi-esiyle-yeniden-evlendi-p381429",
+          "title": "56 yaşındaki Zeynep Casalini 10 yıl önce boşandığı eşiyle yeniden evlendi"
         },
         {
-          "source": "iha.com.tr",
-          "source_domain": "iha.com.tr",
-          "url": "https://www.iha.com.tr/balikesir-haberleri/ata-demirerin-pervaneler-filminden-ayvalika-anlamli-hediye-515673480",
-          "title": "Ata Demirer’in \"Pervaneler\" filminden Ayvalık’a anlamlı hediye İhlas Haber Ajansı"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/zeynep-casalini-ile-tahsin-berk-yeniden-evlendi-3927278/4",
+          "title": "Zeynep Casalini ile Tahsin Berk yeniden evlendi"
         }
       ],
       "publisher_domains": [
-        "habercigazetesi.net",
-        "iha.com.tr"
+        "haberturk.com",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Bankadaki parası 60 milyon",
+      "normalized_title": "bankadaki parasi 60 milyon",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/bankadaki-parasi-60-milyon-43378778",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-15T08:56:06.740014+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/bankadaki-parasi-60-milyon-43378778",
+          "title": "Bankadaki parası 60 milyon"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    }
+  ],
+  "event_groups_preview": [
+    {
+      "title": "Zeynep Casalini eski eşiyle evlendi. Seneler sonra ikinci nikah",
+      "normalized_title": "zeynep casalini eski esiyle evlendi seneler sonra ikinci nikah",
+      "url": "https://www.ntv.com.tr/yasam/galeri-zeynep-casalini-eski-esiyle-evlendi-seneler-sonra-ikinci-nikah-1750787",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-15T08:56:06.740395+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-zeynep-casalini-eski-esiyle-evlendi-seneler-sonra-ikinci-nikah-1750787",
+          "title": "Zeynep Casalini eski eşiyle evlendi. Seneler sonra ikinci nikah"
+        },
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/stil/eski-esiyle-yeniden-evlendi-43378782",
+          "title": "Eski eşiyle yeniden evlendi"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr",
+        "ntv.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "56 yaşındaki Zeynep Casalini 10 yıl önce boşandığı eşiyle yeniden evlendi",
+      "normalized_title": "56 yasindaki zeynep casalini 10 yil once bosandigi esiyle yeniden evlendi",
+      "url": "https://www.sozcu.com.tr/56-yasindaki-zeynep-casalini-10-yil-once-bosandigi-esiyle-yeniden-evlendi-p381429",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-15T08:56:06.740492+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/56-yasindaki-zeynep-casalini-10-yil-once-bosandigi-esiyle-yeniden-evlendi-p381429",
+          "title": "56 yaşındaki Zeynep Casalini 10 yıl önce boşandığı eşiyle yeniden evlendi"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/zeynep-casalini-ile-tahsin-berk-yeniden-evlendi-3927278/4",
+          "title": "Zeynep Casalini ile Tahsin Berk yeniden evlendi"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "sozcu.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -246,7 +232,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.679832+00:00",
+      "collected_at": "2026-11-15T08:56:06.741793+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -267,50 +253,6 @@
       "publisher_domains": [
         "hurriyet.com.tr",
         "sabah.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Sosyal medyada gözden kaçmayan detay! Ekin Koç paylaştığı fotoğraflardan Alp Navruz’u tek tek sildi",
-      "normalized_title": "sosyal medyada gozden kacmayan detay ekin koc paylastigi fotograflardan alp navruz u tek tek sildi",
-      "url": "https://www.takvim.com.tr/magazin/2026/11/13/ekin-kocun-alp-navruz-hamlesi-dikkat-cekti-fotograflardan-sildi",
-      "source": "takvim.com.tr",
-      "source_role": "publisher",
-      "source_domain": "takvim.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.680102+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/magazin/ekin-kocun-paylasimindaki-alp-navruz-detayi-sosyal-medyada-tartisma-yaratti,1358843",
-          "title": "Ekin Koç'un paylaşımındaki Alp Navruz detayı sosyal medyada tartışma yarattı"
-        },
-        {
-          "source": "takvim.com.tr",
-          "source_domain": "takvim.com.tr",
-          "url": "https://www.takvim.com.tr/magazin/2026/11/13/ekin-kocun-alp-navruz-hamlesi-dikkat-cekti-fotograflardan-sildi",
-          "title": "Sosyal medyada gözden kaçmayan detay! Ekin Koç paylaştığı fotoğraflardan Alp Navruz’u tek tek sildi"
-        }
-      ],
-      "publisher_domains": [
-        "t24.com.tr",
-        "takvim.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -334,7 +276,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.680384+00:00",
+      "collected_at": "2026-11-15T08:56:06.742582+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -378,7 +320,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.680615+00:00",
+      "collected_at": "2026-11-15T08:56:06.742876+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -413,36 +355,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "\"Benim kocam kadından anlıyor\" deyip itiraf etti! Asena ile Kani Kudu sessiz sedasız evlendi",
-      "normalized_title": "benim kocam kadindan anliyor deyip itiraf etti asena ile kani kudu sessiz sedasiz evlendi",
-      "url": "https://www.takvim.com.tr/galeri/magazin/asena-ile-is-insani-kani-kudu-sessiz-sedasiz-evlendi",
-      "source": "takvim.com.tr",
+      "title": "Semiramis Pekkan'dan yıllar sonra gelen itiraf: 'Müziği bırakmam için Ajda ricacı olmadı ama...'",
+      "normalized_title": "semiramis pekkan dan yillar sonra gelen itiraf muzigi birakmam icin ajda ricaci olmadi ama",
+      "url": "https://www.cumhuriyet.com.tr/yasam/semiramis-pekkan-dan-yillar-sonra-gelen-itiraf-muzigi-birakmam-icin-ajda-ricaci-olmadi-ama-2555901",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "takvim.com.tr",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.680877+00:00",
+      "collected_at": "2026-11-15T08:56:06.743176+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sondakika.com",
-          "source_domain": "sondakika.com",
-          "url": "https://www.sondakika.com/haber/haber-asena-kani-kudu-ile-evlendigini-acikladi-benim-20427334/",
-          "title": "Asena, Kani Kudu ile evlendiğini açıkladı: Benim kocam kadından anlıyor"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/yasam/semiramis-pekkan-dan-yillar-sonra-gelen-itiraf-muzigi-birakmam-icin-ajda-ricaci-olmadi-ama-2555901",
+          "title": "Semiramis Pekkan'dan yıllar sonra gelen itiraf: 'Müziği bırakmam için Ajda ricacı olmadı ama...'"
         },
         {
-          "source": "takvim.com.tr",
-          "source_domain": "takvim.com.tr",
-          "url": "https://www.takvim.com.tr/galeri/magazin/asena-ile-is-insani-kani-kudu-sessiz-sedasiz-evlendi",
-          "title": "\"Benim kocam kadından anlıyor\" deyip itiraf etti! Asena ile Kani Kudu sessiz sedasız evlendi"
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/yillar-sonra-gelen-aciklama-semiramis-pekkanndan-olay-ajda-pekkan-itirafi-3492954",
+          "title": "Yıllar sonra gelen açıklama! Semiramis Pekkan'dan olay Ajda Pekkan itirafı!"
         }
       ],
       "publisher_domains": [
-        "sondakika.com",
-        "takvim.com.tr"
+        "cnnturk.com",
+        "cumhuriyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -457,16 +399,423 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Sylvester Stallone, Rocky'yi nasıl yarattı?",
-      "normalized_title": "sylvester stallone rocky yi nasil yaratti",
-      "url": "https://www.bbc.com/turkce/articles/cj93z3z94vdro",
+      "title": "Bankadaki parası 60 milyon",
+      "normalized_title": "bankadaki parasi 60 milyon",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/bankadaki-parasi-60-milyon-43378778",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-15T08:56:06.740014+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/bankadaki-parasi-60-milyon-43378778",
+          "title": "Bankadaki parası 60 milyon"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Mavi Boncuk'un Emel Sayın'ı Vasiyet Hazırlamama Nedenini Anlattı: Meğer Aklı Yeğenlerindeymiş",
+      "normalized_title": "mavi boncuk un emel sayin i vasiyet hazirlamama nedenini anlatti meger akli yegenlerindeymis",
+      "url": "https://onedio.com/haber/mavi-boncuk-un-emel-sayin-i-vasiyet-hazirlamama-nedenini-anlatti-meger-akli-yegenlerindeymis-1395199",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-15T08:56:06.740150+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/mavi-boncuk-un-emel-sayin-i-vasiyet-hazirlamama-nedenini-anlatti-meger-akli-yegenlerindeymis-1395199",
+          "title": "Mavi Boncuk'un Emel Sayın'ı Vasiyet Hazırlamama Nedenini Anlattı: Meğer Aklı Yeğenlerindeymiş"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Emel Sayın'ın 'Kadir İnanır' sendromu",
+      "normalized_title": "emel sayin in kadir inanir sendromu",
+      "url": "https://www.odatv.com/magazin/emel-sayinin-kadir-inanir-sendromu-120171277",
+      "source": "odatv.com",
+      "source_role": "publisher",
+      "source_domain": "odatv.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-15T08:56:06.740223+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/emel-sayinin-kadir-inanir-sendromu-120171277",
+          "title": "Emel Sayın'ın 'Kadir İnanır' sendromu"
+        }
+      ],
+      "publisher_domains": [
+        "odatv.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Emel Sayın'dan vasiyet ve miras sorusuna dikkat çeken yanıt!",
+      "normalized_title": "emel sayin dan vasiyet ve miras sorusuna dikkat ceken yanit",
+      "url": "https://www.posta.com.tr/galeri/emel-sayindan-vasiyet-ve-miras-sorusuna-dikkat-ceken-yanit-3064671",
+      "source": "posta.com.tr",
+      "source_role": "publisher",
+      "source_domain": "posta.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-15T08:56:06.740300+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "posta.com.tr",
+          "source_domain": "posta.com.tr",
+          "url": "https://www.posta.com.tr/galeri/emel-sayindan-vasiyet-ve-miras-sorusuna-dikkat-ceken-yanit-3064671",
+          "title": "Emel Sayın'dan vasiyet ve miras sorusuna dikkat çeken yanıt!"
+        }
+      ],
+      "publisher_domains": [
+        "posta.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Avril Lavigne anne oldu",
+      "normalized_title": "avril lavigne anne oldu",
+      "url": "https://www.diken.com.tr/avril-lavigne-anne-oldu/",
+      "source": "diken.com.tr",
+      "source_role": "publisher",
+      "source_domain": "diken.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-15T08:56:06.740687+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "diken.com.tr",
+          "source_domain": "diken.com.tr",
+          "url": "https://www.diken.com.tr/avril-lavigne-anne-oldu/",
+          "title": "Avril Lavigne anne oldu"
+        }
+      ],
+      "publisher_domains": [
+        "diken.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Sevgilisi taşınırken kamyonun başında bekledi",
+      "normalized_title": "sevgilisi tasinirken kamyonun basinda bekledi",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/kirasi-324-bine-cikti-tasindi-43378762",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-15T08:56:06.740756+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/kirasi-324-bine-cikti-tasindi-43378762",
+          "title": "Sevgilisi taşınırken kamyonun başında bekledi"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Kirası 85 binden 324 bin liraya çıktı: Ünlü şarkıcı çareyi taşınmakta buldu",
+      "normalized_title": "kirasi 85 binden 324 bin liraya cikti unlu sarkici careyi tasinmakta buldu",
+      "url": "https://www.sozcu.com.tr/kirasi-85-binden-324-bin-liraya-cikti-unlu-sarkici-careyi-tasinmakta-buldu-p380879",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-15T08:56:06.740836+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/kirasi-85-binden-324-bin-liraya-cikti-unlu-sarkici-careyi-tasinmakta-buldu-p380879",
+          "title": "Kirası 85 binden 324 bin liraya çıktı: Ünlü şarkıcı çareyi taşınmakta buldu"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Oğuzhan Koç'un yeni adresi belli oldu",
+      "normalized_title": "oguzhan koc un yeni adresi belli oldu",
+      "url": "https://www.odatv.com/magazin/oguzhan-kocun-yeni-adresi-belli-oldu-120171033",
+      "source": "odatv.com",
+      "source_role": "publisher",
+      "source_domain": "odatv.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-15T08:56:06.740895+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/oguzhan-kocun-yeni-adresi-belli-oldu-120171033",
+          "title": "Oğuzhan Koç'un yeni adresi belli oldu"
+        }
+      ],
+      "publisher_domains": [
+        "odatv.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "85 bin liralık kiraları 324 bin liraya fırladı! Oğuzhan Koç ile Hazal Subaşı çiftinden radikal hamle…",
+      "normalized_title": "85 bin liralik kiralari 324 bin liraya firladi oguzhan koc ile hazal subasi ciftinden radikal hamle",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/85-bin-liralik-kiralari-324-bin-liraya-firladi-oguzhan-koc-ile-hazal-subasi-ciftinden-radikal-hamle",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-15T08:56:06.740986+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/85-bin-liralik-kiralari-324-bin-liraya-firladi-oguzhan-koc-ile-hazal-subasi-ciftinden-radikal-hamle",
+          "title": "85 bin liralık kiraları 324 bin liraya fırladı! Oğuzhan Koç ile Hazal Subaşı çiftinden radikal hamle…"
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "‘İlişkiler falan sıkıntılı şeyler’",
+      "normalized_title": "iliskiler falan sikintili seyler",
+      "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/iliskiler-falan-sikintili-seyler-43378678",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-15T08:56:06.741046+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/iliskiler-falan-sikintili-seyler-43378678",
+          "title": "‘İlişkiler falan sıkıntılı şeyler’"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Robert Pattinson'ın James Bond anlaşması \"sızdı\"",
+      "normalized_title": "robert pattinson in james bond anlasmasi sizdi",
+      "url": "https://www.indyturk.com/node/785200/k%C3%BClt%C3%BCr/robert-pattinson%C4%B1n-james-bond-anla%C5%9Fmas%C4%B1-s%C4%B1zd%C4%B1",
+      "source": "indyturk.com",
+      "source_role": "publisher",
+      "source_domain": "indyturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-15T08:56:06.741110+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "indyturk.com",
+          "source_domain": "indyturk.com",
+          "url": "https://www.indyturk.com/node/785200/k%C3%BClt%C3%BCr/robert-pattinson%C4%B1n-james-bond-anla%C5%9Fmas%C4%B1-s%C4%B1zd%C4%B1",
+          "title": "Robert Pattinson'ın James Bond anlaşması \"sızdı\""
+        }
+      ],
+      "publisher_domains": [
+        "indyturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "James Bond: Yeni 007 kim olacak? Ne zaman gösterime girecek?",
+      "normalized_title": "james bond yeni 007 kim olacak ne zaman gosterime girecek",
+      "url": "https://www.bbc.com/turkce/articles/cwvgrgvg64deo",
       "source": "bbc.com",
       "source_role": "publisher",
       "source_domain": "bbc.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.679305+00:00",
+      "collected_at": "2026-11-15T08:56:06.741177+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -474,8 +823,8 @@
         {
           "source": "bbc.com",
           "source_domain": "bbc.com",
-          "url": "https://www.bbc.com/turkce/articles/cj93z3z94vdro",
-          "title": "Sylvester Stallone, Rocky'yi nasıl yarattı?"
+          "url": "https://www.bbc.com/turkce/articles/cwvgrgvg64deo",
+          "title": "James Bond: Yeni 007 kim olacak? Ne zaman gösterime girecek?"
         }
       ],
       "publisher_domains": [
@@ -494,29 +843,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "I Play Rocky, Anthony Ippolito’yu Stallone’a dönüştürüyor, eleştirmenler kopyada bölünüyor",
-      "normalized_title": "i play rocky anthony ippolito yu stallone a donusturuyor elestirmenler kopyada bolunuyor",
-      "url": "https://tr.martincid.com/movies-tr/i-play-rocky-anthony-ippolitoyu-stallonea-donusturuyor-elestirmenler-kopyada-bolunuyor/",
-      "source": "tr.martincid.com",
+      "title": "Söz Sizde | Yeni James Bond kim olmalı?",
+      "normalized_title": "soz sizde yeni james bond kim olmali",
+      "url": "https://medyascope.tv/2026/11/13/yeni-james-bond-kim-olmali-soz-sizde/",
+      "source": "medyascope.tv",
       "source_role": "publisher",
-      "source_domain": "tr.martincid.com",
+      "source_domain": "medyascope.tv",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.679391+00:00",
+      "collected_at": "2026-11-15T08:56:06.741237+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "tr.martincid.com",
-          "source_domain": "tr.martincid.com",
-          "url": "https://tr.martincid.com/movies-tr/i-play-rocky-anthony-ippolitoyu-stallonea-donusturuyor-elestirmenler-kopyada-bolunuyor/",
-          "title": "I Play Rocky, Anthony Ippolito’yu Stallone’a dönüştürüyor, eleştirmenler kopyada bölünüyor"
+          "source": "medyascope.tv",
+          "source_domain": "medyascope.tv",
+          "url": "https://medyascope.tv/2026/11/13/yeni-james-bond-kim-olmali-soz-sizde/",
+          "title": "Söz Sizde | Yeni James Bond kim olmalı?"
         }
       ],
       "publisher_domains": [
-        "tr.martincid.com"
+        "medyascope.tv"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -531,325 +880,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "I Play Rocky 20 Kasım'da Sinemalarda",
-      "normalized_title": "i play rocky 20 kasim da sinemalarda",
-      "url": "https://www.kaleninsesi.com/i-play-rocky-20-kasimda-sinemalarda",
-      "source": "kaleninsesi.com",
+      "title": "Pennywise'ın yıldızının gözü James Bond'da",
+      "normalized_title": "pennywise in yildizinin gozu james bond da",
+      "url": "https://turkish.aawsat.com/ya%C5%9Fam/5339450-pennywise%C4%B1n-y%C4%B1ld%C4%B1z%C4%B1n%C4%B1n-g%C3%B6z%C3%BC-james-bondda",
+      "source": "turkish.aawsat.com",
       "source_role": "publisher",
-      "source_domain": "kaleninsesi.com",
+      "source_domain": "turkish.aawsat.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.679429+00:00",
+      "collected_at": "2026-11-15T08:56:06.741298+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "kaleninsesi.com",
-          "source_domain": "kaleninsesi.com",
-          "url": "https://www.kaleninsesi.com/i-play-rocky-20-kasimda-sinemalarda",
-          "title": "I Play Rocky 20 Kasım'da Sinemalarda"
+          "source": "turkish.aawsat.com",
+          "source_domain": "turkish.aawsat.com",
+          "url": "https://turkish.aawsat.com/ya%C5%9Fam/5339450-pennywise%C4%B1n-y%C4%B1ld%C4%B1z%C4%B1n%C4%B1n-g%C3%B6z%C3%BC-james-bondda",
+          "title": "Pennywise'ın yıldızının gözü James Bond'da"
         }
       ],
       "publisher_domains": [
-        "kaleninsesi.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Zeynep Casalini eski eşiyle evlendi. Seneler sonra ikinci nikah",
-      "normalized_title": "zeynep casalini eski esiyle evlendi seneler sonra ikinci nikah",
-      "url": "https://www.ntv.com.tr/yasam/galeri-zeynep-casalini-eski-esiyle-evlendi-seneler-sonra-ikinci-nikah-1750787",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.679468+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-zeynep-casalini-eski-esiyle-evlendi-seneler-sonra-ikinci-nikah-1750787",
-          "title": "Zeynep Casalini eski eşiyle evlendi. Seneler sonra ikinci nikah"
-        }
-      ],
-      "publisher_domains": [
-        "ntv.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ünlü şarkıcıyla eşi 10 yıl önce boşanmıştı... Bodrum'da yeniden evlendiler",
-      "normalized_title": "unlu sarkiciyla esi 10 yil once bosanmisti bodrum da yeniden evlendiler",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/unlu-sanatci-10-yil-sonra-bodrumda-yeniden-nikah-masasina-oturdu-43378246",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.679517+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/unlu-sanatci-10-yil-sonra-bodrumda-yeniden-nikah-masasina-oturdu-43378246",
-          "title": "Ünlü şarkıcıyla eşi 10 yıl önce boşanmıştı... Bodrum'da yeniden evlendiler"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Boşanmanın üzerinden 10 yıl geçmişti! Zeynep Casalini ve Tahsin Berk yeniden evlendi",
-      "normalized_title": "bosanmanin uzerinden 10 yil gecmisti zeynep casalini ve tahsin berk yeniden evlendi",
-      "url": "https://www.haberturk.com/magazin/foto/zeynep-casalini-ile-tahsin-berk-yeniden-evlendi-3927278",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.679561+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/zeynep-casalini-ile-tahsin-berk-yeniden-evlendi-3927278",
-          "title": "Boşanmanın üzerinden 10 yıl geçmişti! Zeynep Casalini ve Tahsin Berk yeniden evlendi"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Muğla’da aşklarına 10 yıl sonra ikinci şansı verdiler! Ünlü sanatçı yeniden gelin oldu...",
-      "normalized_title": "mugla da asklarina 10 yil sonra ikinci sansi verdiler unlu sanatci yeniden gelin oldu",
-      "url": "https://www.yeniasir.com.tr/magazin/2026/11/14/muglada-asklarina-10-yil-sonra-ikinci-sansi-verdiler-unlu-sanatci-yeniden-gelin-oldu",
-      "source": "yeniasir.com.tr",
-      "source_role": "publisher",
-      "source_domain": "yeniasir.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.679613+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yeniasir.com.tr",
-          "source_domain": "yeniasir.com.tr",
-          "url": "https://www.yeniasir.com.tr/magazin/2026/11/14/muglada-asklarina-10-yil-sonra-ikinci-sansi-verdiler-unlu-sanatci-yeniden-gelin-oldu",
-          "title": "Muğla’da aşklarına 10 yıl sonra ikinci şansı verdiler! Ünlü sanatçı yeniden gelin oldu..."
-        }
-      ],
-      "publisher_domains": [
-        "yeniasir.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yıllarca daldan dala kondu, sonunda ailesini kurdu: 42 yaşındaki şarkıcıdan ilk bebek sürprizi",
-      "normalized_title": "yillarca daldan dala kondu sonunda ailesini kurdu 42 yasindaki sarkicidan ilk bebek surprizi",
-      "url": "https://www.hurriyet.com.tr/kelebek/magazin/unlu-sarkici-42-yasinda-anne-oldu-iste-surpriz-bebek-43377990",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.679688+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/magazin/unlu-sarkici-42-yasinda-anne-oldu-iste-surpriz-bebek-43377990",
-          "title": "Yıllarca daldan dala kondu, sonunda ailesini kurdu: 42 yaşındaki şarkıcıdan ilk bebek sürprizi"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Elife Akkaya Vefat Etti",
-      "normalized_title": "elife akkaya vefat etti",
-      "url": "https://www.yesilafsin.com/elife-akkaya-vefat-etti",
-      "source": "yesilafsin.com",
-      "source_role": "publisher",
-      "source_domain": "yesilafsin.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.679772+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yesilafsin.com",
-          "source_domain": "yesilafsin.com",
-          "url": "https://www.yesilafsin.com/elife-akkaya-vefat-etti",
-          "title": "Elife Akkaya Vefat Etti"
-        }
-      ],
-      "publisher_domains": [
-        "yesilafsin.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "\"Güncel Fotoğraflara Kavuştum\"",
-      "normalized_title": "guncel fotograflara kavustum",
-      "url": "https://htkulup.haberturk.com/guncel/haber/3927144-guncel-fotograflara-kavustum",
-      "source": "htkulup.haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "htkulup.haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.679928+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "htkulup.haberturk.com",
-          "source_domain": "htkulup.haberturk.com",
-          "url": "https://htkulup.haberturk.com/guncel/haber/3927144-guncel-fotograflara-kavustum",
-          "title": "\"Güncel Fotoğraflara Kavuştum\""
-        }
-      ],
-      "publisher_domains": [
-        "htkulup.haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Magazin figürü değilim",
-      "normalized_title": "magazin figuru degilim",
-      "url": "https://www.hurriyet.com.tr/kelebek/magazin/magazin-figuru-degilim-43377424",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.679952+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/magazin/magazin-figuru-degilim-43377424",
-          "title": "Magazin figürü değilim"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
+        "turkish.aawsat.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -873,7 +926,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.679976+00:00",
+      "collected_at": "2026-11-15T08:56:06.741364+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -901,43 +954,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Ekin Koç'un COP31 Paylaşımında Dikkat Çeken Detay: Fotoğraftaki O Ünlü İsmi Sildiği Fark Edildi!",
-      "normalized_title": "ekin koc un cop31 paylasiminda dikkat ceken detay fotograftaki o unlu ismi sildigi fark edildi",
-      "url": "https://onedio.com/haber/ekin-koc-un-cop31-paylasiminda-dikkat-ceken-detay-hikayedeki-kare-ile-gonderideki-kare-farkli-1394845",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.680022+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/ekin-koc-un-cop31-paylasiminda-dikkat-ceken-detay-hikayedeki-kare-ile-gonderideki-kare-farkli-1394845",
-          "title": "Ekin Koç'un COP31 Paylaşımında Dikkat Çeken Detay: Fotoğraftaki O Ünlü İsmi Sildiği Fark Edildi!"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Mersin'in deniz kızı",
       "normalized_title": "mersin in deniz kizi",
       "url": "https://www.hurriyet.com.tr/kelebek/hayat/mersinin-deniz-kizi-43377421",
@@ -947,7 +963,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.680125+00:00",
+      "collected_at": "2026-11-15T08:56:06.741413+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -984,7 +1000,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.680147+00:00",
+      "collected_at": "2026-11-15T08:56:06.741462+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1021,7 +1037,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.680181+00:00",
+      "collected_at": "2026-11-15T08:56:06.741536+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1058,7 +1074,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.680225+00:00",
+      "collected_at": "2026-11-15T08:56:06.741624+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1086,16 +1102,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Eski çocuk yıldızdan acı haber: Artık annesiyle cennette",
-      "normalized_title": "eski cocuk yildizdan aci haber artik annesiyle cennette",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/eski-cocuk-yildizdan-aci-haber-artik-annesiyle-cennette-43377640",
+      "title": "Magazin figürü değilim",
+      "normalized_title": "magazin figuru degilim",
+      "url": "https://www.hurriyet.com.tr/kelebek/magazin/magazin-figuru-degilim-43377424",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.680257+00:00",
+      "collected_at": "2026-11-15T08:56:06.741675+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1103,8 +1119,8 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/eski-cocuk-yildizdan-aci-haber-artik-annesiyle-cennette-43377640",
-          "title": "Eski çocuk yıldızdan acı haber: Artık annesiyle cennette"
+          "url": "https://www.hurriyet.com.tr/kelebek/magazin/magazin-figuru-degilim-43377424",
+          "title": "Magazin figürü değilim"
         }
       ],
       "publisher_domains": [
@@ -1123,29 +1139,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Pop kültürün iki farklı dünyası",
-      "normalized_title": "pop kulturun iki farkli dunyasi",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/pop-kulturun-iki-farkli-dunyasi-43377435",
-      "source": "hurriyet.com.tr",
+      "title": "Ata Demirer’in “Pervaneler” filminden Ayvalık’a anlamlı hediye",
+      "normalized_title": "ata demirer in pervaneler filminden ayvalik a anlamli hediye",
+      "url": "https://www.habercigazetesi.net/magazin/ata-demirerin-pervaneler-filminden-ayvalika-anlamli-hediye.html",
+      "source": "habercigazetesi.net",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "habercigazetesi.net",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.680285+00:00",
+      "collected_at": "2026-11-15T08:56:06.741741+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/pop-kulturun-iki-farkli-dunyasi-43377435",
-          "title": "Pop kültürün iki farklı dünyası"
+          "source": "habercigazetesi.net",
+          "source_domain": "habercigazetesi.net",
+          "url": "https://www.habercigazetesi.net/magazin/ata-demirerin-pervaneler-filminden-ayvalika-anlamli-hediye.html",
+          "title": "Ata Demirer’in “Pervaneler” filminden Ayvalık’a anlamlı hediye"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
+        "habercigazetesi.net"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1160,29 +1176,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Gökberk Yıldırım Smart Sahne'ye çıktı: Kerem Alışık'ı baba olarak görüyorum",
-      "normalized_title": "gokberk yildirim smart sahne ye cikti kerem alisik i baba olarak goruyorum",
-      "url": "https://www.milliyet.com.tr/magazin/gokberk-yildirim-smart-sahneye-cikti-kerem-alisiki-baba-olarak-goruyorum-7698945",
-      "source": "milliyet.com.tr",
+      "title": "Pervaneler yel değirmeni Ayvalık Belediyesine hediye edildi",
+      "normalized_title": "pervaneler yel degirmeni ayvalik belediyesine hediye edildi",
+      "url": "https://www.haberkenti.com/pervaneler-yel-degirmeni-ayvalik-belediyesine-hediye-edildi",
+      "source": "haberkenti.com",
       "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
+      "source_domain": "haberkenti.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.680351+00:00",
+      "collected_at": "2026-11-15T08:56:06.741914+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/gokberk-yildirim-smart-sahneye-cikti-kerem-alisiki-baba-olarak-goruyorum-7698945",
-          "title": "Gökberk Yıldırım Smart Sahne'ye çıktı: Kerem Alışık'ı baba olarak görüyorum"
+          "source": "haberkenti.com",
+          "source_domain": "haberkenti.com",
+          "url": "https://www.haberkenti.com/pervaneler-yel-degirmeni-ayvalik-belediyesine-hediye-edildi",
+          "title": "Pervaneler yel değirmeni Ayvalık Belediyesine hediye edildi"
         }
       ],
       "publisher_domains": [
-        "milliyet.com.tr"
+        "haberkenti.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1197,16 +1213,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Uzak Şehir'den ayrılan oyuncu şarkıcı oldu",
-      "normalized_title": "uzak sehir den ayrilan oyuncu sarkici oldu",
-      "url": "https://www.sozcu.com.tr/uzak-sehir-den-ayrilan-oyuncu-sarkici-oldu-p380997",
+      "title": "Kızılcık Şerbeti'nden ayrılan Murat Aygen nedenini açıkladı",
+      "normalized_title": "kizilcik serbeti nden ayrilan murat aygen nedenini acikladi",
+      "url": "https://www.sozcu.com.tr/kizilcik-serbeti-nden-ayrilan-murat-aygen-nedenini-acikladi-p381085",
       "source": "sozcu.com.tr",
       "source_role": "publisher",
       "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.680413+00:00",
+      "collected_at": "2026-11-15T08:56:06.741978+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1214,8 +1230,8 @@
         {
           "source": "sozcu.com.tr",
           "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/uzak-sehir-den-ayrilan-oyuncu-sarkici-oldu-p380997",
-          "title": "Uzak Şehir'den ayrılan oyuncu şarkıcı oldu"
+          "url": "https://www.sozcu.com.tr/kizilcik-serbeti-nden-ayrilan-murat-aygen-nedenini-acikladi-p381085",
+          "title": "Kızılcık Şerbeti'nden ayrılan Murat Aygen nedenini açıkladı"
         }
       ],
       "publisher_domains": [
@@ -1234,66 +1250,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Muazzez Abacı albümle anılıyor",
-      "normalized_title": "muazzez abaci albumle aniliyor",
-      "url": "https://www.hurriyet.com.tr/kelebek/stil/muazzez-abaci-albumle-aniliyor-43376638",
-      "source": "hurriyet.com.tr",
+      "title": "İlk sezonundan beri fenomen dizinin kadrosundaydı: 145 bölüm sonra vedası duygulandırdı",
+      "normalized_title": "ilk sezonundan beri fenomen dizinin kadrosundaydi 145 bolum sonra vedasi duygulandirdi",
+      "url": "https://www.sozcu.com.tr/ilk-sezonundan-beri-fenomen-dizinin-kadrosundaydi-145-bolum-sonra-vedasi-duygulandirdi-p381090",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.680439+00:00",
+      "collected_at": "2026-11-15T08:56:06.742056+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/stil/muazzez-abaci-albumle-aniliyor-43376638",
-          "title": "Muazzez Abacı albümle anılıyor"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/ilk-sezonundan-beri-fenomen-dizinin-kadrosundaydi-145-bolum-sonra-vedasi-duygulandirdi-p381090",
+          "title": "İlk sezonundan beri fenomen dizinin kadrosundaydı: 145 bölüm sonra vedası duygulandırdı"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Kayahan şarkıları müzikalde yaşayacak",
-      "normalized_title": "kayahan sarkilari muzikalde yasayacak",
-      "url": "https://www.hurriyet.com.tr/kelebek/stil/kayahan-sarkilari-muzikalde-yasayacak-43375128",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-14T18:25:50.680465+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/stil/kayahan-sarkilari-muzikalde-yasayacak-43375128",
-          "title": "Kayahan şarkıları müzikalde yaşayacak"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
+        "sozcu.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
