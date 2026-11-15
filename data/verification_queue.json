@@ -1,102 +1,33 @@
 {
-  "generated_at": "2026-11-15T14:10:52.009357+00:00",
+  "generated_at": "2026-11-15T19:03:39.474946+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
-      "title": "Leya Kırşan Deniz Kızı Marmara Filminin Başrolü Oldu: Çekimler Mersin'de Başlıyor!",
-      "normalized_title": "leya kirsan deniz kizi marmara filminin basrolu oldu cekimler mersin de basliyor",
-      "url": "https://www.gecce.com.tr/haber/leya-kirsan-deniz-kizi-marmara-filminin-basrolu-oldu-cekimler-mersinde-basliyor-333726.html",
-      "source": "gecce.com.tr",
+      "title": "Emel Sayın'dan miras açıklaması: Vasiyeti var mı?",
+      "normalized_title": "emel sayin dan miras aciklamasi vasiyeti var mi",
+      "url": "https://www.sozcu.com.tr/emel-sayindan-miras-aciklamasi-beni-rahatsiz-eden-bir-konu-p381459",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "gecce.com.tr",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.598216+00:00",
+      "collected_at": "2026-11-15T19:03:06.282022+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/mersinin-deniz-kizi-43377421",
-          "title": "Mersin'in deniz kızı"
-        },
-        {
-          "source": "gecce.com.tr",
-          "source_domain": "gecce.com.tr",
-          "url": "https://www.gecce.com.tr/haber/leya-kirsan-deniz-kizi-marmara-filminin-basrolu-oldu-cekimler-mersinde-basliyor-333726.html",
-          "title": "Leya Kırşan Deniz Kızı Marmara Filminin Başrolü Oldu: Çekimler Mersin'de Başlıyor!"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/emel-sayindan-miras-aciklamasi-beni-rahatsiz-eden-bir-konu-p381459",
+          "title": "Emel Sayın'dan miras açıklaması: Vasiyeti var mı?"
         }
       ],
       "publisher_domains": [
-        "gecce.com.tr",
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Leya Kırşan Deniz Kızı Marmara Filminin Başrolü Oldu: Çekimler Mersin'de Başlıyor! - Gecce Magazin Haberleri",
-        "og_title": "Leya Kırşan Deniz Kızı Marmara Filminin Başrolü Oldu: Çekimler Mersin'de Başlıyor!",
-        "description": "Leya Kırşan başrolünü üstlendiği Deniz Kızı Marmara filminde saçları duygularına göre renk değiştiren Marmara karakterini canlandıracak",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "title": "Mersin'in deniz kızı",
-          "summary": "",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/mersinin-deniz-kizi-43377421",
-          "match_score": 0.69,
-          "shared_keywords": [
-            "deniz",
-            "mersin"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "Bankadaki parası 60 milyon",
-      "normalized_title": "bankadaki parasi 60 milyon",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/bankadaki-parasi-60-milyon-43378778",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597034+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/bankadaki-parasi-60-milyon-43378778",
-          "title": "Bankadaki parası 60 milyon"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
+        "sozcu.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -112,38 +43,38 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Bankadaki parası 60 milyon - Son Dakika Magazin Haberleri",
-        "og_title": "Bankadaki parası 60 milyon",
-        "description": "Kadir İnanır’ın vefatının ardından mal varlığı ve vasiyetiyle ilgili tartışmalar sürüyor. Usta oyuncunun tüm mal varlığını hayat arkadaşı Jülide Kural’a bıraktığı vasiyetinin 17 Aralık’ta açıklanması beklenirken, bankadaki resmi nakit varlığının 60 milyon TL olduğu öğrenildi.",
+        "page_title": "Emel Sayın'dan miras açıklaması: Vasiyeti var mı? - Sözcü",
+        "og_title": "Emel Sayın'dan miras açıklaması: Vasiyeti var mı? - Sözcü Gazetesi",
+        "description": "Konser öncesinde basın mensuplarıyla konuşan Emel Sayın, bugüne kadar vasiyet hazırlamayı düşünmediğini söyledi. Ailesinin büyük bölümünü kaybettiğini anlatan sanatçı, evlat gibi sevdiği yeğenleriyle miras nedeniyle anlaşmazlık yaşanmasını istemediğini belirtti.",
         "error": null
       },
       "independent_source_matches": [],
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Emel Sayın’dan miras açıklaması: “Böyle bir şey olmasını asla istemem”",
-      "normalized_title": "emel sayin dan miras aciklamasi boyle bir sey olmasini asla istemem",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/emel-sayindan-miras-aciklamasi-boyle-bir-sey-olmasini-asla-istemem-43379286",
-      "source": "hurriyet.com.tr",
+      "title": "Kadir İnanır’ın mirasında para ’bilmecesi’! 60 milyon TL detayı gündemde: Evlerini neden sattı?",
+      "normalized_title": "kadir inanir in mirasinda para bilmecesi 60 milyon tl detayi gundemde evlerini neden satti",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/kadir-inanirin-mirasinda-para-bilmecesi-60-milyon-tl-detayi-gundemde-evlerini-neden-satti",
+      "source": "sabah.com.tr",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597122+00:00",
+      "collected_at": "2026-11-15T19:03:06.282131+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/emel-sayindan-miras-aciklamasi-boyle-bir-sey-olmasini-asla-istemem-43379286",
-          "title": "Emel Sayın’dan miras açıklaması: “Böyle bir şey olmasını asla istemem”"
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/kadir-inanirin-mirasinda-para-bilmecesi-60-milyon-tl-detayi-gundemde-evlerini-neden-satti",
+          "title": "Kadir İnanır’ın mirasında para ’bilmecesi’! 60 milyon TL detayı gündemde: Evlerini neden sattı?"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
+        "sabah.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -159,10 +90,57 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Emel Sayın’dan miras açıklaması: “Böyle bir şey olmasını asla istemem” - Son Dakika Magazin Haberleri",
-        "og_title": "Emel Sayın’dan miras açıklaması: “Böyle bir şey olmasını asla istemem”",
-        "description": "Türk sanat müziğinin usta isimlerinden Emel Sayın, son dönemde gündeme gelen miras tartışmaları hakkında konuştu. Miras konusunun kendisini rahatsız ettiğini dile getiren sanatçı, ailesiyle arasındaki güçlü bağa dikkat çekti.",
+        "page_title": "Kadir İnanır'ın mirasında para 'bilmecesi'! 60 milyon TL detayı gündemde: Evlerini neden sattı? - Galeri - Trend Magazin",
+        "og_title": "Kadir İnanır'ın mirasında para 'bilmecesi'! 60 milyon TL detayı gündemde: Evlerini neden sattı?",
+        "description": "Yeşilçam'ın usta ismi Kadir İnanır'ın vefatının ardından hayat arkadaşı Jülide Kural ile ailesi arasında başlayan miras tartışmaları büyümeye devam ediyor. Tüm mal varlığını 23 yıllık hayat arkadaşına bıraktığı öne sürülen sanatçının vasiyeti merakla...",
         "error": null
+      },
+      "independent_source_matches": [],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Emel Sayın'ın 'Kadir İnanır' sendromu",
+      "normalized_title": "emel sayin in kadir inanir sendromu",
+      "url": "https://www.odatv.com/magazin/emel-sayinin-kadir-inanir-sendromu-120171277",
+      "source": "odatv.com",
+      "source_role": "publisher",
+      "source_domain": "odatv.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-15T19:03:06.282203+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/emel-sayinin-kadir-inanir-sendromu-120171277",
+          "title": "Emel Sayın'ın 'Kadir İnanır' sendromu"
+        }
+      ],
+      "publisher_domains": [
+        "odatv.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "source_page_unavailable_needs_review",
+      "publication_approved": false,
+      "coverage_label": "single_publisher",
+      "source_page_check": {
+        "reachable": false,
+        "http_status": 403,
+        "page_title": "",
+        "og_title": "",
+        "description": "",
+        "error": "HTTP 403"
       },
       "independent_source_matches": [],
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."

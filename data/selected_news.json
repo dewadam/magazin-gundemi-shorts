@@ -1,80 +1,36 @@
 {
-  "generated_at": "2026-11-15T14:10:49.413235+00:00",
-  "candidate_count": 57,
-  "event_group_count": 52,
-  "multi_publisher_event_count": 5,
+  "generated_at": "2026-11-15T19:03:38.378022+00:00",
+  "candidate_count": 54,
+  "event_group_count": 49,
+  "multi_publisher_event_count": 4,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Leya Kırşan Deniz Kızı Marmara Filminin Başrolü Oldu: Çekimler Mersin'de Başlıyor!",
-      "normalized_title": "leya kirsan deniz kizi marmara filminin basrolu oldu cekimler mersin de basliyor",
-      "url": "https://www.gecce.com.tr/haber/leya-kirsan-deniz-kizi-marmara-filminin-basrolu-oldu-cekimler-mersinde-basliyor-333726.html",
-      "source": "gecce.com.tr",
+      "title": "Emel Sayın'dan miras açıklaması: Vasiyeti var mı?",
+      "normalized_title": "emel sayin dan miras aciklamasi vasiyeti var mi",
+      "url": "https://www.sozcu.com.tr/emel-sayindan-miras-aciklamasi-beni-rahatsiz-eden-bir-konu-p381459",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "gecce.com.tr",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.598216+00:00",
+      "collected_at": "2026-11-15T19:03:06.282022+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/mersinin-deniz-kizi-43377421",
-          "title": "Mersin'in deniz kızı"
-        },
-        {
-          "source": "gecce.com.tr",
-          "source_domain": "gecce.com.tr",
-          "url": "https://www.gecce.com.tr/haber/leya-kirsan-deniz-kizi-marmara-filminin-basrolu-oldu-cekimler-mersinde-basliyor-333726.html",
-          "title": "Leya Kırşan Deniz Kızı Marmara Filminin Başrolü Oldu: Çekimler Mersin'de Başlıyor!"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/emel-sayindan-miras-aciklamasi-beni-rahatsiz-eden-bir-konu-p381459",
+          "title": "Emel Sayın'dan miras açıklaması: Vasiyeti var mı?"
         }
       ],
       "publisher_domains": [
-        "gecce.com.tr",
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Bankadaki parası 60 milyon",
-      "normalized_title": "bankadaki parasi 60 milyon",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/bankadaki-parasi-60-milyon-43378778",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597034+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/bankadaki-parasi-60-milyon-43378778",
-          "title": "Bankadaki parası 60 milyon"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
+        "sozcu.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -89,29 +45,66 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Emel Sayın’dan miras açıklaması: “Böyle bir şey olmasını asla istemem”",
-      "normalized_title": "emel sayin dan miras aciklamasi boyle bir sey olmasini asla istemem",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/emel-sayindan-miras-aciklamasi-boyle-bir-sey-olmasini-asla-istemem-43379286",
-      "source": "hurriyet.com.tr",
+      "title": "Kadir İnanır’ın mirasında para ’bilmecesi’! 60 milyon TL detayı gündemde: Evlerini neden sattı?",
+      "normalized_title": "kadir inanir in mirasinda para bilmecesi 60 milyon tl detayi gundemde evlerini neden satti",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/kadir-inanirin-mirasinda-para-bilmecesi-60-milyon-tl-detayi-gundemde-evlerini-neden-satti",
+      "source": "sabah.com.tr",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597122+00:00",
+      "collected_at": "2026-11-15T19:03:06.282131+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/emel-sayindan-miras-aciklamasi-boyle-bir-sey-olmasini-asla-istemem-43379286",
-          "title": "Emel Sayın’dan miras açıklaması: “Böyle bir şey olmasını asla istemem”"
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/kadir-inanirin-mirasinda-para-bilmecesi-60-milyon-tl-detayi-gundemde-evlerini-neden-satti",
+          "title": "Kadir İnanır’ın mirasında para ’bilmecesi’! 60 milyon TL detayı gündemde: Evlerini neden sattı?"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Emel Sayın'ın 'Kadir İnanır' sendromu",
+      "normalized_title": "emel sayin in kadir inanir sendromu",
+      "url": "https://www.odatv.com/magazin/emel-sayinin-kadir-inanir-sendromu-120171277",
+      "source": "odatv.com",
+      "source_role": "publisher",
+      "source_domain": "odatv.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-15T19:03:06.282203+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/emel-sayinin-kadir-inanir-sendromu-120171277",
+          "title": "Emel Sayın'ın 'Kadir İnanır' sendromu"
+        }
+      ],
+      "publisher_domains": [
+        "odatv.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -137,7 +130,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597288+00:00",
+      "collected_at": "2026-11-15T19:03:06.282296+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -149,23 +142,30 @@
           "title": "Zeynep Casalini 10 yıl önce boşandığı Tahsin Berk ile yeniden evlendi: 'Anlatılmaz yaşanır'"
         },
         {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/56-yasindaki-zeynep-casalini-10-yil-once-bosandigi-esiyle-yeniden-evlendi-p381429",
+          "title": "56 yaşındaki Zeynep Casalini 10 yıl önce boşandığı eşiyle yeniden evlendi"
+        },
+        {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/zeynep-casalini-ile-tahsin-berk-yeniden-evlendi-3927278",
-          "title": "Boşanmanın üzerinden 10 yıl geçmişti! Zeynep Casalini ve Tahsin Berk yeniden evlendi"
+          "url": "https://www.haberturk.com/magazin/foto/zeynep-casalini-ile-tahsin-berk-yeniden-evlendi-3927278/4",
+          "title": "Zeynep Casalini ile Tahsin Berk yeniden evlendi"
         }
       ],
       "publisher_domains": [
         "cumhuriyet.com.tr",
-        "haberturk.com"
+        "haberturk.com",
+        "sozcu.com.tr"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 30.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -181,7 +181,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597831+00:00",
+      "collected_at": "2026-11-15T19:03:06.283467+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -225,7 +225,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.598000+00:00",
+      "collected_at": "2026-11-15T19:03:06.283836+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -269,7 +269,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.598216+00:00",
+      "collected_at": "2026-11-15T19:03:06.285209+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -304,50 +304,6 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Halit Ergenç'ten babalık itirafı: “Çocuklarıma karşı katı bir babayım”",
-      "normalized_title": "halit ergenc ten babalik itirafi cocuklarima karsi kati bir babayim",
-      "url": "https://www.cnnturk.com/magazin/galeri/halit-ergencten-babalik-itirafi-cocuklarima-karsi-kati-bir-babayim-3492728",
-      "source": "cnnturk.com",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.598373+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/halit-ergenc-cocuklarima-karsi-kati-bir-babayim-43376531",
-          "title": "Halit Ergenç: Çocuklarıma karşı katı bir babayım"
-        },
-        {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/halit-ergencten-babalik-itirafi-cocuklarima-karsi-kati-bir-babayim-3492728",
-          "title": "Halit Ergenç'ten babalık itirafı: “Çocuklarıma karşı katı bir babayım”"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com",
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
       "title": "Bankadaki parası 60 milyon",
       "normalized_title": "bankadaki parasi 60 milyon",
       "url": "https://www.hurriyet.com.tr/kelebek/hayat/bankadaki-parasi-60-milyon-43378778",
@@ -357,7 +313,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597034+00:00",
+      "collected_at": "2026-11-15T19:03:06.281906+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -385,29 +341,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Emel Sayın’dan miras açıklaması: “Böyle bir şey olmasını asla istemem”",
-      "normalized_title": "emel sayin dan miras aciklamasi boyle bir sey olmasini asla istemem",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/emel-sayindan-miras-aciklamasi-boyle-bir-sey-olmasini-asla-istemem-43379286",
-      "source": "hurriyet.com.tr",
+      "title": "Emel Sayın'dan miras açıklaması: Vasiyeti var mı?",
+      "normalized_title": "emel sayin dan miras aciklamasi vasiyeti var mi",
+      "url": "https://www.sozcu.com.tr/emel-sayindan-miras-aciklamasi-beni-rahatsiz-eden-bir-konu-p381459",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597122+00:00",
+      "collected_at": "2026-11-15T19:03:06.282022+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/emel-sayindan-miras-aciklamasi-boyle-bir-sey-olmasini-asla-istemem-43379286",
-          "title": "Emel Sayın’dan miras açıklaması: “Böyle bir şey olmasını asla istemem”"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/emel-sayindan-miras-aciklamasi-beni-rahatsiz-eden-bir-konu-p381459",
+          "title": "Emel Sayın'dan miras açıklaması: Vasiyeti var mı?"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
+        "sozcu.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -422,29 +378,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Kadir İnanır'ın mal varlığıyla ilgili yeni detay! 60 milyon TL'lik servet ortaya çıktı",
-      "normalized_title": "kadir inanir in mal varligiyla ilgili yeni detay 60 milyon tl lik servet ortaya cikti",
-      "url": "https://www.milliyet.com.tr/magazin/kadir-inanirin-mal-varligiyla-ilgili-carpici-iddia-60-milyon-tllik-servet-ortaya-cikti-7701042",
-      "source": "milliyet.com.tr",
+      "title": "Kadir İnanır’ın mirasında para ’bilmecesi’! 60 milyon TL detayı gündemde: Evlerini neden sattı?",
+      "normalized_title": "kadir inanir in mirasinda para bilmecesi 60 milyon tl detayi gundemde evlerini neden satti",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/kadir-inanirin-mirasinda-para-bilmecesi-60-milyon-tl-detayi-gundemde-evlerini-neden-satti",
+      "source": "sabah.com.tr",
       "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
+      "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597175+00:00",
+      "collected_at": "2026-11-15T19:03:06.282131+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/kadir-inanirin-mal-varligiyla-ilgili-carpici-iddia-60-milyon-tllik-servet-ortaya-cikti-7701042",
-          "title": "Kadir İnanır'ın mal varlığıyla ilgili yeni detay! 60 milyon TL'lik servet ortaya çıktı"
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/kadir-inanirin-mirasinda-para-bilmecesi-60-milyon-tl-detayi-gundemde-evlerini-neden-satti",
+          "title": "Kadir İnanır’ın mirasında para ’bilmecesi’! 60 milyon TL detayı gündemde: Evlerini neden sattı?"
         }
       ],
       "publisher_domains": [
-        "milliyet.com.tr"
+        "sabah.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -468,7 +424,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597210+00:00",
+      "collected_at": "2026-11-15T19:03:06.282203+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -496,43 +452,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Avril Lavigne anne oldu",
-      "normalized_title": "avril lavigne anne oldu",
-      "url": "https://www.diken.com.tr/avril-lavigne-anne-oldu/",
-      "source": "diken.com.tr",
-      "source_role": "publisher",
-      "source_domain": "diken.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597238+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/avril-lavigne-anne-oldu/",
-          "title": "Avril Lavigne anne oldu"
-        }
-      ],
-      "publisher_domains": [
-        "diken.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Ünlü şarkıcıyla eşi 10 yıl önce boşanmıştı... Bodrum'da yeniden evlendiler",
       "normalized_title": "unlu sarkiciyla esi 10 yil once bosanmisti bodrum da yeniden evlendiler",
       "url": "https://www.hurriyet.com.tr/kelebek/hayat/unlu-sanatci-10-yil-sonra-bodrumda-yeniden-nikah-masasina-oturdu-43378246",
@@ -542,7 +461,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597335+00:00",
+      "collected_at": "2026-11-15T19:03:06.282381+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -570,29 +489,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Muğla’da aşklarına 10 yıl sonra ikinci şansı verdiler! Ünlü sanatçı yeniden gelin oldu...",
-      "normalized_title": "mugla da asklarina 10 yil sonra ikinci sansi verdiler unlu sanatci yeniden gelin oldu",
-      "url": "https://www.yeniasir.com.tr/magazin/2026/11/14/muglada-asklarina-10-yil-sonra-ikinci-sansi-verdiler-unlu-sanatci-yeniden-gelin-oldu",
-      "source": "yeniasir.com.tr",
+      "title": "Avril Lavigne anne oldu",
+      "normalized_title": "avril lavigne anne oldu",
+      "url": "https://www.diken.com.tr/avril-lavigne-anne-oldu/",
+      "source": "diken.com.tr",
       "source_role": "publisher",
-      "source_domain": "yeniasir.com.tr",
+      "source_domain": "diken.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597435+00:00",
+      "collected_at": "2026-11-15T19:03:06.282579+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "yeniasir.com.tr",
-          "source_domain": "yeniasir.com.tr",
-          "url": "https://www.yeniasir.com.tr/magazin/2026/11/14/muglada-asklarina-10-yil-sonra-ikinci-sansi-verdiler-unlu-sanatci-yeniden-gelin-oldu",
-          "title": "Muğla’da aşklarına 10 yıl sonra ikinci şansı verdiler! Ünlü sanatçı yeniden gelin oldu..."
+          "source": "diken.com.tr",
+          "source_domain": "diken.com.tr",
+          "url": "https://www.diken.com.tr/avril-lavigne-anne-oldu/",
+          "title": "Avril Lavigne anne oldu"
         }
       ],
       "publisher_domains": [
-        "yeniasir.com.tr"
+        "diken.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -616,7 +535,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597471+00:00",
+      "collected_at": "2026-11-15T19:03:06.282648+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -653,7 +572,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597497+00:00",
+      "collected_at": "2026-11-15T19:03:06.282701+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -690,7 +609,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597538+00:00",
+      "collected_at": "2026-11-15T19:03:06.282819+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -727,7 +646,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597572+00:00",
+      "collected_at": "2026-11-15T19:03:06.282886+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -755,6 +674,43 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "Bizim ailedeki en çirkin sesliyim",
+      "normalized_title": "bizim ailedeki en cirkin sesliyim",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/bizim-ailedeki-en-cirkin-sesliyim-43378767",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-15T19:03:06.282943+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/bizim-ailedeki-en-cirkin-sesliyim-43378767",
+          "title": "Bizim ailedeki en çirkin sesliyim"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Sevgilisi taşınırken kamyonun başında bekledi",
       "normalized_title": "sevgilisi tasinirken kamyonun basinda bekledi",
       "url": "https://www.hurriyet.com.tr/kelebek/hayat/kirasi-324-bine-cikti-tasindi-43378762",
@@ -764,7 +720,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597603+00:00",
+      "collected_at": "2026-11-15T19:03:06.283004+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -801,7 +757,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597639+00:00",
+      "collected_at": "2026-11-15T19:03:06.283074+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -829,29 +785,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Oğuzhan Koç'un yeni adresi belli oldu",
-      "normalized_title": "oguzhan koc un yeni adresi belli oldu",
-      "url": "https://www.odatv.com/magazin/oguzhan-kocun-yeni-adresi-belli-oldu-120171033",
-      "source": "odatv.com",
+      "title": "Oğuzhan Koç ve Hazal Subaşı'ndan kira krizi sonrası taşınma: Yeni adreslerine yerleştiler",
+      "normalized_title": "oguzhan koc ve hazal subasi ndan kira krizi sonrasi tasinma yeni adreslerine yerlestiler",
+      "url": "https://www.cumhuriyet.com.tr/magazin/oguzhan-koc-ve-hazal-subasi-ndan-kira-krizi-sonrasi-tasinma-yeni-adreslerine-yerlestiler-2556376",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "odatv.com",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597668+00:00",
+      "collected_at": "2026-11-15T19:03:06.283155+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/magazin/oguzhan-kocun-yeni-adresi-belli-oldu-120171033",
-          "title": "Oğuzhan Koç'un yeni adresi belli oldu"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/oguzhan-koc-ve-hazal-subasi-ndan-kira-krizi-sonrasi-tasinma-yeni-adreslerine-yerlestiler-2556376",
+          "title": "Oğuzhan Koç ve Hazal Subaşı'ndan kira krizi sonrası taşınma: Yeni adreslerine yerleştiler"
         }
       ],
       "publisher_domains": [
-        "odatv.com"
+        "cumhuriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -866,29 +822,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Kirası 85 bin liradan 324 bin liraya çıktı! Oğuzhan Koç çareyi taşınmakta buldu",
-      "normalized_title": "kirasi 85 bin liradan 324 bin liraya cikti oguzhan koc careyi tasinmakta buldu",
-      "url": "https://www.sondakika.com/magazin/haber-kirasi-85-bin-liradan-324-bin-liraya-cikti-20429704/",
-      "source": "sondakika.com",
+      "title": "Aylık Kirası 85 Binden 324 Bine Çıkan Oğuzhan Koç Levent'teki Evinden Taşındı",
+      "normalized_title": "aylik kirasi 85 binden 324 bine cikan oguzhan koc levent teki evinden tasindi",
+      "url": "https://onedio.com/haber/aylik-kirasi-85-binden-324-bine-cikan-oguzhan-koc-levent-teki-evinden-tasindi-1395280",
+      "source": "onedio.com",
       "source_role": "publisher",
-      "source_domain": "sondakika.com",
+      "source_domain": "onedio.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597710+00:00",
+      "collected_at": "2026-11-15T19:03:06.283233+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sondakika.com",
-          "source_domain": "sondakika.com",
-          "url": "https://www.sondakika.com/magazin/haber-kirasi-85-bin-liradan-324-bin-liraya-cikti-20429704/",
-          "title": "Kirası 85 bin liradan 324 bin liraya çıktı! Oğuzhan Koç çareyi taşınmakta buldu"
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/aylik-kirasi-85-binden-324-bine-cikan-oguzhan-koc-levent-teki-evinden-tasindi-1395280",
+          "title": "Aylık Kirası 85 Binden 324 Bine Çıkan Oğuzhan Koç Levent'teki Evinden Taşındı"
         }
       ],
       "publisher_domains": [
-        "sondakika.com"
+        "onedio.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -912,7 +868,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597740+00:00",
+      "collected_at": "2026-11-15T19:03:06.283301+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -949,7 +905,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597766+00:00",
+      "collected_at": "2026-11-15T19:03:06.283350+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -986,7 +942,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597803+00:00",
+      "collected_at": "2026-11-15T19:03:06.283417+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1023,7 +979,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597893+00:00",
+      "collected_at": "2026-11-15T19:03:06.283586+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1060,7 +1016,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.597965+00:00",
+      "collected_at": "2026-11-15T19:03:06.283757+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1097,7 +1053,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.598053+00:00",
+      "collected_at": "2026-11-15T19:03:06.283896+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1134,7 +1090,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.598080+00:00",
+      "collected_at": "2026-11-15T19:03:06.283990+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1162,29 +1118,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Efsaneye yıldız kadro",
-      "normalized_title": "efsaneye yildiz kadro",
-      "url": "https://www.milliyet.com.tr/magazin/efsaneye-yildiz-kadro-7700485",
-      "source": "milliyet.com.tr",
+      "title": "Eski çocuk yıldızdan acı haber: Artık annesiyle cennette",
+      "normalized_title": "eski cocuk yildizdan aci haber artik annesiyle cennette",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/eski-cocuk-yildizdan-aci-haber-artik-annesiyle-cennette-43377640",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.598127+00:00",
+      "collected_at": "2026-11-15T19:03:06.284105+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/efsaneye-yildiz-kadro-7700485",
-          "title": "Efsaneye yıldız kadro"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/eski-cocuk-yildizdan-aci-haber-artik-annesiyle-cennette-43377640",
+          "title": "Eski çocuk yıldızdan acı haber: Artık annesiyle cennette"
         }
       ],
       "publisher_domains": [
-        "milliyet.com.tr"
+        "hurriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1199,29 +1155,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Çocuktan Al Haberi'nin Kutu Bebek'i ile Anne'nin Melek'i Aynı Sette Buluşuyor: Yeni Projeleri Belli Oldu!",
-      "normalized_title": "cocuktan al haberi nin kutu bebek i ile anne nin melek i ayni sette bulusuyor yeni projeleri belli oldu",
-      "url": "https://onedio.com/haber/cocuktan-al-haberi-nin-kutu-bebek-i-ile-anne-nin-melek-i-ayni-sette-bulusuyor-yeni-projeleri-belli-oldu-1394876",
-      "source": "onedio.com",
+      "title": "Rihanna, Podyumlardan İlham Alan Yeni Bir Stil Detayıyla Karşımızda",
+      "normalized_title": "rihanna podyumlardan ilham alan yeni bir stil detayiyla karsimizda",
+      "url": "https://vogue.com.tr/unlu-stili/rihanna-podyumlardan-ilham-alan-yeni-bir-stil-detayiyla-karsimizda",
+      "source": "vogue.com.tr",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "vogue.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.598173+00:00",
+      "collected_at": "2026-11-15T19:03:06.284235+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/cocuktan-al-haberi-nin-kutu-bebek-i-ile-anne-nin-melek-i-ayni-sette-bulusuyor-yeni-projeleri-belli-oldu-1394876",
-          "title": "Çocuktan Al Haberi'nin Kutu Bebek'i ile Anne'nin Melek'i Aynı Sette Buluşuyor: Yeni Projeleri Belli Oldu!"
+          "source": "vogue.com.tr",
+          "source_domain": "vogue.com.tr",
+          "url": "https://vogue.com.tr/unlu-stili/rihanna-podyumlardan-ilham-alan-yeni-bir-stil-detayiyla-karsimizda",
+          "title": "Rihanna, Podyumlardan İlham Alan Yeni Bir Stil Detayıyla Karşımızda"
         }
       ],
       "publisher_domains": [
-        "onedio.com"
+        "vogue.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1236,29 +1192,66 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "O Kelimeyi Hatırlayamadı: ABtalks'a Konuşan Halit Ergenç'in İngilizcesi Gündem Oldu!",
-      "normalized_title": "o kelimeyi hatirlayamadi abtalks a konusan halit ergenc in ingilizcesi gundem oldu",
-      "url": "https://onedio.com/haber/halit-ergenc-abtalks-ta-ingilizcesiyle-konustu-keske-annem-icin-daha-fazlasini-yapsaydim-1395001",
-      "source": "onedio.com",
+      "title": "Çok gurur duyuyorum",
+      "normalized_title": "cok gurur duyuyorum",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/cok-gurur-duyuyorum-43378774",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-15T14:10:14.598288+00:00",
+      "collected_at": "2026-11-15T19:03:06.284299+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/halit-ergenc-abtalks-ta-ingilizcesiyle-konustu-keske-annem-icin-daha-fazlasini-yapsaydim-1395001",
-          "title": "O Kelimeyi Hatırlayamadı: ABtalks'a Konuşan Halit Ergenç'in İngilizcesi Gündem Oldu!"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/cok-gurur-duyuyorum-43378774",
+          "title": "Çok gurur duyuyorum"
         }
       ],
       "publisher_domains": [
-        "onedio.com"
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Fotoğraflardan çıkardı",
+      "normalized_title": "fotograflardan cikardi",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/fotograflardan-cikardi-43377429",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-15T19:03:06.284376+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/fotograflardan-cikardi-43377429",
+          "title": "Fotoğraflardan çıkardı"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
