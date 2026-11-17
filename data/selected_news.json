@@ -1,43 +1,94 @@
 {
-  "generated_at": "2026-11-17T10:22:45.618700+00:00",
-  "candidate_count": 99,
-  "event_group_count": 53,
-  "multi_publisher_event_count": 6,
+  "generated_at": "2026-11-17T21:15:59.756009+00:00",
+  "candidate_count": 100,
+  "event_group_count": 54,
+  "multi_publisher_event_count": 5,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Beyonce, 100 kez Grammy ödülüne aday gösterilen ilk sanatçı oldu",
-      "normalized_title": "beyonce 100 kez grammy odulune aday gosterilen ilk sanatci oldu",
-      "url": "https://www.trthaber.com/haber/dunya/beyonce-100-kez-grammy-odulune-aday-gosterilen-ilk-sanatci-oldu-963512.html",
-      "source": "trthaber.com",
+      "title": "Sinem Kobal'dan aile saadeti paylaşımı: Kenan İmirzalıoğlu ve kızlarıyla Antalya'da",
+      "normalized_title": "sinem kobal dan aile saadeti paylasimi kenan imirzalioglu ve kizlariyla antalya da",
+      "url": "https://www.sozcu.com.tr/sinem-kobal-dan-aile-saadeti-paylasimi-kenan-imirzalioglu-ve-kizlariyla-antalya-da-p382164",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "trthaber.com",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.931371+00:00",
+      "collected_at": "2026-11-17T21:15:22.633335+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "trthaber.com",
-          "source_domain": "trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/beyonce-100-kez-grammy-odulune-aday-gosterilen-ilk-sanatci-oldu-963512.html",
-          "title": "Beyonce, 100 kez Grammy ödülüne aday gösterilen ilk sanatçı oldu"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/sinem-kobal-dan-aile-saadeti-paylasimi-kenan-imirzalioglu-ve-kizlariyla-antalya-da-p382164",
+          "title": "Sinem Kobal'dan aile saadeti paylaşımı: Kenan İmirzalıoğlu ve kızlarıyla Antalya'da"
         },
         {
-          "source": "aa.com.tr",
-          "source_domain": "aa.com.tr",
-          "url": "https://www.aa.com.tr/tr/kultur/beyonce-grammy-odullerine-100-kez-aday-gosterilen-ilk-sanatci-oldu/4127268",
-          "title": "Beyonce, Grammy Ödülleri'ne 100 kez aday gösterilen ilk sanatçı oldu"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/sinem-kobal-ve-kenan-imirzalioglu-ndan-tatili-pozu-3927803",
+          "title": "Sinem Kobal ve Kenan İmirzalıoğlu'ndan tatil pozu"
+        },
+        {
+          "source": "ahaber.com.tr",
+          "source_domain": "ahaber.com.tr",
+          "url": "https://www.ahaber.com.tr/galeri/magazin/sinem-kobal-ve-kenan-imirzalioglu-kizlariyla-antalyada",
+          "title": "Sinem Kobal ve Kenan İmirzalıoğlu'ndan Antalya'da aşk dolu poz!"
         }
       ],
       "publisher_domains": [
-        "aa.com.tr",
-        "trthaber.com"
+        "ahaber.com.tr",
+        "haberturk.com",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Yüzükler takıldı, tarih not edildi! Oyuncu Şifanur Gül ve Berk Bakioğlu nişanlandı: İşte dönüm noktası",
+      "normalized_title": "yuzukler takildi tarih not edildi oyuncu sifanur gul ve berk bakioglu nisanlandi iste donum noktasi",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/yuzukler-takildi-tarih-not-edildi-oyuncu-sifanur-gul-ve-berk-bakioglu-nisanlandi-iste-donum-noktasi",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-17T21:15:22.635052+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/sifanur-gul-ile-berk-bakioglu-nisanlandi-3927378",
+          "title": "Şifanur Gül ile Berk Bakioğlu nişanlandı"
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/yuzukler-takildi-tarih-not-edildi-oyuncu-sifanur-gul-ve-berk-bakioglu-nisanlandi-iste-donum-noktasi",
+          "title": "Yüzükler takıldı, tarih not edildi! Oyuncu Şifanur Gül ve Berk Bakioğlu nişanlandı: İşte dönüm noktası"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "sabah.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -52,143 +103,90 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "İngilizlere ‘Haysiyet’i anlattı",
-      "normalized_title": "ingilizlere haysiyet i anlatti",
-      "url": "https://www.milliyet.com.tr/magazin/ingilizlere-haysiyeti-anlatti-7702080",
-      "source": "milliyet.com.tr",
+      "title": "Robert Pattinson: Alacakaranlık yıldızı nasıl 007 oldu?",
+      "normalized_title": "robert pattinson alacakaranlik yildizi nasil 007 oldu",
+      "url": "https://www.bbc.com/turkce/articles/cwlyljmgq2m6o",
+      "source": "bbc.com",
       "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
+      "source_domain": "bbc.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.932481+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [
-        {
-          "source": "posta.com.tr",
-          "source_role": "publisher",
-          "source_domain": "posta.com.tr",
-          "title": "İngilizlere 'Haysiyet'i anlattı",
-          "url": "https://www.posta.com.tr/magazin/ingilizlere-haysiyeti-anlatti-3065181",
-          "published_at": null
-        }
-      ],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/ingilizlere-haysiyeti-anlatti-7702080",
-          "title": "İngilizlere ‘Haysiyet’i anlattı"
-        },
-        {
-          "source": "posta.com.tr",
-          "source_domain": "posta.com.tr",
-          "url": "https://www.posta.com.tr/magazin/ingilizlere-haysiyeti-anlatti-3065181",
-          "title": "İngilizlere 'Haysiyet'i anlattı"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr",
-        "posta.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": true,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Sibel Taşçıoğlu'ndan 'Kızılcık Şerbeti' açıklaması: Sessizliğinin nedenini ve ayrılık sürecini anlattı",
-      "normalized_title": "sibel tascioglu ndan kizilcik serbeti aciklamasi sessizliginin nedenini ve ayrilik surecini anlatti",
-      "url": "https://www.cumhuriyet.com.tr/magazin/sibel-tascioglu-ndan-kizilcik-serbeti-aciklamasi-sessizliginin-nedenini-ve-ayrilik-surecini-anlatti-2556651",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.932619+00:00",
+      "collected_at": "2026-11-17T21:15:22.633070+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/sibel-tascioglu-ndan-kizilcik-serbeti-aciklamasi-sessizliginin-nedenini-ve-ayrilik-surecini-anlatti-2556651",
-          "title": "Sibel Taşçıoğlu'ndan 'Kızılcık Şerbeti' açıklaması: Sessizliğinin nedenini ve ayrılık sürecini anlattı"
-        },
-        {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/sibel-tascioglu-kizilcik-serbetinden-neden-ayrildi-ilk-kez-acikladi-3494086",
-          "title": "Sibel Taşçıoğlu Kızılcık Şerbeti'nden neden ayrıldı? İlk kez açıkladı!"
+          "source": "bbc.com",
+          "source_domain": "bbc.com",
+          "url": "https://www.bbc.com/turkce/articles/cwlyljmgq2m6o",
+          "title": "Robert Pattinson: Alacakaranlık yıldızı nasıl 007 oldu?"
         }
       ],
       "publisher_domains": [
-        "cnnturk.com",
-        "cumhuriyet.com.tr"
+        "bbc.com"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 10.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "multi_publisher"
+      "coverage_label": "single_publisher"
     }
   ],
   "event_groups_preview": [
     {
-      "title": "Beyonce, 100 kez Grammy ödülüne aday gösterilen ilk sanatçı oldu",
-      "normalized_title": "beyonce 100 kez grammy odulune aday gosterilen ilk sanatci oldu",
-      "url": "https://www.trthaber.com/haber/dunya/beyonce-100-kez-grammy-odulune-aday-gosterilen-ilk-sanatci-oldu-963512.html",
-      "source": "trthaber.com",
+      "title": "Sinem Kobal'dan aile saadeti paylaşımı: Kenan İmirzalıoğlu ve kızlarıyla Antalya'da",
+      "normalized_title": "sinem kobal dan aile saadeti paylasimi kenan imirzalioglu ve kizlariyla antalya da",
+      "url": "https://www.sozcu.com.tr/sinem-kobal-dan-aile-saadeti-paylasimi-kenan-imirzalioglu-ve-kizlariyla-antalya-da-p382164",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "trthaber.com",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.931371+00:00",
+      "collected_at": "2026-11-17T21:15:22.633335+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "trthaber.com",
-          "source_domain": "trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/beyonce-100-kez-grammy-odulune-aday-gosterilen-ilk-sanatci-oldu-963512.html",
-          "title": "Beyonce, 100 kez Grammy ödülüne aday gösterilen ilk sanatçı oldu"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/sinem-kobal-dan-aile-saadeti-paylasimi-kenan-imirzalioglu-ve-kizlariyla-antalya-da-p382164",
+          "title": "Sinem Kobal'dan aile saadeti paylaşımı: Kenan İmirzalıoğlu ve kızlarıyla Antalya'da"
         },
         {
-          "source": "aa.com.tr",
-          "source_domain": "aa.com.tr",
-          "url": "https://www.aa.com.tr/tr/kultur/beyonce-grammy-odullerine-100-kez-aday-gosterilen-ilk-sanatci-oldu/4127268",
-          "title": "Beyonce, Grammy Ödülleri'ne 100 kez aday gösterilen ilk sanatçı oldu"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/sinem-kobal-ve-kenan-imirzalioglu-ndan-tatili-pozu-3927803",
+          "title": "Sinem Kobal ve Kenan İmirzalıoğlu'ndan tatil pozu"
+        },
+        {
+          "source": "ahaber.com.tr",
+          "source_domain": "ahaber.com.tr",
+          "url": "https://www.ahaber.com.tr/galeri/magazin/sinem-kobal-ve-kenan-imirzalioglu-kizlariyla-antalyada",
+          "title": "Sinem Kobal ve Kenan İmirzalıoğlu'ndan Antalya'da aşk dolu poz!"
         }
       ],
       "publisher_domains": [
-        "aa.com.tr",
-        "trthaber.com"
+        "ahaber.com.tr",
+        "haberturk.com",
+        "sozcu.com.tr"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 30.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -204,16 +202,16 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.931898+00:00",
+      "collected_at": "2026-11-17T21:15:22.633745+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/galeri-surpriz-nikah-sarkici-kutsi-evlendi-43379622",
-          "title": "Sürpriz nikah... Şarkıcı Kutsi evlendi!"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/kutsi-ucuncu-kez-evlendi-surpriz-nikah-p381678",
+          "title": "Kutsi üçüncü kez evlendi! Sürpriz nikah"
         },
         {
           "source": "haberturk.com",
@@ -224,7 +222,7 @@
       ],
       "publisher_domains": [
         "haberturk.com",
-        "hurriyet.com.tr"
+        "sozcu.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -239,28 +237,19 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "İngilizlere ‘Haysiyet’i anlattı",
-      "normalized_title": "ingilizlere haysiyet i anlatti",
-      "url": "https://www.milliyet.com.tr/magazin/ingilizlere-haysiyeti-anlatti-7702080",
-      "source": "milliyet.com.tr",
+      "title": "İNGİLİZLERE HAYSİYETİ ANLATTI - Magazin Haberleri",
+      "normalized_title": "ingilizlere haysiyeti anlatti magazin haberleri",
+      "url": "https://www.cnnturk.com/magazin/galeri/ingilizlere-haysiyeti-anlatti-3494396",
+      "source": "cnnturk.com",
       "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
+      "source_domain": "cnnturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.932481+00:00",
+      "collected_at": "2026-11-17T21:15:22.634212+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [
-        {
-          "source": "posta.com.tr",
-          "source_role": "publisher",
-          "source_domain": "posta.com.tr",
-          "title": "İngilizlere 'Haysiyet'i anlattı",
-          "url": "https://www.posta.com.tr/magazin/ingilizlere-haysiyeti-anlatti-3065181",
-          "published_at": null
-        }
-      ],
+      "also_reported_by": [],
       "source_articles": [
         {
           "source": "milliyet.com.tr",
@@ -269,59 +258,15 @@
           "title": "İngilizlere ‘Haysiyet’i anlattı"
         },
         {
-          "source": "posta.com.tr",
-          "source_domain": "posta.com.tr",
-          "url": "https://www.posta.com.tr/magazin/ingilizlere-haysiyeti-anlatti-3065181",
-          "title": "İngilizlere 'Haysiyet'i anlattı"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr",
-        "posta.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": true,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Sibel Taşçıoğlu'ndan 'Kızılcık Şerbeti' açıklaması: Sessizliğinin nedenini ve ayrılık sürecini anlattı",
-      "normalized_title": "sibel tascioglu ndan kizilcik serbeti aciklamasi sessizliginin nedenini ve ayrilik surecini anlatti",
-      "url": "https://www.cumhuriyet.com.tr/magazin/sibel-tascioglu-ndan-kizilcik-serbeti-aciklamasi-sessizliginin-nedenini-ve-ayrilik-surecini-anlatti-2556651",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.932619+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/sibel-tascioglu-ndan-kizilcik-serbeti-aciklamasi-sessizliginin-nedenini-ve-ayrilik-surecini-anlatti-2556651",
-          "title": "Sibel Taşçıoğlu'ndan 'Kızılcık Şerbeti' açıklaması: Sessizliğinin nedenini ve ayrılık sürecini anlattı"
-        },
-        {
           "source": "cnnturk.com",
           "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/sibel-tascioglu-kizilcik-serbetinden-neden-ayrildi-ilk-kez-acikladi-3494086",
-          "title": "Sibel Taşçıoğlu Kızılcık Şerbeti'nden neden ayrıldı? İlk kez açıkladı!"
+          "url": "https://www.cnnturk.com/magazin/galeri/ingilizlere-haysiyeti-anlatti-3494396",
+          "title": "İNGİLİZLERE HAYSİYETİ ANLATTI - Magazin Haberleri"
         }
       ],
       "publisher_domains": [
         "cnnturk.com",
-        "cumhuriyet.com.tr"
+        "milliyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -336,80 +281,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Mahsun Kırmızıgül’den Ahmet Kaya açıklaması: 10. Yıl Marşı’nda ayağa kalkmasaydım linç edilecektim",
-      "normalized_title": "mahsun kirmizigul den ahmet kaya aciklamasi 10 yil marsi nda ayaga kalkmasaydim linc edilecektim",
-      "url": "https://gazeteoksijen.com/turkiye/mahsun-kirmizigulden-ahmet-kaya-aciklamasi-10-yil-marsinda-ayaga-kalkmasaydim-linc-edilecektim-296225",
-      "source": "gazeteoksijen.com",
+      "title": "Yüzükler takıldı, tarih not edildi! Oyuncu Şifanur Gül ve Berk Bakioğlu nişanlandı: İşte dönüm noktası",
+      "normalized_title": "yuzukler takildi tarih not edildi oyuncu sifanur gul ve berk bakioglu nisanlandi iste donum noktasi",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/yuzukler-takildi-tarih-not-edildi-oyuncu-sifanur-gul-ve-berk-bakioglu-nisanlandi-iste-donum-noktasi",
+      "source": "sabah.com.tr",
       "source_role": "publisher",
-      "source_domain": "gazeteoksijen.com",
+      "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.933009+00:00",
+      "collected_at": "2026-11-17T21:15:22.635052+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "indyturk.com",
-          "source_domain": "indyturk.com",
-          "url": "https://www.indyturk.com/node/785294/haber/27-y%C4%B1l-sonra-konu%C5%9Ftu-mahsun-k%C4%B1rm%C4%B1z%C4%B1g%C3%BClden-ahmet-kaya-a%C3%A7%C4%B1klamas%C4%B1",
-          "title": "27 yıl sonra konuştu: Mahsun Kırmızıgül'den Ahmet Kaya açıklaması"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/sifanur-gul-ile-berk-bakioglu-nisanlandi-3927378",
+          "title": "Şifanur Gül ile Berk Bakioğlu nişanlandı"
         },
         {
-          "source": "gazeteoksijen.com",
-          "source_domain": "gazeteoksijen.com",
-          "url": "https://gazeteoksijen.com/turkiye/mahsun-kirmizigulden-ahmet-kaya-aciklamasi-10-yil-marsinda-ayaga-kalkmasaydim-linc-edilecektim-296225",
-          "title": "Mahsun Kırmızıgül’den Ahmet Kaya açıklaması: 10. Yıl Marşı’nda ayağa kalkmasaydım linç edilecektim"
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/yuzukler-takildi-tarih-not-edildi-oyuncu-sifanur-gul-ve-berk-bakioglu-nisanlandi-iste-donum-noktasi",
+          "title": "Yüzükler takıldı, tarih not edildi! Oyuncu Şifanur Gül ve Berk Bakioğlu nişanlandı: İşte dönüm noktası"
         }
       ],
       "publisher_domains": [
-        "gazeteoksijen.com",
-        "indyturk.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Çelik'ten 'İkinci Haluk Levent' benzetmelerine tepki: 'Ben emek veriyorum, benim kazandığım para var'",
-      "normalized_title": "celik ten ikinci haluk levent benzetmelerine tepki ben emek veriyorum benim kazandigim para var",
-      "url": "https://www.cumhuriyet.com.tr/yasam/celik-ten-ikinci-haluk-levent-benzetmelerine-tepki-ben-emek-veriyorum-benim-kazandigim-para-var-2556661",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.933640+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/ikinci-haluk-levent-dediler-celik-ten-benim-kazandigim-para-aciklamasi-p381937",
-          "title": "'İkinci Haluk Levent' dediler: Çelik'ten 'Benim kazandığım para' açıklaması"
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/celik-ten-ikinci-haluk-levent-benzetmelerine-tepki-ben-emek-veriyorum-benim-kazandigim-para-var-2556661",
-          "title": "Çelik'ten 'İkinci Haluk Levent' benzetmelerine tepki: 'Ben emek veriyorum, benim kazandığım para var'"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "sozcu.com.tr"
+        "haberturk.com",
+        "sabah.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -433,7 +334,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.934791+00:00",
+      "collected_at": "2026-11-17T21:15:22.635227+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -468,6 +369,43 @@
       "coverage_label": "multi_publisher"
     },
     {
+      "title": "2027 Grammy Ödülleri adayları açıklandı",
+      "normalized_title": "2027 grammy odulleri adaylari aciklandi",
+      "url": "https://www.trthaber.com/haber/dunya/2027-grammy-odulleri-adaylari-aciklandi-963504.html",
+      "source": "trthaber.com",
+      "source_role": "publisher",
+      "source_domain": "trthaber.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-17T21:15:22.632990+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "trthaber.com",
+          "source_domain": "trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/2027-grammy-odulleri-adaylari-aciklandi-963504.html",
+          "title": "2027 Grammy Ödülleri adayları açıklandı"
+        }
+      ],
+      "publisher_domains": [
+        "trthaber.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Robert Pattinson: Alacakaranlık yıldızı nasıl 007 oldu?",
       "normalized_title": "robert pattinson alacakaranlik yildizi nasil 007 oldu",
       "url": "https://www.bbc.com/turkce/articles/cwlyljmgq2m6o",
@@ -477,7 +415,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.930949+00:00",
+      "collected_at": "2026-11-17T21:15:22.633070+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -505,8 +443,8 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Kraliyet ailesinden şaşırtan adım: Yeni ajanı 'davul çalarak' karşıladılar... Hizmetimize hoş geldin!",
-      "normalized_title": "kraliyet ailesinden sasirtan adim yeni ajani davul calarak karsiladilar hizmetimize hos geldin",
+      "title": "Kraliyet ailesinden şaşırtan adım: Yeni ajanı 'davul çalarak' karşıladılar... Hizmetimize hoş geldiniz!",
+      "normalized_title": "kraliyet ailesinden sasirtan adim yeni ajani davul calarak karsiladilar hizmetimize hos geldiniz",
       "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kraliyet-ailesinden-sasirtan-adim-yeni-ajani-davul-calarak-karsiladilar-hizmetimize-hos-geldin-43380852",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
@@ -514,7 +452,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.931092+00:00",
+      "collected_at": "2026-11-17T21:15:22.633146+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -523,7 +461,7 @@
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
           "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kraliyet-ailesinden-sasirtan-adim-yeni-ajani-davul-calarak-karsiladilar-hizmetimize-hos-geldin-43380852",
-          "title": "Kraliyet ailesinden şaşırtan adım: Yeni ajanı 'davul çalarak' karşıladılar... Hizmetimize hoş geldin!"
+          "title": "Kraliyet ailesinden şaşırtan adım: Yeni ajanı 'davul çalarak' karşıladılar... Hizmetimize hoş geldiniz!"
         }
       ],
       "publisher_domains": [
@@ -542,53 +480,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Batman’den James Bond’a",
-      "normalized_title": "batman den james bond a",
-      "url": "https://www.donanimhaber.com/batman-den-james-bond-a--212992",
-      "source": "donanimhaber.com",
-      "source_role": "publisher",
-      "source_domain": "donanimhaber.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.931162+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "donanimhaber.com",
-          "source_domain": "donanimhaber.com",
-          "url": "https://www.donanimhaber.com/batman-den-james-bond-a--212992",
-          "title": "Batman’den James Bond’a"
-        }
-      ],
-      "publisher_domains": [
-        "donanimhaber.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Robert Pattinson'ın yeni James Bond seçilmesi Donald Trump'ın eski mesajlarını gündeme getirdi: Trump bildi",
-      "normalized_title": "robert pattinson in yeni james bond secilmesi donald trump in eski mesajlarini gundeme getirdi trump bildi",
-      "url": "https://www.haberturk.com/magazin/robert-pattinson-in-yeni-james-bond-secilmesi-donald-trump-in-eski-mesajlarini-gundeme-getirdi-trump-bildi-3927915",
+      "title": "Brad Pitt, James Bond'un düşmanı olmaya aday: Kötü adam rolü için beni de yazın!",
+      "normalized_title": "brad pitt james bond un dusmani olmaya aday kotu adam rolu icin beni de yazin",
+      "url": "https://www.haberturk.com/magazin/brad-pitt-james-bond-un-dusmani-olmaya-aday-kotu-adam-rolu-icin-beni-de-yazin-3928000",
       "source": "haberturk.com",
       "source_role": "publisher",
       "source_domain": "haberturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.931259+00:00",
+      "collected_at": "2026-11-17T21:15:22.633207+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -596,8 +497,8 @@
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/robert-pattinson-in-yeni-james-bond-secilmesi-donald-trump-in-eski-mesajlarini-gundeme-getirdi-trump-bildi-3927915",
-          "title": "Robert Pattinson'ın yeni James Bond seçilmesi Donald Trump'ın eski mesajlarını gündeme getirdi: Trump bildi"
+          "url": "https://www.haberturk.com/magazin/brad-pitt-james-bond-un-dusmani-olmaya-aday-kotu-adam-rolu-icin-beni-de-yazin-3928000",
+          "title": "Brad Pitt, James Bond'un düşmanı olmaya aday: Kötü adam rolü için beni de yazın!"
         }
       ],
       "publisher_domains": [
@@ -616,16 +517,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Beyonce'den tarihi rekor: Grammy tarihindeki 100. adaylığını elde etti",
-      "normalized_title": "beyonce den tarihi rekor grammy tarihindeki 100 adayligini elde etti",
-      "url": "https://www.cumhuriyet.com.tr/yasam/beyonce-den-tarihi-rekor-grammy-tarihindeki-100-adayligini-elde-etti-2556819",
+      "title": "Yeni James Bond Robert Pattinson oldu, Donald Trump'ın yıllar önceki mesajları sosyal medyanın diline düştü",
+      "normalized_title": "yeni james bond robert pattinson oldu donald trump in yillar onceki mesajlari sosyal medyanin diline dustu",
+      "url": "https://www.cumhuriyet.com.tr/magazin/yeni-james-bond-robert-pattinson-oldu-donald-trump-in-yillar-onceki-mesajlari-sosyal-medyanin-diline-dustu-2556869",
       "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.931468+00:00",
+      "collected_at": "2026-11-17T21:15:22.633272+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -633,8 +534,8 @@
         {
           "source": "cumhuriyet.com.tr",
           "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/beyonce-den-tarihi-rekor-grammy-tarihindeki-100-adayligini-elde-etti-2556819",
-          "title": "Beyonce'den tarihi rekor: Grammy tarihindeki 100. adaylığını elde etti"
+          "url": "https://www.cumhuriyet.com.tr/magazin/yeni-james-bond-robert-pattinson-oldu-donald-trump-in-yillar-onceki-mesajlari-sosyal-medyanin-diline-dustu-2556869",
+          "title": "Yeni James Bond Robert Pattinson oldu, Donald Trump'ın yıllar önceki mesajları sosyal medyanın diline düştü"
         }
       ],
       "publisher_domains": [
@@ -653,29 +554,66 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "2027 Grammy adayları: Raye 11 adaylıkla zirvede",
-      "normalized_title": "2027 grammy adaylari raye 11 adaylikla zirvede",
-      "url": "https://www.diken.com.tr/2027-grammy-adaylari-raye-11-adaylikla-zirvede/",
-      "source": "diken.com.tr",
+      "title": "Eşi Kenan İmirzalıoğlu ve kızları Lalin ile Leyla’yla tatilde! Sinem Kobal’ın kareleri gündem oldu",
+      "normalized_title": "esi kenan imirzalioglu ve kizlari lalin ile leyla yla tatilde sinem kobal in kareleri gundem oldu",
+      "url": "https://www.takvim.com.tr/magazin/2026/11/17/sinem-kobal-ve-kenan-imirzalioglunun-kizlariyla-antalya-tatili",
+      "source": "takvim.com.tr",
       "source_role": "publisher",
-      "source_domain": "diken.com.tr",
+      "source_domain": "takvim.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.931619+00:00",
+      "collected_at": "2026-11-17T21:15:22.633507+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/2027-grammy-adaylari-raye-11-adaylikla-zirvede/",
-          "title": "2027 Grammy adayları: Raye 11 adaylıkla zirvede"
+          "source": "takvim.com.tr",
+          "source_domain": "takvim.com.tr",
+          "url": "https://www.takvim.com.tr/magazin/2026/11/17/sinem-kobal-ve-kenan-imirzalioglunun-kizlariyla-antalya-tatili",
+          "title": "Eşi Kenan İmirzalıoğlu ve kızları Lalin ile Leyla’yla tatilde! Sinem Kobal’ın kareleri gündem oldu"
         }
       ],
       "publisher_domains": [
-        "diken.com.tr"
+        "takvim.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ali Poyrazoğlu: \"Eğlenmediğim hiçbir işi yapmam\"",
+      "normalized_title": "ali poyrazoglu eglenmedigim hicbir isi yapmam",
+      "url": "https://www.ntv.com.tr/yasam/ali-poyrazoglu-eglenmedigim-hicbir-isi-yapmam-1751256",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-17T21:15:22.633552+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/ali-poyrazoglu-eglenmedigim-hicbir-isi-yapmam-1751256",
+          "title": "Ali Poyrazoğlu: \"Eğlenmediğim hiçbir işi yapmam\""
+        }
+      ],
+      "publisher_domains": [
+        "ntv.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -699,7 +637,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.931677+00:00",
+      "collected_at": "2026-11-17T21:15:22.633590+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -736,7 +674,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.931809+00:00",
+      "collected_at": "2026-11-17T21:15:22.633641+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -764,16 +702,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Tom Cruise’la davette: Senin filmin hayatımı değiştirdi",
-      "normalized_title": "tom cruise la davette senin filmin hayatimi degistirdi",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/tom-cruisela-davette-senin-filmin-hayatimi-degistirdi-43380745",
+      "title": "Londra’da sıradan bir gün",
+      "normalized_title": "londra da siradan bir gun",
+      "url": "https://www.hurriyet.com.tr/kelebek/stil/londrada-siradan-bir-gun-43380786",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.931964+00:00",
+      "collected_at": "2026-11-17T21:15:22.633782+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -781,8 +719,45 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/tom-cruisela-davette-senin-filmin-hayatimi-degistirdi-43380745",
-          "title": "Tom Cruise’la davette: Senin filmin hayatımı değiştirdi"
+          "url": "https://www.hurriyet.com.tr/kelebek/stil/londrada-siradan-bir-gun-43380786",
+          "title": "Londra’da sıradan bir gün"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Tiyatro oyununda buluştular: Kapalı gişe oynadılar",
+      "normalized_title": "tiyatro oyununda bulustular kapali gise oynadilar",
+      "url": "https://www.hurriyet.com.tr/kelebek/stil/tiyatro-oyununda-bulustular-kapali-gise-oynadilar-43380769",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-17T21:15:22.633827+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/stil/tiyatro-oyununda-bulustular-kapali-gise-oynadilar-43380769",
+          "title": "Tiyatro oyununda buluştular: Kapalı gişe oynadılar"
         }
       ],
       "publisher_domains": [
@@ -810,7 +785,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.932014+00:00",
+      "collected_at": "2026-11-17T21:15:22.633860+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -847,7 +822,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.932105+00:00",
+      "collected_at": "2026-11-17T21:15:22.633929+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -884,7 +859,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.932177+00:00",
+      "collected_at": "2026-11-17T21:15:22.633979+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -921,7 +896,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.932246+00:00",
+      "collected_at": "2026-11-17T21:15:22.634026+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -949,16 +924,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Londra’da sıradan bir gün",
-      "normalized_title": "londra da siradan bir gun",
-      "url": "https://www.hurriyet.com.tr/kelebek/stil/londrada-siradan-bir-gun-43380786",
+      "title": "İrem’den şarkıyı çalmalıydım",
+      "normalized_title": "irem den sarkiyi calmaliydim",
+      "url": "https://www.hurriyet.com.tr/kelebek/stil/iremden-sarkiyi-calmaliydim-43380947",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.932300+00:00",
+      "collected_at": "2026-11-17T21:15:22.634063+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -966,45 +941,8 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/stil/londrada-siradan-bir-gun-43380786",
-          "title": "Londra’da sıradan bir gün"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Müzisyen istemem demiş",
-      "normalized_title": "muzisyen istemem demis",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/muzisyen-istemem-demis-43380763",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.932368+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/muzisyen-istemem-demis-43380763",
-          "title": "Müzisyen istemem demiş"
+          "url": "https://www.hurriyet.com.tr/kelebek/stil/iremden-sarkiyi-calmaliydim-43380947",
+          "title": "İrem’den şarkıyı çalmalıydım"
         }
       ],
       "publisher_domains": [
@@ -1032,7 +970,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.932425+00:00",
+      "collected_at": "2026-11-17T21:15:22.634097+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1060,29 +998,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "'Karavanda dışkı iddiası' sonrası Feyza Civelek patladı: Açtı ağzını yumdu gözünü",
-      "normalized_title": "karavanda diski iddiasi sonrasi feyza civelek patladi acti agzini yumdu gozunu",
-      "url": "https://www.sozcu.com.tr/karavanda-diski-iddiasi-sonrasi-feyza-civelek-patladi-acti-agzini-yumdu-gozunu-p382093",
-      "source": "sozcu.com.tr",
+      "title": "Aybüke Yılmaz, İngilizlere ‘Haysiyet’ Dizisini Tanıttı",
+      "normalized_title": "aybuke yilmaz ingilizlere haysiyet dizisini tanitti",
+      "url": "https://www.haberaktuel.com/aybuke-yilmaz-ingilizlere-haysiyet-dizisini-tanitti-3528810",
+      "source": "haberaktuel.com",
       "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
+      "source_domain": "haberaktuel.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.932699+00:00",
+      "collected_at": "2026-11-17T21:15:22.634174+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/karavanda-diski-iddiasi-sonrasi-feyza-civelek-patladi-acti-agzini-yumdu-gozunu-p382093",
-          "title": "'Karavanda dışkı iddiası' sonrası Feyza Civelek patladı: Açtı ağzını yumdu gözünü"
+          "source": "haberaktuel.com",
+          "source_domain": "haberaktuel.com",
+          "url": "https://www.haberaktuel.com/aybuke-yilmaz-ingilizlere-haysiyet-dizisini-tanitti-3528810",
+          "title": "Aybüke Yılmaz, İngilizlere ‘Haysiyet’ Dizisini Tanıttı"
         }
       ],
       "publisher_domains": [
-        "sozcu.com.tr"
+        "haberaktuel.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1097,53 +1035,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Sibel Taşçıoğlu'nun Ardından Sessizliğini Bozan Feyza Civelek Suç Duyurusunda Bulunacağını Açıkladı",
-      "normalized_title": "sibel tascioglu nun ardindan sessizligini bozan feyza civelek suc duyurusunda bulunacagini acikladi",
-      "url": "https://onedio.com/haber/sibel-tascioglu-nun-ardindan-sessizligini-bozan-feyza-civelek-suc-duyurusunda-bulunacagini-acikladi-1395520",
-      "source": "onedio.com",
-      "source_role": "publisher",
-      "source_domain": "onedio.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.932782+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/sibel-tascioglu-nun-ardindan-sessizligini-bozan-feyza-civelek-suc-duyurusunda-bulunacagini-acikladi-1395520",
-          "title": "Sibel Taşçıoğlu'nun Ardından Sessizliğini Bozan Feyza Civelek Suç Duyurusunda Bulunacağını Açıkladı"
-        }
-      ],
-      "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "AK Partili İnan, Ahmet Kaya'yı andı",
-      "normalized_title": "ak partili inan ahmet kaya yi andi",
-      "url": "https://www.hurriyet.com.tr/gundem/ak-partili-inan-ahmet-kayayi-andi-43380920",
+      "title": "Tom Cruise’la davette: Senin filmin hayatımı değiştirdi",
+      "normalized_title": "tom cruise la davette senin filmin hayatimi degistirdi",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/tom-cruisela-davette-senin-filmin-hayatimi-degistirdi-43380745",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.933065+00:00",
+      "collected_at": "2026-11-17T21:15:22.634256+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1151,49 +1052,12 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/gundem/ak-partili-inan-ahmet-kayayi-andi-43380920",
-          "title": "AK Partili İnan, Ahmet Kaya'yı andı"
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/tom-cruisela-davette-senin-filmin-hayatimi-degistirdi-43380745",
+          "title": "Tom Cruise’la davette: Senin filmin hayatımı değiştirdi"
         }
       ],
       "publisher_domains": [
         "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "DEM Parti’den Ahmet Kaya paylaşımı: Özlemle anıyoruz",
-      "normalized_title": "dem parti den ahmet kaya paylasimi ozlemle aniyoruz",
-      "url": "https://www.rudaw.net/turkish/categories/turkey/1287601",
-      "source": "rudaw.net",
-      "source_role": "publisher",
-      "source_domain": "rudaw.net",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.933156+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "rudaw.net",
-          "source_domain": "rudaw.net",
-          "url": "https://www.rudaw.net/turkish/categories/turkey/1287601",
-          "title": "DEM Parti’den Ahmet Kaya paylaşımı: Özlemle anıyoruz"
-        }
-      ],
-      "publisher_domains": [
-        "rudaw.net"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1217,7 +1081,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.933220+00:00",
+      "collected_at": "2026-11-17T21:15:22.634298+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1254,7 +1118,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.933274+00:00",
+      "collected_at": "2026-11-17T21:15:22.634335+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1282,16 +1146,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Kadir İnanır’ın mirasında para ’bilmecesi’! 60 milyon TL detayı gündemde: Evlerini neden sattı?",
-      "normalized_title": "kadir inanir in mirasinda para bilmecesi 60 milyon tl detayi gundemde evlerini neden satti",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/kadir-inanirin-mirasinda-para-bilmecesi-60-milyon-tl-detayi-gundemde-evlerini-neden-satti",
+      "title": "Vasiyetimi hazırlamadım her şeyim zaten ailemin",
+      "normalized_title": "vasiyetimi hazirlamadim her seyim zaten ailemin",
+      "url": "https://www.sabah.com.tr/yazarlar/gunaydin/tuba-kalcik/2026/11/16/vasiyetimi-hazirlamadim-her-seyim-zaten-ailemin",
       "source": "sabah.com.tr",
       "source_role": "publisher",
       "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-17T10:22:07.933377+00:00",
+      "collected_at": "2026-11-17T21:15:22.634377+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1299,12 +1163,123 @@
         {
           "source": "sabah.com.tr",
           "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/kadir-inanirin-mirasinda-para-bilmecesi-60-milyon-tl-detayi-gundemde-evlerini-neden-satti",
-          "title": "Kadir İnanır’ın mirasında para ’bilmecesi’! 60 milyon TL detayı gündemde: Evlerini neden sattı?"
+          "url": "https://www.sabah.com.tr/yazarlar/gunaydin/tuba-kalcik/2026/11/16/vasiyetimi-hazirlamadim-her-seyim-zaten-ailemin",
+          "title": "Vasiyetimi hazırlamadım her şeyim zaten ailemin"
         }
       ],
       "publisher_domains": [
         "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Kadir İnanır'ın Mirasında Dikkat Çeken Rakam: Bankadaki Nakit Parası Ortaya Çıktı, Kasa İddiası Gündemde!",
+      "normalized_title": "kadir inanir in mirasinda dikkat ceken rakam bankadaki nakit parasi ortaya cikti kasa iddiasi gundemde",
+      "url": "https://onedio.com/haber/kadir-inanir-in-mirasinda-dikkat-ceken-rakam-bankadaki-nakit-parasi-ortaya-cikti-kasa-iddiasi-gundemde-1395432",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-17T21:15:22.634439+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/kadir-inanir-in-mirasinda-dikkat-ceken-rakam-bankadaki-nakit-parasi-ortaya-cikti-kasa-iddiasi-gundemde-1395432",
+          "title": "Kadir İnanır'ın Mirasında Dikkat Çeken Rakam: Bankadaki Nakit Parası Ortaya Çıktı, Kasa İddiası Gündemde!"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Talat Bulut'tan Haluk Bilginer'e nankörlük suçlaması",
+      "normalized_title": "talat bulut tan haluk bilginer e nankorluk suclamasi",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/talat-buluttan-haluk-bilginere-nankorluk-suclamasi-43379618",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-17T21:15:22.634482+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/talat-buluttan-haluk-bilginere-nankorluk-suclamasi-43379618",
+          "title": "Talat Bulut'tan Haluk Bilginer'e nankörlük suçlaması"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "ASİMED Başkanı Savaş Eğilmez'den \"Türkiye Sineması\" tartışmasına sert tepki",
+      "normalized_title": "asimed baskani savas egilmez den turkiye sinemasi tartismasina sert tepki",
+      "url": "https://yerel-haberler.haberturk.com/erzurum-haberleri/asimed-baskani-savas-egilmezden-turkiye-sinemasi-tartismasina-sert-tepki-119524188",
+      "source": "yerel-haberler.haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "yerel-haberler.haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-17T21:15:22.634533+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yerel-haberler.haberturk.com",
+          "source_domain": "yerel-haberler.haberturk.com",
+          "url": "https://yerel-haberler.haberturk.com/erzurum-haberleri/asimed-baskani-savas-egilmezden-turkiye-sinemasi-tartismasina-sert-tepki-119524188",
+          "title": "ASİMED Başkanı Savaş Eğilmez'den \"Türkiye Sineması\" tartışmasına sert tepki"
+        }
+      ],
+      "publisher_domains": [
+        "yerel-haberler.haberturk.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
