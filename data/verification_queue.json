@@ -1,111 +1,194 @@
 {
-  "generated_at": "2026-11-16T22:27:40.583990+00:00",
+  "generated_at": "2026-11-17T10:22:47.622394+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
-      "title": "Robert Pattinson kimdir? Yeni James Bond Robert Pattinson'ın tüm yapımları ve en iyi filmleri...",
-      "normalized_title": "robert pattinson kimdir yeni james bond robert pattinson in tum yapimlari ve en iyi filmleri",
-      "url": "https://www.cumhuriyet.com.tr/yasam/robert-pattinson-kimdir-yeni-james-bond-robert-pattinson-in-tum-yapimlari-ve-en-iyi-filmleri-2556717",
+      "title": "Beyonce, 100 kez Grammy ödülüne aday gösterilen ilk sanatçı oldu",
+      "normalized_title": "beyonce 100 kez grammy odulune aday gosterilen ilk sanatci oldu",
+      "url": "https://www.trthaber.com/haber/dunya/beyonce-100-kez-grammy-odulune-aday-gosterilen-ilk-sanatci-oldu-963512.html",
+      "source": "trthaber.com",
+      "source_role": "publisher",
+      "source_domain": "trthaber.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-17T10:22:07.931371+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "trthaber.com",
+          "source_domain": "trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/beyonce-100-kez-grammy-odulune-aday-gosterilen-ilk-sanatci-oldu-963512.html",
+          "title": "Beyonce, 100 kez Grammy ödülüne aday gösterilen ilk sanatçı oldu"
+        },
+        {
+          "source": "aa.com.tr",
+          "source_domain": "aa.com.tr",
+          "url": "https://www.aa.com.tr/tr/kultur/beyonce-grammy-odullerine-100-kez-aday-gosterilen-ilk-sanatci-oldu/4127268",
+          "title": "Beyonce, Grammy Ödülleri'ne 100 kez aday gösterilen ilk sanatçı oldu"
+        }
+      ],
+      "publisher_domains": [
+        "aa.com.tr",
+        "trthaber.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Beyonce, 100 kez Grammy ödülüne aday gösterilen ilk sanatçı oldu - Son Dakika Haberleri",
+        "og_title": "Beyonce, 100 kez Grammy ödülüne aday gösterilen ilk sanatçı oldu",
+        "description": "ABD'li şarkıcı Beyonce, 7 Şubat 2027'de düzenlenecek 69. Grammy Ödülleri'nde aldığı adaylıkla bu ödüle 100 kez aday gösterilen ilk sanatçı oldu.",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "aa.com.tr",
+          "source_domain": "aa.com.tr",
+          "title": "Beyonce, Grammy Ödülleri'ne 100 kez aday gösterilen ilk sanatçı oldu",
+          "summary": "",
+          "url": "https://www.aa.com.tr/tr/kultur/beyonce-grammy-odullerine-100-kez-aday-gosterilen-ilk-sanatci-oldu/4127268",
+          "match_score": 0.8,
+          "shared_keywords": [
+            "100",
+            "aday",
+            "beyonce",
+            "gosterilen",
+            "grammy",
+            "ilk",
+            "kez",
+            "sanatc"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "İngilizlere ‘Haysiyet’i anlattı",
+      "normalized_title": "ingilizlere haysiyet i anlatti",
+      "url": "https://www.milliyet.com.tr/magazin/ingilizlere-haysiyeti-anlatti-7702080",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-17T10:22:07.932481+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [
+        {
+          "source": "posta.com.tr",
+          "source_role": "publisher",
+          "source_domain": "posta.com.tr",
+          "title": "İngilizlere 'Haysiyet'i anlattı",
+          "url": "https://www.posta.com.tr/magazin/ingilizlere-haysiyeti-anlatti-3065181",
+          "published_at": null
+        }
+      ],
+      "source_articles": [
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/ingilizlere-haysiyeti-anlatti-7702080",
+          "title": "İngilizlere ‘Haysiyet’i anlattı"
+        },
+        {
+          "source": "posta.com.tr",
+          "source_domain": "posta.com.tr",
+          "url": "https://www.posta.com.tr/magazin/ingilizlere-haysiyeti-anlatti-3065181",
+          "title": "İngilizlere 'Haysiyet'i anlattı"
+        }
+      ],
+      "publisher_domains": [
+        "milliyet.com.tr",
+        "posta.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": true,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "İngilizlere ‘Haysiyet’i anlattı - Magazin Haberleri - Milliyet",
+        "og_title": "İngilizlere ‘Haysiyet’i anlattı",
+        "description": "Kanal D’nin Yeşilçam ruhunu günümüze taşıyan dizisi ‘Haysiyet’te Yıldız karakterine hayat veren Aybüke Yılmaz’ın, başarısı İngiltere’de yankı uyandırdı.",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "posta.com.tr",
+          "source_domain": "posta.com.tr",
+          "title": "İngilizlere 'Haysiyet'i anlattı",
+          "summary": "",
+          "url": "https://www.posta.com.tr/magazin/ingilizlere-haysiyeti-anlatti-3065181",
+          "match_score": 1.0,
+          "shared_keywords": [
+            "anlatt",
+            "haysiyet",
+            "ingilizlere"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Sibel Taşçıoğlu'ndan 'Kızılcık Şerbeti' açıklaması: Sessizliğinin nedenini ve ayrılık sürecini anlattı",
+      "normalized_title": "sibel tascioglu ndan kizilcik serbeti aciklamasi sessizliginin nedenini ve ayrilik surecini anlatti",
+      "url": "https://www.cumhuriyet.com.tr/magazin/sibel-tascioglu-ndan-kizilcik-serbeti-aciklamasi-sessizliginin-nedenini-ve-ayrilik-surecini-anlatti-2556651",
       "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-16T22:27:07.702950+00:00",
+      "collected_at": "2026-11-17T10:22:07.932619+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
-        {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/16/robert-pattinson-yeni-james-bond-bond-26da-007yi-canlandiracak",
-          "title": "Robert Pattinson yeni James Bond: Bond 26'da 007'yi canlandıracak"
-        },
         {
           "source": "cumhuriyet.com.tr",
           "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/robert-pattinson-kimdir-yeni-james-bond-robert-pattinson-in-tum-yapimlari-ve-en-iyi-filmleri-2556717",
-          "title": "Robert Pattinson kimdir? Yeni James Bond Robert Pattinson'ın tüm yapımları ve en iyi filmleri..."
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "tr.euronews.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Robert Pattinson kimdir? Yeni James Bond Robert Pattinson'ın tüm yapımları ve en iyi filmleri... - Son Dakika Yaşam Haberleri | Cumhuriyet",
-        "og_title": "Robert Pattinson kimdir? Yeni James Bond Robert Pattinson'ın tüm yapımları ve en iyi filmleri...",
-        "description": "Sinema dünyasının en prestijli rollerinden biri olan James Bond (007) karakterinin yeni sahibi belli oldu. Amazon MGM Studios tarafından yapılan resmi açıklamayla efsanevi ajanı canlandıracak yedinci isim olarak duyurulan İngiliz aktör Robert Pattinson, küresel gündemin ilk sırasına yerleşti.",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "title": "Robert Pattinson yeni James Bond: Bond 26'da 007'yi canlandıracak",
-          "summary": "",
-          "url": "https://tr.euronews.com/2026/11/16/robert-pattinson-yeni-james-bond-bond-26da-007yi-canlandiracak",
-          "match_score": 0.5,
-          "shared_keywords": [
-            "bond",
-            "james",
-            "pattinson",
-            "robert"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "2027 Grammy Ödülleri'nde RAYE fırtınası: 11 adaylıkla rekor kırdı",
-      "normalized_title": "2027 grammy odulleri nde raye firtinasi 11 adaylikla rekor kirdi",
-      "url": "https://tr.euronews.com/2026/11/16/raye-2027-grammyde-rekor-11-adaylikla-one-cikti-rosalia-dokuz-kategoride",
-      "source": "tr.euronews.com",
-      "source_role": "publisher",
-      "source_domain": "tr.euronews.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-16T22:27:07.703027+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/2027-grammy-adaylari-raye-11-adaylikla-zirvede/",
-          "title": "2027 Grammy adayları: Raye 11 adaylıkla zirvede"
+          "url": "https://www.cumhuriyet.com.tr/magazin/sibel-tascioglu-ndan-kizilcik-serbeti-aciklamasi-sessizliginin-nedenini-ve-ayrilik-surecini-anlatti-2556651",
+          "title": "Sibel Taşçıoğlu'ndan 'Kızılcık Şerbeti' açıklaması: Sessizliğinin nedenini ve ayrılık sürecini anlattı"
         },
         {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/16/raye-2027-grammyde-rekor-11-adaylikla-one-cikti-rosalia-dokuz-kategoride",
-          "title": "2027 Grammy Ödülleri'nde RAYE fırtınası: 11 adaylıkla rekor kırdı"
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/sibel-tascioglu-kizilcik-serbetinden-neden-ayrildi-ilk-kez-acikladi-3494086",
+          "title": "Sibel Taşçıoğlu Kızılcık Şerbeti'nden neden ayrıldı? İlk kez açıkladı!"
         }
       ],
       "publisher_domains": [
-        "diken.com.tr",
-        "tr.euronews.com"
+        "cnnturk.com",
+        "cumhuriyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -121,94 +204,25 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "2027 Grammy Ödülleri'nde RAYE fırtınası: 11 adaylıkla rekor kırdı | Euronews Newsletter Events Loader Newsletter Events Loader Search",
-        "og_title": "2027 Grammy Ödülleri'nde RAYE fırtınası: 11 adaylıkla rekor kırdı",
-        "description": "Avrupa'nın önde gelen kadın şarkıcıları, 2027 Grammy'de en büyük ödüllerin favori adayları oldu. 11 adaylıkla Britanyalı RAYE, Beyoncé'nin 2025 rekorunu egale etti; Amerikalı yıldız ise 100 adaylıkla Grammy tarihinde en çok aday gösterilen sanatçı oldu.",
+        "page_title": "Sibel Taşçıoğlu'ndan 'Kızılcık Şerbeti' açıklaması: Sessizliğinin nedenini ve ayrılık sürecini anlattı - Son Dakika Magazin Haberleri | Cumhuriyet",
+        "og_title": "Sibel Taşçıoğlu'ndan 'Kızılcık Şerbeti' açıklaması: Sessizliğinin nedenini ve ayrılık sürecini anlattı",
+        "description": "Kızılcık Şerbeti dizisinden ayrılışıyla ilgili hakkındaki iddialara yanıt veren oyuncu Sibel Taşçıoğlu, söz konusu açıklamaların kendisine ait olmadığını belirtti. Ayrılığın kendi tercihi olmadığını vurgulayan Taşçıoğlu, sessizliğini neden koruduğunu kamuoyuyla paylaştı.",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "title": "2027 Grammy adayları: Raye 11 adaylıkla zirvede",
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "title": "Sibel Taşçıoğlu Kızılcık Şerbeti'nden neden ayrıldı? İlk kez açıkladı!",
           "summary": "",
-          "url": "https://www.diken.com.tr/2027-grammy-adaylari-raye-11-adaylikla-zirvede/",
-          "match_score": 0.59,
+          "url": "https://www.cnnturk.com/magazin/sibel-tascioglu-kizilcik-serbetinden-neden-ayrildi-ilk-kez-acikladi-3494086",
+          "match_score": 0.56,
           "shared_keywords": [
-            "2027",
-            "adayl",
-            "grammy",
-            "kla",
-            "raye"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "20 yıl önce boşanmışlardı. 93 ve 92 yaşında yeniden 'evet' dediler",
-      "normalized_title": "20 yil once bosanmislardi 93 ve 92 yasinda yeniden evet dediler",
-      "url": "https://www.ntv.com.tr/yasam/20-yil-once-bosanmislardi-93-ve-92-yasinda-yeniden-evet-dediler-1751177",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-16T22:27:07.703227+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/20-yil-once-bosandilar-90-yasinda-yeniden-evlendiler-p382020",
-          "title": "20 yıl önce boşandılar, 90 yaşında yeniden evlendiler"
-        },
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/20-yil-once-bosanmislardi-93-ve-92-yasinda-yeniden-evet-dediler-1751177",
-          "title": "20 yıl önce boşanmışlardı. 93 ve 92 yaşında yeniden 'evet' dediler"
-        }
-      ],
-      "publisher_domains": [
-        "ntv.com.tr",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "20 yıl önce boşanmışlardı. 93 ve 92 yaşında yeniden 'evet' dediler | NTV Haber",
-        "og_title": "20 yıl önce boşanmışlardı. 93 ve 92 yaşında yeniden 'evet' dediler | NTV Haber",
-        "description": "Ordu'nun Ünye ilçesinde 20 yıl önce boşanan Emine ve Mehmet Sarı, yeniden evlendi.",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "title": "20 yıl önce boşandılar, 90 yaşında yeniden evlendiler",
-          "summary": "",
-          "url": "https://www.sozcu.com.tr/20-yil-once-bosandilar-90-yasinda-yeniden-evlendiler-p382020",
-          "match_score": 0.72,
-          "shared_keywords": [
-            "nda",
-            "yeniden"
+            "ayr",
+            "oglu",
+            "serbeti",
+            "sibel",
+            "tasc"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
