@@ -1,292 +1,12 @@
 {
-  "generated_at": "2026-11-18T09:53:15.047662+00:00",
+  "generated_at": "2026-11-18T15:53:14.575160+00:00",
   "candidate_count": 100,
   "event_group_count": 51,
-  "multi_publisher_event_count": 8,
+  "multi_publisher_event_count": 6,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
-    {
-      "title": "Dilber Ay'ın eşi İbrahim Karakaş nişanlandı: 'Tavukları Pişirmişem' şarkılı kutlama tepki çekti",
-      "normalized_title": "dilber ay in esi ibrahim karakas nisanlandi tavuklari pisirmisem sarkili kutlama tepki cekti",
-      "url": "https://www.cumhuriyet.com.tr/magazin/dilber-ay-in-esi-ibrahim-karakas-nisanlandi-tavuklari-pisirmisem-sarkili-kutlama-tepki-cekti-2556899",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580770+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/dilber-ayin-esi-ibrahim-karakas-canli-yayinda-nisanlandi-1751313",
-          "title": "Dilber Ay'ın eşi İbrahim Karakaş canlı yayında nişanlandı"
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/dilber-ay-in-esi-ibrahim-karakas-nisanlandi-tavuklari-pisirmisem-sarkili-kutlama-tepki-cekti-2556899",
-          "title": "Dilber Ay'ın eşi İbrahim Karakaş nişanlandı: 'Tavukları Pişirmişem' şarkılı kutlama tepki çekti"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/dilber-ayin-esi-ibrahim-karakas-nisanlandi-3927960",
-          "title": "Dilber Ay’ın eşi İbrahim Karakaş nişanlandı"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "haberturk.com",
-        "ntv.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Robert Pattinson yeni James Bond: Jeff Bezos ve Hollywood yıldızlarından övgü",
-      "normalized_title": "robert pattinson yeni james bond jeff bezos ve hollywood yildizlarindan ovgu",
-      "url": "https://tr.euronews.com/2026/11/18/robert-pattinson-yeni-james-bond-jeff-bezos-ve-hollywood-yildizlarindan-ovgu",
-      "source": "tr.euronews.com",
-      "source_role": "publisher",
-      "source_domain": "tr.euronews.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.579706+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "gq.com.tr",
-          "source_domain": "gq.com.tr",
-          "url": "https://gq.com.tr/robert-pattinson-james-bond-stili",
-          "title": "Robert Pattinson en stil sahibi James Bond olabilir mi?"
-        },
-        {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/18/robert-pattinson-yeni-james-bond-jeff-bezos-ve-hollywood-yildizlarindan-ovgu",
-          "title": "Robert Pattinson yeni James Bond: Jeff Bezos ve Hollywood yıldızlarından övgü"
-        }
-      ],
-      "publisher_domains": [
-        "gq.com.tr",
-        "tr.euronews.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Darüşşafaka Spor Kulübü bağış kampanyası için gece düzenleyecek",
-      "normalized_title": "darussafaka spor kulubu bagis kampanyasi icin gece duzenleyecek",
-      "url": "https://www.hurriyet.com.tr/egitim/darussafaka-spor-kulubu-bagis-kampanyasi-icin-gece-duzenleyecek-43382363",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580034+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/egitim/darussafaka-spor-kulubu-bagis-kampanyasi-icin-gece-duzenleyecek-43382363",
-          "title": "Darüşşafaka Spor Kulübü bağış kampanyası için gece düzenleyecek"
-        },
-        {
-          "source": "birgun.net",
-          "source_domain": "birgun.net",
-          "url": "https://www.birgun.net/haber/darussafakadan-altyapisi-icin-bagis-kampanyasi-747093",
-          "title": "Darüşşafaka’dan altyapısı için bağış kampanyası"
-        }
-      ],
-      "publisher_domains": [
-        "birgun.net",
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    }
-  ],
-  "event_groups_preview": [
-    {
-      "title": "Dilber Ay'ın eşi İbrahim Karakaş nişanlandı: 'Tavukları Pişirmişem' şarkılı kutlama tepki çekti",
-      "normalized_title": "dilber ay in esi ibrahim karakas nisanlandi tavuklari pisirmisem sarkili kutlama tepki cekti",
-      "url": "https://www.cumhuriyet.com.tr/magazin/dilber-ay-in-esi-ibrahim-karakas-nisanlandi-tavuklari-pisirmisem-sarkili-kutlama-tepki-cekti-2556899",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580770+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/dilber-ayin-esi-ibrahim-karakas-canli-yayinda-nisanlandi-1751313",
-          "title": "Dilber Ay'ın eşi İbrahim Karakaş canlı yayında nişanlandı"
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/dilber-ay-in-esi-ibrahim-karakas-nisanlandi-tavuklari-pisirmisem-sarkili-kutlama-tepki-cekti-2556899",
-          "title": "Dilber Ay'ın eşi İbrahim Karakaş nişanlandı: 'Tavukları Pişirmişem' şarkılı kutlama tepki çekti"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/dilber-ayin-esi-ibrahim-karakas-nisanlandi-3927960",
-          "title": "Dilber Ay’ın eşi İbrahim Karakaş nişanlandı"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "haberturk.com",
-        "ntv.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Robert Pattinson yeni James Bond: Jeff Bezos ve Hollywood yıldızlarından övgü",
-      "normalized_title": "robert pattinson yeni james bond jeff bezos ve hollywood yildizlarindan ovgu",
-      "url": "https://tr.euronews.com/2026/11/18/robert-pattinson-yeni-james-bond-jeff-bezos-ve-hollywood-yildizlarindan-ovgu",
-      "source": "tr.euronews.com",
-      "source_role": "publisher",
-      "source_domain": "tr.euronews.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.579706+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "gq.com.tr",
-          "source_domain": "gq.com.tr",
-          "url": "https://gq.com.tr/robert-pattinson-james-bond-stili",
-          "title": "Robert Pattinson en stil sahibi James Bond olabilir mi?"
-        },
-        {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/18/robert-pattinson-yeni-james-bond-jeff-bezos-ve-hollywood-yildizlarindan-ovgu",
-          "title": "Robert Pattinson yeni James Bond: Jeff Bezos ve Hollywood yıldızlarından övgü"
-        }
-      ],
-      "publisher_domains": [
-        "gq.com.tr",
-        "tr.euronews.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Darüşşafaka Spor Kulübü bağış kampanyası için gece düzenleyecek",
-      "normalized_title": "darussafaka spor kulubu bagis kampanyasi icin gece duzenleyecek",
-      "url": "https://www.hurriyet.com.tr/egitim/darussafaka-spor-kulubu-bagis-kampanyasi-icin-gece-duzenleyecek-43382363",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580034+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/egitim/darussafaka-spor-kulubu-bagis-kampanyasi-icin-gece-duzenleyecek-43382363",
-          "title": "Darüşşafaka Spor Kulübü bağış kampanyası için gece düzenleyecek"
-        },
-        {
-          "source": "birgun.net",
-          "source_domain": "birgun.net",
-          "url": "https://www.birgun.net/haber/darussafakadan-altyapisi-icin-bagis-kampanyasi-747093",
-          "title": "Darüşşafaka’dan altyapısı için bağış kampanyası"
-        }
-      ],
-      "publisher_domains": [
-        "birgun.net",
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
     {
       "title": "Türk sinemasının sultanı Türkan Şoray: \"220 filmdeki kostümlerimin hepsi bana aitti\" Türkan Şoray Yeşilçam'ın zorluklarla dolu yıllarını COP31'de anlattı",
       "normalized_title": "turk sinemasinin sultani turkan soray 220 filmdeki kostumlerimin hepsi bana aitti turkan soray yesilcam in zorluklarla dolu yillarini cop31 de anlatti",
@@ -297,11 +17,17 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580208+00:00",
+      "collected_at": "2026-11-18T15:52:38.980603+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/gundem/turkan-soray-yillar-sonra-yesilcamin-perde-arkasini-anlatti-yokluktan-arabada-giyiniyorduk-43380871",
+          "title": "Türkan Şoray yıllar sonra Yeşilçam'ın perde arkasını anlattı: Arabada giyiniyorduk, 220 filmdeki kostümler bana aitti"
+        },
         {
           "source": "aa.com.tr",
           "source_domain": "aa.com.tr",
@@ -317,7 +43,52 @@
       ],
       "publisher_domains": [
         "aa.com.tr",
+        "hurriyet.com.tr",
         "yerel-haberler.haberturk.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Darüşşafaka Spor Kulübü bağış kampanyası için gece düzenleyecek",
+      "normalized_title": "darussafaka spor kulubu bagis kampanyasi icin gece duzenleyecek",
+      "url": "https://www.hurriyet.com.tr/egitim/darussafaka-spor-kulubu-bagis-kampanyasi-icin-gece-duzenleyecek-43382363",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-18T15:52:38.980249+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/egitim/darussafaka-spor-kulubu-bagis-kampanyasi-icin-gece-duzenleyecek-43382363",
+          "title": "Darüşşafaka Spor Kulübü bağış kampanyası için gece düzenleyecek"
+        },
+        {
+          "source": "birgun.net",
+          "source_domain": "birgun.net",
+          "url": "https://www.birgun.net/haber/darussafakadan-altyapisi-icin-bagis-kampanyasi-747093",
+          "title": "Darüşşafaka’dan altyapısı için bağış kampanyası"
+        }
+      ],
+      "publisher_domains": [
+        "birgun.net",
+        "hurriyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -341,7 +112,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580346+00:00",
+      "collected_at": "2026-11-18T15:52:38.980940+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -374,6 +145,147 @@
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
+    }
+  ],
+  "event_groups_preview": [
+    {
+      "title": "Türk sinemasının sultanı Türkan Şoray: \"220 filmdeki kostümlerimin hepsi bana aitti\" Türkan Şoray Yeşilçam'ın zorluklarla dolu yıllarını COP31'de anlattı",
+      "normalized_title": "turk sinemasinin sultani turkan soray 220 filmdeki kostumlerimin hepsi bana aitti turkan soray yesilcam in zorluklarla dolu yillarini cop31 de anlatti",
+      "url": "https://yerel-haberler.haberturk.com/antalya-haberleri/turk-sinemasinin-sultani-turkan-soray-220-filmdeki-kostumlerimin-hepsi-bana-aitti-turkan-119524405",
+      "source": "yerel-haberler.haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "yerel-haberler.haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-18T15:52:38.980603+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/gundem/turkan-soray-yillar-sonra-yesilcamin-perde-arkasini-anlatti-yokluktan-arabada-giyiniyorduk-43380871",
+          "title": "Türkan Şoray yıllar sonra Yeşilçam'ın perde arkasını anlattı: Arabada giyiniyorduk, 220 filmdeki kostümler bana aitti"
+        },
+        {
+          "source": "aa.com.tr",
+          "source_domain": "aa.com.tr",
+          "url": "https://www.aa.com.tr/tr/kultur/turkan-soray-cop31de-yesilcam-sinemasini-anlatti/4127034",
+          "title": "Türkan Şoray COP31'de Yeşilçam sinemasını anlattı"
+        },
+        {
+          "source": "yerel-haberler.haberturk.com",
+          "source_domain": "yerel-haberler.haberturk.com",
+          "url": "https://yerel-haberler.haberturk.com/antalya-haberleri/turk-sinemasinin-sultani-turkan-soray-220-filmdeki-kostumlerimin-hepsi-bana-aitti-turkan-119524405",
+          "title": "Türk sinemasının sultanı Türkan Şoray: \"220 filmdeki kostümlerimin hepsi bana aitti\" Türkan Şoray Yeşilçam'ın zorluklarla dolu yıllarını COP31'de anlattı"
+        }
+      ],
+      "publisher_domains": [
+        "aa.com.tr",
+        "hurriyet.com.tr",
+        "yerel-haberler.haberturk.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Jeff Bezos anlattı: Yeni James Bond neden Robert Pattinson oldu?",
+      "normalized_title": "jeff bezos anlatti yeni james bond neden robert pattinson oldu",
+      "url": "https://medyascope.tv/2026/11/18/jeff-bezos-anlatti-yeni-james-bond-neden-robert-pattinson-oldu/",
+      "source": "medyascope.tv",
+      "source_role": "publisher",
+      "source_domain": "medyascope.tv",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-18T15:52:38.980081+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "gq.com.tr",
+          "source_domain": "gq.com.tr",
+          "url": "https://gq.com.tr/robert-pattinson-james-bond-stili",
+          "title": "Robert Pattinson en stil sahibi James Bond olabilir mi?"
+        },
+        {
+          "source": "medyascope.tv",
+          "source_domain": "medyascope.tv",
+          "url": "https://medyascope.tv/2026/11/18/jeff-bezos-anlatti-yeni-james-bond-neden-robert-pattinson-oldu/",
+          "title": "Jeff Bezos anlattı: Yeni James Bond neden Robert Pattinson oldu?"
+        }
+      ],
+      "publisher_domains": [
+        "gq.com.tr",
+        "medyascope.tv"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Darüşşafaka Spor Kulübü bağış kampanyası için gece düzenleyecek",
+      "normalized_title": "darussafaka spor kulubu bagis kampanyasi icin gece duzenleyecek",
+      "url": "https://www.hurriyet.com.tr/egitim/darussafaka-spor-kulubu-bagis-kampanyasi-icin-gece-duzenleyecek-43382363",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-18T15:52:38.980249+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/egitim/darussafaka-spor-kulubu-bagis-kampanyasi-icin-gece-duzenleyecek-43382363",
+          "title": "Darüşşafaka Spor Kulübü bağış kampanyası için gece düzenleyecek"
+        },
+        {
+          "source": "birgun.net",
+          "source_domain": "birgun.net",
+          "url": "https://www.birgun.net/haber/darussafakadan-altyapisi-icin-bagis-kampanyasi-747093",
+          "title": "Darüşşafaka’dan altyapısı için bağış kampanyası"
+        }
+      ],
+      "publisher_domains": [
+        "birgun.net",
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
     },
     {
       "title": "Kutsi üçüncü kez evlendi! Sevda Sönmez ile sürpriz nikah! Kutsi'nin eşi Sevda Sönmez kimdir, mesleği nedir?",
@@ -385,7 +297,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580633+00:00",
+      "collected_at": "2026-11-18T15:52:38.980705+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -420,6 +332,50 @@
       "coverage_label": "multi_publisher"
     },
     {
+      "title": "İrem Derici'den esprili evlilik açıklaması: 'Paramız kalmadı!'",
+      "normalized_title": "irem derici den esprili evlilik aciklamasi paramiz kalmadi",
+      "url": "https://www.cumhuriyet.com.tr/magazin/irem-derici-den-esprili-evlilik-aciklamasi-paramiz-kalmadi-2556550",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-18T15:52:38.980940+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/irem-derici-nin-parasi-kalmadi-p381826",
+          "title": "İrem Derici'nin parası kalmadı"
+        },
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/irem-derici-den-esprili-evlilik-aciklamasi-paramiz-kalmadi-2556550",
+          "title": "İrem Derici'den esprili evlilik açıklaması: 'Paramız kalmadı!'"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
       "title": "Film çekimleri tamamlandı",
       "normalized_title": "film cekimleri tamamlandi",
       "url": "https://www.hurriyet.com.tr/kelebek/stil/film-cekimleri-tamamlandi-43376629",
@@ -429,7 +385,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.581315+00:00",
+      "collected_at": "2026-11-18T15:52:38.981516+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -464,60 +420,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "İNGİLİZLERE HAYSİYETİ ANLATTI - Magazin Haberleri",
-      "normalized_title": "ingilizlere haysiyeti anlatti magazin haberleri",
-      "url": "https://www.cnnturk.com/magazin/galeri/ingilizlere-haysiyeti-anlatti-3494396",
-      "source": "cnnturk.com",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.581925+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/ingilizlere-haysiyeti-anlatti-7702080",
-          "title": "İngilizlere ‘Haysiyet’i anlattı"
-        },
-        {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/ingilizlere-haysiyeti-anlatti-3494396",
-          "title": "İNGİLİZLERE HAYSİYETİ ANLATTI - Magazin Haberleri"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com",
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Amazon'un kurucusu Bezos, yeni James Bond karakterinin seçilme sürecini anlattı",
-      "normalized_title": "amazon un kurucusu bezos yeni james bond karakterinin secilme surecini anlatti",
-      "url": "https://www.cumhuriyet.com.tr/yasam/amazon-un-kurucusu-bezos-yeni-james-bond-karakterinin-secilme-surecini-anlatti-2557183",
+      "title": "Pınar Altuğ yıllardır konuşulan Bebek'teki dairesini sattı: İşte satış rakamı...",
+      "normalized_title": "pinar altug yillardir konusulan bebek teki dairesini satti iste satis rakami",
+      "url": "https://www.cumhuriyet.com.tr/magazin/pinar-altug-yillardir-konusulan-bebek-teki-dairesini-satti-iste-satis-rakami-2557164",
       "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.579651+00:00",
+      "collected_at": "2026-11-18T15:52:38.981952+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -525,8 +437,8 @@
         {
           "source": "cumhuriyet.com.tr",
           "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/amazon-un-kurucusu-bezos-yeni-james-bond-karakterinin-secilme-surecini-anlatti-2557183",
-          "title": "Amazon'un kurucusu Bezos, yeni James Bond karakterinin seçilme sürecini anlattı"
+          "url": "https://www.cumhuriyet.com.tr/magazin/pinar-altug-yillardir-konusulan-bebek-teki-dairesini-satti-iste-satis-rakami-2557164",
+          "title": "Pınar Altuğ yıllardır konuşulan Bebek'teki dairesini sattı: İşte satış rakamı..."
         }
       ],
       "publisher_domains": [
@@ -534,48 +446,11 @@
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
+      "event_member_count": 3,
+      "discovery_item_count": 2,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Kraliyet ailesinden şaşırtan adım: Yeni ajanı 'davul çalarak' karşıladılar... Hizmetimize hoş geldiniz!",
-      "normalized_title": "kraliyet ailesinden sasirtan adim yeni ajani davul calarak karsiladilar hizmetimize hos geldiniz",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kraliyet-ailesinden-sasirtan-adim-yeni-ajani-davul-calarak-karsiladilar-hizmetimize-hos-geldin-43380852",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.579762+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kraliyet-ailesinden-sasirtan-adim-yeni-ajani-davul-calarak-karsiladilar-hizmetimize-hos-geldin-43380852",
-          "title": "Kraliyet ailesinden şaşırtan adım: Yeni ajanı 'davul çalarak' karşıladılar... Hizmetimize hoş geldiniz!"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
+      "popularity_score": 11.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -591,7 +466,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.579801+00:00",
+      "collected_at": "2026-11-18T15:52:38.979839+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -628,7 +503,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.579845+00:00",
+      "collected_at": "2026-11-18T15:52:38.979909+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -665,7 +540,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.579898+00:00",
+      "collected_at": "2026-11-18T15:52:38.979958+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -702,7 +577,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.579953+00:00",
+      "collected_at": "2026-11-18T15:52:38.980007+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -730,6 +605,80 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "Brad Pitt, James Bond'un düşmanı olmaya aday: Kötü adam rolü için beni de yazın!",
+      "normalized_title": "brad pitt james bond un dusmani olmaya aday kotu adam rolu icin beni de yazin",
+      "url": "https://www.haberturk.com/magazin/brad-pitt-james-bond-un-dusmani-olmaya-aday-kotu-adam-rolu-icin-beni-de-yazin-3928000",
+      "source": "haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-18T15:52:38.980131+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/brad-pitt-james-bond-un-dusmani-olmaya-aday-kotu-adam-rolu-icin-beni-de-yazin-3928000",
+          "title": "Brad Pitt, James Bond'un düşmanı olmaya aday: Kötü adam rolü için beni de yazın!"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Amazon'un kurucusu Bezos, yeni James Bond karakterinin seçilme sürecini anlattı",
+      "normalized_title": "amazon un kurucusu bezos yeni james bond karakterinin secilme surecini anlatti",
+      "url": "https://www.trthaber.com/haber/dunya/amazonun-kurucusu-bezos-yeni-james-bond-karakterinin-secilme-surecini-anlatti-963674.html",
+      "source": "trthaber.com",
+      "source_role": "publisher",
+      "source_domain": "trthaber.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-18T15:52:38.980174+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "trthaber.com",
+          "source_domain": "trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/amazonun-kurucusu-bezos-yeni-james-bond-karakterinin-secilme-surecini-anlatti-963674.html",
+          "title": "Amazon'un kurucusu Bezos, yeni James Bond karakterinin seçilme sürecini anlattı"
+        }
+      ],
+      "publisher_domains": [
+        "trthaber.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Cem Yılmaz Farklı Bir Veli: Biz Daçkalıyız",
       "normalized_title": "cem yilmaz farkli bir veli biz dackaliyiz",
       "url": "https://basketfaul.com.tr/turkiye/bgl/cem-yilmaz-farkli-bir-veli-biz-dackaliyiz/",
@@ -739,7 +688,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.579992+00:00",
+      "collected_at": "2026-11-18T15:52:38.980208+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -767,6 +716,117 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "Cem Yılmaz'dan Darüşşafaka'ya destek: Altyapı geleneği için yardım çağrısı",
+      "normalized_title": "cem yilmaz dan darussafaka ya destek altyapi gelenegi icin yardim cagrisi",
+      "url": "https://www.cumhuriyet.com.tr/turkiye/cem-yilmaz-dan-darussafaka-ya-destek-altyapi-gelenegi-icin-yardim-cagrisi-2557289",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-18T15:52:38.980289+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/cem-yilmaz-dan-darussafaka-ya-destek-altyapi-gelenegi-icin-yardim-cagrisi-2557289",
+          "title": "Cem Yılmaz'dan Darüşşafaka'ya destek: Altyapı geleneği için yardım çağrısı"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Uzak Şehir'in Nare'si Sahra Şaş: 'Enerjimiz seyirciden'",
+      "normalized_title": "uzak sehir in nare si sahra sas enerjimiz seyirciden",
+      "url": "https://www.cnnturk.com/magazin/uzak-sehirin-naresi-sahra-sas-enerjimiz-seyirciden-3492427",
+      "source": "cnnturk.com",
+      "source_role": "publisher",
+      "source_domain": "cnnturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-18T15:52:38.980355+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/uzak-sehirin-naresi-sahra-sas-enerjimiz-seyirciden-3492427",
+          "title": "Uzak Şehir'in Nare'si Sahra Şaş: 'Enerjimiz seyirciden'"
+        }
+      ],
+      "publisher_domains": [
+        "cnnturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Sahra Şaş doğum gününü kutladı Bakın pastasını üflerken ne diledi...",
+      "normalized_title": "sahra sas dogum gununu kutladi bakin pastasini uflerken ne diledi",
+      "url": "https://www.internethaber.com/sahra-sas-dogum-gununu-kutladi-bakin-pastasini-uflerken-ne-diledi-foto-galerisi-2469104.htm",
+      "source": "internethaber.com",
+      "source_role": "publisher",
+      "source_domain": "internethaber.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-18T15:52:38.980392+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "internethaber.com",
+          "source_domain": "internethaber.com",
+          "url": "https://www.internethaber.com/sahra-sas-dogum-gununu-kutladi-bakin-pastasini-uflerken-ne-diledi-foto-galerisi-2469104.htm",
+          "title": "Sahra Şaş doğum gününü kutladı Bakın pastasını üflerken ne diledi..."
+        }
+      ],
+      "publisher_domains": [
+        "internethaber.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Türkan Şoray: Karavanım hiç olmadı",
       "normalized_title": "turkan soray karavanim hic olmadi",
       "url": "https://www.hurriyet.com.tr/kelebek/hayat/turkan-soray-karavanim-hic-olmadi-43381909",
@@ -776,7 +836,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580106+00:00",
+      "collected_at": "2026-11-18T15:52:38.980422+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -804,265 +864,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "“220 filmimdeki tüm kostümler bana aitti”",
-      "normalized_title": "220 filmimdeki tum kostumler bana aitti",
-      "url": "https://www.yeniasir.com.tr/sarmasik/2026/11/18/220-filmimdeki-tum-kostumler-bana-aitti",
-      "source": "yeniasir.com.tr",
-      "source_role": "publisher",
-      "source_domain": "yeniasir.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580245+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yeniasir.com.tr",
-          "source_domain": "yeniasir.com.tr",
-          "url": "https://www.yeniasir.com.tr/sarmasik/2026/11/18/220-filmimdeki-tum-kostumler-bana-aitti",
-          "title": "“220 filmimdeki tüm kostümler bana aitti”"
-        }
-      ],
-      "publisher_domains": [
-        "yeniasir.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Evi yeni aldım çok para lazım",
-      "normalized_title": "evi yeni aldim cok para lazim",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/evi-yeni-aldim-cok-para-lazim-43381913",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580278+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/evi-yeni-aldim-cok-para-lazim-43381913",
-          "title": "Evi yeni aldım çok para lazım"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "İrem Derici'den şaşırtan itiraf: Kasamız boşaldı",
-      "normalized_title": "irem derici den sasirtan itiraf kasamiz bosaldi",
-      "url": "https://www.odatv.com/magazin/irem-dericiden-sasirtan-itiraf-kasamiz-bosaldi-120171449",
-      "source": "odatv.com",
-      "source_role": "publisher",
-      "source_domain": "odatv.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580383+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/magazin/irem-dericiden-sasirtan-itiraf-kasamiz-bosaldi-120171449",
-          "title": "İrem Derici'den şaşırtan itiraf: Kasamız boşaldı"
-        }
-      ],
-      "publisher_domains": [
-        "odatv.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "İlk 3 günde 100 bini aştı",
-      "normalized_title": "ilk 3 gunde 100 bini asti",
-      "url": "https://www.hurriyet.com.tr/kelebek/stil/ilk-3-gunde-100-bini-asti-43381948",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580413+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/stil/ilk-3-gunde-100-bini-asti-43381948",
-          "title": "İlk 3 günde 100 bini aştı"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Avukat Mahsun rekorla başladı",
-      "normalized_title": "avukat mahsun rekorla basladi",
-      "url": "https://www.milliyet.com.tr/kultur-sanat/avukat-mahsun-rekorla-basladi-7702735",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580443+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/kultur-sanat/avukat-mahsun-rekorla-basladi-7702735",
-          "title": "Avukat Mahsun rekorla başladı"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Av. Mahsun: Ben Sana İnanıyorum eleştirileri",
-      "normalized_title": "av mahsun ben sana inaniyorum elestirileri",
-      "url": "https://www.beyazperde.com/filmler/film-1000051044/kullanici-elestirileri/",
-      "source": "beyazperde.com",
-      "source_role": "publisher",
-      "source_domain": "beyazperde.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580476+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "beyazperde.com",
-          "source_domain": "beyazperde.com",
-          "url": "https://www.beyazperde.com/filmler/film-1000051044/kullanici-elestirileri/",
-          "title": "Av. Mahsun: Ben Sana İnanıyorum eleştirileri"
-        }
-      ],
-      "publisher_domains": [
-        "beyazperde.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Filmi seyirciyle izlediler",
-      "normalized_title": "filmi seyirciyle izlediler",
-      "url": "https://www.sabah.com.tr/magazin/filmi-seyirciyle-izlediler-7703095",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580503+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/filmi-seyirciyle-izlediler-7703095",
-          "title": "Filmi seyirciyle izlediler"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Aşka inancımı Sevda ile kazandım",
       "normalized_title": "aska inancimi sevda ile kazandim",
       "url": "https://www.hurriyet.com.tr/kelebek/hayat/aska-inancimi-sevda-ile-kazandim-43380782",
@@ -1072,7 +873,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580534+00:00",
+      "collected_at": "2026-11-18T15:52:38.980631+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1109,7 +910,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580682+00:00",
+      "collected_at": "2026-11-18T15:52:38.980747+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1137,29 +938,214 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Dilber Ay'ın eşi yeniden evleniyor: Nişan yüzükleri takılırken arkadaki detay...",
-      "normalized_title": "dilber ay in esi yeniden evleniyor nisan yuzukleri takilirken arkadaki detay",
-      "url": "https://www.internethaber.com/dilber-ayin-esi-yeniden-evleniyor-nisan-yuzukleri-takilirken-arkadaki-detay-foto-galerisi-2469056.htm",
-      "source": "internethaber.com",
+      "title": "İlk 3 günde 100 bini aştı",
+      "normalized_title": "ilk 3 gunde 100 bini asti",
+      "url": "https://www.hurriyet.com.tr/kelebek/stil/ilk-3-gunde-100-bini-asti-43381948",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "internethaber.com",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580867+00:00",
+      "collected_at": "2026-11-18T15:52:38.980775+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "internethaber.com",
-          "source_domain": "internethaber.com",
-          "url": "https://www.internethaber.com/dilber-ayin-esi-yeniden-evleniyor-nisan-yuzukleri-takilirken-arkadaki-detay-foto-galerisi-2469056.htm",
-          "title": "Dilber Ay'ın eşi yeniden evleniyor: Nişan yüzükleri takılırken arkadaki detay..."
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/stil/ilk-3-gunde-100-bini-asti-43381948",
+          "title": "İlk 3 günde 100 bini aştı"
         }
       ],
       "publisher_domains": [
-        "internethaber.com"
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Avukat Mahsun rekorla başladı",
+      "normalized_title": "avukat mahsun rekorla basladi",
+      "url": "https://www.milliyet.com.tr/kultur-sanat/avukat-mahsun-rekorla-basladi-7702735",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-18T15:52:38.980801+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/kultur-sanat/avukat-mahsun-rekorla-basladi-7702735",
+          "title": "Avukat Mahsun rekorla başladı"
+        }
+      ],
+      "publisher_domains": [
+        "milliyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Av. Mahsun: Ben Sana İnanıyorum eleştirileri",
+      "normalized_title": "av mahsun ben sana inaniyorum elestirileri",
+      "url": "https://www.beyazperde.com/filmler/film-1000051044/kullanici-elestirileri/",
+      "source": "beyazperde.com",
+      "source_role": "publisher",
+      "source_domain": "beyazperde.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-18T15:52:38.980831+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "beyazperde.com",
+          "source_domain": "beyazperde.com",
+          "url": "https://www.beyazperde.com/filmler/film-1000051044/kullanici-elestirileri/",
+          "title": "Av. Mahsun: Ben Sana İnanıyorum eleştirileri"
+        }
+      ],
+      "publisher_domains": [
+        "beyazperde.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Filmi seyirciyle izlediler",
+      "normalized_title": "filmi seyirciyle izlediler",
+      "url": "https://www.sabah.com.tr/magazin/filmi-seyirciyle-izlediler-7703095",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-18T15:52:38.980855+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/magazin/filmi-seyirciyle-izlediler-7703095",
+          "title": "Filmi seyirciyle izlediler"
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Evi yeni aldım çok para lazım",
+      "normalized_title": "evi yeni aldim cok para lazim",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/evi-yeni-aldim-cok-para-lazim-43381913",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-18T15:52:38.980883+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/evi-yeni-aldim-cok-para-lazim-43381913",
+          "title": "Evi yeni aldım çok para lazım"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "İrem Derici'den şaşırtan itiraf: Kasamız boşaldı",
+      "normalized_title": "irem derici den sasirtan itiraf kasamiz bosaldi",
+      "url": "https://www.odatv.com/magazin/irem-dericiden-sasirtan-itiraf-kasamiz-bosaldi-120171449",
+      "source": "odatv.com",
+      "source_role": "publisher",
+      "source_domain": "odatv.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-18T15:52:38.980969+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/magazin/irem-dericiden-sasirtan-itiraf-kasamiz-bosaldi-120171449",
+          "title": "İrem Derici'den şaşırtan itiraf: Kasamız boşaldı"
+        }
+      ],
+      "publisher_domains": [
+        "odatv.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1183,7 +1169,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580906+00:00",
+      "collected_at": "2026-11-18T15:52:38.981001+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1220,7 +1206,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580950+00:00",
+      "collected_at": "2026-11-18T15:52:38.981038+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1257,7 +1243,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.580976+00:00",
+      "collected_at": "2026-11-18T15:52:38.981062+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1294,7 +1280,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T09:52:38.581016+00:00",
+      "collected_at": "2026-11-18T15:52:38.981096+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
