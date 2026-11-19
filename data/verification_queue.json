@@ -1,153 +1,48 @@
 {
-  "generated_at": "2026-11-19T10:00:44.550451+00:00",
+  "generated_at": "2026-11-19T15:57:33.655040+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
-      "title": "Yaprak Dökümü'nün Fikret'i ve Cevriye'si yıllar sonra aynı projede. Galada bir araya geldiler",
-      "normalized_title": "yaprak dokumu nun fikret i ve cevriye si yillar sonra ayni projede galada bir araya geldiler",
-      "url": "https://www.ntv.com.tr/yasam/yaprak-dokumunun-fikreti-ve-cevriyesi-yillar-sonra-ayni-projede-galada-bir-araya-geldiler-1751543",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-19T10:00:07.768844+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/yaprak-dokumunun-fikreti-ve-cevriyesi-yillar-sonra-ayni-projede-galada-bir-araya-geldiler-1751543",
-          "title": "Yaprak Dökümü'nün Fikret'i ve Cevriye'si yıllar sonra aynı projede. Galada bir araya geldiler"
-        },
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/yaprak-dokumunun-fikret-ve-cevriyesi-yillar-sonra-bir-arada-7703558",
-          "title": "Yaprak Dökümü'nün Fikret ve Cevriye'si yıllar sonra bir arada"
-        },
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/yaprak-dokumu-nun-fikret-i-ve-cevriye-si-bennu-yildirimlar-ile-guler-okten-ask-tesadufleri-sever-galasinda-1395975",
-          "title": "Yaprak Dökümü'nün Fikret'i ve Cevriye'si Aşk Tesadüfleri Sever Galasında Bir Araya Geldi"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr",
-        "ntv.com.tr",
-        "onedio.com"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Yaprak Dökümü'nün Fikret'i ve Cevriye'si yıllar sonra aynı projede. Galada bir araya geldiler | NTV Haber",
-        "og_title": "Yaprak Dökümü'nün Fikret'i ve Cevriye'si yıllar sonra aynı projede. Galada bir araya geldiler | NTV Haber",
-        "description": "Türk televizyon tarihine damga vuran Yaprak Dökümü dizisinin unutulmaz karakterleri Fikret ve Cevriye'yi oynayan Bennu Yıldırımlar ile Güler Ökten, yıllar sonra aynı filmde rol aldı.",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "title": "Yaprak Dökümü'nün Fikret ve Cevriye'si yıllar sonra bir arada",
-          "summary": "",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/yaprak-dokumunun-fikret-ve-cevriyesi-yillar-sonra-bir-arada-7703558",
-          "match_score": 0.67,
-          "shared_keywords": [
-            "cevriye",
-            "dokumu",
-            "fikret",
-            "llar",
-            "nun",
-            "yaprak"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        },
-        {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "title": "Yaprak Dökümü'nün Fikret'i ve Cevriye'si Aşk Tesadüfleri Sever Galasında Bir Araya Geldi",
-          "summary": "",
-          "url": "https://onedio.com/haber/yaprak-dokumu-nun-fikret-i-ve-cevriye-si-bennu-yildirimlar-ile-guler-okten-ask-tesadufleri-sever-galasinda-1395975",
-          "match_score": 0.66,
-          "shared_keywords": [
-            "araya",
-            "cevriye",
-            "dokumu",
-            "fikret",
-            "nun",
-            "yaprak"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "Tarık Papuççuoğlu huzurevi iddialarını yalanladı: 'Sigortalı çalıştığım şirketin misafirhanesinde kalıyorum'",
-      "normalized_title": "tarik papuccuoglu huzurevi iddialarini yalanladi sigortali calistigim sirketin misafirhanesinde kaliyorum",
-      "url": "https://www.cumhuriyet.com.tr/magazin/tarik-papuccuoglu-huzurevi-iddialarini-yalanladi-sigortali-calistigim-sirketin-misafirhanesinde-kaliyorum-2557462",
+      "title": "Eski James Bond Pierce Brosnan'dan yeni 007 Robert Pattinson'a mesaj!",
+      "normalized_title": "eski james bond pierce brosnan dan yeni 007 robert pattinson a mesaj",
+      "url": "https://www.cumhuriyet.com.tr/yasam/eski-james-bond-pierce-brosnan-dan-yeni-007-robert-pattinson-a-mesaj-2557550",
       "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-19T10:00:07.770387+00:00",
+      "collected_at": "2026-11-19T15:56:56.212719+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/tarik-papuccuoglu-huzurevi-iddialarini-yalanladi-sigortali-calistigim-sirketin-misafirhanesinde-kaliyorum-2557462",
-          "title": "Tarık Papuççuoğlu huzurevi iddialarını yalanladı: 'Sigortalı çalıştığım şirketin misafirhanesinde kalıyorum'"
-        },
-        {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/yatim-katim-oldu-simdi-bir-sirketin-misafirhanesinde-kaliyorum-43383212",
-          "title": "Usta oyuncu Tarık Papuççuoğlu: Yatım katım oldu şimdi bir şirketin misafirhanesinde kalıyorum"
+          "url": "https://www.hurriyet.com.tr/galeri-eski-bonddan-yeni-bonda-tam-destek-43383369",
+          "title": "Eski Bond’dan yeni Bond’a tam destek"
         },
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/tarik-papuccuoglu-bir-sirketin-misafirhanesinde-kaliyorum-3928388",
-          "title": "Tarık Papuççuoğlu: Bir şirketin misafirhanesinde kalıyorum"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/yasam/eski-james-bond-pierce-brosnan-dan-yeni-007-robert-pattinson-a-mesaj-2557550",
+          "title": "Eski James Bond Pierce Brosnan'dan yeni 007 Robert Pattinson'a mesaj!"
         }
       ],
       "publisher_domains": [
         "cumhuriyet.com.tr",
-        "haberturk.com",
         "hurriyet.com.tr"
       ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
       "publication_approved": false,
@@ -155,44 +50,22 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Tarık Papuççuoğlu huzurevi iddialarını yalanladı: 'Sigortalı çalıştığım şirketin misafirhanesinde kalıyorum' - Son Dakika Magazin Haberleri | Cumhuriyet",
-        "og_title": "Tarık Papuççuoğlu huzurevi iddialarını yalanladı: 'Sigortalı çalıştığım şirketin misafirhanesinde kalıyorum'",
-        "description": "Türk tiyatrosu ve televizyonunun usta isimlerinden Tarık Papuççuoğlu, çocuklarının kendisini huzurevine bıraktığı yönündeki söylentileri yalanlayarak Bodrum'da sigortalı çalıştığı şirketin misafirhanesinde kaldığını söyledi. Mal varlığını çocuklarına devrettiğini belirten Papuççuoğlu, şimdiki yaşamının tamamen kendi tercihi olduğunu dile getirdi.",
+        "page_title": "Eski James Bond Pierce Brosnan'dan yeni 007 Robert Pattinson'a mesaj! - Son Dakika Yaşam Haberleri | Cumhuriyet",
+        "og_title": "Eski James Bond Pierce Brosnan'dan yeni 007 Robert Pattinson'a mesaj!",
+        "description": "James Bond karakterini canlandıran oyunculardan Pierce Brosnan, yeni 007 olarak seçilen Robert Pattinson'a sosyal medya üzerinden destek verdi. Ünlü oyuncu, Pattinson'a başarılar dilerken yıllar önce birlikte rol aldıkları filmi de hatırlattı.",
         "error": null
       },
       "independent_source_matches": [
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "title": "Usta oyuncu Tarık Papuççuoğlu: Yatım katım oldu şimdi bir şirketin misafirhanesinde kalıyorum",
+          "title": "Eski Bond’dan yeni Bond’a tam destek",
           "summary": "",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/yatim-katim-oldu-simdi-bir-sirketin-misafirhanesinde-kaliyorum-43383212",
-          "match_score": 0.54,
+          "url": "https://www.hurriyet.com.tr/galeri-eski-bonddan-yeni-bonda-tam-destek-43383369",
+          "match_score": 0.46,
           "shared_keywords": [
-            "kal",
-            "misafirhanesinde",
-            "papuccuoglu",
-            "sirketin",
-            "tar",
-            "yorum"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "title": "Tarık Papuççuoğlu: Bir şirketin misafirhanesinde kalıyorum",
-          "summary": "",
-          "url": "https://www.haberturk.com/magazin/foto/tarik-papuccuoglu-bir-sirketin-misafirhanesinde-kaliyorum-3928388",
-          "match_score": 0.76,
-          "shared_keywords": [
-            "kal",
-            "misafirhanesinde",
-            "papuccuoglu",
-            "sirketin",
-            "tar",
-            "yorum"
+            "bond",
+            "eski"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
@@ -210,7 +83,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-19T10:00:07.769055+00:00",
+      "collected_at": "2026-11-19T15:56:56.213028+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -265,6 +138,78 @@
             "nda",
             "nejat",
             "uygur"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Türkan Şoray, COP31'de Yeşilçam yıllarını anlattı: Karavan yoktu, arabada giyiniyorduk",
+      "normalized_title": "turkan soray cop31 de yesilcam yillarini anlatti karavan yoktu arabada giyiniyorduk",
+      "url": "https://www.haberturk.com/magazin/turkan-soray-cop31-de-yesilcam-yillarini-anlatti-karavan-yoktu-arabada-giyiniyorduk-3927885",
+      "source": "haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-19T15:56:56.213345+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "aa.com.tr",
+          "source_domain": "aa.com.tr",
+          "url": "https://www.aa.com.tr/tr/kultur/turkan-soray-cop31de-yesilcam-sinemasini-anlatti/4127034",
+          "title": "Türkan Şoray COP31'de Yeşilçam sinemasını anlattı"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/turkan-soray-cop31-de-yesilcam-yillarini-anlatti-karavan-yoktu-arabada-giyiniyorduk-3927885",
+          "title": "Türkan Şoray, COP31'de Yeşilçam yıllarını anlattı: Karavan yoktu, arabada giyiniyorduk"
+        }
+      ],
+      "publisher_domains": [
+        "aa.com.tr",
+        "haberturk.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Türkan Şoray, COP31'de Yeşilçam yıllarını anlattı: Karavan yoktu, arabada giyiniyorduk - Son Dakika Magazin Haberleri - Habertürk",
+        "og_title": "Türkan Şoray, COP31'de Yeşilçam yıllarını anlattı: Karavan yoktu, arabada giyiniyorduk",
+        "description": "Türk sinemasının efsane ismi Türkan Şoray, COP31 kapsamında düzenlenen 'Yeşilçam Usulü Film Yapmak' söyleşisinde geçmişin zorluklarını ve anılarını paylaştı. Karavansız setlerden kendi hazırladığı kostümlere kadar Yeşilçam yıllarının bilinmeyenlerini anlatan usta sanatçı, \"Bütün yaptığımız filmler, aşkla yapılan filmlerdi\" diyerek döneme duyduğu özlemi dile getirdi",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "aa.com.tr",
+          "source_domain": "aa.com.tr",
+          "title": "Türkan Şoray COP31'de Yeşilçam sinemasını anlattı",
+          "summary": "",
+          "url": "https://www.aa.com.tr/tr/kultur/turkan-soray-cop31de-yesilcam-sinemasini-anlatti/4127034",
+          "match_score": 0.63,
+          "shared_keywords": [
+            "anlatt",
+            "cop31",
+            "soray",
+            "turkan",
+            "yesilcam"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
