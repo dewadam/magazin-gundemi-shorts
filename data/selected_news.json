@@ -1,87 +1,145 @@
 {
-  "generated_at": "2026-11-18T20:51:36.237471+00:00",
+  "generated_at": "2026-11-19T10:00:43.657713+00:00",
   "candidate_count": 100,
-  "event_group_count": 54,
-  "multi_publisher_event_count": 5,
+  "event_group_count": 43,
+  "multi_publisher_event_count": 12,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Hastaneye kaldırılan Yavuz Bingöl'den haber var! Ameliyat tarihi netleşti",
-      "normalized_title": "hastaneye kaldirilan yavuz bingol den haber var ameliyat tarihi netlesti",
-      "url": "https://www.ahaber.com.tr/galeri/magazin/yavuz-bingol-icin-ameliyat-karari",
-      "source": "ahaber.com.tr",
+      "title": "Yaprak Dökümü'nün Fikret'i ve Cevriye'si yıllar sonra aynı projede. Galada bir araya geldiler",
+      "normalized_title": "yaprak dokumu nun fikret i ve cevriye si yillar sonra ayni projede galada bir araya geldiler",
+      "url": "https://www.ntv.com.tr/yasam/yaprak-dokumunun-fikreti-ve-cevriyesi-yillar-sonra-ayni-projede-galada-bir-araya-geldiler-1751543",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "ahaber.com.tr",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.286334+00:00",
+      "collected_at": "2026-11-19T10:00:07.768844+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/yavuz-bingol-hastaneye-kaldirildi-p382052",
-          "title": "Yavuz Bingöl hastaneye kaldırıldı"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/yaprak-dokumunun-fikreti-ve-cevriyesi-yillar-sonra-ayni-projede-galada-bir-araya-geldiler-1751543",
+          "title": "Yaprak Dökümü'nün Fikret'i ve Cevriye'si yıllar sonra aynı projede. Galada bir araya geldiler"
         },
         {
-          "source": "ahaber.com.tr",
-          "source_domain": "ahaber.com.tr",
-          "url": "https://www.ahaber.com.tr/galeri/magazin/yavuz-bingol-icin-ameliyat-karari",
-          "title": "Hastaneye kaldırılan Yavuz Bingöl'den haber var! Ameliyat tarihi netleşti"
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/yaprak-dokumunun-fikret-ve-cevriyesi-yillar-sonra-bir-arada-7703558",
+          "title": "Yaprak Dökümü'nün Fikret ve Cevriye'si yıllar sonra bir arada"
+        },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/yaprak-dokumu-nun-fikret-i-ve-cevriye-si-bennu-yildirimlar-ile-guler-okten-ask-tesadufleri-sever-galasinda-1395975",
+          "title": "Yaprak Dökümü'nün Fikret'i ve Cevriye'si Aşk Tesadüfleri Sever Galasında Bir Araya Geldi"
         }
       ],
       "publisher_domains": [
-        "ahaber.com.tr",
-        "sozcu.com.tr"
+        "milliyet.com.tr",
+        "ntv.com.tr",
+        "onedio.com"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 30.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "İrem Derici'den esprili evlilik açıklaması: 'Paramız kalmadı!'",
-      "normalized_title": "irem derici den esprili evlilik aciklamasi paramiz kalmadi",
-      "url": "https://www.cumhuriyet.com.tr/magazin/irem-derici-den-esprili-evlilik-aciklamasi-paramiz-kalmadi-2556550",
+      "title": "Tarık Papuççuoğlu huzurevi iddialarını yalanladı: 'Sigortalı çalıştığım şirketin misafirhanesinde kalıyorum'",
+      "normalized_title": "tarik papuccuoglu huzurevi iddialarini yalanladi sigortali calistigim sirketin misafirhanesinde kaliyorum",
+      "url": "https://www.cumhuriyet.com.tr/magazin/tarik-papuccuoglu-huzurevi-iddialarini-yalanladi-sigortali-calistigim-sirketin-misafirhanesinde-kaliyorum-2557462",
       "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.287150+00:00",
+      "collected_at": "2026-11-19T10:00:07.770387+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/irem-derici-nin-parasi-kalmadi-p381826",
-          "title": "İrem Derici'nin parası kalmadı"
-        },
-        {
           "source": "cumhuriyet.com.tr",
           "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/irem-derici-den-esprili-evlilik-aciklamasi-paramiz-kalmadi-2556550",
-          "title": "İrem Derici'den esprili evlilik açıklaması: 'Paramız kalmadı!'"
+          "url": "https://www.cumhuriyet.com.tr/magazin/tarik-papuccuoglu-huzurevi-iddialarini-yalanladi-sigortali-calistigim-sirketin-misafirhanesinde-kaliyorum-2557462",
+          "title": "Tarık Papuççuoğlu huzurevi iddialarını yalanladı: 'Sigortalı çalıştığım şirketin misafirhanesinde kalıyorum'"
+        },
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/yatim-katim-oldu-simdi-bir-sirketin-misafirhanesinde-kaliyorum-43383212",
+          "title": "Usta oyuncu Tarık Papuççuoğlu: Yatım katım oldu şimdi bir şirketin misafirhanesinde kalıyorum"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/tarik-papuccuoglu-bir-sirketin-misafirhanesinde-kaliyorum-3928388",
+          "title": "Tarık Papuççuoğlu: Bir şirketin misafirhanesinde kalıyorum"
         }
       ],
       "publisher_domains": [
         "cumhuriyet.com.tr",
-        "sozcu.com.tr"
+        "haberturk.com",
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Nejat Uygur'suz geçen 13 yıl. Mezarı başında anıldı",
+      "normalized_title": "nejat uygur suz gecen 13 yil mezari basinda anildi",
+      "url": "https://www.ntv.com.tr/yasam/nejat-uygursuz-gecen-13-yil-mezari-basinda-anildi-1751483",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-19T10:00:07.769055+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/nejat-uygursuz-gecen-13-yil-mezari-basinda-anildi-1751483",
+          "title": "Nejat Uygur'suz geçen 13 yıl. Mezarı başında anıldı"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/nejat-uygur-mezari-basinda-anildi-3928277",
+          "title": "Nejat Uygur mezarı başında anıldı"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "ntv.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -94,46 +152,60 @@
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
-    },
+    }
+  ],
+  "event_groups_preview": [
     {
-      "title": "Grammy tarihine geçti",
-      "normalized_title": "grammy tarihine gecti",
-      "url": "https://www.hurriyet.com.tr/dunya/grammy-tarihine-gecti-43381883",
-      "source": "hurriyet.com.tr",
+      "title": "Yaprak Dökümü'nün Fikret'i ve Cevriye'si yıllar sonra aynı projede. Galada bir araya geldiler",
+      "normalized_title": "yaprak dokumu nun fikret i ve cevriye si yillar sonra ayni projede galada bir araya geldiler",
+      "url": "https://www.ntv.com.tr/yasam/yaprak-dokumunun-fikreti-ve-cevriyesi-yillar-sonra-ayni-projede-galada-bir-araya-geldiler-1751543",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.285070+00:00",
+      "collected_at": "2026-11-19T10:00:07.768844+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/dunya/grammy-tarihine-gecti-43381883",
-          "title": "Grammy tarihine geçti"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/yaprak-dokumunun-fikreti-ve-cevriyesi-yillar-sonra-ayni-projede-galada-bir-araya-geldiler-1751543",
+          "title": "Yaprak Dökümü'nün Fikret'i ve Cevriye'si yıllar sonra aynı projede. Galada bir araya geldiler"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/yaprak-dokumunun-fikret-ve-cevriyesi-yillar-sonra-bir-arada-7703558",
+          "title": "Yaprak Dökümü'nün Fikret ve Cevriye'si yıllar sonra bir arada"
+        },
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/yaprak-dokumu-nun-fikret-i-ve-cevriye-si-bennu-yildirimlar-ile-guler-okten-ask-tesadufleri-sever-galasinda-1395975",
+          "title": "Yaprak Dökümü'nün Fikret'i ve Cevriye'si Aşk Tesadüfleri Sever Galasında Bir Araya Geldi"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
+        "milliyet.com.tr",
+        "ntv.com.tr",
+        "onedio.com"
       ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 10.0,
+      "popularity_score": 30.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "single_publisher"
-    }
-  ],
-  "event_groups_preview": [
+      "coverage_label": "multi_publisher"
+    },
     {
       "title": "Türk sinemasının sultanı Türkan Şoray: \"220 filmdeki kostümlerimin hepsi bana aitti\" Türkan Şoray Yeşilçam'ın zorluklarla dolu yıllarını COP31'de anlattı",
       "normalized_title": "turk sinemasinin sultani turkan soray 220 filmdeki kostumlerimin hepsi bana aitti turkan soray yesilcam in zorluklarla dolu yillarini cop31 de anlatti",
@@ -144,7 +216,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.286970+00:00",
+      "collected_at": "2026-11-19T10:00:07.769397+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -186,36 +258,131 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Hastaneye kaldırılan Yavuz Bingöl'den haber var! Ameliyat tarihi netleşti",
-      "normalized_title": "hastaneye kaldirilan yavuz bingol den haber var ameliyat tarihi netlesti",
-      "url": "https://www.ahaber.com.tr/galeri/magazin/yavuz-bingol-icin-ameliyat-karari",
-      "source": "ahaber.com.tr",
+      "title": "Tarık Papuççuoğlu huzurevi iddialarını yalanladı: 'Sigortalı çalıştığım şirketin misafirhanesinde kalıyorum'",
+      "normalized_title": "tarik papuccuoglu huzurevi iddialarini yalanladi sigortali calistigim sirketin misafirhanesinde kaliyorum",
+      "url": "https://www.cumhuriyet.com.tr/magazin/tarik-papuccuoglu-huzurevi-iddialarini-yalanladi-sigortali-calistigim-sirketin-misafirhanesinde-kaliyorum-2557462",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "ahaber.com.tr",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.286334+00:00",
+      "collected_at": "2026-11-19T10:00:07.770387+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/yavuz-bingol-hastaneye-kaldirildi-p382052",
-          "title": "Yavuz Bingöl hastaneye kaldırıldı"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/tarik-papuccuoglu-huzurevi-iddialarini-yalanladi-sigortali-calistigim-sirketin-misafirhanesinde-kaliyorum-2557462",
+          "title": "Tarık Papuççuoğlu huzurevi iddialarını yalanladı: 'Sigortalı çalıştığım şirketin misafirhanesinde kalıyorum'"
         },
         {
-          "source": "ahaber.com.tr",
-          "source_domain": "ahaber.com.tr",
-          "url": "https://www.ahaber.com.tr/galeri/magazin/yavuz-bingol-icin-ameliyat-karari",
-          "title": "Hastaneye kaldırılan Yavuz Bingöl'den haber var! Ameliyat tarihi netleşti"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/yatim-katim-oldu-simdi-bir-sirketin-misafirhanesinde-kaliyorum-43383212",
+          "title": "Usta oyuncu Tarık Papuççuoğlu: Yatım katım oldu şimdi bir şirketin misafirhanesinde kalıyorum"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/tarik-papuccuoglu-bir-sirketin-misafirhanesinde-kaliyorum-3928388",
+          "title": "Tarık Papuççuoğlu: Bir şirketin misafirhanesinde kalıyorum"
         }
       ],
       "publisher_domains": [
-        "ahaber.com.tr",
-        "sozcu.com.tr"
+        "cumhuriyet.com.tr",
+        "haberturk.com",
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "2027 Grammy Ödülleri'nde RAYE fırtınası: 11 adaylıkla rekor kırdı",
+      "normalized_title": "2027 grammy odulleri nde raye firtinasi 11 adaylikla rekor kirdi",
+      "url": "https://tr.euronews.com/2026/11/16/raye-2027-grammyde-rekor-11-adaylikla-one-cikti-rosalia-dokuz-kategoride",
+      "source": "tr.euronews.com",
+      "source_role": "publisher",
+      "source_domain": "tr.euronews.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-19T10:00:07.768589+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "trthaber.com",
+          "source_domain": "trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/2027-grammy-odulleri-adaylari-aciklandi-963504.html",
+          "title": "2027 Grammy Ödülleri adayları açıklandı"
+        },
+        {
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "url": "https://tr.euronews.com/2026/11/16/raye-2027-grammyde-rekor-11-adaylikla-one-cikti-rosalia-dokuz-kategoride",
+          "title": "2027 Grammy Ödülleri'nde RAYE fırtınası: 11 adaylıkla rekor kırdı"
+        }
+      ],
+      "publisher_domains": [
+        "tr.euronews.com",
+        "trthaber.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Nejat Uygur'suz geçen 13 yıl. Mezarı başında anıldı",
+      "normalized_title": "nejat uygur suz gecen 13 yil mezari basinda anildi",
+      "url": "https://www.ntv.com.tr/yasam/nejat-uygursuz-gecen-13-yil-mezari-basinda-anildi-1751483",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-19T10:00:07.769055+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/nejat-uygursuz-gecen-13-yil-mezari-basinda-anildi-1751483",
+          "title": "Nejat Uygur'suz geçen 13 yıl. Mezarı başında anıldı"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/nejat-uygur-mezari-basinda-anildi-3928277",
+          "title": "Nejat Uygur mezarı başında anıldı"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "ntv.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -239,7 +406,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.286543+00:00",
+      "collected_at": "2026-11-19T10:00:07.769542+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -274,36 +441,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "İrem Derici'den esprili evlilik açıklaması: 'Paramız kalmadı!'",
-      "normalized_title": "irem derici den esprili evlilik aciklamasi paramiz kalmadi",
-      "url": "https://www.cumhuriyet.com.tr/magazin/irem-derici-den-esprili-evlilik-aciklamasi-paramiz-kalmadi-2556550",
-      "source": "cumhuriyet.com.tr",
+      "title": "Ata Demirer’den Ayvalık’a sürpriz hediye! Küçükköy’ün yeni simgesi oluyor",
+      "normalized_title": "ata demirer den ayvalik a surpriz hediye kucukkoy un yeni simgesi oluyor",
+      "url": "https://www.canakkalekalem.com/haber/29162721/ata-demirerden-ayvalika-surpriz-hediye-kucukkoyun-yeni-simgesi-oluyor",
+      "source": "canakkalekalem.com",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "canakkalekalem.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.287150+00:00",
+      "collected_at": "2026-11-19T10:00:07.770075+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/irem-derici-nin-parasi-kalmadi-p381826",
-          "title": "İrem Derici'nin parası kalmadı"
+          "source": "habercigazetesi.net",
+          "source_domain": "habercigazetesi.net",
+          "url": "https://www.habercigazetesi.net/magazin/ata-demirerin-pervaneler-filminden-ayvalika-anlamli-hediye.html",
+          "title": "Ata Demirer’in “Pervaneler” filminden Ayvalık’a anlamlı hediye"
         },
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/irem-derici-den-esprili-evlilik-aciklamasi-paramiz-kalmadi-2556550",
-          "title": "İrem Derici'den esprili evlilik açıklaması: 'Paramız kalmadı!'"
+          "source": "canakkalekalem.com",
+          "source_domain": "canakkalekalem.com",
+          "url": "https://www.canakkalekalem.com/haber/29162721/ata-demirerden-ayvalika-surpriz-hediye-kucukkoyun-yeni-simgesi-oluyor",
+          "title": "Ata Demirer’den Ayvalık’a sürpriz hediye! Küçükköy’ün yeni simgesi oluyor"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "sozcu.com.tr"
+        "canakkalekalem.com",
+        "habercigazetesi.net"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -327,7 +494,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.288375+00:00",
+      "collected_at": "2026-11-19T10:00:07.769997+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -362,16 +529,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Yavuz Bingöl kimdir, kaç, yaşında, nereli? Yavuz Bingöl'ün sağlık durumu nasıl?",
-      "normalized_title": "yavuz bingol kimdir kac yasinda nereli yavuz bingol un saglik durumu nasil",
-      "url": "https://www.cumhuriyet.com.tr/yasam/yavuz-bingol-kimdir-kac-yasinda-nereli-yavuz-bingol-un-saglik-durumu-nasil-2556873",
-      "source": "cumhuriyet.com.tr",
+      "title": "İrem Derici'den evlilik açıklaması: “Paramız kalmadı, kasa boş!”",
+      "normalized_title": "irem derici den evlilik aciklamasi paramiz kalmadi kasa bos",
+      "url": "https://www.cnnturk.com/magazin/galeri/irem-dericiden-evlilik-aciklamasi-paramiz-kalmadi-kasa-bos-3494185",
+      "source": "cnnturk.com",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "cnnturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.286253+00:00",
+      "collected_at": "2026-11-19T10:00:07.770236+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -379,49 +546,188 @@
         {
           "source": "cumhuriyet.com.tr",
           "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/yavuz-bingol-kimdir-kac-yasinda-nereli-yavuz-bingol-un-saglik-durumu-nasil-2556873",
-          "title": "Yavuz Bingöl kimdir, kaç, yaşında, nereli? Yavuz Bingöl'ün sağlık durumu nasıl?"
+          "url": "https://www.cumhuriyet.com.tr/magazin/irem-derici-den-esprili-evlilik-aciklamasi-paramiz-kalmadi-2556550",
+          "title": "İrem Derici'den esprili evlilik açıklaması: 'Paramız kalmadı!'"
+        },
+        {
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/irem-dericiden-evlilik-aciklamasi-paramiz-kalmadi-kasa-bos-3494185",
+          "title": "İrem Derici'den evlilik açıklaması: “Paramız kalmadı, kasa boş!”"
         }
       ],
       "publisher_domains": [
+        "cnnturk.com",
         "cumhuriyet.com.tr"
       ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
+      "publisher_count": 2,
+      "direct_article_count": 2,
       "event_member_count": 2,
-      "discovery_item_count": 1,
+      "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 10.5,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "single_publisher"
+      "coverage_label": "multi_publisher"
     },
     {
-      "title": "2027 Grammy Ödülleri adayları açıklandı",
-      "normalized_title": "2027 grammy odulleri adaylari aciklandi",
-      "url": "https://www.trthaber.com/haber/dunya/2027-grammy-odulleri-adaylari-aciklandi-963504.html",
-      "source": "trthaber.com",
+      "title": "Apar topar hastaneye kaldırılmıştı. Yavuz Bingöl'den haber var",
+      "normalized_title": "apar topar hastaneye kaldirilmisti yavuz bingol den haber var",
+      "url": "https://www.ntv.com.tr/yasam/apar-topar-hastaneye-kaldirilmisti-yavuz-bingolden-haber-var-1751220",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "trthaber.com",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.284971+00:00",
+      "collected_at": "2026-11-19T10:00:07.770630+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "trthaber.com",
-          "source_domain": "trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/2027-grammy-odulleri-adaylari-aciklandi-963504.html",
-          "title": "2027 Grammy Ödülleri adayları açıklandı"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/yavuz-bingol-hastaneye-kaldirildi-p382052",
+          "title": "Yavuz Bingöl hastaneye kaldırıldı"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/apar-topar-hastaneye-kaldirilmisti-yavuz-bingolden-haber-var-1751220",
+          "title": "Apar topar hastaneye kaldırılmıştı. Yavuz Bingöl'den haber var"
         }
       ],
       "publisher_domains": [
-        "trthaber.com"
+        "ntv.com.tr",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Emmerdale oyuncusu Paul Opacic geçimini fayans ustalığıyla sağladığını açıkladı",
+      "normalized_title": "emmerdale oyuncusu paul opacic gecimini fayans ustaligiyla sagladigini acikladi",
+      "url": "https://www.cumhuriyet.com.tr/magazin/emmerdale-oyuncusu-paul-opacic-gecimini-fayans-ustaligiyla-sagladigini-acikladi-2557484",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-19T10:00:07.770864+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/emmerdale-oyuncusu-paul-opacic-gecimini-fayans-ustaligiyla-sagladigini-acikladi-2557484",
+          "title": "Emmerdale oyuncusu Paul Opacic geçimini fayans ustalığıyla sağladığını açıkladı"
+        },
+        {
+          "source": "mansethaber.com",
+          "source_domain": "mansethaber.com",
+          "url": "https://mansethaber.com/magazin/unlu-oyuncu-fayans-doserken-alay-konusu-oldu",
+          "title": "Emmerdale yıldızı fayans döşediğini açıkladı"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "mansethaber.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Ünlü oyuncu Paul Opacic geçimini sağlamak için fayans ustası oldu! Yaşadıklarını anlattı",
+      "normalized_title": "unlu oyuncu paul opacic gecimini saglamak icin fayans ustasi oldu yasadiklarini anlatti",
+      "url": "https://www.haberler.com/magazin/unlu-oyuncu-paul-opacic-gecimini-saglamak-icin-20441979-haberi/",
+      "source": "haberler.com",
+      "source_role": "publisher",
+      "source_domain": "haberler.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-19T10:00:07.771007+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/unlu-oyuncu-gecimini-saglamak-icin-fayans-ustasi-oldu-p382635",
+          "title": "Ünlü oyuncu geçimini sağlamak için fayans ustası oldu"
+        },
+        {
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/magazin/unlu-oyuncu-paul-opacic-gecimini-saglamak-icin-20441979-haberi/",
+          "title": "Ünlü oyuncu Paul Opacic geçimini sağlamak için fayans ustası oldu! Yaşadıklarını anlattı"
+        }
+      ],
+      "publisher_domains": [
+        "haberler.com",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Grammy ödülüne 100 kez aday gösterilen ilk sanatçı oldu",
+      "normalized_title": "grammy odulune 100 kez aday gosterilen ilk sanatci oldu",
+      "url": "https://www.kurdistan24.net/tr/story/953609",
+      "source": "kurdistan24.net",
+      "source_role": "publisher",
+      "source_domain": "kurdistan24.net",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-19T10:00:07.768499+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "kurdistan24.net",
+          "source_domain": "kurdistan24.net",
+          "url": "https://www.kurdistan24.net/tr/story/953609",
+          "title": "Grammy ödülüne 100 kez aday gösterilen ilk sanatçı oldu"
+        }
+      ],
+      "publisher_domains": [
+        "kurdistan24.net"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -436,16 +742,53 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Grammy tarihine geçti",
-      "normalized_title": "grammy tarihine gecti",
-      "url": "https://www.hurriyet.com.tr/dunya/grammy-tarihine-gecti-43381883",
+      "title": "Yeni James Bond Robert Pattinson oldu, Donald Trump'ın yıllar önceki mesajları sosyal medyanın diline düştü",
+      "normalized_title": "yeni james bond robert pattinson oldu donald trump in yillar onceki mesajlari sosyal medyanin diline dustu",
+      "url": "https://www.cumhuriyet.com.tr/magazin/yeni-james-bond-robert-pattinson-oldu-donald-trump-in-yillar-onceki-mesajlari-sosyal-medyanin-diline-dustu-2556869",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-19T10:00:07.768648+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/yeni-james-bond-robert-pattinson-oldu-donald-trump-in-yillar-onceki-mesajlari-sosyal-medyanin-diline-dustu-2556869",
+          "title": "Yeni James Bond Robert Pattinson oldu, Donald Trump'ın yıllar önceki mesajları sosyal medyanın diline düştü"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Eski Bond’dan yeni Bond’a tam destek",
+      "normalized_title": "eski bond dan yeni bond a tam destek",
+      "url": "https://www.hurriyet.com.tr/galeri-eski-bonddan-yeni-bonda-tam-destek-43383369",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.285070+00:00",
+      "collected_at": "2026-11-19T10:00:07.768690+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -453,8 +796,8 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/dunya/grammy-tarihine-gecti-43381883",
-          "title": "Grammy tarihine geçti"
+          "url": "https://www.hurriyet.com.tr/galeri-eski-bonddan-yeni-bonda-tam-destek-43383369",
+          "title": "Eski Bond’dan yeni Bond’a tam destek"
         }
       ],
       "publisher_domains": [
@@ -473,90 +816,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Beyonce, Grammy Ödülleri'ne 100 kez aday gösterilen ilk sanatçı oldu",
-      "normalized_title": "beyonce grammy odulleri ne 100 kez aday gosterilen ilk sanatci oldu",
-      "url": "https://www.aa.com.tr/tr/kultur/beyonce-grammy-odullerine-100-kez-aday-gosterilen-ilk-sanatci-oldu/4127268",
-      "source": "aa.com.tr",
-      "source_role": "publisher",
-      "source_domain": "aa.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.285163+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "aa.com.tr",
-          "source_domain": "aa.com.tr",
-          "url": "https://www.aa.com.tr/tr/kultur/beyonce-grammy-odullerine-100-kez-aday-gosterilen-ilk-sanatci-oldu/4127268",
-          "title": "Beyonce, Grammy Ödülleri'ne 100 kez aday gösterilen ilk sanatçı oldu"
-        }
-      ],
-      "publisher_domains": [
-        "aa.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Beyonce'den tarihi rekor: Grammy tarihindeki 100. adaylığını elde etti",
-      "normalized_title": "beyonce den tarihi rekor grammy tarihindeki 100 adayligini elde etti",
-      "url": "https://www.cumhuriyet.com.tr/yasam/beyonce-den-tarihi-rekor-grammy-tarihindeki-100-adayligini-elde-etti-2556819",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.285243+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/beyonce-den-tarihi-rekor-grammy-tarihindeki-100-adayligini-elde-etti-2556819",
-          "title": "Beyonce'den tarihi rekor: Grammy tarihindeki 100. adaylığını elde etti"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Robert Pattinson en stil sahibi James Bond olabilir mi?",
-      "normalized_title": "robert pattinson en stil sahibi james bond olabilir mi",
-      "url": "https://gq.com.tr/robert-pattinson-james-bond-stili",
+      "title": "Robert Pattinson’ın James Bond Saati Şimdiden Sorun Yarattı",
+      "normalized_title": "robert pattinson in james bond saati simdiden sorun yaratti",
+      "url": "https://gq.com.tr/robert-pattinson-james-bond-omega-jaeger-lecoultre",
       "source": "gq.com.tr",
       "source_role": "publisher",
       "source_domain": "gq.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.285310+00:00",
+      "collected_at": "2026-11-19T10:00:07.768739+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -564,86 +833,12 @@
         {
           "source": "gq.com.tr",
           "source_domain": "gq.com.tr",
-          "url": "https://gq.com.tr/robert-pattinson-james-bond-stili",
-          "title": "Robert Pattinson en stil sahibi James Bond olabilir mi?"
+          "url": "https://gq.com.tr/robert-pattinson-james-bond-omega-jaeger-lecoultre",
+          "title": "Robert Pattinson’ın James Bond Saati Şimdiden Sorun Yarattı"
         }
       ],
       "publisher_domains": [
         "gq.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Söz Sizde | James Bond belli oldu: Peki okuyucularımızın favorisi kimdi?",
-      "normalized_title": "soz sizde james bond belli oldu peki okuyucularimizin favorisi kimdi",
-      "url": "https://medyascope.tv/2026/11/18/yeni-james-bond-kim-olmali-iste-cevaplar/",
-      "source": "medyascope.tv",
-      "source_role": "publisher",
-      "source_domain": "medyascope.tv",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.285391+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "medyascope.tv",
-          "source_domain": "medyascope.tv",
-          "url": "https://medyascope.tv/2026/11/18/yeni-james-bond-kim-olmali-iste-cevaplar/",
-          "title": "Söz Sizde | James Bond belli oldu: Peki okuyucularımızın favorisi kimdi?"
-        }
-      ],
-      "publisher_domains": [
-        "medyascope.tv"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Brad Pitt, James Bond'un düşmanı olmaya aday: Kötü adam rolü için beni de yazın!",
-      "normalized_title": "brad pitt james bond un dusmani olmaya aday kotu adam rolu icin beni de yazin",
-      "url": "https://www.haberturk.com/magazin/brad-pitt-james-bond-un-dusmani-olmaya-aday-kotu-adam-rolu-icin-beni-de-yazin-3928000",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.285485+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/brad-pitt-james-bond-un-dusmani-olmaya-aday-kotu-adam-rolu-icin-beni-de-yazin-3928000",
-          "title": "Brad Pitt, James Bond'un düşmanı olmaya aday: Kötü adam rolü için beni de yazın!"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -667,7 +862,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.285574+00:00",
+      "collected_at": "2026-11-19T10:00:07.768791+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -695,29 +890,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Nejat Uygur'suz geçen 13 yıl. Mezarı başında anıldı",
-      "normalized_title": "nejat uygur suz gecen 13 yil mezari basinda anildi",
-      "url": "https://www.ntv.com.tr/yasam/nejat-uygursuz-gecen-13-yil-mezari-basinda-anildi-1751483",
-      "source": "ntv.com.tr",
+      "title": "İlk kez annemsiz babamı andık",
+      "normalized_title": "ilk kez annemsiz babami andik",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/ilk-kez-annemsiz-babami-andik-43383394",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.285645+00:00",
+      "collected_at": "2026-11-19T10:00:07.769088+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/nejat-uygursuz-gecen-13-yil-mezari-basinda-anildi-1751483",
-          "title": "Nejat Uygur'suz geçen 13 yıl. Mezarı başında anıldı"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/ilk-kez-annemsiz-babami-andik-43383394",
+          "title": "İlk kez annemsiz babamı andık"
         }
       ],
       "publisher_domains": [
-        "ntv.com.tr"
+        "hurriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -741,7 +936,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.285720+00:00",
+      "collected_at": "2026-11-19T10:00:07.769165+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -769,29 +964,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Aramızdan ayrılalı 13 sene oldu! Usta sanatçı Nejat Uygur unutulmadı",
-      "normalized_title": "aramizdan ayrilali 13 sene oldu usta sanatci nejat uygur unutulmadi",
-      "url": "https://www.milliyet.com.tr/magazin/galeri/aramizdan-ayrilali-13-sene-oldu-usta-sanatci-nejat-uygur-unutulmadi-7703283",
-      "source": "milliyet.com.tr",
+      "title": "Tom Cruise’la davette: Senin filmin hayatımı değiştirdi",
+      "normalized_title": "tom cruise la davette senin filmin hayatimi degistirdi",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/tom-cruisela-davette-senin-filmin-hayatimi-degistirdi-43380745",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.285792+00:00",
+      "collected_at": "2026-11-19T10:00:07.769205+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/aramizdan-ayrilali-13-sene-oldu-usta-sanatci-nejat-uygur-unutulmadi-7703283",
-          "title": "Aramızdan ayrılalı 13 sene oldu! Usta sanatçı Nejat Uygur unutulmadı"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/tom-cruisela-davette-senin-filmin-hayatimi-degistirdi-43380745",
+          "title": "Tom Cruise’la davette: Senin filmin hayatımı değiştirdi"
         }
       ],
       "publisher_domains": [
-        "milliyet.com.tr"
+        "hurriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -806,140 +1001,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Turnelerle geçen bir ömür: Nejat Uygur’un tiyatrosu",
-      "normalized_title": "turnelerle gecen bir omur nejat uygur un tiyatrosu",
-      "url": "https://gdhdijital.com/haber/turnelerle-gecen-bir-omur-nejat-uygur-un-tiyatrosu-2b9vrhyg5b6",
-      "source": "gdhdijital.com",
+      "title": "Türkan Şoray: Karavanım hiç olmadı",
+      "normalized_title": "turkan soray karavanim hic olmadi",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/turkan-soray-karavanim-hic-olmadi-43381909",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "gdhdijital.com",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.285875+00:00",
+      "collected_at": "2026-11-19T10:00:07.769237+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "gdhdijital.com",
-          "source_domain": "gdhdijital.com",
-          "url": "https://gdhdijital.com/haber/turnelerle-gecen-bir-omur-nejat-uygur-un-tiyatrosu-2b9vrhyg5b6",
-          "title": "Turnelerle geçen bir ömür: Nejat Uygur’un tiyatrosu"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/turkan-soray-karavanim-hic-olmadi-43381909",
+          "title": "Türkan Şoray: Karavanım hiç olmadı"
         }
       ],
       "publisher_domains": [
-        "gdhdijital.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Uzak Şehir'in Nare'si Sahra Şaş: 'Enerjimiz seyirciden'",
-      "normalized_title": "uzak sehir in nare si sahra sas enerjimiz seyirciden",
-      "url": "https://www.cnnturk.com/magazin/uzak-sehirin-naresi-sahra-sas-enerjimiz-seyirciden-3492427",
-      "source": "cnnturk.com",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.285947+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/uzak-sehirin-naresi-sahra-sas-enerjimiz-seyirciden-3492427",
-          "title": "Uzak Şehir'in Nare'si Sahra Şaş: 'Enerjimiz seyirciden'"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Sahra Şaş doğum gününü kutladı Bakın pastasını üflerken ne diledi...",
-      "normalized_title": "sahra sas dogum gununu kutladi bakin pastasini uflerken ne diledi",
-      "url": "https://www.internethaber.com/sahra-sas-dogum-gununu-kutladi-bakin-pastasini-uflerken-ne-diledi-foto-galerisi-2469104.htm",
-      "source": "internethaber.com",
-      "source_role": "publisher",
-      "source_domain": "internethaber.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.286022+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "internethaber.com",
-          "source_domain": "internethaber.com",
-          "url": "https://www.internethaber.com/sahra-sas-dogum-gununu-kutladi-bakin-pastasini-uflerken-ne-diledi-foto-galerisi-2469104.htm",
-          "title": "Sahra Şaş doğum gününü kutladı Bakın pastasını üflerken ne diledi..."
-        }
-      ],
-      "publisher_domains": [
-        "internethaber.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yavuz Bingöl'ün sağlık durumuyla ilgili yeni gelişme",
-      "normalized_title": "yavuz bingol un saglik durumuyla ilgili yeni gelisme",
-      "url": "https://www.evrensel.net/haber/6009839/yavuz-bingol-un-saglik-durumuyla-ilgili-yeni-gelisme",
-      "source": "evrensel.net",
-      "source_role": "publisher",
-      "source_domain": "evrensel.net",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.286089+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "evrensel.net",
-          "source_domain": "evrensel.net",
-          "url": "https://www.evrensel.net/haber/6009839/yavuz-bingol-un-saglik-durumuyla-ilgili-yeni-gelisme",
-          "title": "Yavuz Bingöl'ün sağlık durumuyla ilgili yeni gelişme"
-        }
-      ],
-      "publisher_domains": [
-        "evrensel.net"
+        "hurriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -963,7 +1047,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.286393+00:00",
+      "collected_at": "2026-11-19T10:00:07.769435+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1000,7 +1084,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.286627+00:00",
+      "collected_at": "2026-11-19T10:00:07.769590+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1028,16 +1112,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Türkan Şoray: Karavanım hiç olmadı",
-      "normalized_title": "turkan soray karavanim hic olmadi",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/turkan-soray-karavanim-hic-olmadi-43381909",
+      "title": "52 yıllık gelinlik giydi",
+      "normalized_title": "52 yillik gelinlik giydi",
+      "url": "https://www.hurriyet.com.tr/kelebek/stil/52-yillik-gelinlik-giydi-43380767",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.286687+00:00",
+      "collected_at": "2026-11-19T10:00:07.769619+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1045,8 +1129,8 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/turkan-soray-karavanim-hic-olmadi-43381909",
-          "title": "Türkan Şoray: Karavanım hiç olmadı"
+          "url": "https://www.hurriyet.com.tr/kelebek/stil/52-yillik-gelinlik-giydi-43380767",
+          "title": "52 yıllık gelinlik giydi"
         }
       ],
       "publisher_domains": [
@@ -1065,16 +1149,127 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Evi yeni aldım çok para lazım",
-      "normalized_title": "evi yeni aldim cok para lazim",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/evi-yeni-aldim-cok-para-lazim-43381913",
+      "title": "BOĞAZ’DA GÖRKEMLİ DÜĞÜN! DR. BERK TOPUZ VE AYÇA KURU GÖRKEMLİ BİR TÖRENLE EVLENDİ",
+      "normalized_title": "bogaz da gorkemli dugun dr berk topuz ve ayca kuru gorkemli bir torenle evlendi",
+      "url": "https://www.magazinci.com/icerikler/magazin/bogaz-rsquo-da-gorkemli-dugun-dr-berk-topuz-ve-ayca-kuru-gorkemli-bir-torenle-evlendi_86512.html",
+      "source": "magazinci.com",
+      "source_role": "publisher",
+      "source_domain": "magazinci.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-19T10:00:07.769669+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "magazinci.com",
+          "source_domain": "magazinci.com",
+          "url": "https://www.magazinci.com/icerikler/magazin/bogaz-rsquo-da-gorkemli-dugun-dr-berk-topuz-ve-ayca-kuru-gorkemli-bir-torenle-evlendi_86512.html",
+          "title": "BOĞAZ’DA GÖRKEMLİ DÜĞÜN! DR. BERK TOPUZ VE AYÇA KURU GÖRKEMLİ BİR TÖRENLE EVLENDİ"
+        }
+      ],
+      "publisher_domains": [
+        "magazinci.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Manşet Haber yazarı Ayça Kuru ile Dr. Berk Topuz dünyaevine girdi",
+      "normalized_title": "manset haber yazari ayca kuru ile dr berk topuz dunyaevine girdi",
+      "url": "https://mansethaber.com/ozel-haber/manset-haber-yazari-ayca-kuru-ile-dr-berk-topuz-dunyaevine-girdi",
+      "source": "mansethaber.com",
+      "source_role": "publisher",
+      "source_domain": "mansethaber.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-19T10:00:07.769711+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "mansethaber.com",
+          "source_domain": "mansethaber.com",
+          "url": "https://mansethaber.com/ozel-haber/manset-haber-yazari-ayca-kuru-ile-dr-berk-topuz-dunyaevine-girdi",
+          "title": "Manşet Haber yazarı Ayça Kuru ile Dr. Berk Topuz dünyaevine girdi"
+        }
+      ],
+      "publisher_domains": [
+        "mansethaber.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ünlü sunucu Ayça Kuru annesinin 52 yıllık gelinliğiyle evlendi",
+      "normalized_title": "unlu sunucu ayca kuru annesinin 52 yillik gelinligiyle evlendi",
+      "url": "https://www.memleket.com.tr/unlu-sunucu-ayca-kuru-annesinin-52-yillik-gelinligiyle-evlendi-2367146h.htm",
+      "source": "memleket.com.tr",
+      "source_role": "publisher",
+      "source_domain": "memleket.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-19T10:00:07.769752+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "memleket.com.tr",
+          "source_domain": "memleket.com.tr",
+          "url": "https://www.memleket.com.tr/unlu-sunucu-ayca-kuru-annesinin-52-yillik-gelinligiyle-evlendi-2367146h.htm",
+          "title": "Ünlü sunucu Ayça Kuru annesinin 52 yıllık gelinliğiyle evlendi"
+        }
+      ],
+      "publisher_domains": [
+        "memleket.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Londra’da sıradan bir gün",
+      "normalized_title": "londra da siradan bir gun",
+      "url": "https://www.hurriyet.com.tr/kelebek/stil/londrada-siradan-bir-gun-43380786",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.287029+00:00",
+      "collected_at": "2026-11-19T10:00:07.769782+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1082,8 +1277,8 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/evi-yeni-aldim-cok-para-lazim-43381913",
-          "title": "Evi yeni aldım çok para lazım"
+          "url": "https://www.hurriyet.com.tr/kelebek/stil/londrada-siradan-bir-gun-43380786",
+          "title": "Londra’da sıradan bir gün"
         }
       ],
       "publisher_domains": [
@@ -1102,29 +1297,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "İrem Derici'den şaşırtan itiraf: Kasamız boşaldı",
-      "normalized_title": "irem derici den sasirtan itiraf kasamiz bosaldi",
-      "url": "https://www.odatv.com/magazin/irem-dericiden-sasirtan-itiraf-kasamiz-bosaldi-120171449",
-      "source": "odatv.com",
+      "title": "Marketi birbirine kattılar! Bergüzar Korel’den Londra’dan eğlenceli paylaşımlar",
+      "normalized_title": "marketi birbirine kattilar berguzar korel den londra dan eglenceli paylasimlar",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/marketi-birbirine-kattilar-berguzar-korelden-londradan-eglenceli-paylasimlar",
+      "source": "sabah.com.tr",
       "source_role": "publisher",
-      "source_domain": "odatv.com",
+      "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.287213+00:00",
+      "collected_at": "2026-11-19T10:00:07.769829+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/magazin/irem-dericiden-sasirtan-itiraf-kasamiz-bosaldi-120171449",
-          "title": "İrem Derici'den şaşırtan itiraf: Kasamız boşaldı"
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/marketi-birbirine-kattilar-berguzar-korelden-londradan-eglenceli-paylasimlar",
+          "title": "Marketi birbirine kattılar! Bergüzar Korel’den Londra’dan eğlenceli paylaşımlar"
         }
       ],
       "publisher_domains": [
-        "odatv.com"
+        "sabah.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1139,140 +1334,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Talat Bulut'tan Haluk Bilginer'e nankörlük suçlaması",
-      "normalized_title": "talat bulut tan haluk bilginer e nankorluk suclamasi",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/talat-buluttan-haluk-bilginere-nankorluk-suclamasi-43379618",
-      "source": "hurriyet.com.tr",
+      "title": "Yüzünü yine göstermedi! Bergüzar Korel ve Halit Ergenç'in kızları Leyla 5 yaşında",
+      "normalized_title": "yuzunu yine gostermedi berguzar korel ve halit ergenc in kizlari leyla 5 yasinda",
+      "url": "https://www.milliyet.com.tr/magazin/galeri/yuzunu-yine-gostermedi-berguzar-korel-ve-halit-ergencin-kizlari-leyla-5-yasinda-7699680",
+      "source": "milliyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "milliyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.287278+00:00",
+      "collected_at": "2026-11-19T10:00:07.769877+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/talat-buluttan-haluk-bilginere-nankorluk-suclamasi-43379618",
-          "title": "Talat Bulut'tan Haluk Bilginer'e nankörlük suçlaması"
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/yuzunu-yine-gostermedi-berguzar-korel-ve-halit-ergencin-kizlari-leyla-5-yasinda-7699680",
+          "title": "Yüzünü yine göstermedi! Bergüzar Korel ve Halit Ergenç'in kızları Leyla 5 yaşında"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "ASİMED Başkanı Savaş Eğilmez'den \"Türkiye Sineması\" tartışmasına sert tepki",
-      "normalized_title": "asimed baskani savas egilmez den turkiye sinemasi tartismasina sert tepki",
-      "url": "https://yerel-haberler.haberturk.com/erzurum-haberleri/asimed-baskani-savas-egilmezden-turkiye-sinemasi-tartismasina-sert-tepki-119524188",
-      "source": "yerel-haberler.haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "yerel-haberler.haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.287353+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yerel-haberler.haberturk.com",
-          "source_domain": "yerel-haberler.haberturk.com",
-          "url": "https://yerel-haberler.haberturk.com/erzurum-haberleri/asimed-baskani-savas-egilmezden-turkiye-sinemasi-tartismasina-sert-tepki-119524188",
-          "title": "ASİMED Başkanı Savaş Eğilmez'den \"Türkiye Sineması\" tartışmasına sert tepki"
-        }
-      ],
-      "publisher_domains": [
-        "yerel-haberler.haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Nebahat Çehre'den Haluk Bilginer'in 'Türkiye sineması' çıkışına yanıt",
-      "normalized_title": "nebahat cehre den haluk bilginer in turkiye sinemasi cikisina yanit",
-      "url": "https://www.cumhuriyet.com.tr/magazin/nebahat-cehre-den-haluk-bilginer-in-turkiye-sinemasi-cikisina-yanit-2556484",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.287425+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/nebahat-cehre-den-haluk-bilginer-in-turkiye-sinemasi-cikisina-yanit-2556484",
-          "title": "Nebahat Çehre'den Haluk Bilginer'in 'Türkiye sineması' çıkışına yanıt"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "BAŞKAN ÖZLÜ: “TÜRKİYE SİNEMASI DEĞİL, TÜRK SİNEMASI”",
-      "normalized_title": "baskan ozlu turkiye sinemasi degil turk sinemasi",
-      "url": "https://www.oncurtv.com/baskan-ozlu-turkiye-sinemasi-degil-turk-sinemasi",
-      "source": "oncurtv.com",
-      "source_role": "publisher",
-      "source_domain": "oncurtv.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-18T20:50:59.287492+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "oncurtv.com",
-          "source_domain": "oncurtv.com",
-          "url": "https://www.oncurtv.com/baskan-ozlu-turkiye-sinemasi-degil-turk-sinemasi",
-          "title": "BAŞKAN ÖZLÜ: “TÜRKİYE SİNEMASI DEĞİL, TÜRK SİNEMASI”"
-        }
-      ],
-      "publisher_domains": [
-        "oncurtv.com"
+        "milliyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
