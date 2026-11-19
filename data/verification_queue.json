@@ -1,24 +1,30 @@
 {
-  "generated_at": "2026-11-19T15:57:33.655040+00:00",
+  "generated_at": "2026-11-19T20:55:31.196075+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
-      "title": "Eski James Bond Pierce Brosnan'dan yeni 007 Robert Pattinson'a mesaj!",
-      "normalized_title": "eski james bond pierce brosnan dan yeni 007 robert pattinson a mesaj",
-      "url": "https://www.cumhuriyet.com.tr/yasam/eski-james-bond-pierce-brosnan-dan-yeni-007-robert-pattinson-a-mesaj-2557550",
-      "source": "cumhuriyet.com.tr",
+      "title": "Eski Bond Pierce Brosnan'dan yeni James Bond'a destek. \"Yolculuğun tadını çıkar\"",
+      "normalized_title": "eski bond pierce brosnan dan yeni james bond a destek yolculugun tadini cikar",
+      "url": "https://www.ntv.com.tr/yasam/eski-bond-pierce-brosnandan-yeni-james-bonda-destek-yolculugun-tadini-cikar-1751585",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-19T15:56:56.212719+00:00",
+      "collected_at": "2026-11-19T20:54:53.287661+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/eski-bond-pierce-brosnandan-yeni-james-bonda-destek-yolculugun-tadini-cikar-1751585",
+          "title": "Eski Bond Pierce Brosnan'dan yeni James Bond'a destek. \"Yolculuğun tadını çıkar\""
+        },
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
@@ -34,6 +40,94 @@
       ],
       "publisher_domains": [
         "cumhuriyet.com.tr",
+        "hurriyet.com.tr",
+        "ntv.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Eski Bond Pierce Brosnan'dan yeni James Bond'a destek. \"Yolculuğun tadını çıkar\" | NTV Haber",
+        "og_title": "Eski Bond Pierce Brosnan'dan yeni James Bond'a destek. \"Yolculuğun tadını çıkar\" | NTV Haber",
+        "description": "Yeni James Bond rolü için Robert Pattinson'ın seçilmesinin yankıları sürüyor. Eski Bond yıldızlarından biri olan Pierce Brosnan, Pattinson'a desteğini gözler önüne serdi.",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "title": "Eski Bond’dan yeni Bond’a tam destek",
+          "summary": "",
+          "url": "https://www.hurriyet.com.tr/galeri-eski-bonddan-yeni-bonda-tam-destek-43383369",
+          "match_score": 0.54,
+          "shared_keywords": [
+            "bond",
+            "destek",
+            "eski"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        },
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "title": "Eski James Bond Pierce Brosnan'dan yeni 007 Robert Pattinson'a mesaj!",
+          "summary": "",
+          "url": "https://www.cumhuriyet.com.tr/yasam/eski-james-bond-pierce-brosnan-dan-yeni-007-robert-pattinson-a-mesaj-2557550",
+          "match_score": 0.46,
+          "shared_keywords": [
+            "bond",
+            "brosnan",
+            "eski",
+            "james",
+            "pierce"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Usta oyuncu Tarık Papuççuoğlu: Yatım katım oldu şimdi bir şirketin misafirhanesinde kalıyorum",
+      "normalized_title": "usta oyuncu tarik papuccuoglu yatim katim oldu simdi bir sirketin misafirhanesinde kaliyorum",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/yatim-katim-oldu-simdi-bir-sirketin-misafirhanesinde-kaliyorum-43383212",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-19T20:54:53.288286+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/yatim-katim-oldu-simdi-bir-sirketin-misafirhanesinde-kaliyorum-43383212",
+          "title": "Usta oyuncu Tarık Papuççuoğlu: Yatım katım oldu şimdi bir şirketin misafirhanesinde kalıyorum"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/tarik-papuccuoglu-bir-sirketin-misafirhanesinde-kaliyorum-3928388",
+          "title": "Tarık Papuççuoğlu: Bir şirketin misafirhanesinde kalıyorum"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
         "hurriyet.com.tr"
       ],
       "publisher_count": 2,
@@ -50,22 +144,26 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Eski James Bond Pierce Brosnan'dan yeni 007 Robert Pattinson'a mesaj! - Son Dakika Yaşam Haberleri | Cumhuriyet",
-        "og_title": "Eski James Bond Pierce Brosnan'dan yeni 007 Robert Pattinson'a mesaj!",
-        "description": "James Bond karakterini canlandıran oyunculardan Pierce Brosnan, yeni 007 olarak seçilen Robert Pattinson'a sosyal medya üzerinden destek verdi. Ünlü oyuncu, Pattinson'a başarılar dilerken yıllar önce birlikte rol aldıkları filmi de hatırlattı.",
+        "page_title": "Usta oyuncu Tarık Papuççuoğlu: Yatım katım oldu şimdi bir şirketin misafirhanesinde kalıyorum - Magazin Haber",
+        "og_title": "Usta oyuncu Tarık Papuççuoğlu: Yatım katım oldu şimdi bir şirketin misafirhanesinde kalıyorum",
+        "description": "Usta oyuncu Tarık Papuççuoğlu, Öykü Cengiz’in televizyon programına konuk oldu. ",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "title": "Eski Bond’dan yeni Bond’a tam destek",
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "title": "Tarık Papuççuoğlu: Bir şirketin misafirhanesinde kalıyorum",
           "summary": "",
-          "url": "https://www.hurriyet.com.tr/galeri-eski-bonddan-yeni-bonda-tam-destek-43383369",
-          "match_score": 0.46,
+          "url": "https://www.haberturk.com/magazin/foto/tarik-papuccuoglu-bir-sirketin-misafirhanesinde-kaliyorum-3928388",
+          "match_score": 0.77,
           "shared_keywords": [
-            "bond",
-            "eski"
+            "kal",
+            "misafirhanesinde",
+            "papuccuoglu",
+            "sirketin",
+            "tar",
+            "yorum"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
@@ -74,36 +172,36 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Nejat Uygur'suz geçen 13 yıl. Mezarı başında anıldı",
-      "normalized_title": "nejat uygur suz gecen 13 yil mezari basinda anildi",
-      "url": "https://www.ntv.com.tr/yasam/nejat-uygursuz-gecen-13-yil-mezari-basinda-anildi-1751483",
-      "source": "ntv.com.tr",
+      "title": "Ata Demirer’den Ayvalık’a sürpriz hediye! Küçükköy’ün yeni simgesi oluyor",
+      "normalized_title": "ata demirer den ayvalik a surpriz hediye kucukkoy un yeni simgesi oluyor",
+      "url": "https://www.canakkalekalem.com/haber/29162721/ata-demirerden-ayvalika-surpriz-hediye-kucukkoyun-yeni-simgesi-oluyor",
+      "source": "canakkalekalem.com",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "canakkalekalem.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-19T15:56:56.213028+00:00",
+      "collected_at": "2026-11-19T20:54:53.289516+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/nejat-uygursuz-gecen-13-yil-mezari-basinda-anildi-1751483",
-          "title": "Nejat Uygur'suz geçen 13 yıl. Mezarı başında anıldı"
+          "source": "habercigazetesi.net",
+          "source_domain": "habercigazetesi.net",
+          "url": "https://www.habercigazetesi.net/magazin/ata-demirerin-pervaneler-filminden-ayvalika-anlamli-hediye.html",
+          "title": "Ata Demirer’in “Pervaneler” filminden Ayvalık’a anlamlı hediye"
         },
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/nejat-uygur-mezari-basinda-anildi-3928277",
-          "title": "Nejat Uygur mezarı başında anıldı"
+          "source": "canakkalekalem.com",
+          "source_domain": "canakkalekalem.com",
+          "url": "https://www.canakkalekalem.com/haber/29162721/ata-demirerden-ayvalika-surpriz-hediye-kucukkoyun-yeni-simgesi-oluyor",
+          "title": "Ata Demirer’den Ayvalık’a sürpriz hediye! Küçükköy’ün yeni simgesi oluyor"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "ntv.com.tr"
+        "canakkalekalem.com",
+        "habercigazetesi.net"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -117,99 +215,26 @@
       "publication_approved": false,
       "coverage_label": "multi_publisher",
       "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Nejat Uygur'suz geçen 13 yıl. Mezarı başında anıldı | NTV Haber",
-        "og_title": "Nejat Uygur'suz geçen 13 yıl. Mezarı başında anıldı | NTV Haber",
-        "description": "Geleneksel Türk tiyatrosunun önemli temsilcilerinden Nejat Uygur, vefatının 13'üncü yılında mezarı başında anıldı. Süha Uygur, ilk defa anneleri olmadan babalarını andıklarını söyledi.",
-        "error": null
+        "reachable": false,
+        "http_status": 403,
+        "page_title": "",
+        "og_title": "",
+        "description": "",
+        "error": "HTTP 403"
       },
       "independent_source_matches": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "title": "Nejat Uygur mezarı başında anıldı",
+          "source": "habercigazetesi.net",
+          "source_domain": "habercigazetesi.net",
+          "title": "Ata Demirer’in “Pervaneler” filminden Ayvalık’a anlamlı hediye",
           "summary": "",
-          "url": "https://www.haberturk.com/magazin/nejat-uygur-mezari-basinda-anildi-3928277",
-          "match_score": 0.76,
+          "url": "https://www.habercigazetesi.net/magazin/ata-demirerin-pervaneler-filminden-ayvalika-anlamli-hediye.html",
+          "match_score": 0.45,
           "shared_keywords": [
-            "bas",
-            "mezar",
-            "nda",
-            "nejat",
-            "uygur"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "Türkan Şoray, COP31'de Yeşilçam yıllarını anlattı: Karavan yoktu, arabada giyiniyorduk",
-      "normalized_title": "turkan soray cop31 de yesilcam yillarini anlatti karavan yoktu arabada giyiniyorduk",
-      "url": "https://www.haberturk.com/magazin/turkan-soray-cop31-de-yesilcam-yillarini-anlatti-karavan-yoktu-arabada-giyiniyorduk-3927885",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-19T15:56:56.213345+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "aa.com.tr",
-          "source_domain": "aa.com.tr",
-          "url": "https://www.aa.com.tr/tr/kultur/turkan-soray-cop31de-yesilcam-sinemasini-anlatti/4127034",
-          "title": "Türkan Şoray COP31'de Yeşilçam sinemasını anlattı"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/turkan-soray-cop31-de-yesilcam-yillarini-anlatti-karavan-yoktu-arabada-giyiniyorduk-3927885",
-          "title": "Türkan Şoray, COP31'de Yeşilçam yıllarını anlattı: Karavan yoktu, arabada giyiniyorduk"
-        }
-      ],
-      "publisher_domains": [
-        "aa.com.tr",
-        "haberturk.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Türkan Şoray, COP31'de Yeşilçam yıllarını anlattı: Karavan yoktu, arabada giyiniyorduk - Son Dakika Magazin Haberleri - Habertürk",
-        "og_title": "Türkan Şoray, COP31'de Yeşilçam yıllarını anlattı: Karavan yoktu, arabada giyiniyorduk",
-        "description": "Türk sinemasının efsane ismi Türkan Şoray, COP31 kapsamında düzenlenen 'Yeşilçam Usulü Film Yapmak' söyleşisinde geçmişin zorluklarını ve anılarını paylaştı. Karavansız setlerden kendi hazırladığı kostümlere kadar Yeşilçam yıllarının bilinmeyenlerini anlatan usta sanatçı, \"Bütün yaptığımız filmler, aşkla yapılan filmlerdi\" diyerek döneme duyduğu özlemi dile getirdi",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "aa.com.tr",
-          "source_domain": "aa.com.tr",
-          "title": "Türkan Şoray COP31'de Yeşilçam sinemasını anlattı",
-          "summary": "",
-          "url": "https://www.aa.com.tr/tr/kultur/turkan-soray-cop31de-yesilcam-sinemasini-anlatti/4127034",
-          "match_score": 0.63,
-          "shared_keywords": [
-            "anlatt",
-            "cop31",
-            "soray",
-            "turkan",
-            "yesilcam"
+            "ata",
+            "ayval",
+            "demirer",
+            "hediye"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
