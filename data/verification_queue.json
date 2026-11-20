@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-11-19T20:55:31.196075+00:00",
+  "generated_at": "2026-11-20T09:49:27.273977+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
   "items": [
     {
-      "title": "Eski Bond Pierce Brosnan'dan yeni James Bond'a destek. \"Yolculuğun tadını çıkar\"",
-      "normalized_title": "eski bond pierce brosnan dan yeni james bond a destek yolculugun tadini cikar",
-      "url": "https://www.ntv.com.tr/yasam/eski-bond-pierce-brosnandan-yeni-james-bonda-destek-yolculugun-tadini-cikar-1751585",
-      "source": "ntv.com.tr",
+      "title": "Yonca Lodi'den 'Yaprak Dökümü Leyla'",
+      "normalized_title": "yonca lodi den yaprak dokumu leyla",
+      "url": "https://www.haberturk.com/magazin/yonca-lodi-den-yaprak-dokumu-leyla-3928546",
+      "source": "haberturk.com",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "haberturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-19T20:54:53.287661+00:00",
+      "collected_at": "2026-11-20T09:48:49.430151+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/eski-bond-pierce-brosnandan-yeni-james-bonda-destek-yolculugun-tadini-cikar-1751585",
-          "title": "Eski Bond Pierce Brosnan'dan yeni James Bond'a destek. \"Yolculuğun tadını çıkar\""
-        },
-        {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/galeri-eski-bonddan-yeni-bonda-tam-destek-43383369",
-          "title": "Eski Bond’dan yeni Bond’a tam destek"
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yonca-lodiden-yaprak-dokumu-43384127",
+          "title": "Yonca Lodi'den Yaprak Dökümü"
         },
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/eski-james-bond-pierce-brosnan-dan-yeni-007-robert-pattinson-a-mesaj-2557550",
-          "title": "Eski James Bond Pierce Brosnan'dan yeni 007 Robert Pattinson'a mesaj!"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/yonca-lodi-den-yaprak-dokumu-leyla-3928546",
+          "title": "Yonca Lodi'den 'Yaprak Dökümü Leyla'"
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/magazin/yonca-lodiden-duygusal-sarki-7705477",
+          "title": "Yonca Lodi’den duygusal şarkı"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
+        "haberturk.com",
         "hurriyet.com.tr",
-        "ntv.com.tr"
+        "sabah.com.tr"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -57,40 +57,38 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Eski Bond Pierce Brosnan'dan yeni James Bond'a destek. \"Yolculuğun tadını çıkar\" | NTV Haber",
-        "og_title": "Eski Bond Pierce Brosnan'dan yeni James Bond'a destek. \"Yolculuğun tadını çıkar\" | NTV Haber",
-        "description": "Yeni James Bond rolü için Robert Pattinson'ın seçilmesinin yankıları sürüyor. Eski Bond yıldızlarından biri olan Pierce Brosnan, Pattinson'a desteğini gözler önüne serdi.",
+        "page_title": "Yonca Lodi'den 'Yaprak Dökümü Leyla'",
+        "og_title": "Yonca Lodi'den 'Yaprak Dökümü Leyla'",
+        "description": "Yonca Lodi, yeni şarkısı 'Yaprak Dökümü Leyla'yı müzikseverlerin beğenisine sunuyor",
         "error": null
       },
       "independent_source_matches": [
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "title": "Eski Bond’dan yeni Bond’a tam destek",
+          "title": "Yonca Lodi'den Yaprak Dökümü",
           "summary": "",
-          "url": "https://www.hurriyet.com.tr/galeri-eski-bonddan-yeni-bonda-tam-destek-43383369",
-          "match_score": 0.54,
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yonca-lodiden-yaprak-dokumu-43384127",
+          "match_score": 0.8,
           "shared_keywords": [
-            "bond",
-            "destek",
-            "eski"
+            "dokumu",
+            "lodi",
+            "yaprak",
+            "yonca"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
         },
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "title": "Eski James Bond Pierce Brosnan'dan yeni 007 Robert Pattinson'a mesaj!",
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "title": "Yonca Lodi’den duygusal şarkı",
           "summary": "",
-          "url": "https://www.cumhuriyet.com.tr/yasam/eski-james-bond-pierce-brosnan-dan-yeni-007-robert-pattinson-a-mesaj-2557550",
-          "match_score": 0.46,
+          "url": "https://www.sabah.com.tr/magazin/yonca-lodiden-duygusal-sarki-7705477",
+          "match_score": 0.52,
           "shared_keywords": [
-            "bond",
-            "brosnan",
-            "eski",
-            "james",
-            "pierce"
+            "lodi",
+            "yonca"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
@@ -99,16 +97,16 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Usta oyuncu Tarık Papuççuoğlu: Yatım katım oldu şimdi bir şirketin misafirhanesinde kalıyorum",
-      "normalized_title": "usta oyuncu tarik papuccuoglu yatim katim oldu simdi bir sirketin misafirhanesinde kaliyorum",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/yatim-katim-oldu-simdi-bir-sirketin-misafirhanesinde-kaliyorum-43383212",
+      "title": "Murat Boz'dan kahramanlara teşekkür ziyareti",
+      "normalized_title": "murat boz dan kahramanlara tesekkur ziyareti",
+      "url": "https://www.hurriyet.com.tr/kelebek/stil/murat-bozdan-kahramanlara-tesekkur-ziyareti-43384503",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-19T20:54:53.288286+00:00",
+      "collected_at": "2026-11-20T09:48:49.428278+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -116,14 +114,14 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/yatim-katim-oldu-simdi-bir-sirketin-misafirhanesinde-kaliyorum-43383212",
-          "title": "Usta oyuncu Tarık Papuççuoğlu: Yatım katım oldu şimdi bir şirketin misafirhanesinde kalıyorum"
+          "url": "https://www.hurriyet.com.tr/kelebek/stil/murat-bozdan-kahramanlara-tesekkur-ziyareti-43384503",
+          "title": "Murat Boz'dan kahramanlara teşekkür ziyareti"
         },
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/tarik-papuccuoglu-bir-sirketin-misafirhanesinde-kaliyorum-3928388",
-          "title": "Tarık Papuççuoğlu: Bir şirketin misafirhanesinde kalıyorum"
+          "url": "https://www.haberturk.com/magazin/murat-boz-dan-kahramanlara-tesekkur-3928581",
+          "title": "Murat Boz'dan kahramanlara teşekkür"
         }
       ],
       "publisher_domains": [
@@ -144,26 +142,24 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Usta oyuncu Tarık Papuççuoğlu: Yatım katım oldu şimdi bir şirketin misafirhanesinde kalıyorum - Magazin Haber",
-        "og_title": "Usta oyuncu Tarık Papuççuoğlu: Yatım katım oldu şimdi bir şirketin misafirhanesinde kalıyorum",
-        "description": "Usta oyuncu Tarık Papuççuoğlu, Öykü Cengiz’in televizyon programına konuk oldu. ",
+        "page_title": "Murat Boz'dan kahramanlara teşekkür ziyareti - Stil Haberleri",
+        "og_title": "Murat Boz'dan kahramanlara teşekkür ziyareti",
+        "description": "14 Ekim’deki sel felaketinde Ayazağa’da stüdyoda mahsur kalan Murat Boz, kendisini kurtaran dalgıç polisleri ziyaret etti.",
         "error": null
       },
       "independent_source_matches": [
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
-          "title": "Tarık Papuççuoğlu: Bir şirketin misafirhanesinde kalıyorum",
+          "title": "Murat Boz'dan kahramanlara teşekkür",
           "summary": "",
-          "url": "https://www.haberturk.com/magazin/foto/tarik-papuccuoglu-bir-sirketin-misafirhanesinde-kaliyorum-3928388",
-          "match_score": 0.77,
+          "url": "https://www.haberturk.com/magazin/murat-boz-dan-kahramanlara-tesekkur-3928581",
+          "match_score": 0.8,
           "shared_keywords": [
-            "kal",
-            "misafirhanesinde",
-            "papuccuoglu",
-            "sirketin",
-            "tar",
-            "yorum"
+            "boz",
+            "kahramanlara",
+            "murat",
+            "tesekkur"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
@@ -172,36 +168,36 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Ata Demirer’den Ayvalık’a sürpriz hediye! Küçükköy’ün yeni simgesi oluyor",
-      "normalized_title": "ata demirer den ayvalik a surpriz hediye kucukkoy un yeni simgesi oluyor",
-      "url": "https://www.canakkalekalem.com/haber/29162721/ata-demirerden-ayvalika-surpriz-hediye-kucukkoyun-yeni-simgesi-oluyor",
-      "source": "canakkalekalem.com",
+      "title": "Sinem Ünsal'ın zıt renk tercihi dikkat çekti: \"Bugün böyle hoşuma gitti\"",
+      "normalized_title": "sinem unsal in zit renk tercihi dikkat cekti bugun boyle hosuma gitti",
+      "url": "https://www.sozcu.com.tr/sinem-unsal-in-zit-renk-tercihi-dikkat-cekti-bugun-boyle-hosuma-gitti-p383001",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "canakkalekalem.com",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-19T20:54:53.289516+00:00",
+      "collected_at": "2026-11-20T09:48:49.428558+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "habercigazetesi.net",
-          "source_domain": "habercigazetesi.net",
-          "url": "https://www.habercigazetesi.net/magazin/ata-demirerin-pervaneler-filminden-ayvalika-anlamli-hediye.html",
-          "title": "Ata Demirer’in “Pervaneler” filminden Ayvalık’a anlamlı hediye"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/sinem-unsal-in-zit-renk-tercihi-dikkat-cekti-bugun-boyle-hosuma-gitti-p383001",
+          "title": "Sinem Ünsal'ın zıt renk tercihi dikkat çekti: \"Bugün böyle hoşuma gitti\""
         },
         {
-          "source": "canakkalekalem.com",
-          "source_domain": "canakkalekalem.com",
-          "url": "https://www.canakkalekalem.com/haber/29162721/ata-demirerden-ayvalika-surpriz-hediye-kucukkoyun-yeni-simgesi-oluyor",
-          "title": "Ata Demirer’den Ayvalık’a sürpriz hediye! Küçükköy’ün yeni simgesi oluyor"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/sinem-unsal-arada-boyle-giyiniyorum-3928631",
+          "title": "Sinem Ünsal: Arada böyle giyiniyorum"
         }
       ],
       "publisher_domains": [
-        "canakkalekalem.com",
-        "habercigazetesi.net"
+        "haberturk.com",
+        "sozcu.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -215,26 +211,25 @@
       "publication_approved": false,
       "coverage_label": "multi_publisher",
       "source_page_check": {
-        "reachable": false,
-        "http_status": 403,
-        "page_title": "",
-        "og_title": "",
-        "description": "",
-        "error": "HTTP 403"
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Sinem Ünsal'ın zıt renk tercihi dikkat çekti: \"Bugün böyle hoşuma gitti\" - Sözcü",
+        "og_title": "Sinem Ünsal'ın zıt renk tercihi dikkat çekti: \"Bugün böyle hoşuma gitti\" - Sözcü Gazetesi",
+        "description": "Kadıköy'de objektiflere yansıyan oyuncu Sinem Ünsal, fıstık yeşili saten elbisesini pembe hırkayla tamamladı. Alışılmışın dışındaki kombinini soran muhabirlere verdiği yanıt ise tarzının arkasındaki düşünceyi ortaya koydu.",
+        "error": null
       },
       "independent_source_matches": [
         {
-          "source": "habercigazetesi.net",
-          "source_domain": "habercigazetesi.net",
-          "title": "Ata Demirer’in “Pervaneler” filminden Ayvalık’a anlamlı hediye",
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "title": "Sinem Ünsal: Arada böyle giyiniyorum",
           "summary": "",
-          "url": "https://www.habercigazetesi.net/magazin/ata-demirerin-pervaneler-filminden-ayvalika-anlamli-hediye.html",
-          "match_score": 0.45,
+          "url": "https://www.haberturk.com/magazin/sinem-unsal-arada-boyle-giyiniyorum-3928631",
+          "match_score": 0.44,
           "shared_keywords": [
-            "ata",
-            "ayval",
-            "demirer",
-            "hediye"
+            "boyle",
+            "sinem",
+            "unsal"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
