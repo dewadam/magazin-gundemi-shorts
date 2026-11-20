@@ -1,107 +1,12 @@
 {
-  "generated_at": "2026-11-20T09:49:25.599556+00:00",
+  "generated_at": "2026-11-20T15:41:16.848759+00:00",
   "candidate_count": 100,
-  "event_group_count": 44,
-  "multi_publisher_event_count": 14,
+  "event_group_count": 42,
+  "multi_publisher_event_count": 8,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
-    {
-      "title": "Yonca Lodi'den 'Yaprak Dökümü Leyla'",
-      "normalized_title": "yonca lodi den yaprak dokumu leyla",
-      "url": "https://www.haberturk.com/magazin/yonca-lodi-den-yaprak-dokumu-leyla-3928546",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.430151+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yonca-lodiden-yaprak-dokumu-43384127",
-          "title": "Yonca Lodi'den Yaprak Dökümü"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/yonca-lodi-den-yaprak-dokumu-leyla-3928546",
-          "title": "Yonca Lodi'den 'Yaprak Dökümü Leyla'"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/yonca-lodiden-duygusal-sarki-7705477",
-          "title": "Yonca Lodi’den duygusal şarkı"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com",
-        "hurriyet.com.tr",
-        "sabah.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Murat Boz'dan kahramanlara teşekkür ziyareti",
-      "normalized_title": "murat boz dan kahramanlara tesekkur ziyareti",
-      "url": "https://www.hurriyet.com.tr/kelebek/stil/murat-bozdan-kahramanlara-tesekkur-ziyareti-43384503",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.428278+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/stil/murat-bozdan-kahramanlara-tesekkur-ziyareti-43384503",
-          "title": "Murat Boz'dan kahramanlara teşekkür ziyareti"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/murat-boz-dan-kahramanlara-tesekkur-3928581",
-          "title": "Murat Boz'dan kahramanlara teşekkür"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com",
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
     {
       "title": "Sinem Ünsal'ın zıt renk tercihi dikkat çekti: \"Bugün böyle hoşuma gitti\"",
       "normalized_title": "sinem unsal in zit renk tercihi dikkat cekti bugun boyle hosuma gitti",
@@ -112,7 +17,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.428558+00:00",
+      "collected_at": "2026-11-20T15:40:36.630956+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -145,9 +50,155 @@
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Kadın sanatçılardan 25 Kasım mesajı: Kadın özgür değilse adalet ve barış da yok",
+      "normalized_title": "kadin sanatcilardan 25 kasim mesaji kadin ozgur degilse adalet ve baris da yok",
+      "url": "https://politikahaber.com/kadin-sanatcilardan-25-kasim-mesaji-kadin-ozgur-degilse-adalet-ve-baris-da-yok/",
+      "source": "politikahaber.com",
+      "source_role": "publisher",
+      "source_domain": "politikahaber.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-20T15:40:36.631180+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "politikahaber.com",
+          "source_domain": "politikahaber.com",
+          "url": "https://politikahaber.com/kadin-sanatcilardan-25-kasim-mesaji-kadin-ozgur-degilse-adalet-ve-baris-da-yok/",
+          "title": "Kadın sanatçılardan 25 Kasım mesajı: Kadın özgür değilse adalet ve barış da yok"
+        },
+        {
+          "source": "anf-news.com",
+          "source_domain": "anf-news.com",
+          "url": "https://anf-news.com/kadin/kadin-sanatcilar-kadin-ozgur-olmazsa-baris-ve-adalet-de-olmaz-235618",
+          "title": "Kadın sanatçılar: Kadın özgür olmazsa barış ve adalet de olmaz"
+        }
+      ],
+      "publisher_domains": [
+        "anf-news.com",
+        "politikahaber.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Larry Poindexter neden öldü? Larry Poindexter kimdir, kaç yaşında, hangi dizi ve filmlerde oynadı?",
+      "normalized_title": "larry poindexter neden oldu larry poindexter kimdir kac yasinda hangi dizi ve filmlerde oynadi",
+      "url": "https://www.haberler.com/haber/larry-poindexter-neden-oldu-larry-poindexter-20444907-haberi/",
+      "source": "haberler.com",
+      "source_role": "publisher",
+      "source_domain": "haberler.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-20T15:40:36.631444+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/haber/larry-poindexter-neden-oldu-larry-poindexter-20444907-haberi/",
+          "title": "Larry Poindexter neden öldü? Larry Poindexter kimdir, kaç yaşında, hangi dizi ve filmlerde oynadı?"
+        },
+        {
+          "source": "demokrat32.com",
+          "source_domain": "demokrat32.com",
+          "url": "https://www.demokrat32.com/larry-poindexter-neden-oldu-larry-poindexter-kimdir-hangi-dizilerde-oynadi",
+          "title": "Larry Poindexter neden öldü? Larry Poindexter kimdir, hangi dizilerde oynadı?"
+        }
+      ],
+      "publisher_domains": [
+        "demokrat32.com",
+        "haberler.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
     }
   ],
   "event_groups_preview": [
+    {
+      "title": "YONCA LODİ’DEN YENİ BİR TEKLİ: “YAPRAK DÖKÜMÜ LEYLA”",
+      "normalized_title": "yonca lodi den yeni bir tekli yaprak dokumu leyla",
+      "url": "https://www.kralmuzik.com.tr/haberler/yonca-lodiden-yeni-bir-tekli-yaprak-dokumu-leyla",
+      "source": "kralmuzik.com.tr",
+      "source_role": "publisher",
+      "source_domain": "kralmuzik.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-20T15:40:36.632493+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yonca-lodiden-yaprak-dokumu-43384127",
+          "title": "Yonca Lodi'den Yaprak Dökümü"
+        },
+        {
+          "source": "kralmuzik.com.tr",
+          "source_domain": "kralmuzik.com.tr",
+          "url": "https://www.kralmuzik.com.tr/haberler/yonca-lodiden-yeni-bir-tekli-yaprak-dokumu-leyla",
+          "title": "YONCA LODİ’DEN YENİ BİR TEKLİ: “YAPRAK DÖKÜMÜ LEYLA”"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/yonca-lodi-den-yaprak-dokumu-leyla-3928546",
+          "title": "Yonca Lodi'den 'Yaprak Dökümü Leyla'"
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/magazin/yonca-lodiden-duygusal-sarki-7705477",
+          "title": "Yonca Lodi’den duygusal şarkı"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "hurriyet.com.tr",
+        "kralmuzik.com.tr",
+        "sabah.com.tr"
+      ],
+      "publisher_count": 4,
+      "direct_article_count": 4,
+      "event_member_count": 4,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 40.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
     {
       "title": "Katım, yatım oldu şimdi misafirhanede kalıyorum diyen Tarık Papuççuoğlu mal varlığını neden dağıttı?",
       "normalized_title": "katim yatim oldu simdi misafirhanede kaliyorum diyen tarik papuccuoglu mal varligini neden dagitti",
@@ -158,7 +209,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.429020+00:00",
+      "collected_at": "2026-11-20T15:40:36.630735+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -200,43 +251,43 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Yonca Lodi'den 'Yaprak Dökümü Leyla'",
-      "normalized_title": "yonca lodi den yaprak dokumu leyla",
-      "url": "https://www.haberturk.com/magazin/yonca-lodi-den-yaprak-dokumu-leyla-3928546",
-      "source": "haberturk.com",
+      "title": "Yaprak Dökümü'nün Fikret'i ve Cevriye'si yıllar sonra aynı projede. Galada bir araya geldiler",
+      "normalized_title": "yaprak dokumu nun fikret i ve cevriye si yillar sonra ayni projede galada bir araya geldiler",
+      "url": "https://www.ntv.com.tr/yasam/yaprak-dokumunun-fikreti-ve-cevriyesi-yillar-sonra-ayni-projede-galada-bir-araya-geldiler-1751543",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "haberturk.com",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.430151+00:00",
+      "collected_at": "2026-11-20T15:40:36.632973+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yonca-lodiden-yaprak-dokumu-43384127",
-          "title": "Yonca Lodi'den Yaprak Dökümü"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/yaprak-dokumunun-fikreti-ve-cevriyesi-yillar-sonra-ayni-projede-galada-bir-araya-geldiler-1751543",
+          "title": "Yaprak Dökümü'nün Fikret'i ve Cevriye'si yıllar sonra aynı projede. Galada bir araya geldiler"
         },
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/yonca-lodi-den-yaprak-dokumu-leyla-3928546",
-          "title": "Yonca Lodi'den 'Yaprak Dökümü Leyla'"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/yaprak-dokumu-nun-fikret-i-ve-cevriye-si-yillar-sonra-bir-arada-2557646",
+          "title": "Yaprak Dökümü'nün Fikret'i ve Cevriye'si yıllar sonra bir arada!"
         },
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/yonca-lodiden-duygusal-sarki-7705477",
-          "title": "Yonca Lodi’den duygusal şarkı"
+          "source": "memurlar.net",
+          "source_domain": "memurlar.net",
+          "url": "https://www.memurlar.net/album/28444/yaprak-dokumu-nun-unutulmaz-ikilisi-yillar-sonra-ayni-filmde.html",
+          "title": "Yaprak Dökümü'nün Unutulmaz İkilisi Yıllar Sonra Aynı Filmde!"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
-        "hurriyet.com.tr",
-        "sabah.com.tr"
+        "cumhuriyet.com.tr",
+        "memurlar.net",
+        "ntv.com.tr"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -245,94 +296,6 @@
       "latest_published_at": null,
       "age_hours": 48.0,
       "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Dilber Ay'ın eşi canlı yayında nişanlandı: Tepki çeken şarkıyla kutlama yaptılar",
-      "normalized_title": "dilber ay in esi canli yayinda nisanlandi tepki ceken sarkiyla kutlama yaptilar",
-      "url": "https://www.sozcu.com.tr/dilber-ay-in-esi-canli-yayinda-nisanlandi-tepki-ceken-sarkiyla-kutlama-yaptilar-p382329",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.430811+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/dilber-ayin-esi-ibrahim-karakas-canli-yayinda-nisanlandi-1751313",
-          "title": "Dilber Ay'ın eşi İbrahim Karakaş canlı yayında nişanlandı"
-        },
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/dilber-ay-in-esi-canli-yayinda-nisanlandi-tepki-ceken-sarkiyla-kutlama-yaptilar-p382329",
-          "title": "Dilber Ay'ın eşi canlı yayında nişanlandı: Tepki çeken şarkıyla kutlama yaptılar"
-        }
-      ],
-      "publisher_domains": [
-        "ntv.com.tr",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 4,
-      "discovery_item_count": 2,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 21.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Pierce Brosnan'dan yeni James Bond Robert Pattinson'a tavsiye: 'Enjoy the ride'",
-      "normalized_title": "pierce brosnan dan yeni james bond robert pattinson a tavsiye enjoy the ride",
-      "url": "https://tr.euronews.com/2026/11/19/pierce-brosnandan-yeni-james-bond-robert-pattinsona-tavsiye-enjoy-the-ride",
-      "source": "tr.euronews.com",
-      "source_role": "publisher",
-      "source_domain": "tr.euronews.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.428155+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/robert-pattinsonin-yeni-james-bond-secilmesi-alay-konusu/",
-          "title": "Robert Pattinson'ın yeni James Bond seçilmesi alay konusu"
-        },
-        {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/19/pierce-brosnandan-yeni-james-bond-robert-pattinsona-tavsiye-enjoy-the-ride",
-          "title": "Pierce Brosnan'dan yeni James Bond Robert Pattinson'a tavsiye: 'Enjoy the ride'"
-        }
-      ],
-      "publisher_domains": [
-        "diken.com.tr",
-        "tr.euronews.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -348,7 +311,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.428278+00:00",
+      "collected_at": "2026-11-20T15:40:36.630393+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -392,7 +355,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.428558+00:00",
+      "collected_at": "2026-11-20T15:40:36.630956+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -427,36 +390,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Yaprak Dökümü'nün Fikret'i ve Cevriye'si yıllar sonra aynı projede. Galada bir araya geldiler",
-      "normalized_title": "yaprak dokumu nun fikret i ve cevriye si yillar sonra ayni projede galada bir araya geldiler",
-      "url": "https://www.ntv.com.tr/yasam/yaprak-dokumunun-fikreti-ve-cevriyesi-yillar-sonra-ayni-projede-galada-bir-araya-geldiler-1751543",
-      "source": "ntv.com.tr",
+      "title": "Kadın sanatçılardan 25 Kasım mesajı: Kadın özgür değilse adalet ve barış da yok",
+      "normalized_title": "kadin sanatcilardan 25 kasim mesaji kadin ozgur degilse adalet ve baris da yok",
+      "url": "https://politikahaber.com/kadin-sanatcilardan-25-kasim-mesaji-kadin-ozgur-degilse-adalet-ve-baris-da-yok/",
+      "source": "politikahaber.com",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "politikahaber.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.429123+00:00",
+      "collected_at": "2026-11-20T15:40:36.631180+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/yaprak-dokumunun-fikreti-ve-cevriyesi-yillar-sonra-ayni-projede-galada-bir-araya-geldiler-1751543",
-          "title": "Yaprak Dökümü'nün Fikret'i ve Cevriye'si yıllar sonra aynı projede. Galada bir araya geldiler"
+          "source": "politikahaber.com",
+          "source_domain": "politikahaber.com",
+          "url": "https://politikahaber.com/kadin-sanatcilardan-25-kasim-mesaji-kadin-ozgur-degilse-adalet-ve-baris-da-yok/",
+          "title": "Kadın sanatçılardan 25 Kasım mesajı: Kadın özgür değilse adalet ve barış da yok"
         },
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/yaprak-dokumu-nun-fikret-i-ve-cevriye-si-yillar-sonra-bir-arada-2557646",
-          "title": "Yaprak Dökümü'nün Fikret'i ve Cevriye'si yıllar sonra bir arada!"
+          "source": "anf-news.com",
+          "source_domain": "anf-news.com",
+          "url": "https://anf-news.com/kadin/kadin-sanatcilar-kadin-ozgur-olmazsa-baris-ve-adalet-de-olmaz-235618",
+          "title": "Kadın sanatçılar: Kadın özgür olmazsa barış ve adalet de olmaz"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "ntv.com.tr"
+        "anf-news.com",
+        "politikahaber.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -480,7 +443,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.429397+00:00",
+      "collected_at": "2026-11-20T15:40:36.631444+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -524,22 +487,22 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.429731+00:00",
+      "collected_at": "2026-11-20T15:40:36.631888+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "aa.com.tr",
-          "source_domain": "aa.com.tr",
-          "url": "https://www.aa.com.tr/tr/kultur/turkan-soray-cop31de-yesilcam-sinemasini-anlatti/4127034",
-          "title": "Türkan Şoray COP31'de Yeşilçam sinemasını anlattı"
-        },
-        {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
           "url": "https://www.haberturk.com/magazin/turkan-soray-cop31-de-yesilcam-yillarini-anlatti-karavan-yoktu-arabada-giyiniyorduk-3927885",
           "title": "Türkan Şoray, COP31'de Yeşilçam yıllarını anlattı: Karavan yoktu, arabada giyiniyorduk"
+        },
+        {
+          "source": "aa.com.tr",
+          "source_domain": "aa.com.tr",
+          "url": "https://www.aa.com.tr/tr/kultur/turkan-soray-cop31de-yesilcam-sinemasini-anlatti/4127034",
+          "title": "Türkan Şoray COP31'de Yeşilçam sinemasını anlattı"
         }
       ],
       "publisher_domains": [
@@ -559,6 +522,43 @@
       "coverage_label": "multi_publisher"
     },
     {
+      "title": "Dilber Ay'ın eşi İbrahim Karakaş canlı yayında nişanlandı",
+      "normalized_title": "dilber ay in esi ibrahim karakas canli yayinda nisanlandi",
+      "url": "https://www.ntv.com.tr/yasam/dilber-ayin-esi-ibrahim-karakas-canli-yayinda-nisanlandi-1751313",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-20T15:40:36.633169+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/dilber-ayin-esi-ibrahim-karakas-canli-yayinda-nisanlandi-1751313",
+          "title": "Dilber Ay'ın eşi İbrahim Karakaş canlı yayında nişanlandı"
+        }
+      ],
+      "publisher_domains": [
+        "ntv.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 4,
+      "discovery_item_count": 3,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 11.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Ata Demirer’den Ayvalık’a sürpriz hediye! Küçükköy’ün yeni simgesi oluyor",
       "normalized_title": "ata demirer den ayvalik a surpriz hediye kucukkoy un yeni simgesi oluyor",
       "url": "https://www.canakkalekalem.com/haber/29162721/ata-demirerden-ayvalika-surpriz-hediye-kucukkoyun-yeni-simgesi-oluyor",
@@ -568,17 +568,11 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.429870+00:00",
+      "collected_at": "2026-11-20T15:40:36.632131+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
-        {
-          "source": "habercigazetesi.net",
-          "source_domain": "habercigazetesi.net",
-          "url": "https://www.habercigazetesi.net/magazin/ata-demirerin-pervaneler-filminden-ayvalika-anlamli-hediye.html",
-          "title": "Ata Demirer’in “Pervaneler” filminden Ayvalık’a anlamlı hediye"
-        },
         {
           "source": "canakkalekalem.com",
           "source_domain": "canakkalekalem.com",
@@ -587,20 +581,19 @@
         }
       ],
       "publisher_domains": [
-        "canakkalekalem.com",
-        "habercigazetesi.net"
+        "canakkalekalem.com"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
+      "publisher_count": 1,
+      "direct_article_count": 1,
       "event_member_count": 2,
-      "discovery_item_count": 0,
+      "discovery_item_count": 1,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 10.5,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "multi_publisher"
+      "coverage_label": "single_publisher"
     },
     {
       "title": "İrem Derici'den evlilik açıklaması: “Paramız kalmadı, kasa boş!”",
@@ -612,17 +605,11 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.430081+00:00",
+      "collected_at": "2026-11-20T15:40:36.632403+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/irem-derici-den-esprili-evlilik-aciklamasi-paramiz-kalmadi-2556550",
-          "title": "İrem Derici'den esprili evlilik açıklaması: 'Paramız kalmadı!'"
-        },
         {
           "source": "cnnturk.com",
           "source_domain": "cnnturk.com",
@@ -631,130 +618,35 @@
         }
       ],
       "publisher_domains": [
-        "cnnturk.com",
-        "cumhuriyet.com.tr"
+        "cnnturk.com"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
+      "publisher_count": 1,
+      "direct_article_count": 1,
       "event_member_count": 2,
-      "discovery_item_count": 0,
+      "discovery_item_count": 1,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 10.5,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "multi_publisher"
+      "coverage_label": "single_publisher"
     },
     {
-      "title": "2027 Grammy adayları açıklandı: Beyoncé, 100 adaylıkla Grammy tarihine geçti",
-      "normalized_title": "2027 grammy adaylari aciklandi beyonce 100 adaylikla grammy tarihine gecti",
-      "url": "https://gazeteoksijen.com/o2/2027-grammy-adaylari-aciklandi-beyonce-100-adaylikla-grammy-tarihine-gecti-296208",
-      "source": "gazeteoksijen.com",
+      "title": "Uzak Şehir'in Nare'si 32 yaşında",
+      "normalized_title": "uzak sehir in nare si 32 yasinda",
+      "url": "https://www.alanyapostasi.com.tr/uzak-sehirin-naresi-32-yasinda",
+      "source": "alanyapostasi.com.tr",
       "source_role": "publisher",
-      "source_domain": "gazeteoksijen.com",
+      "source_domain": "alanyapostasi.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.430295+00:00",
+      "collected_at": "2026-11-20T15:40:36.632909+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
-        {
-          "source": "gazeteoksijen.com",
-          "source_domain": "gazeteoksijen.com",
-          "url": "https://gazeteoksijen.com/o2/2027-grammy-adaylari-aciklandi-beyonce-100-adaylikla-grammy-tarihine-gecti-296208",
-          "title": "2027 Grammy adayları açıklandı: Beyoncé, 100 adaylıkla Grammy tarihine geçti"
-        },
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/dunya/grammy-tarihine-gecti-43381883",
-          "title": "Grammy tarihine geçti"
-        }
-      ],
-      "publisher_domains": [
-        "gazeteoksijen.com",
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Nejat Uygur'suz geçen 13 yıl. Mezarı başında anıldı",
-      "normalized_title": "nejat uygur suz gecen 13 yil mezari basinda anildi",
-      "url": "https://www.ntv.com.tr/yasam/nejat-uygursuz-gecen-13-yil-mezari-basinda-anildi-1751483",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.430502+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/nejat-uygursuz-gecen-13-yil-mezari-basinda-anildi-1751483",
-          "title": "Nejat Uygur'suz geçen 13 yıl. Mezarı başında anıldı"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/nejat-uygur-mezari-basinda-anildi-3928277",
-          "title": "Nejat Uygur mezarı başında anıldı"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com",
-        "ntv.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Uzak Şehir'in Nare'si Sahra Şaş doğum gününü kutladı: Çok baskıladılar aşk dile diye",
-      "normalized_title": "uzak sehir in nare si sahra sas dogum gununu kutladi cok baskiladilar ask dile diye",
-      "url": "https://www.haberler.com/haberler/uzak-sehirin-naresi-sahra-sastan-32-yas-gununde-20438819-haberi/",
-      "source": "haberler.com",
-      "source_role": "publisher",
-      "source_domain": "haberler.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.430678+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/haberler/uzak-sehirin-naresi-sahra-sastan-32-yas-gununde-20438819-haberi/",
-          "title": "Uzak Şehir'in Nare'si Sahra Şaş doğum gününü kutladı: Çok baskıladılar aşk dile diye"
-        },
         {
           "source": "alanyapostasi.com.tr",
           "source_domain": "alanyapostasi.com.tr",
@@ -763,20 +655,93 @@
         }
       ],
       "publisher_domains": [
-        "alanyapostasi.com.tr",
-        "haberler.com"
+        "alanyapostasi.com.tr"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
+      "publisher_count": 1,
+      "direct_article_count": 1,
       "event_member_count": 2,
-      "discovery_item_count": 0,
+      "discovery_item_count": 1,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 10.5,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "multi_publisher"
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Robert Pattinson'ın yeni James Bond seçilmesi alay konusu",
+      "normalized_title": "robert pattinson in yeni james bond secilmesi alay konusu",
+      "url": "https://www.diken.com.tr/robert-pattinsonin-yeni-james-bond-secilmesi-alay-konusu/",
+      "source": "diken.com.tr",
+      "source_role": "publisher",
+      "source_domain": "diken.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-20T15:40:36.630112+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "diken.com.tr",
+          "source_domain": "diken.com.tr",
+          "url": "https://www.diken.com.tr/robert-pattinsonin-yeni-james-bond-secilmesi-alay-konusu/",
+          "title": "Robert Pattinson'ın yeni James Bond seçilmesi alay konusu"
+        }
+      ],
+      "publisher_domains": [
+        "diken.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Şöhret parayı çekti... Oynamak şöyle dursun seçmelerden bile milyon kazandı",
+      "normalized_title": "sohret parayi cekti oynamak soyle dursun secmelerden bile milyon kazandi",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/sohret-parayi-cekti-oynamak-soyle-dursun-secmelerden-bile-milyon-kazandi-43385159",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-20T15:40:36.630210+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/sohret-parayi-cekti-oynamak-soyle-dursun-secmelerden-bile-milyon-kazandi-43385159",
+          "title": "Şöhret parayı çekti... Oynamak şöyle dursun seçmelerden bile milyon kazandı"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
     },
     {
       "title": "Eski Bond'dan yeni Bond'a destek: Hoş geldin",
@@ -788,7 +753,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.428092+00:00",
+      "collected_at": "2026-11-20T15:40:36.630269+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -816,29 +781,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Jeff Bezos yeni James Bond seçiminin perde arkasını anlattı. \"Başta biraz önyargılıydık\"",
-      "normalized_title": "jeff bezos yeni james bond seciminin perde arkasini anlatti basta biraz onyargiliydik",
-      "url": "https://www.ntv.com.tr/dunya/jeff-bezos-yeni-james-bond-seciminin-perde-arkasini-anlatti-basta-biraz-onyargiliydik-1751455",
-      "source": "ntv.com.tr",
+      "title": "James Bond filmleri: Serinin 25 filmi en kötüsünden en iyisine sıralandı",
+      "normalized_title": "james bond filmleri serinin 25 filmi en kotusunden en iyisine siralandi",
+      "url": "https://tr.euronews.com/2026/11/20/james-bond-filmleri-serinin-25-filmi-en-kotusunden-en-iyisine-siralandi",
+      "source": "tr.euronews.com",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "tr.euronews.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.428220+00:00",
+      "collected_at": "2026-11-20T15:40:36.630330+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/dunya/jeff-bezos-yeni-james-bond-seciminin-perde-arkasini-anlatti-basta-biraz-onyargiliydik-1751455",
-          "title": "Jeff Bezos yeni James Bond seçiminin perde arkasını anlattı. \"Başta biraz önyargılıydık\""
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "url": "https://tr.euronews.com/2026/11/20/james-bond-filmleri-serinin-25-filmi-en-kotusunden-en-iyisine-siralandi",
+          "title": "James Bond filmleri: Serinin 25 filmi en kötüsünden en iyisine sıralandı"
         }
       ],
       "publisher_domains": [
-        "ntv.com.tr"
+        "tr.euronews.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -862,7 +827,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.428333+00:00",
+      "collected_at": "2026-11-20T15:40:36.630454+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -899,7 +864,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.428390+00:00",
+      "collected_at": "2026-11-20T15:40:36.630518+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -927,6 +892,80 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "Ünlü İsim Huzurevinde Kalıyor",
+      "normalized_title": "unlu isim huzurevinde kaliyor",
+      "url": "https://www.memurlar.net/album/28445/unlu-isim-huzurevinde-kaliyor.html",
+      "source": "memurlar.net",
+      "source_role": "publisher",
+      "source_domain": "memurlar.net",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-20T15:40:36.630606+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "memurlar.net",
+          "source_domain": "memurlar.net",
+          "url": "https://www.memurlar.net/album/28445/unlu-isim-huzurevinde-kaliyor.html",
+          "title": "Ünlü İsim Huzurevinde Kalıyor"
+        }
+      ],
+      "publisher_domains": [
+        "memurlar.net"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Miley Cyrus bu hafta sonu Maxx Morando ile evleniyor",
+      "normalized_title": "miley cyrus bu hafta sonu maxx morando ile evleniyor",
+      "url": "https://www.ntv.com.tr/yasam/miley-cyrus-bu-hafta-sonu-maxx-morando-ile-evleniyor-1751718",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-20T15:40:36.630825+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/miley-cyrus-bu-hafta-sonu-maxx-morando-ile-evleniyor-1751718",
+          "title": "Miley Cyrus bu hafta sonu Maxx Morando ile evleniyor"
+        }
+      ],
+      "publisher_domains": [
+        "ntv.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Gonca Vuslateri: Oyuncu olmama annem karar verdi",
       "normalized_title": "gonca vuslateri oyuncu olmama annem karar verdi",
       "url": "https://www.hurriyet.com.tr/galeri-gonca-vuslateri-oyuncu-olmama-annem-karar-verdi-43384522",
@@ -936,7 +975,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.428473+00:00",
+      "collected_at": "2026-11-20T15:40:36.630865+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -973,7 +1012,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.428506+00:00",
+      "collected_at": "2026-11-20T15:40:36.630902+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1001,29 +1040,214 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Uzak Şehir'in Alya'sı Sinem Ünsal'ın Farklı Tarzı Gündem Oldu!",
-      "normalized_title": "uzak sehir in alya si sinem unsal in farkli tarzi gundem oldu",
-      "url": "https://onedio.com/haber/uzak-sehir-in-alya-si-sinem-unsal-in-farkli-tarzi-gundem-oldu-kombinini-kendi-zevkine-gore-hazirlamis-1396188",
-      "source": "onedio.com",
+      "title": "Sinem Ünsal fıstık yeşili saten elbisesini pembe hırkayla tamamladı: O yorumlara böyle yanıt verdi",
+      "normalized_title": "sinem unsal fistik yesili saten elbisesini pembe hirkayla tamamladi o yorumlara boyle yanit verdi",
+      "url": "https://www.takvim.com.tr/magazin/2026/11/20/sinem-unsalin-kadikoy-tarzi-saten-elbise-ve-pembe-hirka-detayi",
+      "source": "takvim.com.tr",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "takvim.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.428641+00:00",
+      "collected_at": "2026-11-20T15:40:36.631064+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/uzak-sehir-in-alya-si-sinem-unsal-in-farkli-tarzi-gundem-oldu-kombinini-kendi-zevkine-gore-hazirlamis-1396188",
-          "title": "Uzak Şehir'in Alya'sı Sinem Ünsal'ın Farklı Tarzı Gündem Oldu!"
+          "source": "takvim.com.tr",
+          "source_domain": "takvim.com.tr",
+          "url": "https://www.takvim.com.tr/magazin/2026/11/20/sinem-unsalin-kadikoy-tarzi-saten-elbise-ve-pembe-hirka-detayi",
+          "title": "Sinem Ünsal fıstık yeşili saten elbisesini pembe hırkayla tamamladı: O yorumlara böyle yanıt verdi"
         }
       ],
       "publisher_domains": [
-        "onedio.com"
+        "takvim.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Kadın oyuncular: Kadınların özgürlük mücadelesi, insanlığın özgürlük mücadelesidir",
+      "normalized_title": "kadin oyuncular kadinlarin ozgurluk mucadelesi insanligin ozgurluk mucadelesidir",
+      "url": "https://yeniyasamgazetesi10.com/kadin-oyuncular-kadin-ozgur-olmazsa-baris-ve-adalet-de-olmaz/",
+      "source": "yeniyasamgazetesi10.com",
+      "source_role": "publisher",
+      "source_domain": "yeniyasamgazetesi10.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-20T15:40:36.631120+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yeniyasamgazetesi10.com",
+          "source_domain": "yeniyasamgazetesi10.com",
+          "url": "https://yeniyasamgazetesi10.com/kadin-oyuncular-kadin-ozgur-olmazsa-baris-ve-adalet-de-olmaz/",
+          "title": "Kadın oyuncular: Kadınların özgürlük mücadelesi, insanlığın özgürlük mücadelesidir"
+        }
+      ],
+      "publisher_domains": [
+        "yeniyasamgazetesi10.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Yoko Ono’nun sanat dünyası çocuklarla buluştu",
+      "normalized_title": "yoko ono nun sanat dunyasi cocuklarla bulustu",
+      "url": "https://www.edebiyathaber.net/yoko-ononun-sanat-dunyasi-cocuklarla-bulusuyor/",
+      "source": "edebiyathaber.net",
+      "source_role": "publisher",
+      "source_domain": "edebiyathaber.net",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-20T15:40:36.631277+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "edebiyathaber.net",
+          "source_domain": "edebiyathaber.net",
+          "url": "https://www.edebiyathaber.net/yoko-ononun-sanat-dunyasi-cocuklarla-bulusuyor/",
+          "title": "Yoko Ono’nun sanat dünyası çocuklarla buluştu"
+        }
+      ],
+      "publisher_domains": [
+        "edebiyathaber.net"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Güzel annenin çocukları boyuna yetişti",
+      "normalized_title": "guzel annenin cocuklari boyuna yetisti",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/guzel-annenin-cocuklari-boyuna-yetisti-43384359",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-20T15:40:36.631317+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/guzel-annenin-cocuklari-boyuna-yetisti-43384359",
+          "title": "Güzel annenin çocukları boyuna yetişti"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Bir hafta önce araba çarpan ünlü oyuncu hayatını kaybetti",
+      "normalized_title": "bir hafta once araba carpan unlu oyuncu hayatini kaybetti",
+      "url": "https://www.hurriyet.com.tr/kelebek/magazin/bir-hafta-once-araba-carpan-unlu-oyuncu-hayatini-kaybetti-43383800",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-20T15:40:36.631376+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/magazin/bir-hafta-once-araba-carpan-unlu-oyuncu-hayatini-kaybetti-43383800",
+          "title": "Bir hafta önce araba çarpan ünlü oyuncu hayatını kaybetti"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Larry Poindexter, Studio City'de aracın çarpması sonucu 66 yaşında öldü",
+      "normalized_title": "larry poindexter studio city de aracin carpmasi sonucu 66 yasinda oldu",
+      "url": "https://sinetopya.com/club/gundem/01a1f231-95ab-79fb-94a0-4274934daea5-larry-poindexter-studio-city-de-aracin-carpmasi-sonucu-66-yasinda-oldu",
+      "source": "sinetopya.com",
+      "source_role": "publisher",
+      "source_domain": "sinetopya.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-20T15:40:36.631500+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sinetopya.com",
+          "source_domain": "sinetopya.com",
+          "url": "https://sinetopya.com/club/gundem/01a1f231-95ab-79fb-94a0-4274934daea5-larry-poindexter-studio-city-de-aracin-carpmasi-sonucu-66-yasinda-oldu",
+          "title": "Larry Poindexter, Studio City'de aracın çarpması sonucu 66 yaşında öldü"
+        }
+      ],
+      "publisher_domains": [
+        "sinetopya.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1047,7 +1271,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.428678+00:00",
+      "collected_at": "2026-11-20T15:40:36.631594+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1084,7 +1308,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.428717+00:00",
+      "collected_at": "2026-11-20T15:40:36.631640+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1098,265 +1322,6 @@
       ],
       "publisher_domains": [
         "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yeni sevgili ile ilk kez görüntülendi",
-      "normalized_title": "yeni sevgili ile ilk kez goruntulendi",
-      "url": "https://www.sabah.com.tr/magazin/yeni-sevgili-ile-ilk-kez-goruntulendi-7704011",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.428755+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/magazin/yeni-sevgili-ile-ilk-kez-goruntulendi-7704011",
-          "title": "Yeni sevgili ile ilk kez görüntülendi"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ezgi Mola kaç yaşında? Ezgi Mola kimdir, eşinden ne zaman boşandı?",
-      "normalized_title": "ezgi mola kac yasinda ezgi mola kimdir esinden ne zaman bosandi",
-      "url": "https://www.sondakika.com/haber/haber-ezgi-mola-kac-yasinda-ezgi-mola-kimdir-esinden-ne-20436481/",
-      "source": "sondakika.com",
-      "source_role": "publisher",
-      "source_domain": "sondakika.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.428808+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sondakika.com",
-          "source_domain": "sondakika.com",
-          "url": "https://www.sondakika.com/haber/haber-ezgi-mola-kac-yasinda-ezgi-mola-kimdir-esinden-ne-20436481/",
-          "title": "Ezgi Mola kaç yaşında? Ezgi Mola kimdir, eşinden ne zaman boşandı?"
-        }
-      ],
-      "publisher_domains": [
-        "sondakika.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Kadın oyuncular: Kadınların özgürlük mücadelesi, insanlığın özgürlük mücadelesidir",
-      "normalized_title": "kadin oyuncular kadinlarin ozgurluk mucadelesi insanligin ozgurluk mucadelesidir",
-      "url": "https://yeniyasamgazetesi10.com/kadin-oyuncular-kadin-ozgur-olmazsa-baris-ve-adalet-de-olmaz/",
-      "source": "yeniyasamgazetesi10.com",
-      "source_role": "publisher",
-      "source_domain": "yeniyasamgazetesi10.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.428860+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yeniyasamgazetesi10.com",
-          "source_domain": "yeniyasamgazetesi10.com",
-          "url": "https://yeniyasamgazetesi10.com/kadin-oyuncular-kadin-ozgur-olmazsa-baris-ve-adalet-de-olmaz/",
-          "title": "Kadın oyuncular: Kadınların özgürlük mücadelesi, insanlığın özgürlük mücadelesidir"
-        }
-      ],
-      "publisher_domains": [
-        "yeniyasamgazetesi10.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ünlü Sanatçı Huzurevi İddialarını Yalanladı",
-      "normalized_title": "unlu sanatci huzurevi iddialarini yalanladi",
-      "url": "https://kenttv.net/haber/29187458/unlu-sanatci-huzurevi-iddialarini-yalanladi",
-      "source": "kenttv.net",
-      "source_role": "publisher",
-      "source_domain": "kenttv.net",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.428902+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "kenttv.net",
-          "source_domain": "kenttv.net",
-          "url": "https://kenttv.net/haber/29187458/unlu-sanatci-huzurevi-iddialarini-yalanladi",
-          "title": "Ünlü Sanatçı Huzurevi İddialarını Yalanladı"
-        }
-      ],
-      "publisher_domains": [
-        "kenttv.net"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yaprak Dökümü’nden 20 yıl sonra yine bir aradalar! Bennu Yıldırımlar ve Güler Ökten galada görüntülendi!",
-      "normalized_title": "yaprak dokumu nden 20 yil sonra yine bir aradalar bennu yildirimlar ve guler okten galada goruntulendi",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/yaprak-dokumunden-20-yil-sonra-yine-bir-aradalar-bennu-yildirimlar-ve-guler-okten-galada-goruntulendi",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.429236+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/yaprak-dokumunden-20-yil-sonra-yine-bir-aradalar-bennu-yildirimlar-ve-guler-okten-galada-goruntulendi",
-          "title": "Yaprak Dökümü’nden 20 yıl sonra yine bir aradalar! Bennu Yıldırımlar ve Güler Ökten galada görüntülendi!"
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Bir dönem ayrılmaz ikiliydiler. Yıllar sonra yeniden buluştular",
-      "normalized_title": "bir donem ayrilmaz ikiliydiler yillar sonra yeniden bulustular",
-      "url": "https://www.ntv.com.tr/yazarlar/bahar-gencer/bir-donem-ayrilmaz-ikiliydiler-yillar-sonra-yeniden-bulustular-1751635",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.429292+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yazarlar/bahar-gencer/bir-donem-ayrilmaz-ikiliydiler-yillar-sonra-yeniden-bulustular-1751635",
-          "title": "Bir dönem ayrılmaz ikiliydiler. Yıllar sonra yeniden buluştular"
-        }
-      ],
-      "publisher_domains": [
-        "ntv.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Bir hafta önce araba çarpan ünlü oyuncu hayatını kaybetti",
-      "normalized_title": "bir hafta once araba carpan unlu oyuncu hayatini kaybetti",
-      "url": "https://www.hurriyet.com.tr/kelebek/magazin/bir-hafta-once-araba-carpan-unlu-oyuncu-hayatini-kaybetti-43383800",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-20T09:48:49.429337+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/magazin/bir-hafta-once-araba-carpan-unlu-oyuncu-hayatini-kaybetti-43383800",
-          "title": "Bir hafta önce araba çarpan ünlü oyuncu hayatını kaybetti"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
