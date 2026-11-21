@@ -1,94 +1,43 @@
 {
-  "generated_at": "2026-11-21T09:22:00.560663+00:00",
-  "candidate_count": 91,
+  "generated_at": "2026-11-21T14:50:50.799081+00:00",
+  "candidate_count": 87,
   "event_group_count": 46,
-  "multi_publisher_event_count": 11,
+  "multi_publisher_event_count": 10,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Şarkıcı Yavuz Bingöl hastaneye kaldırıldı: Gece saatlerinde ameliyat olacak",
-      "normalized_title": "sarkici yavuz bingol hastaneye kaldirildi gece saatlerinde ameliyat olacak",
-      "url": "https://www.cumhuriyet.com.tr/magazin/sarkici-yavuz-bingol-hastaneye-kaldirildi-gece-saatlerinde-ameliyat-olacak-2556804",
-      "source": "cumhuriyet.com.tr",
+      "title": "Acun Ilıcalı, Torunu Ela'nın Doğum Günü Paylaşımıyla Dikkat Çekti",
+      "normalized_title": "acun ilicali torunu ela nin dogum gunu paylasimiyla dikkat cekti",
+      "url": "https://www.haber.tr/acun-ilicali-torunu-elanin-dogum-gunu-paylasimiyla-dikkat-cekti",
+      "source": "haber.tr",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "haber.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.780709+00:00",
+      "collected_at": "2026-11-21T14:50:13.073728+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yavuz-bingolun-ameliyati-ertelendi-43384000",
-          "title": "Yavuz Bingöl’ün ameliyatı ertelendi"
+          "source": "internethaber.com",
+          "source_domain": "internethaber.com",
+          "url": "https://www.internethaber.com/acun-ilicalidan-torunu-ile-ozel-kare-dogum-gununde-paylasti-foto-galerisi-2469216.htm",
+          "title": "Acun Ilıcalı’dan torunu ile özel kare Doğum gününde paylaştı..."
         },
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/yavuz-bingol-ameliyat-oldu-mu-menajerinden-aciklama-1751615",
-          "title": "Yavuz Bingöl ameliyat oldu mu? Menajerinden açıklama"
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/sarkici-yavuz-bingol-hastaneye-kaldirildi-gece-saatlerinde-ameliyat-olacak-2556804",
-          "title": "Şarkıcı Yavuz Bingöl hastaneye kaldırıldı: Gece saatlerinde ameliyat olacak"
+          "source": "haber.tr",
+          "source_domain": "haber.tr",
+          "url": "https://www.haber.tr/acun-ilicali-torunu-elanin-dogum-gunu-paylasimiyla-dikkat-cekti",
+          "title": "Acun Ilıcalı, Torunu Ela'nın Doğum Günü Paylaşımıyla Dikkat Çekti"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "hurriyet.com.tr",
-        "ntv.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Mehmet Günsür Oğlu Ali İle Galada: \"Babasını Geçmiş Annesine Benziyor\" Yorumları Yağdı!",
-      "normalized_title": "mehmet gunsur oglu ali ile galada babasini gecmis annesine benziyor yorumlari yagdi",
-      "url": "https://www.gecce.com.tr/haber/mehmet-gunsur-oglu-ali-ile-galada-babasini-gecmis-annesine-benziyor-yorumlari-yagdi-333926.html",
-      "source": "gecce.com.tr",
-      "source_role": "publisher",
-      "source_domain": "gecce.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.779312+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yenisafak.com",
-          "source_domain": "yenisafak.com",
-          "url": "https://www.yenisafak.com/hayat/mehmet-gunsurun-esinden-sonra-oglu-da-gundem-oldu-annesine-benziyor-4874896",
-          "title": "Mehmet Günsur'un eşinden sonra oğlu da gündem oldu: 'Annesine benziyor'"
-        },
-        {
-          "source": "gecce.com.tr",
-          "source_domain": "gecce.com.tr",
-          "url": "https://www.gecce.com.tr/haber/mehmet-gunsur-oglu-ali-ile-galada-babasini-gecmis-annesine-benziyor-yorumlari-yagdi-333926.html",
-          "title": "Mehmet Günsür Oğlu Ali İle Galada: \"Babasını Geçmiş Annesine Benziyor\" Yorumları Yağdı!"
-        }
-      ],
-      "publisher_domains": [
-        "gecce.com.tr",
-        "yenisafak.com"
+        "haber.tr",
+        "internethaber.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -103,16 +52,60 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Murat Yıldırım ailesiyle Antalya'da tatil yaptı: Eğlence dolu günden fotoğraflara beğeni yağdı",
-      "normalized_title": "murat yildirim ailesiyle antalya da tatil yapti eglence dolu gunden fotograflara begeni yagdi",
-      "url": "https://www.sozcu.com.tr/murat-yildirim-ailesiyle-antalya-da-tatil-yapti-eglence-dolu-gunden-fotograflara-begeni-yagdi-p382974",
+      "title": "Merve Dizdar'dan hamilelik pozları: Büyüyen karnını ilk kez böyle paylaştı",
+      "normalized_title": "merve dizdar dan hamilelik pozlari buyuyen karnini ilk kez boyle paylasti",
+      "url": "https://www.sozcu.com.tr/merve-dizdar-dan-hamilelik-pozlari-buyuyen-karnini-ilk-kez-boyle-paylasti-p381929",
       "source": "sozcu.com.tr",
       "source_role": "publisher",
       "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.779418+00:00",
+      "collected_at": "2026-11-21T14:50:13.073916+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/merve-dizdar-dan-hamilelik-pozlari-3927783",
+          "title": "Merve Dizdar'dan hamilelik pozları"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/merve-dizdar-dan-hamilelik-pozlari-buyuyen-karnini-ilk-kez-boyle-paylasti-p381929",
+          "title": "Merve Dizdar'dan hamilelik pozları: Büyüyen karnını ilk kez böyle paylaştı"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Murat Boz'dan anlamlı ziyaret! Kendisini selden kurtaran polisleri unutmadı",
+      "normalized_title": "murat boz dan anlamli ziyaret kendisini selden kurtaran polisleri unutmadi",
+      "url": "https://www.milliyet.com.tr/magazin/galeri/murat-bozdan-anlamli-ziyaret-kendisini-selden-kurtaran-polisleri-unutmadi-7704281",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-21T14:50:13.074255+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -120,19 +113,19 @@
         {
           "source": "sozcu.com.tr",
           "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/murat-yildirim-ailesiyle-antalya-da-tatil-yapti-eglence-dolu-gunden-fotograflara-begeni-yagdi-p382974",
-          "title": "Murat Yıldırım ailesiyle Antalya'da tatil yaptı: Eğlence dolu günden fotoğraflara beğeni yağdı"
+          "url": "https://www.sozcu.com.tr/murat-boz-kahramanlari-unutmadi-dalgic-polisleri-ziyaret-etti-p382910",
+          "title": "Murat Boz kahramanları unutmadı: Dalgıç polisleri ziyaret etti"
         },
         {
-          "source": "yerel-haberler.haberturk.com",
-          "source_domain": "yerel-haberler.haberturk.com",
-          "url": "https://yerel-haberler.haberturk.com/antalya-haberleri/oyuncu-murat-yildirim-ailesiyle-antalyada-tatil-yapti-119526748",
-          "title": "Oyuncu Murat Yıldırım, ailesiyle Antalya'da tatil yaptı"
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/murat-bozdan-anlamli-ziyaret-kendisini-selden-kurtaran-polisleri-unutmadi-7704281",
+          "title": "Murat Boz'dan anlamlı ziyaret! Kendisini selden kurtaran polisleri unutmadı"
         }
       ],
       "publisher_domains": [
-        "sozcu.com.tr",
-        "yerel-haberler.haberturk.com"
+        "milliyet.com.tr",
+        "sozcu.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -158,7 +151,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.781331+00:00",
+      "collected_at": "2026-11-21T14:50:13.076926+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -176,6 +169,12 @@
           "title": "YONCA LODİ’DEN YENİ BİR TEKLİ: “YAPRAK DÖKÜMÜ LEYLA”"
         },
         {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/magazin/yonca-lodiden-duygusal-sarki-7705477",
+          "title": "Yonca Lodi’den duygusal şarkı"
+        },
+        {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
           "url": "https://www.haberturk.com/magazin/yonca-lodi-den-yaprak-dokumu-leyla-3928546",
@@ -185,66 +184,16 @@
       "publisher_domains": [
         "haberturk.com",
         "hurriyet.com.tr",
-        "kralmuzik.com.tr"
+        "kralmuzik.com.tr",
+        "sabah.com.tr"
       ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
+      "publisher_count": 4,
+      "direct_article_count": 4,
       "event_member_count": 4,
-      "discovery_item_count": 1,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.5,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Şarkıcı Yavuz Bingöl hastaneye kaldırıldı: Gece saatlerinde ameliyat olacak",
-      "normalized_title": "sarkici yavuz bingol hastaneye kaldirildi gece saatlerinde ameliyat olacak",
-      "url": "https://www.cumhuriyet.com.tr/magazin/sarkici-yavuz-bingol-hastaneye-kaldirildi-gece-saatlerinde-ameliyat-olacak-2556804",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.780709+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yavuz-bingolun-ameliyati-ertelendi-43384000",
-          "title": "Yavuz Bingöl’ün ameliyatı ertelendi"
-        },
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/yavuz-bingol-ameliyat-oldu-mu-menajerinden-aciklama-1751615",
-          "title": "Yavuz Bingöl ameliyat oldu mu? Menajerinden açıklama"
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/sarkici-yavuz-bingol-hastaneye-kaldirildi-gece-saatlerinde-ameliyat-olacak-2556804",
-          "title": "Şarkıcı Yavuz Bingöl hastaneye kaldırıldı: Gece saatlerinde ameliyat olacak"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "hurriyet.com.tr",
-        "ntv.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 40.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -260,7 +209,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.780911+00:00",
+      "collected_at": "2026-11-21T14:50:13.075993+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -302,16 +251,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Tarık Papuççuoğlu huzurevi iddialarını yalanladı: 'Sigortalı çalıştığım şirketin misafirhanesinde kalıyorum'",
-      "normalized_title": "tarik papuccuoglu huzurevi iddialarini yalanladi sigortali calistigim sirketin misafirhanesinde kaliyorum",
-      "url": "https://www.cumhuriyet.com.tr/magazin/tarik-papuccuoglu-huzurevi-iddialarini-yalanladi-sigortali-calistigim-sirketin-misafirhanesinde-kaliyorum-2557462",
+      "title": "Şarkıcı Yavuz Bingöl hastaneye kaldırıldı: Gece saatlerinde ameliyat olacak",
+      "normalized_title": "sarkici yavuz bingol hastaneye kaldirildi gece saatlerinde ameliyat olacak",
+      "url": "https://www.cumhuriyet.com.tr/magazin/sarkici-yavuz-bingol-hastaneye-kaldirildi-gece-saatlerinde-ameliyat-olacak-2556804",
       "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.779175+00:00",
+      "collected_at": "2026-11-21T14:50:13.076492+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -319,27 +268,34 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/yatim-katim-oldu-simdi-bir-sirketin-misafirhanesinde-kaliyorum-43383212",
-          "title": "Usta oyuncu Tarık Papuççuoğlu: Yatım katım oldu şimdi bir şirketin misafirhanesinde kalıyorum"
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/yavuz-bingolun-ameliyati-ertelendi-43384000",
+          "title": "Yavuz Bingöl’ün ameliyatı ertelendi"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/yavuz-bingol-ameliyat-oldu-mu-menajerinden-aciklama-1751615",
+          "title": "Yavuz Bingöl ameliyat oldu mu? Menajerinden açıklama"
         },
         {
           "source": "cumhuriyet.com.tr",
           "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/tarik-papuccuoglu-huzurevi-iddialarini-yalanladi-sigortali-calistigim-sirketin-misafirhanesinde-kaliyorum-2557462",
-          "title": "Tarık Papuççuoğlu huzurevi iddialarını yalanladı: 'Sigortalı çalıştığım şirketin misafirhanesinde kalıyorum'"
+          "url": "https://www.cumhuriyet.com.tr/magazin/sarkici-yavuz-bingol-hastaneye-kaldirildi-gece-saatlerinde-ameliyat-olacak-2556804",
+          "title": "Şarkıcı Yavuz Bingöl hastaneye kaldırıldı: Gece saatlerinde ameliyat olacak"
         }
       ],
       "publisher_domains": [
         "cumhuriyet.com.tr",
-        "hurriyet.com.tr"
+        "hurriyet.com.tr",
+        "ntv.com.tr"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 30.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -355,7 +311,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.779312+00:00",
+      "collected_at": "2026-11-21T14:50:13.073418+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -390,94 +346,6 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Murat Yıldırım ailesiyle Antalya'da tatil yaptı: Eğlence dolu günden fotoğraflara beğeni yağdı",
-      "normalized_title": "murat yildirim ailesiyle antalya da tatil yapti eglence dolu gunden fotograflara begeni yagdi",
-      "url": "https://www.sozcu.com.tr/murat-yildirim-ailesiyle-antalya-da-tatil-yapti-eglence-dolu-gunden-fotograflara-begeni-yagdi-p382974",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.779418+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/murat-yildirim-ailesiyle-antalya-da-tatil-yapti-eglence-dolu-gunden-fotograflara-begeni-yagdi-p382974",
-          "title": "Murat Yıldırım ailesiyle Antalya'da tatil yaptı: Eğlence dolu günden fotoğraflara beğeni yağdı"
-        },
-        {
-          "source": "yerel-haberler.haberturk.com",
-          "source_domain": "yerel-haberler.haberturk.com",
-          "url": "https://yerel-haberler.haberturk.com/antalya-haberleri/oyuncu-murat-yildirim-ailesiyle-antalyada-tatil-yapti-119526748",
-          "title": "Oyuncu Murat Yıldırım, ailesiyle Antalya'da tatil yaptı"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr",
-        "yerel-haberler.haberturk.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Merve Dizdar'dan hamilelik pozları: Büyüyen karnını ilk kez böyle paylaştı",
-      "normalized_title": "merve dizdar dan hamilelik pozlari buyuyen karnini ilk kez boyle paylasti",
-      "url": "https://www.sozcu.com.tr/merve-dizdar-dan-hamilelik-pozlari-buyuyen-karnini-ilk-kez-boyle-paylasti-p381929",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.779629+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/merve-dizdar-dan-hamilelik-pozlari-3927783",
-          "title": "Merve Dizdar'dan hamilelik pozları"
-        },
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/merve-dizdar-dan-hamilelik-pozlari-buyuyen-karnini-ilk-kez-boyle-paylasti-p381929",
-          "title": "Merve Dizdar'dan hamilelik pozları: Büyüyen karnını ilk kez böyle paylaştı"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
       "title": "Acun Ilıcalı, Torunu Ela'nın Doğum Günü Paylaşımıyla Dikkat Çekti",
       "normalized_title": "acun ilicali torunu ela nin dogum gunu paylasimiyla dikkat cekti",
       "url": "https://www.haber.tr/acun-ilicali-torunu-elanin-dogum-gunu-paylasimiyla-dikkat-cekti",
@@ -487,7 +355,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.779799+00:00",
+      "collected_at": "2026-11-21T14:50:13.073728+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -522,36 +390,80 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Murat Boz'dan sel felaketinde kendisini ve ekibini kurtaran dalgıç polislere ziyaret",
-      "normalized_title": "murat boz dan sel felaketinde kendisini ve ekibini kurtaran dalgic polislere ziyaret",
-      "url": "https://t24.com.tr/magazin/murat-bozdan-sel-felaketinde-kendisini-ve-ekibini-kurtaran-dalgic-polislere-ziyaret,1359961",
-      "source": "t24.com.tr",
+      "title": "Merve Dizdar'dan hamilelik pozları: Büyüyen karnını ilk kez böyle paylaştı",
+      "normalized_title": "merve dizdar dan hamilelik pozlari buyuyen karnini ilk kez boyle paylasti",
+      "url": "https://www.sozcu.com.tr/merve-dizdar-dan-hamilelik-pozlari-buyuyen-karnini-ilk-kez-boyle-paylasti-p381929",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "t24.com.tr",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.779845+00:00",
+      "collected_at": "2026-11-21T14:50:13.073916+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "t24.com.tr",
-          "source_domain": "t24.com.tr",
-          "url": "https://t24.com.tr/magazin/murat-bozdan-sel-felaketinde-kendisini-ve-ekibini-kurtaran-dalgic-polislere-ziyaret,1359961",
-          "title": "Murat Boz'dan sel felaketinde kendisini ve ekibini kurtaran dalgıç polislere ziyaret"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/merve-dizdar-dan-hamilelik-pozlari-3927783",
+          "title": "Merve Dizdar'dan hamilelik pozları"
         },
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/sel-felaketinde-mahsur-kalan-murat-bozdan-anlamli-ziyaret",
-          "title": "Sel felaketinde mahsur kalan Murat Boz’dan anlamlı ziyaret!"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/merve-dizdar-dan-hamilelik-pozlari-buyuyen-karnini-ilk-kez-boyle-paylasti-p381929",
+          "title": "Merve Dizdar'dan hamilelik pozları: Büyüyen karnını ilk kez böyle paylaştı"
         }
       ],
       "publisher_domains": [
-        "sabah.com.tr",
-        "t24.com.tr"
+        "haberturk.com",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Murat Boz'dan anlamlı ziyaret! Kendisini selden kurtaran polisleri unutmadı",
+      "normalized_title": "murat boz dan anlamli ziyaret kendisini selden kurtaran polisleri unutmadi",
+      "url": "https://www.milliyet.com.tr/magazin/galeri/murat-bozdan-anlamli-ziyaret-kendisini-selden-kurtaran-polisleri-unutmadi-7704281",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-21T14:50:13.074255+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/murat-boz-kahramanlari-unutmadi-dalgic-polisleri-ziyaret-etti-p382910",
+          "title": "Murat Boz kahramanları unutmadı: Dalgıç polisleri ziyaret etti"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/murat-bozdan-anlamli-ziyaret-kendisini-selden-kurtaran-polisleri-unutmadi-7704281",
+          "title": "Murat Boz'dan anlamlı ziyaret! Kendisini selden kurtaran polisleri unutmadı"
+        }
+      ],
+      "publisher_domains": [
+        "milliyet.com.tr",
+        "sozcu.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -575,7 +487,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.780208+00:00",
+      "collected_at": "2026-11-21T14:50:13.074775+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -619,7 +531,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.780412+00:00",
+      "collected_at": "2026-11-21T14:50:13.075129+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -654,6 +566,50 @@
       "coverage_label": "multi_publisher"
     },
     {
+      "title": "Murat Yıldırım ailesiyle Antalya'da tatil yaptı: Eğlence dolu günden fotoğraflara beğeni yağdı",
+      "normalized_title": "murat yildirim ailesiyle antalya da tatil yapti eglence dolu gunden fotograflara begeni yagdi",
+      "url": "https://www.sozcu.com.tr/murat-yildirim-ailesiyle-antalya-da-tatil-yapti-eglence-dolu-gunden-fotograflara-begeni-yagdi-p382974",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-21T14:50:13.075424+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/murat-yildirim-ailesiyle-antalya-da-tatil-yapti-eglence-dolu-gunden-fotograflara-begeni-yagdi-p382974",
+          "title": "Murat Yıldırım ailesiyle Antalya'da tatil yaptı: Eğlence dolu günden fotoğraflara beğeni yağdı"
+        },
+        {
+          "source": "yerel-haberler.haberturk.com",
+          "source_domain": "yerel-haberler.haberturk.com",
+          "url": "https://yerel-haberler.haberturk.com/antalya-haberleri/oyuncu-murat-yildirim-ailesiyle-antalyada-tatil-yapti-119526748",
+          "title": "Oyuncu Murat Yıldırım, ailesiyle Antalya'da tatil yaptı"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr",
+        "yerel-haberler.haberturk.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
       "title": "Mehmet Y. Yılmaz | Melankolik ve Z kuşağı dostu yeni Bond: Pattinson",
       "normalized_title": "mehmet y yilmaz melankolik ve z kusagi dostu yeni bond pattinson",
       "url": "https://t24.com.tr/yazarlar/mehmet-y-yilmaz/melankolik-ve-z-kusagi-dostu-yeni-bond-pattinson,60001",
@@ -663,7 +619,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.778794+00:00",
+      "collected_at": "2026-11-21T14:50:13.072782+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -700,7 +656,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.778876+00:00",
+      "collected_at": "2026-11-21T14:50:13.072900+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -737,7 +693,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.778931+00:00",
+      "collected_at": "2026-11-21T14:50:13.072992+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -765,103 +721,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Robert Pattinson'ın yeni James Bond seçilmesi alay konusu",
-      "normalized_title": "robert pattinson in yeni james bond secilmesi alay konusu",
-      "url": "https://www.diken.com.tr/robert-pattinsonin-yeni-james-bond-secilmesi-alay-konusu/",
-      "source": "diken.com.tr",
+      "title": "Robert Pattinson’ın James Bond Duyurusu Daha Şimdiden Saat Dünyasında Tartışma Yarattı",
+      "normalized_title": "robert pattinson in james bond duyurusu daha simdiden saat dunyasinda tartisma yaratti",
+      "url": "https://gq.com.tr/robert-pattinson-james-bond-omega-jaeger-lecoultre",
+      "source": "gq.com.tr",
       "source_role": "publisher",
-      "source_domain": "diken.com.tr",
+      "source_domain": "gq.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.778974+00:00",
+      "collected_at": "2026-11-21T14:50:13.073080+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/robert-pattinsonin-yeni-james-bond-secilmesi-alay-konusu/",
-          "title": "Robert Pattinson'ın yeni James Bond seçilmesi alay konusu"
+          "source": "gq.com.tr",
+          "source_domain": "gq.com.tr",
+          "url": "https://gq.com.tr/robert-pattinson-james-bond-omega-jaeger-lecoultre",
+          "title": "Robert Pattinson’ın James Bond Duyurusu Daha Şimdiden Saat Dünyasında Tartışma Yarattı"
         }
       ],
       "publisher_domains": [
-        "diken.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ünlü İsim Huzurevinde Kalıyor",
-      "normalized_title": "unlu isim huzurevinde kaliyor",
-      "url": "https://www.memurlar.net/album/28445/unlu-isim-huzurevinde-kaliyor.html",
-      "source": "memurlar.net",
-      "source_role": "publisher",
-      "source_domain": "memurlar.net",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.779009+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "memurlar.net",
-          "source_domain": "memurlar.net",
-          "url": "https://www.memurlar.net/album/28445/unlu-isim-huzurevinde-kaliyor.html",
-          "title": "Ünlü İsim Huzurevinde Kalıyor"
-        }
-      ],
-      "publisher_domains": [
-        "memurlar.net"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Tarık Papuççuoğlu neden misafirhanede yaşıyor? Miras kararını ilk kez anlattı",
-      "normalized_title": "tarik papuccuoglu neden misafirhanede yasiyor miras kararini ilk kez anlatti",
-      "url": "https://www.ahaber.com.tr/galeri/magazin/tarik-papuccuoglundan-ozel-hayatina-dair-samimi-itiraflar",
-      "source": "ahaber.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ahaber.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.779119+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ahaber.com.tr",
-          "source_domain": "ahaber.com.tr",
-          "url": "https://www.ahaber.com.tr/galeri/magazin/tarik-papuccuoglundan-ozel-hayatina-dair-samimi-itiraflar",
-          "title": "Tarık Papuççuoğlu neden misafirhanede yaşıyor? Miras kararını ilk kez anlattı"
-        }
-      ],
-      "publisher_domains": [
-        "ahaber.com.tr"
+        "gq.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -885,7 +767,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.779218+00:00",
+      "collected_at": "2026-11-21T14:50:13.073155+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -913,29 +795,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Eşiyle gündeme gelmişti, bu kez oğluyla geceye damga vurdu: Mehmet Günsür’ün oğlu Ali boyunu geçti",
-      "normalized_title": "esiyle gundeme gelmisti bu kez ogluyla geceye damga vurdu mehmet gunsur un oglu ali boyunu gecti",
-      "url": "https://www.internethaber.com/esiyle-gundeme-gelmisti-bu-kez-ogluyla-geceye-damga-vurdu-mehmet-gunsurun-oglu-ali-boyunu-gecti-foto-galerisi-2469435.htm",
-      "source": "internethaber.com",
+      "title": "Mehmet Günsür'ün 20 yaşındaki oğlu Ali'yi görenler şaşırdı! Babasının boyunu geçti",
+      "normalized_title": "mehmet gunsur un 20 yasindaki oglu ali yi gorenler sasirdi babasinin boyunu gecti",
+      "url": "https://www.cnnturk.com/magazin/galeri/mehmet-gunsurun-20-yasindaki-oglu-aliyi-gorenler-sasirdi-babasinin-boyunu-gecti-3496246",
+      "source": "cnnturk.com",
       "source_role": "publisher",
-      "source_domain": "internethaber.com",
+      "source_domain": "cnnturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.779367+00:00",
+      "collected_at": "2026-11-21T14:50:13.073245+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "internethaber.com",
-          "source_domain": "internethaber.com",
-          "url": "https://www.internethaber.com/esiyle-gundeme-gelmisti-bu-kez-ogluyla-geceye-damga-vurdu-mehmet-gunsurun-oglu-ali-boyunu-gecti-foto-galerisi-2469435.htm",
-          "title": "Eşiyle gündeme gelmişti, bu kez oğluyla geceye damga vurdu: Mehmet Günsür’ün oğlu Ali boyunu geçti"
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/mehmet-gunsurun-20-yasindaki-oglu-aliyi-gorenler-sasirdi-babasinin-boyunu-gecti-3496246",
+          "title": "Mehmet Günsür'ün 20 yaşındaki oğlu Ali'yi görenler şaşırdı! Babasının boyunu geçti"
         }
       ],
       "publisher_domains": [
-        "internethaber.com"
+        "cnnturk.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -950,29 +832,66 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Güller ve Günahlar'ın Serhat'ı Murat Yıldırım'ın yeni tatil rotası! Mutlu aile tablosu!",
-      "normalized_title": "guller ve gunahlar in serhat i murat yildirim in yeni tatil rotasi mutlu aile tablosu",
-      "url": "https://www.cnnturk.com/magazin/galeri/guller-ve-gunahlarin-serhati-murat-yildirimin-yeni-tatil-rotasi-3495515",
-      "source": "cnnturk.com",
+      "title": "Beni sesimle tanıyorlar",
+      "normalized_title": "beni sesimle taniyorlar",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/beni-sesimle-taniyorlar-43385475",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "cnnturk.com",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.779507+00:00",
+      "collected_at": "2026-11-21T14:50:13.073489+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/guller-ve-gunahlarin-serhati-murat-yildirimin-yeni-tatil-rotasi-3495515",
-          "title": "Güller ve Günahlar'ın Serhat'ı Murat Yıldırım'ın yeni tatil rotası! Mutlu aile tablosu!"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/beni-sesimle-taniyorlar-43385475",
+          "title": "Beni sesimle tanıyorlar"
         }
       ],
       "publisher_domains": [
-        "cnnturk.com"
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Torunu Ela 1 yaşına bastı! Dede Acun Ilıcalı doğum günü karelerini böyle paylaştı...",
+      "normalized_title": "torunu ela 1 yasina basti dede acun ilicali dogum gunu karelerini boyle paylasti",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/torunu-ela-1-yasina-basti-dede-acun-ilicalidan-ozel-kutlama",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-21T14:50:13.073654+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/torunu-ela-1-yasina-basti-dede-acun-ilicalidan-ozel-kutlama",
+          "title": "Torunu Ela 1 yaşına bastı! Dede Acun Ilıcalı doğum günü karelerini böyle paylaştı..."
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -996,7 +915,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.779553+00:00",
+      "collected_at": "2026-11-21T14:50:13.073783+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1033,7 +952,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.779666+00:00",
+      "collected_at": "2026-11-21T14:50:13.073981+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1061,43 +980,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Torunu Ela 1 yaşına bastı! Dede Acun Ilıcalı doğum günü karelerini böyle paylaştı...",
-      "normalized_title": "torunu ela 1 yasina basti dede acun ilicali dogum gunu karelerini boyle paylasti",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/torunu-ela-1-yasina-basti-dede-acun-ilicalidan-ozel-kutlama",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.779758+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/torunu-ela-1-yasina-basti-dede-acun-ilicalidan-ozel-kutlama",
-          "title": "Torunu Ela 1 yaşına bastı! Dede Acun Ilıcalı doğum günü karelerini böyle paylaştı..."
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Murat Boz'dan kahramanlara teşekkür ziyareti",
       "normalized_title": "murat boz dan kahramanlara tesekkur ziyareti",
       "url": "https://www.hurriyet.com.tr/kelebek/stil/murat-bozdan-kahramanlara-tesekkur-ziyareti-43384503",
@@ -1107,7 +989,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.779917+00:00",
+      "collected_at": "2026-11-21T14:50:13.074042+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1135,29 +1017,66 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Murat Boz kahramanları unutmadı: Dalgıç polisleri ziyaret etti",
-      "normalized_title": "murat boz kahramanlari unutmadi dalgic polisleri ziyaret etti",
-      "url": "https://www.sozcu.com.tr/murat-boz-kahramanlari-unutmadi-dalgic-polisleri-ziyaret-etti-p382910",
-      "source": "sozcu.com.tr",
+      "title": "Sel felaketinde mahsur kalan Murat Boz’dan anlamlı ziyaret!",
+      "normalized_title": "sel felaketinde mahsur kalan murat boz dan anlamli ziyaret",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/sel-felaketinde-mahsur-kalan-murat-bozdan-anlamli-ziyaret",
+      "source": "sabah.com.tr",
       "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
+      "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.779955+00:00",
+      "collected_at": "2026-11-21T14:50:13.074117+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/murat-boz-kahramanlari-unutmadi-dalgic-polisleri-ziyaret-etti-p382910",
-          "title": "Murat Boz kahramanları unutmadı: Dalgıç polisleri ziyaret etti"
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/sel-felaketinde-mahsur-kalan-murat-bozdan-anlamli-ziyaret",
+          "title": "Sel felaketinde mahsur kalan Murat Boz’dan anlamlı ziyaret!"
         }
       ],
       "publisher_domains": [
-        "sozcu.com.tr"
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Miley Cyrus bu hafta sonu Maxx Morando ile evleniyor",
+      "normalized_title": "miley cyrus bu hafta sonu maxx morando ile evleniyor",
+      "url": "https://www.ntv.com.tr/yasam/miley-cyrus-bu-hafta-sonu-maxx-morando-ile-evleniyor-1751718",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-21T14:50:13.074316+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/miley-cyrus-bu-hafta-sonu-maxx-morando-ile-evleniyor-1751718",
+          "title": "Miley Cyrus bu hafta sonu Maxx Morando ile evleniyor"
+        }
+      ],
+      "publisher_domains": [
+        "ntv.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1181,7 +1100,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.779998+00:00",
+      "collected_at": "2026-11-21T14:50:13.074391+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1218,7 +1137,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.780051+00:00",
+      "collected_at": "2026-11-21T14:50:13.074496+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1255,7 +1174,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.780102+00:00",
+      "collected_at": "2026-11-21T14:50:13.074579+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1283,29 +1202,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Miley Cyrus bu hafta sonu Maxx Morando ile evleniyor",
-      "normalized_title": "miley cyrus bu hafta sonu maxx morando ile evleniyor",
-      "url": "https://www.ntv.com.tr/yasam/miley-cyrus-bu-hafta-sonu-maxx-morando-ile-evleniyor-1751718",
-      "source": "ntv.com.tr",
+      "title": "Derya Bedavacı: ‘Sanki birbirimizi 40 yıldır tanıyormuş gibiydik’",
+      "normalized_title": "derya bedavaci sanki birbirimizi 40 yildir taniyormus gibiydik",
+      "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/derya-bedavaci-sanki-birbirimizi-40-yildir-taniyormus-gibiydik-43385363",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.780138+00:00",
+      "collected_at": "2026-11-21T14:50:13.074651+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/miley-cyrus-bu-hafta-sonu-maxx-morando-ile-evleniyor-1751718",
-          "title": "Miley Cyrus bu hafta sonu Maxx Morando ile evleniyor"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hurriyet-cumartesi/derya-bedavaci-sanki-birbirimizi-40-yildir-taniyormus-gibiydik-43385363",
+          "title": "Derya Bedavacı: ‘Sanki birbirimizi 40 yıldır tanıyormuş gibiydik’"
         }
       ],
       "publisher_domains": [
-        "ntv.com.tr"
+        "hurriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1329,7 +1248,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-21T09:21:24.780165+00:00",
+      "collected_at": "2026-11-21T14:50:13.074701+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1343,6 +1262,80 @@
       ],
       "publisher_domains": [
         "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Sinem Ünsal fıstık yeşili saten elbisesini pembe hırkayla tamamladı: O yorumlara böyle yanıt verdi",
+      "normalized_title": "sinem unsal fistik yesili saten elbisesini pembe hirkayla tamamladi o yorumlara boyle yanit verdi",
+      "url": "https://www.takvim.com.tr/magazin/2026/11/20/sinem-unsalin-kadikoy-tarzi-saten-elbise-ve-pembe-hirka-detayi",
+      "source": "takvim.com.tr",
+      "source_role": "publisher",
+      "source_domain": "takvim.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-21T14:50:13.074914+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "takvim.com.tr",
+          "source_domain": "takvim.com.tr",
+          "url": "https://www.takvim.com.tr/magazin/2026/11/20/sinem-unsalin-kadikoy-tarzi-saten-elbise-ve-pembe-hirka-detayi",
+          "title": "Sinem Ünsal fıstık yeşili saten elbisesini pembe hırkayla tamamladı: O yorumlara böyle yanıt verdi"
+        }
+      ],
+      "publisher_domains": [
+        "takvim.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Yoko Ono’nun sanat dünyası çocuklarla buluştu",
+      "normalized_title": "yoko ono nun sanat dunyasi cocuklarla bulustu",
+      "url": "https://www.edebiyathaber.net/yoko-ononun-sanat-dunyasi-cocuklarla-bulusuyor/",
+      "source": "edebiyathaber.net",
+      "source_role": "publisher",
+      "source_domain": "edebiyathaber.net",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-21T14:50:13.074976+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "edebiyathaber.net",
+          "source_domain": "edebiyathaber.net",
+          "url": "https://www.edebiyathaber.net/yoko-ononun-sanat-dunyasi-cocuklarla-bulusuyor/",
+          "title": "Yoko Ono’nun sanat dünyası çocuklarla buluştu"
+        }
+      ],
+      "publisher_domains": [
+        "edebiyathaber.net"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
