@@ -1,118 +1,97 @@
 {
-  "generated_at": "2026-11-24T12:09:50.253948+00:00",
-  "candidate_count": 92,
-  "event_group_count": 47,
-  "multi_publisher_event_count": 9,
+  "generated_at": "2026-11-24T18:02:22.230015+00:00",
+  "candidate_count": 74,
+  "event_group_count": 44,
+  "multi_publisher_event_count": 7,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Will Smith ve Jada Pinkett Smith'in 42 milyon dolarlık malikanesindeki müştemilatta yangın çıktı",
-      "normalized_title": "will smith ve jada pinkett smith in 42 milyon dolarlik malikanesindeki mustemilatta yangin cikti",
-      "url": "https://www.patronlardunyasi.com/will-smith-ve-jada-pinkett-smithin-42-milyon-dolarlik-malikanesindeki-mustemilatta-yangin-cikti",
-      "source": "patronlardunyasi.com",
+      "title": "Uluslararası Emmy Ödülleri'nde kazananlar belli oldu. Türkiye'den Leyla dizisi de ödül aldı",
+      "normalized_title": "uluslararasi emmy odulleri nde kazananlar belli oldu turkiye den leyla dizisi de odul aldi",
+      "url": "https://www.ntv.com.tr/yasam/galeri-uluslararasi-emmy-odullerinde-kazananlar-belli-oldu-turkiyeden-leyla-dizisi-de-odul-aldi-1752300",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "patronlardunyasi.com",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.359964+00:00",
+      "collected_at": "2026-11-24T18:01:47.531044+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/will-smith-in-42-milyon-dolarlik-malikanesinde-ikinci-kez-yangin-cikti-2558890",
-          "title": "Will Smith'in 42 milyon dolarlık malikanesinde ikinci kez yangın çıktı"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/will-smith-in-42-milyon-dolarlik-malikanesi-yanginda-kul-oldu-3929511",
-          "title": "Will Smith'in 42 milyon dolarlık malikanesi yangında kül oldu"
-        },
-        {
-          "source": "patronlardunyasi.com",
-          "source_domain": "patronlardunyasi.com",
-          "url": "https://www.patronlardunyasi.com/will-smith-ve-jada-pinkett-smithin-42-milyon-dolarlik-malikanesindeki-mustemilatta-yangin-cikti",
-          "title": "Will Smith ve Jada Pinkett Smith'in 42 milyon dolarlık malikanesindeki müştemilatta yangın çıktı"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-uluslararasi-emmy-odullerinde-kazananlar-belli-oldu-turkiyeden-leyla-dizisi-de-odul-aldi-1752300",
+          "title": "Uluslararası Emmy Ödülleri'nde kazananlar belli oldu. Türkiye'den Leyla dizisi de ödül aldı"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "haberturk.com",
-        "patronlardunyasi.com"
+        "ntv.com.tr"
       ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Avrupa’da seyircili gala sürprizi!",
-      "normalized_title": "avrupa da seyircili gala surprizi",
-      "url": "https://www.milliyet.com.tr/magazin/avrupada-seyircili-gala-surprizi-7706556",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.358260+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/avrupada-seyircili-gala-43388724",
-          "title": "Avrupa’da seyircili gala"
-        },
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/avrupada-seyircili-gala-surprizi-7706556",
-          "title": "Avrupa’da seyircili gala sürprizi!"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr",
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
+      "publisher_count": 1,
+      "direct_article_count": 1,
       "event_member_count": 2,
-      "discovery_item_count": 0,
+      "discovery_item_count": 1,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 10.5,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "multi_publisher"
+      "coverage_label": "single_publisher"
     },
     {
-      "title": "Büşra Deveci: Fransız diyorlardı Gürcü çıktım",
-      "normalized_title": "busra deveci fransiz diyorlardi gurcu ciktim",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/busra-deveci-fransiz-diyorlardi-gurcu-ciktim-43388717",
+      "title": "Steven Spielberg'in Yeni Filmi: Western Sürprizi!",
+      "normalized_title": "steven spielberg in yeni filmi western surprizi",
+      "url": "https://konsolkosesi.com/post/steven-spielberg-yeni-filmi-the-heart-in-winter/",
+      "source": "konsolkosesi.com",
+      "source_role": "publisher",
+      "source_domain": "konsolkosesi.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T18:01:47.532706+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "konsolkosesi.com",
+          "source_domain": "konsolkosesi.com",
+          "url": "https://konsolkosesi.com/post/steven-spielberg-yeni-filmi-the-heart-in-winter/",
+          "title": "Steven Spielberg'in Yeni Filmi: Western Sürprizi!"
+        }
+      ],
+      "publisher_domains": [
+        "konsolkosesi.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 2,
+      "discovery_item_count": 1,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Sinem Ünsal ve Ozan Akbaba kırmızı halıda! Emmy’de “Uzak Şehir” onuru",
+      "normalized_title": "sinem unsal ve ozan akbaba kirmizi halida emmy de uzak sehir onuru",
+      "url": "https://www.hurriyet.com.tr/kelebek/sinem-unsal-ve-ozan-akbaba-kirmizi-halida-emmyde-uzak-sehir-onuru-43388659",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.360488+00:00",
+      "collected_at": "2026-11-24T18:01:47.531136+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -120,85 +99,27 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/busra-deveci-fransiz-diyorlardi-gurcu-ciktim-43388717",
-          "title": "Büşra Deveci: Fransız diyorlardı Gürcü çıktım"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/busra-develi-fransiz-diyorlardi-gurcu-ciktim-3929626",
-          "title": "Büşra Develi: Fransız diyorlardı Gürcü çıktım"
+          "url": "https://www.hurriyet.com.tr/kelebek/sinem-unsal-ve-ozan-akbaba-kirmizi-halida-emmyde-uzak-sehir-onuru-43388659",
+          "title": "Sinem Ünsal ve Ozan Akbaba kırmızı halıda! Emmy’de “Uzak Şehir” onuru"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
         "hurriyet.com.tr"
       ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 10.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "multi_publisher"
+      "coverage_label": "single_publisher"
     }
   ],
   "event_groups_preview": [
-    {
-      "title": "Emre Kınay'dan kızına duygusal doğum günü mesajı: Ömrüm sana feda olsun",
-      "normalized_title": "emre kinay dan kizina duygusal dogum gunu mesaji omrum sana feda olsun",
-      "url": "https://www.milliyet.com.tr/magazin/galeri/emre-kinaydan-kizina-duygusal-dogum-gunu-mesaji-omrum-sana-feda-olsun-7706046",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.358884+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/galeri-omrum-sana-feda-olsun-canim-kizim-43387553",
-          "title": "\"Ömrüm sana feda olsun canım kızım\""
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/emre-kinay-dan-kizi-duru-kinay-a-omrum-sana-feda-olsun-canim-kizim-3929369",
-          "title": "Emre Kınay'dan kızı Duru Kınay'a: Ömrüm sana feda olsun canım kızım"
-        },
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/emre-kinaydan-kizina-duygusal-dogum-gunu-mesaji-omrum-sana-feda-olsun-7706046",
-          "title": "Emre Kınay'dan kızına duygusal doğum günü mesajı: Ömrüm sana feda olsun"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com",
-        "hurriyet.com.tr",
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
     {
       "title": "Will Smith ve Jada Pinkett Smith'in 42 milyon dolarlık malikanesindeki müştemilatta yangın çıktı",
       "normalized_title": "will smith ve jada pinkett smith in 42 milyon dolarlik malikanesindeki mustemilatta yangin cikti",
@@ -209,7 +130,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.359964+00:00",
+      "collected_at": "2026-11-24T18:01:47.533241+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -260,7 +181,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.361043+00:00",
+      "collected_at": "2026-11-24T18:01:47.534049+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -302,44 +223,44 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Şarkıcı Miley Cyrus, 4 yıllık ilişki yaşadığı Maxx Morando ile evlendi",
-      "normalized_title": "sarkici miley cyrus 4 yillik iliski yasadigi maxx morando ile evlendi",
-      "url": "https://tr.euronews.com/2026/11/22/sarkici-miley-cyrus-4-yillik-iliski-yasadigi-maxx-morando-ile-evlendi",
-      "source": "tr.euronews.com",
+      "title": "Emre Kınay'dan kızına duygusal doğum günü mesajı: Ömrüm sana feda olsun",
+      "normalized_title": "emre kinay dan kizina duygusal dogum gunu mesaji omrum sana feda olsun",
+      "url": "https://www.milliyet.com.tr/magazin/galeri/emre-kinaydan-kizina-duygusal-dogum-gunu-mesaji-omrum-sana-feda-olsun-7706046",
+      "source": "milliyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "tr.euronews.com",
+      "source_domain": "milliyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.358094+00:00",
+      "collected_at": "2026-11-24T18:01:47.532230+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/miley-cyrus-evlendi-maxx-morando-ile-dugununden-ilk-fotograflari-paylasti-2558538",
-          "title": "Miley Cyrus evlendi: Maxx Morando ile düğününden ilk fotoğrafları paylaştı"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/emre-kinay-dan-kizi-duru-kinay-a-omrum-sana-feda-olsun-canim-kizim-3929369",
+          "title": "Emre Kınay'dan kızı Duru Kınay'a: Ömrüm sana feda olsun canım kızım"
         },
         {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/22/sarkici-miley-cyrus-4-yillik-iliski-yasadigi-maxx-morando-ile-evlendi",
-          "title": "Şarkıcı Miley Cyrus, 4 yıllık ilişki yaşadığı Maxx Morando ile evlendi"
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/emre-kinaydan-kizina-duygusal-dogum-gunu-mesaji-omrum-sana-feda-olsun-7706046",
+          "title": "Emre Kınay'dan kızına duygusal doğum günü mesajı: Ömrüm sana feda olsun"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "tr.euronews.com"
+        "haberturk.com",
+        "milliyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
+      "event_member_count": 3,
+      "discovery_item_count": 1,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.0,
+      "popularity_score": 20.5,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -355,7 +276,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.358260+00:00",
+      "collected_at": "2026-11-24T18:01:47.531844+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -399,7 +320,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.360181+00:00",
+      "collected_at": "2026-11-24T18:01:47.533517+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -434,50 +355,6 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Büşra Deveci: Fransız diyorlardı Gürcü çıktım",
-      "normalized_title": "busra deveci fransiz diyorlardi gurcu ciktim",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/busra-deveci-fransiz-diyorlardi-gurcu-ciktim-43388717",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.360488+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/busra-deveci-fransiz-diyorlardi-gurcu-ciktim-43388717",
-          "title": "Büşra Deveci: Fransız diyorlardı Gürcü çıktım"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/busra-develi-fransiz-diyorlardi-gurcu-ciktim-3929626",
-          "title": "Büşra Develi: Fransız diyorlardı Gürcü çıktım"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com",
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
       "title": "Mark Ruffalo ve Tilda Swinton'dan İranlı yönetmen Cafer Penahi için dayanışma çağrısı",
       "normalized_title": "mark ruffalo ve tilda swinton dan iranli yonetmen cafer penahi icin dayanisma cagrisi",
       "url": "https://gazeteoksijen.com/o2/mark-ruffalo-ve-tilda-swintondan-iranli-yonetmen-cafer-penahi-icin-dayanisma-cagrisi-296426",
@@ -487,7 +364,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.360706+00:00",
+      "collected_at": "2026-11-24T18:01:47.533659+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -522,36 +399,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Muhteşem Yüzyıl'ın 5 Kadın Yıldızı 15 Yıl Sonra Buluştu! Taçlı Kareleri Olay Oldu",
-      "normalized_title": "muhtesem yuzyil in 5 kadin yildizi 15 yil sonra bulustu tacli kareleri olay oldu",
-      "url": "https://www.medyatilkisi.com.tr/muhtesem-yuzyilin-5-kadin-yildizi-15-yil-sonra-bulustu-tacli-kareleri-olay-oldu",
-      "source": "medyatilkisi.com.tr",
+      "title": "Tarık Papuççuoğlu huzurevi iddialarını yalanladı: 'Sigortalı çalıştığım şirketin misafirhanesinde kalıyorum'",
+      "normalized_title": "tarik papuccuoglu huzurevi iddialarini yalanladi sigortali calistigim sirketin misafirhanesinde kaliyorum",
+      "url": "https://www.cumhuriyet.com.tr/magazin/tarik-papuccuoglu-huzurevi-iddialarini-yalanladi-sigortali-calistigim-sirketin-misafirhanesinde-kaliyorum-2557462",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "medyatilkisi.com.tr",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.361437+00:00",
+      "collected_at": "2026-11-24T18:01:47.535097+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "medyatilkisi.com.tr",
-          "source_domain": "medyatilkisi.com.tr",
-          "url": "https://www.medyatilkisi.com.tr/muhtesem-yuzyilin-5-kadin-yildizi-15-yil-sonra-bulustu-tacli-kareleri-olay-oldu",
-          "title": "Muhteşem Yüzyıl'ın 5 Kadın Yıldızı 15 Yıl Sonra Buluştu! Taçlı Kareleri Olay Oldu"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/yatim-katim-oldu-simdi-bir-sirketin-misafirhanesinde-kaliyorum-43383212",
+          "title": "Usta oyuncu Tarık Papuççuoğlu: Yatım katım oldu şimdi bir şirketin misafirhanesinde kalıyorum"
         },
         {
-          "source": "yasemin.com",
-          "source_domain": "yasemin.com",
-          "url": "https://www.yasemin.com/foto-galeri/84159-muhtesem-yuzyilin-sultanlari-15-yil-sonra-bulustu-yeni-tarzlari-gundem-oldu",
-          "title": "Muhteşem Yüzyıl'ın sultanları 15 yıl sonra buluştu! Yeni tarzları gündem oldu"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/tarik-papuccuoglu-huzurevi-iddialarini-yalanladi-sigortali-calistigim-sirketin-misafirhanesinde-kaliyorum-2557462",
+          "title": "Tarık Papuççuoğlu huzurevi iddialarını yalanladı: 'Sigortalı çalıştığım şirketin misafirhanesinde kalıyorum'"
         }
       ],
       "publisher_domains": [
-        "medyatilkisi.com.tr",
-        "yasemin.com"
+        "cumhuriyet.com.tr",
+        "hurriyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -566,6 +443,228 @@
       "coverage_label": "multi_publisher"
     },
     {
+      "title": "Uluslararası Emmy Ödülleri'nde kazananlar belli oldu. Türkiye'den Leyla dizisi de ödül aldı",
+      "normalized_title": "uluslararasi emmy odulleri nde kazananlar belli oldu turkiye den leyla dizisi de odul aldi",
+      "url": "https://www.ntv.com.tr/yasam/galeri-uluslararasi-emmy-odullerinde-kazananlar-belli-oldu-turkiyeden-leyla-dizisi-de-odul-aldi-1752300",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T18:01:47.531044+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-uluslararasi-emmy-odullerinde-kazananlar-belli-oldu-turkiyeden-leyla-dizisi-de-odul-aldi-1752300",
+          "title": "Uluslararası Emmy Ödülleri'nde kazananlar belli oldu. Türkiye'den Leyla dizisi de ödül aldı"
+        }
+      ],
+      "publisher_domains": [
+        "ntv.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 2,
+      "discovery_item_count": 1,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Miley Cyrus evlendi: Maxx Morando ile düğününden ilk fotoğrafları paylaştı",
+      "normalized_title": "miley cyrus evlendi maxx morando ile dugununden ilk fotograflari paylasti",
+      "url": "https://www.cumhuriyet.com.tr/magazin/miley-cyrus-evlendi-maxx-morando-ile-dugununden-ilk-fotograflari-paylasti-2558538",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T18:01:47.531463+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/miley-cyrus-evlendi-maxx-morando-ile-dugununden-ilk-fotograflari-paylasti-2558538",
+          "title": "Miley Cyrus evlendi: Maxx Morando ile düğününden ilk fotoğrafları paylaştı"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 2,
+      "discovery_item_count": 1,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Steven Spielberg'in Yeni Filmi: Western Sürprizi!",
+      "normalized_title": "steven spielberg in yeni filmi western surprizi",
+      "url": "https://konsolkosesi.com/post/steven-spielberg-yeni-filmi-the-heart-in-winter/",
+      "source": "konsolkosesi.com",
+      "source_role": "publisher",
+      "source_domain": "konsolkosesi.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T18:01:47.532706+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "konsolkosesi.com",
+          "source_domain": "konsolkosesi.com",
+          "url": "https://konsolkosesi.com/post/steven-spielberg-yeni-filmi-the-heart-in-winter/",
+          "title": "Steven Spielberg'in Yeni Filmi: Western Sürprizi!"
+        }
+      ],
+      "publisher_domains": [
+        "konsolkosesi.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 2,
+      "discovery_item_count": 1,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.5,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Sinem Ünsal ve Ozan Akbaba kırmızı halıda! Emmy’de “Uzak Şehir” onuru",
+      "normalized_title": "sinem unsal ve ozan akbaba kirmizi halida emmy de uzak sehir onuru",
+      "url": "https://www.hurriyet.com.tr/kelebek/sinem-unsal-ve-ozan-akbaba-kirmizi-halida-emmyde-uzak-sehir-onuru-43388659",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T18:01:47.531136+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/sinem-unsal-ve-ozan-akbaba-kirmizi-halida-emmyde-uzak-sehir-onuru-43388659",
+          "title": "Sinem Ünsal ve Ozan Akbaba kırmızı halıda! Emmy’de “Uzak Şehir” onuru"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "'Leyla: Hayat... Aşk... Adalet...' Uluslararası Emmy Ödülü kazandı",
+      "normalized_title": "leyla hayat ask adalet uluslararasi emmy odulu kazandi",
+      "url": "https://tr.euronews.com/2026/11/24/leyla-hayat-ask-adalet-dizisi-uluslararasi-emmy-odulu-kazandi",
+      "source": "tr.euronews.com",
+      "source_role": "publisher",
+      "source_domain": "tr.euronews.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T18:01:47.531294+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "url": "https://tr.euronews.com/2026/11/24/leyla-hayat-ask-adalet-dizisi-uluslararasi-emmy-odulu-kazandi",
+          "title": "'Leyla: Hayat... Aşk... Adalet...' Uluslararası Emmy Ödülü kazandı"
+        }
+      ],
+      "publisher_domains": [
+        "tr.euronews.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Londra tatilinden neşeli kareler",
+      "normalized_title": "londra tatilinden neseli kareler",
+      "url": "https://htkulup.haberturk.com/guncel/haber/3929656-londra-tatilinden-neseli-kareler",
+      "source": "htkulup.haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "htkulup.haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T18:01:47.531360+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "htkulup.haberturk.com",
+          "source_domain": "htkulup.haberturk.com",
+          "url": "https://htkulup.haberturk.com/guncel/haber/3929656-londra-tatilinden-neseli-kareler",
+          "title": "Londra tatilinden neşeli kareler"
+        }
+      ],
+      "publisher_domains": [
+        "htkulup.haberturk.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "İkinci nikahta keramet var",
       "normalized_title": "ikinci nikahta keramet var",
       "url": "https://www.hurriyet.com.tr/kelebek/magazin/ikinci-nikahta-keramet-var-43387581",
@@ -575,7 +674,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.357911+00:00",
+      "collected_at": "2026-11-24T18:01:47.531524+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -612,7 +711,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.358025+00:00",
+      "collected_at": "2026-11-24T18:01:47.531593+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -649,7 +748,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.358150+00:00",
+      "collected_at": "2026-11-24T18:01:47.531732+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -686,7 +785,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.358337+00:00",
+      "collected_at": "2026-11-24T18:01:47.531930+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -723,7 +822,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.358405+00:00",
+      "collected_at": "2026-11-24T18:01:47.532015+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -751,117 +850,6 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Kızılcık Şerbeti'nden ayrılan oyuncunun yeni dizisi belli oldu",
-      "normalized_title": "kizilcik serbeti nden ayrilan oyuncunun yeni dizisi belli oldu",
-      "url": "https://www.sozcu.com.tr/kizilcik-serbeti-nden-ayrilan-oyuncunun-yeni-dizisi-belli-oldu-p383774",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.358462+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/kizilcik-serbeti-nden-ayrilan-oyuncunun-yeni-dizisi-belli-oldu-p383774",
-          "title": "Kızılcık Şerbeti'nden ayrılan oyuncunun yeni dizisi belli oldu"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Uzak Şehir'in Ardından Kararını Verdi: Ferit Kaya TV8'in Yeni Dizisi Mükemmel Anneler İle Anlaştı!",
-      "normalized_title": "uzak sehir in ardindan kararini verdi ferit kaya tv8 in yeni dizisi mukemmel anneler ile anlasti",
-      "url": "https://www.gecce.com.tr/haber/uzak-sehirin-ardindan-kararini-verdi-ferit-kaya-tv8in-yeni-dizisi-mukemmel-anneler-ile-anlasti-333956.html",
-      "source": "gecce.com.tr",
-      "source_role": "publisher",
-      "source_domain": "gecce.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.358640+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "gecce.com.tr",
-          "source_domain": "gecce.com.tr",
-          "url": "https://www.gecce.com.tr/haber/uzak-sehirin-ardindan-kararini-verdi-ferit-kaya-tv8in-yeni-dizisi-mukemmel-anneler-ile-anlasti-333956.html",
-          "title": "Uzak Şehir'in Ardından Kararını Verdi: Ferit Kaya TV8'in Yeni Dizisi Mükemmel Anneler İle Anlaştı!"
-        }
-      ],
-      "publisher_domains": [
-        "gecce.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ferit Kaya, ‘Mükemmel Anneler’de Deniz Çakır’la Partner Oluyor",
-      "normalized_title": "ferit kaya mukemmel anneler de deniz cakir la partner oluyor",
-      "url": "https://episodedergi.com/ferit-kaya-mukemmel-anneler-dizisinde/",
-      "source": "episodedergi.com",
-      "source_role": "publisher",
-      "source_domain": "episodedergi.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.358699+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "episodedergi.com",
-          "source_domain": "episodedergi.com",
-          "url": "https://episodedergi.com/ferit-kaya-mukemmel-anneler-dizisinde/",
-          "title": "Ferit Kaya, ‘Mükemmel Anneler’de Deniz Çakır’la Partner Oluyor"
-        }
-      ],
-      "publisher_domains": [
-        "episodedergi.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "Emre Kınay ve Emine Ün'ün kızı Duru büyüdü: 22 yaşındaki güzelliğiyle annesinin kopyası...",
       "normalized_title": "emre kinay ve emine un un kizi duru buyudu 22 yasindaki guzelligiyle annesinin kopyasi",
       "url": "https://www.haber3.com/foto-galeri/magazin/emre-kinay-ve-emine-unun-kizi-duru-buyudu-22-yasindaki-guzelligiyle-annesinin-kopyasi-galeri-6269768",
@@ -871,7 +859,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.358973+00:00",
+      "collected_at": "2026-11-24T18:01:47.532322+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -899,29 +887,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Victor Wembanyama’dan Selena Gomez’e Mesaj: “Onun İçin Şov Yaptım”",
-      "normalized_title": "victor wembanyama dan selena gomez e mesaj onun icin sov yaptim",
-      "url": "https://www.eurohoops.net/tr/nba-news-tr/2039010/victor-wembanyamadan-selena-gomeze-mesaj-onun-icin-sov-yaptim/",
-      "source": "eurohoops.net",
+      "title": "Ayça Ayşin Turan Kimdir? - Defne",
+      "normalized_title": "ayca aysin turan kimdir defne",
+      "url": "https://www.showtv.com.tr/oyuncu/ayca-aysin-turan/8219",
+      "source": "showtv.com.tr",
       "source_role": "publisher",
-      "source_domain": "eurohoops.net",
+      "source_domain": "showtv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.359042+00:00",
+      "collected_at": "2026-11-24T18:01:47.532380+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "eurohoops.net",
-          "source_domain": "eurohoops.net",
-          "url": "https://www.eurohoops.net/tr/nba-news-tr/2039010/victor-wembanyamadan-selena-gomeze-mesaj-onun-icin-sov-yaptim/",
-          "title": "Victor Wembanyama’dan Selena Gomez’e Mesaj: “Onun İçin Şov Yaptım”"
+          "source": "showtv.com.tr",
+          "source_domain": "showtv.com.tr",
+          "url": "https://www.showtv.com.tr/oyuncu/ayca-aysin-turan/8219",
+          "title": "Ayça Ayşin Turan Kimdir? - Defne"
         }
       ],
       "publisher_domains": [
-        "eurohoops.net"
+        "showtv.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -936,16 +924,53 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Victor Wembanyama'dan, New Orleans potasına 50 sayı",
-      "normalized_title": "victor wembanyama dan new orleans potasina 50 sayi",
-      "url": "https://www.hurriyet.com.tr/sporarena/victor-wembanyamadan-new-orleans-potasina-50-sayi-43386822",
+      "title": "Steven Spielberg'in yeni filminde yıldızlar geçidi: Cillian Murphy ve Jessie Buckley aynı projede",
+      "normalized_title": "steven spielberg in yeni filminde yildizlar gecidi cillian murphy ve jessie buckley ayni projede",
+      "url": "https://gazeteoksijen.com/o2/steven-spielbergin-yeni-filminde-yildizlar-gecidi-cillian-murphy-ve-jessie-buckley-ayni-projede-297070",
+      "source": "gazeteoksijen.com",
+      "source_role": "publisher",
+      "source_domain": "gazeteoksijen.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T18:01:47.532486+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "gazeteoksijen.com",
+          "source_domain": "gazeteoksijen.com",
+          "url": "https://gazeteoksijen.com/o2/steven-spielbergin-yeni-filminde-yildizlar-gecidi-cillian-murphy-ve-jessie-buckley-ayni-projede-297070",
+          "title": "Steven Spielberg'in yeni filminde yıldızlar geçidi: Cillian Murphy ve Jessie Buckley aynı projede"
+        }
+      ],
+      "publisher_domains": [
+        "gazeteoksijen.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Büşra Develi: Fransız diyorlardı Gürcü çıktım",
+      "normalized_title": "busra develi fransiz diyorlardi gurcu ciktim",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/busra-deveci-fransiz-diyorlardi-gurcu-ciktim-43388717",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.359095+00:00",
+      "collected_at": "2026-11-24T18:01:47.532770+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -953,234 +978,12 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/sporarena/victor-wembanyamadan-new-orleans-potasina-50-sayi-43386822",
-          "title": "Victor Wembanyama'dan, New Orleans potasına 50 sayı"
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/busra-deveci-fransiz-diyorlardi-gurcu-ciktim-43388717",
+          "title": "Büşra Develi: Fransız diyorlardı Gürcü çıktım"
         }
       ],
       "publisher_domains": [
         "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "NBA'de tarihine geçen performans! 1973-74 sezonundan beri ilk kez",
-      "normalized_title": "nba de tarihine gecen performans 1973 74 sezonundan beri ilk kez",
-      "url": "https://www.sozcu.com.tr/nbade-tarihine-gecen-performans-197374-sezonundan-beri-ilk-kez-p383466",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.359152+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/nbade-tarihine-gecen-performans-197374-sezonundan-beri-ilk-kez-p383466",
-          "title": "NBA'de tarihine geçen performans! 1973-74 sezonundan beri ilk kez"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Pota derbisi nefes kesti! Kartal, Fenerbahçe'yi devirdi",
-      "normalized_title": "pota derbisi nefes kesti kartal fenerbahce yi devirdi",
-      "url": "https://spor.haber7.com/basketbol/haber/3679035-pota-derbisi-nefes-kesti-kartal-fenerbahceyi-devirdi",
-      "source": "spor.haber7.com",
-      "source_role": "publisher",
-      "source_domain": "spor.haber7.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.359209+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "spor.haber7.com",
-          "source_domain": "spor.haber7.com",
-          "url": "https://spor.haber7.com/basketbol/haber/3679035-pota-derbisi-nefes-kesti-kartal-fenerbahceyi-devirdi",
-          "title": "Pota derbisi nefes kesti! Kartal, Fenerbahçe'yi devirdi"
-        }
-      ],
-      "publisher_domains": [
-        "spor.haber7.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Harry'nin vizesi bitince apar topar ülkesine dönmüş",
-      "normalized_title": "harry nin vizesi bitince apar topar ulkesine donmus",
-      "url": "https://www.hurriyet.com.tr/kelebek/magazin/vizesi-bitince-apar-topar-ulkesine-donmus-43386120",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.359263+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/magazin/vizesi-bitince-apar-topar-ulkesine-donmus-43386120",
-          "title": "Harry'nin vizesi bitince apar topar ülkesine dönmüş"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Prens’in vizesi bitmiş",
-      "normalized_title": "prens in vizesi bitmis",
-      "url": "https://www.hurriyet.com.tr/dunya/prensin-vizesi-bitmis-43386614",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.359304+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/dunya/prensin-vizesi-bitmis-43386614",
-          "title": "Prens’in vizesi bitmiş"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Prens Harry'nin İngiltere'ye dönüş sebebi 'vize' mi? Dikkat çeken iddia...",
-      "normalized_title": "prens harry nin ingiltere ye donus sebebi vize mi dikkat ceken iddia",
-      "url": "https://www.cnnturk.com/dunya/galeri/prens-harrynin-ingiltereye-donus-sebebi-vize-mi-dikkat-ceken-iddia-3496554",
-      "source": "cnnturk.com",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.359368+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/dunya/galeri/prens-harrynin-ingiltereye-donus-sebebi-vize-mi-dikkat-ceken-iddia-3496554",
-          "title": "Prens Harry'nin İngiltere'ye dönüş sebebi 'vize' mi? Dikkat çeken iddia..."
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Prens Harry Vizeye Takıldı",
-      "normalized_title": "prens harry vizeye takildi",
-      "url": "https://www.agazete.com.tr/dunya/prens-harry-vizeye-takildi-229220",
-      "source": "agazete.com.tr",
-      "source_role": "publisher",
-      "source_domain": "agazete.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.359407+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "agazete.com.tr",
-          "source_domain": "agazete.com.tr",
-          "url": "https://www.agazete.com.tr/dunya/prens-harry-vizeye-takildi-229220",
-          "title": "Prens Harry Vizeye Takıldı"
-        }
-      ],
-      "publisher_domains": [
-        "agazete.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1204,7 +1007,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.359468+00:00",
+      "collected_at": "2026-11-24T18:01:47.532843+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1241,7 +1044,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.359546+00:00",
+      "collected_at": "2026-11-24T18:01:47.532935+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1269,29 +1072,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Ayça Ayşin Turan Kimdir? - Defne",
-      "normalized_title": "ayca aysin turan kimdir defne",
-      "url": "https://www.showtv.com.tr/oyuncu/ayca-aysin-turan/8219",
-      "source": "showtv.com.tr",
+      "title": "10 yıllık filmin gurur gecesi",
+      "normalized_title": "10 yillik filmin gurur gecesi",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/10-yillik-filmin-gurur-gecesi-43387919",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "showtv.com.tr",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.359594+00:00",
+      "collected_at": "2026-11-24T18:01:47.533297+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "showtv.com.tr",
-          "source_domain": "showtv.com.tr",
-          "url": "https://www.showtv.com.tr/oyuncu/ayca-aysin-turan/8219",
-          "title": "Ayça Ayşin Turan Kimdir? - Defne"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/10-yillik-filmin-gurur-gecesi-43387919",
+          "title": "10 yıllık filmin gurur gecesi"
         }
       ],
       "publisher_domains": [
-        "showtv.com.tr"
+        "hurriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1306,16 +1109,127 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Murat Ceylan Cumhuriyet Pazar'da: 'Sahnedeki Murat da televizyondaki Murat da benim'",
-      "normalized_title": "murat ceylan cumhuriyet pazar da sahnedeki murat da televizyondaki murat da benim",
-      "url": "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/murat-ceylan-cumhuriyet-pazar-da-sahnedeki-murat-da-televizyondaki-murat-da-benim-2558089",
+      "title": "Eski eşten sürpriz destek",
+      "normalized_title": "eski esten surpriz destek",
+      "url": "https://www.milliyet.com.tr/magazin/eski-esten-surpriz-destek-7705857",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T18:01:47.533433+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/eski-esten-surpriz-destek-7705857",
+          "title": "Eski eşten sürpriz destek"
+        }
+      ],
+      "publisher_domains": [
+        "milliyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Melania Trump fotoğraflarını satışa çıkardı",
+      "normalized_title": "melania trump fotograflarini satisa cikardi",
+      "url": "https://www.hurriyet.com.tr/dunya/melania-trump-fotograflarini-satisa-cikardi-43388295",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T18:01:47.533578+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/dunya/melania-trump-fotograflarini-satisa-cikardi-43388295",
+          "title": "Melania Trump fotoğraflarını satışa çıkardı"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Uluslararası sinema dünyası Jafar Panahi'nin hapis cezasına karşı birleşti",
+      "normalized_title": "uluslararasi sinema dunyasi jafar panahi nin hapis cezasina karsi birlesti",
+      "url": "https://tr.euronews.com/2026/11/19/uluslararasi-sinema-dunyasi-jafar-panahinin-hapis-cezasina-karsi-birlesti",
+      "source": "tr.euronews.com",
+      "source_role": "publisher",
+      "source_domain": "tr.euronews.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T18:01:47.533732+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "url": "https://tr.euronews.com/2026/11/19/uluslararasi-sinema-dunyasi-jafar-panahinin-hapis-cezasina-karsi-birlesti",
+          "title": "Uluslararası sinema dünyası Jafar Panahi'nin hapis cezasına karşı birleşti"
+        }
+      ],
+      "publisher_domains": [
+        "tr.euronews.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Jafar Panahi kimdir? Yönetmen Jafar Panahi kaç yaşında, nereli? Jafar Panahi neden tutuklandı?",
+      "normalized_title": "jafar panahi kimdir yonetmen jafar panahi kac yasinda nereli jafar panahi neden tutuklandi",
+      "url": "https://www.cumhuriyet.com.tr/kultur-sanat/jafar-panahi-kimdir-yonetmen-jafar-panahi-kac-yasinda-nereli-jafar-panahi-neden-tutuklandi-2557493",
       "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T12:09:12.359654+00:00",
+      "collected_at": "2026-11-24T18:01:47.533815+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1323,12 +1237,49 @@
         {
           "source": "cumhuriyet.com.tr",
           "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/murat-ceylan-cumhuriyet-pazar-da-sahnedeki-murat-da-televizyondaki-murat-da-benim-2558089",
-          "title": "Murat Ceylan Cumhuriyet Pazar'da: 'Sahnedeki Murat da televizyondaki Murat da benim'"
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/jafar-panahi-kimdir-yonetmen-jafar-panahi-kac-yasinda-nereli-jafar-panahi-neden-tutuklandi-2557493",
+          "title": "Jafar Panahi kimdir? Yönetmen Jafar Panahi kaç yaşında, nereli? Jafar Panahi neden tutuklandı?"
         }
       ],
       "publisher_domains": [
         "cumhuriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Dilan Çiçek Deniz: Hayat arkadaşımla uzun yol gezisi",
+      "normalized_title": "dilan cicek deniz hayat arkadasimla uzun yol gezisi",
+      "url": "https://www.haberturk.com/magazin/foto/dilan-cicek-deniz-hayat-arkadasimla-uzun-yol-gezisi-3928882/5",
+      "source": "haberturk.com",
+      "source_role": "publisher",
+      "source_domain": "haberturk.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T18:01:47.534115+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/dilan-cicek-deniz-hayat-arkadasimla-uzun-yol-gezisi-3928882/5",
+          "title": "Dilan Çiçek Deniz: Hayat arkadaşımla uzun yol gezisi"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
