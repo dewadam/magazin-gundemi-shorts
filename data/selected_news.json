@@ -1,43 +1,94 @@
 {
-  "generated_at": "2026-11-24T00:16:10.683385+00:00",
-  "candidate_count": 67,
-  "event_group_count": 42,
+  "generated_at": "2026-11-24T12:09:50.253948+00:00",
+  "candidate_count": 92,
+  "event_group_count": 47,
   "multi_publisher_event_count": 9,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Jafar Panahi kimdir? Yönetmen Jafar Panahi kaç yaşında, nereli? Jafar Panahi neden tutuklandı?",
-      "normalized_title": "jafar panahi kimdir yonetmen jafar panahi kac yasinda nereli jafar panahi neden tutuklandi",
-      "url": "https://www.cumhuriyet.com.tr/kultur-sanat/jafar-panahi-kimdir-yonetmen-jafar-panahi-kac-yasinda-nereli-jafar-panahi-neden-tutuklandi-2557493",
-      "source": "cumhuriyet.com.tr",
+      "title": "Will Smith ve Jada Pinkett Smith'in 42 milyon dolarlık malikanesindeki müştemilatta yangın çıktı",
+      "normalized_title": "will smith ve jada pinkett smith in 42 milyon dolarlik malikanesindeki mustemilatta yangin cikti",
+      "url": "https://www.patronlardunyasi.com/will-smith-ve-jada-pinkett-smithin-42-milyon-dolarlik-malikanesindeki-mustemilatta-yangin-cikti",
+      "source": "patronlardunyasi.com",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "patronlardunyasi.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.837932+00:00",
+      "collected_at": "2026-11-24T12:09:12.359964+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "yeniasir.com.tr",
-          "source_domain": "yeniasir.com.tr",
-          "url": "https://www.yeniasir.com.tr/yasam/2026/11/21/cigdem-batur-kimdir-cigdem-batur-kac-yasinda-ve-nereli",
-          "title": "ÇİĞDEM BATUR KİMDİR? ÇİĞDEM BATUR KAÇ YAŞINDA VE NERELİ?"
-        },
-        {
           "source": "cumhuriyet.com.tr",
           "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/jafar-panahi-kimdir-yonetmen-jafar-panahi-kac-yasinda-nereli-jafar-panahi-neden-tutuklandi-2557493",
-          "title": "Jafar Panahi kimdir? Yönetmen Jafar Panahi kaç yaşında, nereli? Jafar Panahi neden tutuklandı?"
+          "url": "https://www.cumhuriyet.com.tr/yasam/will-smith-in-42-milyon-dolarlik-malikanesinde-ikinci-kez-yangin-cikti-2558890",
+          "title": "Will Smith'in 42 milyon dolarlık malikanesinde ikinci kez yangın çıktı"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/will-smith-in-42-milyon-dolarlik-malikanesi-yanginda-kul-oldu-3929511",
+          "title": "Will Smith'in 42 milyon dolarlık malikanesi yangında kül oldu"
+        },
+        {
+          "source": "patronlardunyasi.com",
+          "source_domain": "patronlardunyasi.com",
+          "url": "https://www.patronlardunyasi.com/will-smith-ve-jada-pinkett-smithin-42-milyon-dolarlik-malikanesindeki-mustemilatta-yangin-cikti",
+          "title": "Will Smith ve Jada Pinkett Smith'in 42 milyon dolarlık malikanesindeki müştemilatta yangın çıktı"
         }
       ],
       "publisher_domains": [
         "cumhuriyet.com.tr",
-        "yeniasir.com.tr"
+        "haberturk.com",
+        "patronlardunyasi.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Avrupa’da seyircili gala sürprizi!",
+      "normalized_title": "avrupa da seyircili gala surprizi",
+      "url": "https://www.milliyet.com.tr/magazin/avrupada-seyircili-gala-surprizi-7706556",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T12:09:12.358260+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/avrupada-seyircili-gala-43388724",
+          "title": "Avrupa’da seyircili gala"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/avrupada-seyircili-gala-surprizi-7706556",
+          "title": "Avrupa’da seyircili gala sürprizi!"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr",
+        "milliyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -52,194 +103,62 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Ediz Hun 87'nci yaşına adım attı: Eşi Berna Hun ile fotoğrafını paylaştı",
-      "normalized_title": "ediz hun 87 nci yasina adim atti esi berna hun ile fotografini paylasti",
-      "url": "https://www.cumhuriyet.com.tr/magazin/ediz-hun-87-nci-yasina-adim-atti-esi-berna-hun-ile-fotografini-paylasti-2558518",
-      "source": "cumhuriyet.com.tr",
+      "title": "Büşra Deveci: Fransız diyorlardı Gürcü çıktım",
+      "normalized_title": "busra deveci fransiz diyorlardi gurcu ciktim",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/busra-deveci-fransiz-diyorlardi-gurcu-ciktim-43388717",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.838041+00:00",
+      "collected_at": "2026-11-24T12:09:12.360488+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/ediz-hun-87-nci-yasina-adim-atti-esi-berna-hun-ile-fotografini-paylasti-2558518",
-          "title": "Ediz Hun 87'nci yaşına adım attı: Eşi Berna Hun ile fotoğrafını paylaştı"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 2,
-      "discovery_item_count": 1,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.5,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Sıla Gençoğlu hayatındaki kırılma anlarını anlattı: Kötü ilişkiler beni kendime getirdi!",
-      "normalized_title": "sila gencoglu hayatindaki kirilma anlarini anlatti kotu iliskiler beni kendime getirdi",
-      "url": "https://www.cnnturk.com/magazin/galeri/sila-gencoglu-hayatindaki-kirilma-anlarini-anlatti-kotu-iliskiler-beni-kendime-getirdi-3496400",
-      "source": "cnnturk.com",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.838623+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/busra-deveci-fransiz-diyorlardi-gurcu-ciktim-43388717",
+          "title": "Büşra Deveci: Fransız diyorlardı Gürcü çıktım"
+        },
         {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/sila-gencoglu-hayatindaki-kirilma-anlarini-anlatti-kotu-iliskiler-beni-kendime-getirdi-3496400",
-          "title": "Sıla Gençoğlu hayatındaki kırılma anlarını anlattı: Kötü ilişkiler beni kendime getirdi!"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/busra-develi-fransiz-diyorlardi-gurcu-ciktim-3929626",
+          "title": "Büşra Develi: Fransız diyorlardı Gürcü çıktım"
         }
       ],
       "publisher_domains": [
-        "cnnturk.com"
+        "haberturk.com",
+        "hurriyet.com.tr"
       ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
+      "publisher_count": 2,
+      "direct_article_count": 2,
       "event_member_count": 2,
-      "discovery_item_count": 1,
+      "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 10.5,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "single_publisher"
+      "coverage_label": "multi_publisher"
     }
   ],
   "event_groups_preview": [
     {
-      "title": "Miley Cyrus evlendi: Maxx Morando ile düğününden ilk fotoğrafları paylaştı",
-      "normalized_title": "miley cyrus evlendi maxx morando ile dugununden ilk fotograflari paylasti",
-      "url": "https://www.cumhuriyet.com.tr/magazin/miley-cyrus-evlendi-maxx-morando-ile-dugununden-ilk-fotograflari-paylasti-2558538",
-      "source": "cumhuriyet.com.tr",
+      "title": "Emre Kınay'dan kızına duygusal doğum günü mesajı: Ömrüm sana feda olsun",
+      "normalized_title": "emre kinay dan kizina duygusal dogum gunu mesaji omrum sana feda olsun",
+      "url": "https://www.milliyet.com.tr/magazin/galeri/emre-kinaydan-kizina-duygusal-dogum-gunu-mesaji-omrum-sana-feda-olsun-7706046",
+      "source": "milliyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "milliyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.836375+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/miley-cyrus-evlendi-maxx-morando-ile-dugununden-ilk-fotograflari-paylasti-2558538",
-          "title": "Miley Cyrus evlendi: Maxx Morando ile düğününden ilk fotoğrafları paylaştı"
-        },
-        {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/sarkici-miley-cyrus-evlendi/",
-          "title": "Şarkıcı Miley Cyrus evlendi"
-        },
-        {
-          "source": "gazeteoksijen.com",
-          "source_domain": "gazeteoksijen.com",
-          "url": "https://gazeteoksijen.com/o2/miley-cyrus-maxx-morando-ile-evlendi-296893",
-          "title": "Grammy ödüllü şarkıcı Miley Cyrus, Maxx Morando ile evlendi"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "diken.com.tr",
-        "gazeteoksijen.com"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "'Sultanahmet Camii'ndeki ayak kokusunu çözün' diyen Çiğdem Batur'a soruşturma",
-      "normalized_title": "sultanahmet camii ndeki ayak kokusunu cozun diyen cigdem batur a sorusturma",
-      "url": "https://www.diken.com.tr/sultanahmet-camiindeki-ayak-kokusunu-cozun-diyen-cigdem-batura-sorusturma/",
-      "source": "diken.com.tr",
-      "source_role": "publisher",
-      "source_domain": "diken.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.836828+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haber.sol.org.tr",
-          "source_domain": "haber.sol.org.tr",
-          "url": "https://haber.sol.org.tr/haber/oyuncu-cigdem-batur-hakkinda-sorusturma-baslatildi-416400",
-          "title": "Oyuncu Çiğdem Batur hakkında soruşturma başlatıldı"
-        },
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/gundem/cigdem-batura-sorusturma-acildi-43386551",
-          "title": "Çiğdem Batur’a soruşturma açıldı"
-        },
-        {
-          "source": "diken.com.tr",
-          "source_domain": "diken.com.tr",
-          "url": "https://www.diken.com.tr/sultanahmet-camiindeki-ayak-kokusunu-cozun-diyen-cigdem-batura-sorusturma/",
-          "title": "'Sultanahmet Camii'ndeki ayak kokusunu çözün' diyen Çiğdem Batur'a soruşturma"
-        }
-      ],
-      "publisher_domains": [
-        "diken.com.tr",
-        "haber.sol.org.tr",
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "22 yıl önce dünyası değişmişti! Emre Kınay’dan kızına duygu dolu kutlama: Ömrüm sana feda olsun",
-      "normalized_title": "22 yil once dunyasi degismisti emre kinay dan kizina duygu dolu kutlama omrum sana feda olsun",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/22-yil-once-dunyasi-degismisti-emre-kinaydan-kizina-duygu-dolu-kutlama-omrum-sana-feda-olsun",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.836982+00:00",
+      "collected_at": "2026-11-24T12:09:12.358884+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -257,16 +176,67 @@
           "title": "Emre Kınay'dan kızı Duru Kınay'a: Ömrüm sana feda olsun canım kızım"
         },
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/22-yil-once-dunyasi-degismisti-emre-kinaydan-kizina-duygu-dolu-kutlama-omrum-sana-feda-olsun",
-          "title": "22 yıl önce dünyası değişmişti! Emre Kınay’dan kızına duygu dolu kutlama: Ömrüm sana feda olsun"
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/emre-kinaydan-kizina-duygusal-dogum-gunu-mesaji-omrum-sana-feda-olsun-7706046",
+          "title": "Emre Kınay'dan kızına duygusal doğum günü mesajı: Ömrüm sana feda olsun"
         }
       ],
       "publisher_domains": [
         "haberturk.com",
         "hurriyet.com.tr",
-        "sabah.com.tr"
+        "milliyet.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Will Smith ve Jada Pinkett Smith'in 42 milyon dolarlık malikanesindeki müştemilatta yangın çıktı",
+      "normalized_title": "will smith ve jada pinkett smith in 42 milyon dolarlik malikanesindeki mustemilatta yangin cikti",
+      "url": "https://www.patronlardunyasi.com/will-smith-ve-jada-pinkett-smithin-42-milyon-dolarlik-malikanesindeki-mustemilatta-yangin-cikti",
+      "source": "patronlardunyasi.com",
+      "source_role": "publisher",
+      "source_domain": "patronlardunyasi.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T12:09:12.359964+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/yasam/will-smith-in-42-milyon-dolarlik-malikanesinde-ikinci-kez-yangin-cikti-2558890",
+          "title": "Will Smith'in 42 milyon dolarlık malikanesinde ikinci kez yangın çıktı"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/will-smith-in-42-milyon-dolarlik-malikanesi-yanginda-kul-oldu-3929511",
+          "title": "Will Smith'in 42 milyon dolarlık malikanesi yangında kül oldu"
+        },
+        {
+          "source": "patronlardunyasi.com",
+          "source_domain": "patronlardunyasi.com",
+          "url": "https://www.patronlardunyasi.com/will-smith-ve-jada-pinkett-smithin-42-milyon-dolarlik-malikanesindeki-mustemilatta-yangin-cikti",
+          "title": "Will Smith ve Jada Pinkett Smith'in 42 milyon dolarlık malikanesindeki müştemilatta yangın çıktı"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "haberturk.com",
+        "patronlardunyasi.com"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -290,7 +260,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.837183+00:00",
+      "collected_at": "2026-11-24T12:09:12.361043+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -302,16 +272,16 @@
           "title": "Dilan Çiçek Deniz'den Birkan Nasuhoğlu'na romantik sözler: \"Hayat arkadaşım\""
         },
         {
-          "source": "posta.com.tr",
-          "source_domain": "posta.com.tr",
-          "url": "https://www.posta.com.tr/galeri/dilan-cicek-denizden-sevgilisi-birkan-nasuhoglu-ile-romantik-paylasim-3067578",
-          "title": "Dilan Çiçek Deniz'den sevgilisi Birkan Nasuhoğlu ile romantik paylaşım!"
-        },
-        {
           "source": "sabah.com.tr",
           "source_domain": "sabah.com.tr",
           "url": "https://www.sabah.com.tr/trend/galeri/magazin/hayat-arkadasim-notuyla-seslendi-dilan-cicek-denizden-sevgilisi-birkan-nasuhogluna-ask-dolu-sozler",
           "title": "Hayat arkadaşım notuyla seslendi! Dilan Çiçek Deniz’den sevgilisi Birkan Nasuhoğlu’na aşk dolu sözler..."
+        },
+        {
+          "source": "posta.com.tr",
+          "source_domain": "posta.com.tr",
+          "url": "https://www.posta.com.tr/galeri/dilan-cicek-denizden-sevgilisi-birkan-nasuhoglu-ile-romantik-paylasim-3067578",
+          "title": "Dilan Çiçek Deniz'den sevgilisi Birkan Nasuhoğlu ile romantik paylaşım!"
         }
       ],
       "publisher_domains": [
@@ -332,6 +302,94 @@
       "coverage_label": "multi_publisher"
     },
     {
+      "title": "Şarkıcı Miley Cyrus, 4 yıllık ilişki yaşadığı Maxx Morando ile evlendi",
+      "normalized_title": "sarkici miley cyrus 4 yillik iliski yasadigi maxx morando ile evlendi",
+      "url": "https://tr.euronews.com/2026/11/22/sarkici-miley-cyrus-4-yillik-iliski-yasadigi-maxx-morando-ile-evlendi",
+      "source": "tr.euronews.com",
+      "source_role": "publisher",
+      "source_domain": "tr.euronews.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T12:09:12.358094+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/miley-cyrus-evlendi-maxx-morando-ile-dugununden-ilk-fotograflari-paylasti-2558538",
+          "title": "Miley Cyrus evlendi: Maxx Morando ile düğününden ilk fotoğrafları paylaştı"
+        },
+        {
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "url": "https://tr.euronews.com/2026/11/22/sarkici-miley-cyrus-4-yillik-iliski-yasadigi-maxx-morando-ile-evlendi",
+          "title": "Şarkıcı Miley Cyrus, 4 yıllık ilişki yaşadığı Maxx Morando ile evlendi"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "tr.euronews.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Avrupa’da seyircili gala sürprizi!",
+      "normalized_title": "avrupa da seyircili gala surprizi",
+      "url": "https://www.milliyet.com.tr/magazin/avrupada-seyircili-gala-surprizi-7706556",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T12:09:12.358260+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/avrupada-seyircili-gala-43388724",
+          "title": "Avrupa’da seyircili gala"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/avrupada-seyircili-gala-surprizi-7706556",
+          "title": "Avrupa’da seyircili gala sürprizi!"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr",
+        "milliyet.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
       "title": "Cansu Tosun'dan Erkan Kolçak Köstendil'e sürpriz! Eski eşini galada yalnız bırakmadı",
       "normalized_title": "cansu tosun dan erkan kolcak kostendil e surpriz eski esini galada yalniz birakmadi",
       "url": "https://www.posta.com.tr/galeri/cansu-tosundan-erkan-kolcak-kostendile-surpriz-eski-esini-galada-yalniz-birakmadi-3067498",
@@ -341,7 +399,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.836721+00:00",
+      "collected_at": "2026-11-24T12:09:12.360181+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -376,36 +434,80 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Jafar Panahi kimdir? Yönetmen Jafar Panahi kaç yaşında, nereli? Jafar Panahi neden tutuklandı?",
-      "normalized_title": "jafar panahi kimdir yonetmen jafar panahi kac yasinda nereli jafar panahi neden tutuklandi",
-      "url": "https://www.cumhuriyet.com.tr/kultur-sanat/jafar-panahi-kimdir-yonetmen-jafar-panahi-kac-yasinda-nereli-jafar-panahi-neden-tutuklandi-2557493",
-      "source": "cumhuriyet.com.tr",
+      "title": "Büşra Deveci: Fransız diyorlardı Gürcü çıktım",
+      "normalized_title": "busra deveci fransiz diyorlardi gurcu ciktim",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/busra-deveci-fransiz-diyorlardi-gurcu-ciktim-43388717",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.837932+00:00",
+      "collected_at": "2026-11-24T12:09:12.360488+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "yeniasir.com.tr",
-          "source_domain": "yeniasir.com.tr",
-          "url": "https://www.yeniasir.com.tr/yasam/2026/11/21/cigdem-batur-kimdir-cigdem-batur-kac-yasinda-ve-nereli",
-          "title": "ÇİĞDEM BATUR KİMDİR? ÇİĞDEM BATUR KAÇ YAŞINDA VE NERELİ?"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/busra-deveci-fransiz-diyorlardi-gurcu-ciktim-43388717",
+          "title": "Büşra Deveci: Fransız diyorlardı Gürcü çıktım"
         },
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/jafar-panahi-kimdir-yonetmen-jafar-panahi-kac-yasinda-nereli-jafar-panahi-neden-tutuklandi-2557493",
-          "title": "Jafar Panahi kimdir? Yönetmen Jafar Panahi kaç yaşında, nereli? Jafar Panahi neden tutuklandı?"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/busra-develi-fransiz-diyorlardi-gurcu-ciktim-3929626",
+          "title": "Büşra Develi: Fransız diyorlardı Gürcü çıktım"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "yeniasir.com.tr"
+        "haberturk.com",
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Mark Ruffalo ve Tilda Swinton'dan İranlı yönetmen Cafer Penahi için dayanışma çağrısı",
+      "normalized_title": "mark ruffalo ve tilda swinton dan iranli yonetmen cafer penahi icin dayanisma cagrisi",
+      "url": "https://gazeteoksijen.com/o2/mark-ruffalo-ve-tilda-swintondan-iranli-yonetmen-cafer-penahi-icin-dayanisma-cagrisi-296426",
+      "source": "gazeteoksijen.com",
+      "source_role": "publisher",
+      "source_domain": "gazeteoksijen.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T12:09:12.360706+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "gazeteoksijen.com",
+          "source_domain": "gazeteoksijen.com",
+          "url": "https://gazeteoksijen.com/o2/mark-ruffalo-ve-tilda-swintondan-iranli-yonetmen-cafer-penahi-icin-dayanisma-cagrisi-296426",
+          "title": "Mark Ruffalo ve Tilda Swinton'dan İranlı yönetmen Cafer Penahi için dayanışma çağrısı"
+        },
+        {
+          "source": "velev.press",
+          "source_domain": "velev.press",
+          "url": "https://velev.press/kultur/hollywooddan-cafer-penahi-icin-dayanisma-cagrisi/",
+          "title": "Hollywood’dan Cafer Penahi için dayanışma çağrısı"
+        }
+      ],
+      "publisher_domains": [
+        "gazeteoksijen.com",
+        "velev.press"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -429,7 +531,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.837632+00:00",
+      "collected_at": "2026-11-24T12:09:12.361437+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -464,242 +566,6 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Yeni James Bond, Yeni Stil: Robert Pattinson Nasıl Giyinecek?",
-      "normalized_title": "yeni james bond yeni stil robert pattinson nasil giyinecek",
-      "url": "https://gq.com.tr/robert-pattinson-james-bond-stili-nasil-olacak",
-      "source": "gq.com.tr",
-      "source_role": "publisher",
-      "source_domain": "gq.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.837738+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "gq.com.tr",
-          "source_domain": "gq.com.tr",
-          "url": "https://gq.com.tr/robert-pattinson-james-bond-stili-nasil-olacak",
-          "title": "Yeni James Bond, Yeni Stil: Robert Pattinson Nasıl Giyinecek?"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/ozel-icerikler/kadir-kaymakci/3929037-james-bond-a-en-cok-benzeyen-james-bond-robert-pattinson",
-          "title": "James Bond'a en çok benzeyen James Bond: Robert Pattinson!"
-        }
-      ],
-      "publisher_domains": [
-        "gq.com.tr",
-        "haberturk.com"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Tarık Papuççuoğlu huzurevi iddialarını yalanladı: 'Sigortalı çalıştığım şirketin misafirhanesinde kalıyorum'",
-      "normalized_title": "tarik papuccuoglu huzurevi iddialarini yalanladi sigortali calistigim sirketin misafirhanesinde kaliyorum",
-      "url": "https://www.cumhuriyet.com.tr/magazin/tarik-papuccuoglu-huzurevi-iddialarini-yalanladi-sigortali-calistigim-sirketin-misafirhanesinde-kaliyorum-2557462",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.838374+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/yatim-katim-oldu-simdi-bir-sirketin-misafirhanesinde-kaliyorum-43383212",
-          "title": "Usta oyuncu Tarık Papuççuoğlu: Yatım katım oldu şimdi bir şirketin misafirhanesinde kalıyorum"
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/tarik-papuccuoglu-huzurevi-iddialarini-yalanladi-sigortali-calistigim-sirketin-misafirhanesinde-kaliyorum-2557462",
-          "title": "Tarık Papuççuoğlu huzurevi iddialarını yalanladı: 'Sigortalı çalıştığım şirketin misafirhanesinde kalıyorum'"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Mark Ruffalo ve Tilda Swinton'dan İranlı yönetmen Cafer Penahi için dayanışma çağrısı",
-      "normalized_title": "mark ruffalo ve tilda swinton dan iranli yonetmen cafer penahi icin dayanisma cagrisi",
-      "url": "https://gazeteoksijen.com/o2/mark-ruffalo-ve-tilda-swintondan-iranli-yonetmen-cafer-penahi-icin-dayanisma-cagrisi-296426",
-      "source": "gazeteoksijen.com",
-      "source_role": "publisher",
-      "source_domain": "gazeteoksijen.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.837852+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "gazeteoksijen.com",
-          "source_domain": "gazeteoksijen.com",
-          "url": "https://gazeteoksijen.com/o2/mark-ruffalo-ve-tilda-swintondan-iranli-yonetmen-cafer-penahi-icin-dayanisma-cagrisi-296426",
-          "title": "Mark Ruffalo ve Tilda Swinton'dan İranlı yönetmen Cafer Penahi için dayanışma çağrısı"
-        }
-      ],
-      "publisher_domains": [
-        "gazeteoksijen.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 2,
-      "discovery_item_count": 1,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.5,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ediz Hun 87'nci yaşına adım attı: Eşi Berna Hun ile fotoğrafını paylaştı",
-      "normalized_title": "ediz hun 87 nci yasina adim atti esi berna hun ile fotografini paylasti",
-      "url": "https://www.cumhuriyet.com.tr/magazin/ediz-hun-87-nci-yasina-adim-atti-esi-berna-hun-ile-fotografini-paylasti-2558518",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.838041+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/ediz-hun-87-nci-yasina-adim-atti-esi-berna-hun-ile-fotografini-paylasti-2558518",
-          "title": "Ediz Hun 87'nci yaşına adım attı: Eşi Berna Hun ile fotoğrafını paylaştı"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 2,
-      "discovery_item_count": 1,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.5,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Seda Bakan ve ailesi yeni yuvasına kavuştu",
-      "normalized_title": "seda bakan ve ailesi yeni yuvasina kavustu",
-      "url": "https://www.haberturk.com/magazin/foto/seda-bakan-ve-ailesi-yeni-yuvasina-kavustu-3929158",
-      "source": "haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.838541+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/seda-bakan-ve-ailesi-yeni-yuvasina-kavustu-3929158",
-          "title": "Seda Bakan ve ailesi yeni yuvasına kavuştu"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 2,
-      "discovery_item_count": 1,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.5,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Sıla Gençoğlu hayatındaki kırılma anlarını anlattı: Kötü ilişkiler beni kendime getirdi!",
-      "normalized_title": "sila gencoglu hayatindaki kirilma anlarini anlatti kotu iliskiler beni kendime getirdi",
-      "url": "https://www.cnnturk.com/magazin/galeri/sila-gencoglu-hayatindaki-kirilma-anlarini-anlatti-kotu-iliskiler-beni-kendime-getirdi-3496400",
-      "source": "cnnturk.com",
-      "source_role": "publisher",
-      "source_domain": "cnnturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.838623+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cnnturk.com",
-          "source_domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/magazin/galeri/sila-gencoglu-hayatindaki-kirilma-anlarini-anlatti-kotu-iliskiler-beni-kendime-getirdi-3496400",
-          "title": "Sıla Gençoğlu hayatındaki kırılma anlarını anlattı: Kötü ilişkiler beni kendime getirdi!"
-        }
-      ],
-      "publisher_domains": [
-        "cnnturk.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 2,
-      "discovery_item_count": 1,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.5,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
       "title": "İkinci nikahta keramet var",
       "normalized_title": "ikinci nikahta keramet var",
       "url": "https://www.hurriyet.com.tr/kelebek/magazin/ikinci-nikahta-keramet-var-43387581",
@@ -709,7 +575,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.836441+00:00",
+      "collected_at": "2026-11-24T12:09:12.357911+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -737,16 +603,53 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Melania Trump fotoğraflarını satışa çıkardı",
-      "normalized_title": "melania trump fotograflarini satisa cikardi",
-      "url": "https://www.hurriyet.com.tr/dunya/melania-trump-fotograflarini-satisa-cikardi-43388295",
+      "title": "Malikanedeki gizli düğün: Ünlü şarkıcı 5 yıl sonra evlendi",
+      "normalized_title": "malikanedeki gizli dugun unlu sarkici 5 yil sonra evlendi",
+      "url": "https://www.sozcu.com.tr/malikanedeki-gizli-dugun-miley-cyrus-5-yil-sonra-evlendi-p383685",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T12:09:12.358025+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/malikanedeki-gizli-dugun-miley-cyrus-5-yil-sonra-evlendi-p383685",
+          "title": "Malikanedeki gizli düğün: Ünlü şarkıcı 5 yıl sonra evlendi"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Pınar Sabancı: Kendi şansımdan vermek isterdim",
+      "normalized_title": "pinar sabanci kendi sansimdan vermek isterdim",
+      "url": "https://www.hurriyet.com.tr/kelebek/stil/pinar-sabanci-kendi-sansimdan-vermek-isterdim-43388733",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.836556+00:00",
+      "collected_at": "2026-11-24T12:09:12.358150+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -754,8 +657,8 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/dunya/melania-trump-fotograflarini-satisa-cikardi-43388295",
-          "title": "Melania Trump fotoğraflarını satışa çıkardı"
+          "url": "https://www.hurriyet.com.tr/kelebek/stil/pinar-sabanci-kendi-sansimdan-vermek-isterdim-43388733",
+          "title": "Pınar Sabancı: Kendi şansımdan vermek isterdim"
         }
       ],
       "publisher_domains": [
@@ -774,29 +677,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "10 yıllık filmin gurur gecesi",
-      "normalized_title": "10 yillik filmin gurur gecesi",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/10-yillik-filmin-gurur-gecesi-43387919",
-      "source": "hurriyet.com.tr",
+      "title": "Gülse Birsel'den 2 Aile Arasında'ya dair ilk ipuçları. \"Rol dengeleri birinci filmle aynı\"",
+      "normalized_title": "gulse birsel den 2 aile arasinda ya dair ilk ipuclari rol dengeleri birinci filmle ayni",
+      "url": "https://www.ntv.com.tr/yasam/galeri-gulse-birselden-2-aile-arasindaya-dair-ilk-ipuclari-rol-dengeleri-birinci-filmle-ayni-1752393",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.836601+00:00",
+      "collected_at": "2026-11-24T12:09:12.358337+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/10-yillik-filmin-gurur-gecesi-43387919",
-          "title": "10 yıllık filmin gurur gecesi"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-gulse-birselden-2-aile-arasindaya-dair-ilk-ipuclari-rol-dengeleri-birinci-filmle-ayni-1752393",
+          "title": "Gülse Birsel'den 2 Aile Arasında'ya dair ilk ipuçları. \"Rol dengeleri birinci filmle aynı\""
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr"
+        "ntv.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -811,29 +714,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Eski eşten sürpriz destek",
-      "normalized_title": "eski esten surpriz destek",
-      "url": "https://www.milliyet.com.tr/magazin/eski-esten-surpriz-destek-7705857",
-      "source": "milliyet.com.tr",
+      "title": "2 Aile Arasında Gişeyi Sallamaya Hazırlanıyor: 45 Bin Bilet Satıldı, Ek Seanslar Açılıyor!",
+      "normalized_title": "2 aile arasinda giseyi sallamaya hazirlaniyor 45 bin bilet satildi ek seanslar aciliyor",
+      "url": "https://www.egeyedair.com/2-aile-arasinda-giseyi-sallamaya-hazirlaniyor-45-bin-bilet-satildi-ek-seanslar-aciliyor/52838",
+      "source": "egeyedair.com",
       "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
+      "source_domain": "egeyedair.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.836678+00:00",
+      "collected_at": "2026-11-24T12:09:12.358405+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/eski-esten-surpriz-destek-7705857",
-          "title": "Eski eşten sürpriz destek"
+          "source": "egeyedair.com",
+          "source_domain": "egeyedair.com",
+          "url": "https://www.egeyedair.com/2-aile-arasinda-giseyi-sallamaya-hazirlaniyor-45-bin-bilet-satildi-ek-seanslar-aciliyor/52838",
+          "title": "2 Aile Arasında Gişeyi Sallamaya Hazırlanıyor: 45 Bin Bilet Satıldı, Ek Seanslar Açılıyor!"
         }
       ],
       "publisher_domains": [
-        "milliyet.com.tr"
+        "egeyedair.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -848,29 +751,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Emre Kınay'ın kızını görenler şaşkına döndü! Annesinin kopyası",
-      "normalized_title": "emre kinay in kizini gorenler saskina dondu annesinin kopyasi",
-      "url": "https://www.sondakika.com/haber/haber-emre-kinayin-kizini-gorenler-saskina-dondu-20455151/",
-      "source": "sondakika.com",
+      "title": "Kızılcık Şerbeti'nden ayrılan oyuncunun yeni dizisi belli oldu",
+      "normalized_title": "kizilcik serbeti nden ayrilan oyuncunun yeni dizisi belli oldu",
+      "url": "https://www.sozcu.com.tr/kizilcik-serbeti-nden-ayrilan-oyuncunun-yeni-dizisi-belli-oldu-p383774",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "sondakika.com",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.837022+00:00",
+      "collected_at": "2026-11-24T12:09:12.358462+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sondakika.com",
-          "source_domain": "sondakika.com",
-          "url": "https://www.sondakika.com/haber/haber-emre-kinayin-kizini-gorenler-saskina-dondu-20455151/",
-          "title": "Emre Kınay'ın kızını görenler şaşkına döndü! Annesinin kopyası"
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/kizilcik-serbeti-nden-ayrilan-oyuncunun-yeni-dizisi-belli-oldu-p383774",
+          "title": "Kızılcık Şerbeti'nden ayrılan oyuncunun yeni dizisi belli oldu"
         }
       ],
       "publisher_domains": [
-        "sondakika.com"
+        "sozcu.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -885,29 +788,103 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Dilan Çiçek Deniz: Hayat arkadaşımla uzun yol gezisi",
-      "normalized_title": "dilan cicek deniz hayat arkadasimla uzun yol gezisi",
-      "url": "https://www.haberturk.com/magazin/foto/dilan-cicek-deniz-hayat-arkadasimla-uzun-yol-gezisi-3928882/5",
-      "source": "haberturk.com",
+      "title": "Uzak Şehir'in Ardından Kararını Verdi: Ferit Kaya TV8'in Yeni Dizisi Mükemmel Anneler İle Anlaştı!",
+      "normalized_title": "uzak sehir in ardindan kararini verdi ferit kaya tv8 in yeni dizisi mukemmel anneler ile anlasti",
+      "url": "https://www.gecce.com.tr/haber/uzak-sehirin-ardindan-kararini-verdi-ferit-kaya-tv8in-yeni-dizisi-mukemmel-anneler-ile-anlasti-333956.html",
+      "source": "gecce.com.tr",
       "source_role": "publisher",
-      "source_domain": "haberturk.com",
+      "source_domain": "gecce.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.837134+00:00",
+      "collected_at": "2026-11-24T12:09:12.358640+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/dilan-cicek-deniz-hayat-arkadasimla-uzun-yol-gezisi-3928882/5",
-          "title": "Dilan Çiçek Deniz: Hayat arkadaşımla uzun yol gezisi"
+          "source": "gecce.com.tr",
+          "source_domain": "gecce.com.tr",
+          "url": "https://www.gecce.com.tr/haber/uzak-sehirin-ardindan-kararini-verdi-ferit-kaya-tv8in-yeni-dizisi-mukemmel-anneler-ile-anlasti-333956.html",
+          "title": "Uzak Şehir'in Ardından Kararını Verdi: Ferit Kaya TV8'in Yeni Dizisi Mükemmel Anneler İle Anlaştı!"
         }
       ],
       "publisher_domains": [
-        "haberturk.com"
+        "gecce.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ferit Kaya, ‘Mükemmel Anneler’de Deniz Çakır’la Partner Oluyor",
+      "normalized_title": "ferit kaya mukemmel anneler de deniz cakir la partner oluyor",
+      "url": "https://episodedergi.com/ferit-kaya-mukemmel-anneler-dizisinde/",
+      "source": "episodedergi.com",
+      "source_role": "publisher",
+      "source_domain": "episodedergi.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T12:09:12.358699+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "episodedergi.com",
+          "source_domain": "episodedergi.com",
+          "url": "https://episodedergi.com/ferit-kaya-mukemmel-anneler-dizisinde/",
+          "title": "Ferit Kaya, ‘Mükemmel Anneler’de Deniz Çakır’la Partner Oluyor"
+        }
+      ],
+      "publisher_domains": [
+        "episodedergi.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Emre Kınay ve Emine Ün'ün kızı Duru büyüdü: 22 yaşındaki güzelliğiyle annesinin kopyası...",
+      "normalized_title": "emre kinay ve emine un un kizi duru buyudu 22 yasindaki guzelligiyle annesinin kopyasi",
+      "url": "https://www.haber3.com/foto-galeri/magazin/emre-kinay-ve-emine-unun-kizi-duru-buyudu-22-yasindaki-guzelligiyle-annesinin-kopyasi-galeri-6269768",
+      "source": "haber3.com",
+      "source_role": "publisher",
+      "source_domain": "haber3.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T12:09:12.358973+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haber3.com",
+          "source_domain": "haber3.com",
+          "url": "https://www.haber3.com/foto-galeri/magazin/emre-kinay-ve-emine-unun-kizi-duru-buyudu-22-yasindaki-guzelligiyle-annesinin-kopyasi-galeri-6269768",
+          "title": "Emre Kınay ve Emine Ün'ün kızı Duru büyüdü: 22 yaşındaki güzelliğiyle annesinin kopyası..."
+        }
+      ],
+      "publisher_domains": [
+        "haber3.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -931,7 +908,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.837221+00:00",
+      "collected_at": "2026-11-24T12:09:12.359042+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -968,7 +945,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.837253+00:00",
+      "collected_at": "2026-11-24T12:09:12.359095+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1005,7 +982,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.837290+00:00",
+      "collected_at": "2026-11-24T12:09:12.359152+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1042,7 +1019,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.837323+00:00",
+      "collected_at": "2026-11-24T12:09:12.359209+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1079,7 +1056,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.837355+00:00",
+      "collected_at": "2026-11-24T12:09:12.359263+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1116,7 +1093,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.837381+00:00",
+      "collected_at": "2026-11-24T12:09:12.359304+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1153,7 +1130,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.837419+00:00",
+      "collected_at": "2026-11-24T12:09:12.359368+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1190,7 +1167,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.837444+00:00",
+      "collected_at": "2026-11-24T12:09:12.359407+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1218,6 +1195,117 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "Haftanın dört günü havada: Seray Sever bir İstanbul'da bir Bodrum'da",
+      "normalized_title": "haftanin dort gunu havada seray sever bir istanbul da bir bodrum da",
+      "url": "https://www.sozcu.com.tr/haftanin-dort-gunu-havada-seray-sever-bir-istanbul-da-bir-bodrum-da-p383955",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T12:09:12.359468+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/haftanin-dort-gunu-havada-seray-sever-bir-istanbul-da-bir-bodrum-da-p383955",
+          "title": "Haftanın dört günü havada: Seray Sever bir İstanbul'da bir Bodrum'da"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Bodrum ve İstanbul arasında mekik dokuyor! Seray Sever’den ikizleri ve yoğun temposu hakkında açıklama...",
+      "normalized_title": "bodrum ve istanbul arasinda mekik dokuyor seray sever den ikizleri ve yogun temposu hakkinda aciklama",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/bodrum-ve-istanbul-arasinda-mekik-dokuyor-seray-severden-ikizleri-ve-yogun-temposu-hakkinda-aciklama",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T12:09:12.359546+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/bodrum-ve-istanbul-arasinda-mekik-dokuyor-seray-severden-ikizleri-ve-yogun-temposu-hakkinda-aciklama",
+          "title": "Bodrum ve İstanbul arasında mekik dokuyor! Seray Sever’den ikizleri ve yoğun temposu hakkında açıklama..."
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ayça Ayşin Turan Kimdir? - Defne",
+      "normalized_title": "ayca aysin turan kimdir defne",
+      "url": "https://www.showtv.com.tr/oyuncu/ayca-aysin-turan/8219",
+      "source": "showtv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "showtv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T12:09:12.359594+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "showtv.com.tr",
+          "source_domain": "showtv.com.tr",
+          "url": "https://www.showtv.com.tr/oyuncu/ayca-aysin-turan/8219",
+          "title": "Ayça Ayşin Turan Kimdir? - Defne"
+        }
+      ],
+      "publisher_domains": [
+        "showtv.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Murat Ceylan Cumhuriyet Pazar'da: 'Sahnedeki Murat da televizyondaki Murat da benim'",
       "normalized_title": "murat ceylan cumhuriyet pazar da sahnedeki murat da televizyondaki murat da benim",
       "url": "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/murat-ceylan-cumhuriyet-pazar-da-sahnedeki-murat-da-televizyondaki-murat-da-benim-2558089",
@@ -1227,7 +1315,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.837481+00:00",
+      "collected_at": "2026-11-24T12:09:12.359654+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1241,80 +1329,6 @@
       ],
       "publisher_domains": [
         "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Kızımın evlendiğini gazeteden öğrendim",
-      "normalized_title": "kizimin evlendigini gazeteden ogrendim",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/kizimin-evlendigini-gazeteden-ogrendim-43386658",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.837511+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/kizimin-evlendigini-gazeteden-ogrendim-43386658",
-          "title": "Kızımın evlendiğini gazeteden öğrendim"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Muhteşem kadınlardan muhteşem hikayeler",
-      "normalized_title": "muhtesem kadinlardan muhtesem hikayeler",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/muhtesem-kadinlardan-muhtesem-hikayeler-43387529",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T00:15:36.837539+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/muhtesem-kadinlardan-muhtesem-hikayeler-43387529",
-          "title": "Muhteşem kadınlardan muhteşem hikayeler"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
