@@ -1,97 +1,118 @@
 {
-  "generated_at": "2026-11-24T18:02:22.230015+00:00",
+  "generated_at": "2026-11-24T22:43:24.850084+00:00",
   "candidate_count": 74,
-  "event_group_count": 44,
-  "multi_publisher_event_count": 7,
+  "event_group_count": 45,
+  "multi_publisher_event_count": 10,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Uluslararası Emmy Ödülleri'nde kazananlar belli oldu. Türkiye'den Leyla dizisi de ödül aldı",
-      "normalized_title": "uluslararasi emmy odulleri nde kazananlar belli oldu turkiye den leyla dizisi de odul aldi",
-      "url": "https://www.ntv.com.tr/yasam/galeri-uluslararasi-emmy-odullerinde-kazananlar-belli-oldu-turkiyeden-leyla-dizisi-de-odul-aldi-1752300",
-      "source": "ntv.com.tr",
+      "title": "Son Dakika... İstanbul'da ünlülere yönelik 'uyuşturucu' operasyonu: Gözaltına alınan isimler arasında Özcan Deniz ve Deniz Çakır da var!",
+      "normalized_title": "son dakika istanbul da unlulere yonelik uyusturucu operasyonu gozaltina alinan isimler arasinda ozcan deniz ve deniz cakir da var",
+      "url": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-istanbul-da-yeni-unlulere-yonelik-uyusturucu-operasyonu-gozaltina-alinan-isimler-arasinda-ozcan-deniz-de-var-2559119",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.531044+00:00",
+      "collected_at": "2026-11-24T22:42:47.113567+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
+        {
+          "source": "gazeteoksijen.com",
+          "source_domain": "gazeteoksijen.com",
+          "url": "https://gazeteoksijen.com/turkiye/unlulere-uyusturucu-operasyonu-ozcan-deniz-ve-deniz-cakir-dahil-35-kisiye-gozalti-karari-297159",
+          "title": "Ünlülere uyuşturucu operasyonu: Özcan Deniz ve Deniz Çakır dahil 35 kişiye gözaltı kararı"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/deniz-cakir-ozcan-deniz-gozaltina-mi-alindi-p384124",
+          "title": "Ünlülere yeni uyuşturucu operasyonu! Özcan Deniz, Burcu Özberk ve Deniz Çakır gözaltına alındı"
+        },
         {
           "source": "ntv.com.tr",
           "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-uluslararasi-emmy-odullerinde-kazananlar-belli-oldu-turkiyeden-leyla-dizisi-de-odul-aldi-1752300",
-          "title": "Uluslararası Emmy Ödülleri'nde kazananlar belli oldu. Türkiye'den Leyla dizisi de ödül aldı"
+          "url": "https://www.ntv.com.tr/turkiye/unlulere-yonelik-yeni-uyusturucu-operasyonu-ozcan-deniz-gozaltina-alindi-1752434",
+          "title": "Ünlülere yönelik yeni uyuşturucu operasyonu: Özcan Deniz, Deniz Çakır ve Burcu Özberk gözaltında"
+        },
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-istanbul-da-yeni-unlulere-yonelik-uyusturucu-operasyonu-gozaltina-alinan-isimler-arasinda-ozcan-deniz-de-var-2559119",
+          "title": "Son Dakika... İstanbul'da ünlülere yönelik 'uyuşturucu' operasyonu: Gözaltına alınan isimler arasında Özcan Deniz ve Deniz Çakır da var!"
         }
       ],
       "publisher_domains": [
-        "ntv.com.tr"
+        "cumhuriyet.com.tr",
+        "gazeteoksijen.com",
+        "ntv.com.tr",
+        "sozcu.com.tr"
       ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 2,
-      "discovery_item_count": 1,
+      "publisher_count": 4,
+      "direct_article_count": 4,
+      "event_member_count": 4,
+      "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 10.5,
+      "popularity_score": 40.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
-      "coverage_label": "single_publisher"
+      "coverage_label": "multi_publisher"
     },
     {
-      "title": "Steven Spielberg'in Yeni Filmi: Western Sürprizi!",
-      "normalized_title": "steven spielberg in yeni filmi western surprizi",
-      "url": "https://konsolkosesi.com/post/steven-spielberg-yeni-filmi-the-heart-in-winter/",
-      "source": "konsolkosesi.com",
+      "title": "Rihanna ve A$AP Rocky Kusursuz Bir Uyum İçinde",
+      "normalized_title": "rihanna ve a ap rocky kusursuz bir uyum icinde",
+      "url": "https://vogue.com.tr/unlu-stili/rihanna-ve-a-ap-rocky-kusursuz-bir-uyum-icinde",
+      "source": "vogue.com.tr",
       "source_role": "publisher",
-      "source_domain": "konsolkosesi.com",
+      "source_domain": "vogue.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.532706+00:00",
+      "collected_at": "2026-11-24T22:42:47.113630+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "konsolkosesi.com",
-          "source_domain": "konsolkosesi.com",
-          "url": "https://konsolkosesi.com/post/steven-spielberg-yeni-filmi-the-heart-in-winter/",
-          "title": "Steven Spielberg'in Yeni Filmi: Western Sürprizi!"
+          "source": "vogue.com.tr",
+          "source_domain": "vogue.com.tr",
+          "url": "https://vogue.com.tr/unlu-stili/rihanna-ve-a-ap-rocky-kusursuz-bir-uyum-icinde",
+          "title": "Rihanna ve A$AP Rocky Kusursuz Bir Uyum İçinde"
         }
       ],
       "publisher_domains": [
-        "konsolkosesi.com"
+        "vogue.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
-      "event_member_count": 2,
-      "discovery_item_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 10.5,
+      "popularity_score": 10.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Sinem Ünsal ve Ozan Akbaba kırmızı halıda! Emmy’de “Uzak Şehir” onuru",
-      "normalized_title": "sinem unsal ve ozan akbaba kirmizi halida emmy de uzak sehir onuru",
-      "url": "https://www.hurriyet.com.tr/kelebek/sinem-unsal-ve-ozan-akbaba-kirmizi-halida-emmyde-uzak-sehir-onuru-43388659",
+      "title": "İkinci nikahta keramet var",
+      "normalized_title": "ikinci nikahta keramet var",
+      "url": "https://www.hurriyet.com.tr/kelebek/magazin/ikinci-nikahta-keramet-var-43387581",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.531136+00:00",
+      "collected_at": "2026-11-24T22:42:47.113779+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -99,8 +120,8 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/sinem-unsal-ve-ozan-akbaba-kirmizi-halida-emmyde-uzak-sehir-onuru-43388659",
-          "title": "Sinem Ünsal ve Ozan Akbaba kırmızı halıda! Emmy’de “Uzak Şehir” onuru"
+          "url": "https://www.hurriyet.com.tr/kelebek/magazin/ikinci-nikahta-keramet-var-43387581",
+          "title": "İkinci nikahta keramet var"
         }
       ],
       "publisher_domains": [
@@ -121,43 +142,101 @@
   ],
   "event_groups_preview": [
     {
-      "title": "Will Smith ve Jada Pinkett Smith'in 42 milyon dolarlık malikanesindeki müştemilatta yangın çıktı",
-      "normalized_title": "will smith ve jada pinkett smith in 42 milyon dolarlik malikanesindeki mustemilatta yangin cikti",
-      "url": "https://www.patronlardunyasi.com/will-smith-ve-jada-pinkett-smithin-42-milyon-dolarlik-malikanesindeki-mustemilatta-yangin-cikti",
-      "source": "patronlardunyasi.com",
+      "title": "Son Dakika... İstanbul'da ünlülere yönelik 'uyuşturucu' operasyonu: Gözaltına alınan isimler arasında Özcan Deniz ve Deniz Çakır da var!",
+      "normalized_title": "son dakika istanbul da unlulere yonelik uyusturucu operasyonu gozaltina alinan isimler arasinda ozcan deniz ve deniz cakir da var",
+      "url": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-istanbul-da-yeni-unlulere-yonelik-uyusturucu-operasyonu-gozaltina-alinan-isimler-arasinda-ozcan-deniz-de-var-2559119",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "patronlardunyasi.com",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.533241+00:00",
+      "collected_at": "2026-11-24T22:42:47.113567+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
+          "source": "gazeteoksijen.com",
+          "source_domain": "gazeteoksijen.com",
+          "url": "https://gazeteoksijen.com/turkiye/unlulere-uyusturucu-operasyonu-ozcan-deniz-ve-deniz-cakir-dahil-35-kisiye-gozalti-karari-297159",
+          "title": "Ünlülere uyuşturucu operasyonu: Özcan Deniz ve Deniz Çakır dahil 35 kişiye gözaltı kararı"
+        },
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/deniz-cakir-ozcan-deniz-gozaltina-mi-alindi-p384124",
+          "title": "Ünlülere yeni uyuşturucu operasyonu! Özcan Deniz, Burcu Özberk ve Deniz Çakır gözaltına alındı"
+        },
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/turkiye/unlulere-yonelik-yeni-uyusturucu-operasyonu-ozcan-deniz-gozaltina-alindi-1752434",
+          "title": "Ünlülere yönelik yeni uyuşturucu operasyonu: Özcan Deniz, Deniz Çakır ve Burcu Özberk gözaltında"
+        },
+        {
           "source": "cumhuriyet.com.tr",
           "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/will-smith-in-42-milyon-dolarlik-malikanesinde-ikinci-kez-yangin-cikti-2558890",
-          "title": "Will Smith'in 42 milyon dolarlık malikanesinde ikinci kez yangın çıktı"
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/will-smith-in-42-milyon-dolarlik-malikanesi-yanginda-kul-oldu-3929511",
-          "title": "Will Smith'in 42 milyon dolarlık malikanesi yangında kül oldu"
-        },
-        {
-          "source": "patronlardunyasi.com",
-          "source_domain": "patronlardunyasi.com",
-          "url": "https://www.patronlardunyasi.com/will-smith-ve-jada-pinkett-smithin-42-milyon-dolarlik-malikanesindeki-mustemilatta-yangin-cikti",
-          "title": "Will Smith ve Jada Pinkett Smith'in 42 milyon dolarlık malikanesindeki müştemilatta yangın çıktı"
+          "url": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-istanbul-da-yeni-unlulere-yonelik-uyusturucu-operasyonu-gozaltina-alinan-isimler-arasinda-ozcan-deniz-de-var-2559119",
+          "title": "Son Dakika... İstanbul'da ünlülere yönelik 'uyuşturucu' operasyonu: Gözaltına alınan isimler arasında Özcan Deniz ve Deniz Çakır da var!"
         }
       ],
       "publisher_domains": [
         "cumhuriyet.com.tr",
+        "gazeteoksijen.com",
+        "ntv.com.tr",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 4,
+      "direct_article_count": 4,
+      "event_member_count": 4,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 40.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Emre Kınay'dan kızına duygusal doğum günü mesajı: Ömrüm sana feda olsun",
+      "normalized_title": "emre kinay dan kizina duygusal dogum gunu mesaji omrum sana feda olsun",
+      "url": "https://www.milliyet.com.tr/magazin/galeri/emre-kinaydan-kizina-duygusal-dogum-gunu-mesaji-omrum-sana-feda-olsun-7706046",
+      "source": "milliyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "milliyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T22:42:47.114426+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/galeri-omrum-sana-feda-olsun-canim-kizim-43387553",
+          "title": "\"Ömrüm sana feda olsun canım kızım\""
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/emre-kinay-dan-kizi-duru-kinay-a-omrum-sana-feda-olsun-canim-kizim-3929369",
+          "title": "Emre Kınay'dan kızı Duru Kınay'a: Ömrüm sana feda olsun canım kızım"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/emre-kinaydan-kizina-duygusal-dogum-gunu-mesaji-omrum-sana-feda-olsun-7706046",
+          "title": "Emre Kınay'dan kızına duygusal doğum günü mesajı: Ömrüm sana feda olsun"
+        }
+      ],
+      "publisher_domains": [
         "haberturk.com",
-        "patronlardunyasi.com"
+        "hurriyet.com.tr",
+        "milliyet.com.tr"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
@@ -181,7 +260,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.534049+00:00",
+      "collected_at": "2026-11-24T22:42:47.116082+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -223,44 +302,139 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Emre Kınay'dan kızına duygusal doğum günü mesajı: Ömrüm sana feda olsun",
-      "normalized_title": "emre kinay dan kizina duygusal dogum gunu mesaji omrum sana feda olsun",
-      "url": "https://www.milliyet.com.tr/magazin/galeri/emre-kinaydan-kizina-duygusal-dogum-gunu-mesaji-omrum-sana-feda-olsun-7706046",
-      "source": "milliyet.com.tr",
+      "title": "Will Smith ve Jada Pinkett Smith'in 42 milyon dolarlık malikanesindeki müştemilatta yangın çıktı",
+      "normalized_title": "will smith ve jada pinkett smith in 42 milyon dolarlik malikanesindeki mustemilatta yangin cikti",
+      "url": "https://www.patronlardunyasi.com/will-smith-ve-jada-pinkett-smithin-42-milyon-dolarlik-malikanesindeki-mustemilatta-yangin-cikti",
+      "source": "patronlardunyasi.com",
       "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
+      "source_domain": "patronlardunyasi.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.532230+00:00",
+      "collected_at": "2026-11-24T22:42:47.117344+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/emre-kinay-dan-kizi-duru-kinay-a-omrum-sana-feda-olsun-canim-kizim-3929369",
-          "title": "Emre Kınay'dan kızı Duru Kınay'a: Ömrüm sana feda olsun canım kızım"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/yasam/will-smith-in-42-milyon-dolarlik-malikanesinde-ikinci-kez-yangin-cikti-2558890",
+          "title": "Will Smith'in 42 milyon dolarlık malikanesinde ikinci kez yangın çıktı"
         },
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/emre-kinaydan-kizina-duygusal-dogum-gunu-mesaji-omrum-sana-feda-olsun-7706046",
-          "title": "Emre Kınay'dan kızına duygusal doğum günü mesajı: Ömrüm sana feda olsun"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/will-smith-in-42-milyon-dolarlik-malikanesi-yanginda-kul-oldu-3929511",
+          "title": "Will Smith'in 42 milyon dolarlık malikanesi yangında kül oldu"
+        },
+        {
+          "source": "patronlardunyasi.com",
+          "source_domain": "patronlardunyasi.com",
+          "url": "https://www.patronlardunyasi.com/will-smith-ve-jada-pinkett-smithin-42-milyon-dolarlik-malikanesindeki-mustemilatta-yangin-cikti",
+          "title": "Will Smith ve Jada Pinkett Smith'in 42 milyon dolarlık malikanesindeki müştemilatta yangın çıktı"
         }
       ],
       "publisher_domains": [
+        "cumhuriyet.com.tr",
         "haberturk.com",
-        "milliyet.com.tr"
+        "patronlardunyasi.com"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Şarkıcı Miley Cyrus, 4 yıllık ilişki yaşadığı Maxx Morando ile evlendi",
+      "normalized_title": "sarkici miley cyrus 4 yillik iliski yasadigi maxx morando ile evlendi",
+      "url": "https://tr.euronews.com/2026/11/22/sarkici-miley-cyrus-4-yillik-iliski-yasadigi-maxx-morando-ile-evlendi",
+      "source": "tr.euronews.com",
+      "source_role": "publisher",
+      "source_domain": "tr.euronews.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T22:42:47.113913+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/miley-cyrus-evlendi-maxx-morando-ile-dugununden-ilk-fotograflari-paylasti-2558538",
+          "title": "Miley Cyrus evlendi: Maxx Morando ile düğününden ilk fotoğrafları paylaştı"
+        },
+        {
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "url": "https://tr.euronews.com/2026/11/22/sarkici-miley-cyrus-4-yillik-iliski-yasadigi-maxx-morando-ile-evlendi",
+          "title": "Şarkıcı Miley Cyrus, 4 yıllık ilişki yaşadığı Maxx Morando ile evlendi"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "tr.euronews.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
-      "event_member_count": 3,
-      "discovery_item_count": 1,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 20.5,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Uluslararası Emmy Ödülleri'nde kazananlar belli oldu. Türkiye'den Leyla dizisi de ödül aldı",
+      "normalized_title": "uluslararasi emmy odulleri nde kazananlar belli oldu turkiye den leyla dizisi de odul aldi",
+      "url": "https://www.ntv.com.tr/yasam/galeri-uluslararasi-emmy-odullerinde-kazananlar-belli-oldu-turkiyeden-leyla-dizisi-de-odul-aldi-1752300",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T22:42:47.113992+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-uluslararasi-emmy-odullerinde-kazananlar-belli-oldu-turkiyeden-leyla-dizisi-de-odul-aldi-1752300",
+          "title": "Uluslararası Emmy Ödülleri'nde kazananlar belli oldu. Türkiye'den Leyla dizisi de ödül aldı"
+        },
+        {
+          "source": "aa.com.tr",
+          "source_domain": "aa.com.tr",
+          "url": "https://aa.com.tr/tr/kultur/leyla-dizisi-54-uluslararasi-emmy-odullerinde-en-iyi-telenovela-secildi/4135363",
+          "title": "\"Leyla\" dizisi 54. Uluslararası Emmy Ödülleri'nde \"En İyi Telenovela\" seçildi"
+        }
+      ],
+      "publisher_domains": [
+        "aa.com.tr",
+        "ntv.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -276,7 +450,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.531844+00:00",
+      "collected_at": "2026-11-24T22:42:47.114711+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -311,50 +485,6 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Cansu Tosun'dan Erkan Kolçak Köstendil'e sürpriz! Eski eşini galada yalnız bırakmadı",
-      "normalized_title": "cansu tosun dan erkan kolcak kostendil e surpriz eski esini galada yalniz birakmadi",
-      "url": "https://www.posta.com.tr/galeri/cansu-tosundan-erkan-kolcak-kostendile-surpriz-eski-esini-galada-yalniz-birakmadi-3067498",
-      "source": "posta.com.tr",
-      "source_role": "publisher",
-      "source_domain": "posta.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.533517+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/eski-esi-cansu-tosun-dan-erkan-kolcak-kostendil-e-surpriz-3929147",
-          "title": "Eski eşi Cansu Tosun'dan Erkan Kolçak Köstendil'e sürpriz"
-        },
-        {
-          "source": "posta.com.tr",
-          "source_domain": "posta.com.tr",
-          "url": "https://www.posta.com.tr/galeri/cansu-tosundan-erkan-kolcak-kostendile-surpriz-eski-esini-galada-yalniz-birakmadi-3067498",
-          "title": "Cansu Tosun'dan Erkan Kolçak Köstendil'e sürpriz! Eski eşini galada yalnız bırakmadı"
-        }
-      ],
-      "publisher_domains": [
-        "haberturk.com",
-        "posta.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
       "title": "Mark Ruffalo ve Tilda Swinton'dan İranlı yönetmen Cafer Penahi için dayanışma çağrısı",
       "normalized_title": "mark ruffalo ve tilda swinton dan iranli yonetmen cafer penahi icin dayanisma cagrisi",
       "url": "https://gazeteoksijen.com/o2/mark-ruffalo-ve-tilda-swintondan-iranli-yonetmen-cafer-penahi-icin-dayanisma-cagrisi-296426",
@@ -364,7 +494,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.533659+00:00",
+      "collected_at": "2026-11-24T22:42:47.115681+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -399,6 +529,50 @@
       "coverage_label": "multi_publisher"
     },
     {
+      "title": "Cansu Tosun'dan Erkan Kolçak Köstendil'e sürpriz! Eski eşini galada yalnız bırakmadı",
+      "normalized_title": "cansu tosun dan erkan kolcak kostendil e surpriz eski esini galada yalniz birakmadi",
+      "url": "https://www.posta.com.tr/galeri/cansu-tosundan-erkan-kolcak-kostendile-surpriz-eski-esini-galada-yalniz-birakmadi-3067498",
+      "source": "posta.com.tr",
+      "source_role": "publisher",
+      "source_domain": "posta.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T22:42:47.116819+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/eski-esi-cansu-tosun-dan-erkan-kolcak-kostendil-e-surpriz-3929147",
+          "title": "Eski eşi Cansu Tosun'dan Erkan Kolçak Köstendil'e sürpriz"
+        },
+        {
+          "source": "posta.com.tr",
+          "source_domain": "posta.com.tr",
+          "url": "https://www.posta.com.tr/galeri/cansu-tosundan-erkan-kolcak-kostendile-surpriz-eski-esini-galada-yalniz-birakmadi-3067498",
+          "title": "Cansu Tosun'dan Erkan Kolçak Köstendil'e sürpriz! Eski eşini galada yalnız bırakmadı"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "posta.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
       "title": "Tarık Papuççuoğlu huzurevi iddialarını yalanladı: 'Sigortalı çalıştığım şirketin misafirhanesinde kalıyorum'",
       "normalized_title": "tarik papuccuoglu huzurevi iddialarini yalanladi sigortali calistigim sirketin misafirhanesinde kaliyorum",
       "url": "https://www.cumhuriyet.com.tr/magazin/tarik-papuccuoglu-huzurevi-iddialarini-yalanladi-sigortali-calistigim-sirketin-misafirhanesinde-kaliyorum-2557462",
@@ -408,7 +582,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.535097+00:00",
+      "collected_at": "2026-11-24T22:42:47.117075+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -443,214 +617,29 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Uluslararası Emmy Ödülleri'nde kazananlar belli oldu. Türkiye'den Leyla dizisi de ödül aldı",
-      "normalized_title": "uluslararasi emmy odulleri nde kazananlar belli oldu turkiye den leyla dizisi de odul aldi",
-      "url": "https://www.ntv.com.tr/yasam/galeri-uluslararasi-emmy-odullerinde-kazananlar-belli-oldu-turkiyeden-leyla-dizisi-de-odul-aldi-1752300",
-      "source": "ntv.com.tr",
+      "title": "Rihanna ve A$AP Rocky Kusursuz Bir Uyum İçinde",
+      "normalized_title": "rihanna ve a ap rocky kusursuz bir uyum icinde",
+      "url": "https://vogue.com.tr/unlu-stili/rihanna-ve-a-ap-rocky-kusursuz-bir-uyum-icinde",
+      "source": "vogue.com.tr",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "vogue.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.531044+00:00",
+      "collected_at": "2026-11-24T22:42:47.113630+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-uluslararasi-emmy-odullerinde-kazananlar-belli-oldu-turkiyeden-leyla-dizisi-de-odul-aldi-1752300",
-          "title": "Uluslararası Emmy Ödülleri'nde kazananlar belli oldu. Türkiye'den Leyla dizisi de ödül aldı"
+          "source": "vogue.com.tr",
+          "source_domain": "vogue.com.tr",
+          "url": "https://vogue.com.tr/unlu-stili/rihanna-ve-a-ap-rocky-kusursuz-bir-uyum-icinde",
+          "title": "Rihanna ve A$AP Rocky Kusursuz Bir Uyum İçinde"
         }
       ],
       "publisher_domains": [
-        "ntv.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 2,
-      "discovery_item_count": 1,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.5,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Miley Cyrus evlendi: Maxx Morando ile düğününden ilk fotoğrafları paylaştı",
-      "normalized_title": "miley cyrus evlendi maxx morando ile dugununden ilk fotograflari paylasti",
-      "url": "https://www.cumhuriyet.com.tr/magazin/miley-cyrus-evlendi-maxx-morando-ile-dugununden-ilk-fotograflari-paylasti-2558538",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.531463+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/miley-cyrus-evlendi-maxx-morando-ile-dugununden-ilk-fotograflari-paylasti-2558538",
-          "title": "Miley Cyrus evlendi: Maxx Morando ile düğününden ilk fotoğrafları paylaştı"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 2,
-      "discovery_item_count": 1,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.5,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Steven Spielberg'in Yeni Filmi: Western Sürprizi!",
-      "normalized_title": "steven spielberg in yeni filmi western surprizi",
-      "url": "https://konsolkosesi.com/post/steven-spielberg-yeni-filmi-the-heart-in-winter/",
-      "source": "konsolkosesi.com",
-      "source_role": "publisher",
-      "source_domain": "konsolkosesi.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.532706+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "konsolkosesi.com",
-          "source_domain": "konsolkosesi.com",
-          "url": "https://konsolkosesi.com/post/steven-spielberg-yeni-filmi-the-heart-in-winter/",
-          "title": "Steven Spielberg'in Yeni Filmi: Western Sürprizi!"
-        }
-      ],
-      "publisher_domains": [
-        "konsolkosesi.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 2,
-      "discovery_item_count": 1,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.5,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Sinem Ünsal ve Ozan Akbaba kırmızı halıda! Emmy’de “Uzak Şehir” onuru",
-      "normalized_title": "sinem unsal ve ozan akbaba kirmizi halida emmy de uzak sehir onuru",
-      "url": "https://www.hurriyet.com.tr/kelebek/sinem-unsal-ve-ozan-akbaba-kirmizi-halida-emmyde-uzak-sehir-onuru-43388659",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.531136+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/sinem-unsal-ve-ozan-akbaba-kirmizi-halida-emmyde-uzak-sehir-onuru-43388659",
-          "title": "Sinem Ünsal ve Ozan Akbaba kırmızı halıda! Emmy’de “Uzak Şehir” onuru"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "'Leyla: Hayat... Aşk... Adalet...' Uluslararası Emmy Ödülü kazandı",
-      "normalized_title": "leyla hayat ask adalet uluslararasi emmy odulu kazandi",
-      "url": "https://tr.euronews.com/2026/11/24/leyla-hayat-ask-adalet-dizisi-uluslararasi-emmy-odulu-kazandi",
-      "source": "tr.euronews.com",
-      "source_role": "publisher",
-      "source_domain": "tr.euronews.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.531294+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/24/leyla-hayat-ask-adalet-dizisi-uluslararasi-emmy-odulu-kazandi",
-          "title": "'Leyla: Hayat... Aşk... Adalet...' Uluslararası Emmy Ödülü kazandı"
-        }
-      ],
-      "publisher_domains": [
-        "tr.euronews.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Londra tatilinden neşeli kareler",
-      "normalized_title": "londra tatilinden neseli kareler",
-      "url": "https://htkulup.haberturk.com/guncel/haber/3929656-londra-tatilinden-neseli-kareler",
-      "source": "htkulup.haberturk.com",
-      "source_role": "publisher",
-      "source_domain": "htkulup.haberturk.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.531360+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "htkulup.haberturk.com",
-          "source_domain": "htkulup.haberturk.com",
-          "url": "https://htkulup.haberturk.com/guncel/haber/3929656-londra-tatilinden-neseli-kareler",
-          "title": "Londra tatilinden neşeli kareler"
-        }
-      ],
-      "publisher_domains": [
-        "htkulup.haberturk.com"
+        "vogue.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -674,7 +663,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.531524+00:00",
+      "collected_at": "2026-11-24T22:42:47.113779+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -711,7 +700,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.531593+00:00",
+      "collected_at": "2026-11-24T22:42:47.113846+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -739,16 +728,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Pınar Sabancı: Kendi şansımdan vermek isterdim",
-      "normalized_title": "pinar sabanci kendi sansimdan vermek isterdim",
-      "url": "https://www.hurriyet.com.tr/kelebek/stil/pinar-sabanci-kendi-sansimdan-vermek-isterdim-43388733",
+      "title": "Sinem Ünsal ve Ozan Akbaba kırmızı halıda! Emmy’de “Uzak Şehir” onuru",
+      "normalized_title": "sinem unsal ve ozan akbaba kirmizi halida emmy de uzak sehir onuru",
+      "url": "https://www.hurriyet.com.tr/kelebek/sinem-unsal-ve-ozan-akbaba-kirmizi-halida-emmyde-uzak-sehir-onuru-43388659",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.531732+00:00",
+      "collected_at": "2026-11-24T22:42:47.114060+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -756,8 +745,8 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/stil/pinar-sabanci-kendi-sansimdan-vermek-isterdim-43388733",
-          "title": "Pınar Sabancı: Kendi şansımdan vermek isterdim"
+          "url": "https://www.hurriyet.com.tr/kelebek/sinem-unsal-ve-ozan-akbaba-kirmizi-halida-emmyde-uzak-sehir-onuru-43388659",
+          "title": "Sinem Ünsal ve Ozan Akbaba kırmızı halıda! Emmy’de “Uzak Şehir” onuru"
         }
       ],
       "publisher_domains": [
@@ -776,29 +765,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Gülse Birsel'den 2 Aile Arasında'ya dair ilk ipuçları. \"Rol dengeleri birinci filmle aynı\"",
-      "normalized_title": "gulse birsel den 2 aile arasinda ya dair ilk ipuclari rol dengeleri birinci filmle ayni",
-      "url": "https://www.ntv.com.tr/yasam/galeri-gulse-birselden-2-aile-arasindaya-dair-ilk-ipuclari-rol-dengeleri-birinci-filmle-ayni-1752393",
-      "source": "ntv.com.tr",
+      "title": "'Leyla: Hayat... Aşk... Adalet...' Uluslararası Emmy Ödülü kazandı",
+      "normalized_title": "leyla hayat ask adalet uluslararasi emmy odulu kazandi",
+      "url": "https://tr.euronews.com/2026/11/24/leyla-hayat-ask-adalet-dizisi-uluslararasi-emmy-odulu-kazandi",
+      "source": "tr.euronews.com",
       "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
+      "source_domain": "tr.euronews.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.531930+00:00",
+      "collected_at": "2026-11-24T22:42:47.114191+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-gulse-birselden-2-aile-arasindaya-dair-ilk-ipuclari-rol-dengeleri-birinci-filmle-ayni-1752393",
-          "title": "Gülse Birsel'den 2 Aile Arasında'ya dair ilk ipuçları. \"Rol dengeleri birinci filmle aynı\""
+          "source": "tr.euronews.com",
+          "source_domain": "tr.euronews.com",
+          "url": "https://tr.euronews.com/2026/11/24/leyla-hayat-ask-adalet-dizisi-uluslararasi-emmy-odulu-kazandi",
+          "title": "'Leyla: Hayat... Aşk... Adalet...' Uluslararası Emmy Ödülü kazandı"
         }
       ],
       "publisher_domains": [
-        "ntv.com.tr"
+        "tr.euronews.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -813,29 +802,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "2 Aile Arasında Gişeyi Sallamaya Hazırlanıyor: 45 Bin Bilet Satıldı, Ek Seanslar Açılıyor!",
-      "normalized_title": "2 aile arasinda giseyi sallamaya hazirlaniyor 45 bin bilet satildi ek seanslar aciliyor",
-      "url": "https://www.egeyedair.com/2-aile-arasinda-giseyi-sallamaya-hazirlaniyor-45-bin-bilet-satildi-ek-seanslar-aciliyor/52838",
-      "source": "egeyedair.com",
+      "title": "Londra tatilinden neşeli kareler",
+      "normalized_title": "londra tatilinden neseli kareler",
+      "url": "https://htkulup.haberturk.com/guncel/haber/3929656-londra-tatilinden-neseli-kareler",
+      "source": "htkulup.haberturk.com",
       "source_role": "publisher",
-      "source_domain": "egeyedair.com",
+      "source_domain": "htkulup.haberturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.532015+00:00",
+      "collected_at": "2026-11-24T22:42:47.114239+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "egeyedair.com",
-          "source_domain": "egeyedair.com",
-          "url": "https://www.egeyedair.com/2-aile-arasinda-giseyi-sallamaya-hazirlaniyor-45-bin-bilet-satildi-ek-seanslar-aciliyor/52838",
-          "title": "2 Aile Arasında Gişeyi Sallamaya Hazırlanıyor: 45 Bin Bilet Satıldı, Ek Seanslar Açılıyor!"
+          "source": "htkulup.haberturk.com",
+          "source_domain": "htkulup.haberturk.com",
+          "url": "https://htkulup.haberturk.com/guncel/haber/3929656-londra-tatilinden-neseli-kareler",
+          "title": "Londra tatilinden neşeli kareler"
         }
       ],
       "publisher_domains": [
-        "egeyedair.com"
+        "htkulup.haberturk.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -859,7 +848,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.532322+00:00",
+      "collected_at": "2026-11-24T22:42:47.114502+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -896,7 +885,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.532380+00:00",
+      "collected_at": "2026-11-24T22:42:47.114551+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -924,6 +913,117 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "Pınar Sabancı: Kendi şansımdan vermek isterdim",
+      "normalized_title": "pinar sabanci kendi sansimdan vermek isterdim",
+      "url": "https://www.hurriyet.com.tr/kelebek/stil/pinar-sabanci-kendi-sansimdan-vermek-isterdim-43388733",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T22:42:47.114610+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/stil/pinar-sabanci-kendi-sansimdan-vermek-isterdim-43388733",
+          "title": "Pınar Sabancı: Kendi şansımdan vermek isterdim"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Gülse Birsel'den 2 Aile Arasında'ya dair ilk ipuçları. \"Rol dengeleri birinci filmle aynı\"",
+      "normalized_title": "gulse birsel den 2 aile arasinda ya dair ilk ipuclari rol dengeleri birinci filmle ayni",
+      "url": "https://www.ntv.com.tr/yasam/galeri-gulse-birselden-2-aile-arasindaya-dair-ilk-ipuclari-rol-dengeleri-birinci-filmle-ayni-1752393",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T22:42:47.114783+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-gulse-birselden-2-aile-arasindaya-dair-ilk-ipuclari-rol-dengeleri-birinci-filmle-ayni-1752393",
+          "title": "Gülse Birsel'den 2 Aile Arasında'ya dair ilk ipuçları. \"Rol dengeleri birinci filmle aynı\""
+        }
+      ],
+      "publisher_domains": [
+        "ntv.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "2 Aile Arasında Gişeyi Sallamaya Hazırlanıyor: 45 Bin Bilet Satıldı, Ek Seanslar Açılıyor!",
+      "normalized_title": "2 aile arasinda giseyi sallamaya hazirlaniyor 45 bin bilet satildi ek seanslar aciliyor",
+      "url": "https://www.egeyedair.com/2-aile-arasinda-giseyi-sallamaya-hazirlaniyor-45-bin-bilet-satildi-ek-seanslar-aciliyor/52838",
+      "source": "egeyedair.com",
+      "source_role": "publisher",
+      "source_domain": "egeyedair.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T22:42:47.114854+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "egeyedair.com",
+          "source_domain": "egeyedair.com",
+          "url": "https://www.egeyedair.com/2-aile-arasinda-giseyi-sallamaya-hazirlaniyor-45-bin-bilet-satildi-ek-seanslar-aciliyor/52838",
+          "title": "2 Aile Arasında Gişeyi Sallamaya Hazırlanıyor: 45 Bin Bilet Satıldı, Ek Seanslar Açılıyor!"
+        }
+      ],
+      "publisher_domains": [
+        "egeyedair.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Steven Spielberg'in yeni filminde yıldızlar geçidi: Cillian Murphy ve Jessie Buckley aynı projede",
       "normalized_title": "steven spielberg in yeni filminde yildizlar gecidi cillian murphy ve jessie buckley ayni projede",
       "url": "https://gazeteoksijen.com/o2/steven-spielbergin-yeni-filminde-yildizlar-gecidi-cillian-murphy-ve-jessie-buckley-ayni-projede-297070",
@@ -933,7 +1033,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.532486+00:00",
+      "collected_at": "2026-11-24T22:42:47.114931+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -961,6 +1061,117 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "Paul Thomas Anderson yazacak, Spielberg yönetecek: 'The Heart in Winter' uyarlaması geliyor",
+      "normalized_title": "paul thomas anderson yazacak spielberg yonetecek the heart in winter uyarlamasi geliyor",
+      "url": "https://www.diken.com.tr/paul-thomas-anderson-yazacak-spielberg-yonetecek-the-heart-in-winter-uyarlamasi-geliyor/",
+      "source": "diken.com.tr",
+      "source_role": "publisher",
+      "source_domain": "diken.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T22:42:47.115001+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "diken.com.tr",
+          "source_domain": "diken.com.tr",
+          "url": "https://www.diken.com.tr/paul-thomas-anderson-yazacak-spielberg-yonetecek-the-heart-in-winter-uyarlamasi-geliyor/",
+          "title": "Paul Thomas Anderson yazacak, Spielberg yönetecek: 'The Heart in Winter' uyarlaması geliyor"
+        }
+      ],
+      "publisher_domains": [
+        "diken.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Spielberg ve Cillian Murphy'yi buluşturan western filmi",
+      "normalized_title": "spielberg ve cillian murphy yi bulusturan western filmi",
+      "url": "https://www.odatv.com/kultur-sanat/steven-spielberg-paul-thomas-anderson-ve-cillian-murphy-ayni-western-filminde-120172633",
+      "source": "odatv.com",
+      "source_role": "publisher",
+      "source_domain": "odatv.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T22:42:47.115055+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/kultur-sanat/steven-spielberg-paul-thomas-anderson-ve-cillian-murphy-ayni-western-filminde-120172633",
+          "title": "Spielberg ve Cillian Murphy'yi buluşturan western filmi"
+        }
+      ],
+      "publisher_domains": [
+        "odatv.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Sinema Dünyasının Rüya Takımı Buluşuyor: Steven Spielberg ve Paul Thomas Anderson’dan Western Filmi Geliyor!",
+      "normalized_title": "sinema dunyasinin ruya takimi bulusuyor steven spielberg ve paul thomas anderson dan western filmi geliyor",
+      "url": "https://www.beyazperde.com/haberler/filmler/haberler-1000233735/",
+      "source": "beyazperde.com",
+      "source_role": "publisher",
+      "source_domain": "beyazperde.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-24T22:42:47.115134+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "beyazperde.com",
+          "source_domain": "beyazperde.com",
+          "url": "https://www.beyazperde.com/haberler/filmler/haberler-1000233735/",
+          "title": "Sinema Dünyasının Rüya Takımı Buluşuyor: Steven Spielberg ve Paul Thomas Anderson’dan Western Filmi Geliyor!"
+        }
+      ],
+      "publisher_domains": [
+        "beyazperde.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Büşra Develi: Fransız diyorlardı Gürcü çıktım",
       "normalized_title": "busra develi fransiz diyorlardi gurcu ciktim",
       "url": "https://www.hurriyet.com.tr/kelebek/televizyon/busra-deveci-fransiz-diyorlardi-gurcu-ciktim-43388717",
@@ -970,7 +1181,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.532770+00:00",
+      "collected_at": "2026-11-24T22:42:47.115188+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1007,7 +1218,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.532843+00:00",
+      "collected_at": "2026-11-24T22:42:47.115251+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1044,7 +1255,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.532935+00:00",
+      "collected_at": "2026-11-24T22:42:47.115333+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1072,164 +1283,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "10 yıllık filmin gurur gecesi",
-      "normalized_title": "10 yillik filmin gurur gecesi",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/10-yillik-filmin-gurur-gecesi-43387919",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.533297+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/10-yillik-filmin-gurur-gecesi-43387919",
-          "title": "10 yıllık filmin gurur gecesi"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Eski eşten sürpriz destek",
-      "normalized_title": "eski esten surpriz destek",
-      "url": "https://www.milliyet.com.tr/magazin/eski-esten-surpriz-destek-7705857",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.533433+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/eski-esten-surpriz-destek-7705857",
-          "title": "Eski eşten sürpriz destek"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Melania Trump fotoğraflarını satışa çıkardı",
-      "normalized_title": "melania trump fotograflarini satisa cikardi",
-      "url": "https://www.hurriyet.com.tr/dunya/melania-trump-fotograflarini-satisa-cikardi-43388295",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.533578+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/dunya/melania-trump-fotograflarini-satisa-cikardi-43388295",
-          "title": "Melania Trump fotoğraflarını satışa çıkardı"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Uluslararası sinema dünyası Jafar Panahi'nin hapis cezasına karşı birleşti",
-      "normalized_title": "uluslararasi sinema dunyasi jafar panahi nin hapis cezasina karsi birlesti",
-      "url": "https://tr.euronews.com/2026/11/19/uluslararasi-sinema-dunyasi-jafar-panahinin-hapis-cezasina-karsi-birlesti",
-      "source": "tr.euronews.com",
-      "source_role": "publisher",
-      "source_domain": "tr.euronews.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.533732+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/19/uluslararasi-sinema-dunyasi-jafar-panahinin-hapis-cezasina-karsi-birlesti",
-          "title": "Uluslararası sinema dünyası Jafar Panahi'nin hapis cezasına karşı birleşti"
-        }
-      ],
-      "publisher_domains": [
-        "tr.euronews.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Jafar Panahi kimdir? Yönetmen Jafar Panahi kaç yaşında, nereli? Jafar Panahi neden tutuklandı?",
-      "normalized_title": "jafar panahi kimdir yonetmen jafar panahi kac yasinda nereli jafar panahi neden tutuklandi",
-      "url": "https://www.cumhuriyet.com.tr/kultur-sanat/jafar-panahi-kimdir-yonetmen-jafar-panahi-kac-yasinda-nereli-jafar-panahi-neden-tutuklandi-2557493",
+      "title": "Demet Akalın ile gazeteciler arasında ilginç diyalog: 'Siz istediniz'",
+      "normalized_title": "demet akalin ile gazeteciler arasinda ilginc diyalog siz istediniz",
+      "url": "https://www.cumhuriyet.com.tr/magazin/demet-akalin-ile-gazeteciler-arasinda-ilginc-diyalog-siz-istediniz-2558917",
       "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.533815+00:00",
+      "collected_at": "2026-11-24T22:42:47.115395+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1237,8 +1300,8 @@
         {
           "source": "cumhuriyet.com.tr",
           "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/jafar-panahi-kimdir-yonetmen-jafar-panahi-kac-yasinda-nereli-jafar-panahi-neden-tutuklandi-2557493",
-          "title": "Jafar Panahi kimdir? Yönetmen Jafar Panahi kaç yaşında, nereli? Jafar Panahi neden tutuklandı?"
+          "url": "https://www.cumhuriyet.com.tr/magazin/demet-akalin-ile-gazeteciler-arasinda-ilginc-diyalog-siz-istediniz-2558917",
+          "title": "Demet Akalın ile gazeteciler arasında ilginç diyalog: 'Siz istediniz'"
         }
       ],
       "publisher_domains": [
@@ -1257,29 +1320,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Dilan Çiçek Deniz: Hayat arkadaşımla uzun yol gezisi",
-      "normalized_title": "dilan cicek deniz hayat arkadasimla uzun yol gezisi",
-      "url": "https://www.haberturk.com/magazin/foto/dilan-cicek-deniz-hayat-arkadasimla-uzun-yol-gezisi-3928882/5",
-      "source": "haberturk.com",
+      "title": "“Yaşlılıkta para lazım” derdi! Demet Akalın'dan lansmanda Metin Arolat itirafı",
+      "normalized_title": "yaslilikta para lazim derdi demet akalin dan lansmanda metin arolat itirafi",
+      "url": "https://www.takvim.com.tr/galeri/magazin/demet-akalindan-metin-arolat-anisi-lansman-ve-basin-toplantisi",
+      "source": "takvim.com.tr",
       "source_role": "publisher",
-      "source_domain": "haberturk.com",
+      "source_domain": "takvim.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-24T18:01:47.534115+00:00",
+      "collected_at": "2026-11-24T22:42:47.115462+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/dilan-cicek-deniz-hayat-arkadasimla-uzun-yol-gezisi-3928882/5",
-          "title": "Dilan Çiçek Deniz: Hayat arkadaşımla uzun yol gezisi"
+          "source": "takvim.com.tr",
+          "source_domain": "takvim.com.tr",
+          "url": "https://www.takvim.com.tr/galeri/magazin/demet-akalindan-metin-arolat-anisi-lansman-ve-basin-toplantisi",
+          "title": "“Yaşlılıkta para lazım” derdi! Demet Akalın'dan lansmanda Metin Arolat itirafı"
         }
       ],
       "publisher_domains": [
-        "haberturk.com"
+        "takvim.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
