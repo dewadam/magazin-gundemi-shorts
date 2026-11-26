@@ -1,258 +1,43 @@
 {
-  "generated_at": "2026-11-25T21:57:04.669715+00:00",
-  "candidate_count": 74,
+  "generated_at": "2026-11-26T10:35:39.719541+00:00",
+  "candidate_count": 77,
   "event_group_count": 52,
-  "multi_publisher_event_count": 6,
+  "multi_publisher_event_count": 7,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
   "items": [
     {
-      "title": "Ünlülere uyuşturucu operasyonu: Özcan Deniz dahil 23 kişi gözaltında",
-      "normalized_title": "unlulere uyusturucu operasyonu ozcan deniz dahil 23 kisi gozaltinda",
-      "url": "https://tr.euronews.com/2026/11/25/unlulere-uyusturucu-operasyonu-ozcan-deniz-ve-burcu-ozberk-dahil-23-kisi-gozaltinda",
-      "source": "tr.euronews.com",
+      "title": "Ünlülere uyuşturucu operasyonunda ifadeler ortaya çıktı! Burcu Özberk, Deniz Çakır ve Özcan Deniz aylık gelirini açıkladı",
+      "normalized_title": "unlulere uyusturucu operasyonunda ifadeler ortaya cikti burcu ozberk deniz cakir ve ozcan deniz aylik gelirini acikladi",
+      "url": "https://www.hurriyet.com.tr/gundem/unlulere-yonelik-uyusturucu-operasyonu-ozcan-deniz-deniz-cakir-burcu-ozberk-murat-basoglu-ve-ceylan-kaya-hakkinda-karar-verildi-43391427",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "tr.euronews.com",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.649827+00:00",
+      "collected_at": "2026-11-26T10:35:01.724371+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/25/unlulere-uyusturucu-operasyonu-ozcan-deniz-ve-burcu-ozberk-dahil-23-kisi-gozaltinda",
-          "title": "Ünlülere uyuşturucu operasyonu: Özcan Deniz dahil 23 kişi gözaltında"
-        }
-      ],
-      "publisher_domains": [
-        "tr.euronews.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ünlülere uyuşturucu ve fuhuş soruşturması: 9 şüpheliye adli kontrol talep edildi",
-      "normalized_title": "unlulere uyusturucu ve fuhus sorusturmasi 9 supheliye adli kontrol talep edildi",
-      "url": "https://www.milliyet.com.tr/magazin/unlulere-uyusturucu-ve-fuhus-sorusturmasi-9-supheliye-adli-kontrol-talep-edildi-7707679",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.649964+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/unlulere-uyusturucu-ve-fuhus-sorusturmasi-9-supheliye-adli-kontrol-talep-edildi-7707679",
-          "title": "Ünlülere uyuşturucu ve fuhuş soruşturması: 9 şüpheliye adli kontrol talep edildi"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ünlülere yönelik uyuşturucu operasyonu: 1 tutuklama, 9 adli kontrol talebi",
-      "normalized_title": "unlulere yonelik uyusturucu operasyonu 1 tutuklama 9 adli kontrol talebi",
-      "url": "https://www.sozcu.com.tr/gozaltina-alinan-unluler-saglik-kontrolunde-boyle-gorduruldu-p384307",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.650053+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/gozaltina-alinan-unluler-saglik-kontrolunde-boyle-gorduruldu-p384307",
-          "title": "Ünlülere yönelik uyuşturucu operasyonu: 1 tutuklama, 9 adli kontrol talebi"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    }
-  ],
-  "event_groups_preview": [
-    {
-      "title": "Emre Kınay'dan kızına duygusal doğum günü mesajı: Ömrüm sana feda olsun",
-      "normalized_title": "emre kinay dan kizina duygusal dogum gunu mesaji omrum sana feda olsun",
-      "url": "https://www.milliyet.com.tr/magazin/galeri/emre-kinaydan-kizina-duygusal-dogum-gunu-mesaji-omrum-sana-feda-olsun-7706046",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.651738+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
+          "source": "medyascope.tv",
+          "source_domain": "medyascope.tv",
+          "url": "https://medyascope.tv/2026/11/25/ozcan-deniz-deniz-cakir-burcu-ozberk-dahil-24-kisi-gozaltina-alindi/",
+          "title": "Ünlülere uyuşturucu operasyonu: Özcan Deniz, Deniz Çakır, Burcu Özberk dahil 24 kişi gözaltına alındı"
+        },
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/galeri-omrum-sana-feda-olsun-canim-kizim-43387553",
-          "title": "\"Ömrüm sana feda olsun canım kızım\""
-        },
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/emre-kinay-dan-kizi-duru-kinay-a-omrum-sana-feda-olsun-canim-kizim-3929369",
-          "title": "Emre Kınay'dan kızı Duru Kınay'a: Ömrüm sana feda olsun canım kızım"
-        },
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/emre-kinaydan-kizina-duygusal-dogum-gunu-mesaji-omrum-sana-feda-olsun-7706046",
-          "title": "Emre Kınay'dan kızına duygusal doğum günü mesajı: Ömrüm sana feda olsun"
+          "url": "https://www.hurriyet.com.tr/gundem/unlulere-yonelik-uyusturucu-operasyonu-ozcan-deniz-deniz-cakir-burcu-ozberk-murat-basoglu-ve-ceylan-kaya-hakkinda-karar-verildi-43391427",
+          "title": "Ünlülere uyuşturucu operasyonunda ifadeler ortaya çıktı! Burcu Özberk, Deniz Çakır ve Özcan Deniz aylık gelirini açıkladı"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
         "hurriyet.com.tr",
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Hayat arkadaşım notuyla seslendi! Dilan Çiçek Deniz’den sevgilisi Birkan Nasuhoğlu’na aşk dolu sözler...",
-      "normalized_title": "hayat arkadasim notuyla seslendi dilan cicek deniz den sevgilisi birkan nasuhoglu na ask dolu sozler",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/hayat-arkadasim-notuyla-seslendi-dilan-cicek-denizden-sevgilisi-birkan-nasuhogluna-ask-dolu-sozler",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.653280+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/dilan-cicek-deniz-den-birkan-nasuhoglu-na-romantik-sozler-hayat-arkadasim-p383581",
-          "title": "Dilan Çiçek Deniz'den Birkan Nasuhoğlu'na romantik sözler: \"Hayat arkadaşım\""
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/hayat-arkadasim-notuyla-seslendi-dilan-cicek-denizden-sevgilisi-birkan-nasuhogluna-ask-dolu-sozler",
-          "title": "Hayat arkadaşım notuyla seslendi! Dilan Çiçek Deniz’den sevgilisi Birkan Nasuhoğlu’na aşk dolu sözler..."
-        },
-        {
-          "source": "posta.com.tr",
-          "source_domain": "posta.com.tr",
-          "url": "https://www.posta.com.tr/galeri/dilan-cicek-denizden-sevgilisi-birkan-nasuhoglu-ile-romantik-paylasim-3067578",
-          "title": "Dilan Çiçek Deniz'den sevgilisi Birkan Nasuhoğlu ile romantik paylaşım!"
-        }
-      ],
-      "publisher_domains": [
-        "posta.com.tr",
-        "sabah.com.tr",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 30.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
-      "title": "Can Bonomo Oğlu Roman'ı Okuldan Motosikletle Aldı: Eşi Öykü Karayel'in Ödülü İçin Konuştu!",
-      "normalized_title": "can bonomo oglu roman i okuldan motosikletle aldi esi oyku karayel in odulu icin konustu",
-      "url": "https://www.gecce.com.tr/haber/can-bonomo-oglu-romani-okuldan-motosikletle-aldi-esi-oyku-karayelin-odulu-icin-konustu-334045.html",
-      "source": "gecce.com.tr",
-      "source_role": "publisher",
-      "source_domain": "gecce.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.651131+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/can-bonomo-oglu-roman-bonomo-nun-okuldan-motosikletle-aldi-3929905",
-          "title": "Can Bonomo, oğlu Roman Bonomo'nun okuldan motosikletle aldı"
-        },
-        {
-          "source": "gecce.com.tr",
-          "source_domain": "gecce.com.tr",
-          "url": "https://www.gecce.com.tr/haber/can-bonomo-oglu-romani-okuldan-motosikletle-aldi-esi-oyku-karayelin-odulu-icin-konustu-334045.html",
-          "title": "Can Bonomo Oğlu Roman'ı Okuldan Motosikletle Aldı: Eşi Öykü Karayel'in Ödülü İçin Konuştu!"
-        }
-      ],
-      "publisher_domains": [
-        "gecce.com.tr",
-        "haberturk.com"
+        "medyascope.tv"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -267,36 +52,364 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Avrupa’da seyircili gala sürprizi!",
-      "normalized_title": "avrupa da seyircili gala surprizi",
-      "url": "https://www.milliyet.com.tr/magazin/avrupada-seyircili-gala-surprizi-7706556",
-      "source": "milliyet.com.tr",
+      "title": "SON DAKİKA | Ünlülere yönelik uyuşturucu soruşturması: 1 şarkıcı tutuklandı, 9 kişiye adli kontrol",
+      "normalized_title": "son dakika unlulere yonelik uyusturucu sorusturmasi 1 sarkici tutuklandi 9 kisiye adli kontrol",
+      "url": "https://www.sozcu.com.tr/son-dakika-veya-unlulere-yonelik-uyusturucu-sorusturmasi-1-sarkici-tutuklandi-9-kisiye-adli-kontrol-p384519",
+      "source": "sozcu.com.tr",
       "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
+      "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.651393+00:00",
+      "collected_at": "2026-11-26T10:35:01.724275+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/son-dakika-veya-unlulere-yonelik-uyusturucu-sorusturmasi-1-sarkici-tutuklandi-9-kisiye-adli-kontrol-p384519",
+          "title": "SON DAKİKA | Ünlülere yönelik uyuşturucu soruşturması: 1 şarkıcı tutuklandı, 9 kişiye adli kontrol"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/gundem/son-dakika-unlulere-yonelik-sorusturmada-ceylan-kaya-tutuklandi-3930209",
+          "title": "Son dakika: Ünlülere yönelik soruşturmada 1 tutuklama | Son dakika haberleri"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Aile kursam fena olmaz",
+      "normalized_title": "aile kursam fena olmaz",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/aile-kursam-fena-olmaz-43391367",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-26T10:35:01.724773+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [
+        {
+          "source": "milliyet.com.tr",
+          "source_role": "publisher",
+          "source_domain": "milliyet.com.tr",
+          "title": "‘Aile kursam fena olmaz!’",
+          "url": "https://www.milliyet.com.tr/magazin/aile-kursam-fena-olmaz-7708081",
+          "published_at": null
+        }
+      ],
+      "source_articles": [
+        {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/avrupada-seyircili-gala-43388724",
-          "title": "Avrupa’da seyircili gala"
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/aile-kursam-fena-olmaz-43391367",
+          "title": "Aile kursam fena olmaz"
         },
         {
           "source": "milliyet.com.tr",
           "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/avrupada-seyircili-gala-surprizi-7706556",
-          "title": "Avrupa’da seyircili gala sürprizi!"
+          "url": "https://www.milliyet.com.tr/magazin/aile-kursam-fena-olmaz-7708081",
+          "title": "‘Aile kursam fena olmaz!’"
         }
       ],
       "publisher_domains": [
         "hurriyet.com.tr",
         "milliyet.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": true,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    }
+  ],
+  "event_groups_preview": [
+    {
+      "title": "Ünlülere uyuşturucu operasyonunda ifadeler ortaya çıktı! Burcu Özberk, Deniz Çakır ve Özcan Deniz aylık gelirini açıkladı",
+      "normalized_title": "unlulere uyusturucu operasyonunda ifadeler ortaya cikti burcu ozberk deniz cakir ve ozcan deniz aylik gelirini acikladi",
+      "url": "https://www.hurriyet.com.tr/gundem/unlulere-yonelik-uyusturucu-operasyonu-ozcan-deniz-deniz-cakir-burcu-ozberk-murat-basoglu-ve-ceylan-kaya-hakkinda-karar-verildi-43391427",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-26T10:35:01.724371+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "medyascope.tv",
+          "source_domain": "medyascope.tv",
+          "url": "https://medyascope.tv/2026/11/25/ozcan-deniz-deniz-cakir-burcu-ozberk-dahil-24-kisi-gozaltina-alindi/",
+          "title": "Ünlülere uyuşturucu operasyonu: Özcan Deniz, Deniz Çakır, Burcu Özberk dahil 24 kişi gözaltına alındı"
+        },
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/gundem/unlulere-yonelik-uyusturucu-operasyonu-ozcan-deniz-deniz-cakir-burcu-ozberk-murat-basoglu-ve-ceylan-kaya-hakkinda-karar-verildi-43391427",
+          "title": "Ünlülere uyuşturucu operasyonunda ifadeler ortaya çıktı! Burcu Özberk, Deniz Çakır ve Özcan Deniz aylık gelirini açıkladı"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr",
+        "medyascope.tv"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "SON DAKİKA | Ünlülere yönelik uyuşturucu soruşturması: 1 şarkıcı tutuklandı, 9 kişiye adli kontrol",
+      "normalized_title": "son dakika unlulere yonelik uyusturucu sorusturmasi 1 sarkici tutuklandi 9 kisiye adli kontrol",
+      "url": "https://www.sozcu.com.tr/son-dakika-veya-unlulere-yonelik-uyusturucu-sorusturmasi-1-sarkici-tutuklandi-9-kisiye-adli-kontrol-p384519",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-26T10:35:01.724275+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/son-dakika-veya-unlulere-yonelik-uyusturucu-sorusturmasi-1-sarkici-tutuklandi-9-kisiye-adli-kontrol-p384519",
+          "title": "SON DAKİKA | Ünlülere yönelik uyuşturucu soruşturması: 1 şarkıcı tutuklandı, 9 kişiye adli kontrol"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/gundem/son-dakika-unlulere-yonelik-sorusturmada-ceylan-kaya-tutuklandi-3930209",
+          "title": "Son dakika: Ünlülere yönelik soruşturmada 1 tutuklama | Son dakika haberleri"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Aile kursam fena olmaz",
+      "normalized_title": "aile kursam fena olmaz",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/aile-kursam-fena-olmaz-43391367",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-26T10:35:01.724773+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [
+        {
+          "source": "milliyet.com.tr",
+          "source_role": "publisher",
+          "source_domain": "milliyet.com.tr",
+          "title": "‘Aile kursam fena olmaz!’",
+          "url": "https://www.milliyet.com.tr/magazin/aile-kursam-fena-olmaz-7708081",
+          "published_at": null
+        }
+      ],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/aile-kursam-fena-olmaz-43391367",
+          "title": "Aile kursam fena olmaz"
+        },
+        {
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/aile-kursam-fena-olmaz-7708081",
+          "title": "‘Aile kursam fena olmaz!’"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr",
+        "milliyet.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": true,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Hande Erçel'den 33. yaşına özel kutlama: Yakın dostlarıyla eğlendi...",
+      "normalized_title": "hande ercel den 33 yasina ozel kutlama yakin dostlariyla eglendi",
+      "url": "https://www.internethaber.com/hande-ercelden-33-yasina-ozel-kutlama-yakin-dostlariyla-eglendi-2470050h.htm",
+      "source": "internethaber.com",
+      "source_role": "publisher",
+      "source_domain": "internethaber.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-26T10:35:01.725125+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "internethaber.com",
+          "source_domain": "internethaber.com",
+          "url": "https://www.internethaber.com/hande-ercelden-33-yasina-ozel-kutlama-yakin-dostlariyla-eglendi-2470050h.htm",
+          "title": "Hande Erçel'den 33. yaşına özel kutlama: Yakın dostlarıyla eğlendi..."
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/hande-ercel-33-oldu-3930232",
+          "title": "Hande Erçel 33 oldu"
+        }
+      ],
+      "publisher_domains": [
+        "haberturk.com",
+        "internethaber.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Doğukan Güngör'den şaşırtan ayrılık itirafı! İsim vermedi",
+      "normalized_title": "dogukan gungor den sasirtan ayrilik itirafi isim vermedi",
+      "url": "https://www.haberler.com/magazin/dogukan-gungorden-sasirtan-ayrilik-itirafi-isim-20463406-haberi/",
+      "source": "haberler.com",
+      "source_role": "publisher",
+      "source_domain": "haberler.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-26T10:35:01.725421+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/dogukan-gungor-den-kizilcik-serbeti-itirafi-ozluyorum-2559551",
+          "title": "Doğukan Güngör'den Kızılcık Şerbeti itirafı: 'Özlüyorum'"
+        },
+        {
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/magazin/dogukan-gungorden-sasirtan-ayrilik-itirafi-isim-20463406-haberi/",
+          "title": "Doğukan Güngör'den şaşırtan ayrılık itirafı! İsim vermedi"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "haberler.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Usta yönetmen Temel Gürsu Yeşilçam yıllarını anlattı: Ferdi Tayfur'dan Türkan Şoray'a unutulmaz anılar",
+      "normalized_title": "usta yonetmen temel gursu yesilcam yillarini anlatti ferdi tayfur dan turkan soray a unutulmaz anilar",
+      "url": "https://www.cumhuriyet.com.tr/kultur-sanat/usta-yonetmen-temel-gursu-yesilcam-yillarini-anlatti-ferdi-tayfur-dan-turkan-soray-a-unutulmaz-anilar-2559320",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-26T10:35:01.726130+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/usta-yonetmen-temel-gursu-yesilcam-yillarini-anlatti-ferdi-tayfur-dan-turkan-soray-a-unutulmaz-anilar-2559320",
+          "title": "Usta yönetmen Temel Gürsu Yeşilçam yıllarını anlattı: Ferdi Tayfur'dan Türkan Şoray'a unutulmaz anılar"
+        },
+        {
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/usta-yonetmen-temel-gursu-evinin-kapilarini-acti-3929998",
+          "title": "Usta yönetmen Temel Gürsu evinin kapılarını açtı"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "haberturk.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -320,7 +433,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.652277+00:00",
+      "collected_at": "2026-11-26T10:35:01.726878+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -355,36 +468,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Leyla dizisi ne zaman başladı ve bitti, konusu ne? Leyla: Hayat... Aşk... Adalet dizisi Emmy Ödülü kazandı!",
-      "normalized_title": "leyla dizisi ne zaman basladi ve bitti konusu ne leyla hayat ask adalet dizisi emmy odulu kazandi",
-      "url": "https://www.hurriyet.com.tr/galeri-leyla-dizisi-ne-zaman-basladi-ve-bitti-konusu-ne-leyla-hayat-ask-adalet-dizisi-emmy-odulu-kazandi-43389156",
-      "source": "hurriyet.com.tr",
+      "title": "Can Bonomo Oğlu Roman'ı Okuldan Motosikletle Aldı: Eşi Öykü Karayel'in Ödülü İçin Konuştu!",
+      "normalized_title": "can bonomo oglu roman i okuldan motosikletle aldi esi oyku karayel in odulu icin konustu",
+      "url": "https://www.gecce.com.tr/haber/can-bonomo-oglu-romani-okuldan-motosikletle-aldi-esi-oyku-karayelin-odulu-icin-konustu-334045.html",
+      "source": "gecce.com.tr",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "gecce.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.654024+00:00",
+      "collected_at": "2026-11-26T10:35:01.727376+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/24/leyla-hayat-ask-adalet-dizisi-uluslararasi-emmy-odulu-kazandi",
-          "title": "'Leyla: Hayat... Aşk... Adalet...' Uluslararası Emmy Ödülü kazandı"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/can-bonomo-oglu-roman-bonomo-nun-okuldan-motosikletle-aldi-3929905",
+          "title": "Can Bonomo, oğlu Roman Bonomo'nun okuldan motosikletle aldı"
         },
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/galeri-leyla-dizisi-ne-zaman-basladi-ve-bitti-konusu-ne-leyla-hayat-ask-adalet-dizisi-emmy-odulu-kazandi-43389156",
-          "title": "Leyla dizisi ne zaman başladı ve bitti, konusu ne? Leyla: Hayat... Aşk... Adalet dizisi Emmy Ödülü kazandı!"
+          "source": "gecce.com.tr",
+          "source_domain": "gecce.com.tr",
+          "url": "https://www.gecce.com.tr/haber/can-bonomo-oglu-romani-okuldan-motosikletle-aldi-esi-oyku-karayelin-odulu-icin-konustu-334045.html",
+          "title": "Can Bonomo Oğlu Roman'ı Okuldan Motosikletle Aldı: Eşi Öykü Karayel'in Ödülü İçin Konuştu!"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr",
-        "tr.euronews.com"
+        "gecce.com.tr",
+        "haberturk.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -399,423 +512,16 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Ünlülere uyuşturucu operasyonu: Özcan Deniz dahil 23 kişi gözaltında",
-      "normalized_title": "unlulere uyusturucu operasyonu ozcan deniz dahil 23 kisi gozaltinda",
-      "url": "https://tr.euronews.com/2026/11/25/unlulere-uyusturucu-operasyonu-ozcan-deniz-ve-burcu-ozberk-dahil-23-kisi-gozaltinda",
-      "source": "tr.euronews.com",
-      "source_role": "publisher",
-      "source_domain": "tr.euronews.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.649827+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "tr.euronews.com",
-          "source_domain": "tr.euronews.com",
-          "url": "https://tr.euronews.com/2026/11/25/unlulere-uyusturucu-operasyonu-ozcan-deniz-ve-burcu-ozberk-dahil-23-kisi-gozaltinda",
-          "title": "Ünlülere uyuşturucu operasyonu: Özcan Deniz dahil 23 kişi gözaltında"
-        }
-      ],
-      "publisher_domains": [
-        "tr.euronews.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ünlülere uyuşturucu ve fuhuş soruşturması: 9 şüpheliye adli kontrol talep edildi",
-      "normalized_title": "unlulere uyusturucu ve fuhus sorusturmasi 9 supheliye adli kontrol talep edildi",
-      "url": "https://www.milliyet.com.tr/magazin/unlulere-uyusturucu-ve-fuhus-sorusturmasi-9-supheliye-adli-kontrol-talep-edildi-7707679",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.649964+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/unlulere-uyusturucu-ve-fuhus-sorusturmasi-9-supheliye-adli-kontrol-talep-edildi-7707679",
-          "title": "Ünlülere uyuşturucu ve fuhuş soruşturması: 9 şüpheliye adli kontrol talep edildi"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ünlülere yönelik uyuşturucu operasyonu: 1 tutuklama, 9 adli kontrol talebi",
-      "normalized_title": "unlulere yonelik uyusturucu operasyonu 1 tutuklama 9 adli kontrol talebi",
-      "url": "https://www.sozcu.com.tr/gozaltina-alinan-unluler-saglik-kontrolunde-boyle-gorduruldu-p384307",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.650053+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/gozaltina-alinan-unluler-saglik-kontrolunde-boyle-gorduruldu-p384307",
-          "title": "Ünlülere yönelik uyuşturucu operasyonu: 1 tutuklama, 9 adli kontrol talebi"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "İstanbul'da ünlülere yönelik uyuşturucu ve fuhuş soruşturmasında gözaltına alınan 24 şüpheli adliyede",
-      "normalized_title": "istanbul da unlulere yonelik uyusturucu ve fuhus sorusturmasinda gozaltina alinan 24 supheli adliyede",
-      "url": "https://www.aa.com.tr/tr/gundem/istanbulda-unlulere-yonelik-uyusturucu-ve-fuhus-sorusturmasinda-gozaltina-alinan-24-supheli-adliyede/4136467",
-      "source": "aa.com.tr",
-      "source_role": "publisher",
-      "source_domain": "aa.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.650145+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "aa.com.tr",
-          "source_domain": "aa.com.tr",
-          "url": "https://www.aa.com.tr/tr/gundem/istanbulda-unlulere-yonelik-uyusturucu-ve-fuhus-sorusturmasinda-gozaltina-alinan-24-supheli-adliyede/4136467",
-          "title": "İstanbul'da ünlülere yönelik uyuşturucu ve fuhuş soruşturmasında gözaltına alınan 24 şüpheli adliyede"
-        }
-      ],
-      "publisher_domains": [
-        "aa.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Usta yönetmen Temel Gürsu Yeşilçam yıllarını anlattı: Ferdi Tayfur'dan Türkan Şoray'a unutulmaz anılar",
-      "normalized_title": "usta yonetmen temel gursu yesilcam yillarini anlatti ferdi tayfur dan turkan soray a unutulmaz anilar",
-      "url": "https://www.cumhuriyet.com.tr/kultur-sanat/usta-yonetmen-temel-gursu-yesilcam-yillarini-anlatti-ferdi-tayfur-dan-turkan-soray-a-unutulmaz-anilar-2559320",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.650238+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/kultur-sanat/usta-yonetmen-temel-gursu-yesilcam-yillarini-anlatti-ferdi-tayfur-dan-turkan-soray-a-unutulmaz-anilar-2559320",
-          "title": "Usta yönetmen Temel Gürsu Yeşilçam yıllarını anlattı: Ferdi Tayfur'dan Türkan Şoray'a unutulmaz anılar"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Yaşamına 118 film sığdıran oyuncu ve yönetmen Temel Gürsu evinin kapılarını AA'ya açtı",
-      "normalized_title": "yasamina 118 film sigdiran oyuncu ve yonetmen temel gursu evinin kapilarini aa ya acti",
-      "url": "https://www.aa.com.tr/tr/kultur/yasamina-118-film-sigdiran-oyuncu-ve-yonetmen-temel-gursu-evinin-kapilarini-aaya-acti/4136789",
-      "source": "aa.com.tr",
-      "source_role": "publisher",
-      "source_domain": "aa.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.650330+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "aa.com.tr",
-          "source_domain": "aa.com.tr",
-          "url": "https://www.aa.com.tr/tr/kultur/yasamina-118-film-sigdiran-oyuncu-ve-yonetmen-temel-gursu-evinin-kapilarini-aaya-acti/4136789",
-          "title": "Yaşamına 118 film sığdıran oyuncu ve yönetmen Temel Gürsu evinin kapılarını AA'ya açtı"
-        }
-      ],
-      "publisher_domains": [
-        "aa.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "118 film çeken Temel Gürsu, Ferdi Tayfur'la tanışmasını anlattı",
-      "normalized_title": "118 film ceken temel gursu ferdi tayfur la tanismasini anlatti",
-      "url": "https://www.habercitv.com.tr/118-film-ceken-temel-gursu-ferdi-tayfurla-tanismasini-anlatti",
-      "source": "habercitv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "habercitv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.650411+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "habercitv.com.tr",
-          "source_domain": "habercitv.com.tr",
-          "url": "https://www.habercitv.com.tr/118-film-ceken-temel-gursu-ferdi-tayfurla-tanismasini-anlatti",
-          "title": "118 film çeken Temel Gürsu, Ferdi Tayfur'la tanışmasını anlattı"
-        }
-      ],
-      "publisher_domains": [
-        "habercitv.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Film davası reddedildi",
-      "normalized_title": "film davasi reddedildi",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/film-davasi-reddedildi-43390272",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.650466+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/film-davasi-reddedildi-43390272",
-          "title": "Film davası reddedildi"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Mahkemeden Ahmet Kaya kararı: Odatv haklı çıktı",
-      "normalized_title": "mahkemeden ahmet kaya karari odatv hakli cikti",
-      "url": "https://www.odatv.com/kultur-sanat/mahkemeden-ahmet-kaya-karari-odatv-hakli-cikti-120172793",
-      "source": "odatv.com",
-      "source_role": "publisher",
-      "source_domain": "odatv.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.650530+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "odatv.com",
-          "source_domain": "odatv.com",
-          "url": "https://www.odatv.com/kultur-sanat/mahkemeden-ahmet-kaya-karari-odatv-hakli-cikti-120172793",
-          "title": "Mahkemeden Ahmet Kaya kararı: Odatv haklı çıktı"
-        }
-      ],
-      "publisher_domains": [
-        "odatv.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Mahkeme kararını açıkladı",
-      "normalized_title": "mahkeme kararini acikladi",
-      "url": "https://www.milliyet.com.tr/magazin/mahkeme-kararini-acikladi-7707439",
-      "source": "milliyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.650583+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/mahkeme-kararini-acikladi-7707439",
-          "title": "Mahkeme kararını açıkladı"
-        }
-      ],
-      "publisher_domains": [
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ahmet Kaya'nın ailesine mahkemeden bir ret daha!",
-      "normalized_title": "ahmet kaya nin ailesine mahkemeden bir ret daha",
-      "url": "https://www.haberler.com/magazin/ahmet-kayanin-ailesine-mahkemeden-bir-ret-daha-20459823-haberi/",
-      "source": "haberler.com",
-      "source_role": "publisher",
-      "source_domain": "haberler.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.650646+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/magazin/ahmet-kayanin-ailesine-mahkemeden-bir-ret-daha-20459823-haberi/",
-          "title": "Ahmet Kaya'nın ailesine mahkemeden bir ret daha!"
-        }
-      ],
-      "publisher_domains": [
-        "haberler.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ufuk Beydemir baba oldu. \"25 hafta 3 günlükken aramıza katıldı\"",
-      "normalized_title": "ufuk beydemir baba oldu 25 hafta 3 gunlukken aramiza katildi",
-      "url": "https://www.ntv.com.tr/yasam/galeri-ufuk-beydemir-baba-oldu-25-hafta-3-gunlukken-aramiza-katildi-1752472",
+      "title": "Derya Uluğ ile Asil Gök evlendi. Ünlüleri buluşturan düğün",
+      "normalized_title": "derya ulug ile asil gok evlendi unluleri bulusturan dugun",
+      "url": "https://www.ntv.com.tr/yasam/galeri-derya-ulug-ile-asil-gok-evlendi-unluleri-bulusturan-dugun-1752616",
       "source": "ntv.com.tr",
       "source_role": "publisher",
       "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.650718+00:00",
+      "collected_at": "2026-11-26T10:35:01.724503+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -823,8 +529,8 @@
         {
           "source": "ntv.com.tr",
           "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-ufuk-beydemir-baba-oldu-25-hafta-3-gunlukken-aramiza-katildi-1752472",
-          "title": "Ufuk Beydemir baba oldu. \"25 hafta 3 günlükken aramıza katıldı\""
+          "url": "https://www.ntv.com.tr/yasam/galeri-derya-ulug-ile-asil-gok-evlendi-unluleri-bulusturan-dugun-1752616",
+          "title": "Derya Uluğ ile Asil Gök evlendi. Ünlüleri buluşturan düğün"
         }
       ],
       "publisher_domains": [
@@ -843,16 +549,53 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Ufuk Beydemir'in kızı 25 haftalık doğdu: Adını açıkladı",
-      "normalized_title": "ufuk beydemir in kizi 25 haftalik dogdu adini acikladi",
-      "url": "https://www.sozcu.com.tr/ufuk-beydemir-in-kizi-25-haftalik-dogdu-adini-acikladi-p384187",
+      "title": "Derya Uluğ ve Asil Gök 10 yıllık aşklarını evlilikle taçlandırdı",
+      "normalized_title": "derya ulug ve asil gok 10 yillik asklarini evlilikle taclandirdi",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/derya-ulug-ve-asil-gok-10-yillik-asklarini-evlilikle-taclandirdi-43391346",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-26T10:35:01.724571+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/derya-ulug-ve-asil-gok-10-yillik-asklarini-evlilikle-taclandirdi-43391346",
+          "title": "Derya Uluğ ve Asil Gök 10 yıllık aşklarını evlilikle taçlandırdı"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Serdar Ortaç'ın düğünde sorduğu soruya herkes dondu kaldı",
+      "normalized_title": "serdar ortac in dugunde sordugu soruya herkes dondu kaldi",
+      "url": "https://www.sozcu.com.tr/serdar-ortac-in-dugunde-sordugu-soruya-herkes-dondu-kaldi-p384606",
       "source": "sozcu.com.tr",
       "source_role": "publisher",
       "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.650785+00:00",
+      "collected_at": "2026-11-26T10:35:01.724639+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -860,8 +603,8 @@
         {
           "source": "sozcu.com.tr",
           "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/ufuk-beydemir-in-kizi-25-haftalik-dogdu-adini-acikladi-p384187",
-          "title": "Ufuk Beydemir'in kızı 25 haftalık doğdu: Adını açıkladı"
+          "url": "https://www.sozcu.com.tr/serdar-ortac-in-dugunde-sordugu-soruya-herkes-dondu-kaldi-p384606",
+          "title": "Serdar Ortaç'ın düğünde sorduğu soruya herkes dondu kaldı"
         }
       ],
       "publisher_domains": [
@@ -880,16 +623,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Ufuk Beydemir baba oldu! İşte bebeğinin adı ve cinsiyeti",
-      "normalized_title": "ufuk beydemir baba oldu iste bebeginin adi ve cinsiyeti",
-      "url": "https://www.milliyet.com.tr/magazin/galeri/ufuk-beydemir-baba-oldu-iste-bebeginin-adi-ve-cinsiyeti-7707377",
+      "title": "Ayrıldıkları iddia edilmişti! Özgü Kaya ile sevgilisi Murat Dalkılıç düğünde ortaya çıktı",
+      "normalized_title": "ayrildiklari iddia edilmisti ozgu kaya ile sevgilisi murat dalkilic dugunde ortaya cikti",
+      "url": "https://www.milliyet.com.tr/magazin/galeri/ayrildiklari-iddia-edilmisti-ozgu-kaya-ile-sevgilisi-murat-dalkilic-dugunde-ortaya-cikti-7707999",
       "source": "milliyet.com.tr",
       "source_role": "publisher",
       "source_domain": "milliyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.650855+00:00",
+      "collected_at": "2026-11-26T10:35:01.724716+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -897,8 +640,8 @@
         {
           "source": "milliyet.com.tr",
           "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/galeri/ufuk-beydemir-baba-oldu-iste-bebeginin-adi-ve-cinsiyeti-7707377",
-          "title": "Ufuk Beydemir baba oldu! İşte bebeğinin adı ve cinsiyeti"
+          "url": "https://www.milliyet.com.tr/magazin/galeri/ayrildiklari-iddia-edilmisti-ozgu-kaya-ile-sevgilisi-murat-dalkilic-dugunde-ortaya-cikti-7707999",
+          "title": "Ayrıldıkları iddia edilmişti! Özgü Kaya ile sevgilisi Murat Dalkılıç düğünde ortaya çıktı"
         }
       ],
       "publisher_domains": [
@@ -917,29 +660,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Ufuk Beydemir'den sevgilisi Sharon Kovacs ve bebeğinin sağlık durumu hakkında yeni açıklama: Çok yıpratıcı bir süreç",
-      "normalized_title": "ufuk beydemir den sevgilisi sharon kovacs ve bebeginin saglik durumu hakkinda yeni aciklama cok yipratici bir surec",
-      "url": "https://www.haberturk.com/magazin/foto/ufuk-beydemir-den-sevgilisi-sharon-kovacs-ve-bebeginin-saglik-durumu-hakkinda-yeni-aciklama-cok-3929027",
-      "source": "haberturk.com",
+      "title": "Melisa Döngel'den evlilik açıklaması! Lucas Torreira sorusuna da yanıt verdi",
+      "normalized_title": "melisa dongel den evlilik aciklamasi lucas torreira sorusuna da yanit verdi",
+      "url": "https://www.cnnturk.com/magazin/galeri/melisa-dongelden-evlilik-aciklamasi-lucas-torreira-sorusuna-da-yanit-verdi-3498369",
+      "source": "cnnturk.com",
       "source_role": "publisher",
-      "source_domain": "haberturk.com",
+      "source_domain": "cnnturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.650969+00:00",
+      "collected_at": "2026-11-26T10:35:01.724840+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/magazin/foto/ufuk-beydemir-den-sevgilisi-sharon-kovacs-ve-bebeginin-saglik-durumu-hakkinda-yeni-aciklama-cok-3929027",
-          "title": "Ufuk Beydemir'den sevgilisi Sharon Kovacs ve bebeğinin sağlık durumu hakkında yeni açıklama: Çok yıpratıcı bir süreç"
+          "source": "cnnturk.com",
+          "source_domain": "cnnturk.com",
+          "url": "https://www.cnnturk.com/magazin/galeri/melisa-dongelden-evlilik-aciklamasi-lucas-torreira-sorusuna-da-yanit-verdi-3498369",
+          "title": "Melisa Döngel'den evlilik açıklaması! Lucas Torreira sorusuna da yanıt verdi"
         }
       ],
       "publisher_domains": [
-        "haberturk.com"
+        "cnnturk.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -954,16 +697,53 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Can Bonomo oğluyla motosiklette görüntülendi! Sadece oğluna kask taktı",
-      "normalized_title": "can bonomo ogluyla motosiklette goruntulendi sadece ogluna kask takti",
-      "url": "https://www.posta.com.tr/magazin/can-bonomo-ogluyla-motosiklette-goruntulendi-sadece-ogluna-kask-takti-3068126",
+      "title": "Murda'yla Ayrılan Melisa Döngel'e Evlilik Sorusu: Annesi Damat Adayı Şartlarını Sıraladı",
+      "normalized_title": "murda yla ayrilan melisa dongel e evlilik sorusu annesi damat adayi sartlarini siraladi",
+      "url": "https://onedio.com/haber/murda-yla-ayrilan-melisa-dongel-e-evlilik-sorusu-annesi-damat-adayi-sartlarini-siraladi-1397165",
+      "source": "onedio.com",
+      "source_role": "publisher",
+      "source_domain": "onedio.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-26T10:35:01.724955+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "onedio.com",
+          "source_domain": "onedio.com",
+          "url": "https://onedio.com/haber/murda-yla-ayrilan-melisa-dongel-e-evlilik-sorusu-annesi-damat-adayi-sartlarini-siraladi-1397165",
+          "title": "Murda'yla Ayrılan Melisa Döngel'e Evlilik Sorusu: Annesi Damat Adayı Şartlarını Sıraladı"
+        }
+      ],
+      "publisher_domains": [
+        "onedio.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Oyuncu Çağla Demir hastanelik oldu! Bodrum'da düşerek omzunu kırdı",
+      "normalized_title": "oyuncu cagla demir hastanelik oldu bodrum da duserek omzunu kirdi",
+      "url": "https://www.posta.com.tr/magazin/oyuncu-cagla-demir-hastanelik-oldu-bodrumda-duserek-omzunu-kirdi-3068523",
       "source": "posta.com.tr",
       "source_role": "publisher",
       "source_domain": "posta.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.651202+00:00",
+      "collected_at": "2026-11-26T10:35:01.725017+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -971,12 +751,160 @@
         {
           "source": "posta.com.tr",
           "source_domain": "posta.com.tr",
-          "url": "https://www.posta.com.tr/magazin/can-bonomo-ogluyla-motosiklette-goruntulendi-sadece-ogluna-kask-takti-3068126",
-          "title": "Can Bonomo oğluyla motosiklette görüntülendi! Sadece oğluna kask taktı"
+          "url": "https://www.posta.com.tr/magazin/oyuncu-cagla-demir-hastanelik-oldu-bodrumda-duserek-omzunu-kirdi-3068523",
+          "title": "Oyuncu Çağla Demir hastanelik oldu! Bodrum'da düşerek omzunu kırdı"
         }
       ],
       "publisher_domains": [
         "posta.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Kutlama öncesi bakım yaptırdı",
+      "normalized_title": "kutlama oncesi bakim yaptirdi",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kutlama-oncesi-bakim-yaptirdi-43391365",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-26T10:35:01.725064+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kutlama-oncesi-bakim-yaptirdi-43391365",
+          "title": "Kutlama öncesi bakım yaptırdı"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Hande Erçel 33. yaşına girdi! Ablası Gamze Erçel’den duygulandıran diğer yarım mesajı...",
+      "normalized_title": "hande ercel 33 yasina girdi ablasi gamze ercel den duygulandiran diger yarim mesaji",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/hande-ercel-33-yasina-girdi-ablasi-gamze-ercelden-duygulandiran-diger-yarim-mesaji",
+      "source": "sabah.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sabah.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-26T10:35:01.725202+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/hande-ercel-33-yasina-girdi-ablasi-gamze-ercelden-duygulandiran-diger-yarim-mesaji",
+          "title": "Hande Erçel 33. yaşına girdi! Ablası Gamze Erçel’den duygulandıran diğer yarım mesajı..."
+        }
+      ],
+      "publisher_domains": [
+        "sabah.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Doğukan Güngör'ün Kızılcık Şerbeti özlemi. \"Kadrodaki iki oyuncu şansım oldu\"",
+      "normalized_title": "dogukan gungor un kizilcik serbeti ozlemi kadrodaki iki oyuncu sansim oldu",
+      "url": "https://www.ntv.com.tr/yasam/galeri-dogukan-gungorun-kizilcik-serbeti-ozlemi-kadrodaki-iki-oyuncu-sansim-oldu-1752581",
+      "source": "ntv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ntv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-26T10:35:01.725310+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-dogukan-gungorun-kizilcik-serbeti-ozlemi-kadrodaki-iki-oyuncu-sansim-oldu-1752581",
+          "title": "Doğukan Güngör'ün Kızılcık Şerbeti özlemi. \"Kadrodaki iki oyuncu şansım oldu\""
+        }
+      ],
+      "publisher_domains": [
+        "ntv.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Doğukan Güngör'den şaşırtan itiraf! İlk başrolünü alınca benden ayrıldı",
+      "normalized_title": "dogukan gungor den sasirtan itiraf ilk basrolunu alinca benden ayrildi",
+      "url": "https://www.ensonhaber.com/dogukan-gungorden-sasirtan-itirafi-ilk-basrolunu-alinca-benden-ayrildi-h1585704",
+      "source": "ensonhaber.com",
+      "source_role": "publisher",
+      "source_domain": "ensonhaber.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-26T10:35:01.725483+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ensonhaber.com",
+          "source_domain": "ensonhaber.com",
+          "url": "https://www.ensonhaber.com/dogukan-gungorden-sasirtan-itirafi-ilk-basrolunu-alinca-benden-ayrildi-h1585704",
+          "title": "Doğukan Güngör'den şaşırtan itiraf! İlk başrolünü alınca benden ayrıldı"
+        }
+      ],
+      "publisher_domains": [
+        "ensonhaber.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1000,7 +928,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.651286+00:00",
+      "collected_at": "2026-11-26T10:35:01.725553+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1028,29 +956,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "2 Aile Arasında Gişeyi Sallamaya Hazırlanıyor: 45 Bin Bilet Satıldı, Ek Seanslar Açılıyor!",
-      "normalized_title": "2 aile arasinda giseyi sallamaya hazirlaniyor 45 bin bilet satildi ek seanslar aciliyor",
-      "url": "https://www.egeyedair.com/2-aile-arasinda-giseyi-sallamaya-hazirlaniyor-45-bin-bilet-satildi-ek-seanslar-aciliyor/52838",
-      "source": "egeyedair.com",
+      "title": "Devin Özgür Çınar ile Batuhan Bozkurt Yüzgüleç: Herkesin ayrı teline dokunacak",
+      "normalized_title": "devin ozgur cinar ile batuhan bozkurt yuzgulec herkesin ayri teline dokunacak",
+      "url": "https://www.haberturk.com/kesfet/devin-ozgur-cinar-ile-batuhan-bozkurt-yuzgulec-herkesin-ayri-teline-dokunacak-3929976",
+      "source": "haberturk.com",
       "source_role": "publisher",
-      "source_domain": "egeyedair.com",
+      "source_domain": "haberturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.651473+00:00",
+      "collected_at": "2026-11-26T10:35:01.725621+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "egeyedair.com",
-          "source_domain": "egeyedair.com",
-          "url": "https://www.egeyedair.com/2-aile-arasinda-giseyi-sallamaya-hazirlaniyor-45-bin-bilet-satildi-ek-seanslar-aciliyor/52838",
-          "title": "2 Aile Arasında Gişeyi Sallamaya Hazırlanıyor: 45 Bin Bilet Satıldı, Ek Seanslar Açılıyor!"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/kesfet/devin-ozgur-cinar-ile-batuhan-bozkurt-yuzgulec-herkesin-ayri-teline-dokunacak-3929976",
+          "title": "Devin Özgür Çınar ile Batuhan Bozkurt Yüzgüleç: Herkesin ayrı teline dokunacak"
         }
       ],
       "publisher_domains": [
-        "egeyedair.com"
+        "haberturk.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1065,29 +993,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Rihanna ve A$AP Rocky Kusursuz Bir Uyum İçinde",
-      "normalized_title": "rihanna ve a ap rocky kusursuz bir uyum icinde",
-      "url": "https://vogue.com.tr/unlu-stili/rihanna-ve-a-ap-rocky-kusursuz-bir-uyum-icinde",
-      "source": "vogue.com.tr",
+      "title": "Avrupa’da seyircili gala",
+      "normalized_title": "avrupa da seyircili gala",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/avrupada-seyircili-gala-43388724",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "vogue.com.tr",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.651536+00:00",
+      "collected_at": "2026-11-26T10:35:01.725663+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "vogue.com.tr",
-          "source_domain": "vogue.com.tr",
-          "url": "https://vogue.com.tr/unlu-stili/rihanna-ve-a-ap-rocky-kusursuz-bir-uyum-icinde",
-          "title": "Rihanna ve A$AP Rocky Kusursuz Bir Uyum İçinde"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/avrupada-seyircili-gala-43388724",
+          "title": "Avrupa’da seyircili gala"
         }
       ],
       "publisher_domains": [
-        "vogue.com.tr"
+        "hurriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1102,29 +1030,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Emre Kınay ve Emine Ün'ün kızı Duru büyüdü: 22 yaşındaki güzelliğiyle annesinin kopyası...",
-      "normalized_title": "emre kinay ve emine un un kizi duru buyudu 22 yasindaki guzelligiyle annesinin kopyasi",
-      "url": "https://www.haber3.com/foto-galeri/magazin/emre-kinay-ve-emine-unun-kizi-duru-buyudu-22-yasindaki-guzelligiyle-annesinin-kopyasi-galeri-6269768",
-      "source": "haber3.com",
+      "title": "Biletleri tükenen “2 Aile Arasında” için Malta’da iki yeni seans açıldı",
+      "normalized_title": "biletleri tukenen 2 aile arasinda icin malta da iki yeni seans acildi",
+      "url": "https://www.maltahaber.com/kultur/biletleri-tukenen-2-aile-arasinda-icin-maltada-iki-yeni-seans-acildi/",
+      "source": "maltahaber.com",
       "source_role": "publisher",
-      "source_domain": "haber3.com",
+      "source_domain": "maltahaber.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.651820+00:00",
+      "collected_at": "2026-11-26T10:35:01.725736+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "haber3.com",
-          "source_domain": "haber3.com",
-          "url": "https://www.haber3.com/foto-galeri/magazin/emre-kinay-ve-emine-unun-kizi-duru-buyudu-22-yasindaki-guzelligiyle-annesinin-kopyasi-galeri-6269768",
-          "title": "Emre Kınay ve Emine Ün'ün kızı Duru büyüdü: 22 yaşındaki güzelliğiyle annesinin kopyası..."
+          "source": "maltahaber.com",
+          "source_domain": "maltahaber.com",
+          "url": "https://www.maltahaber.com/kultur/biletleri-tukenen-2-aile-arasinda-icin-maltada-iki-yeni-seans-acildi/",
+          "title": "Biletleri tükenen “2 Aile Arasında” için Malta’da iki yeni seans açıldı"
         }
       ],
       "publisher_domains": [
-        "haber3.com"
+        "maltahaber.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1139,16 +1067,53 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Şebnem Sönmez: \"Senaryoda hikâyenin ve yazının gücüne bakarım\"",
-      "normalized_title": "sebnem sonmez senaryoda hikayenin ve yazinin gucune bakarim",
-      "url": "https://www.ntv.com.tr/yasam/sebnem-sonmez-senaryoda-hikayenin-ve-yazinin-gucune-bakarim-1752331",
+      "title": "Ufuk Beydemir'in kızı 25 haftalık doğdu: Adını açıkladı",
+      "normalized_title": "ufuk beydemir in kizi 25 haftalik dogdu adini acikladi",
+      "url": "https://www.sozcu.com.tr/ufuk-beydemir-in-kizi-25-haftalik-dogdu-adini-acikladi-p384187",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-26T10:35:01.725799+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/ufuk-beydemir-in-kizi-25-haftalik-dogdu-adini-acikladi-p384187",
+          "title": "Ufuk Beydemir'in kızı 25 haftalık doğdu: Adını açıkladı"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Ufuk Beydemir baba oldu. \"25 hafta 3 günlükken aramıza katıldı\"",
+      "normalized_title": "ufuk beydemir baba oldu 25 hafta 3 gunlukken aramiza katildi",
+      "url": "https://www.ntv.com.tr/yasam/galeri-ufuk-beydemir-baba-oldu-25-hafta-3-gunlukken-aramiza-katildi-1752472",
       "source": "ntv.com.tr",
       "source_role": "publisher",
       "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.651902+00:00",
+      "collected_at": "2026-11-26T10:35:01.725859+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1156,8 +1121,8 @@
         {
           "source": "ntv.com.tr",
           "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/sebnem-sonmez-senaryoda-hikayenin-ve-yazinin-gucune-bakarim-1752331",
-          "title": "Şebnem Sönmez: \"Senaryoda hikâyenin ve yazının gücüne bakarım\""
+          "url": "https://www.ntv.com.tr/yasam/galeri-ufuk-beydemir-baba-oldu-25-hafta-3-gunlukken-aramiza-katildi-1752472",
+          "title": "Ufuk Beydemir baba oldu. \"25 hafta 3 günlükken aramıza katıldı\""
         }
       ],
       "publisher_domains": [
@@ -1176,29 +1141,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Ediz Hun 87'nci yaşına adım attı: Eşi Berna Hun ile fotoğrafını paylaştı",
-      "normalized_title": "ediz hun 87 nci yasina adim atti esi berna hun ile fotografini paylasti",
-      "url": "https://www.cumhuriyet.com.tr/magazin/ediz-hun-87-nci-yasina-adim-atti-esi-berna-hun-ile-fotografini-paylasti-2558518",
-      "source": "cumhuriyet.com.tr",
+      "title": "Ufuk Beydemir'den sevgilisi Sharon Kovacs ve bebeğinin sağlık durumu hakkında yeni açıklama: Çok yıpratıcı bir süreç",
+      "normalized_title": "ufuk beydemir den sevgilisi sharon kovacs ve bebeginin saglik durumu hakkinda yeni aciklama cok yipratici bir surec",
+      "url": "https://www.haberturk.com/magazin/foto/ufuk-beydemir-den-sevgilisi-sharon-kovacs-ve-bebeginin-saglik-durumu-hakkinda-yeni-aciklama-cok-3929027",
+      "source": "haberturk.com",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "haberturk.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.651981+00:00",
+      "collected_at": "2026-11-26T10:35:01.725941+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/ediz-hun-87-nci-yasina-adim-atti-esi-berna-hun-ile-fotografini-paylasti-2558518",
-          "title": "Ediz Hun 87'nci yaşına adım attı: Eşi Berna Hun ile fotoğrafını paylaştı"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/foto/ufuk-beydemir-den-sevgilisi-sharon-kovacs-ve-bebeginin-saglik-durumu-hakkinda-yeni-aciklama-cok-3929027",
+          "title": "Ufuk Beydemir'den sevgilisi Sharon Kovacs ve bebeğinin sağlık durumu hakkında yeni açıklama: Çok yıpratıcı bir süreç"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr"
+        "haberturk.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1213,29 +1178,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Yeşilçam’ın yakışıklı jönü Ediz Hun 53 yıllık eşiyle poz verdi",
-      "normalized_title": "yesilcam in yakisikli jonu ediz hun 53 yillik esiyle poz verdi",
-      "url": "https://www.takvim.com.tr/galeri/magazin/ediz-hun-86-yasina-girdi-esi-berna-hunla-paylasimi-gundem-oldu",
-      "source": "takvim.com.tr",
+      "title": "Ufuk Beydemir baba oldu! İşte bebeğinin adı ve cinsiyeti",
+      "normalized_title": "ufuk beydemir baba oldu iste bebeginin adi ve cinsiyeti",
+      "url": "https://www.milliyet.com.tr/magazin/galeri/ufuk-beydemir-baba-oldu-iste-bebeginin-adi-ve-cinsiyeti-7707377",
+      "source": "milliyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "takvim.com.tr",
+      "source_domain": "milliyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.652052+00:00",
+      "collected_at": "2026-11-26T10:35:01.725999+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "takvim.com.tr",
-          "source_domain": "takvim.com.tr",
-          "url": "https://www.takvim.com.tr/galeri/magazin/ediz-hun-86-yasina-girdi-esi-berna-hunla-paylasimi-gundem-oldu",
-          "title": "Yeşilçam’ın yakışıklı jönü Ediz Hun 53 yıllık eşiyle poz verdi"
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/galeri/ufuk-beydemir-baba-oldu-iste-bebeginin-adi-ve-cinsiyeti-7707377",
+          "title": "Ufuk Beydemir baba oldu! İşte bebeğinin adı ve cinsiyeti"
         }
       ],
       "publisher_domains": [
-        "takvim.com.tr"
+        "milliyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1250,29 +1215,103 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Tam 86 yıl geride kaldı! Yeşilçam’ın usta ismi Ediz Hun’un doğum günü paylaşımı herkesi duygulandırdı...",
-      "normalized_title": "tam 86 yil geride kaldi yesilcam in usta ismi ediz hun un dogum gunu paylasimi herkesi duygulandirdi",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/tam-86-yil-geride-kaldi-yesilcamin-usta-ismi-ediz-hunun-dogum-gunu-paylasimi-herkesi-duygulandirdi",
-      "source": "sabah.com.tr",
+      "title": "56 yaşında hem cazibenin hem hafif dekoltenin dersini verdi",
+      "normalized_title": "56 yasinda hem cazibenin hem hafif dekoltenin dersini verdi",
+      "url": "https://www.hurriyet.com.tr/kelebek/magazin/50sinden-sonra-cazibenin-dersini-verdi-hafif-dekoltesi-alkis-topladi-43390985",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-25T21:56:29.652144+00:00",
+      "collected_at": "2026-11-26T10:35:01.726057+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/tam-86-yil-geride-kaldi-yesilcamin-usta-ismi-ediz-hunun-dogum-gunu-paylasimi-herkesi-duygulandirdi",
-          "title": "Tam 86 yıl geride kaldı! Yeşilçam’ın usta ismi Ediz Hun’un doğum günü paylaşımı herkesi duygulandırdı..."
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/magazin/50sinden-sonra-cazibenin-dersini-verdi-hafif-dekoltesi-alkis-topladi-43390985",
+          "title": "56 yaşında hem cazibenin hem hafif dekoltenin dersini verdi"
         }
       ],
       "publisher_domains": [
-        "sabah.com.tr"
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "118 film çeken Temel Gürsu, Ferdi Tayfur'la tanışmasını anlattı",
+      "normalized_title": "118 film ceken temel gursu ferdi tayfur la tanismasini anlatti",
+      "url": "https://www.habercitv.com.tr/118-film-ceken-temel-gursu-ferdi-tayfurla-tanismasini-anlatti",
+      "source": "habercitv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "habercitv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-26T10:35:01.726189+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "habercitv.com.tr",
+          "source_domain": "habercitv.com.tr",
+          "url": "https://www.habercitv.com.tr/118-film-ceken-temel-gursu-ferdi-tayfurla-tanismasini-anlatti",
+          "title": "118 film çeken Temel Gürsu, Ferdi Tayfur'la tanışmasını anlattı"
+        }
+      ],
+      "publisher_domains": [
+        "habercitv.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "118 film ve 47 yıllık büyük aşk: Temel Gürsu Yeşilçam'ın altın yıllarını anlattı",
+      "normalized_title": "118 film ve 47 yillik buyuk ask temel gursu yesilcam in altin yillarini anlatti",
+      "url": "https://www.izgazete.net/118-film-ve-47-yillik-buyuk-ask-temel-gursu-yesilcamin-altin-yillarini-anlatti",
+      "source": "izgazete.net",
+      "source_role": "publisher",
+      "source_domain": "izgazete.net",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-26T10:35:01.726256+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "izgazete.net",
+          "source_domain": "izgazete.net",
+          "url": "https://www.izgazete.net/118-film-ve-47-yillik-buyuk-ask-temel-gursu-yesilcamin-altin-yillarini-anlatti",
+          "title": "118 film ve 47 yıllık büyük aşk: Temel Gürsu Yeşilçam'ın altın yıllarını anlattı"
+        }
+      ],
+      "publisher_domains": [
+        "izgazete.net"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
