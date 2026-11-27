@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T10:39:08.359476+00:00",
+  "generated_at": "2026-11-27T16:53:30.478754+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
@@ -14,7 +14,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T10:38:29.275858+00:00",
+      "collected_at": "2026-11-27T16:52:51.478009+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -24,6 +24,12 @@
           "source_domain": "ntv.com.tr",
           "url": "https://www.ntv.com.tr/yasam/yogun-bakimda-tedavi-goruyordu-killa-hakandan-haftalar-sonra-guzel-haber-1752802",
           "title": "Yoğun bakımda tedavi görüyordu. Killa Hakan'dan haftalar sonra güzel haber"
+        },
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/yasam/yogun-bakimda-tedavi-goruyordu-killa-hakan-dan-sevindiren-haber-2559663",
+          "title": "Yoğun bakımda tedavi görüyordu: Killa Hakan'dan sevindiren haber"
         },
         {
           "source": "haberturk.com",
@@ -39,17 +45,18 @@
         }
       ],
       "publisher_domains": [
+        "cumhuriyet.com.tr",
         "haberturk.com",
         "ntv.com.tr",
         "sabah.com.tr"
       ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
+      "publisher_count": 4,
+      "direct_article_count": 4,
       "event_member_count": 4,
-      "discovery_item_count": 1,
+      "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.5,
+      "popularity_score": 40.0,
       "possible_syndication": false,
       "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
       "publication_approved": false,
@@ -84,6 +91,27 @@
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
         },
         {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "title": "Yoğun bakımda tedavi görüyordu: Killa Hakan'dan sevindiren haber",
+          "summary": "",
+          "url": "https://www.cumhuriyet.com.tr/yasam/yogun-bakimda-tedavi-goruyordu-killa-hakan-dan-sevindiren-haber-2559663",
+          "match_score": 0.82,
+          "shared_keywords": [
+            "bak",
+            "goruyordu",
+            "haber",
+            "hakan",
+            "killa",
+            "mda",
+            "sevindiren",
+            "tedavi",
+            "yogun"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        },
+        {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
           "title": "Killa Hakan'dan haber var",
@@ -102,36 +130,45 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Susuz Yaz'ın yayın tarihi belli oldu: 1 Aralık'ta Kanal D'de başlıyor",
-      "normalized_title": "susuz yaz in yayin tarihi belli oldu 1 aralik ta kanal d de basliyor",
-      "url": "https://www.dha.com.tr/kultur-sanat/susuz-yazin-yayin-tarihi-belli-oldu-1-aralikta-kanal-dde-basliyor-2988259",
-      "source": "dha.com.tr",
+      "title": "Aile kursam fena olmaz",
+      "normalized_title": "aile kursam fena olmaz",
+      "url": "https://www.hurriyet.com.tr/kelebek/hayat/aile-kursam-fena-olmaz-43391367",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "dha.com.tr",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T10:38:29.273179+00:00",
+      "collected_at": "2026-11-27T16:52:51.478340+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
+      "also_reported_by": [
+        {
+          "source": "milliyet.com.tr",
+          "source_role": "publisher",
+          "source_domain": "milliyet.com.tr",
+          "title": "‘Aile kursam fena olmaz!’",
+          "url": "https://www.milliyet.com.tr/magazin/aile-kursam-fena-olmaz-7708081",
+          "published_at": null
+        }
+      ],
       "source_articles": [
         {
-          "source": "dha.com.tr",
-          "source_domain": "dha.com.tr",
-          "url": "https://www.dha.com.tr/kultur-sanat/susuz-yazin-yayin-tarihi-belli-oldu-1-aralikta-kanal-dde-basliyor-2988259",
-          "title": "Susuz Yaz'ın yayın tarihi belli oldu: 1 Aralık'ta Kanal D'de başlıyor"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/aile-kursam-fena-olmaz-43391367",
+          "title": "Aile kursam fena olmaz"
         },
         {
-          "source": "yenisafak.com",
-          "source_domain": "yenisafak.com",
-          "url": "https://www.yenisafak.com/hayat/susuz-yazin-yayin-tarihi-belli-oldu-4876630",
-          "title": "Susuz Yaz’ın yayın tarihi belli oldu"
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/aile-kursam-fena-olmaz-7708081",
+          "title": "‘Aile kursam fena olmaz!’"
         }
       ],
       "publisher_domains": [
-        "dha.com.tr",
-        "yenisafak.com"
+        "hurriyet.com.tr",
+        "milliyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -140,32 +177,31 @@
       "latest_published_at": null,
       "age_hours": 48.0,
       "popularity_score": 20.0,
-      "possible_syndication": false,
+      "possible_syndication": true,
       "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
       "publication_approved": false,
       "coverage_label": "multi_publisher",
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Susuz Yaz'ın yayın tarihi belli oldu: 1 Aralık'ta Kanal D'de başlıyor - Kültür Haberleri",
-        "og_title": "Susuz Yaz'ın yayın tarihi belli oldu: 1 Aralık'ta Kanal D'de başlıyor",
-        "description": "Kanal D'nin çekimleri Adana'da devam eden yeni dizisi Susuz Yaz'ın yayın tarihi belli oldu. Güçlü oyuncu kadrosu ve sürükleyici hikayesiyle izleyenleri 70'li yıllara götürmeye hazırlanan yapım, 1 Aralık Salı akşamı saat 20.00'de ekran yolculuğuna başlayacak.",
+        "page_title": "Aile kursam fena olmaz - Son Dakika Magazin Haberleri",
+        "og_title": "Aile kursam fena olmaz",
+        "description": "Melisa Döngel, önceki akşam annesi Natalia Orlova ile Arnavutköy’de bir mekân çıkışı görüntülendi.",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "yenisafak.com",
-          "source_domain": "yenisafak.com",
-          "title": "Susuz Yaz’ın yayın tarihi belli oldu",
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "title": "‘Aile kursam fena olmaz!’",
           "summary": "",
-          "url": "https://www.yenisafak.com/hayat/susuz-yazin-yayin-tarihi-belli-oldu-4876630",
-          "match_score": 0.75,
+          "url": "https://www.milliyet.com.tr/magazin/aile-kursam-fena-olmaz-7708081",
+          "match_score": 1.0,
           "shared_keywords": [
-            "belli",
-            "susuz",
-            "tarihi",
-            "yay",
-            "yaz"
+            "aile",
+            "fena",
+            "kursam",
+            "olmaz"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
@@ -174,36 +210,36 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Derya Uluğ ve Asil Gök evlendi... Serdar Ortaç'ın düğündeki sorusu gündem oldu: 'Ne buldun bu herifte?'",
-      "normalized_title": "derya ulug ve asil gok evlendi serdar ortac in dugundeki sorusu gundem oldu ne buldun bu herifte",
-      "url": "https://www.cumhuriyet.com.tr/magazin/derya-ulug-ve-asil-gok-evlendi-serdar-ortac-in-dugundeki-sorusu-gundem-oldu-ne-buldun-bu-herifte-2559623",
-      "source": "cumhuriyet.com.tr",
+      "title": "Talihsiz kaza, oyuncu Çağla Demir Bodrum’da düşünce ameliyat oldu",
+      "normalized_title": "talihsiz kaza oyuncu cagla demir bodrum da dusunce ameliyat oldu",
+      "url": "https://www.patronlardunyasi.com/talihsiz-kaza-oyuncu-cagla-demir-bodrumda-dusunce-ameliyat-oldu",
+      "source": "patronlardunyasi.com",
       "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
+      "source_domain": "patronlardunyasi.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T10:38:29.273520+00:00",
+      "collected_at": "2026-11-27T16:52:51.478730+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-derya-ulug-ile-asil-gok-evlendi-unluleri-bulusturan-dugun-1752616",
-          "title": "Derya Uluğ ile Asil Gök evlendi. Ünlüleri buluşturan düğün"
+          "source": "patronlardunyasi.com",
+          "source_domain": "patronlardunyasi.com",
+          "url": "https://www.patronlardunyasi.com/talihsiz-kaza-oyuncu-cagla-demir-bodrumda-dusunce-ameliyat-oldu",
+          "title": "Talihsiz kaza, oyuncu Çağla Demir Bodrum’da düşünce ameliyat oldu"
         },
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/derya-ulug-ve-asil-gok-evlendi-serdar-ortac-in-dugundeki-sorusu-gundem-oldu-ne-buldun-bu-herifte-2559623",
-          "title": "Derya Uluğ ve Asil Gök evlendi... Serdar Ortaç'ın düğündeki sorusu gündem oldu: 'Ne buldun bu herifte?'"
+          "source": "muglagazetesi.com.tr",
+          "source_domain": "muglagazetesi.com.tr",
+          "url": "https://www.muglagazetesi.com.tr/bodrum-haberleri/oyuncu-cagla-demir-bodrumda-dustu-omzu-kirildi-ameliyat-oldu-224082h",
+          "title": "Oyuncu Çağla Demir Bodrum’da Düştü, Omzu Kırıldı, Ameliyat Oldu"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "ntv.com.tr"
+        "muglagazetesi.com.tr",
+        "patronlardunyasi.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -219,25 +255,24 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Derya Uluğ ve Asil Gök evlendi... Serdar Ortaç'ın düğündeki sorusu gündem oldu: 'Ne buldun bu herifte?' - Son Dakika Magazin Haberleri | Cumhuriyet",
-        "og_title": "Derya Uluğ ve Asil Gök evlendi... Serdar Ortaç'ın düğündeki sorusu gündem oldu: 'Ne buldun bu herifte?'",
-        "description": "Şarkıcı Derya Uluğ ile müzisyen Asil Gök, 10 yıllık birlikteliklerini evlilikle taçlandırdı. Ünlü isimlerin katıldığı düğünde sahne alan Serdar Ortaç'ın Uluğ'a yönelttiği soru ve aldığı yanıt, gecenin dikkat çeken anlarından biri oldu.",
+        "page_title": "Talihsiz kaza, oyuncu Çağla Demir Bodrum’da düşünce ameliyat oldu - Patronlar Dünyası",
+        "og_title": "Talihsiz kaza, oyuncu Çağla Demir Bodrum’da düşünce ameliyat oldu - Patronlar Dünyası",
+        "description": "Medcezir, Kara Sevda, Çukur ve Yargı dizileriyle tanınan oyuncu Çağla Demir, Bodrum’da dengesini kaybedip düşmesi sonucu omzunu kırdı ve tendon yırtığı nedeniyle ameliyat edildi. Başarılı geçen operasyonun ardından sağlık durumunun iyi olduğunu duyurdu.",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "title": "Derya Uluğ ile Asil Gök evlendi. Ünlüleri buluşturan düğün",
+          "source": "muglagazetesi.com.tr",
+          "source_domain": "muglagazetesi.com.tr",
+          "title": "Oyuncu Çağla Demir Bodrum’da Düştü, Omzu Kırıldı, Ameliyat Oldu",
           "summary": "",
-          "url": "https://www.ntv.com.tr/yasam/galeri-derya-ulug-ile-asil-gok-evlendi-unluleri-bulusturan-dugun-1752616",
-          "match_score": 0.48,
+          "url": "https://www.muglagazetesi.com.tr/bodrum-haberleri/oyuncu-cagla-demir-bodrumda-dustu-omzu-kirildi-ameliyat-oldu-224082h",
+          "match_score": 0.64,
           "shared_keywords": [
-            "asil",
-            "derya",
-            "evlendi",
-            "gok",
-            "ulug"
+            "ameliyat",
+            "bodrum",
+            "cagla",
+            "demir"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
