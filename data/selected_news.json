@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-26T21:51:00.860773+00:00",
-  "candidate_count": 70,
-  "event_group_count": 49,
-  "multi_publisher_event_count": 7,
+  "generated_at": "2026-11-27T10:39:06.174415+00:00",
+  "candidate_count": 73,
+  "event_group_count": 41,
+  "multi_publisher_event_count": 12,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
@@ -17,78 +17,78 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.217666+00:00",
+      "collected_at": "2026-11-27T10:38:29.275858+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/yogun-bakimda-tedavi-goruyordu-killa-hakan-dan-sevindiren-haber-2559663",
-          "title": "Yoğun bakımda tedavi görüyordu: Killa Hakan'dan sevindiren haber"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/yogun-bakimda-tedavi-goruyordu-killa-hakandan-sevindiren-haber-hayat-bazen-zorlar",
-          "title": "Yoğun bakımda tedavi görüyordu! Killa Hakan’dan sevindiren haber: Hayat bazen zorlar!"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/yogun-bakimda-tedavi-goruyordu-killa-hakandan-haftalar-sonra-guzel-haber-1752802",
+          "title": "Yoğun bakımda tedavi görüyordu. Killa Hakan'dan haftalar sonra güzel haber"
         },
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
           "url": "https://www.haberturk.com/magazin/killa-hakan-dan-haber-var-3930367",
           "title": "Killa Hakan'dan haber var"
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/yogun-bakimda-tedavi-goruyordu-killa-hakandan-sevindiren-haber-hayat-bazen-zorlar",
+          "title": "Yoğun bakımda tedavi görüyordu! Killa Hakan’dan sevindiren haber: Hayat bazen zorlar!"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
         "haberturk.com",
+        "ntv.com.tr",
         "sabah.com.tr"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
+      "event_member_count": 4,
+      "discovery_item_count": 1,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 30.5,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Ahmet Uluçay'ın \"Karpuz Kabuğundan Gemiler Yapmak\" filmi televizyonda yayımlanacak",
-      "normalized_title": "ahmet ulucay in karpuz kabugundan gemiler yapmak filmi televizyonda yayimlanacak",
-      "url": "https://www.aa.com.tr/tr/kultur/ahmet-ulucayin-karpuz-kabugundan-gemiler-yapmak-filmi-televizyonda-yayimlanacak/4139501",
-      "source": "aa.com.tr",
+      "title": "Susuz Yaz'ın yayın tarihi belli oldu: 1 Aralık'ta Kanal D'de başlıyor",
+      "normalized_title": "susuz yaz in yayin tarihi belli oldu 1 aralik ta kanal d de basliyor",
+      "url": "https://www.dha.com.tr/kultur-sanat/susuz-yazin-yayin-tarihi-belli-oldu-1-aralikta-kanal-dde-basliyor-2988259",
+      "source": "dha.com.tr",
       "source_role": "publisher",
-      "source_domain": "aa.com.tr",
+      "source_domain": "dha.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216779+00:00",
+      "collected_at": "2026-11-27T10:38:29.273179+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "aa.com.tr",
-          "source_domain": "aa.com.tr",
-          "url": "https://www.aa.com.tr/tr/kultur/ahmet-ulucayin-karpuz-kabugundan-gemiler-yapmak-filmi-televizyonda-yayimlanacak/4139501",
-          "title": "Ahmet Uluçay'ın \"Karpuz Kabuğundan Gemiler Yapmak\" filmi televizyonda yayımlanacak"
+          "source": "dha.com.tr",
+          "source_domain": "dha.com.tr",
+          "url": "https://www.dha.com.tr/kultur-sanat/susuz-yazin-yayin-tarihi-belli-oldu-1-aralikta-kanal-dde-basliyor-2988259",
+          "title": "Susuz Yaz'ın yayın tarihi belli oldu: 1 Aralık'ta Kanal D'de başlıyor"
         },
         {
-          "source": "kanald.com.tr",
-          "source_domain": "kanald.com.tr",
-          "url": "https://www.kanald.com.tr/sinemalar/karpuz-kabugundan-gemiler-yapmak",
-          "title": "Karpuz Kabuğundan Gemiler Yapmak"
+          "source": "yenisafak.com",
+          "source_domain": "yenisafak.com",
+          "url": "https://www.yenisafak.com/hayat/susuz-yazin-yayin-tarihi-belli-oldu-4876630",
+          "title": "Susuz Yaz’ın yayın tarihi belli oldu"
         }
       ],
       "publisher_domains": [
-        "aa.com.tr",
-        "kanald.com.tr"
+        "dha.com.tr",
+        "yenisafak.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -103,36 +103,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Oyuncu Çağla Demir hastanelik oldu! Bodrum'da düşerek omzunu kırdı",
-      "normalized_title": "oyuncu cagla demir hastanelik oldu bodrum da duserek omzunu kirdi",
-      "url": "https://www.posta.com.tr/magazin/oyuncu-cagla-demir-hastanelik-oldu-bodrumda-duserek-omzunu-kirdi-3068523",
-      "source": "posta.com.tr",
+      "title": "Derya Uluğ ve Asil Gök evlendi... Serdar Ortaç'ın düğündeki sorusu gündem oldu: 'Ne buldun bu herifte?'",
+      "normalized_title": "derya ulug ve asil gok evlendi serdar ortac in dugundeki sorusu gundem oldu ne buldun bu herifte",
+      "url": "https://www.cumhuriyet.com.tr/magazin/derya-ulug-ve-asil-gok-evlendi-serdar-ortac-in-dugundeki-sorusu-gundem-oldu-ne-buldun-bu-herifte-2559623",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "posta.com.tr",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216941+00:00",
+      "collected_at": "2026-11-27T10:38:29.273520+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "kenttv.net",
-          "source_domain": "kenttv.net",
-          "url": "https://kenttv.net/haber/29227604/bodrumda-hastanelik-oldu",
-          "title": "Bodrum’da Hastanelik Oldu"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-derya-ulug-ile-asil-gok-evlendi-unluleri-bulusturan-dugun-1752616",
+          "title": "Derya Uluğ ile Asil Gök evlendi. Ünlüleri buluşturan düğün"
         },
         {
-          "source": "posta.com.tr",
-          "source_domain": "posta.com.tr",
-          "url": "https://www.posta.com.tr/magazin/oyuncu-cagla-demir-hastanelik-oldu-bodrumda-duserek-omzunu-kirdi-3068523",
-          "title": "Oyuncu Çağla Demir hastanelik oldu! Bodrum'da düşerek omzunu kırdı"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/derya-ulug-ve-asil-gok-evlendi-serdar-ortac-in-dugundeki-sorusu-gundem-oldu-ne-buldun-bu-herifte-2559623",
+          "title": "Derya Uluğ ve Asil Gök evlendi... Serdar Ortaç'ın düğündeki sorusu gündem oldu: 'Ne buldun bu herifte?'"
         }
       ],
       "publisher_domains": [
-        "kenttv.net",
-        "posta.com.tr"
+        "cumhuriyet.com.tr",
+        "ntv.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -149,25 +149,34 @@
   ],
   "event_groups_preview": [
     {
-      "title": "Mustafa Keser'in acı günü: 48 yıllık eşi Nilüfer Keser hayatını kaybetti",
+      "title": "Mustafa Keser'in acı günü. 48 yıllık eşi Nilüfer Keser hayatını kaybetti",
       "normalized_title": "mustafa keser in aci gunu 48 yillik esi nilufer keser hayatini kaybetti",
-      "url": "https://www.sozcu.com.tr/mustafa-keser-in-aci-gunu-48-yillik-esi-nilufer-keser-hayatini-kaybetti-p384622",
-      "source": "sozcu.com.tr",
+      "url": "https://www.ntv.com.tr/yasam/mustafa-keserin-aci-gunu-48-yillik-esi-nilufer-keser-hayatini-kaybetti-1752727",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216213+00:00",
+      "collected_at": "2026-11-27T10:38:29.272805+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
+      "also_reported_by": [
+        {
+          "source": "sozcu.com.tr",
+          "source_role": "publisher",
+          "source_domain": "sozcu.com.tr",
+          "title": "Mustafa Keser'in acı günü: 48 yıllık eşi Nilüfer Keser hayatını kaybetti",
+          "url": "https://www.sozcu.com.tr/mustafa-keser-in-aci-gunu-48-yillik-esi-nilufer-keser-hayatini-kaybetti-p384622",
+          "published_at": null
+        }
+      ],
       "source_articles": [
         {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/mustafa-keserin-esi-nilufer-keser-hayatini-kaybetti-43391984",
-          "title": "Mustafa Keser'in eşi Nilüfer Keser hayatını kaybetti"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/mustafa-keserin-aci-gunu-48-yillik-esi-nilufer-keser-hayatini-kaybetti-1752727",
+          "title": "Mustafa Keser'in acı günü. 48 yıllık eşi Nilüfer Keser hayatını kaybetti"
         },
         {
           "source": "sozcu.com.tr",
@@ -176,24 +185,31 @@
           "title": "Mustafa Keser'in acı günü: 48 yıllık eşi Nilüfer Keser hayatını kaybetti"
         },
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/nilufer-keser-kimdir-mustafa-keser-in-esi-nilufer-keser-neden-oldu-2559659",
-          "title": "Nilüfer Keser kimdir? Mustafa Keser'in eşi Nilüfer Keser neden öldü?"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/mustafa-keserin-esi-nilufer-keser-hayatini-kaybetti-43391984",
+          "title": "Mustafa Keser'in eşi Nilüfer Keser hayatını kaybetti"
+        },
+        {
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/guncel/mustafa-keserin-48-yillik-esinden-aci-haber-120172911",
+          "title": "Mustafa Keser'in üç çocuğunun annesinden acı haber: 48 yıllık eşini kaybetti"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
         "hurriyet.com.tr",
+        "ntv.com.tr",
+        "odatv.com",
         "sozcu.com.tr"
       ],
-      "publisher_count": 3,
-      "direct_article_count": 3,
-      "event_member_count": 3,
+      "publisher_count": 4,
+      "direct_article_count": 4,
+      "event_member_count": 4,
       "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 40.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -209,58 +225,58 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.217666+00:00",
+      "collected_at": "2026-11-27T10:38:29.275858+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/yogun-bakimda-tedavi-goruyordu-killa-hakan-dan-sevindiren-haber-2559663",
-          "title": "Yoğun bakımda tedavi görüyordu: Killa Hakan'dan sevindiren haber"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/yogun-bakimda-tedavi-goruyordu-killa-hakandan-sevindiren-haber-hayat-bazen-zorlar",
-          "title": "Yoğun bakımda tedavi görüyordu! Killa Hakan’dan sevindiren haber: Hayat bazen zorlar!"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/yogun-bakimda-tedavi-goruyordu-killa-hakandan-haftalar-sonra-guzel-haber-1752802",
+          "title": "Yoğun bakımda tedavi görüyordu. Killa Hakan'dan haftalar sonra güzel haber"
         },
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
           "url": "https://www.haberturk.com/magazin/killa-hakan-dan-haber-var-3930367",
           "title": "Killa Hakan'dan haber var"
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/yogun-bakimda-tedavi-goruyordu-killa-hakandan-sevindiren-haber-hayat-bazen-zorlar",
+          "title": "Yoğun bakımda tedavi görüyordu! Killa Hakan’dan sevindiren haber: Hayat bazen zorlar!"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
         "haberturk.com",
+        "ntv.com.tr",
         "sabah.com.tr"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
+      "event_member_count": 4,
+      "discovery_item_count": 1,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 30.5,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Ünlülere yönelik uyuşturucu soruşturması: 7 ünlü isim hakkında yeni gelişme",
-      "normalized_title": "unlulere yonelik uyusturucu sorusturmasi 7 unlu isim hakkinda yeni gelisme",
-      "url": "https://www.sozcu.com.tr/unlulere-yonelik-uyusturucu-sorusturmasi-7-unlu-isim-hakkinda-yeni-gelisme-p384669",
+      "title": "Son dakika... Ünlülere uyuşturucu soruşturmasında yeni gelişme: 3 isim tutuklandı",
+      "normalized_title": "son dakika unlulere uyusturucu sorusturmasinda yeni gelisme 3 isim tutuklandi",
+      "url": "https://www.sozcu.com.tr/son-dakika-unlulere-uyusturucu-sorusturmasinda-yeni-gelisme-3-isim-tutuklandi-p384798",
       "source": "sozcu.com.tr",
       "source_role": "publisher",
       "source_domain": "sozcu.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216402+00:00",
+      "collected_at": "2026-11-27T10:38:29.272568+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -268,18 +284,18 @@
         {
           "source": "sozcu.com.tr",
           "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/unlulere-yonelik-uyusturucu-sorusturmasi-7-unlu-isim-hakkinda-yeni-gelisme-p384669",
-          "title": "Ünlülere yönelik uyuşturucu soruşturması: 7 ünlü isim hakkında yeni gelişme"
+          "url": "https://www.sozcu.com.tr/son-dakika-unlulere-uyusturucu-sorusturmasinda-yeni-gelisme-3-isim-tutuklandi-p384798",
+          "title": "Son dakika... Ünlülere uyuşturucu soruşturmasında yeni gelişme: 3 isim tutuklandı"
         },
         {
-          "source": "haberturk.com",
-          "source_domain": "haberturk.com",
-          "url": "https://www.haberturk.com/gundem/unlulere-yonelik-uyusturucu-sorusturmasinda-3-tutuklama-talebi-3930446",
-          "title": "Ünlülere yönelik uyuşturucu soruşturmasında 3 tutuklama talebi"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/gundem/unlulere-yonelik-uyusturucu-sorusturmasinda-3-isim-tutuklandi-43392662",
+          "title": "Ünlülere yönelik uyuşturucu soruşturmasında 3 isim tutuklandı"
         }
       ],
       "publisher_domains": [
-        "haberturk.com",
+        "hurriyet.com.tr",
         "sozcu.com.tr"
       ],
       "publisher_count": 2,
@@ -295,36 +311,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Ahmet Uluçay'ın \"Karpuz Kabuğundan Gemiler Yapmak\" filmi televizyonda yayımlanacak",
-      "normalized_title": "ahmet ulucay in karpuz kabugundan gemiler yapmak filmi televizyonda yayimlanacak",
-      "url": "https://www.aa.com.tr/tr/kultur/ahmet-ulucayin-karpuz-kabugundan-gemiler-yapmak-filmi-televizyonda-yayimlanacak/4139501",
-      "source": "aa.com.tr",
+      "title": "Susuz Yaz'ın yayın tarihi belli oldu: 1 Aralık'ta Kanal D'de başlıyor",
+      "normalized_title": "susuz yaz in yayin tarihi belli oldu 1 aralik ta kanal d de basliyor",
+      "url": "https://www.dha.com.tr/kultur-sanat/susuz-yazin-yayin-tarihi-belli-oldu-1-aralikta-kanal-dde-basliyor-2988259",
+      "source": "dha.com.tr",
       "source_role": "publisher",
-      "source_domain": "aa.com.tr",
+      "source_domain": "dha.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216779+00:00",
+      "collected_at": "2026-11-27T10:38:29.273179+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "aa.com.tr",
-          "source_domain": "aa.com.tr",
-          "url": "https://www.aa.com.tr/tr/kultur/ahmet-ulucayin-karpuz-kabugundan-gemiler-yapmak-filmi-televizyonda-yayimlanacak/4139501",
-          "title": "Ahmet Uluçay'ın \"Karpuz Kabuğundan Gemiler Yapmak\" filmi televizyonda yayımlanacak"
+          "source": "dha.com.tr",
+          "source_domain": "dha.com.tr",
+          "url": "https://www.dha.com.tr/kultur-sanat/susuz-yazin-yayin-tarihi-belli-oldu-1-aralikta-kanal-dde-basliyor-2988259",
+          "title": "Susuz Yaz'ın yayın tarihi belli oldu: 1 Aralık'ta Kanal D'de başlıyor"
         },
         {
-          "source": "kanald.com.tr",
-          "source_domain": "kanald.com.tr",
-          "url": "https://www.kanald.com.tr/sinemalar/karpuz-kabugundan-gemiler-yapmak",
-          "title": "Karpuz Kabuğundan Gemiler Yapmak"
+          "source": "yenisafak.com",
+          "source_domain": "yenisafak.com",
+          "url": "https://www.yenisafak.com/hayat/susuz-yazin-yayin-tarihi-belli-oldu-4876630",
+          "title": "Susuz Yaz’ın yayın tarihi belli oldu"
         }
       ],
       "publisher_domains": [
-        "aa.com.tr",
-        "kanald.com.tr"
+        "dha.com.tr",
+        "yenisafak.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -339,36 +355,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Oyuncu Çağla Demir hastanelik oldu! Bodrum'da düşerek omzunu kırdı",
-      "normalized_title": "oyuncu cagla demir hastanelik oldu bodrum da duserek omzunu kirdi",
-      "url": "https://www.posta.com.tr/magazin/oyuncu-cagla-demir-hastanelik-oldu-bodrumda-duserek-omzunu-kirdi-3068523",
-      "source": "posta.com.tr",
+      "title": "Derya Uluğ ve Asil Gök evlendi... Serdar Ortaç'ın düğündeki sorusu gündem oldu: 'Ne buldun bu herifte?'",
+      "normalized_title": "derya ulug ve asil gok evlendi serdar ortac in dugundeki sorusu gundem oldu ne buldun bu herifte",
+      "url": "https://www.cumhuriyet.com.tr/magazin/derya-ulug-ve-asil-gok-evlendi-serdar-ortac-in-dugundeki-sorusu-gundem-oldu-ne-buldun-bu-herifte-2559623",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "posta.com.tr",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216941+00:00",
+      "collected_at": "2026-11-27T10:38:29.273520+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "kenttv.net",
-          "source_domain": "kenttv.net",
-          "url": "https://kenttv.net/haber/29227604/bodrumda-hastanelik-oldu",
-          "title": "Bodrum’da Hastanelik Oldu"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-derya-ulug-ile-asil-gok-evlendi-unluleri-bulusturan-dugun-1752616",
+          "title": "Derya Uluğ ile Asil Gök evlendi. Ünlüleri buluşturan düğün"
         },
         {
-          "source": "posta.com.tr",
-          "source_domain": "posta.com.tr",
-          "url": "https://www.posta.com.tr/magazin/oyuncu-cagla-demir-hastanelik-oldu-bodrumda-duserek-omzunu-kirdi-3068523",
-          "title": "Oyuncu Çağla Demir hastanelik oldu! Bodrum'da düşerek omzunu kırdı"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/derya-ulug-ve-asil-gok-evlendi-serdar-ortac-in-dugundeki-sorusu-gundem-oldu-ne-buldun-bu-herifte-2559623",
+          "title": "Derya Uluğ ve Asil Gök evlendi... Serdar Ortaç'ın düğündeki sorusu gündem oldu: 'Ne buldun bu herifte?'"
         }
       ],
       "publisher_domains": [
-        "kenttv.net",
-        "posta.com.tr"
+        "cumhuriyet.com.tr",
+        "ntv.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -383,36 +399,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Talihsiz kaza, oyuncu Çağla Demir Bodrum’da düşünce ameliyat oldu",
-      "normalized_title": "talihsiz kaza oyuncu cagla demir bodrum da dusunce ameliyat oldu",
-      "url": "https://www.patronlardunyasi.com/talihsiz-kaza-oyuncu-cagla-demir-bodrumda-dusunce-ameliyat-oldu",
-      "source": "patronlardunyasi.com",
+      "title": "10 yıllık aşk evlilikle taçlandı! Derya Uluğ ve Asil Gök’ü mutlu gününde o isimler yalnız bırakmadı...",
+      "normalized_title": "10 yillik ask evlilikle taclandi derya ulug ve asil gok u mutlu gununde o isimler yalniz birakmadi",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/10-yillik-ask-evlilikle-taclandi-derya-ulug-ve-asil-goku-mutlu-gununde-o-isimler-yalniz-birakmadi",
+      "source": "sabah.com.tr",
       "source_role": "publisher",
-      "source_domain": "patronlardunyasi.com",
+      "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216977+00:00",
+      "collected_at": "2026-11-27T10:38:29.273376+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "patronlardunyasi.com",
-          "source_domain": "patronlardunyasi.com",
-          "url": "https://www.patronlardunyasi.com/talihsiz-kaza-oyuncu-cagla-demir-bodrumda-dusunce-ameliyat-oldu",
-          "title": "Talihsiz kaza, oyuncu Çağla Demir Bodrum’da düşünce ameliyat oldu"
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/10-yillik-ask-evlilikle-taclandi-derya-ulug-ve-asil-goku-mutlu-gununde-o-isimler-yalniz-birakmadi",
+          "title": "10 yıllık aşk evlilikle taçlandı! Derya Uluğ ve Asil Gök’ü mutlu gününde o isimler yalnız bırakmadı..."
         },
         {
-          "source": "muglagazetesi.com.tr",
-          "source_domain": "muglagazetesi.com.tr",
-          "url": "https://www.muglagazetesi.com.tr/bodrum-haberleri/oyuncu-cagla-demir-bodrumda-dustu-omzu-kirildi-ameliyat-oldu-224082h",
-          "title": "Oyuncu Çağla Demir Bodrum’da Düştü, Omzu Kırıldı, Ameliyat Oldu"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/derya-ulug-ve-asil-gok-10-yillik-asklarini-evlilikle-taclandirdi-43391346",
+          "title": "Derya Uluğ ve Asil Gök 10 yıllık aşklarını evlilikle taçlandırdı"
         }
       ],
       "publisher_domains": [
-        "muglagazetesi.com.tr",
-        "patronlardunyasi.com"
+        "hurriyet.com.tr",
+        "sabah.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -436,7 +452,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.217035+00:00",
+      "collected_at": "2026-11-27T10:38:29.273562+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [
@@ -480,6 +496,226 @@
       "coverage_label": "multi_publisher"
     },
     {
+      "title": "Ahmet Uluçay'ın \"Karpuz Kabuğundan Gemiler Yapmak\" filmi televizyonda yayımlanacak",
+      "normalized_title": "ahmet ulucay in karpuz kabugundan gemiler yapmak filmi televizyonda yayimlanacak",
+      "url": "https://www.aa.com.tr/tr/kultur/ahmet-ulucayin-karpuz-kabugundan-gemiler-yapmak-filmi-televizyonda-yayimlanacak/4139501",
+      "source": "aa.com.tr",
+      "source_role": "publisher",
+      "source_domain": "aa.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-27T10:38:29.274109+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "aa.com.tr",
+          "source_domain": "aa.com.tr",
+          "url": "https://www.aa.com.tr/tr/kultur/ahmet-ulucayin-karpuz-kabugundan-gemiler-yapmak-filmi-televizyonda-yayimlanacak/4139501",
+          "title": "Ahmet Uluçay'ın \"Karpuz Kabuğundan Gemiler Yapmak\" filmi televizyonda yayımlanacak"
+        },
+        {
+          "source": "kanald.com.tr",
+          "source_domain": "kanald.com.tr",
+          "url": "https://www.kanald.com.tr/sinemalar/karpuz-kabugundan-gemiler-yapmak",
+          "title": "Karpuz Kabuğundan Gemiler Yapmak"
+        }
+      ],
+      "publisher_domains": [
+        "aa.com.tr",
+        "kanald.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Oyuncu Çağla Demir hastanelik oldu! Bodrum'da düşerek omzunu kırdı",
+      "normalized_title": "oyuncu cagla demir hastanelik oldu bodrum da duserek omzunu kirdi",
+      "url": "https://www.posta.com.tr/magazin/oyuncu-cagla-demir-hastanelik-oldu-bodrumda-duserek-omzunu-kirdi-3068523",
+      "source": "posta.com.tr",
+      "source_role": "publisher",
+      "source_domain": "posta.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-27T10:38:29.274314+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "kenttv.net",
+          "source_domain": "kenttv.net",
+          "url": "https://kenttv.net/haber/29227604/bodrumda-hastanelik-oldu",
+          "title": "Bodrum’da Hastanelik Oldu"
+        },
+        {
+          "source": "posta.com.tr",
+          "source_domain": "posta.com.tr",
+          "url": "https://www.posta.com.tr/magazin/oyuncu-cagla-demir-hastanelik-oldu-bodrumda-duserek-omzunu-kirdi-3068523",
+          "title": "Oyuncu Çağla Demir hastanelik oldu! Bodrum'da düşerek omzunu kırdı"
+        }
+      ],
+      "publisher_domains": [
+        "kenttv.net",
+        "posta.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Talihsiz kaza, oyuncu Çağla Demir Bodrum’da düşünce ameliyat oldu",
+      "normalized_title": "talihsiz kaza oyuncu cagla demir bodrum da dusunce ameliyat oldu",
+      "url": "https://www.patronlardunyasi.com/talihsiz-kaza-oyuncu-cagla-demir-bodrumda-dusunce-ameliyat-oldu",
+      "source": "patronlardunyasi.com",
+      "source_role": "publisher",
+      "source_domain": "patronlardunyasi.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-27T10:38:29.274374+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "patronlardunyasi.com",
+          "source_domain": "patronlardunyasi.com",
+          "url": "https://www.patronlardunyasi.com/talihsiz-kaza-oyuncu-cagla-demir-bodrumda-dusunce-ameliyat-oldu",
+          "title": "Talihsiz kaza, oyuncu Çağla Demir Bodrum’da düşünce ameliyat oldu"
+        },
+        {
+          "source": "muglagazetesi.com.tr",
+          "source_domain": "muglagazetesi.com.tr",
+          "url": "https://www.muglagazetesi.com.tr/bodrum-haberleri/oyuncu-cagla-demir-bodrumda-dustu-omzu-kirildi-ameliyat-oldu-224082h",
+          "title": "Oyuncu Çağla Demir Bodrum’da Düştü, Omzu Kırıldı, Ameliyat Oldu"
+        }
+      ],
+      "publisher_domains": [
+        "muglagazetesi.com.tr",
+        "patronlardunyasi.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Ufuk Beydemir baba oldu: Erken doğan kızının adını ve sağlık durumunu açıkladı",
+      "normalized_title": "ufuk beydemir baba oldu erken dogan kizinin adini ve saglik durumunu acikladi",
+      "url": "https://www.cumhuriyet.com.tr/magazin/ufuk-beydemir-baba-oldu-erken-dogan-kizinin-adini-ve-saglik-durumunu-acikladi-2559179",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-27T10:38:29.275119+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/ufuk-beydemir-in-kizi-25-haftalik-dogdu-adini-acikladi-p384187",
+          "title": "Ufuk Beydemir'in kızı 25 haftalık doğdu: Adını açıkladı"
+        },
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/ufuk-beydemir-baba-oldu-erken-dogan-kizinin-adini-ve-saglik-durumunu-acikladi-2559179",
+          "title": "Ufuk Beydemir baba oldu: Erken doğan kızının adını ve sağlık durumunu açıkladı"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Oyuncu Kıvanç Kılınç: Barış pratikte toplumsal uzlaşıyla tabana yayılmalı",
+      "normalized_title": "oyuncu kivanc kilinc baris pratikte toplumsal uzlasiyla tabana yayilmali",
+      "url": "https://yeniyasamgazetesi10.com/oyuncu-kivanc-kilinc-baris-pratikte-toplumsal-uzlasiyla-tabana-yayilmali/",
+      "source": "yeniyasamgazetesi10.com",
+      "source_role": "publisher",
+      "source_domain": "yeniyasamgazetesi10.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-27T10:38:29.275438+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yeniyasamgazetesi10.com",
+          "source_domain": "yeniyasamgazetesi10.com",
+          "url": "https://yeniyasamgazetesi10.com/oyuncu-kivanc-kilinc-baris-pratikte-toplumsal-uzlasiyla-tabana-yayilmali/",
+          "title": "Oyuncu Kıvanç Kılınç: Barış pratikte toplumsal uzlaşıyla tabana yayılmalı"
+        },
+        {
+          "source": "artigercek.com",
+          "source_domain": "artigercek.com",
+          "url": "https://artigercek.com/politika/kivanc-kilinc-baris-toplumsal-uzlasmayla-tabana-yayilmali-353176h",
+          "title": "Kıvanç Kılınç: Barış toplumsal uzlaşmayla tabana yayılmalı"
+        }
+      ],
+      "publisher_domains": [
+        "artigercek.com",
+        "yeniyasamgazetesi10.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
       "title": "Can Bonomo Oğlu Roman'ı Okuldan Motosikletle Aldı: Eşi Öykü Karayel'in Ödülü İçin Konuştu!",
       "normalized_title": "can bonomo oglu roman i okuldan motosikletle aldi esi oyku karayel in odulu icin konustu",
       "url": "https://www.gecce.com.tr/haber/can-bonomo-oglu-romani-okuldan-motosikletle-aldi-esi-oyku-karayelin-odulu-icin-konustu-334045.html",
@@ -489,7 +725,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.218073+00:00",
+      "collected_at": "2026-11-27T10:38:29.275995+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -524,37 +760,37 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Mustafa Keser acı haberi duyurdu! 48 yıllık hayat arkadaşı hayatını kaybetti",
-      "normalized_title": "mustafa keser aci haberi duyurdu 48 yillik hayat arkadasi hayatini kaybetti",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/mustafa-keser-aci-haberi-duyurdu-48-yillik-hayat-arkadasi-hayatini-kaybetti",
-      "source": "sabah.com.tr",
+      "title": "Tuzlu Kahve'den Mike Tyson'lı ilk fragman. Polat Yağcı'dan açıklama",
+      "normalized_title": "tuzlu kahve den mike tyson li ilk fragman polat yagci dan aciklama",
+      "url": "https://www.ntv.com.tr/yasam/tuzlu-kahveden-mike-tysonli-ilk-fragman-polat-yagcidan-aciklama-1752639",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216305+00:00",
+      "collected_at": "2026-11-27T10:38:29.276121+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/mustafa-keser-aci-haberi-duyurdu-48-yillik-hayat-arkadasi-hayatini-kaybetti",
-          "title": "Mustafa Keser acı haberi duyurdu! 48 yıllık hayat arkadaşı hayatını kaybetti"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/tuzlu-kahveden-mike-tysonli-ilk-fragman-polat-yagcidan-aciklama-1752639",
+          "title": "Tuzlu Kahve'den Mike Tyson'lı ilk fragman. Polat Yağcı'dan açıklama"
         }
       ],
       "publisher_domains": [
-        "sabah.com.tr"
+        "ntv.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
+      "event_member_count": 2,
+      "discovery_item_count": 1,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 10.0,
+      "popularity_score": 10.5,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -570,7 +806,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216356+00:00",
+      "collected_at": "2026-11-27T10:38:29.272456+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -598,53 +834,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Ünlülere uyuşturucu operasyonunda ifadeler ortaya çıktı! Burcu Özberk, Deniz Çakır ve Özcan Deniz aylık gelirini açıkladı",
-      "normalized_title": "unlulere uyusturucu operasyonunda ifadeler ortaya cikti burcu ozberk deniz cakir ve ozcan deniz aylik gelirini acikladi",
-      "url": "https://www.hurriyet.com.tr/gundem/unlulere-yonelik-uyusturucu-operasyonu-ozcan-deniz-deniz-cakir-burcu-ozberk-murat-basoglu-ve-ceylan-kaya-hakkinda-karar-verildi-43391427",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216497+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/gundem/unlulere-yonelik-uyusturucu-operasyonu-ozcan-deniz-deniz-cakir-burcu-ozberk-murat-basoglu-ve-ceylan-kaya-hakkinda-karar-verildi-43391427",
-          "title": "Ünlülere uyuşturucu operasyonunda ifadeler ortaya çıktı! Burcu Özberk, Deniz Çakır ve Özcan Deniz aylık gelirini açıkladı"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Derya Uluğ ile Asil Gök evlendi. Ünlüleri buluşturan düğün",
-      "normalized_title": "derya ulug ile asil gok evlendi unluleri bulusturan dugun",
-      "url": "https://www.ntv.com.tr/yasam/galeri-derya-ulug-ile-asil-gok-evlendi-unluleri-bulusturan-dugun-1752616",
+      "title": "Ünlülere uyuşturucu soruşturması: Biri fenomen, biri iş insanı üç tutuklama",
+      "normalized_title": "unlulere uyusturucu sorusturmasi biri fenomen biri is insani uc tutuklama",
+      "url": "https://www.ntv.com.tr/turkiye/galeri-unlulere-uyusturucu-sorusturmasi-biri-fenomen-biri-is-insani-uc-tutuklama-1752812",
       "source": "ntv.com.tr",
       "source_role": "publisher",
       "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216536+00:00",
+      "collected_at": "2026-11-27T10:38:29.272732+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -652,8 +851,8 @@
         {
           "source": "ntv.com.tr",
           "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/galeri-derya-ulug-ile-asil-gok-evlendi-unluleri-bulusturan-dugun-1752616",
-          "title": "Derya Uluğ ile Asil Gök evlendi. Ünlüleri buluşturan düğün"
+          "url": "https://www.ntv.com.tr/turkiye/galeri-unlulere-uyusturucu-sorusturmasi-biri-fenomen-biri-is-insani-uc-tutuklama-1752812",
+          "title": "Ünlülere uyuşturucu soruşturması: Biri fenomen, biri iş insanı üç tutuklama"
         }
       ],
       "publisher_domains": [
@@ -672,53 +871,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Serdar Ortaç'ın düğünde sorduğu soruya herkes dondu kaldı",
-      "normalized_title": "serdar ortac in dugunde sordugu soruya herkes dondu kaldi",
-      "url": "https://www.sozcu.com.tr/serdar-ortac-in-dugunde-sordugu-soruya-herkes-dondu-kaldi-p384606",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216572+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/serdar-ortac-in-dugunde-sordugu-soruya-herkes-dondu-kaldi-p384606",
-          "title": "Serdar Ortaç'ın düğünde sorduğu soruya herkes dondu kaldı"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Büyüdü, annesine kavalye oldu!",
-      "normalized_title": "buyudu annesine kavalye oldu",
-      "url": "https://www.hurriyet.com.tr/galeri-buyudu-annesine-kavalye-oldu-43391441",
+      "title": "'Susuz Yaz' izleyiciyi sarıp sarmalayacak",
+      "normalized_title": "susuz yaz izleyiciyi sarip sarmalayacak",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/susuz-yaz-izleyiciyi-sarip-sarmalayacak-43392717",
       "source": "hurriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216602+00:00",
+      "collected_at": "2026-11-27T10:38:29.273067+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -726,8 +888,8 @@
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/galeri-buyudu-annesine-kavalye-oldu-43391441",
-          "title": "Büyüdü, annesine kavalye oldu!"
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/susuz-yaz-izleyiciyi-sarip-sarmalayacak-43392717",
+          "title": "'Susuz Yaz' izleyiciyi sarıp sarmalayacak"
         }
       ],
       "publisher_domains": [
@@ -746,177 +908,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "10 yıllık aşkın düğününe o detay damga vurdu! Derya Uluğ’un gelinliği çok konuşuldu, fiyatı dudak uçuklattı...",
-      "normalized_title": "10 yillik askin dugunune o detay damga vurdu derya ulug un gelinligi cok konusuldu fiyati dudak ucuklatti",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/10-yillik-askin-dugunune-o-detay-damga-vurdu-derya-ulugun-gelinligi-cok-konusuldu",
-      "source": "sabah.com.tr",
+      "title": "Döne ile ezberleri bozacak",
+      "normalized_title": "done ile ezberleri bozacak",
+      "url": "https://www.milliyet.com.tr/magazin/done-ile-ezberleri-bozacak-7708887",
+      "source": "milliyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
+      "source_domain": "milliyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216663+00:00",
+      "collected_at": "2026-11-27T10:38:29.273114+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/10-yillik-askin-dugunune-o-detay-damga-vurdu-derya-ulugun-gelinligi-cok-konusuldu",
-          "title": "10 yıllık aşkın düğününe o detay damga vurdu! Derya Uluğ’un gelinliği çok konuşuldu, fiyatı dudak uçuklattı..."
+          "source": "milliyet.com.tr",
+          "source_domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/magazin/done-ile-ezberleri-bozacak-7708887",
+          "title": "Döne ile ezberleri bozacak"
         }
       ],
       "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "20 yıllık sarışınlığına veda etti: Yeni saç rengi ‘milyarder kahvesi’",
-      "normalized_title": "20 yillik sarisinligina veda etti yeni sac rengi milyarder kahvesi",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/20-yillik-sarisinligina-veda-etti-yeni-sac-rengi-milyarder-kahvesi-43391907",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216704+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/20-yillik-sarisinligina-veda-etti-yeni-sac-rengi-milyarder-kahvesi-43391907",
-          "title": "20 yıllık sarışınlığına veda etti: Yeni saç rengi ‘milyarder kahvesi’"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "25 kuruşluk zehirlenme... Beyazperdede bir köylü yönetmen: Ahmet Uluçay",
-      "normalized_title": "25 kurusluk zehirlenme beyazperdede bir koylu yonetmen ahmet ulucay",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/25-kurusluk-zehirlenme-beyazperdede-bir-koylu-yonetmen-ahmet-ulucay-43391784",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216741+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/25-kurusluk-zehirlenme-beyazperdede-bir-koylu-yonetmen-ahmet-ulucay-43391784",
-          "title": "25 kuruşluk zehirlenme... Beyazperdede bir köylü yönetmen: Ahmet Uluçay"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "25 kuruşluk filmle başlayan Ahmet Uluçay’ın sinema yolculuğu İhlas Haber Ajansı",
-      "normalized_title": "25 kurusluk filmle baslayan ahmet ulucay in sinema yolculugu ihlas haber ajansi",
-      "url": "https://www.iha.com.tr/istanbul-haberleri/25-kurusluk-filmle-baslayan-ahmet-ulucayin-sinema-yolculugu-522126810",
-      "source": "iha.com.tr",
-      "source_role": "publisher",
-      "source_domain": "iha.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216819+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "iha.com.tr",
-          "source_domain": "iha.com.tr",
-          "url": "https://www.iha.com.tr/istanbul-haberleri/25-kurusluk-filmle-baslayan-ahmet-ulucayin-sinema-yolculugu-522126810",
-          "title": "25 kuruşluk filmle başlayan Ahmet Uluçay’ın sinema yolculuğu İhlas Haber Ajansı"
-        }
-      ],
-      "publisher_domains": [
-        "iha.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "'Bir Gecede Hayatım Değişti'",
-      "normalized_title": "bir gecede hayatim degisti",
-      "url": "https://www.memurlar.net/album/28464/bir-gecede-hayatim-degisti.html",
-      "source": "memurlar.net",
-      "source_role": "publisher",
-      "source_domain": "memurlar.net",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216876+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "memurlar.net",
-          "source_domain": "memurlar.net",
-          "url": "https://www.memurlar.net/album/28464/bir-gecede-hayatim-degisti.html",
-          "title": "'Bir Gecede Hayatım Değişti'"
-        }
-      ],
-      "publisher_domains": [
-        "memurlar.net"
+        "milliyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -940,7 +954,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.217072+00:00",
+      "collected_at": "2026-11-27T10:38:29.273629+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -968,177 +982,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Murda'yla Ayrılan Melisa Döngel'e Evlilik Sorusu: Annesi Damat Adayı Şartlarını Sıraladı",
-      "normalized_title": "murda yla ayrilan melisa dongel e evlilik sorusu annesi damat adayi sartlarini siraladi",
-      "url": "https://onedio.com/haber/murda-yla-ayrilan-melisa-dongel-e-evlilik-sorusu-annesi-damat-adayi-sartlarini-siraladi-1397165",
-      "source": "onedio.com",
+      "title": "Anneden damat kriteri",
+      "normalized_title": "anneden damat kriteri",
+      "url": "https://www.posta.com.tr/magazin/anneden-damat-kriteri-3068533",
+      "source": "posta.com.tr",
       "source_role": "publisher",
-      "source_domain": "onedio.com",
+      "source_domain": "posta.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.217140+00:00",
+      "collected_at": "2026-11-27T10:38:29.273667+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "onedio.com",
-          "source_domain": "onedio.com",
-          "url": "https://onedio.com/haber/murda-yla-ayrilan-melisa-dongel-e-evlilik-sorusu-annesi-damat-adayi-sartlarini-siraladi-1397165",
-          "title": "Murda'yla Ayrılan Melisa Döngel'e Evlilik Sorusu: Annesi Damat Adayı Şartlarını Sıraladı"
+          "source": "posta.com.tr",
+          "source_domain": "posta.com.tr",
+          "url": "https://www.posta.com.tr/magazin/anneden-damat-kriteri-3068533",
+          "title": "Anneden damat kriteri"
         }
       ],
       "publisher_domains": [
-        "onedio.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Kutlama öncesi bakım yaptırdı",
-      "normalized_title": "kutlama oncesi bakim yaptirdi",
-      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kutlama-oncesi-bakim-yaptirdi-43391365",
-      "source": "hurriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.217167+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/kutlama-oncesi-bakim-yaptirdi-43391365",
-          "title": "Kutlama öncesi bakım yaptırdı"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Hande Erçel 33. yaşına girdi: 6 pasta üfledi, parmağındaki yüzüğün fiyatı dudak uçuklattı",
-      "normalized_title": "hande ercel 33 yasina girdi 6 pasta ufledi parmagindaki yuzugun fiyati dudak ucuklatti",
-      "url": "https://www.sozcu.com.tr/hande-ercel-33-yasina-girdi-6-pasta-ufledi-parmagindaki-yuzugun-fiyati-dudak-ucuklatti-p384618",
-      "source": "sozcu.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.217210+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/hande-ercel-33-yasina-girdi-6-pasta-ufledi-parmagindaki-yuzugun-fiyati-dudak-ucuklatti-p384618",
-          "title": "Hande Erçel 33. yaşına girdi: 6 pasta üfledi, parmağındaki yüzüğün fiyatı dudak uçuklattı"
-        }
-      ],
-      "publisher_domains": [
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Hande Erçel 33. yaşına girdi! Ablası Gamze Erçel’den duygulandıran diğer yarım mesajı...",
-      "normalized_title": "hande ercel 33 yasina girdi ablasi gamze ercel den duygulandiran diger yarim mesaji",
-      "url": "https://www.sabah.com.tr/trend/galeri/magazin/hande-ercel-33-yasina-girdi-ablasi-gamze-ercelden-duygulandiran-diger-yarim-mesaji",
-      "source": "sabah.com.tr",
-      "source_role": "publisher",
-      "source_domain": "sabah.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.217324+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/hande-ercel-33-yasina-girdi-ablasi-gamze-ercelden-duygulandiran-diger-yarim-mesaji",
-          "title": "Hande Erçel 33. yaşına girdi! Ablası Gamze Erçel’den duygulandıran diğer yarım mesajı..."
-        }
-      ],
-      "publisher_domains": [
-        "sabah.com.tr"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Hande Erçel'den 33. yaşına özel kutlama: Yakın dostlarıyla eğlendi...",
-      "normalized_title": "hande ercel den 33 yasina ozel kutlama yakin dostlariyla eglendi",
-      "url": "https://www.internethaber.com/hande-ercelden-33-yasina-ozel-kutlama-yakin-dostlariyla-eglendi-2470050h.htm",
-      "source": "internethaber.com",
-      "source_role": "publisher",
-      "source_domain": "internethaber.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.217363+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "internethaber.com",
-          "source_domain": "internethaber.com",
-          "url": "https://www.internethaber.com/hande-ercelden-33-yasina-ozel-kutlama-yakin-dostlariyla-eglendi-2470050h.htm",
-          "title": "Hande Erçel'den 33. yaşına özel kutlama: Yakın dostlarıyla eğlendi..."
-        }
-      ],
-      "publisher_domains": [
-        "internethaber.com"
+        "posta.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1162,7 +1028,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.217404+00:00",
+      "collected_at": "2026-11-27T10:38:29.273801+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1190,6 +1056,43 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "O sevgili Sude mi? 'Başrol oldu, beni terk etti'",
+      "normalized_title": "o sevgili sude mi basrol oldu beni terk etti",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/o-sevgili-sude-mi-basrol-oldu-beni-terk-etti-43392638",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-27T10:38:29.273856+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/o-sevgili-sude-mi-basrol-oldu-beni-terk-etti-43392638",
+          "title": "O sevgili Sude mi? 'Başrol oldu, beni terk etti'"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "Doğukan Güngör'den Kızılcık Şerbeti itirafı: 'Özlüyorum'",
       "normalized_title": "dogukan gungor den kizilcik serbeti itirafi ozluyorum",
       "url": "https://www.cumhuriyet.com.tr/magazin/dogukan-gungor-den-kizilcik-serbeti-itirafi-ozluyorum-2559551",
@@ -1199,7 +1102,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.217437+00:00",
+      "collected_at": "2026-11-27T10:38:29.273912+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1236,7 +1139,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.217477+00:00",
+      "collected_at": "2026-11-27T10:38:29.273981+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1264,29 +1167,66 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Doğukan Güngör: \"Kız arkadaşım ilk başrolünü aldığında benden ayrıldı!\"",
-      "normalized_title": "dogukan gungor kiz arkadasim ilk basrolunu aldiginda benden ayrildi",
-      "url": "https://www.diziler.com/dogukan-gungor-kiz-arkadasim-ilk-basrolunu-aldiginda-benden-ayrildi",
-      "source": "diziler.com",
+      "title": "25 kuruşluk zehirlenme... Beyazperdede bir köylü yönetmen: Ahmet Uluçay",
+      "normalized_title": "25 kurusluk zehirlenme beyazperdede bir koylu yonetmen ahmet ulucay",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/25-kurusluk-zehirlenme-beyazperdede-bir-koylu-yonetmen-ahmet-ulucay-43391784",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "diziler.com",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.217515+00:00",
+      "collected_at": "2026-11-27T10:38:29.274042+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "diziler.com",
-          "source_domain": "diziler.com",
-          "url": "https://www.diziler.com/dogukan-gungor-kiz-arkadasim-ilk-basrolunu-aldiginda-benden-ayrildi",
-          "title": "Doğukan Güngör: \"Kız arkadaşım ilk başrolünü aldığında benden ayrıldı!\""
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/25-kurusluk-zehirlenme-beyazperdede-bir-koylu-yonetmen-ahmet-ulucay-43391784",
+          "title": "25 kuruşluk zehirlenme... Beyazperdede bir köylü yönetmen: Ahmet Uluçay"
         }
       ],
       "publisher_domains": [
-        "diziler.com"
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Köyden beyaz perdeye: Ahmet Uluçay’ın sinema yolculuğu",
+      "normalized_title": "koyden beyaz perdeye ahmet ulucay in sinema yolculugu",
+      "url": "https://www.sozcu.com.tr/koyden-beyaz-perdeye-ahmet-ulucayin-sinema-yolculugu-p384557",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-27T10:38:29.274165+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/koyden-beyaz-perdeye-ahmet-ulucayin-sinema-yolculugu-p384557",
+          "title": "Köyden beyaz perdeye: Ahmet Uluçay’ın sinema yolculuğu"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1310,7 +1250,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.217549+00:00",
+      "collected_at": "2026-11-27T10:38:29.274497+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1324,6 +1264,117 @@
       ],
       "publisher_domains": [
         "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "20 yıllık sarışınlığına veda etti: Yeni saç rengi ‘milyarder kahvesi’",
+      "normalized_title": "20 yillik sarisinligina veda etti yeni sac rengi milyarder kahvesi",
+      "url": "https://www.hurriyet.com.tr/kelebek/televizyon/20-yillik-sarisinligina-veda-etti-yeni-sac-rengi-milyarder-kahvesi-43391907",
+      "source": "hurriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "hurriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-27T10:38:29.274560+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/televizyon/20-yillik-sarisinligina-veda-etti-yeni-sac-rengi-milyarder-kahvesi-43391907",
+          "title": "20 yıllık sarışınlığına veda etti: Yeni saç rengi ‘milyarder kahvesi’"
+        }
+      ],
+      "publisher_domains": [
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Rihanna ve A$AP Rocky Kusursuz Bir Uyum İçinde",
+      "normalized_title": "rihanna ve a ap rocky kusursuz bir uyum icinde",
+      "url": "https://vogue.com.tr/unlu-stili/rihanna-ve-a-ap-rocky-kusursuz-bir-uyum-icinde",
+      "source": "vogue.com.tr",
+      "source_role": "publisher",
+      "source_domain": "vogue.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-27T10:38:29.274614+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "vogue.com.tr",
+          "source_domain": "vogue.com.tr",
+          "url": "https://vogue.com.tr/unlu-stili/rihanna-ve-a-ap-rocky-kusursuz-bir-uyum-icinde",
+          "title": "Rihanna ve A$AP Rocky Kusursuz Bir Uyum İçinde"
+        }
+      ],
+      "publisher_domains": [
+        "vogue.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "'Bir Gecede Hayatım Değişti'",
+      "normalized_title": "bir gecede hayatim degisti",
+      "url": "https://www.memurlar.net/album/28464/bir-gecede-hayatim-degisti.html",
+      "source": "memurlar.net",
+      "source_role": "publisher",
+      "source_domain": "memurlar.net",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-27T10:38:29.274659+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "memurlar.net",
+          "source_domain": "memurlar.net",
+          "url": "https://www.memurlar.net/album/28464/bir-gecede-hayatim-degisti.html",
+          "title": "'Bir Gecede Hayatım Değişti'"
+        }
+      ],
+      "publisher_domains": [
+        "memurlar.net"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,

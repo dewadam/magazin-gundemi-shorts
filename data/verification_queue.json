@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:51:05.402315+00:00",
+  "generated_at": "2026-11-27T10:39:08.359476+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
@@ -14,42 +14,42 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.217666+00:00",
+      "collected_at": "2026-11-27T10:38:29.275858+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/yogun-bakimda-tedavi-goruyordu-killa-hakan-dan-sevindiren-haber-2559663",
-          "title": "Yoğun bakımda tedavi görüyordu: Killa Hakan'dan sevindiren haber"
-        },
-        {
-          "source": "sabah.com.tr",
-          "source_domain": "sabah.com.tr",
-          "url": "https://www.sabah.com.tr/trend/galeri/magazin/yogun-bakimda-tedavi-goruyordu-killa-hakandan-sevindiren-haber-hayat-bazen-zorlar",
-          "title": "Yoğun bakımda tedavi görüyordu! Killa Hakan’dan sevindiren haber: Hayat bazen zorlar!"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/yogun-bakimda-tedavi-goruyordu-killa-hakandan-haftalar-sonra-guzel-haber-1752802",
+          "title": "Yoğun bakımda tedavi görüyordu. Killa Hakan'dan haftalar sonra güzel haber"
         },
         {
           "source": "haberturk.com",
           "source_domain": "haberturk.com",
           "url": "https://www.haberturk.com/magazin/killa-hakan-dan-haber-var-3930367",
           "title": "Killa Hakan'dan haber var"
+        },
+        {
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/yogun-bakimda-tedavi-goruyordu-killa-hakandan-sevindiren-haber-hayat-bazen-zorlar",
+          "title": "Yoğun bakımda tedavi görüyordu! Killa Hakan’dan sevindiren haber: Hayat bazen zorlar!"
         }
       ],
       "publisher_domains": [
-        "cumhuriyet.com.tr",
         "haberturk.com",
+        "ntv.com.tr",
         "sabah.com.tr"
       ],
       "publisher_count": 3,
       "direct_article_count": 3,
-      "event_member_count": 3,
-      "discovery_item_count": 0,
+      "event_member_count": 4,
+      "discovery_item_count": 1,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 30.0,
+      "popularity_score": 30.5,
       "possible_syndication": false,
       "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
       "publication_approved": false,
@@ -64,12 +64,12 @@
       },
       "independent_source_matches": [
         {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "title": "Yoğun bakımda tedavi görüyordu: Killa Hakan'dan sevindiren haber",
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "title": "Yoğun bakımda tedavi görüyordu. Killa Hakan'dan haftalar sonra güzel haber",
           "summary": "",
-          "url": "https://www.cumhuriyet.com.tr/yasam/yogun-bakimda-tedavi-goruyordu-killa-hakan-dan-sevindiren-haber-2559663",
-          "match_score": 0.82,
+          "url": "https://www.ntv.com.tr/yasam/yogun-bakimda-tedavi-goruyordu-killa-hakandan-haftalar-sonra-guzel-haber-1752802",
+          "match_score": 0.65,
           "shared_keywords": [
             "bak",
             "goruyordu",
@@ -77,7 +77,6 @@
             "hakan",
             "killa",
             "mda",
-            "sevindiren",
             "tedavi",
             "yogun"
           ],
@@ -103,36 +102,36 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Ahmet Uluçay'ın \"Karpuz Kabuğundan Gemiler Yapmak\" filmi televizyonda yayımlanacak",
-      "normalized_title": "ahmet ulucay in karpuz kabugundan gemiler yapmak filmi televizyonda yayimlanacak",
-      "url": "https://www.aa.com.tr/tr/kultur/ahmet-ulucayin-karpuz-kabugundan-gemiler-yapmak-filmi-televizyonda-yayimlanacak/4139501",
-      "source": "aa.com.tr",
+      "title": "Susuz Yaz'ın yayın tarihi belli oldu: 1 Aralık'ta Kanal D'de başlıyor",
+      "normalized_title": "susuz yaz in yayin tarihi belli oldu 1 aralik ta kanal d de basliyor",
+      "url": "https://www.dha.com.tr/kultur-sanat/susuz-yazin-yayin-tarihi-belli-oldu-1-aralikta-kanal-dde-basliyor-2988259",
+      "source": "dha.com.tr",
       "source_role": "publisher",
-      "source_domain": "aa.com.tr",
+      "source_domain": "dha.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216779+00:00",
+      "collected_at": "2026-11-27T10:38:29.273179+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "aa.com.tr",
-          "source_domain": "aa.com.tr",
-          "url": "https://www.aa.com.tr/tr/kultur/ahmet-ulucayin-karpuz-kabugundan-gemiler-yapmak-filmi-televizyonda-yayimlanacak/4139501",
-          "title": "Ahmet Uluçay'ın \"Karpuz Kabuğundan Gemiler Yapmak\" filmi televizyonda yayımlanacak"
+          "source": "dha.com.tr",
+          "source_domain": "dha.com.tr",
+          "url": "https://www.dha.com.tr/kultur-sanat/susuz-yazin-yayin-tarihi-belli-oldu-1-aralikta-kanal-dde-basliyor-2988259",
+          "title": "Susuz Yaz'ın yayın tarihi belli oldu: 1 Aralık'ta Kanal D'de başlıyor"
         },
         {
-          "source": "kanald.com.tr",
-          "source_domain": "kanald.com.tr",
-          "url": "https://www.kanald.com.tr/sinemalar/karpuz-kabugundan-gemiler-yapmak",
-          "title": "Karpuz Kabuğundan Gemiler Yapmak"
+          "source": "yenisafak.com",
+          "source_domain": "yenisafak.com",
+          "url": "https://www.yenisafak.com/hayat/susuz-yazin-yayin-tarihi-belli-oldu-4876630",
+          "title": "Susuz Yaz’ın yayın tarihi belli oldu"
         }
       ],
       "publisher_domains": [
-        "aa.com.tr",
-        "kanald.com.tr"
+        "dha.com.tr",
+        "yenisafak.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -148,24 +147,25 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Ahmet Uluçay'ın \"Karpuz Kabuğundan Gemiler Yapmak\" filmi televizyonda yayımlanacak",
-        "og_title": "Ahmet Uluçay'ın \"Karpuz Kabuğundan Gemiler Yapmak\" filmi televizyonda yayımlanacak",
-        "description": "Yönetmen Ahmet Uluçay'ın 17'nci ölüm yıl dönümü dolayısıyla \"Karpuz Kabuğundan Gemiler Yapmak\" filmi 30 Kasım'da Kanal D ve D-Smart'ın sinema kanalı MovieSmart Türk'te izleyiciyle buluşacak. | Anadolu Ajansı",
+        "page_title": "Susuz Yaz'ın yayın tarihi belli oldu: 1 Aralık'ta Kanal D'de başlıyor - Kültür Haberleri",
+        "og_title": "Susuz Yaz'ın yayın tarihi belli oldu: 1 Aralık'ta Kanal D'de başlıyor",
+        "description": "Kanal D'nin çekimleri Adana'da devam eden yeni dizisi Susuz Yaz'ın yayın tarihi belli oldu. Güçlü oyuncu kadrosu ve sürükleyici hikayesiyle izleyenleri 70'li yıllara götürmeye hazırlanan yapım, 1 Aralık Salı akşamı saat 20.00'de ekran yolculuğuna başlayacak.",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "kanald.com.tr",
-          "source_domain": "kanald.com.tr",
-          "title": "Karpuz Kabuğundan Gemiler Yapmak",
+          "source": "yenisafak.com",
+          "source_domain": "yenisafak.com",
+          "title": "Susuz Yaz’ın yayın tarihi belli oldu",
           "summary": "",
-          "url": "https://www.kanald.com.tr/sinemalar/karpuz-kabugundan-gemiler-yapmak",
-          "match_score": 0.73,
+          "url": "https://www.yenisafak.com/hayat/susuz-yazin-yayin-tarihi-belli-oldu-4876630",
+          "match_score": 0.75,
           "shared_keywords": [
-            "gemiler",
-            "kabugundan",
-            "karpuz",
-            "yapmak"
+            "belli",
+            "susuz",
+            "tarihi",
+            "yay",
+            "yaz"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
@@ -174,36 +174,36 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Oyuncu Çağla Demir hastanelik oldu! Bodrum'da düşerek omzunu kırdı",
-      "normalized_title": "oyuncu cagla demir hastanelik oldu bodrum da duserek omzunu kirdi",
-      "url": "https://www.posta.com.tr/magazin/oyuncu-cagla-demir-hastanelik-oldu-bodrumda-duserek-omzunu-kirdi-3068523",
-      "source": "posta.com.tr",
+      "title": "Derya Uluğ ve Asil Gök evlendi... Serdar Ortaç'ın düğündeki sorusu gündem oldu: 'Ne buldun bu herifte?'",
+      "normalized_title": "derya ulug ve asil gok evlendi serdar ortac in dugundeki sorusu gundem oldu ne buldun bu herifte",
+      "url": "https://www.cumhuriyet.com.tr/magazin/derya-ulug-ve-asil-gok-evlendi-serdar-ortac-in-dugundeki-sorusu-gundem-oldu-ne-buldun-bu-herifte-2559623",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "posta.com.tr",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-26T21:50:26.216941+00:00",
+      "collected_at": "2026-11-27T10:38:29.273520+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "kenttv.net",
-          "source_domain": "kenttv.net",
-          "url": "https://kenttv.net/haber/29227604/bodrumda-hastanelik-oldu",
-          "title": "Bodrum’da Hastanelik Oldu"
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/galeri-derya-ulug-ile-asil-gok-evlendi-unluleri-bulusturan-dugun-1752616",
+          "title": "Derya Uluğ ile Asil Gök evlendi. Ünlüleri buluşturan düğün"
         },
         {
-          "source": "posta.com.tr",
-          "source_domain": "posta.com.tr",
-          "url": "https://www.posta.com.tr/magazin/oyuncu-cagla-demir-hastanelik-oldu-bodrumda-duserek-omzunu-kirdi-3068523",
-          "title": "Oyuncu Çağla Demir hastanelik oldu! Bodrum'da düşerek omzunu kırdı"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/magazin/derya-ulug-ve-asil-gok-evlendi-serdar-ortac-in-dugundeki-sorusu-gundem-oldu-ne-buldun-bu-herifte-2559623",
+          "title": "Derya Uluğ ve Asil Gök evlendi... Serdar Ortaç'ın düğündeki sorusu gündem oldu: 'Ne buldun bu herifte?'"
         }
       ],
       "publisher_domains": [
-        "kenttv.net",
-        "posta.com.tr"
+        "cumhuriyet.com.tr",
+        "ntv.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -219,22 +219,25 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Oyuncu Çağla Demir hastanelik oldu! Bodrum'da düşerek omzunu kırdı - Magazin Haberleri",
-        "og_title": "Oyuncu Çağla Demir hastanelik oldu! Bodrum'da düşerek omzunu kırdı",
-        "description": "Magazin Haberleri - Medcezir, Kara Sevda, Çukur ve Yargı gibi dizilerde rol alan oyuncu Çağla Demir, Bodrum'da düşerek omzunu kırdı. Acıbadem'de ameliyat olan Demir, “Tendonlarım da yırtıldı ama operasyon güzel geçti. Şu an çok iyiyim” açıklamasında bulundu.",
+        "page_title": "Derya Uluğ ve Asil Gök evlendi... Serdar Ortaç'ın düğündeki sorusu gündem oldu: 'Ne buldun bu herifte?' - Son Dakika Magazin Haberleri | Cumhuriyet",
+        "og_title": "Derya Uluğ ve Asil Gök evlendi... Serdar Ortaç'ın düğündeki sorusu gündem oldu: 'Ne buldun bu herifte?'",
+        "description": "Şarkıcı Derya Uluğ ile müzisyen Asil Gök, 10 yıllık birlikteliklerini evlilikle taçlandırdı. Ünlü isimlerin katıldığı düğünde sahne alan Serdar Ortaç'ın Uluğ'a yönelttiği soru ve aldığı yanıt, gecenin dikkat çeken anlarından biri oldu.",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "kenttv.net",
-          "source_domain": "kenttv.net",
-          "title": "Bodrum’da Hastanelik Oldu",
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "title": "Derya Uluğ ile Asil Gök evlendi. Ünlüleri buluşturan düğün",
           "summary": "",
-          "url": "https://kenttv.net/haber/29227604/bodrumda-hastanelik-oldu",
-          "match_score": 0.7,
+          "url": "https://www.ntv.com.tr/yasam/galeri-derya-ulug-ile-asil-gok-evlendi-unluleri-bulusturan-dugun-1752616",
+          "match_score": 0.48,
           "shared_keywords": [
-            "bodrum",
-            "hastanelik"
+            "asil",
+            "derya",
+            "evlendi",
+            "gok",
+            "ulug"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
