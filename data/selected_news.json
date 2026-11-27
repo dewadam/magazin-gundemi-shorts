@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-27T16:53:27.743465+00:00",
-  "candidate_count": 77,
+  "generated_at": "2026-11-27T21:35:07.794328+00:00",
+  "candidate_count": 79,
   "event_group_count": 48,
-  "multi_publisher_event_count": 7,
+  "multi_publisher_event_count": 8,
   "selection_count": 3,
   "target_count": 3,
   "note": "Trend score is a heuristic proxy based on distinct publisher coverage, discovery-feed repetition and recency; it is not a measured view/share count. Selected items still require verification and visual-rights review.",
@@ -17,7 +17,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.478009+00:00",
+      "collected_at": "2026-11-27T21:34:32.144034+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -66,45 +66,36 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Aile kursam fena olmaz",
-      "normalized_title": "aile kursam fena olmaz",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/aile-kursam-fena-olmaz-43391367",
-      "source": "hurriyet.com.tr",
+      "title": "Ünlülere yönelik ‘uyuşturucu’ soruşturmasında 3 kişinin testi pozitif, 12 kişinin negatif çıktı",
+      "normalized_title": "unlulere yonelik uyusturucu sorusturmasinda 3 kisinin testi pozitif 12 kisinin negatif cikti",
+      "url": "https://www.cumhuriyet.com.tr/turkiye/unlulere-yonelik-uyusturucu-sorusturmasinda-3-kisinin-testi-pozitif-12-kisinin-negatif-cikti-2560019",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.478340+00:00",
+      "collected_at": "2026-11-27T21:34:32.143274+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [
-        {
-          "source": "milliyet.com.tr",
-          "source_role": "publisher",
-          "source_domain": "milliyet.com.tr",
-          "title": "‘Aile kursam fena olmaz!’",
-          "url": "https://www.milliyet.com.tr/magazin/aile-kursam-fena-olmaz-7708081",
-          "published_at": null
-        }
-      ],
+      "also_reported_by": [],
       "source_articles": [
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/aile-kursam-fena-olmaz-43391367",
-          "title": "Aile kursam fena olmaz"
+          "url": "https://www.hurriyet.com.tr/gundem/unlulere-yonelik-uyusturucu-sorusturmasinda-3-isim-tutuklandi-43392662",
+          "title": "Ünlülere yönelik uyuşturucu soruşturmasında 3 isim tutuklandı"
         },
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/aile-kursam-fena-olmaz-7708081",
-          "title": "‘Aile kursam fena olmaz!’"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/unlulere-yonelik-uyusturucu-sorusturmasinda-3-kisinin-testi-pozitif-12-kisinin-negatif-cikti-2560019",
+          "title": "Ünlülere yönelik ‘uyuşturucu’ soruşturmasında 3 kişinin testi pozitif, 12 kişinin negatif çıktı"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr",
-        "milliyet.com.tr"
+        "cumhuriyet.com.tr",
+        "hurriyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -113,42 +104,42 @@
       "latest_published_at": null,
       "age_hours": 48.0,
       "popularity_score": 20.0,
-      "possible_syndication": true,
+      "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Talihsiz kaza, oyuncu Çağla Demir Bodrum’da düşünce ameliyat oldu",
-      "normalized_title": "talihsiz kaza oyuncu cagla demir bodrum da dusunce ameliyat oldu",
-      "url": "https://www.patronlardunyasi.com/talihsiz-kaza-oyuncu-cagla-demir-bodrumda-dusunce-ameliyat-oldu",
-      "source": "patronlardunyasi.com",
+      "title": "Oyuncu Kıvanç Kılınç: Barış pratikte toplumsal uzlaşıyla tabana yayılmalı",
+      "normalized_title": "oyuncu kivanc kilinc baris pratikte toplumsal uzlasiyla tabana yayilmali",
+      "url": "https://yeniyasamgazetesi10.com/oyuncu-kivanc-kilinc-baris-pratikte-toplumsal-uzlasiyla-tabana-yayilmali/",
+      "source": "yeniyasamgazetesi10.com",
       "source_role": "publisher",
-      "source_domain": "patronlardunyasi.com",
+      "source_domain": "yeniyasamgazetesi10.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.478730+00:00",
+      "collected_at": "2026-11-27T21:34:32.143793+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "patronlardunyasi.com",
-          "source_domain": "patronlardunyasi.com",
-          "url": "https://www.patronlardunyasi.com/talihsiz-kaza-oyuncu-cagla-demir-bodrumda-dusunce-ameliyat-oldu",
-          "title": "Talihsiz kaza, oyuncu Çağla Demir Bodrum’da düşünce ameliyat oldu"
+          "source": "yeniyasamgazetesi10.com",
+          "source_domain": "yeniyasamgazetesi10.com",
+          "url": "https://yeniyasamgazetesi10.com/oyuncu-kivanc-kilinc-baris-pratikte-toplumsal-uzlasiyla-tabana-yayilmali/",
+          "title": "Oyuncu Kıvanç Kılınç: Barış pratikte toplumsal uzlaşıyla tabana yayılmalı"
         },
         {
-          "source": "muglagazetesi.com.tr",
-          "source_domain": "muglagazetesi.com.tr",
-          "url": "https://www.muglagazetesi.com.tr/bodrum-haberleri/oyuncu-cagla-demir-bodrumda-dustu-omzu-kirildi-ameliyat-oldu-224082h",
-          "title": "Oyuncu Çağla Demir Bodrum’da Düştü, Omzu Kırıldı, Ameliyat Oldu"
+          "source": "artigercek.com",
+          "source_domain": "artigercek.com",
+          "url": "https://artigercek.com/politika/kivanc-kilinc-baris-toplumsal-uzlasmayla-tabana-yayilmali-353176h",
+          "title": "Kıvanç Kılınç: Barış toplumsal uzlaşmayla tabana yayılmalı"
         }
       ],
       "publisher_domains": [
-        "muglagazetesi.com.tr",
-        "patronlardunyasi.com"
+        "artigercek.com",
+        "yeniyasamgazetesi10.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -165,73 +156,6 @@
   ],
   "event_groups_preview": [
     {
-      "title": "Mustafa Keser'in acı günü. 48 yıllık eşi Nilüfer Keser hayatını kaybetti",
-      "normalized_title": "mustafa keser in aci gunu 48 yillik esi nilufer keser hayatini kaybetti",
-      "url": "https://www.ntv.com.tr/yasam/mustafa-keserin-aci-gunu-48-yillik-esi-nilufer-keser-hayatini-kaybetti-1752727",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.476469+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [
-        {
-          "source": "sozcu.com.tr",
-          "source_role": "publisher",
-          "source_domain": "sozcu.com.tr",
-          "title": "Mustafa Keser'in acı günü: 48 yıllık eşi Nilüfer Keser hayatını kaybetti",
-          "url": "https://www.sozcu.com.tr/mustafa-keser-in-aci-gunu-48-yillik-esi-nilufer-keser-hayatini-kaybetti-p384622",
-          "published_at": null
-        }
-      ],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/yasam/mustafa-keserin-aci-gunu-48-yillik-esi-nilufer-keser-hayatini-kaybetti-1752727",
-          "title": "Mustafa Keser'in acı günü. 48 yıllık eşi Nilüfer Keser hayatını kaybetti"
-        },
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/mustafa-keser-in-aci-gunu-48-yillik-esi-nilufer-keser-hayatini-kaybetti-p384622",
-          "title": "Mustafa Keser'in acı günü: 48 yıllık eşi Nilüfer Keser hayatını kaybetti"
-        },
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/mustafa-keserin-esi-nilufer-keser-hayatini-kaybetti-43391984",
-          "title": "Mustafa Keser'in eşi Nilüfer Keser hayatını kaybetti"
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/yasam/nilufer-keser-kimdir-mustafa-keser-in-esi-nilufer-keser-neden-oldu-2559659",
-          "title": "Nilüfer Keser kimdir? Mustafa Keser'in eşi Nilüfer Keser neden öldü?"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "hurriyet.com.tr",
-        "ntv.com.tr",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 4,
-      "direct_article_count": 4,
-      "event_member_count": 4,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 40.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
       "title": "Yoğun bakımda tedavi görüyordu! Killa Hakan’dan sevindiren haber: Hayat bazen zorlar!",
       "normalized_title": "yogun bakimda tedavi goruyordu killa hakan dan sevindiren haber hayat bazen zorlar",
       "url": "https://www.sabah.com.tr/trend/galeri/magazin/yogun-bakimda-tedavi-goruyordu-killa-hakandan-sevindiren-haber-hayat-bazen-zorlar",
@@ -241,7 +165,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.478009+00:00",
+      "collected_at": "2026-11-27T21:34:32.144034+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -290,36 +214,175 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Son dakika... Ünlülere uyuşturucu soruşturmasında yeni gelişme: 3 isim tutuklandı",
-      "normalized_title": "son dakika unlulere uyusturucu sorusturmasinda yeni gelisme 3 isim tutuklandi",
-      "url": "https://www.sozcu.com.tr/son-dakika-unlulere-uyusturucu-sorusturmasinda-yeni-gelisme-3-isim-tutuklandi-p384798",
-      "source": "sozcu.com.tr",
+      "title": "Mustafa Keser'in acı günü. 48 yıllık eşi Nilüfer Keser hayatını kaybetti",
+      "normalized_title": "mustafa keser in aci gunu 48 yillik esi nilufer keser hayatini kaybetti",
+      "url": "https://www.ntv.com.tr/yasam/mustafa-keserin-aci-gunu-48-yillik-esi-nilufer-keser-hayatini-kaybetti-1752727",
+      "source": "ntv.com.tr",
       "source_role": "publisher",
-      "source_domain": "sozcu.com.tr",
+      "source_domain": "ntv.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.477244+00:00",
+      "collected_at": "2026-11-27T21:34:32.143317+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
+          "source": "ntv.com.tr",
+          "source_domain": "ntv.com.tr",
+          "url": "https://www.ntv.com.tr/yasam/mustafa-keserin-aci-gunu-48-yillik-esi-nilufer-keser-hayatini-kaybetti-1752727",
+          "title": "Mustafa Keser'in acı günü. 48 yıllık eşi Nilüfer Keser hayatını kaybetti"
+        },
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/yasam/nilufer-keser-kimdir-mustafa-keser-in-esi-nilufer-keser-neden-oldu-2559659",
+          "title": "Nilüfer Keser kimdir? Mustafa Keser'in eşi Nilüfer Keser neden öldü?"
+        },
+        {
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/kelebek/hayat/mustafa-keserin-esi-nilufer-keser-hayatini-kaybetti-43391984",
+          "title": "Mustafa Keser'in eşi Nilüfer Keser hayatını kaybetti"
+        }
+      ],
+      "publisher_domains": [
+        "cumhuriyet.com.tr",
+        "hurriyet.com.tr",
+        "ntv.com.tr"
+      ],
+      "publisher_count": 3,
+      "direct_article_count": 3,
+      "event_member_count": 3,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 30.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Ünlülere uyuşturucu operasyonu: Burcu Özberk, Özcan Deniz, Deniz Çakır dahil 9 kişi adli kontrolle serbest",
+      "normalized_title": "unlulere uyusturucu operasyonu burcu ozberk ozcan deniz deniz cakir dahil 9 kisi adli kontrolle serbest",
+      "url": "https://gazeteoksijen.com/turkiye/unlulere-uyusturucu-operasyonu-burcu-ozberk-ozcan-deniz-deniz-cakir-dahil-9-kisi-adli-kontrolle-serbest-297311",
+      "source": "gazeteoksijen.com",
+      "source_role": "publisher",
+      "source_domain": "gazeteoksijen.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-27T21:34:32.143127+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "gazeteoksijen.com",
+          "source_domain": "gazeteoksijen.com",
+          "url": "https://gazeteoksijen.com/turkiye/unlulere-uyusturucu-operasyonu-burcu-ozberk-ozcan-deniz-deniz-cakir-dahil-9-kisi-adli-kontrolle-serbest-297311",
+          "title": "Ünlülere uyuşturucu operasyonu: Burcu Özberk, Özcan Deniz, Deniz Çakır dahil 9 kişi adli kontrolle serbest"
+        },
+        {
           "source": "sozcu.com.tr",
           "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/son-dakika-unlulere-uyusturucu-sorusturmasinda-yeni-gelisme-3-isim-tutuklandi-p384798",
-          "title": "Son dakika... Ünlülere uyuşturucu soruşturmasında yeni gelişme: 3 isim tutuklandı"
-        },
+          "url": "https://www.sozcu.com.tr/unlu-sorusturmasinda-yeni-pozitifler-27-kasim-2026-p384977",
+          "title": "Ünlülere uyuşturucu soruşturması! Özcan Deniz, Deniz Çakır ve Burcu Özberk'in test sonucu belli oldu"
+        }
+      ],
+      "publisher_domains": [
+        "gazeteoksijen.com",
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Ünlülere yönelik ‘uyuşturucu’ soruşturmasında 3 kişinin testi pozitif, 12 kişinin negatif çıktı",
+      "normalized_title": "unlulere yonelik uyusturucu sorusturmasinda 3 kisinin testi pozitif 12 kisinin negatif cikti",
+      "url": "https://www.cumhuriyet.com.tr/turkiye/unlulere-yonelik-uyusturucu-sorusturmasinda-3-kisinin-testi-pozitif-12-kisinin-negatif-cikti-2560019",
+      "source": "cumhuriyet.com.tr",
+      "source_role": "publisher",
+      "source_domain": "cumhuriyet.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-27T21:34:32.143274+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
         {
           "source": "hurriyet.com.tr",
           "source_domain": "hurriyet.com.tr",
           "url": "https://www.hurriyet.com.tr/gundem/unlulere-yonelik-uyusturucu-sorusturmasinda-3-isim-tutuklandi-43392662",
           "title": "Ünlülere yönelik uyuşturucu soruşturmasında 3 isim tutuklandı"
+        },
+        {
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/unlulere-yonelik-uyusturucu-sorusturmasinda-3-kisinin-testi-pozitif-12-kisinin-negatif-cikti-2560019",
+          "title": "Ünlülere yönelik ‘uyuşturucu’ soruşturmasında 3 kişinin testi pozitif, 12 kişinin negatif çıktı"
         }
       ],
       "publisher_domains": [
-        "hurriyet.com.tr",
-        "sozcu.com.tr"
+        "cumhuriyet.com.tr",
+        "hurriyet.com.tr"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher"
+    },
+    {
+      "title": "Oyuncu Kıvanç Kılınç: Barış pratikte toplumsal uzlaşıyla tabana yayılmalı",
+      "normalized_title": "oyuncu kivanc kilinc baris pratikte toplumsal uzlasiyla tabana yayilmali",
+      "url": "https://yeniyasamgazetesi10.com/oyuncu-kivanc-kilinc-baris-pratikte-toplumsal-uzlasiyla-tabana-yayilmali/",
+      "source": "yeniyasamgazetesi10.com",
+      "source_role": "publisher",
+      "source_domain": "yeniyasamgazetesi10.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-27T21:34:32.143793+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yeniyasamgazetesi10.com",
+          "source_domain": "yeniyasamgazetesi10.com",
+          "url": "https://yeniyasamgazetesi10.com/oyuncu-kivanc-kilinc-baris-pratikte-toplumsal-uzlasiyla-tabana-yayilmali/",
+          "title": "Oyuncu Kıvanç Kılınç: Barış pratikte toplumsal uzlaşıyla tabana yayılmalı"
+        },
+        {
+          "source": "artigercek.com",
+          "source_domain": "artigercek.com",
+          "url": "https://artigercek.com/politika/kivanc-kilinc-baris-toplumsal-uzlasmayla-tabana-yayilmali-353176h",
+          "title": "Kıvanç Kılınç: Barış toplumsal uzlaşmayla tabana yayılmalı"
+        }
+      ],
+      "publisher_domains": [
+        "artigercek.com",
+        "yeniyasamgazetesi10.com"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -343,7 +406,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.478340+00:00",
+      "collected_at": "2026-11-27T21:34:32.144065+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [
@@ -396,7 +459,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.478658+00:00",
+      "collected_at": "2026-11-27T21:34:32.144213+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -440,7 +503,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.478730+00:00",
+      "collected_at": "2026-11-27T21:34:32.144248+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -475,50 +538,6 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Ufuk Beydemir baba oldu: Erken doğan kızının adını ve sağlık durumunu açıkladı",
-      "normalized_title": "ufuk beydemir baba oldu erken dogan kizinin adini ve saglik durumunu acikladi",
-      "url": "https://www.cumhuriyet.com.tr/magazin/ufuk-beydemir-baba-oldu-erken-dogan-kizinin-adini-ve-saglik-durumunu-acikladi-2559179",
-      "source": "cumhuriyet.com.tr",
-      "source_role": "publisher",
-      "source_domain": "cumhuriyet.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.480269+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "sozcu.com.tr",
-          "source_domain": "sozcu.com.tr",
-          "url": "https://www.sozcu.com.tr/ufuk-beydemir-in-kizi-25-haftalik-dogdu-adini-acikladi-p384187",
-          "title": "Ufuk Beydemir'in kızı 25 haftalık doğdu: Adını açıkladı"
-        },
-        {
-          "source": "cumhuriyet.com.tr",
-          "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/magazin/ufuk-beydemir-baba-oldu-erken-dogan-kizinin-adini-ve-saglik-durumunu-acikladi-2559179",
-          "title": "Ufuk Beydemir baba oldu: Erken doğan kızının adını ve sağlık durumunu açıkladı"
-        }
-      ],
-      "publisher_domains": [
-        "cumhuriyet.com.tr",
-        "sozcu.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher"
-    },
-    {
       "title": "Ahmet Kaya'nın ailesi dava açmıştı. \"İki Gözüm Ahmet\" filmiyle ilgili mahkemeden yeni karar",
       "normalized_title": "ahmet kaya nin ailesi dava acmisti iki gozum ahmet filmiyle ilgili mahkemeden yeni karar",
       "url": "https://www.ntv.com.tr/yasam/ahmet-kayanin-ailesi-dava-acmisti-iki-gozum-ahmet-filmiyle-ilgili-mahkemeden-yeni-karar-1752875",
@@ -528,7 +547,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.480399+00:00",
+      "collected_at": "2026-11-27T21:34:32.145069+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -540,14 +559,14 @@
           "title": "Ahmet Kaya'nın ailesi dava açmıştı. \"İki Gözüm Ahmet\" filmiyle ilgili mahkemeden yeni karar"
         },
         {
-          "source": "haberler.com",
-          "source_domain": "haberler.com",
-          "url": "https://www.haberler.com/magazin/ahmet-kayanin-ailesine-mahkemeden-bir-ret-daha-20459823-haberi/",
-          "title": "Ahmet Kaya'nın ailesine mahkemeden bir ret daha!"
+          "source": "haberturk.com",
+          "source_domain": "haberturk.com",
+          "url": "https://www.haberturk.com/magazin/ahmet-kayanin-ailesinin-iki-gozum-ahmet-filmine-actigi-dava-reddedildi-3930612",
+          "title": "Ahmet Kaya’nın ailesinin 'İki Gözüm Ahmet' filmine açtığı dava reddedildi"
         }
       ],
       "publisher_domains": [
-        "haberler.com",
+        "haberturk.com",
         "ntv.com.tr"
       ],
       "publisher_count": 2,
@@ -563,8 +582,8 @@
       "coverage_label": "multi_publisher"
     },
     {
-      "title": "Kızılcık Şerbeti’nin Nurullah’ı Kahraman Sivri kimdir, kaç yaşında, nereli? İşte hayatı",
-      "normalized_title": "kizilcik serbeti nin nurullah i kahraman sivri kimdir kac yasinda nereli iste hayati",
+      "title": "Kızılcık Şerbeti Nurullah (Kahraman Sivri) kimdir, kaç yaşında, nereli? İşte rol aldığı dizi ve filmler",
+      "normalized_title": "kizilcik serbeti nurullah kahraman sivri kimdir kac yasinda nereli iste rol aldigi dizi ve filmler",
       "url": "https://www.sozcu.com.tr/kizilcik-serbeti-nin-nurullah-i-kahraman-sivri-kimdir-kac-yasinda-nereli-iste-hayati-p384927",
       "source": "sozcu.com.tr",
       "source_role": "publisher",
@@ -572,7 +591,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.476831+00:00",
+      "collected_at": "2026-11-27T21:34:32.142915+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -581,7 +600,7 @@
           "source": "sozcu.com.tr",
           "source_domain": "sozcu.com.tr",
           "url": "https://www.sozcu.com.tr/kizilcik-serbeti-nin-nurullah-i-kahraman-sivri-kimdir-kac-yasinda-nereli-iste-hayati-p384927",
-          "title": "Kızılcık Şerbeti’nin Nurullah’ı Kahraman Sivri kimdir, kaç yaşında, nereli? İşte hayatı"
+          "title": "Kızılcık Şerbeti Nurullah (Kahraman Sivri) kimdir, kaç yaşında, nereli? İşte rol aldığı dizi ve filmler"
         }
       ],
       "publisher_domains": [
@@ -589,48 +608,11 @@
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
-      "event_member_count": 2,
-      "discovery_item_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
       "latest_published_at": null,
       "age_hours": 48.0,
-      "popularity_score": 10.5,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Oyuncu Kıvanç Kılınç: Barış pratikte toplumsal uzlaşıyla tabana yayılmalı",
-      "normalized_title": "oyuncu kivanc kilinc baris pratikte toplumsal uzlasiyla tabana yayilmali",
-      "url": "https://yeniyasamgazetesi10.com/oyuncu-kivanc-kilinc-baris-pratikte-toplumsal-uzlasiyla-tabana-yayilmali/",
-      "source": "yeniyasamgazetesi10.com",
-      "source_role": "publisher",
-      "source_domain": "yeniyasamgazetesi10.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.480610+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "yeniyasamgazetesi10.com",
-          "source_domain": "yeniyasamgazetesi10.com",
-          "url": "https://yeniyasamgazetesi10.com/oyuncu-kivanc-kilinc-baris-pratikte-toplumsal-uzlasiyla-tabana-yayilmali/",
-          "title": "Oyuncu Kıvanç Kılınç: Barış pratikte toplumsal uzlaşıyla tabana yayılmalı"
-        }
-      ],
-      "publisher_domains": [
-        "yeniyasamgazetesi10.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 2,
-      "discovery_item_count": 1,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.5,
+      "popularity_score": 10.0,
       "possible_syndication": false,
       "verification_status": "manual_review_required",
       "publication_approved": false,
@@ -646,7 +628,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.476905+00:00",
+      "collected_at": "2026-11-27T21:34:32.142985+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -674,29 +656,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Kızılcık Şerbeti'nin kadrosuna Birand Tunca Dahil oldu!",
-      "normalized_title": "kizilcik serbeti nin kadrosuna birand tunca dahil oldu",
-      "url": "https://www.showtv.com.tr/dizi/haber/3930389-kizilcik-serbeti-nin-kadrosuna-birand-tunca-dahil-oldu",
-      "source": "showtv.com.tr",
+      "title": "Kızılcık Şerbeti 27 Kasım 2026 - Saat Kaçta Başlıyor? - TV Rehberi",
+      "normalized_title": "kizilcik serbeti 27 kasim 2026 saat kacta basliyor tv rehberi",
+      "url": "https://www.hurriyet.com.tr/tv-rehberi/program-detay/24635891/kizilcik-serbeti/",
+      "source": "hurriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "showtv.com.tr",
+      "source_domain": "hurriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.476979+00:00",
+      "collected_at": "2026-11-27T21:34:32.143033+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "showtv.com.tr",
-          "source_domain": "showtv.com.tr",
-          "url": "https://www.showtv.com.tr/dizi/haber/3930389-kizilcik-serbeti-nin-kadrosuna-birand-tunca-dahil-oldu",
-          "title": "Kızılcık Şerbeti'nin kadrosuna Birand Tunca Dahil oldu!"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/tv-rehberi/program-detay/24635891/kizilcik-serbeti/",
+          "title": "Kızılcık Şerbeti 27 Kasım 2026 - Saat Kaçta Başlıyor? - TV Rehberi"
         }
       ],
       "publisher_domains": [
-        "showtv.com.tr"
+        "hurriyet.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -711,16 +693,16 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Kızılcık Şerbeti dizisinin yeni bölümü ne zaman? Kızılcık Şerbeti dizisinin son bölümünde ne oldu?",
-      "normalized_title": "kizilcik serbeti dizisinin yeni bolumu ne zaman kizilcik serbeti dizisinin son bolumunde ne oldu",
-      "url": "https://www.cumhuriyet.com.tr/tv-rehberi/kizilcik-serbeti-dizisinin-yeni-bolumu-ne-zaman-kizilcik-serbeti-dizisinin-son-bolumunde-ne-oldu-2559931",
+      "title": "Kim Kime Dum Duma - 27 Kasım 2026",
+      "normalized_title": "kim kime dum duma 27 kasim 2026",
+      "url": "https://www.cumhuriyet.com.tr/cizerler/kim-kime-dum-duma-27-kasim-2026-2559795",
       "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
       "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.477071+00:00",
+      "collected_at": "2026-11-27T21:34:32.143076+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -728,8 +710,8 @@
         {
           "source": "cumhuriyet.com.tr",
           "source_domain": "cumhuriyet.com.tr",
-          "url": "https://www.cumhuriyet.com.tr/tv-rehberi/kizilcik-serbeti-dizisinin-yeni-bolumu-ne-zaman-kizilcik-serbeti-dizisinin-son-bolumunde-ne-oldu-2559931",
-          "title": "Kızılcık Şerbeti dizisinin yeni bölümü ne zaman? Kızılcık Şerbeti dizisinin son bölümünde ne oldu?"
+          "url": "https://www.cumhuriyet.com.tr/cizerler/kim-kime-dum-duma-27-kasim-2026-2559795",
+          "title": "Kim Kime Dum Duma - 27 Kasım 2026"
         }
       ],
       "publisher_domains": [
@@ -748,66 +730,29 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "Ünlülere uyuşturucu operasyonu: Burcu Özberk, Özcan Deniz, Deniz Çakır dahil 9 kişi adli kontrolle serbest",
-      "normalized_title": "unlulere uyusturucu operasyonu burcu ozberk ozcan deniz deniz cakir dahil 9 kisi adli kontrolle serbest",
-      "url": "https://gazeteoksijen.com/turkiye/unlulere-uyusturucu-operasyonu-burcu-ozberk-ozcan-deniz-deniz-cakir-dahil-9-kisi-adli-kontrolle-serbest-297311",
-      "source": "gazeteoksijen.com",
+      "title": "Mustafa Keser acı haberi duyurdu! 48 yıllık hayat arkadaşı hayatını kaybetti",
+      "normalized_title": "mustafa keser aci haberi duyurdu 48 yillik hayat arkadasi hayatini kaybetti",
+      "url": "https://www.sabah.com.tr/trend/galeri/magazin/mustafa-keser-aci-haberi-duyurdu-48-yillik-hayat-arkadasi-hayatini-kaybetti",
+      "source": "sabah.com.tr",
       "source_role": "publisher",
-      "source_domain": "gazeteoksijen.com",
+      "source_domain": "sabah.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.477164+00:00",
+      "collected_at": "2026-11-27T21:34:32.143431+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "gazeteoksijen.com",
-          "source_domain": "gazeteoksijen.com",
-          "url": "https://gazeteoksijen.com/turkiye/unlulere-uyusturucu-operasyonu-burcu-ozberk-ozcan-deniz-deniz-cakir-dahil-9-kisi-adli-kontrolle-serbest-297311",
-          "title": "Ünlülere uyuşturucu operasyonu: Burcu Özberk, Özcan Deniz, Deniz Çakır dahil 9 kişi adli kontrolle serbest"
+          "source": "sabah.com.tr",
+          "source_domain": "sabah.com.tr",
+          "url": "https://www.sabah.com.tr/trend/galeri/magazin/mustafa-keser-aci-haberi-duyurdu-48-yillik-hayat-arkadasi-hayatini-kaybetti",
+          "title": "Mustafa Keser acı haberi duyurdu! 48 yıllık hayat arkadaşı hayatını kaybetti"
         }
       ],
       "publisher_domains": [
-        "gazeteoksijen.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Ünlülere uyuşturucu soruşturması: Biri fenomen, biri iş insanı üç tutuklama",
-      "normalized_title": "unlulere uyusturucu sorusturmasi biri fenomen biri is insani uc tutuklama",
-      "url": "https://www.ntv.com.tr/turkiye/galeri-unlulere-uyusturucu-sorusturmasi-biri-fenomen-biri-is-insani-uc-tutuklama-1752812",
-      "source": "ntv.com.tr",
-      "source_role": "publisher",
-      "source_domain": "ntv.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.477390+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "ntv.com.tr",
-          "source_domain": "ntv.com.tr",
-          "url": "https://www.ntv.com.tr/turkiye/galeri-unlulere-uyusturucu-sorusturmasi-biri-fenomen-biri-is-insani-uc-tutuklama-1752812",
-          "title": "Ünlülere uyuşturucu soruşturması: Biri fenomen, biri iş insanı üç tutuklama"
-        }
-      ],
-      "publisher_domains": [
-        "ntv.com.tr"
+        "sabah.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -831,7 +776,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.477473+00:00",
+      "collected_at": "2026-11-27T21:34:32.143467+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -868,7 +813,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.477536+00:00",
+      "collected_at": "2026-11-27T21:34:32.143497+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -905,7 +850,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.477598+00:00",
+      "collected_at": "2026-11-27T21:34:32.143528+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -942,7 +887,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.477651+00:00",
+      "collected_at": "2026-11-27T21:34:32.143555+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -972,27 +917,27 @@
     {
       "title": "Yalan Dünya'nın Tülay'ı İrem Sak yeni dizisini anlattı! Kariyerinde bir ilk",
       "normalized_title": "yalan dunya nin tulay i irem sak yeni dizisini anlatti kariyerinde bir ilk",
-      "url": "https://www.sondakika.com/haber/haber-yalan-dunyanin-tulayi-irem-sak-yeni-dizisini-20469499/",
-      "source": "sondakika.com",
+      "url": "https://www.haberler.com/haberler/yalan-dunyanin-tulayi-irem-sak-yeni-dizisini-20469498-haberi/",
+      "source": "haberler.com",
       "source_role": "publisher",
-      "source_domain": "sondakika.com",
+      "source_domain": "haberler.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.477729+00:00",
+      "collected_at": "2026-11-27T21:34:32.143596+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "sondakika.com",
-          "source_domain": "sondakika.com",
-          "url": "https://www.sondakika.com/haber/haber-yalan-dunyanin-tulayi-irem-sak-yeni-dizisini-20469499/",
+          "source": "haberler.com",
+          "source_domain": "haberler.com",
+          "url": "https://www.haberler.com/haberler/yalan-dunyanin-tulayi-irem-sak-yeni-dizisini-20469498-haberi/",
           "title": "Yalan Dünya'nın Tülay'ı İrem Sak yeni dizisini anlattı! Kariyerinde bir ilk"
         }
       ],
       "publisher_domains": [
-        "sondakika.com"
+        "haberler.com"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1016,7 +961,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.478077+00:00",
+      "collected_at": "2026-11-27T21:34:32.143632+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1044,6 +989,43 @@
       "coverage_label": "single_publisher"
     },
     {
+      "title": "Serdar Ortaç'ın düğünde sorduğu soruya herkes dondu kaldı",
+      "normalized_title": "serdar ortac in dugunde sordugu soruya herkes dondu kaldi",
+      "url": "https://www.sozcu.com.tr/serdar-ortac-in-dugunde-sordugu-soruya-herkes-dondu-kaldi-p384606",
+      "source": "sozcu.com.tr",
+      "source_role": "publisher",
+      "source_domain": "sozcu.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-27T21:34:32.143669+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "sozcu.com.tr",
+          "source_domain": "sozcu.com.tr",
+          "url": "https://www.sozcu.com.tr/serdar-ortac-in-dugunde-sordugu-soruya-herkes-dondu-kaldi-p384606",
+          "title": "Serdar Ortaç'ın düğünde sorduğu soruya herkes dondu kaldı"
+        }
+      ],
+      "publisher_domains": [
+        "sozcu.com.tr"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
       "title": "10 yıllık aşk evlilikle taçlandı! Derya Uluğ ve Asil Gök’ü mutlu gününde o isimler yalnız bırakmadı...",
       "normalized_title": "10 yillik ask evlilikle taclandi derya ulug ve asil gok u mutlu gununde o isimler yalniz birakmadi",
       "url": "https://www.sabah.com.tr/trend/galeri/magazin/10-yillik-ask-evlilikle-taclandi-derya-ulug-ve-asil-goku-mutlu-gununde-o-isimler-yalniz-birakmadi",
@@ -1053,7 +1035,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.478170+00:00",
+      "collected_at": "2026-11-27T21:34:32.143719+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1090,7 +1072,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.478241+00:00",
+      "collected_at": "2026-11-27T21:34:32.143757+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1118,29 +1100,66 @@
       "coverage_label": "single_publisher"
     },
     {
-      "title": "10 yıllık aska ‘Evet’",
-      "normalized_title": "10 yillik aska evet",
-      "url": "https://www.milliyet.com.tr/magazin/10-yillik-aska-evet-7708889",
-      "source": "milliyet.com.tr",
+      "title": "Gibi'nin İlkkan'ından 'süreç' çıkışı: Barış yukarıdan aşağıya inmez",
+      "normalized_title": "gibi nin ilkkan indan surec cikisi baris yukaridan asagiya inmez",
+      "url": "https://www.odatv.com/guncel/gibinin-ilkkani-anfye-konustu-dikkat-ceken-baris-mesaji-120173025",
+      "source": "odatv.com",
       "source_role": "publisher",
-      "source_domain": "milliyet.com.tr",
+      "source_domain": "odatv.com",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.478292+00:00",
+      "collected_at": "2026-11-27T21:34:32.143829+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/10-yillik-aska-evet-7708889",
-          "title": "10 yıllık aska ‘Evet’"
+          "source": "odatv.com",
+          "source_domain": "odatv.com",
+          "url": "https://www.odatv.com/guncel/gibinin-ilkkani-anfye-konustu-dikkat-ceken-baris-mesaji-120173025",
+          "title": "Gibi'nin İlkkan'ından 'süreç' çıkışı: Barış yukarıdan aşağıya inmez"
         }
       ],
       "publisher_domains": [
-        "milliyet.com.tr"
+        "odatv.com"
+      ],
+      "publisher_count": 1,
+      "direct_article_count": 1,
+      "event_member_count": 1,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 10.0,
+      "possible_syndication": false,
+      "verification_status": "manual_review_required",
+      "publication_approved": false,
+      "coverage_label": "single_publisher"
+    },
+    {
+      "title": "Oyuncu Kıvanç Kılınç: Kalıcı barış için herkes elinden geleni yapmalı",
+      "normalized_title": "oyuncu kivanc kilinc kalici baris icin herkes elinden geleni yapmali",
+      "url": "https://ilketv.com.tr/oyuncu-kivanc-kilinc-kalici-baris-icin-herkes-elinden-geleni-yapmali/",
+      "source": "ilketv.com.tr",
+      "source_role": "publisher",
+      "source_domain": "ilketv.com.tr",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-27T21:34:32.143865+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "ilketv.com.tr",
+          "source_domain": "ilketv.com.tr",
+          "url": "https://ilketv.com.tr/oyuncu-kivanc-kilinc-kalici-baris-icin-herkes-elinden-geleni-yapmali/",
+          "title": "Oyuncu Kıvanç Kılınç: Kalıcı barış için herkes elinden geleni yapmalı"
+        }
+      ],
+      "publisher_domains": [
+        "ilketv.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,
@@ -1164,7 +1183,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.478415+00:00",
+      "collected_at": "2026-11-27T21:34:32.144102+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1201,7 +1220,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.478476+00:00",
+      "collected_at": "2026-11-27T21:34:32.144124+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1238,7 +1257,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.478878+00:00",
+      "collected_at": "2026-11-27T21:34:32.144321+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1275,7 +1294,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.478941+00:00",
+      "collected_at": "2026-11-27T21:34:32.144354+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1312,7 +1331,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.479020+00:00",
+      "collected_at": "2026-11-27T21:34:32.144394+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -1326,43 +1345,6 @@
       ],
       "publisher_domains": [
         "internethaber.com"
-      ],
-      "publisher_count": 1,
-      "direct_article_count": 1,
-      "event_member_count": 1,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 10.0,
-      "possible_syndication": false,
-      "verification_status": "manual_review_required",
-      "publication_approved": false,
-      "coverage_label": "single_publisher"
-    },
-    {
-      "title": "Sevgilisi ilk başrolü kaptı: Doğukan Güngör’le yollar o gün ayrıldı! İddiaların merkezinde bakın hangi oyuncu var",
-      "normalized_title": "sevgilisi ilk basrolu kapti dogukan gungor le yollar o gun ayrildi iddialarin merkezinde bakin hangi oyuncu var",
-      "url": "https://www.takvim.com.tr/galeri/magazin/dogukan-gungorden-eski-sevgilisine-sitem-basrolu-alinca-benden-ayrildi",
-      "source": "takvim.com.tr",
-      "source_role": "publisher",
-      "source_domain": "takvim.com.tr",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.479113+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [],
-      "source_articles": [
-        {
-          "source": "takvim.com.tr",
-          "source_domain": "takvim.com.tr",
-          "url": "https://www.takvim.com.tr/galeri/magazin/dogukan-gungorden-eski-sevgilisine-sitem-basrolu-alinca-benden-ayrildi",
-          "title": "Sevgilisi ilk başrolü kaptı: Doğukan Güngör’le yollar o gün ayrıldı! İddiaların merkezinde bakın hangi oyuncu var"
-        }
-      ],
-      "publisher_domains": [
-        "takvim.com.tr"
       ],
       "publisher_count": 1,
       "direct_article_count": 1,

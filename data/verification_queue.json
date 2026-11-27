@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:53:30.478754+00:00",
+  "generated_at": "2026-11-27T21:35:09.309909+00:00",
   "checked_count": 3,
   "publication_approved_count": 0,
   "note": "Başlık ve özet benzerliği geniş bir manuel inceleme aday listesi üretir. Adaylar haber doğrulaması, bağımsız teyit veya yayın onayı değildir.",
@@ -14,7 +14,7 @@
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.478009+00:00",
+      "collected_at": "2026-11-27T21:34:32.144034+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
@@ -130,116 +130,36 @@
       "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
     },
     {
-      "title": "Aile kursam fena olmaz",
-      "normalized_title": "aile kursam fena olmaz",
-      "url": "https://www.hurriyet.com.tr/kelebek/hayat/aile-kursam-fena-olmaz-43391367",
-      "source": "hurriyet.com.tr",
+      "title": "Ünlülere yönelik ‘uyuşturucu’ soruşturmasında 3 kişinin testi pozitif, 12 kişinin negatif çıktı",
+      "normalized_title": "unlulere yonelik uyusturucu sorusturmasinda 3 kisinin testi pozitif 12 kisinin negatif cikti",
+      "url": "https://www.cumhuriyet.com.tr/turkiye/unlulere-yonelik-uyusturucu-sorusturmasinda-3-kisinin-testi-pozitif-12-kisinin-negatif-cikti-2560019",
+      "source": "cumhuriyet.com.tr",
       "source_role": "publisher",
-      "source_domain": "hurriyet.com.tr",
+      "source_domain": "cumhuriyet.com.tr",
       "published_at": null,
       "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
       "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.478340+00:00",
-      "status": "publisher_article_decoded_from_google_news",
-      "discovery_source": "Google News Türkiye — Magazin gündemi",
-      "also_reported_by": [
-        {
-          "source": "milliyet.com.tr",
-          "source_role": "publisher",
-          "source_domain": "milliyet.com.tr",
-          "title": "‘Aile kursam fena olmaz!’",
-          "url": "https://www.milliyet.com.tr/magazin/aile-kursam-fena-olmaz-7708081",
-          "published_at": null
-        }
-      ],
-      "source_articles": [
-        {
-          "source": "hurriyet.com.tr",
-          "source_domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/kelebek/hayat/aile-kursam-fena-olmaz-43391367",
-          "title": "Aile kursam fena olmaz"
-        },
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "url": "https://www.milliyet.com.tr/magazin/aile-kursam-fena-olmaz-7708081",
-          "title": "‘Aile kursam fena olmaz!’"
-        }
-      ],
-      "publisher_domains": [
-        "hurriyet.com.tr",
-        "milliyet.com.tr"
-      ],
-      "publisher_count": 2,
-      "direct_article_count": 2,
-      "event_member_count": 2,
-      "discovery_item_count": 0,
-      "latest_published_at": null,
-      "age_hours": 48.0,
-      "popularity_score": 20.0,
-      "possible_syndication": true,
-      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
-      "publication_approved": false,
-      "coverage_label": "multi_publisher",
-      "source_page_check": {
-        "reachable": true,
-        "http_status": 200,
-        "page_title": "Aile kursam fena olmaz - Son Dakika Magazin Haberleri",
-        "og_title": "Aile kursam fena olmaz",
-        "description": "Melisa Döngel, önceki akşam annesi Natalia Orlova ile Arnavutköy’de bir mekân çıkışı görüntülendi.",
-        "error": null
-      },
-      "independent_source_matches": [
-        {
-          "source": "milliyet.com.tr",
-          "source_domain": "milliyet.com.tr",
-          "title": "‘Aile kursam fena olmaz!’",
-          "summary": "",
-          "url": "https://www.milliyet.com.tr/magazin/aile-kursam-fena-olmaz-7708081",
-          "match_score": 1.0,
-          "shared_keywords": [
-            "aile",
-            "fena",
-            "kursam",
-            "olmaz"
-          ],
-          "match_basis": "title_and_context",
-          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
-        }
-      ],
-      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
-    },
-    {
-      "title": "Talihsiz kaza, oyuncu Çağla Demir Bodrum’da düşünce ameliyat oldu",
-      "normalized_title": "talihsiz kaza oyuncu cagla demir bodrum da dusunce ameliyat oldu",
-      "url": "https://www.patronlardunyasi.com/talihsiz-kaza-oyuncu-cagla-demir-bodrumda-dusunce-ameliyat-oldu",
-      "source": "patronlardunyasi.com",
-      "source_role": "publisher",
-      "source_domain": "patronlardunyasi.com",
-      "published_at": null,
-      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
-      "image_url": null,
-      "collected_at": "2026-11-27T16:52:51.478730+00:00",
+      "collected_at": "2026-11-27T21:34:32.143274+00:00",
       "status": "publisher_article_decoded_from_google_news",
       "discovery_source": "Google News Türkiye — Magazin gündemi",
       "also_reported_by": [],
       "source_articles": [
         {
-          "source": "patronlardunyasi.com",
-          "source_domain": "patronlardunyasi.com",
-          "url": "https://www.patronlardunyasi.com/talihsiz-kaza-oyuncu-cagla-demir-bodrumda-dusunce-ameliyat-oldu",
-          "title": "Talihsiz kaza, oyuncu Çağla Demir Bodrum’da düşünce ameliyat oldu"
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/gundem/unlulere-yonelik-uyusturucu-sorusturmasinda-3-isim-tutuklandi-43392662",
+          "title": "Ünlülere yönelik uyuşturucu soruşturmasında 3 isim tutuklandı"
         },
         {
-          "source": "muglagazetesi.com.tr",
-          "source_domain": "muglagazetesi.com.tr",
-          "url": "https://www.muglagazetesi.com.tr/bodrum-haberleri/oyuncu-cagla-demir-bodrumda-dustu-omzu-kirildi-ameliyat-oldu-224082h",
-          "title": "Oyuncu Çağla Demir Bodrum’da Düştü, Omzu Kırıldı, Ameliyat Oldu"
+          "source": "cumhuriyet.com.tr",
+          "source_domain": "cumhuriyet.com.tr",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/unlulere-yonelik-uyusturucu-sorusturmasinda-3-kisinin-testi-pozitif-12-kisinin-negatif-cikti-2560019",
+          "title": "Ünlülere yönelik ‘uyuşturucu’ soruşturmasında 3 kişinin testi pozitif, 12 kişinin negatif çıktı"
         }
       ],
       "publisher_domains": [
-        "muglagazetesi.com.tr",
-        "patronlardunyasi.com"
+        "cumhuriyet.com.tr",
+        "hurriyet.com.tr"
       ],
       "publisher_count": 2,
       "direct_article_count": 2,
@@ -255,24 +175,98 @@
       "source_page_check": {
         "reachable": true,
         "http_status": 200,
-        "page_title": "Talihsiz kaza, oyuncu Çağla Demir Bodrum’da düşünce ameliyat oldu - Patronlar Dünyası",
-        "og_title": "Talihsiz kaza, oyuncu Çağla Demir Bodrum’da düşünce ameliyat oldu - Patronlar Dünyası",
-        "description": "Medcezir, Kara Sevda, Çukur ve Yargı dizileriyle tanınan oyuncu Çağla Demir, Bodrum’da dengesini kaybedip düşmesi sonucu omzunu kırdı ve tendon yırtığı nedeniyle ameliyat edildi. Başarılı geçen operasyonun ardından sağlık durumunun iyi olduğunu duyurdu.",
+        "page_title": "Ünlülere yönelik ‘uyuşturucu’ soruşturmasında 3 kişinin testi pozitif, 12 kişinin negatif çıktı - Son Dakika Türkiye Haberleri | Cumhuriyet",
+        "og_title": "Ünlülere yönelik ‘uyuşturucu’ soruşturmasında 3 kişinin testi pozitif, 12 kişinin negatif çıktı",
+        "description": "Ünlülere yönelik yürütülen ‘uyuşturucu’ soruşturması kapsamında Adli Tıp Kurumu'nda test veren 21 şüpheliden 16'sının testi ortaya çıktı. 3 kişinin testinin pozitif olduğu belirlenirken, aralarında sanatçı Özcan Deniz ve Deniz Çakır'ın da bulunduğu 12 kişinin testi negatif çıktı. Cansu Taşkın'dan alınan örneklerde 'Kodein' maddesi tespit edildi.",
         "error": null
       },
       "independent_source_matches": [
         {
-          "source": "muglagazetesi.com.tr",
-          "source_domain": "muglagazetesi.com.tr",
-          "title": "Oyuncu Çağla Demir Bodrum’da Düştü, Omzu Kırıldı, Ameliyat Oldu",
+          "source": "hurriyet.com.tr",
+          "source_domain": "hurriyet.com.tr",
+          "title": "Ünlülere yönelik uyuşturucu soruşturmasında 3 isim tutuklandı",
           "summary": "",
-          "url": "https://www.muglagazetesi.com.tr/bodrum-haberleri/oyuncu-cagla-demir-bodrumda-dustu-omzu-kirildi-ameliyat-oldu-224082h",
-          "match_score": 0.64,
+          "url": "https://www.hurriyet.com.tr/gundem/unlulere-yonelik-uyusturucu-sorusturmasinda-3-isim-tutuklandi-43392662",
+          "match_score": 0.61,
           "shared_keywords": [
-            "ameliyat",
-            "bodrum",
-            "cagla",
-            "demir"
+            "nda",
+            "sorusturmas",
+            "unlulere",
+            "uyusturucu",
+            "yonelik"
+          ],
+          "match_basis": "title_and_context",
+          "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
+        }
+      ],
+      "verification_note": "Google News üzerinden bulunan yayıncı kapsamı manuel inceleme adaylarıdır; bunlar doğrulanmış haber veya bağımsız teyit değildir. Sayfa erişimi haberi doğrulamaz. Yayın öncesinde olayın bağlamı, kaynağın bağımsızlığı ve görsel kullanım hakkı ayrıca kontrol edilmelidir."
+    },
+    {
+      "title": "Oyuncu Kıvanç Kılınç: Barış pratikte toplumsal uzlaşıyla tabana yayılmalı",
+      "normalized_title": "oyuncu kivanc kilinc baris pratikte toplumsal uzlasiyla tabana yayilmali",
+      "url": "https://yeniyasamgazetesi10.com/oyuncu-kivanc-kilinc-baris-pratikte-toplumsal-uzlasiyla-tabana-yayilmali/",
+      "source": "yeniyasamgazetesi10.com",
+      "source_role": "publisher",
+      "source_domain": "yeniyasamgazetesi10.com",
+      "published_at": null,
+      "summary": "Yayıncı bağlantısı Google News bağlantı çözücüsüyle doğrudan URL olarak elde edildi.",
+      "image_url": null,
+      "collected_at": "2026-11-27T21:34:32.143793+00:00",
+      "status": "publisher_article_decoded_from_google_news",
+      "discovery_source": "Google News Türkiye — Magazin gündemi",
+      "also_reported_by": [],
+      "source_articles": [
+        {
+          "source": "yeniyasamgazetesi10.com",
+          "source_domain": "yeniyasamgazetesi10.com",
+          "url": "https://yeniyasamgazetesi10.com/oyuncu-kivanc-kilinc-baris-pratikte-toplumsal-uzlasiyla-tabana-yayilmali/",
+          "title": "Oyuncu Kıvanç Kılınç: Barış pratikte toplumsal uzlaşıyla tabana yayılmalı"
+        },
+        {
+          "source": "artigercek.com",
+          "source_domain": "artigercek.com",
+          "url": "https://artigercek.com/politika/kivanc-kilinc-baris-toplumsal-uzlasmayla-tabana-yayilmali-353176h",
+          "title": "Kıvanç Kılınç: Barış toplumsal uzlaşmayla tabana yayılmalı"
+        }
+      ],
+      "publisher_domains": [
+        "artigercek.com",
+        "yeniyasamgazetesi10.com"
+      ],
+      "publisher_count": 2,
+      "direct_article_count": 2,
+      "event_member_count": 2,
+      "discovery_item_count": 0,
+      "latest_published_at": null,
+      "age_hours": 48.0,
+      "popularity_score": 20.0,
+      "possible_syndication": false,
+      "verification_status": "publisher_coverage_candidates_need_manual_confirmation",
+      "publication_approved": false,
+      "coverage_label": "multi_publisher",
+      "source_page_check": {
+        "reachable": true,
+        "http_status": 200,
+        "page_title": "Oyuncu Kıvanç Kılınç: Barış pratikte toplumsal uzlaşıyla tabana yayılmalı – Yeni Yaşam Gazetesi | Yeni Yaşam",
+        "og_title": "Oyuncu Kıvanç Kılınç: Barış pratikte toplumsal uzlaşıyla tabana yayılmalı",
+        "description": "Oyuncu ve seslendirme sanatçısı Kıvanç Kılınç, kalıcı barış ve özgürlükler için herkesin elinden geleni yapması, barışın tabana yayılması gerektiğini söyledi",
+        "error": null
+      },
+      "independent_source_matches": [
+        {
+          "source": "artigercek.com",
+          "source_domain": "artigercek.com",
+          "title": "Kıvanç Kılınç: Barış toplumsal uzlaşmayla tabana yayılmalı",
+          "summary": "",
+          "url": "https://artigercek.com/politika/kivanc-kilinc-baris-toplumsal-uzlasmayla-tabana-yayilmali-353176h",
+          "match_score": 0.72,
+          "shared_keywords": [
+            "bar",
+            "lmal",
+            "tabana",
+            "toplumsal",
+            "vanc",
+            "yay"
           ],
           "match_basis": "title_and_context",
           "discovery_method": "Google News üzerinden bulunan yayıncı kapsamı; bağımsız doğrulama değildir"
